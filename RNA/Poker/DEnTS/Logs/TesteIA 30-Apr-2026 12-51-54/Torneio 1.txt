@@ -1,0 +1,5278 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Huchoefes: Smart
+Loerleelis: Call
+Deemewrev: Random
+Goerle: Smart
+Voebetry: Call
+Koe: AIMyBot1
+Gigike: Random
+
+Joins: Huchoefes, chips: 1000
+Joins: Loerleelis, chips: 1000
+Joins: Deemewrev, chips: 1000
+Joins: Goerle, chips: 1000
+Joins: Voebetry, chips: 1000
+Joins: Koe, chips: 1000
+Joins: Gigike, chips: 1000
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Voebetry, chips: 5
+Big Blind: Koe, chips: 10
+Raises: Gigike, chips: 20
+Calls: Huchoefes
+Calls: Loerleelis
+Calls: Deemewrev
+Folds: Goerle
+Calls: Voebetry
+Folds: Koe
+Flop: 8d 3d Qc
+Checks: Voebetry
+Checks: Gigike
+Checks: Huchoefes
+Checks: Loerleelis
+Raises: Deemewrev, chips: 20
+Calls: Voebetry
+Raises: Gigike, chips: 40
+Folds: Huchoefes
+Calls: Loerleelis
+Raises: Deemewrev, chips: 80
+Calls: Voebetry
+Calls: Gigike
+Calls: Loerleelis
+Turn: Qh
+Checks: Voebetry
+Raises: Gigike, chips: 80
+Calls: Loerleelis
+Folds: Deemewrev
+Calls: Voebetry
+River: 6h
+Checks: Voebetry
+Checks: Gigike
+Checks: Loerleelis
+Pot size: 960
+Showdown Reached
+Shows: Loerleelis, 7h Kd
+Combination: Loerleelis, Pair ( Qc Qh Kd 8d 7h )
+Shows: Voebetry, 3h Kc
+Combination: Voebetry, Two Pair ( Qc Qh 3h 3d Kc )
+Shows: Gigike, 3s 9s
+Combination: Gigike, Two Pair ( Qc Qh 3s 3d 9s )
+Wins: Voebetry, chips: 960
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Voebetry
+Small Blind: Koe, chips: 5
+Big Blind: Gigike, chips: 10
+Folds: Huchoefes
+Calls: Loerleelis
+Calls: Deemewrev
+Folds: Goerle
+Calls: Voebetry
+Raises: Koe, chips: 30
+Calls: Gigike
+Calls: Loerleelis
+Calls: Deemewrev
+Calls: Voebetry
+Flop: Jc 7s Th
+Raises: Koe, chips: 60
+Calls: Gigike
+Calls: Loerleelis
+Raises: Deemewrev, chips: 120
+Calls: Voebetry
+Raises: Koe, chips: 480
+Calls: Gigike
+Calls: Loerleelis
+Raises: Deemewrev, chips: 130
+Calls: Voebetry
+Calls: Koe
+Folds: Gigike
+Calls: Loerleelis
+Turn: 9c
+Raises: Koe, chips: 160
+Calls: Voebetry
+River: 5s
+Pot size: 4260
+Showdown Reached
+Shows: Loerleelis, Ts 6s
+Combination: Loerleelis, Pair ( Ts Th Jc 9c 7s )
+Shows: Deemewrev, 5c Ac
+Combination: Deemewrev, Pair ( 5c 5s Ac Jc Th )
+Shows: Voebetry, Kc 3c
+Combination: Voebetry, High Card ( Kc Jc Th 9c 7s )
+Shows: Koe, Ks 9d
+Combination: Koe, Pair ( 9d 9c Ks Jc Th )
+Wins: Loerleelis, chips: 3700
+Wins: Koe, chips: 560
+Quits: Deemewrev, chips: 0
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Koe
+Small Blind: Gigike, chips: 5
+Big Blind: Huchoefes, chips: 10
+Calls: Loerleelis
+Folds: Goerle
+Calls: Voebetry
+Folds: Koe
+Raises: Gigike, chips: 15
+Folds: Huchoefes
+Calls: Loerleelis
+Calls: Voebetry
+Flop: 8c 2c 5d
+Checks: Gigike
+Checks: Loerleelis
+Checks: Voebetry
+Turn: 4d
+Checks: Gigike
+Checks: Loerleelis
+Checks: Voebetry
+River: Ks
+Checks: Gigike
+Checks: Loerleelis
+Checks: Voebetry
+Pot size: 85
+Showdown Reached
+Shows: Loerleelis, 7d 2s
+Combination: Loerleelis, Pair ( 2s 2c Ks 8c 7d )
+Shows: Voebetry, 7s 5s
+Combination: Voebetry, Pair ( 5s 5d Ks 8c 7s )
+Shows: Gigike, 6h 8d
+Combination: Gigike, Pair ( 8d 8c Ks 6h 5d )
+Wins: Gigike, chips: 85
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gigike
+Small Blind: Huchoefes, chips: 5
+Big Blind: Loerleelis, chips: 10
+Calls: Goerle
+Calls: Voebetry
+Raises: Koe, chips: 40
+Calls: Gigike
+Folds: Huchoefes
+Calls: Loerleelis
+Folds: Goerle
+Calls: Voebetry
+Flop: Ah 9h 8h
+Checks: Loerleelis
+Checks: Voebetry
+Raises: Koe, chips: 80
+Calls: Gigike
+Calls: Loerleelis
+Calls: Voebetry
+Turn: Kh
+Checks: Loerleelis
+Checks: Voebetry
+Raises: Koe, chips: 160
+Calls: Loerleelis
+Calls: Voebetry
+River: 7s
+Checks: Loerleelis
+Checks: Voebetry
+Raises: Koe, chips: 270
+Calls: Loerleelis
+Calls: Voebetry
+Pot size: 1805
+Showdown Reached
+Shows: Loerleelis, Qd 7h
+Combination: Loerleelis, Flush ( Ah Kh 9h 8h 7h )
+Shows: Voebetry, 2h Jh
+Combination: Voebetry, Flush ( Ah Kh Jh 9h 8h )
+Shows: Koe, Jc 5c
+Combination: Koe, High Card ( Ah Kh Jc 9h 8h )
+Shows: Gigike, 3c 5s
+Combination: Gigike, High Card ( Ah Kh 9h 8h 7s )
+Wins: Voebetry, chips: 1805
+Quits: Koe, chips: 0
+Quits: Gigike, chips: 0
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Loerleelis, chips: 5
+Big Blind: Goerle, chips: 10
+Calls: Voebetry
+Folds: Huchoefes
+Calls: Loerleelis
+Checks: Goerle
+Flop: Kd 2c Ks
+Checks: Loerleelis
+Checks: Goerle
+Checks: Voebetry
+Turn: 9c
+Checks: Loerleelis
+Checks: Goerle
+Checks: Voebetry
+River: Td
+Checks: Loerleelis
+Checks: Goerle
+Checks: Voebetry
+Pot size: 30
+Showdown Reached
+Shows: Loerleelis, 2h Qs
+Combination: Loerleelis, Two Pair ( Kd Ks 2h 2c Qs )
+Shows: Goerle, 7c As
+Combination: Goerle, Pair ( Kd Ks As Td 9c )
+Shows: Voebetry, Tc Th
+Combination: Voebetry, Full House ( Tc Th Td Kd Ks )
+Wins: Voebetry, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Loerleelis
+Small Blind: Goerle, chips: 5
+Big Blind: Voebetry, chips: 10
+Folds: Huchoefes
+Calls: Loerleelis
+Folds: Goerle
+Checks: Voebetry
+Flop: 7s Tc Jd
+Checks: Voebetry
+Checks: Loerleelis
+Turn: Qd
+Checks: Voebetry
+Checks: Loerleelis
+River: 2s
+Checks: Voebetry
+Checks: Loerleelis
+Pot size: 25
+Showdown Reached
+Shows: Loerleelis, 8d 5h
+Combination: Loerleelis, High Card ( Qd Jd Tc 8d 7s )
+Shows: Voebetry, Kd 7d
+Combination: Voebetry, Pair ( 7d 7s Kd Qd Jd )
+Wins: Voebetry, chips: 25
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Voebetry, chips: 5
+Big Blind: Huchoefes, chips: 10
+Calls: Loerleelis
+Calls: Goerle
+Calls: Voebetry
+Checks: Huchoefes
+Flop: 5s 2h As
+Checks: Voebetry
+Checks: Huchoefes
+Checks: Loerleelis
+Checks: Goerle
+Turn: 2d
+Checks: Voebetry
+Checks: Huchoefes
+Checks: Loerleelis
+Checks: Goerle
+River: Jd
+Checks: Voebetry
+Checks: Huchoefes
+Checks: Loerleelis
+Checks: Goerle
+Pot size: 40
+Showdown Reached
+Shows: Huchoefes, 8c 3c
+Combination: Huchoefes, Pair ( 2h 2d As Jd 8c )
+Shows: Loerleelis, 6d 5c
+Combination: Loerleelis, Two Pair ( 5c 5s 2h 2d As )
+Shows: Goerle, 9c 9s
+Combination: Goerle, Two Pair ( 9c 9s 2h 2d As )
+Shows: Voebetry, 7s 9d
+Combination: Voebetry, Pair ( 2h 2d As Jd 9d )
+Wins: Goerle, chips: 40
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Voebetry
+Small Blind: Huchoefes, chips: 5
+Big Blind: Loerleelis, chips: 10
+Calls: Goerle
+Calls: Voebetry
+Folds: Huchoefes
+Checks: Loerleelis
+Flop: Ac 9s Jc
+Checks: Loerleelis
+Checks: Goerle
+Checks: Voebetry
+Turn: 9d
+Checks: Loerleelis
+Raises: Goerle, chips: 995
+Calls: Voebetry
+Calls: Loerleelis
+River: 5d
+Checks: Loerleelis
+Checks: Voebetry
+Pot size: 3020
+Showdown Reached
+Shows: Loerleelis, Ts Qc
+Combination: Loerleelis, Pair ( 9s 9d Ac Qc Jc )
+Shows: Goerle, 6h 9h
+Combination: Goerle, Three Of A Kind ( 9h 9s 9d Ac Jc )
+Shows: Voebetry, 6s 7c
+Combination: Voebetry, Pair ( 9s 9d Ac Jc 7c )
+Wins: Goerle, chips: 3020
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Loerleelis, chips: 5
+Big Blind: Goerle, chips: 10
+Calls: Voebetry
+Folds: Huchoefes
+Calls: Loerleelis
+Checks: Goerle
+Flop: Ks Jd Kc
+Checks: Loerleelis
+Checks: Goerle
+Checks: Voebetry
+Turn: Kd
+Checks: Loerleelis
+Checks: Goerle
+Checks: Voebetry
+River: Ac
+Checks: Loerleelis
+Checks: Goerle
+Checks: Voebetry
+Pot size: 30
+Showdown Reached
+Shows: Loerleelis, 3d Kh
+Combination: Loerleelis, Four Of A Kind ( Kh Ks Kc Kd Ac )
+Shows: Goerle, 7d Ah
+Combination: Goerle, Full House ( Ks Kc Kd Ah Ac )
+Shows: Voebetry, 4s 4c
+Combination: Voebetry, Full House ( Ks Kc Kd 4s 4c )
+Wins: Loerleelis, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Loerleelis
+Small Blind: Goerle, chips: 5
+Big Blind: Voebetry, chips: 10
+Folds: Huchoefes
+Calls: Loerleelis
+Calls: Goerle
+Checks: Voebetry
+Flop: 3d 5h Qh
+Checks: Goerle
+Checks: Voebetry
+Checks: Loerleelis
+Turn: Qc
+Checks: Goerle
+Checks: Voebetry
+Checks: Loerleelis
+River: 2h
+Checks: Goerle
+Checks: Voebetry
+Checks: Loerleelis
+Pot size: 30
+Showdown Reached
+Shows: Loerleelis, 3h Qs
+Combination: Loerleelis, Full House ( Qs Qh Qc 3h 3d )
+Shows: Goerle, 8c 6c
+Combination: Goerle, Pair ( Qh Qc 8c 6c 5h )
+Shows: Voebetry, 8h 3s
+Combination: Voebetry, Two Pair ( Qh Qc 3s 3d 8h )
+Wins: Loerleelis, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Voebetry, chips: 5
+Big Blind: Huchoefes, chips: 10
+Calls: Loerleelis
+Raises: Goerle, chips: 20
+Calls: Voebetry
+Folds: Huchoefes
+Calls: Loerleelis
+Flop: 7c 6h 5c
+Checks: Voebetry
+Checks: Loerleelis
+Checks: Goerle
+Turn: 9d
+Checks: Voebetry
+Checks: Loerleelis
+Checks: Goerle
+River: Td
+Checks: Voebetry
+Checks: Loerleelis
+Checks: Goerle
+Pot size: 100
+Showdown Reached
+Shows: Loerleelis, Qd 9h
+Combination: Loerleelis, Pair ( 9h 9d Qd Td 7c )
+Shows: Goerle, Qc Kd
+Combination: Goerle, High Card ( Kd Qc Td 9d 7c )
+Shows: Voebetry, Kh 2c
+Combination: Voebetry, High Card ( Kh Td 9d 7c 6h )
+Wins: Loerleelis, chips: 100
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Voebetry
+Small Blind: Huchoefes, chips: 5
+Big Blind: Loerleelis, chips: 10
+Calls: Goerle
+Calls: Voebetry
+Folds: Huchoefes
+Checks: Loerleelis
+Flop: 5d 2s Td
+Checks: Loerleelis
+Checks: Goerle
+Checks: Voebetry
+Turn: 3h
+Checks: Loerleelis
+Raises: Goerle, chips: 10
+Calls: Voebetry
+Calls: Loerleelis
+River: Jc
+Checks: Loerleelis
+Checks: Goerle
+Checks: Voebetry
+Pot size: 65
+Showdown Reached
+Shows: Loerleelis, 8s Jh
+Combination: Loerleelis, Pair ( Jh Jc Td 8s 5d )
+Shows: Goerle, 4d 4c
+Combination: Goerle, Pair ( 4d 4c Jc Td 5d )
+Shows: Voebetry, 9d 2h
+Combination: Voebetry, Pair ( 2h 2s Jc Td 9d )
+Wins: Loerleelis, chips: 65
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Loerleelis, chips: 5
+Big Blind: Goerle, chips: 10
+Calls: Voebetry
+Folds: Huchoefes
+Calls: Loerleelis
+Checks: Goerle
+Flop: As 7d Ac
+Checks: Loerleelis
+Checks: Goerle
+Checks: Voebetry
+Turn: Ks
+Checks: Loerleelis
+Checks: Goerle
+Checks: Voebetry
+River: 3s
+Checks: Loerleelis
+Checks: Goerle
+Checks: Voebetry
+Pot size: 30
+Showdown Reached
+Shows: Loerleelis, 8c 9h
+Combination: Loerleelis, Pair ( As Ac Ks 9h 8c )
+Shows: Goerle, Ts Qd
+Combination: Goerle, Pair ( As Ac Ks Qd Ts )
+Shows: Voebetry, Kh Tc
+Combination: Voebetry, Two Pair ( As Ac Kh Ks Tc )
+Wins: Voebetry, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Loerleelis
+Small Blind: Goerle, chips: 5
+Big Blind: Voebetry, chips: 10
+Calls: Huchoefes
+Calls: Loerleelis
+Calls: Goerle
+Checks: Voebetry
+Flop: 2d 7h 2c
+Checks: Goerle
+Checks: Voebetry
+Checks: Huchoefes
+Checks: Loerleelis
+Turn: 7s
+Checks: Goerle
+Checks: Voebetry
+Checks: Huchoefes
+Checks: Loerleelis
+River: Jc
+Checks: Goerle
+Checks: Voebetry
+Checks: Huchoefes
+Checks: Loerleelis
+Pot size: 40
+Showdown Reached
+Shows: Huchoefes, Qd 8d
+Combination: Huchoefes, Two Pair ( 7h 7s 2d 2c Qd )
+Shows: Loerleelis, 9c 8s
+Combination: Loerleelis, Two Pair ( 7h 7s 2d 2c Jc )
+Shows: Goerle, Jd Ts
+Combination: Goerle, Two Pair ( Jd Jc 7h 7s Ts )
+Shows: Voebetry, Kh Kd
+Combination: Voebetry, Two Pair ( Kh Kd 7h 7s Jc )
+Wins: Voebetry, chips: 40
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Voebetry, chips: 5
+Big Blind: Huchoefes, chips: 10
+Calls: Loerleelis
+Folds: Goerle
+Calls: Voebetry
+Checks: Huchoefes
+Flop: 4d 6h 9h
+Checks: Voebetry
+Checks: Huchoefes
+Checks: Loerleelis
+Turn: Ad
+Checks: Voebetry
+Checks: Huchoefes
+Checks: Loerleelis
+River: Kh
+Checks: Voebetry
+Checks: Huchoefes
+Checks: Loerleelis
+Pot size: 30
+Showdown Reached
+Shows: Huchoefes, Ks Js
+Combination: Huchoefes, Pair ( Ks Kh Ad Js 9h )
+Shows: Loerleelis, 5h 5s
+Combination: Loerleelis, Pair ( 5h 5s Ad Kh 9h )
+Shows: Voebetry, 6d 7d
+Combination: Voebetry, Pair ( 6d 6h Ad Kh 9h )
+Wins: Huchoefes, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Voebetry
+Small Blind: Huchoefes, chips: 5
+Big Blind: Loerleelis, chips: 10
+Calls: Goerle
+Calls: Voebetry
+Folds: Huchoefes
+Checks: Loerleelis
+Flop: Ac 8c Qs
+Checks: Loerleelis
+Checks: Goerle
+Checks: Voebetry
+Turn: 9c
+Checks: Loerleelis
+Checks: Goerle
+Checks: Voebetry
+River: Kd
+Checks: Loerleelis
+Checks: Goerle
+Checks: Voebetry
+Pot size: 35
+Showdown Reached
+Shows: Loerleelis, Td Tc
+Combination: Loerleelis, Pair ( Td Tc Ac Kd Qs )
+Shows: Goerle, Qd Jc
+Combination: Goerle, Pair ( Qd Qs Ac Kd Jc )
+Shows: Voebetry, 6c 8d
+Combination: Voebetry, Pair ( 8d 8c Ac Kd Qs )
+Wins: Goerle, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Loerleelis, chips: 5
+Big Blind: Goerle, chips: 10
+Calls: Voebetry
+Calls: Huchoefes
+Calls: Loerleelis
+Checks: Goerle
+Flop: 4c Jd 4h
+Checks: Loerleelis
+Raises: Goerle, chips: 2945
+Calls: Voebetry
+Folds: Huchoefes
+Calls: Loerleelis
+Turn: 9c
+River: 6h
+Pot size: 6080
+Showdown Reached
+Shows: Loerleelis, Jc Qd
+Combination: Loerleelis, Two Pair ( Jc Jd 4c 4h Qd )
+Shows: Goerle, Kd 4d
+Combination: Goerle, Three Of A Kind ( 4d 4c 4h Kd Jd )
+Shows: Voebetry, Ks 9s
+Combination: Voebetry, Two Pair ( 9s 9c 4c 4h Ks )
+Wins: Goerle, chips: 6080
+Quits: Loerleelis, chips: 0
+Quits: Voebetry, chips: 0
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Calls: Goerle
+Checks: Huchoefes
+Flop: 6s 2d 8h
+Checks: Huchoefes
+Checks: Goerle
+Turn: 7s
+Checks: Huchoefes
+Checks: Goerle
+River: Qs
+Checks: Huchoefes
+Raises: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 30
+Wins: Goerle, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Calls: Huchoefes
+Checks: Goerle
+Flop: Kc 8s Ts
+Raises: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 30
+Wins: Goerle, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Calls: Goerle
+Checks: Huchoefes
+Flop: Ac 7h Td
+Checks: Huchoefes
+Checks: Goerle
+Turn: Jh
+Checks: Huchoefes
+Checks: Goerle
+River: Ks
+Raises: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 30
+Wins: Huchoefes, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 15
+Wins: Goerle, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Calls: Goerle
+Checks: Huchoefes
+Flop: 5d Qd Jc
+Checks: Huchoefes
+Checks: Goerle
+Turn: Jd
+Checks: Huchoefes
+Checks: Goerle
+River: 7s
+Checks: Huchoefes
+Checks: Goerle
+Pot size: 20
+Showdown Reached
+Shows: Huchoefes, 3s 6h
+Combination: Huchoefes, Pair ( Jc Jd Qd 7s 6h )
+Shows: Goerle, Th Ts
+Combination: Goerle, Two Pair ( Jc Jd Th Ts Qd )
+Wins: Goerle, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Calls: Huchoefes
+Checks: Goerle
+Flop: 6c 5s Ks
+Checks: Goerle
+Checks: Huchoefes
+Turn: Ac
+Checks: Goerle
+Checks: Huchoefes
+River: 5h
+Checks: Goerle
+Checks: Huchoefes
+Pot size: 20
+Showdown Reached
+Shows: Huchoefes, Kc Tc
+Combination: Huchoefes, Two Pair ( Kc Ks 5s 5h Ac )
+Shows: Goerle, 9h 3c
+Combination: Goerle, Pair ( 5s 5h Ac Ks 9h )
+Wins: Huchoefes, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Calls: Goerle
+Checks: Huchoefes
+Flop: Ac Qh 9c
+Checks: Huchoefes
+Checks: Goerle
+Turn: 5h
+Checks: Huchoefes
+Raises: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 30
+Wins: Goerle, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Calls: Huchoefes
+Checks: Goerle
+Flop: 9c Qc 6h
+Raises: Goerle, chips: 10
+Calls: Huchoefes
+Turn: 6d
+Checks: Goerle
+Checks: Huchoefes
+River: As
+Raises: Goerle, chips: 6085
+Folds: Huchoefes
+Pot size: 6125
+Wins: Goerle, chips: 6125
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 15
+Wins: Huchoefes, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Raises: Huchoefes, chips: 15
+Folds: Goerle
+Pot size: 35
+Wins: Huchoefes, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 15
+Wins: Huchoefes, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Calls: Huchoefes
+Checks: Goerle
+Flop: 4d 7s 9h
+Checks: Goerle
+Raises: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 30
+Wins: Huchoefes, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 15
+Wins: Huchoefes, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Calls: Huchoefes
+Raises: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 30
+Wins: Goerle, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 15
+Wins: Huchoefes, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 15
+Wins: Goerle, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 15
+Wins: Huchoefes, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 15
+Wins: Goerle, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 15
+Wins: Huchoefes, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 15
+Wins: Goerle, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Calls: Goerle
+Checks: Huchoefes
+Flop: Qs Jd 4h
+Checks: Huchoefes
+Checks: Goerle
+Turn: Ks
+Checks: Huchoefes
+Checks: Goerle
+River: Tc
+Raises: Huchoefes, chips: 10
+Calls: Goerle
+Pot size: 40
+Showdown Reached
+Shows: Huchoefes, As 7h
+Combination: Huchoefes, Straight ( As Ks Qs Jd Tc )
+Shows: Goerle, 8c Qc
+Combination: Goerle, Pair ( Qc Qs Ks Jd Tc )
+Wins: Huchoefes, chips: 40
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Calls: Huchoefes
+Checks: Goerle
+Flop: 8c 5s 9h
+Checks: Goerle
+Checks: Huchoefes
+Turn: Ah
+Checks: Goerle
+Checks: Huchoefes
+River: 4d
+Checks: Goerle
+Raises: Huchoefes, chips: 10
+Calls: Goerle
+Pot size: 40
+Showdown Reached
+Shows: Huchoefes, 3d 2d
+Combination: Huchoefes, Straight ( 5s 4d 3d 2d Ah )
+Shows: Goerle, Kd 4h
+Combination: Goerle, Pair ( 4h 4d Ah Kd 9h )
+Wins: Huchoefes, chips: 40
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 15
+Wins: Huchoefes, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Calls: Huchoefes
+Checks: Goerle
+Flop: Kh Kd 5d
+Raises: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 30
+Wins: Goerle, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 15
+Wins: Huchoefes, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 15
+Wins: Goerle, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 15
+Wins: Huchoefes, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 15
+Wins: Goerle, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Calls: Goerle
+Checks: Huchoefes
+Flop: 5s 2c 5c
+Checks: Huchoefes
+Checks: Goerle
+Turn: Kc
+Checks: Huchoefes
+Checks: Goerle
+River: 7d
+Raises: Huchoefes, chips: 10
+Calls: Goerle
+Pot size: 40
+Showdown Reached
+Shows: Huchoefes, Ah Qs
+Combination: Huchoefes, Pair ( 5s 5c Ah Kc Qs )
+Shows: Goerle, Ts Tc
+Combination: Goerle, Two Pair ( Ts Tc 5s 5c Kc )
+Wins: Goerle, chips: 40
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 15
+Wins: Goerle, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Calls: Goerle
+Checks: Huchoefes
+Flop: 5c 3c 3d
+Checks: Huchoefes
+Checks: Goerle
+Turn: Ks
+Raises: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 30
+Wins: Huchoefes, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Calls: Huchoefes
+Checks: Goerle
+Flop: Js 2s 4c
+Checks: Goerle
+Checks: Huchoefes
+Turn: 5d
+Raises: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 30
+Wins: Goerle, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Calls: Goerle
+Checks: Huchoefes
+Flop: 2h 5s 2s
+Checks: Huchoefes
+Checks: Goerle
+Turn: 7c
+Raises: Huchoefes, chips: 10
+Calls: Goerle
+River: 9c
+Checks: Huchoefes
+Checks: Goerle
+Pot size: 40
+Showdown Reached
+Shows: Huchoefes, Ah 8d
+Combination: Huchoefes, Pair ( 2h 2s Ah 9c 8d )
+Shows: Goerle, 7s 6c
+Combination: Goerle, Two Pair ( 7s 7c 2h 2s 9c )
+Wins: Goerle, chips: 40
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 15
+Wins: Goerle, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Calls: Goerle
+Checks: Huchoefes
+Flop: 5s 4h 6h
+Checks: Huchoefes
+Checks: Goerle
+Turn: 5d
+Raises: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 30
+Wins: Huchoefes, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Calls: Huchoefes
+Checks: Goerle
+Flop: 2h 5s 3d
+Checks: Goerle
+Checks: Huchoefes
+Turn: 8h
+Checks: Goerle
+Checks: Huchoefes
+River: Jc
+Checks: Goerle
+Checks: Huchoefes
+Pot size: 20
+Showdown Reached
+Shows: Huchoefes, Qc Ad
+Combination: Huchoefes, High Card ( Ad Qc Jc 8h 5s )
+Shows: Goerle, Kc 7h
+Combination: Goerle, High Card ( Kc Jc 8h 7h 5s )
+Wins: Huchoefes, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Calls: Goerle
+Checks: Huchoefes
+Flop: 7s 9h Ac
+Checks: Huchoefes
+Checks: Goerle
+Turn: 9c
+Checks: Huchoefes
+Checks: Goerle
+River: 4h
+Checks: Huchoefes
+Checks: Goerle
+Pot size: 20
+Showdown Reached
+Shows: Huchoefes, 4d 7d
+Combination: Huchoefes, Two Pair ( 9h 9c 7d 7s Ac )
+Shows: Goerle, 4c 2c
+Combination: Goerle, Two Pair ( 9h 9c 4c 4h Ac )
+Wins: Huchoefes, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 15
+Wins: Goerle, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Calls: Goerle
+Checks: Huchoefes
+Flop: Td Ah Jc
+Checks: Huchoefes
+Checks: Goerle
+Turn: As
+Checks: Huchoefes
+Checks: Goerle
+River: 8c
+Checks: Huchoefes
+Checks: Goerle
+Pot size: 20
+Showdown Reached
+Shows: Huchoefes, 5h 4h
+Combination: Huchoefes, Pair ( Ah As Jc Td 8c )
+Shows: Goerle, Tc Qc
+Combination: Goerle, Two Pair ( Ah As Tc Td Qc )
+Wins: Goerle, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 15
+Wins: Goerle, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Calls: Goerle
+Raises: Huchoefes, chips: 10
+Calls: Goerle
+Flop: 5s Jd 7d
+Checks: Huchoefes
+Raises: Goerle, chips: 10
+Raises: Huchoefes, chips: 20
+Raises: Goerle, chips: 40
+Calls: Huchoefes
+Turn: Kh
+Raises: Huchoefes, chips: 805
+Calls: Goerle
+River: 8h
+Pot size: 1790
+Showdown Reached
+Shows: Huchoefes, Kc Qh
+Combination: Huchoefes, Pair ( Kc Kh Qh Jd 8h )
+Shows: Goerle, 7h 9h
+Combination: Goerle, Pair ( 7h 7d Kh Jd 9h )
+Wins: Huchoefes, chips: 1790
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Calls: Huchoefes
+Checks: Goerle
+Flop: Jd Qh 8s
+Checks: Goerle
+Raises: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 30
+Wins: Huchoefes, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 15
+Wins: Huchoefes, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Raises: Huchoefes, chips: 15
+Folds: Goerle
+Pot size: 35
+Wins: Huchoefes, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 15
+Wins: Huchoefes, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 15
+Wins: Goerle, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 15
+Wins: Huchoefes, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Calls: Huchoefes
+Checks: Goerle
+Flop: 7c 3c 8h
+Checks: Goerle
+Checks: Huchoefes
+Turn: Kc
+Checks: Goerle
+Raises: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 30
+Wins: Huchoefes, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Calls: Goerle
+Checks: Huchoefes
+Flop: 7s 7d 4h
+Checks: Huchoefes
+Checks: Goerle
+Turn: 5s
+Checks: Huchoefes
+Checks: Goerle
+River: 2s
+Raises: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 30
+Wins: Huchoefes, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Raises: Huchoefes, chips: 15
+Folds: Goerle
+Pot size: 35
+Wins: Huchoefes, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 15
+Wins: Huchoefes, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 15
+Wins: Goerle, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 15
+Wins: Huchoefes, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Calls: Huchoefes
+Raises: Goerle, chips: 10
+Raises: Huchoefes, chips: 10
+Raises: Goerle, chips: 10
+Raises: Huchoefes, chips: 20
+Raises: Goerle, chips: 20
+Calls: Huchoefes
+Flop: 8d Kc 6d
+Checks: Goerle
+Raises: Huchoefes, chips: 30
+Calls: Goerle
+Turn: 4s
+Checks: Goerle
+Raises: Huchoefes, chips: 1745
+Folds: Goerle
+Pot size: 1965
+Wins: Huchoefes, chips: 1965
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 15
+Wins: Huchoefes, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 15
+Wins: Goerle, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 15
+Wins: Huchoefes, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 15
+Wins: Goerle, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Calls: Goerle
+Checks: Huchoefes
+Flop: 7d 2h Kh
+Raises: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 30
+Wins: Huchoefes, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Calls: Huchoefes
+Checks: Goerle
+Flop: Jc As 7s
+Checks: Goerle
+Raises: Huchoefes, chips: 1965
+Folds: Goerle
+Pot size: 1985
+Wins: Huchoefes, chips: 1985
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Calls: Goerle
+Raises: Huchoefes, chips: 10
+Calls: Goerle
+Flop: Qs 2d 2h
+Checks: Huchoefes
+Checks: Goerle
+Turn: 4d
+Checks: Huchoefes
+Checks: Goerle
+River: 8d
+Checks: Huchoefes
+Checks: Goerle
+Pot size: 40
+Showdown Reached
+Shows: Huchoefes, Tc Jh
+Combination: Huchoefes, Pair ( 2d 2h Qs Jh Tc )
+Shows: Goerle, Td Jc
+Combination: Goerle, Pair ( 2d 2h Qs Jc Td )
+Wins: Huchoefes, chips: 20
+Wins: Goerle, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Calls: Huchoefes
+Checks: Goerle
+Flop: Kh Kc 4c
+Checks: Goerle
+Raises: Huchoefes, chips: 10
+Calls: Goerle
+Turn: 6c
+Checks: Goerle
+Raises: Huchoefes, chips: 10
+Calls: Goerle
+River: 5h
+Checks: Goerle
+Checks: Huchoefes
+Pot size: 60
+Showdown Reached
+Shows: Huchoefes, 2h 2s
+Combination: Huchoefes, Two Pair ( Kh Kc 2h 2s 6c )
+Shows: Goerle, Qs 3c
+Combination: Goerle, Pair ( Kh Kc Qs 6c 5h )
+Wins: Huchoefes, chips: 60
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 15
+Wins: Huchoefes, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 15
+Wins: Goerle, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Calls: Goerle
+Checks: Huchoefes
+Flop: 8d 9c Js
+Checks: Huchoefes
+Checks: Goerle
+Turn: Kd
+Checks: Huchoefes
+Checks: Goerle
+River: Jh
+Checks: Huchoefes
+Checks: Goerle
+Pot size: 20
+Showdown Reached
+Shows: Huchoefes, Kc 3d
+Combination: Huchoefes, Two Pair ( Kc Kd Js Jh 9c )
+Shows: Goerle, 4h 4c
+Combination: Goerle, Two Pair ( Js Jh 4h 4c Kd )
+Wins: Huchoefes, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 15
+Wins: Goerle, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Raises: Goerle, chips: 15
+Folds: Huchoefes
+Pot size: 35
+Wins: Goerle, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 15
+Wins: Goerle, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 15
+Wins: Huchoefes, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Calls: Huchoefes
+Checks: Goerle
+Flop: Jh 7h 2s
+Checks: Goerle
+Raises: Huchoefes, chips: 10
+Calls: Goerle
+Turn: 2d
+Checks: Goerle
+Raises: Huchoefes, chips: 10
+Calls: Goerle
+River: 6s
+Checks: Goerle
+Raises: Huchoefes, chips: 1980
+Folds: Goerle
+Pot size: 2040
+Wins: Huchoefes, chips: 2040
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 15
+Wins: Huchoefes, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 15
+Wins: Goerle, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Calls: Goerle
+Raises: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 30
+Wins: Huchoefes, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Calls: Huchoefes
+Checks: Goerle
+Flop: 8s 9h 8c
+Checks: Goerle
+Checks: Huchoefes
+Turn: Ad
+Checks: Goerle
+Checks: Huchoefes
+River: 6s
+Checks: Goerle
+Checks: Huchoefes
+Pot size: 20
+Showdown Reached
+Shows: Huchoefes, 4d 3d
+Combination: Huchoefes, Pair ( 8s 8c Ad 9h 6s )
+Shows: Goerle, 3h 5c
+Combination: Goerle, Pair ( 8s 8c Ad 9h 6s )
+Wins: Huchoefes, chips: 10
+Wins: Goerle, chips: 10
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Raises: Goerle, chips: 15
+Folds: Huchoefes
+Pot size: 35
+Wins: Goerle, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Calls: Huchoefes
+Checks: Goerle
+Flop: 6h Qd 2d
+Checks: Goerle
+Checks: Huchoefes
+Turn: Kc
+Checks: Goerle
+Checks: Huchoefes
+River: 9s
+Checks: Goerle
+Checks: Huchoefes
+Pot size: 20
+Showdown Reached
+Shows: Huchoefes, 9h 8h
+Combination: Huchoefes, Pair ( 9h 9s Kc Qd 8h )
+Shows: Goerle, 5d Tc
+Combination: Goerle, High Card ( Kc Qd Tc 9s 6h )
+Wins: Huchoefes, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Calls: Goerle
+Checks: Huchoefes
+Flop: Jc 2c Ad
+Checks: Huchoefes
+Checks: Goerle
+Turn: Qh
+Checks: Huchoefes
+Checks: Goerle
+River: Ts
+Checks: Huchoefes
+Checks: Goerle
+Pot size: 20
+Showdown Reached
+Shows: Huchoefes, 9h As
+Combination: Huchoefes, Pair ( As Ad Qh Jc Ts )
+Shows: Goerle, 9s 6s
+Combination: Goerle, High Card ( Ad Qh Jc Ts 9s )
+Wins: Huchoefes, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 15
+Wins: Goerle, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 15
+Wins: Huchoefes, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 15
+Wins: Goerle, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 15
+Wins: Huchoefes, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 15
+Wins: Goerle, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 15
+Wins: Huchoefes, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 15
+Wins: Goerle, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 15
+Wins: Huchoefes, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 15
+Wins: Goerle, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 15
+Wins: Huchoefes, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 15
+Wins: Goerle, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Calls: Goerle
+Checks: Huchoefes
+Flop: 6h 8c 3h
+Checks: Huchoefes
+Checks: Goerle
+Turn: 5h
+Raises: Huchoefes, chips: 10
+Raises: Goerle, chips: 4925
+Folds: Huchoefes
+Pot size: 4965
+Wins: Goerle, chips: 4965
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 15
+Wins: Goerle, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 15
+Wins: Huchoefes, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Calls: Huchoefes
+Checks: Goerle
+Flop: 5h 4d Jh
+Checks: Goerle
+Checks: Huchoefes
+Turn: Ad
+Checks: Goerle
+Raises: Huchoefes, chips: 2025
+Folds: Goerle
+Pot size: 2045
+Wins: Huchoefes, chips: 2045
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Calls: Goerle
+Checks: Huchoefes
+Flop: Kh Jh 3s
+Checks: Huchoefes
+Checks: Goerle
+Turn: 5d
+Checks: Huchoefes
+Raises: Goerle, chips: 4945
+Folds: Huchoefes
+Pot size: 4965
+Wins: Goerle, chips: 4965
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 15
+Wins: Goerle, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 15
+Wins: Huchoefes, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Raises: Huchoefes, chips: 15
+Raises: Goerle, chips: 25
+Raises: Huchoefes, chips: 65
+Calls: Goerle
+Flop: 3d Th 8s
+Checks: Goerle
+DEBUG MESSAGE: INVALID ACTION FROM Huchoefes (2 0)
+Folds: Huchoefes
+Pot size: 230
+Wins: Goerle, chips: 230
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 15
+Wins: Huchoefes, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 15
+Wins: Goerle, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Calls: Goerle
+Raises: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 30
+Wins: Huchoefes, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 15
+Wins: Goerle, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Calls: Goerle
+Checks: Huchoefes
+Flop: Ks As Jh
+Checks: Huchoefes
+Checks: Goerle
+Turn: 2h
+Checks: Huchoefes
+Checks: Goerle
+River: 8s
+Raises: Huchoefes, chips: 10
+Calls: Goerle
+Pot size: 40
+Showdown Reached
+Shows: Huchoefes, Kc 2s
+Combination: Huchoefes, Two Pair ( Kc Ks 2s 2h As )
+Shows: Goerle, 5h 5c
+Combination: Goerle, Pair ( 5h 5c As Ks Jh )
+Wins: Huchoefes, chips: 40
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 15
+Wins: Goerle, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 15
+Wins: Huchoefes, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 15
+Wins: Goerle, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 15
+Wins: Huchoefes, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 15
+Wins: Goerle, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 15
+Wins: Huchoefes, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Calls: Huchoefes
+Checks: Goerle
+Flop: 4s 3h 2c
+Checks: Goerle
+Raises: Huchoefes, chips: 10
+Calls: Goerle
+Turn: 5s
+Checks: Goerle
+Checks: Huchoefes
+River: 9s
+Checks: Goerle
+Checks: Huchoefes
+Pot size: 40
+Showdown Reached
+Shows: Huchoefes, Tc Ac
+Combination: Huchoefes, Straight ( 5s 4s 3h 2c Ac )
+Shows: Goerle, Ah 2h
+Combination: Goerle, Straight ( 5s 4s 3h 2h Ah )
+Wins: Huchoefes, chips: 20
+Wins: Goerle, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 15
+Wins: Huchoefes, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 15
+Wins: Goerle, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 15
+Wins: Huchoefes, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Calls: Huchoefes
+Raises: Goerle, chips: 10
+Calls: Huchoefes
+Flop: Js 7s Ac
+Checks: Goerle
+Checks: Huchoefes
+Turn: 9c
+Checks: Goerle
+Checks: Huchoefes
+River: 2d
+Checks: Goerle
+Checks: Huchoefes
+Pot size: 40
+Showdown Reached
+Shows: Huchoefes, 9d Qd
+Combination: Huchoefes, Pair ( 9d 9c Ac Qd Js )
+Shows: Goerle, Kd Ks
+Combination: Goerle, Pair ( Kd Ks Ac Js 9c )
+Wins: Goerle, chips: 40
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 15
+Wins: Huchoefes, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Calls: Huchoefes
+Raises: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 30
+Wins: Goerle, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 15
+Wins: Huchoefes, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 15
+Wins: Goerle, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Calls: Goerle
+Checks: Huchoefes
+Flop: Qd Jh 8s
+Checks: Huchoefes
+Checks: Goerle
+Turn: Kc
+Checks: Huchoefes
+Checks: Goerle
+River: Ac
+Checks: Huchoefes
+Checks: Goerle
+Pot size: 20
+Showdown Reached
+Shows: Huchoefes, Ts 4s
+Combination: Huchoefes, Straight ( Ac Kc Qd Jh Ts )
+Shows: Goerle, Ah 9d
+Combination: Goerle, Pair ( Ah Ac Kc Qd Jh )
+Wins: Huchoefes, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 15
+Wins: Goerle, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 15
+Wins: Huchoefes, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 15
+Wins: Goerle, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 15
+Wins: Huchoefes, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Calls: Huchoefes
+Checks: Goerle
+Flop: 3s Qs 5d
+Checks: Goerle
+Checks: Huchoefes
+Turn: 6h
+Checks: Goerle
+Checks: Huchoefes
+River: Qc
+Checks: Goerle
+Checks: Huchoefes
+Pot size: 20
+Showdown Reached
+Shows: Huchoefes, 3c Kc
+Combination: Huchoefes, Two Pair ( Qs Qc 3c 3s Kc )
+Shows: Goerle, Ts Ah
+Combination: Goerle, Pair ( Qs Qc Ah Ts 6h )
+Wins: Huchoefes, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 15
+Wins: Huchoefes, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 15
+Wins: Goerle, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Raises: Goerle, chips: 15
+Folds: Huchoefes
+Pot size: 35
+Wins: Goerle, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 15
+Wins: Goerle, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Raises: Goerle, chips: 15
+Folds: Huchoefes
+Pot size: 35
+Wins: Goerle, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Calls: Huchoefes
+Checks: Goerle
+Flop: Jh 5d Ts
+Checks: Goerle
+Checks: Huchoefes
+Turn: 7d
+Checks: Goerle
+Checks: Huchoefes
+River: 9c
+Raises: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 30
+Wins: Goerle, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 15
+Wins: Huchoefes, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 15
+Wins: Goerle, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 15
+Wins: Huchoefes, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Raises: Huchoefes, chips: 15
+Folds: Goerle
+Pot size: 35
+Wins: Huchoefes, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 15
+Wins: Huchoefes, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Calls: Huchoefes
+Checks: Goerle
+Flop: Qd Kd As
+Checks: Goerle
+Checks: Huchoefes
+Turn: Th
+Checks: Goerle
+Raises: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 30
+Wins: Huchoefes, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Calls: Goerle
+Checks: Huchoefes
+Flop: 9h Kh 6c
+Raises: Huchoefes, chips: 1930
+Folds: Goerle
+Pot size: 1950
+Wins: Huchoefes, chips: 1950
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Calls: Huchoefes
+Checks: Goerle
+Flop: 9s Ah As
+Checks: Goerle
+Checks: Huchoefes
+Turn: 2c
+Checks: Goerle
+Checks: Huchoefes
+River: 7h
+Checks: Goerle
+Checks: Huchoefes
+Pot size: 20
+Showdown Reached
+Shows: Huchoefes, 4s 5d
+Combination: Huchoefes, Pair ( Ah As 9s 7h 5d )
+Shows: Goerle, 8s 5s
+Combination: Goerle, Pair ( Ah As 9s 8s 7h )
+Wins: Goerle, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 15
+Wins: Huchoefes, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 15
+Wins: Goerle, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Calls: Goerle
+Checks: Huchoefes
+Flop: Qs 2c As
+Checks: Huchoefes
+Checks: Goerle
+Turn: Jh
+Checks: Huchoefes
+Raises: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 30
+Wins: Goerle, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 15
+Wins: Goerle, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Calls: Goerle
+Checks: Huchoefes
+Flop: Ah 3c 2h
+Raises: Huchoefes, chips: 10
+Calls: Goerle
+Turn: 2s
+Checks: Huchoefes
+Checks: Goerle
+River: Ad
+Checks: Huchoefes
+Checks: Goerle
+Pot size: 40
+Showdown Reached
+Shows: Huchoefes, 7d 3s
+Combination: Huchoefes, Two Pair ( Ah Ad 3s 3c 7d )
+Shows: Goerle, Ac 6c
+Combination: Goerle, Full House ( Ac Ah Ad 2h 2s )
+Wins: Goerle, chips: 40
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 15
+Wins: Goerle, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 15
+Wins: Huchoefes, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Calls: Huchoefes
+Checks: Goerle
+Flop: Tc 5d 6c
+Checks: Goerle
+Checks: Huchoefes
+Turn: 7h
+Checks: Goerle
+Checks: Huchoefes
+River: 8d
+Checks: Goerle
+Checks: Huchoefes
+Pot size: 20
+Showdown Reached
+Shows: Huchoefes, 4h 4c
+Combination: Huchoefes, Straight ( 8d 7h 6c 5d 4h )
+Shows: Goerle, Jc 2d
+Combination: Goerle, High Card ( Jc Tc 8d 7h 6c )
+Wins: Huchoefes, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 15
+Wins: Huchoefes, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 15
+Wins: Goerle, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 15
+Wins: Huchoefes, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Raises: Huchoefes, chips: 15
+Folds: Goerle
+Pot size: 35
+Wins: Huchoefes, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Calls: Goerle
+Checks: Huchoefes
+Flop: Qc 6s 5c
+Checks: Huchoefes
+Raises: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 30
+Wins: Goerle, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 15
+Wins: Goerle, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 15
+Wins: Huchoefes, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 15
+Wins: Goerle, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 15
+Wins: Huchoefes, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 15
+Wins: Goerle, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 15
+Wins: Huchoefes, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Calls: Huchoefes
+Checks: Goerle
+Flop: 2d Tc 8c
+Checks: Goerle
+Checks: Huchoefes
+Turn: Td
+Checks: Goerle
+Checks: Huchoefes
+River: Jh
+Checks: Goerle
+Checks: Huchoefes
+Pot size: 20
+Showdown Reached
+Shows: Huchoefes, 7s 6s
+Combination: Huchoefes, Pair ( Tc Td Jh 8c 7s )
+Shows: Goerle, 8d 3d
+Combination: Goerle, Two Pair ( Tc Td 8d 8c Jh )
+Wins: Goerle, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 15
+Wins: Huchoefes, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 15
+Wins: Goerle, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Raises: Goerle, chips: 15
+Raises: Huchoefes, chips: 15
+Calls: Goerle
+Flop: 3d Ac 8s
+Checks: Huchoefes
+Checks: Goerle
+Turn: Kd
+Checks: Huchoefes
+Checks: Goerle
+River: As
+Checks: Huchoefes
+Checks: Goerle
+Pot size: 80
+Showdown Reached
+Shows: Huchoefes, 7h 5h
+Combination: Huchoefes, Pair ( Ac As Kd 8s 7h )
+Shows: Goerle, 6s 5s
+Combination: Goerle, Pair ( Ac As Kd 8s 6s )
+Wins: Huchoefes, chips: 80
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Calls: Huchoefes
+Checks: Goerle
+Flop: 3s 2s 2c
+Checks: Goerle
+Raises: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 30
+Wins: Huchoefes, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 15
+Wins: Huchoefes, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Calls: Huchoefes
+Checks: Goerle
+Flop: Ad Qd Qs
+Checks: Goerle
+Raises: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 30
+Wins: Huchoefes, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Calls: Goerle
+Checks: Huchoefes
+Flop: Td 6c Ah
+Checks: Huchoefes
+Raises: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 30
+Wins: Goerle, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 15
+Wins: Goerle, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Calls: Goerle
+Checks: Huchoefes
+Flop: 6c 5d Kc
+Checks: Huchoefes
+Checks: Goerle
+Turn: 2c
+Checks: Huchoefes
+Raises: Goerle, chips: 10
+Raises: Huchoefes, chips: 20
+Calls: Goerle
+River: Jh
+Raises: Huchoefes, chips: 30
+Raises: Goerle, chips: 60
+Calls: Huchoefes
+Pot size: 260
+Showdown Reached
+Shows: Huchoefes, Qc Qd
+Combination: Huchoefes, Pair ( Qc Qd Kc Jh 6c )
+Shows: Goerle, 6s 8s
+Combination: Goerle, Pair ( 6s 6c Kc Jh 8s )
+Wins: Huchoefes, chips: 260
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 15
+Wins: Goerle, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 15
+Wins: Huchoefes, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Calls: Huchoefes
+Checks: Goerle
+Flop: 7d 4d 3h
+Raises: Goerle, chips: 4900
+Folds: Huchoefes
+Pot size: 4920
+Wins: Goerle, chips: 4920
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 15
+Wins: Huchoefes, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 15
+Wins: Goerle, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 15
+Wins: Huchoefes, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 15
+Wins: Goerle, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 15
+Wins: Huchoefes, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 15
+Wins: Goerle, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Calls: Goerle
+Checks: Huchoefes
+Flop: 4s 3d 5s
+Checks: Huchoefes
+Checks: Goerle
+Turn: 9s
+Checks: Huchoefes
+Checks: Goerle
+River: 6h
+Checks: Huchoefes
+Checks: Goerle
+Pot size: 20
+Showdown Reached
+Shows: Huchoefes, Jc 2h
+Combination: Huchoefes, Straight ( 6h 5s 4s 3d 2h )
+Shows: Goerle, As 9h
+Combination: Goerle, Pair ( 9h 9s As 6h 5s )
+Wins: Huchoefes, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Calls: Huchoefes
+Checks: Goerle
+Flop: 4h 6s 8s
+Checks: Goerle
+Checks: Huchoefes
+Turn: 7d
+Checks: Goerle
+Checks: Huchoefes
+River: Tc
+Checks: Goerle
+Checks: Huchoefes
+Pot size: 20
+Showdown Reached
+Shows: Huchoefes, 6d 7c
+Combination: Huchoefes, Two Pair ( 7c 7d 6d 6s Tc )
+Shows: Goerle, 2h 2c
+Combination: Goerle, Pair ( 2h 2c Tc 8s 7d )
+Wins: Huchoefes, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 15
+Wins: Huchoefes, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Calls: Huchoefes
+Checks: Goerle
+Flop: 6s Th 7d
+Checks: Goerle
+Checks: Huchoefes
+Turn: 8d
+Checks: Goerle
+Raises: Huchoefes, chips: 10
+Calls: Goerle
+River: 4h
+Raises: Goerle, chips: 10
+Calls: Huchoefes
+Pot size: 60
+Showdown Reached
+Shows: Huchoefes, Jc Jh
+Combination: Huchoefes, Pair ( Jc Jh Th 8d 7d )
+Shows: Goerle, 9s 3d
+Combination: Goerle, Straight ( Th 9s 8d 7d 6s )
+Wins: Goerle, chips: 60
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Calls: Goerle
+Checks: Huchoefes
+Flop: 4d 3d Ts
+Checks: Huchoefes
+Checks: Goerle
+Turn: 5d
+Raises: Huchoefes, chips: 10
+Raises: Goerle, chips: 20
+Calls: Huchoefes
+River: 9c
+Checks: Huchoefes
+Checks: Goerle
+Pot size: 80
+Showdown Reached
+Shows: Huchoefes, 3s Kd
+Combination: Huchoefes, Pair ( 3s 3d Kd Ts 9c )
+Shows: Goerle, Th Ac
+Combination: Goerle, Pair ( Th Ts Ac 9c 5d )
+Wins: Goerle, chips: 80
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Calls: Huchoefes
+Raises: Goerle, chips: 10
+Raises: Huchoefes, chips: 20
+Calls: Goerle
+Flop: Qd 8h 7c
+Raises: Goerle, chips: 30
+Calls: Huchoefes
+Turn: 6d
+Checks: Goerle
+Checks: Huchoefes
+River: Ac
+Raises: Goerle, chips: 4895
+Calls: Huchoefes
+Pot size: 7000
+Showdown Reached
+Shows: Huchoefes, Ad Th
+Combination: Huchoefes, Pair ( Ad Ac Qd Th 8h )
+Shows: Goerle, Ah 6h
+Combination: Goerle, Two Pair ( Ah Ac 6h 6d Qd )
+Wins: Goerle, chips: 7000
+Quits: Huchoefes, chips: 0
+Ranking: Goerle, Place: 1, Score: 6000
+Reveal AI: Goerle, AI: Smart
+Ranking: Huchoefes, Place: 2, Score: -1000
+Reveal AI: Huchoefes, AI: Smart
+Ranking: Voebetry, Place: 3, Score: -1000
+Reveal AI: Voebetry, AI: Call
+Ranking: Loerleelis, Place: 4, Score: -1000
+Reveal AI: Loerleelis, AI: Call
+Ranking: Gigike, Place: 5, Score: -1000
+Reveal AI: Gigike, AI: Random
+Ranking: Koe, Place: 6, Score: -1000
+Reveal AI: Koe, AI: AIMyBot1
+Ranking: Deemewrev, Place: 7, Score: -1000
+Reveal AI: Deemewrev, AI: Random
+
+Player Stats for Deemewrev, AI: Random
+General: deals: 2, actions: 8, preflop actions: 3
+Rounds Seen: flops: 79, turns: 66, rivers: 54, showdowns: 48
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 0
+Pre-Flop Stats: VP$IP: 1, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: 1.#INF, WSD: 0.607595, WSDW: 0
+
+
+Player Stats for Gigike, AI: Random
+General: deals: 4, actions: 16, preflop actions: 4
+Rounds Seen: flops: 79, turns: 65, rivers: 54, showdowns: 48
+Wins: total: 1, showdown: 1, bluff: 0
+Chips: won: 85, lost: 1105, bought: 1000, forced bets: 15
+Pre-Flop Stats: VP$IP: 1, PFR: 0.5, 3Bet: 0.5
+Post-Flop Stats: AF: 0.5, WSD: 0.607595, WSDW: 0.0208333
+
+
+Player Stats for Goerle, AI: Smart
+General: deals: 197, actions: 354, preflop actions: 156
+Rounds Seen: flops: 73, turns: 60, rivers: 49, showdowns: 43
+Wins: total: 89, showdown: 18, bluff: 71
+Chips: won: 39045, lost: 33045, bought: 1000, forced bets: 1405
+Pre-Flop Stats: VP$IP: 0.253807, PFR: 0.0609137, 3Bet: 0.0406091
+Post-Flop Stats: AF: 1.66667, WSD: 0.589041, WSDW: 0.418605
+
+
+Player Stats for Huchoefes, AI: Smart
+General: deals: 197, actions: 323, preflop actions: 151
+Rounds Seen: flops: 67, turns: 52, rivers: 41, showdowns: 35
+Wins: total: 99, showdown: 22, bluff: 77
+Chips: won: 13970, lost: 17900, bought: 1000, forced bets: 1410
+Pre-Flop Stats: VP$IP: 0.238579, PFR: 0.0659898, 3Bet: 0.0456853
+Post-Flop Stats: AF: 5, WSD: 0.522388, WSDW: 0.628571
+
+
+Player Stats for Koe, AI: AIMyBot1
+General: deals: 4, actions: 11, preflop actions: 4
+Rounds Seen: flops: 77, turns: 64, rivers: 53, showdowns: 47
+Wins: total: 1, showdown: 1, bluff: 0
+Chips: won: 560, lost: 1560, bought: 1000, forced bets: 15
+Pre-Flop Stats: VP$IP: 0.5, PFR: 0.5, 3Bet: 0.5
+Post-Flop Stats: AF: 6, WSD: 0.61039, WSDW: 0.0212766
+
+
+Player Stats for Loerleelis, AI: Call
+General: deals: 17, actions: 77, preflop actions: 20
+Rounds Seen: flops: 79, turns: 66, rivers: 55, showdowns: 49
+Wins: total: 5, showdown: 5, bluff: 0
+Chips: won: 3925, lost: 5765, bought: 1000, forced bets: 60
+Pre-Flop Stats: VP$IP: 0.823529, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: 0, WSD: 0.620253, WSDW: 0.102041
+
+
+Player Stats for Voebetry, AI: Call
+General: deals: 17, actions: 75, preflop actions: 20
+Rounds Seen: flops: 79, turns: 66, rivers: 55, showdowns: 49
+Wins: total: 6, showdown: 6, bluff: 0
+Chips: won: 2890, lost: 5925, bought: 1000, forced bets: 50
+Pre-Flop Stats: VP$IP: 0.823529, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: 0, WSD: 0.620253, WSDW: 0.122449
+
+
+Date: 2026/04/30 12:51:54
+
+The game begins. The AI's of the players are: 
+Huchoefes: Smart
+Loerleelis: Call
+Deemewrev: Random
+Goerle: Smart
+Voebetry: Call
+Koe: AIMyBot1
+Gigike: Random
+
+Joins: Huchoefes, chips: 1000
+Joins: Loerleelis, chips: 1000
+Joins: Deemewrev, chips: 1000
+Joins: Goerle, chips: 1000
+Joins: Voebetry, chips: 1000
+Joins: Koe, chips: 1000
+Joins: Gigike, chips: 1000
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Voebetry, chips: 5
+Big Blind: Koe, chips: 10
+Raises: Gigike, chips: 20
+Calls: Huchoefes
+Calls: Loerleelis
+Calls: Deemewrev
+Folds: Goerle
+Calls: Voebetry
+Folds: Koe
+Flop: 8d 3d Qc
+Checks: Voebetry
+Checks: Gigike
+Checks: Huchoefes
+Checks: Loerleelis
+Raises: Deemewrev, chips: 20
+Calls: Voebetry
+Raises: Gigike, chips: 40
+Folds: Huchoefes
+Calls: Loerleelis
+Raises: Deemewrev, chips: 80
+Calls: Voebetry
+Calls: Gigike
+Calls: Loerleelis
+Turn: Qh
+Checks: Voebetry
+Raises: Gigike, chips: 80
+Calls: Loerleelis
+Folds: Deemewrev
+Calls: Voebetry
+River: 6h
+Checks: Voebetry
+Checks: Gigike
+Checks: Loerleelis
+Pot size: 960
+Showdown Reached
+Shows: Loerleelis, 7h Kd
+Combination: Loerleelis, Pair ( Qc Qh Kd 8d 7h )
+Shows: Voebetry, 3h Kc
+Combination: Voebetry, Two Pair ( Qc Qh 3h 3d Kc )
+Shows: Gigike, 3s 9s
+Combination: Gigike, Two Pair ( Qc Qh 3s 3d 9s )
+Wins: Voebetry, chips: 960
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Voebetry
+Small Blind: Koe, chips: 5
+Big Blind: Gigike, chips: 10
+Folds: Huchoefes
+Calls: Loerleelis
+Calls: Deemewrev
+Folds: Goerle
+Calls: Voebetry
+Raises: Koe, chips: 30
+Calls: Gigike
+Calls: Loerleelis
+Calls: Deemewrev
+Calls: Voebetry
+Flop: Jc 7s Th
+Raises: Koe, chips: 60
+Calls: Gigike
+Calls: Loerleelis
+Raises: Deemewrev, chips: 120
+Calls: Voebetry
+Raises: Koe, chips: 480
+Calls: Gigike
+Calls: Loerleelis
+Raises: Deemewrev, chips: 130
+Calls: Voebetry
+Calls: Koe
+Folds: Gigike
+Calls: Loerleelis
+Turn: 9c
+Raises: Koe, chips: 160
+Calls: Voebetry
+River: 5s
+Pot size: 4260
+Showdown Reached
+Shows: Loerleelis, Ts 6s
+Combination: Loerleelis, Pair ( Ts Th Jc 9c 7s )
+Shows: Deemewrev, 5c Ac
+Combination: Deemewrev, Pair ( 5c 5s Ac Jc Th )
+Shows: Voebetry, Kc 3c
+Combination: Voebetry, High Card ( Kc Jc Th 9c 7s )
+Shows: Koe, Ks 9d
+Combination: Koe, Pair ( 9d 9c Ks Jc Th )
+Wins: Loerleelis, chips: 3700
+Wins: Koe, chips: 560
+Quits: Deemewrev, chips: 0
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Koe
+Small Blind: Gigike, chips: 5
+Big Blind: Huchoefes, chips: 10
+Calls: Loerleelis
+Folds: Goerle
+Calls: Voebetry
+Folds: Koe
+Raises: Gigike, chips: 15
+Folds: Huchoefes
+Calls: Loerleelis
+Calls: Voebetry
+Flop: 8c 2c 5d
+Checks: Gigike
+Checks: Loerleelis
+Checks: Voebetry
+Turn: 4d
+Checks: Gigike
+Checks: Loerleelis
+Checks: Voebetry
+River: Ks
+Checks: Gigike
+Checks: Loerleelis
+Checks: Voebetry
+Pot size: 85
+Showdown Reached
+Shows: Loerleelis, 7d 2s
+Combination: Loerleelis, Pair ( 2s 2c Ks 8c 7d )
+Shows: Voebetry, 7s 5s
+Combination: Voebetry, Pair ( 5s 5d Ks 8c 7s )
+Shows: Gigike, 6h 8d
+Combination: Gigike, Pair ( 8d 8c Ks 6h 5d )
+Wins: Gigike, chips: 85
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gigike
+Small Blind: Huchoefes, chips: 5
+Big Blind: Loerleelis, chips: 10
+Calls: Goerle
+Calls: Voebetry
+Raises: Koe, chips: 40
+Calls: Gigike
+Folds: Huchoefes
+Calls: Loerleelis
+Folds: Goerle
+Calls: Voebetry
+Flop: Ah 9h 8h
+Checks: Loerleelis
+Checks: Voebetry
+Raises: Koe, chips: 80
+Calls: Gigike
+Calls: Loerleelis
+Calls: Voebetry
+Turn: Kh
+Checks: Loerleelis
+Checks: Voebetry
+Raises: Koe, chips: 160
+Calls: Loerleelis
+Calls: Voebetry
+River: 7s
+Checks: Loerleelis
+Checks: Voebetry
+Raises: Koe, chips: 270
+Calls: Loerleelis
+Calls: Voebetry
+Pot size: 1805
+Showdown Reached
+Shows: Loerleelis, Qd 7h
+Combination: Loerleelis, Flush ( Ah Kh 9h 8h 7h )
+Shows: Voebetry, 2h Jh
+Combination: Voebetry, Flush ( Ah Kh Jh 9h 8h )
+Shows: Koe, Jc 5c
+Combination: Koe, High Card ( Ah Kh Jc 9h 8h )
+Shows: Gigike, 3c 5s
+Combination: Gigike, High Card ( Ah Kh 9h 8h 7s )
+Wins: Voebetry, chips: 1805
+Quits: Koe, chips: 0
+Quits: Gigike, chips: 0
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Loerleelis, chips: 5
+Big Blind: Goerle, chips: 10
+Calls: Voebetry
+Folds: Huchoefes
+Calls: Loerleelis
+Checks: Goerle
+Flop: Kd 2c Ks
+Checks: Loerleelis
+Checks: Goerle
+Checks: Voebetry
+Turn: 9c
+Checks: Loerleelis
+Checks: Goerle
+Checks: Voebetry
+River: Td
+Checks: Loerleelis
+Checks: Goerle
+Checks: Voebetry
+Pot size: 30
+Showdown Reached
+Shows: Loerleelis, 2h Qs
+Combination: Loerleelis, Two Pair ( Kd Ks 2h 2c Qs )
+Shows: Goerle, 7c As
+Combination: Goerle, Pair ( Kd Ks As Td 9c )
+Shows: Voebetry, Tc Th
+Combination: Voebetry, Full House ( Tc Th Td Kd Ks )
+Wins: Voebetry, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Loerleelis
+Small Blind: Goerle, chips: 5
+Big Blind: Voebetry, chips: 10
+Folds: Huchoefes
+Calls: Loerleelis
+Folds: Goerle
+Checks: Voebetry
+Flop: 7s Tc Jd
+Checks: Voebetry
+Checks: Loerleelis
+Turn: Qd
+Checks: Voebetry
+Checks: Loerleelis
+River: 2s
+Checks: Voebetry
+Checks: Loerleelis
+Pot size: 25
+Showdown Reached
+Shows: Loerleelis, 8d 5h
+Combination: Loerleelis, High Card ( Qd Jd Tc 8d 7s )
+Shows: Voebetry, Kd 7d
+Combination: Voebetry, Pair ( 7d 7s Kd Qd Jd )
+Wins: Voebetry, chips: 25
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Voebetry, chips: 5
+Big Blind: Huchoefes, chips: 10
+Calls: Loerleelis
+Calls: Goerle
+Calls: Voebetry
+Checks: Huchoefes
+Flop: 5s 2h As
+Checks: Voebetry
+Checks: Huchoefes
+Checks: Loerleelis
+Checks: Goerle
+Turn: 2d
+Checks: Voebetry
+Checks: Huchoefes
+Checks: Loerleelis
+Checks: Goerle
+River: Jd
+Checks: Voebetry
+Checks: Huchoefes
+Checks: Loerleelis
+Checks: Goerle
+Pot size: 40
+Showdown Reached
+Shows: Huchoefes, 8c 3c
+Combination: Huchoefes, Pair ( 2h 2d As Jd 8c )
+Shows: Loerleelis, 6d 5c
+Combination: Loerleelis, Two Pair ( 5c 5s 2h 2d As )
+Shows: Goerle, 9c 9s
+Combination: Goerle, Two Pair ( 9c 9s 2h 2d As )
+Shows: Voebetry, 7s 9d
+Combination: Voebetry, Pair ( 2h 2d As Jd 9d )
+Wins: Goerle, chips: 40
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Voebetry
+Small Blind: Huchoefes, chips: 5
+Big Blind: Loerleelis, chips: 10
+Calls: Goerle
+Calls: Voebetry
+Folds: Huchoefes
+Checks: Loerleelis
+Flop: Ac 9s Jc
+Checks: Loerleelis
+Checks: Goerle
+Checks: Voebetry
+Turn: 9d
+Checks: Loerleelis
+Raises: Goerle, chips: 995
+Calls: Voebetry
+Calls: Loerleelis
+River: 5d
+Checks: Loerleelis
+Checks: Voebetry
+Pot size: 3020
+Showdown Reached
+Shows: Loerleelis, Ts Qc
+Combination: Loerleelis, Pair ( 9s 9d Ac Qc Jc )
+Shows: Goerle, 6h 9h
+Combination: Goerle, Three Of A Kind ( 9h 9s 9d Ac Jc )
+Shows: Voebetry, 6s 7c
+Combination: Voebetry, Pair ( 9s 9d Ac Jc 7c )
+Wins: Goerle, chips: 3020
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Loerleelis, chips: 5
+Big Blind: Goerle, chips: 10
+Calls: Voebetry
+Folds: Huchoefes
+Calls: Loerleelis
+Checks: Goerle
+Flop: Ks Jd Kc
+Checks: Loerleelis
+Checks: Goerle
+Checks: Voebetry
+Turn: Kd
+Checks: Loerleelis
+Checks: Goerle
+Checks: Voebetry
+River: Ac
+Checks: Loerleelis
+Checks: Goerle
+Checks: Voebetry
+Pot size: 30
+Showdown Reached
+Shows: Loerleelis, 3d Kh
+Combination: Loerleelis, Four Of A Kind ( Kh Ks Kc Kd Ac )
+Shows: Goerle, 7d Ah
+Combination: Goerle, Full House ( Ks Kc Kd Ah Ac )
+Shows: Voebetry, 4s 4c
+Combination: Voebetry, Full House ( Ks Kc Kd 4s 4c )
+Wins: Loerleelis, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Loerleelis
+Small Blind: Goerle, chips: 5
+Big Blind: Voebetry, chips: 10
+Folds: Huchoefes
+Calls: Loerleelis
+Calls: Goerle
+Checks: Voebetry
+Flop: 3d 5h Qh
+Checks: Goerle
+Checks: Voebetry
+Checks: Loerleelis
+Turn: Qc
+Checks: Goerle
+Checks: Voebetry
+Checks: Loerleelis
+River: 2h
+Checks: Goerle
+Checks: Voebetry
+Checks: Loerleelis
+Pot size: 30
+Showdown Reached
+Shows: Loerleelis, 3h Qs
+Combination: Loerleelis, Full House ( Qs Qh Qc 3h 3d )
+Shows: Goerle, 8c 6c
+Combination: Goerle, Pair ( Qh Qc 8c 6c 5h )
+Shows: Voebetry, 8h 3s
+Combination: Voebetry, Two Pair ( Qh Qc 3s 3d 8h )
+Wins: Loerleelis, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Voebetry, chips: 5
+Big Blind: Huchoefes, chips: 10
+Calls: Loerleelis
+Raises: Goerle, chips: 20
+Calls: Voebetry
+Folds: Huchoefes
+Calls: Loerleelis
+Flop: 7c 6h 5c
+Checks: Voebetry
+Checks: Loerleelis
+Checks: Goerle
+Turn: 9d
+Checks: Voebetry
+Checks: Loerleelis
+Checks: Goerle
+River: Td
+Checks: Voebetry
+Checks: Loerleelis
+Checks: Goerle
+Pot size: 100
+Showdown Reached
+Shows: Loerleelis, Qd 9h
+Combination: Loerleelis, Pair ( 9h 9d Qd Td 7c )
+Shows: Goerle, Qc Kd
+Combination: Goerle, High Card ( Kd Qc Td 9d 7c )
+Shows: Voebetry, Kh 2c
+Combination: Voebetry, High Card ( Kh Td 9d 7c 6h )
+Wins: Loerleelis, chips: 100
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Voebetry
+Small Blind: Huchoefes, chips: 5
+Big Blind: Loerleelis, chips: 10
+Calls: Goerle
+Calls: Voebetry
+Folds: Huchoefes
+Checks: Loerleelis
+Flop: 5d 2s Td
+Checks: Loerleelis
+Checks: Goerle
+Checks: Voebetry
+Turn: 3h
+Checks: Loerleelis
+Raises: Goerle, chips: 10
+Calls: Voebetry
+Calls: Loerleelis
+River: Jc
+Checks: Loerleelis
+Checks: Goerle
+Checks: Voebetry
+Pot size: 65
+Showdown Reached
+Shows: Loerleelis, 8s Jh
+Combination: Loerleelis, Pair ( Jh Jc Td 8s 5d )
+Shows: Goerle, 4d 4c
+Combination: Goerle, Pair ( 4d 4c Jc Td 5d )
+Shows: Voebetry, 9d 2h
+Combination: Voebetry, Pair ( 2h 2s Jc Td 9d )
+Wins: Loerleelis, chips: 65
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Loerleelis, chips: 5
+Big Blind: Goerle, chips: 10
+Calls: Voebetry
+Folds: Huchoefes
+Calls: Loerleelis
+Checks: Goerle
+Flop: As 7d Ac
+Checks: Loerleelis
+Checks: Goerle
+Checks: Voebetry
+Turn: Ks
+Checks: Loerleelis
+Checks: Goerle
+Checks: Voebetry
+River: 3s
+Checks: Loerleelis
+Checks: Goerle
+Checks: Voebetry
+Pot size: 30
+Showdown Reached
+Shows: Loerleelis, 8c 9h
+Combination: Loerleelis, Pair ( As Ac Ks 9h 8c )
+Shows: Goerle, Ts Qd
+Combination: Goerle, Pair ( As Ac Ks Qd Ts )
+Shows: Voebetry, Kh Tc
+Combination: Voebetry, Two Pair ( As Ac Kh Ks Tc )
+Wins: Voebetry, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Loerleelis
+Small Blind: Goerle, chips: 5
+Big Blind: Voebetry, chips: 10
+Calls: Huchoefes
+Calls: Loerleelis
+Calls: Goerle
+Checks: Voebetry
+Flop: 2d 7h 2c
+Checks: Goerle
+Checks: Voebetry
+Checks: Huchoefes
+Checks: Loerleelis
+Turn: 7s
+Checks: Goerle
+Checks: Voebetry
+Checks: Huchoefes
+Checks: Loerleelis
+River: Jc
+Checks: Goerle
+Checks: Voebetry
+Checks: Huchoefes
+Checks: Loerleelis
+Pot size: 40
+Showdown Reached
+Shows: Huchoefes, Qd 8d
+Combination: Huchoefes, Two Pair ( 7h 7s 2d 2c Qd )
+Shows: Loerleelis, 9c 8s
+Combination: Loerleelis, Two Pair ( 7h 7s 2d 2c Jc )
+Shows: Goerle, Jd Ts
+Combination: Goerle, Two Pair ( Jd Jc 7h 7s Ts )
+Shows: Voebetry, Kh Kd
+Combination: Voebetry, Two Pair ( Kh Kd 7h 7s Jc )
+Wins: Voebetry, chips: 40
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Voebetry, chips: 5
+Big Blind: Huchoefes, chips: 10
+Calls: Loerleelis
+Folds: Goerle
+Calls: Voebetry
+Checks: Huchoefes
+Flop: 4d 6h 9h
+Checks: Voebetry
+Checks: Huchoefes
+Checks: Loerleelis
+Turn: Ad
+Checks: Voebetry
+Checks: Huchoefes
+Checks: Loerleelis
+River: Kh
+Checks: Voebetry
+Checks: Huchoefes
+Checks: Loerleelis
+Pot size: 30
+Showdown Reached
+Shows: Huchoefes, Ks Js
+Combination: Huchoefes, Pair ( Ks Kh Ad Js 9h )
+Shows: Loerleelis, 5h 5s
+Combination: Loerleelis, Pair ( 5h 5s Ad Kh 9h )
+Shows: Voebetry, 6d 7d
+Combination: Voebetry, Pair ( 6d 6h Ad Kh 9h )
+Wins: Huchoefes, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Voebetry
+Small Blind: Huchoefes, chips: 5
+Big Blind: Loerleelis, chips: 10
+Calls: Goerle
+Calls: Voebetry
+Folds: Huchoefes
+Checks: Loerleelis
+Flop: Ac 8c Qs
+Checks: Loerleelis
+Checks: Goerle
+Checks: Voebetry
+Turn: 9c
+Checks: Loerleelis
+Checks: Goerle
+Checks: Voebetry
+River: Kd
+Checks: Loerleelis
+Checks: Goerle
+Checks: Voebetry
+Pot size: 35
+Showdown Reached
+Shows: Loerleelis, Td Tc
+Combination: Loerleelis, Pair ( Td Tc Ac Kd Qs )
+Shows: Goerle, Qd Jc
+Combination: Goerle, Pair ( Qd Qs Ac Kd Jc )
+Shows: Voebetry, 6c 8d
+Combination: Voebetry, Pair ( 8d 8c Ac Kd Qs )
+Wins: Goerle, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Loerleelis, chips: 5
+Big Blind: Goerle, chips: 10
+Calls: Voebetry
+Calls: Huchoefes
+Calls: Loerleelis
+Checks: Goerle
+Flop: 4c Jd 4h
+Checks: Loerleelis
+Raises: Goerle, chips: 2945
+Calls: Voebetry
+Folds: Huchoefes
+Calls: Loerleelis
+Turn: 9c
+River: 6h
+Pot size: 6080
+Showdown Reached
+Shows: Loerleelis, Jc Qd
+Combination: Loerleelis, Two Pair ( Jc Jd 4c 4h Qd )
+Shows: Goerle, Kd 4d
+Combination: Goerle, Three Of A Kind ( 4d 4c 4h Kd Jd )
+Shows: Voebetry, Ks 9s
+Combination: Voebetry, Two Pair ( 9s 9c 4c 4h Ks )
+Wins: Goerle, chips: 6080
+Quits: Loerleelis, chips: 0
+Quits: Voebetry, chips: 0
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Calls: Goerle
+Checks: Huchoefes
+Flop: 6s 2d 8h
+Checks: Huchoefes
+Checks: Goerle
+Turn: 7s
+Checks: Huchoefes
+Checks: Goerle
+River: Qs
+Checks: Huchoefes
+Raises: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 30
+Wins: Goerle, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Calls: Huchoefes
+Checks: Goerle
+Flop: Kc 8s Ts
+Raises: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 30
+Wins: Goerle, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Calls: Goerle
+Checks: Huchoefes
+Flop: Ac 7h Td
+Checks: Huchoefes
+Checks: Goerle
+Turn: Jh
+Checks: Huchoefes
+Checks: Goerle
+River: Ks
+Raises: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 30
+Wins: Huchoefes, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 15
+Wins: Goerle, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Calls: Goerle
+Checks: Huchoefes
+Flop: 5d Qd Jc
+Checks: Huchoefes
+Checks: Goerle
+Turn: Jd
+Checks: Huchoefes
+Checks: Goerle
+River: 7s
+Checks: Huchoefes
+Checks: Goerle
+Pot size: 20
+Showdown Reached
+Shows: Huchoefes, 3s 6h
+Combination: Huchoefes, Pair ( Jc Jd Qd 7s 6h )
+Shows: Goerle, Th Ts
+Combination: Goerle, Two Pair ( Jc Jd Th Ts Qd )
+Wins: Goerle, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Calls: Huchoefes
+Checks: Goerle
+Flop: 6c 5s Ks
+Checks: Goerle
+Checks: Huchoefes
+Turn: Ac
+Checks: Goerle
+Checks: Huchoefes
+River: 5h
+Checks: Goerle
+Checks: Huchoefes
+Pot size: 20
+Showdown Reached
+Shows: Huchoefes, Kc Tc
+Combination: Huchoefes, Two Pair ( Kc Ks 5s 5h Ac )
+Shows: Goerle, 9h 3c
+Combination: Goerle, Pair ( 5s 5h Ac Ks 9h )
+Wins: Huchoefes, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Calls: Goerle
+Checks: Huchoefes
+Flop: Ac Qh 9c
+Checks: Huchoefes
+Checks: Goerle
+Turn: 5h
+Checks: Huchoefes
+Raises: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 30
+Wins: Goerle, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Calls: Huchoefes
+Checks: Goerle
+Flop: 9c Qc 6h
+Raises: Goerle, chips: 10
+Calls: Huchoefes
+Turn: 6d
+Checks: Goerle
+Checks: Huchoefes
+River: As
+Raises: Goerle, chips: 6085
+Folds: Huchoefes
+Pot size: 6125
+Wins: Goerle, chips: 6125
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 15
+Wins: Huchoefes, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Raises: Huchoefes, chips: 15
+Folds: Goerle
+Pot size: 35
+Wins: Huchoefes, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 15
+Wins: Huchoefes, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Calls: Huchoefes
+Checks: Goerle
+Flop: 4d 7s 9h
+Checks: Goerle
+Raises: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 30
+Wins: Huchoefes, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 15
+Wins: Huchoefes, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Calls: Huchoefes
+Raises: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 30
+Wins: Goerle, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 15
+Wins: Huchoefes, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 15
+Wins: Goerle, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 15
+Wins: Huchoefes, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 15
+Wins: Goerle, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 15
+Wins: Huchoefes, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 15
+Wins: Goerle, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Calls: Goerle
+Checks: Huchoefes
+Flop: Qs Jd 4h
+Checks: Huchoefes
+Checks: Goerle
+Turn: Ks
+Checks: Huchoefes
+Checks: Goerle
+River: Tc
+Raises: Huchoefes, chips: 10
+Calls: Goerle
+Pot size: 40
+Showdown Reached
+Shows: Huchoefes, As 7h
+Combination: Huchoefes, Straight ( As Ks Qs Jd Tc )
+Shows: Goerle, 8c Qc
+Combination: Goerle, Pair ( Qc Qs Ks Jd Tc )
+Wins: Huchoefes, chips: 40
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Calls: Huchoefes
+Checks: Goerle
+Flop: 8c 5s 9h
+Checks: Goerle
+Checks: Huchoefes
+Turn: Ah
+Checks: Goerle
+Checks: Huchoefes
+River: 4d
+Checks: Goerle
+Raises: Huchoefes, chips: 10
+Calls: Goerle
+Pot size: 40
+Showdown Reached
+Shows: Huchoefes, 3d 2d
+Combination: Huchoefes, Straight ( 5s 4d 3d 2d Ah )
+Shows: Goerle, Kd 4h
+Combination: Goerle, Pair ( 4h 4d Ah Kd 9h )
+Wins: Huchoefes, chips: 40
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 15
+Wins: Huchoefes, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Calls: Huchoefes
+Checks: Goerle
+Flop: Kh Kd 5d
+Raises: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 30
+Wins: Goerle, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 15
+Wins: Huchoefes, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 15
+Wins: Goerle, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 15
+Wins: Huchoefes, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 15
+Wins: Goerle, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Calls: Goerle
+Checks: Huchoefes
+Flop: 5s 2c 5c
+Checks: Huchoefes
+Checks: Goerle
+Turn: Kc
+Checks: Huchoefes
+Checks: Goerle
+River: 7d
+Raises: Huchoefes, chips: 10
+Calls: Goerle
+Pot size: 40
+Showdown Reached
+Shows: Huchoefes, Ah Qs
+Combination: Huchoefes, Pair ( 5s 5c Ah Kc Qs )
+Shows: Goerle, Ts Tc
+Combination: Goerle, Two Pair ( Ts Tc 5s 5c Kc )
+Wins: Goerle, chips: 40
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 15
+Wins: Goerle, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Calls: Goerle
+Checks: Huchoefes
+Flop: 5c 3c 3d
+Checks: Huchoefes
+Checks: Goerle
+Turn: Ks
+Raises: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 30
+Wins: Huchoefes, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Calls: Huchoefes
+Checks: Goerle
+Flop: Js 2s 4c
+Checks: Goerle
+Checks: Huchoefes
+Turn: 5d
+Raises: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 30
+Wins: Goerle, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Calls: Goerle
+Checks: Huchoefes
+Flop: 2h 5s 2s
+Checks: Huchoefes
+Checks: Goerle
+Turn: 7c
+Raises: Huchoefes, chips: 10
+Calls: Goerle
+River: 9c
+Checks: Huchoefes
+Checks: Goerle
+Pot size: 40
+Showdown Reached
+Shows: Huchoefes, Ah 8d
+Combination: Huchoefes, Pair ( 2h 2s Ah 9c 8d )
+Shows: Goerle, 7s 6c
+Combination: Goerle, Two Pair ( 7s 7c 2h 2s 9c )
+Wins: Goerle, chips: 40
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 15
+Wins: Goerle, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Calls: Goerle
+Checks: Huchoefes
+Flop: 5s 4h 6h
+Checks: Huchoefes
+Checks: Goerle
+Turn: 5d
+Raises: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 30
+Wins: Huchoefes, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Calls: Huchoefes
+Checks: Goerle
+Flop: 2h 5s 3d
+Checks: Goerle
+Checks: Huchoefes
+Turn: 8h
+Checks: Goerle
+Checks: Huchoefes
+River: Jc
+Checks: Goerle
+Checks: Huchoefes
+Pot size: 20
+Showdown Reached
+Shows: Huchoefes, Qc Ad
+Combination: Huchoefes, High Card ( Ad Qc Jc 8h 5s )
+Shows: Goerle, Kc 7h
+Combination: Goerle, High Card ( Kc Jc 8h 7h 5s )
+Wins: Huchoefes, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Calls: Goerle
+Checks: Huchoefes
+Flop: 7s 9h Ac
+Checks: Huchoefes
+Checks: Goerle
+Turn: 9c
+Checks: Huchoefes
+Checks: Goerle
+River: 4h
+Checks: Huchoefes
+Checks: Goerle
+Pot size: 20
+Showdown Reached
+Shows: Huchoefes, 4d 7d
+Combination: Huchoefes, Two Pair ( 9h 9c 7d 7s Ac )
+Shows: Goerle, 4c 2c
+Combination: Goerle, Two Pair ( 9h 9c 4c 4h Ac )
+Wins: Huchoefes, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 15
+Wins: Goerle, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Calls: Goerle
+Checks: Huchoefes
+Flop: Td Ah Jc
+Checks: Huchoefes
+Checks: Goerle
+Turn: As
+Checks: Huchoefes
+Checks: Goerle
+River: 8c
+Checks: Huchoefes
+Checks: Goerle
+Pot size: 20
+Showdown Reached
+Shows: Huchoefes, 5h 4h
+Combination: Huchoefes, Pair ( Ah As Jc Td 8c )
+Shows: Goerle, Tc Qc
+Combination: Goerle, Two Pair ( Ah As Tc Td Qc )
+Wins: Goerle, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 15
+Wins: Goerle, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Calls: Goerle
+Raises: Huchoefes, chips: 10
+Calls: Goerle
+Flop: 5s Jd 7d
+Checks: Huchoefes
+Raises: Goerle, chips: 10
+Raises: Huchoefes, chips: 20
+Raises: Goerle, chips: 40
+Calls: Huchoefes
+Turn: Kh
+Raises: Huchoefes, chips: 805
+Calls: Goerle
+River: 8h
+Pot size: 1790
+Showdown Reached
+Shows: Huchoefes, Kc Qh
+Combination: Huchoefes, Pair ( Kc Kh Qh Jd 8h )
+Shows: Goerle, 7h 9h
+Combination: Goerle, Pair ( 7h 7d Kh Jd 9h )
+Wins: Huchoefes, chips: 1790
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Calls: Huchoefes
+Checks: Goerle
+Flop: Jd Qh 8s
+Checks: Goerle
+Raises: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 30
+Wins: Huchoefes, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 15
+Wins: Huchoefes, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Raises: Huchoefes, chips: 15
+Folds: Goerle
+Pot size: 35
+Wins: Huchoefes, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 15
+Wins: Huchoefes, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 15
+Wins: Goerle, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 15
+Wins: Huchoefes, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Calls: Huchoefes
+Checks: Goerle
+Flop: 7c 3c 8h
+Checks: Goerle
+Checks: Huchoefes
+Turn: Kc
+Checks: Goerle
+Raises: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 30
+Wins: Huchoefes, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Calls: Goerle
+Checks: Huchoefes
+Flop: 7s 7d 4h
+Checks: Huchoefes
+Checks: Goerle
+Turn: 5s
+Checks: Huchoefes
+Checks: Goerle
+River: 2s
+Raises: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 30
+Wins: Huchoefes, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Raises: Huchoefes, chips: 15
+Folds: Goerle
+Pot size: 35
+Wins: Huchoefes, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 15
+Wins: Huchoefes, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 15
+Wins: Goerle, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 15
+Wins: Huchoefes, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Calls: Huchoefes
+Raises: Goerle, chips: 10
+Raises: Huchoefes, chips: 10
+Raises: Goerle, chips: 10
+Raises: Huchoefes, chips: 20
+Raises: Goerle, chips: 20
+Calls: Huchoefes
+Flop: 8d Kc 6d
+Checks: Goerle
+Raises: Huchoefes, chips: 30
+Calls: Goerle
+Turn: 4s
+Checks: Goerle
+Raises: Huchoefes, chips: 1745
+Folds: Goerle
+Pot size: 1965
+Wins: Huchoefes, chips: 1965
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 15
+Wins: Huchoefes, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 15
+Wins: Goerle, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 15
+Wins: Huchoefes, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 15
+Wins: Goerle, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Calls: Goerle
+Checks: Huchoefes
+Flop: 7d 2h Kh
+Raises: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 30
+Wins: Huchoefes, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Calls: Huchoefes
+Checks: Goerle
+Flop: Jc As 7s
+Checks: Goerle
+Raises: Huchoefes, chips: 1965
+Folds: Goerle
+Pot size: 1985
+Wins: Huchoefes, chips: 1985
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Calls: Goerle
+Raises: Huchoefes, chips: 10
+Calls: Goerle
+Flop: Qs 2d 2h
+Checks: Huchoefes
+Checks: Goerle
+Turn: 4d
+Checks: Huchoefes
+Checks: Goerle
+River: 8d
+Checks: Huchoefes
+Checks: Goerle
+Pot size: 40
+Showdown Reached
+Shows: Huchoefes, Tc Jh
+Combination: Huchoefes, Pair ( 2d 2h Qs Jh Tc )
+Shows: Goerle, Td Jc
+Combination: Goerle, Pair ( 2d 2h Qs Jc Td )
+Wins: Huchoefes, chips: 20
+Wins: Goerle, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Calls: Huchoefes
+Checks: Goerle
+Flop: Kh Kc 4c
+Checks: Goerle
+Raises: Huchoefes, chips: 10
+Calls: Goerle
+Turn: 6c
+Checks: Goerle
+Raises: Huchoefes, chips: 10
+Calls: Goerle
+River: 5h
+Checks: Goerle
+Checks: Huchoefes
+Pot size: 60
+Showdown Reached
+Shows: Huchoefes, 2h 2s
+Combination: Huchoefes, Two Pair ( Kh Kc 2h 2s 6c )
+Shows: Goerle, Qs 3c
+Combination: Goerle, Pair ( Kh Kc Qs 6c 5h )
+Wins: Huchoefes, chips: 60
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 15
+Wins: Huchoefes, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 15
+Wins: Goerle, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Calls: Goerle
+Checks: Huchoefes
+Flop: 8d 9c Js
+Checks: Huchoefes
+Checks: Goerle
+Turn: Kd
+Checks: Huchoefes
+Checks: Goerle
+River: Jh
+Checks: Huchoefes
+Checks: Goerle
+Pot size: 20
+Showdown Reached
+Shows: Huchoefes, Kc 3d
+Combination: Huchoefes, Two Pair ( Kc Kd Js Jh 9c )
+Shows: Goerle, 4h 4c
+Combination: Goerle, Two Pair ( Js Jh 4h 4c Kd )
+Wins: Huchoefes, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 15
+Wins: Goerle, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Raises: Goerle, chips: 15
+Folds: Huchoefes
+Pot size: 35
+Wins: Goerle, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 15
+Wins: Goerle, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 15
+Wins: Huchoefes, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Calls: Huchoefes
+Checks: Goerle
+Flop: Jh 7h 2s
+Checks: Goerle
+Raises: Huchoefes, chips: 10
+Calls: Goerle
+Turn: 2d
+Checks: Goerle
+Raises: Huchoefes, chips: 10
+Calls: Goerle
+River: 6s
+Checks: Goerle
+Raises: Huchoefes, chips: 1980
+Folds: Goerle
+Pot size: 2040
+Wins: Huchoefes, chips: 2040
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 15
+Wins: Huchoefes, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 15
+Wins: Goerle, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Calls: Goerle
+Raises: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 30
+Wins: Huchoefes, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Calls: Huchoefes
+Checks: Goerle
+Flop: 8s 9h 8c
+Checks: Goerle
+Checks: Huchoefes
+Turn: Ad
+Checks: Goerle
+Checks: Huchoefes
+River: 6s
+Checks: Goerle
+Checks: Huchoefes
+Pot size: 20
+Showdown Reached
+Shows: Huchoefes, 4d 3d
+Combination: Huchoefes, Pair ( 8s 8c Ad 9h 6s )
+Shows: Goerle, 3h 5c
+Combination: Goerle, Pair ( 8s 8c Ad 9h 6s )
+Wins: Huchoefes, chips: 10
+Wins: Goerle, chips: 10
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Raises: Goerle, chips: 15
+Folds: Huchoefes
+Pot size: 35
+Wins: Goerle, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Calls: Huchoefes
+Checks: Goerle
+Flop: 6h Qd 2d
+Checks: Goerle
+Checks: Huchoefes
+Turn: Kc
+Checks: Goerle
+Checks: Huchoefes
+River: 9s
+Checks: Goerle
+Checks: Huchoefes
+Pot size: 20
+Showdown Reached
+Shows: Huchoefes, 9h 8h
+Combination: Huchoefes, Pair ( 9h 9s Kc Qd 8h )
+Shows: Goerle, 5d Tc
+Combination: Goerle, High Card ( Kc Qd Tc 9s 6h )
+Wins: Huchoefes, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Calls: Goerle
+Checks: Huchoefes
+Flop: Jc 2c Ad
+Checks: Huchoefes
+Checks: Goerle
+Turn: Qh
+Checks: Huchoefes
+Checks: Goerle
+River: Ts
+Checks: Huchoefes
+Checks: Goerle
+Pot size: 20
+Showdown Reached
+Shows: Huchoefes, 9h As
+Combination: Huchoefes, Pair ( As Ad Qh Jc Ts )
+Shows: Goerle, 9s 6s
+Combination: Goerle, High Card ( Ad Qh Jc Ts 9s )
+Wins: Huchoefes, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 15
+Wins: Goerle, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 15
+Wins: Huchoefes, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 15
+Wins: Goerle, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 15
+Wins: Huchoefes, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 15
+Wins: Goerle, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 15
+Wins: Huchoefes, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 15
+Wins: Goerle, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 15
+Wins: Huchoefes, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 15
+Wins: Goerle, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 15
+Wins: Huchoefes, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 15
+Wins: Goerle, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Calls: Goerle
+Checks: Huchoefes
+Flop: 6h 8c 3h
+Checks: Huchoefes
+Checks: Goerle
+Turn: 5h
+Raises: Huchoefes, chips: 10
+Raises: Goerle, chips: 4925
+Folds: Huchoefes
+Pot size: 4965
+Wins: Goerle, chips: 4965
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 15
+Wins: Goerle, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 15
+Wins: Huchoefes, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Calls: Huchoefes
+Checks: Goerle
+Flop: 5h 4d Jh
+Checks: Goerle
+Checks: Huchoefes
+Turn: Ad
+Checks: Goerle
+Raises: Huchoefes, chips: 2025
+Folds: Goerle
+Pot size: 2045
+Wins: Huchoefes, chips: 2045
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Calls: Goerle
+Checks: Huchoefes
+Flop: Kh Jh 3s
+Checks: Huchoefes
+Checks: Goerle
+Turn: 5d
+Checks: Huchoefes
+Raises: Goerle, chips: 4945
+Folds: Huchoefes
+Pot size: 4965
+Wins: Goerle, chips: 4965
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 15
+Wins: Goerle, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 15
+Wins: Huchoefes, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Raises: Huchoefes, chips: 15
+Raises: Goerle, chips: 25
+Raises: Huchoefes, chips: 65
+Calls: Goerle
+Flop: 3d Th 8s
+Checks: Goerle
+DEBUG MESSAGE: INVALID ACTION FROM Huchoefes (2 0)
+Folds: Huchoefes
+Pot size: 230
+Wins: Goerle, chips: 230
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 15
+Wins: Huchoefes, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 15
+Wins: Goerle, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Calls: Goerle
+Raises: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 30
+Wins: Huchoefes, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 15
+Wins: Goerle, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Calls: Goerle
+Checks: Huchoefes
+Flop: Ks As Jh
+Checks: Huchoefes
+Checks: Goerle
+Turn: 2h
+Checks: Huchoefes
+Checks: Goerle
+River: 8s
+Raises: Huchoefes, chips: 10
+Calls: Goerle
+Pot size: 40
+Showdown Reached
+Shows: Huchoefes, Kc 2s
+Combination: Huchoefes, Two Pair ( Kc Ks 2s 2h As )
+Shows: Goerle, 5h 5c
+Combination: Goerle, Pair ( 5h 5c As Ks Jh )
+Wins: Huchoefes, chips: 40
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 15
+Wins: Goerle, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 15
+Wins: Huchoefes, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 15
+Wins: Goerle, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 15
+Wins: Huchoefes, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 15
+Wins: Goerle, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 15
+Wins: Huchoefes, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Calls: Huchoefes
+Checks: Goerle
+Flop: 4s 3h 2c
+Checks: Goerle
+Raises: Huchoefes, chips: 10
+Calls: Goerle
+Turn: 5s
+Checks: Goerle
+Checks: Huchoefes
+River: 9s
+Checks: Goerle
+Checks: Huchoefes
+Pot size: 40
+Showdown Reached
+Shows: Huchoefes, Tc Ac
+Combination: Huchoefes, Straight ( 5s 4s 3h 2c Ac )
+Shows: Goerle, Ah 2h
+Combination: Goerle, Straight ( 5s 4s 3h 2h Ah )
+Wins: Huchoefes, chips: 20
+Wins: Goerle, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 15
+Wins: Huchoefes, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 15
+Wins: Goerle, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 15
+Wins: Huchoefes, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Calls: Huchoefes
+Raises: Goerle, chips: 10
+Calls: Huchoefes
+Flop: Js 7s Ac
+Checks: Goerle
+Checks: Huchoefes
+Turn: 9c
+Checks: Goerle
+Checks: Huchoefes
+River: 2d
+Checks: Goerle
+Checks: Huchoefes
+Pot size: 40
+Showdown Reached
+Shows: Huchoefes, 9d Qd
+Combination: Huchoefes, Pair ( 9d 9c Ac Qd Js )
+Shows: Goerle, Kd Ks
+Combination: Goerle, Pair ( Kd Ks Ac Js 9c )
+Wins: Goerle, chips: 40
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 15
+Wins: Huchoefes, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Calls: Huchoefes
+Raises: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 30
+Wins: Goerle, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 15
+Wins: Huchoefes, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 15
+Wins: Goerle, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Calls: Goerle
+Checks: Huchoefes
+Flop: Qd Jh 8s
+Checks: Huchoefes
+Checks: Goerle
+Turn: Kc
+Checks: Huchoefes
+Checks: Goerle
+River: Ac
+Checks: Huchoefes
+Checks: Goerle
+Pot size: 20
+Showdown Reached
+Shows: Huchoefes, Ts 4s
+Combination: Huchoefes, Straight ( Ac Kc Qd Jh Ts )
+Shows: Goerle, Ah 9d
+Combination: Goerle, Pair ( Ah Ac Kc Qd Jh )
+Wins: Huchoefes, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 15
+Wins: Goerle, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 15
+Wins: Huchoefes, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 15
+Wins: Goerle, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 15
+Wins: Huchoefes, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Calls: Huchoefes
+Checks: Goerle
+Flop: 3s Qs 5d
+Checks: Goerle
+Checks: Huchoefes
+Turn: 6h
+Checks: Goerle
+Checks: Huchoefes
+River: Qc
+Checks: Goerle
+Checks: Huchoefes
+Pot size: 20
+Showdown Reached
+Shows: Huchoefes, 3c Kc
+Combination: Huchoefes, Two Pair ( Qs Qc 3c 3s Kc )
+Shows: Goerle, Ts Ah
+Combination: Goerle, Pair ( Qs Qc Ah Ts 6h )
+Wins: Huchoefes, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 15
+Wins: Huchoefes, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 15
+Wins: Goerle, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Raises: Goerle, chips: 15
+Folds: Huchoefes
+Pot size: 35
+Wins: Goerle, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 15
+Wins: Goerle, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Raises: Goerle, chips: 15
+Folds: Huchoefes
+Pot size: 35
+Wins: Goerle, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Calls: Huchoefes
+Checks: Goerle
+Flop: Jh 5d Ts
+Checks: Goerle
+Checks: Huchoefes
+Turn: 7d
+Checks: Goerle
+Checks: Huchoefes
+River: 9c
+Raises: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 30
+Wins: Goerle, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 15
+Wins: Huchoefes, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 15
+Wins: Goerle, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 15
+Wins: Huchoefes, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Raises: Huchoefes, chips: 15
+Folds: Goerle
+Pot size: 35
+Wins: Huchoefes, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 15
+Wins: Huchoefes, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Calls: Huchoefes
+Checks: Goerle
+Flop: Qd Kd As
+Checks: Goerle
+Checks: Huchoefes
+Turn: Th
+Checks: Goerle
+Raises: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 30
+Wins: Huchoefes, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Calls: Goerle
+Checks: Huchoefes
+Flop: 9h Kh 6c
+Raises: Huchoefes, chips: 1930
+Folds: Goerle
+Pot size: 1950
+Wins: Huchoefes, chips: 1950
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Calls: Huchoefes
+Checks: Goerle
+Flop: 9s Ah As
+Checks: Goerle
+Checks: Huchoefes
+Turn: 2c
+Checks: Goerle
+Checks: Huchoefes
+River: 7h
+Checks: Goerle
+Checks: Huchoefes
+Pot size: 20
+Showdown Reached
+Shows: Huchoefes, 4s 5d
+Combination: Huchoefes, Pair ( Ah As 9s 7h 5d )
+Shows: Goerle, 8s 5s
+Combination: Goerle, Pair ( Ah As 9s 8s 7h )
+Wins: Goerle, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 15
+Wins: Huchoefes, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 15
+Wins: Goerle, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Calls: Goerle
+Checks: Huchoefes
+Flop: Qs 2c As
+Checks: Huchoefes
+Checks: Goerle
+Turn: Jh
+Checks: Huchoefes
+Raises: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 30
+Wins: Goerle, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 15
+Wins: Goerle, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Calls: Goerle
+Checks: Huchoefes
+Flop: Ah 3c 2h
+Raises: Huchoefes, chips: 10
+Calls: Goerle
+Turn: 2s
+Checks: Huchoefes
+Checks: Goerle
+River: Ad
+Checks: Huchoefes
+Checks: Goerle
+Pot size: 40
+Showdown Reached
+Shows: Huchoefes, 7d 3s
+Combination: Huchoefes, Two Pair ( Ah Ad 3s 3c 7d )
+Shows: Goerle, Ac 6c
+Combination: Goerle, Full House ( Ac Ah Ad 2h 2s )
+Wins: Goerle, chips: 40
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 15
+Wins: Goerle, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 15
+Wins: Huchoefes, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Calls: Huchoefes
+Checks: Goerle
+Flop: Tc 5d 6c
+Checks: Goerle
+Checks: Huchoefes
+Turn: 7h
+Checks: Goerle
+Checks: Huchoefes
+River: 8d
+Checks: Goerle
+Checks: Huchoefes
+Pot size: 20
+Showdown Reached
+Shows: Huchoefes, 4h 4c
+Combination: Huchoefes, Straight ( 8d 7h 6c 5d 4h )
+Shows: Goerle, Jc 2d
+Combination: Goerle, High Card ( Jc Tc 8d 7h 6c )
+Wins: Huchoefes, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 15
+Wins: Huchoefes, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 15
+Wins: Goerle, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 15
+Wins: Huchoefes, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Raises: Huchoefes, chips: 15
+Folds: Goerle
+Pot size: 35
+Wins: Huchoefes, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Calls: Goerle
+Checks: Huchoefes
+Flop: Qc 6s 5c
+Checks: Huchoefes
+Raises: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 30
+Wins: Goerle, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 15
+Wins: Goerle, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 15
+Wins: Huchoefes, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 15
+Wins: Goerle, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 15
+Wins: Huchoefes, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 15
+Wins: Goerle, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 15
+Wins: Huchoefes, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Calls: Huchoefes
+Checks: Goerle
+Flop: 2d Tc 8c
+Checks: Goerle
+Checks: Huchoefes
+Turn: Td
+Checks: Goerle
+Checks: Huchoefes
+River: Jh
+Checks: Goerle
+Checks: Huchoefes
+Pot size: 20
+Showdown Reached
+Shows: Huchoefes, 7s 6s
+Combination: Huchoefes, Pair ( Tc Td Jh 8c 7s )
+Shows: Goerle, 8d 3d
+Combination: Goerle, Two Pair ( Tc Td 8d 8c Jh )
+Wins: Goerle, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 15
+Wins: Huchoefes, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 15
+Wins: Goerle, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Raises: Goerle, chips: 15
+Raises: Huchoefes, chips: 15
+Calls: Goerle
+Flop: 3d Ac 8s
+Checks: Huchoefes
+Checks: Goerle
+Turn: Kd
+Checks: Huchoefes
+Checks: Goerle
+River: As
+Checks: Huchoefes
+Checks: Goerle
+Pot size: 80
+Showdown Reached
+Shows: Huchoefes, 7h 5h
+Combination: Huchoefes, Pair ( Ac As Kd 8s 7h )
+Shows: Goerle, 6s 5s
+Combination: Goerle, Pair ( Ac As Kd 8s 6s )
+Wins: Huchoefes, chips: 80
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Calls: Huchoefes
+Checks: Goerle
+Flop: 3s 2s 2c
+Checks: Goerle
+Raises: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 30
+Wins: Huchoefes, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 15
+Wins: Huchoefes, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Calls: Huchoefes
+Checks: Goerle
+Flop: Ad Qd Qs
+Checks: Goerle
+Raises: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 30
+Wins: Huchoefes, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Calls: Goerle
+Checks: Huchoefes
+Flop: Td 6c Ah
+Checks: Huchoefes
+Raises: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 30
+Wins: Goerle, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 15
+Wins: Goerle, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Calls: Goerle
+Checks: Huchoefes
+Flop: 6c 5d Kc
+Checks: Huchoefes
+Checks: Goerle
+Turn: 2c
+Checks: Huchoefes
+Raises: Goerle, chips: 10
+Raises: Huchoefes, chips: 20
+Calls: Goerle
+River: Jh
+Raises: Huchoefes, chips: 30
+Raises: Goerle, chips: 60
+Calls: Huchoefes
+Pot size: 260
+Showdown Reached
+Shows: Huchoefes, Qc Qd
+Combination: Huchoefes, Pair ( Qc Qd Kc Jh 6c )
+Shows: Goerle, 6s 8s
+Combination: Goerle, Pair ( 6s 6c Kc Jh 8s )
+Wins: Huchoefes, chips: 260
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 15
+Wins: Goerle, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 15
+Wins: Huchoefes, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Calls: Huchoefes
+Checks: Goerle
+Flop: 7d 4d 3h
+Raises: Goerle, chips: 4900
+Folds: Huchoefes
+Pot size: 4920
+Wins: Goerle, chips: 4920
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 15
+Wins: Huchoefes, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 15
+Wins: Goerle, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 15
+Wins: Huchoefes, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 15
+Wins: Goerle, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 15
+Wins: Huchoefes, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Folds: Huchoefes
+Pot size: 15
+Wins: Goerle, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Calls: Goerle
+Checks: Huchoefes
+Flop: 4s 3d 5s
+Checks: Huchoefes
+Checks: Goerle
+Turn: 9s
+Checks: Huchoefes
+Checks: Goerle
+River: 6h
+Checks: Huchoefes
+Checks: Goerle
+Pot size: 20
+Showdown Reached
+Shows: Huchoefes, Jc 2h
+Combination: Huchoefes, Straight ( 6h 5s 4s 3d 2h )
+Shows: Goerle, As 9h
+Combination: Goerle, Pair ( 9h 9s As 6h 5s )
+Wins: Huchoefes, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Calls: Huchoefes
+Checks: Goerle
+Flop: 4h 6s 8s
+Checks: Goerle
+Checks: Huchoefes
+Turn: 7d
+Checks: Goerle
+Checks: Huchoefes
+River: Tc
+Checks: Goerle
+Checks: Huchoefes
+Pot size: 20
+Showdown Reached
+Shows: Huchoefes, 6d 7c
+Combination: Huchoefes, Two Pair ( 7c 7d 6d 6s Tc )
+Shows: Goerle, 2h 2c
+Combination: Goerle, Pair ( 2h 2c Tc 8s 7d )
+Wins: Huchoefes, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Folds: Goerle
+Pot size: 15
+Wins: Huchoefes, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Calls: Huchoefes
+Checks: Goerle
+Flop: 6s Th 7d
+Checks: Goerle
+Checks: Huchoefes
+Turn: 8d
+Checks: Goerle
+Raises: Huchoefes, chips: 10
+Calls: Goerle
+River: 4h
+Raises: Goerle, chips: 10
+Calls: Huchoefes
+Pot size: 60
+Showdown Reached
+Shows: Huchoefes, Jc Jh
+Combination: Huchoefes, Pair ( Jc Jh Th 8d 7d )
+Shows: Goerle, 9s 3d
+Combination: Goerle, Straight ( Th 9s 8d 7d 6s )
+Wins: Goerle, chips: 60
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goerle
+Small Blind: Goerle, chips: 5
+Big Blind: Huchoefes, chips: 10
+Calls: Goerle
+Checks: Huchoefes
+Flop: 4d 3d Ts
+Checks: Huchoefes
+Checks: Goerle
+Turn: 5d
+Raises: Huchoefes, chips: 10
+Raises: Goerle, chips: 20
+Calls: Huchoefes
+River: 9c
+Checks: Huchoefes
+Checks: Goerle
+Pot size: 80
+Showdown Reached
+Shows: Huchoefes, 3s Kd
+Combination: Huchoefes, Pair ( 3s 3d Kd Ts 9c )
+Shows: Goerle, Th Ac
+Combination: Goerle, Pair ( Th Ts Ac 9c 5d )
+Wins: Goerle, chips: 80
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Huchoefes
+Small Blind: Huchoefes, chips: 5
+Big Blind: Goerle, chips: 10
+Calls: Huchoefes
+Raises: Goerle, chips: 10
+Raises: Huchoefes, chips: 20
+Calls: Goerle
+Flop: Qd 8h 7c
+Raises: Goerle, chips: 30
+Calls: Huchoefes
+Turn: 6d
+Checks: Goerle
+Checks: Huchoefes
+River: Ac
+Raises: Goerle, chips: 4895
+Calls: Huchoefes
+Pot size: 7000
+Showdown Reached
+Shows: Huchoefes, Ad Th
+Combination: Huchoefes, Pair ( Ad Ac Qd Th 8h )
+Shows: Goerle, Ah 6h
+Combination: Goerle, Two Pair ( Ah Ac 6h 6d Qd )
+Wins: Goerle, chips: 7000
+Quits: Huchoefes, chips: 0
+Ranking: Goerle, Place: 1, Score: 6000
+Reveal AI: Goerle, AI: Smart
+Ranking: Huchoefes, Place: 2, Score: -1000
+Reveal AI: Huchoefes, AI: Smart
+Ranking: Voebetry, Place: 3, Score: -1000
+Reveal AI: Voebetry, AI: Call
+Ranking: Loerleelis, Place: 4, Score: -1000
+Reveal AI: Loerleelis, AI: Call
+Ranking: Gigike, Place: 5, Score: -1000
+Reveal AI: Gigike, AI: Random
+Ranking: Koe, Place: 6, Score: -1000
+Reveal AI: Koe, AI: AIMyBot1
+Ranking: Deemewrev, Place: 7, Score: -1000
+Reveal AI: Deemewrev, AI: Random
+
+Player Stats for Deemewrev, AI: Random
+General: deals: 2, actions: 8, preflop actions: 3
+Rounds Seen: flops: 79, turns: 66, rivers: 54, showdowns: 48
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 0
+Pre-Flop Stats: VP$IP: 1, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: 1.#INF, WSD: 0.607595, WSDW: 0
+
+
+Player Stats for Gigike, AI: Random
+General: deals: 4, actions: 16, preflop actions: 4
+Rounds Seen: flops: 79, turns: 65, rivers: 54, showdowns: 48
+Wins: total: 1, showdown: 1, bluff: 0
+Chips: won: 85, lost: 1105, bought: 1000, forced bets: 15
+Pre-Flop Stats: VP$IP: 1, PFR: 0.5, 3Bet: 0.5
+Post-Flop Stats: AF: 0.5, WSD: 0.607595, WSDW: 0.0208333
+
+
+Player Stats for Goerle, AI: Smart
+General: deals: 197, actions: 354, preflop actions: 156
+Rounds Seen: flops: 73, turns: 60, rivers: 49, showdowns: 43
+Wins: total: 89, showdown: 18, bluff: 71
+Chips: won: 39045, lost: 33045, bought: 1000, forced bets: 1405
+Pre-Flop Stats: VP$IP: 0.253807, PFR: 0.0609137, 3Bet: 0.0406091
+Post-Flop Stats: AF: 1.66667, WSD: 0.589041, WSDW: 0.418605
+
+
+Player Stats for Huchoefes, AI: Smart
+General: deals: 197, actions: 323, preflop actions: 151
+Rounds Seen: flops: 67, turns: 52, rivers: 41, showdowns: 35
+Wins: total: 99, showdown: 22, bluff: 77
+Chips: won: 13970, lost: 17900, bought: 1000, forced bets: 1410
+Pre-Flop Stats: VP$IP: 0.238579, PFR: 0.0659898, 3Bet: 0.0456853
+Post-Flop Stats: AF: 5, WSD: 0.522388, WSDW: 0.628571
+
+
+Player Stats for Koe, AI: AIMyBot1
+General: deals: 4, actions: 11, preflop actions: 4
+Rounds Seen: flops: 77, turns: 64, rivers: 53, showdowns: 47
+Wins: total: 1, showdown: 1, bluff: 0
+Chips: won: 560, lost: 1560, bought: 1000, forced bets: 15
+Pre-Flop Stats: VP$IP: 0.5, PFR: 0.5, 3Bet: 0.5
+Post-Flop Stats: AF: 6, WSD: 0.61039, WSDW: 0.0212766
+
+
+Player Stats for Loerleelis, AI: Call
+General: deals: 17, actions: 77, preflop actions: 20
+Rounds Seen: flops: 79, turns: 66, rivers: 55, showdowns: 49
+Wins: total: 5, showdown: 5, bluff: 0
+Chips: won: 3925, lost: 5765, bought: 1000, forced bets: 60
+Pre-Flop Stats: VP$IP: 0.823529, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: 0, WSD: 0.620253, WSDW: 0.102041
+
+
+Player Stats for Voebetry, AI: Call
+General: deals: 17, actions: 75, preflop actions: 20
+Rounds Seen: flops: 79, turns: 66, rivers: 55, showdowns: 49
+Wins: total: 6, showdown: 6, bluff: 0
+Chips: won: 2890, lost: 5925, bought: 1000, forced bets: 50
+Pre-Flop Stats: VP$IP: 0.823529, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: 0, WSD: 0.620253, WSDW: 0.122449
+
+

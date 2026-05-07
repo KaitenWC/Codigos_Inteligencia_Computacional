@@ -1,0 +1,4928 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Foedeewrek: Smart
+Tababek: Call
+Jesek: AIMyBot1
+Gufi: Call
+Jefen: Random
+Goefewreep: Random
+Ronhafe: Smart
+
+Joins: Foedeewrek, chips: 1000
+Joins: Tababek, chips: 1000
+Joins: Jesek, chips: 1000
+Joins: Gufi, chips: 1000
+Joins: Jefen, chips: 1000
+Joins: Goefewreep, chips: 1000
+Joins: Ronhafe, chips: 1000
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goefewreep
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Calls: Tababek
+Raises: Jesek, chips: 40
+Calls: Gufi
+Raises: Jefen, chips: 90
+Raises: Goefewreep, chips: 230
+Folds: Ronhafe
+Folds: Foedeewrek
+Calls: Tababek
+Raises: Jesek, chips: 630
+Calls: Gufi
+Calls: Jefen
+Calls: Goefewreep
+Calls: Tababek
+Flop: Ac 7s 8s
+Turn: 5s
+River: 2h
+Pot size: 5015
+Showdown Reached
+Shows: Tababek, 8c 4h
+Combination: Tababek, Pair ( 8c 8s Ac 7s 5s )
+Shows: Jesek, 6h 6d
+Combination: Jesek, Pair ( 6h 6d Ac 8s 7s )
+Shows: Gufi, Jd Td
+Combination: Gufi, High Card ( Ac Jd Td 8s 7s )
+Shows: Jefen, Qc 9s
+Combination: Jefen, High Card ( Ac Qc 9s 8s 7s )
+Shows: Goefewreep, 3c 9h
+Combination: Goefewreep, High Card ( Ac 9h 8s 7s 5s )
+Wins: Tababek, chips: 5015
+Quits: Jesek, chips: 0
+Quits: Gufi, chips: 0
+Quits: Jefen, chips: 0
+Quits: Goefewreep, chips: 0
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Tababek, chips: 10
+Calls: Ronhafe
+Folds: Foedeewrek
+Checks: Tababek
+Flop: 6c Ah 3d
+Checks: Tababek
+Checks: Ronhafe
+Turn: 5s
+Checks: Tababek
+Checks: Ronhafe
+River: 2c
+Checks: Tababek
+Checks: Ronhafe
+Pot size: 25
+Showdown Reached
+Shows: Tababek, 8s 8c
+Combination: Tababek, Pair ( 8s 8c Ah 6c 5s )
+Shows: Ronhafe, 6s 7c
+Combination: Ronhafe, Pair ( 6s 6c Ah 7c 5s )
+Wins: Tababek, chips: 25
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Tababek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Calls: Foedeewrek
+Calls: Tababek
+Checks: Ronhafe
+Flop: 7d 3h 4h
+Checks: Tababek
+Checks: Ronhafe
+Checks: Foedeewrek
+Turn: Kd
+Checks: Tababek
+Raises: Ronhafe, chips: 10
+Folds: Foedeewrek
+Calls: Tababek
+River: Jc
+Checks: Tababek
+Checks: Ronhafe
+Pot size: 50
+Showdown Reached
+Shows: Tababek, 9s 2d
+Combination: Tababek, High Card ( Kd Jc 9s 7d 4h )
+Shows: Ronhafe, 4d Qd
+Combination: Ronhafe, Pair ( 4d 4h Kd Qd Jc )
+Wins: Ronhafe, chips: 50
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Tababek
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Calls: Tababek
+Folds: Ronhafe
+Checks: Foedeewrek
+Flop: 2s Ks 8s
+Checks: Foedeewrek
+Checks: Tababek
+Turn: 5s
+Checks: Foedeewrek
+Checks: Tababek
+River: Jd
+Checks: Foedeewrek
+Checks: Tababek
+Pot size: 25
+Showdown Reached
+Shows: Foedeewrek, 3c 5h
+Combination: Foedeewrek, Pair ( 5h 5s Ks Jd 8s )
+Shows: Tababek, 6d 2d
+Combination: Tababek, Pair ( 2d 2s Ks Jd 8s )
+Wins: Foedeewrek, chips: 25
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Tababek, chips: 10
+Folds: Ronhafe
+Calls: Foedeewrek
+Checks: Tababek
+Flop: 5d 2c 6d
+Checks: Foedeewrek
+Checks: Tababek
+Turn: Tc
+Raises: Foedeewrek, chips: 10
+Calls: Tababek
+River: 6c
+Raises: Foedeewrek, chips: 10
+Calls: Tababek
+Pot size: 60
+Showdown Reached
+Shows: Foedeewrek, Qd Qc
+Combination: Foedeewrek, Two Pair ( Qd Qc 6d 6c Tc )
+Shows: Tababek, 2h 8d
+Combination: Tababek, Two Pair ( 6d 6c 2h 2c Tc )
+Wins: Foedeewrek, chips: 60
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Tababek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Folds: Foedeewrek
+Calls: Tababek
+Checks: Ronhafe
+Flop: 7c 2d As
+Checks: Tababek
+Checks: Ronhafe
+Turn: 4s
+Checks: Tababek
+Checks: Ronhafe
+River: Kc
+Checks: Tababek
+Checks: Ronhafe
+Pot size: 20
+Showdown Reached
+Shows: Tababek, 2c 9h
+Combination: Tababek, Pair ( 2c 2d As Kc 9h )
+Shows: Ronhafe, 8h Qs
+Combination: Ronhafe, High Card ( As Kc Qs 8h 7c )
+Wins: Tababek, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Tababek
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Calls: Tababek
+Calls: Ronhafe
+Checks: Foedeewrek
+Flop: 4d As Ah
+Raises: Ronhafe, chips: 990
+Folds: Foedeewrek
+Calls: Tababek
+Turn: Js
+River: 4h
+Pot size: 2010
+Showdown Reached
+Shows: Tababek, Kc Qc
+Combination: Tababek, Two Pair ( As Ah 4d 4h Kc )
+Shows: Ronhafe, Ad Jd
+Combination: Ronhafe, Full House ( Ad As Ah Jd Js )
+Wins: Ronhafe, chips: 2010
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Tababek, chips: 10
+Folds: Ronhafe
+Folds: Foedeewrek
+Pot size: 15
+Wins: Tababek, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Tababek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Folds: Foedeewrek
+Calls: Tababek
+Checks: Ronhafe
+Flop: Js 5c 9s
+Checks: Tababek
+Raises: Ronhafe, chips: 10
+Calls: Tababek
+Turn: 3s
+Checks: Tababek
+Checks: Ronhafe
+River: 9c
+Checks: Tababek
+Checks: Ronhafe
+Pot size: 40
+Showdown Reached
+Shows: Tababek, 9d 7d
+Combination: Tababek, Three Of A Kind ( 9d 9s 9c Js 7d )
+Shows: Ronhafe, Kd Ts
+Combination: Ronhafe, Pair ( 9s 9c Kd Js Ts )
+Wins: Tababek, chips: 40
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Tababek
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Calls: Tababek
+Folds: Ronhafe
+Checks: Foedeewrek
+Flop: 9d 4h 5d
+Checks: Foedeewrek
+Checks: Tababek
+Turn: 9h
+Raises: Foedeewrek, chips: 10
+Calls: Tababek
+River: Kh
+Checks: Foedeewrek
+Checks: Tababek
+Pot size: 45
+Showdown Reached
+Shows: Foedeewrek, 9c 8d
+Combination: Foedeewrek, Three Of A Kind ( 9c 9d 9h Kh 8d )
+Shows: Tababek, As 2c
+Combination: Tababek, Pair ( 9d 9h As Kh 5d )
+Wins: Foedeewrek, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Tababek, chips: 10
+Folds: Ronhafe
+Calls: Foedeewrek
+Checks: Tababek
+Flop: Js 8s As
+Checks: Foedeewrek
+Checks: Tababek
+Turn: 6s
+Checks: Foedeewrek
+Checks: Tababek
+River: Ah
+Checks: Foedeewrek
+Checks: Tababek
+Pot size: 20
+Showdown Reached
+Shows: Foedeewrek, 8h 7c
+Combination: Foedeewrek, Two Pair ( As Ah 8h 8s Js )
+Shows: Tababek, 5d Qh
+Combination: Tababek, Pair ( As Ah Qh Js 8s )
+Wins: Foedeewrek, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Tababek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Folds: Foedeewrek
+Calls: Tababek
+Checks: Ronhafe
+Flop: Td Kh Ac
+Checks: Tababek
+Checks: Ronhafe
+Turn: Kc
+Checks: Tababek
+Checks: Ronhafe
+River: 5h
+Checks: Tababek
+Checks: Ronhafe
+Pot size: 20
+Showdown Reached
+Shows: Tababek, 5s Jh
+Combination: Tababek, Two Pair ( Kh Kc 5s 5h Ac )
+Shows: Ronhafe, 5d 4h
+Combination: Ronhafe, Two Pair ( Kh Kc 5d 5h Ac )
+Wins: Tababek, chips: 10
+Wins: Ronhafe, chips: 10
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Tababek
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Calls: Tababek
+Calls: Ronhafe
+Checks: Foedeewrek
+Flop: 2s 5c Qc
+Raises: Ronhafe, chips: 10
+Folds: Foedeewrek
+Calls: Tababek
+Turn: Ad
+Checks: Ronhafe
+Checks: Tababek
+River: Ks
+Raises: Ronhafe, chips: 10
+Calls: Tababek
+Pot size: 70
+Showdown Reached
+Shows: Tababek, 7c Jc
+Combination: Tababek, High Card ( Ad Ks Qc Jc 7c )
+Shows: Ronhafe, 7s 7d
+Combination: Ronhafe, Pair ( 7s 7d Ad Ks Qc )
+Wins: Ronhafe, chips: 70
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Tababek, chips: 10
+Folds: Ronhafe
+Folds: Foedeewrek
+Pot size: 15
+Wins: Tababek, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Tababek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Folds: Foedeewrek
+Calls: Tababek
+Checks: Ronhafe
+Flop: 9c Kh 2h
+Checks: Tababek
+Checks: Ronhafe
+Turn: 7s
+Checks: Tababek
+Checks: Ronhafe
+River: 2s
+Checks: Tababek
+Raises: Ronhafe, chips: 10
+Calls: Tababek
+Pot size: 40
+Showdown Reached
+Shows: Tababek, Ah 2d
+Combination: Tababek, Three Of A Kind ( 2d 2h 2s Ah Kh )
+Shows: Ronhafe, As 4d
+Combination: Ronhafe, Pair ( 2h 2s As Kh 9c )
+Wins: Tababek, chips: 40
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Tababek
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Calls: Tababek
+Folds: Ronhafe
+Checks: Foedeewrek
+Flop: 4c 5d 5s
+Checks: Foedeewrek
+Checks: Tababek
+Turn: 7h
+Checks: Foedeewrek
+Checks: Tababek
+River: 8c
+Checks: Foedeewrek
+Checks: Tababek
+Pot size: 25
+Showdown Reached
+Shows: Foedeewrek, 9h Jd
+Combination: Foedeewrek, Pair ( 5d 5s Jd 9h 8c )
+Shows: Tababek, 2d 3c
+Combination: Tababek, Pair ( 5d 5s 8c 7h 4c )
+Wins: Foedeewrek, chips: 25
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Tababek, chips: 10
+Calls: Ronhafe
+Calls: Foedeewrek
+Checks: Tababek
+Flop: Ah 8d 8c
+Raises: Foedeewrek, chips: 1030
+Calls: Tababek
+Folds: Ronhafe
+Turn: 6s
+River: 4c
+Pot size: 2090
+Showdown Reached
+Shows: Foedeewrek, Ad Ac
+Combination: Foedeewrek, Full House ( Ad Ac Ah 8d 8c )
+Shows: Tababek, Qs 7h
+Combination: Tababek, Pair ( 8d 8c Ah Qs 7h )
+Wins: Foedeewrek, chips: 2090
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Tababek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Folds: Foedeewrek
+Calls: Tababek
+Checks: Ronhafe
+Flop: 6s Tc 2d
+Checks: Tababek
+Checks: Ronhafe
+Turn: Kh
+Checks: Tababek
+Raises: Ronhafe, chips: 10
+Calls: Tababek
+River: 8s
+Checks: Tababek
+Checks: Ronhafe
+Pot size: 40
+Showdown Reached
+Shows: Tababek, 9s Kd
+Combination: Tababek, Pair ( Kd Kh Tc 9s 8s )
+Shows: Ronhafe, 5s 2c
+Combination: Ronhafe, Pair ( 2c 2d Kh Tc 8s )
+Wins: Tababek, chips: 40
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Tababek
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Calls: Tababek
+Folds: Ronhafe
+Checks: Foedeewrek
+Flop: 9c 2s 8c
+Checks: Foedeewrek
+Checks: Tababek
+Turn: Ks
+Raises: Foedeewrek, chips: 10
+Calls: Tababek
+River: 6c
+Raises: Foedeewrek, chips: 10
+Calls: Tababek
+Pot size: 65
+Showdown Reached
+Shows: Foedeewrek, 2d 2h
+Combination: Foedeewrek, Three Of A Kind ( 2d 2h 2s Ks 9c )
+Shows: Tababek, Kd Qs
+Combination: Tababek, Pair ( Kd Ks Qs 9c 8c )
+Wins: Foedeewrek, chips: 65
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Tababek, chips: 10
+Folds: Ronhafe
+Folds: Foedeewrek
+Pot size: 15
+Wins: Tababek, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Tababek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Calls: Foedeewrek
+Calls: Tababek
+Checks: Ronhafe
+Flop: 5d Ah Kh
+Checks: Tababek
+Checks: Ronhafe
+Checks: Foedeewrek
+Turn: Ad
+Checks: Tababek
+Checks: Ronhafe
+Checks: Foedeewrek
+River: 5c
+Checks: Tababek
+Checks: Ronhafe
+Checks: Foedeewrek
+Pot size: 30
+Showdown Reached
+Shows: Foedeewrek, 8s 7c
+Combination: Foedeewrek, Two Pair ( Ah Ad 5d 5c Kh )
+Shows: Tababek, Qh Ac
+Combination: Tababek, Full House ( Ac Ah Ad 5d 5c )
+Shows: Ronhafe, 9c 3h
+Combination: Ronhafe, Two Pair ( Ah Ad 5d 5c Kh )
+Wins: Tababek, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Tababek
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Calls: Tababek
+Calls: Ronhafe
+Checks: Foedeewrek
+Flop: 5d 2d Td
+Checks: Ronhafe
+Checks: Foedeewrek
+Checks: Tababek
+Turn: 8s
+Checks: Ronhafe
+Checks: Foedeewrek
+Checks: Tababek
+River: 8h
+Checks: Ronhafe
+Checks: Foedeewrek
+Checks: Tababek
+Pot size: 30
+Showdown Reached
+Shows: Foedeewrek, 3s 4d
+Combination: Foedeewrek, Pair ( 8s 8h Td 5d 4d )
+Shows: Tababek, Js 9h
+Combination: Tababek, Pair ( 8s 8h Js Td 9h )
+Shows: Ronhafe, Jc 8d
+Combination: Ronhafe, Three Of A Kind ( 8d 8s 8h Jc Td )
+Wins: Ronhafe, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Tababek, chips: 10
+Calls: Ronhafe
+Calls: Foedeewrek
+Checks: Tababek
+Flop: Ah 6h Ad
+Checks: Foedeewrek
+Checks: Tababek
+Raises: Ronhafe, chips: 10
+Folds: Foedeewrek
+Calls: Tababek
+Turn: 4c
+Checks: Tababek
+Checks: Ronhafe
+River: Ts
+Checks: Tababek
+Checks: Ronhafe
+Pot size: 50
+Showdown Reached
+Shows: Tababek, 7s 5s
+Combination: Tababek, Pair ( Ah Ad Ts 7s 6h )
+Shows: Ronhafe, 7d 7h
+Combination: Ronhafe, Two Pair ( Ah Ad 7d 7h Ts )
+Wins: Ronhafe, chips: 50
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Tababek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Calls: Foedeewrek
+Calls: Tababek
+Checks: Ronhafe
+Flop: Kc Ad 7s
+Checks: Tababek
+Checks: Ronhafe
+Checks: Foedeewrek
+Turn: 4d
+Checks: Tababek
+Checks: Ronhafe
+Checks: Foedeewrek
+River: 6s
+Checks: Tababek
+Checks: Ronhafe
+Checks: Foedeewrek
+Pot size: 30
+Showdown Reached
+Shows: Foedeewrek, 8c 8s
+Combination: Foedeewrek, Pair ( 8c 8s Ad Kc 7s )
+Shows: Tababek, Ks 8h
+Combination: Tababek, Pair ( Ks Kc Ad 8h 7s )
+Shows: Ronhafe, 4c Qh
+Combination: Ronhafe, Pair ( 4c 4d Ad Kc Qh )
+Wins: Tababek, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Tababek
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Calls: Tababek
+Folds: Ronhafe
+Checks: Foedeewrek
+Flop: 6d Kc 3h
+Checks: Foedeewrek
+Checks: Tababek
+Turn: 3d
+Checks: Foedeewrek
+Checks: Tababek
+River: 4s
+Checks: Foedeewrek
+Checks: Tababek
+Pot size: 25
+Showdown Reached
+Shows: Foedeewrek, 7d 7c
+Combination: Foedeewrek, Two Pair ( 7d 7c 3h 3d Kc )
+Shows: Tababek, Ks 7s
+Combination: Tababek, Two Pair ( Ks Kc 3h 3d 7s )
+Wins: Tababek, chips: 25
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Tababek, chips: 10
+Folds: Ronhafe
+Folds: Foedeewrek
+Pot size: 15
+Wins: Tababek, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Tababek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Folds: Foedeewrek
+Calls: Tababek
+Checks: Ronhafe
+Flop: Kd Ah 6s
+Checks: Tababek
+Checks: Ronhafe
+Turn: 3d
+Checks: Tababek
+Raises: Ronhafe, chips: 10
+Calls: Tababek
+River: As
+Checks: Tababek
+Raises: Ronhafe, chips: 10
+Calls: Tababek
+Pot size: 60
+Showdown Reached
+Shows: Tababek, 7s 5h
+Combination: Tababek, Pair ( Ah As Kd 7s 6s )
+Shows: Ronhafe, Ad Jd
+Combination: Ronhafe, Three Of A Kind ( Ad Ah As Kd Jd )
+Wins: Ronhafe, chips: 60
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Tababek
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Calls: Tababek
+Folds: Ronhafe
+Checks: Foedeewrek
+Flop: Jd 8s Ah
+Checks: Foedeewrek
+Checks: Tababek
+Turn: 3h
+Checks: Foedeewrek
+Checks: Tababek
+River: 4d
+Checks: Foedeewrek
+Checks: Tababek
+Pot size: 25
+Showdown Reached
+Shows: Foedeewrek, Th 2c
+Combination: Foedeewrek, High Card ( Ah Jd Th 8s 4d )
+Shows: Tababek, Td 5d
+Combination: Tababek, High Card ( Ah Jd Td 8s 5d )
+Wins: Tababek, chips: 25
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Tababek, chips: 10
+Folds: Ronhafe
+Folds: Foedeewrek
+Pot size: 15
+Wins: Tababek, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Tababek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Folds: Foedeewrek
+Calls: Tababek
+Checks: Ronhafe
+Flop: 9c 3c 3h
+Checks: Tababek
+Checks: Ronhafe
+Turn: Kh
+Checks: Tababek
+Checks: Ronhafe
+River: 3d
+Checks: Tababek
+Checks: Ronhafe
+Pot size: 20
+Showdown Reached
+Shows: Tababek, 2s 5d
+Combination: Tababek, Three Of A Kind ( 3c 3h 3d Kh 9c )
+Shows: Ronhafe, Ad Td
+Combination: Ronhafe, Three Of A Kind ( 3c 3h 3d Ad Kh )
+Wins: Ronhafe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Tababek
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Calls: Tababek
+Folds: Ronhafe
+Checks: Foedeewrek
+Flop: 3d 6s 9d
+Checks: Foedeewrek
+Checks: Tababek
+Turn: 2d
+Checks: Foedeewrek
+Checks: Tababek
+River: Jd
+Raises: Foedeewrek, chips: 10
+Calls: Tababek
+Pot size: 45
+Showdown Reached
+Shows: Foedeewrek, 6d 7c
+Combination: Foedeewrek, Flush ( Jd 9d 6d 3d 2d )
+Shows: Tababek, 9c Ac
+Combination: Tababek, Pair ( 9c 9d Ac Jd 6s )
+Wins: Foedeewrek, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Tababek, chips: 10
+Folds: Ronhafe
+Calls: Foedeewrek
+Checks: Tababek
+Flop: Ad Ks Qs
+Checks: Foedeewrek
+Checks: Tababek
+Turn: Qh
+Checks: Foedeewrek
+Checks: Tababek
+River: 5c
+Checks: Foedeewrek
+Checks: Tababek
+Pot size: 20
+Showdown Reached
+Shows: Foedeewrek, 2s 4s
+Combination: Foedeewrek, Pair ( Qs Qh Ad Ks 5c )
+Shows: Tababek, Ts 9h
+Combination: Tababek, Pair ( Qs Qh Ad Ks Ts )
+Wins: Tababek, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Tababek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Folds: Foedeewrek
+Calls: Tababek
+Checks: Ronhafe
+Flop: Qs Th 5d
+Checks: Tababek
+Checks: Ronhafe
+Turn: 6c
+Checks: Tababek
+Checks: Ronhafe
+River: Kh
+Checks: Tababek
+Checks: Ronhafe
+Pot size: 20
+Showdown Reached
+Shows: Tababek, 3d 4s
+Combination: Tababek, High Card ( Kh Qs Th 6c 5d )
+Shows: Ronhafe, 2s 7h
+Combination: Ronhafe, High Card ( Kh Qs Th 7h 6c )
+Wins: Ronhafe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Tababek
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Calls: Tababek
+Calls: Ronhafe
+Checks: Foedeewrek
+Flop: 6s 2d 3h
+Checks: Ronhafe
+Checks: Foedeewrek
+Checks: Tababek
+Turn: Th
+Checks: Ronhafe
+Checks: Foedeewrek
+Checks: Tababek
+River: 8d
+Raises: Ronhafe, chips: 2020
+Folds: Foedeewrek
+Calls: Tababek
+Pot size: 4070
+Showdown Reached
+Shows: Tababek, 6h Js
+Combination: Tababek, Pair ( 6h 6s Js Th 8d )
+Shows: Ronhafe, 7c 9c
+Combination: Ronhafe, Straight ( Th 9c 8d 7c 6s )
+Wins: Ronhafe, chips: 4070
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Tababek, chips: 10
+Folds: Ronhafe
+Calls: Foedeewrek
+Checks: Tababek
+Flop: Ah Qs Ts
+Checks: Foedeewrek
+Checks: Tababek
+Turn: Ac
+Checks: Foedeewrek
+Checks: Tababek
+River: Th
+Raises: Foedeewrek, chips: 2045
+Calls: Tababek
+Pot size: 2930
+Showdown Reached
+Shows: Foedeewrek, Ad 8d
+Combination: Foedeewrek, Full House ( Ad Ah Ac Ts Th )
+Shows: Tababek, 9h 9s
+Combination: Tababek, Two Pair ( Ah Ac Ts Th Qs )
+Wins: Foedeewrek, chips: 2930
+Quits: Tababek, chips: 0
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Folds: Foedeewrek
+Pot size: 15
+Wins: Ronhafe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Folds: Ronhafe
+Pot size: 15
+Wins: Foedeewrek, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Folds: Foedeewrek
+Pot size: 15
+Wins: Ronhafe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Calls: Ronhafe
+Checks: Foedeewrek
+Flop: Qd Jh 4s
+Checks: Foedeewrek
+Checks: Ronhafe
+Turn: 6d
+Checks: Foedeewrek
+Checks: Ronhafe
+River: 4d
+Checks: Foedeewrek
+Checks: Ronhafe
+Pot size: 20
+Showdown Reached
+Shows: Foedeewrek, 5c As
+Combination: Foedeewrek, Pair ( 4s 4d As Qd Jh )
+Shows: Ronhafe, 9c Ah
+Combination: Ronhafe, Pair ( 4s 4d Ah Qd Jh )
+Wins: Foedeewrek, chips: 10
+Wins: Ronhafe, chips: 10
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Folds: Foedeewrek
+Pot size: 15
+Wins: Ronhafe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Raises: Ronhafe, chips: 15
+Folds: Foedeewrek
+Pot size: 35
+Wins: Ronhafe, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Folds: Foedeewrek
+Pot size: 15
+Wins: Ronhafe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Folds: Ronhafe
+Pot size: 15
+Wins: Foedeewrek, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Folds: Foedeewrek
+Pot size: 15
+Wins: Ronhafe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Folds: Ronhafe
+Pot size: 15
+Wins: Foedeewrek, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Folds: Foedeewrek
+Pot size: 15
+Wins: Ronhafe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Calls: Ronhafe
+Checks: Foedeewrek
+Flop: 5c As 4c
+Checks: Foedeewrek
+Raises: Ronhafe, chips: 10
+Calls: Foedeewrek
+Turn: 7d
+Checks: Foedeewrek
+Checks: Ronhafe
+River: 5d
+Checks: Foedeewrek
+Checks: Ronhafe
+Pot size: 40
+Showdown Reached
+Shows: Foedeewrek, 9h 4h
+Combination: Foedeewrek, Two Pair ( 5c 5d 4h 4c As )
+Shows: Ronhafe, Qc Jh
+Combination: Ronhafe, Pair ( 5c 5d As Qc Jh )
+Wins: Foedeewrek, chips: 40
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Folds: Foedeewrek
+Pot size: 15
+Wins: Ronhafe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Calls: Ronhafe
+Checks: Foedeewrek
+Flop: As 8s 7c
+Checks: Foedeewrek
+Checks: Ronhafe
+Turn: 2c
+Checks: Foedeewrek
+Checks: Ronhafe
+River: Qh
+Checks: Foedeewrek
+Checks: Ronhafe
+Pot size: 20
+Showdown Reached
+Shows: Foedeewrek, 5h Kc
+Combination: Foedeewrek, High Card ( As Kc Qh 8s 7c )
+Shows: Ronhafe, Kh 9s
+Combination: Ronhafe, High Card ( As Kh Qh 9s 8s )
+Wins: Ronhafe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Raises: Foedeewrek, chips: 15
+Folds: Ronhafe
+Pot size: 35
+Wins: Foedeewrek, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Folds: Ronhafe
+Pot size: 15
+Wins: Foedeewrek, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Calls: Foedeewrek
+Checks: Ronhafe
+Flop: Qd 8d 5d
+Checks: Ronhafe
+Checks: Foedeewrek
+Turn: Ks
+Checks: Ronhafe
+Raises: Foedeewrek, chips: 10
+Folds: Ronhafe
+Pot size: 30
+Wins: Foedeewrek, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Folds: Ronhafe
+Pot size: 15
+Wins: Foedeewrek, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Folds: Foedeewrek
+Pot size: 15
+Wins: Ronhafe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Folds: Ronhafe
+Pot size: 15
+Wins: Foedeewrek, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Calls: Foedeewrek
+Checks: Ronhafe
+Flop: 9c Qc 4h
+Checks: Ronhafe
+Checks: Foedeewrek
+Turn: 8s
+Checks: Ronhafe
+Checks: Foedeewrek
+River: Td
+Checks: Ronhafe
+Checks: Foedeewrek
+Pot size: 20
+Showdown Reached
+Shows: Foedeewrek, 2c Ac
+Combination: Foedeewrek, High Card ( Ac Qc Td 9c 8s )
+Shows: Ronhafe, Kh 5c
+Combination: Ronhafe, High Card ( Kh Qc Td 9c 8s )
+Wins: Foedeewrek, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Calls: Ronhafe
+Checks: Foedeewrek
+Flop: 3c 5h Kh
+Checks: Foedeewrek
+Checks: Ronhafe
+Turn: 9s
+Checks: Foedeewrek
+Checks: Ronhafe
+River: 3d
+Checks: Foedeewrek
+Raises: Ronhafe, chips: 10
+Raises: Foedeewrek, chips: 2930
+Folds: Ronhafe
+Pot size: 2970
+Wins: Foedeewrek, chips: 2970
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Folds: Foedeewrek
+Pot size: 15
+Wins: Ronhafe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Raises: Ronhafe, chips: 15
+Folds: Foedeewrek
+Pot size: 35
+Wins: Ronhafe, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Calls: Foedeewrek
+Checks: Ronhafe
+Flop: 5h Tc 4h
+Checks: Ronhafe
+Raises: Foedeewrek, chips: 10
+Raises: Ronhafe, chips: 20
+Calls: Foedeewrek
+Turn: Kd
+Checks: Ronhafe
+Checks: Foedeewrek
+River: 6d
+Raises: Ronhafe, chips: 30
+Calls: Foedeewrek
+Pot size: 140
+Showdown Reached
+Shows: Foedeewrek, As Th
+Combination: Foedeewrek, Pair ( Th Tc As Kd 6d )
+Shows: Ronhafe, 5s Ac
+Combination: Ronhafe, Pair ( 5s 5h Ac Kd Tc )
+Wins: Foedeewrek, chips: 140
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Calls: Ronhafe
+Checks: Foedeewrek
+Flop: Ts Td 5d
+Checks: Foedeewrek
+Checks: Ronhafe
+Turn: 7d
+Checks: Foedeewrek
+Checks: Ronhafe
+River: 2s
+Checks: Foedeewrek
+Checks: Ronhafe
+Pot size: 20
+Showdown Reached
+Shows: Foedeewrek, Jc Qs
+Combination: Foedeewrek, Pair ( Ts Td Qs Jc 7d )
+Shows: Ronhafe, Ac 4c
+Combination: Ronhafe, Pair ( Ts Td Ac 7d 5d )
+Wins: Ronhafe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Folds: Foedeewrek
+Pot size: 15
+Wins: Ronhafe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Folds: Ronhafe
+Pot size: 15
+Wins: Foedeewrek, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Folds: Foedeewrek
+Pot size: 15
+Wins: Ronhafe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Calls: Ronhafe
+Checks: Foedeewrek
+Flop: As 8h Qh
+Raises: Foedeewrek, chips: 10
+Folds: Ronhafe
+Pot size: 30
+Wins: Foedeewrek, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Calls: Foedeewrek
+Raises: Ronhafe, chips: 10
+Folds: Foedeewrek
+Pot size: 30
+Wins: Ronhafe, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Folds: Ronhafe
+Pot size: 15
+Wins: Foedeewrek, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Folds: Foedeewrek
+Pot size: 15
+Wins: Ronhafe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Folds: Ronhafe
+Pot size: 15
+Wins: Foedeewrek, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Calls: Foedeewrek
+Checks: Ronhafe
+Flop: 7c Ad 9d
+Checks: Ronhafe
+Raises: Foedeewrek, chips: 10
+Calls: Ronhafe
+Turn: 6d
+Checks: Ronhafe
+Checks: Foedeewrek
+River: 6c
+Checks: Ronhafe
+Checks: Foedeewrek
+Pot size: 40
+Showdown Reached
+Shows: Foedeewrek, 5d 5s
+Combination: Foedeewrek, Two Pair ( 6d 6c 5d 5s Ad )
+Shows: Ronhafe, 8c Js
+Combination: Ronhafe, Pair ( 6d 6c Ad Js 9d )
+Wins: Foedeewrek, chips: 40
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Folds: Ronhafe
+Pot size: 15
+Wins: Foedeewrek, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Folds: Foedeewrek
+Pot size: 15
+Wins: Ronhafe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Raises: Ronhafe, chips: 15
+Folds: Foedeewrek
+Pot size: 35
+Wins: Ronhafe, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Calls: Foedeewrek
+Checks: Ronhafe
+Flop: 3h 9h 6s
+Checks: Ronhafe
+Checks: Foedeewrek
+Turn: 2c
+Checks: Ronhafe
+Checks: Foedeewrek
+River: Th
+Checks: Ronhafe
+Checks: Foedeewrek
+Pot size: 20
+Showdown Reached
+Shows: Foedeewrek, 8d Td
+Combination: Foedeewrek, Pair ( Td Th 9h 8d 6s )
+Shows: Ronhafe, 8h Ah
+Combination: Ronhafe, Flush ( Ah Th 9h 8h 3h )
+Wins: Ronhafe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Folds: Ronhafe
+Pot size: 15
+Wins: Foedeewrek, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Folds: Foedeewrek
+Pot size: 15
+Wins: Ronhafe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Folds: Ronhafe
+Pot size: 15
+Wins: Foedeewrek, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Calls: Foedeewrek
+Checks: Ronhafe
+Flop: 5c Qd 4d
+Checks: Ronhafe
+Checks: Foedeewrek
+Turn: Th
+Checks: Ronhafe
+Checks: Foedeewrek
+River: Ad
+Checks: Ronhafe
+Raises: Foedeewrek, chips: 10
+Folds: Ronhafe
+Pot size: 30
+Wins: Foedeewrek, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Raises: Ronhafe, chips: 15
+Raises: Foedeewrek, chips: 15
+Calls: Ronhafe
+Flop: Jd 8h 5d
+Checks: Foedeewrek
+Checks: Ronhafe
+Turn: Ac
+Checks: Foedeewrek
+Checks: Ronhafe
+River: 3c
+Checks: Foedeewrek
+Checks: Ronhafe
+Pot size: 80
+Showdown Reached
+Shows: Foedeewrek, Qd Kc
+Combination: Foedeewrek, High Card ( Ac Kc Qd Jd 8h )
+Shows: Ronhafe, Th Jh
+Combination: Ronhafe, Pair ( Jh Jd Ac Th 8h )
+Wins: Ronhafe, chips: 80
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Folds: Foedeewrek
+Pot size: 15
+Wins: Ronhafe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Folds: Ronhafe
+Pot size: 15
+Wins: Foedeewrek, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Calls: Foedeewrek
+Checks: Ronhafe
+Flop: Ts 2s 4c
+Checks: Ronhafe
+Checks: Foedeewrek
+Turn: 2h
+Checks: Ronhafe
+Raises: Foedeewrek, chips: 10
+Calls: Ronhafe
+River: 4s
+Checks: Ronhafe
+Checks: Foedeewrek
+Pot size: 40
+Showdown Reached
+Shows: Foedeewrek, Th 8c
+Combination: Foedeewrek, Two Pair ( Th Ts 4c 4s 8c )
+Shows: Ronhafe, Ad 9d
+Combination: Ronhafe, Two Pair ( 4c 4s 2s 2h Ad )
+Wins: Foedeewrek, chips: 40
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Folds: Ronhafe
+Pot size: 15
+Wins: Foedeewrek, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Folds: Foedeewrek
+Pot size: 15
+Wins: Ronhafe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Calls: Ronhafe
+Checks: Foedeewrek
+Flop: Ks 9s 5s
+Raises: Foedeewrek, chips: 10
+Folds: Ronhafe
+Pot size: 30
+Wins: Foedeewrek, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Folds: Foedeewrek
+Pot size: 15
+Wins: Ronhafe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Folds: Ronhafe
+Pot size: 15
+Wins: Foedeewrek, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Calls: Foedeewrek
+Checks: Ronhafe
+Flop: 9h Th 3c
+Checks: Ronhafe
+Checks: Foedeewrek
+Turn: 3h
+Checks: Ronhafe
+Raises: Foedeewrek, chips: 10
+Folds: Ronhafe
+Pot size: 30
+Wins: Foedeewrek, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Calls: Ronhafe
+Raises: Foedeewrek, chips: 10
+Folds: Ronhafe
+Pot size: 30
+Wins: Foedeewrek, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Calls: Foedeewrek
+Checks: Ronhafe
+Flop: Qc Jc 7d
+Checks: Ronhafe
+Checks: Foedeewrek
+Turn: Qh
+Checks: Ronhafe
+Raises: Foedeewrek, chips: 10
+Folds: Ronhafe
+Pot size: 30
+Wins: Foedeewrek, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Folds: Ronhafe
+Pot size: 15
+Wins: Foedeewrek, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Folds: Foedeewrek
+Pot size: 15
+Wins: Ronhafe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Folds: Ronhafe
+Pot size: 15
+Wins: Foedeewrek, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Calls: Foedeewrek
+Raises: Ronhafe, chips: 10
+Folds: Foedeewrek
+Pot size: 30
+Wins: Ronhafe, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Folds: Ronhafe
+Pot size: 15
+Wins: Foedeewrek, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Folds: Foedeewrek
+Pot size: 15
+Wins: Ronhafe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Calls: Ronhafe
+Checks: Foedeewrek
+Flop: 6c Jd 3s
+Checks: Foedeewrek
+Checks: Ronhafe
+Turn: Qc
+Checks: Foedeewrek
+Checks: Ronhafe
+River: 9s
+Raises: Foedeewrek, chips: 3035
+Folds: Ronhafe
+Pot size: 3055
+Wins: Foedeewrek, chips: 3055
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Folds: Foedeewrek
+Pot size: 15
+Wins: Ronhafe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Folds: Ronhafe
+Pot size: 15
+Wins: Foedeewrek, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Folds: Foedeewrek
+Pot size: 15
+Wins: Ronhafe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Calls: Ronhafe
+Checks: Foedeewrek
+Flop: 3c 4c Js
+Checks: Foedeewrek
+Checks: Ronhafe
+Turn: 7h
+Checks: Foedeewrek
+Checks: Ronhafe
+River: Kc
+Checks: Foedeewrek
+Checks: Ronhafe
+Pot size: 20
+Showdown Reached
+Shows: Foedeewrek, 3s 9s
+Combination: Foedeewrek, Pair ( 3s 3c Kc Js 9s )
+Shows: Ronhafe, Tc Qs
+Combination: Ronhafe, High Card ( Kc Qs Js Tc 7h )
+Wins: Foedeewrek, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Folds: Foedeewrek
+Pot size: 15
+Wins: Ronhafe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Calls: Ronhafe
+Checks: Foedeewrek
+Flop: Th 4c 9c
+Checks: Foedeewrek
+Checks: Ronhafe
+Turn: 6s
+Checks: Foedeewrek
+Checks: Ronhafe
+River: Qd
+Checks: Foedeewrek
+Checks: Ronhafe
+Pot size: 20
+Showdown Reached
+Shows: Foedeewrek, 6h 8c
+Combination: Foedeewrek, Pair ( 6h 6s Qd Th 9c )
+Shows: Ronhafe, 7d Kd
+Combination: Ronhafe, High Card ( Kd Qd Th 9c 7d )
+Wins: Foedeewrek, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Calls: Foedeewrek
+Checks: Ronhafe
+Flop: 8s 3s Ac
+Checks: Ronhafe
+Checks: Foedeewrek
+Turn: 7h
+Raises: Ronhafe, chips: 10
+Folds: Foedeewrek
+Pot size: 30
+Wins: Ronhafe, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Folds: Ronhafe
+Pot size: 15
+Wins: Foedeewrek, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Folds: Foedeewrek
+Pot size: 15
+Wins: Ronhafe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Folds: Ronhafe
+Pot size: 15
+Wins: Foedeewrek, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Folds: Foedeewrek
+Pot size: 15
+Wins: Ronhafe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Folds: Ronhafe
+Pot size: 15
+Wins: Foedeewrek, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Folds: Foedeewrek
+Pot size: 15
+Wins: Ronhafe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Folds: Ronhafe
+Pot size: 15
+Wins: Foedeewrek, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Folds: Foedeewrek
+Pot size: 15
+Wins: Ronhafe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Folds: Ronhafe
+Pot size: 15
+Wins: Foedeewrek, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Folds: Foedeewrek
+Pot size: 15
+Wins: Ronhafe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Calls: Ronhafe
+Raises: Foedeewrek, chips: 10
+Folds: Ronhafe
+Pot size: 30
+Wins: Foedeewrek, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Folds: Foedeewrek
+Pot size: 15
+Wins: Ronhafe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Folds: Ronhafe
+Pot size: 15
+Wins: Foedeewrek, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Calls: Foedeewrek
+Checks: Ronhafe
+Flop: Qd 8h Tc
+Checks: Ronhafe
+Checks: Foedeewrek
+Turn: Td
+Checks: Ronhafe
+Checks: Foedeewrek
+River: 9s
+Checks: Ronhafe
+Checks: Foedeewrek
+Pot size: 20
+Showdown Reached
+Shows: Foedeewrek, 5c 6d
+Combination: Foedeewrek, Pair ( Tc Td Qd 9s 8h )
+Shows: Ronhafe, 4s Ad
+Combination: Ronhafe, Pair ( Tc Td Ad Qd 9s )
+Wins: Ronhafe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Calls: Ronhafe
+Checks: Foedeewrek
+Flop: 3c 3s Ah
+Checks: Foedeewrek
+Raises: Ronhafe, chips: 10
+Folds: Foedeewrek
+Pot size: 30
+Wins: Ronhafe, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Folds: Foedeewrek
+Pot size: 15
+Wins: Ronhafe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Folds: Ronhafe
+Pot size: 15
+Wins: Foedeewrek, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Raises: Foedeewrek, chips: 3035
+Folds: Ronhafe
+Pot size: 3055
+Wins: Foedeewrek, chips: 3055
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Folds: Ronhafe
+Pot size: 15
+Wins: Foedeewrek, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Folds: Foedeewrek
+Pot size: 15
+Wins: Ronhafe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Calls: Ronhafe
+Checks: Foedeewrek
+Flop: 6c 4c Kh
+Checks: Foedeewrek
+Checks: Ronhafe
+Turn: Tc
+Checks: Foedeewrek
+Checks: Ronhafe
+River: 3c
+Checks: Foedeewrek
+Checks: Ronhafe
+Pot size: 20
+Showdown Reached
+Shows: Foedeewrek, 8c Ad
+Combination: Foedeewrek, Flush ( Tc 8c 6c 4c 3c )
+Shows: Ronhafe, 5d 3d
+Combination: Ronhafe, Pair ( 3d 3c Kh Tc 6c )
+Wins: Foedeewrek, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Folds: Foedeewrek
+Pot size: 15
+Wins: Ronhafe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Calls: Ronhafe
+Checks: Foedeewrek
+Flop: 3c 7c As
+Checks: Foedeewrek
+Checks: Ronhafe
+Turn: Qs
+Checks: Foedeewrek
+Checks: Ronhafe
+River: 6s
+Checks: Foedeewrek
+Checks: Ronhafe
+Pot size: 20
+Showdown Reached
+Shows: Foedeewrek, 8h 2s
+Combination: Foedeewrek, High Card ( As Qs 8h 7c 6s )
+Shows: Ronhafe, 8s Th
+Combination: Ronhafe, High Card ( As Qs Th 8s 7c )
+Wins: Ronhafe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Folds: Foedeewrek
+Pot size: 15
+Wins: Ronhafe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Folds: Ronhafe
+Pot size: 15
+Wins: Foedeewrek, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Calls: Foedeewrek
+Checks: Ronhafe
+Flop: 9c 7d 2c
+Checks: Ronhafe
+Checks: Foedeewrek
+Turn: Qd
+Checks: Ronhafe
+Checks: Foedeewrek
+River: 9h
+Checks: Ronhafe
+Checks: Foedeewrek
+Pot size: 20
+Showdown Reached
+Shows: Foedeewrek, 8d Ad
+Combination: Foedeewrek, Pair ( 9c 9h Ad Qd 8d )
+Shows: Ronhafe, 8c Js
+Combination: Ronhafe, Pair ( 9c 9h Qd Js 8c )
+Wins: Foedeewrek, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Folds: Ronhafe
+Pot size: 15
+Wins: Foedeewrek, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Calls: Foedeewrek
+Checks: Ronhafe
+Flop: 9c 6h 5c
+Checks: Ronhafe
+Checks: Foedeewrek
+Turn: 6d
+Checks: Ronhafe
+Checks: Foedeewrek
+River: Js
+Checks: Ronhafe
+Checks: Foedeewrek
+Pot size: 20
+Showdown Reached
+Shows: Foedeewrek, Ks 9s
+Combination: Foedeewrek, Two Pair ( 9s 9c 6h 6d Ks )
+Shows: Ronhafe, Th 5h
+Combination: Ronhafe, Two Pair ( 6h 6d 5h 5c Js )
+Wins: Foedeewrek, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Folds: Ronhafe
+Pot size: 15
+Wins: Foedeewrek, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Folds: Foedeewrek
+Pot size: 15
+Wins: Ronhafe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Folds: Ronhafe
+Pot size: 15
+Wins: Foedeewrek, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Folds: Foedeewrek
+Pot size: 15
+Wins: Ronhafe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Folds: Ronhafe
+Pot size: 15
+Wins: Foedeewrek, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Folds: Foedeewrek
+Pot size: 15
+Wins: Ronhafe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Folds: Ronhafe
+Pot size: 15
+Wins: Foedeewrek, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Folds: Foedeewrek
+Pot size: 15
+Wins: Ronhafe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Calls: Ronhafe
+Raises: Foedeewrek, chips: 10
+Calls: Ronhafe
+Flop: 6h 3c Jh
+Checks: Foedeewrek
+Raises: Ronhafe, chips: 10
+Calls: Foedeewrek
+Turn: 9d
+Checks: Foedeewrek
+Checks: Ronhafe
+River: 7d
+Checks: Foedeewrek
+Checks: Ronhafe
+Pot size: 60
+Showdown Reached
+Shows: Foedeewrek, Kc Td
+Combination: Foedeewrek, High Card ( Kc Jh Td 9d 7d )
+Shows: Ronhafe, 8s As
+Combination: Ronhafe, High Card ( As Jh 9d 8s 7d )
+Wins: Ronhafe, chips: 60
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Folds: Foedeewrek
+Pot size: 15
+Wins: Ronhafe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Folds: Ronhafe
+Pot size: 15
+Wins: Foedeewrek, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Folds: Foedeewrek
+Pot size: 15
+Wins: Ronhafe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Raises: Ronhafe, chips: 15
+Folds: Foedeewrek
+Pot size: 35
+Wins: Ronhafe, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Folds: Foedeewrek
+Pot size: 15
+Wins: Ronhafe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Folds: Ronhafe
+Pot size: 15
+Wins: Foedeewrek, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Folds: Foedeewrek
+Pot size: 15
+Wins: Ronhafe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Calls: Ronhafe
+Checks: Foedeewrek
+Flop: 2h 7h Kh
+Checks: Foedeewrek
+Checks: Ronhafe
+Turn: 2s
+Raises: Foedeewrek, chips: 10
+Folds: Ronhafe
+Pot size: 30
+Wins: Foedeewrek, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Folds: Foedeewrek
+Pot size: 15
+Wins: Ronhafe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Calls: Ronhafe
+Checks: Foedeewrek
+Flop: 6c 2c Td
+Raises: Foedeewrek, chips: 10
+Calls: Ronhafe
+Turn: 3h
+Raises: Foedeewrek, chips: 10
+Raises: Ronhafe, chips: 20
+Raises: Foedeewrek, chips: 20
+Calls: Ronhafe
+River: 6s
+Raises: Foedeewrek, chips: 30
+Calls: Ronhafe
+Pot size: 200
+Showdown Reached
+Shows: Foedeewrek, 6d 7d
+Combination: Foedeewrek, Three Of A Kind ( 6d 6c 6s Td 7d )
+Shows: Ronhafe, Ah 2h
+Combination: Ronhafe, Two Pair ( 6c 6s 2h 2c Ah )
+Wins: Foedeewrek, chips: 200
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Raises: Foedeewrek, chips: 15
+Folds: Ronhafe
+Pot size: 35
+Wins: Foedeewrek, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Folds: Ronhafe
+Pot size: 15
+Wins: Foedeewrek, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Calls: Foedeewrek
+Checks: Ronhafe
+Flop: 9h 3s 7c
+Checks: Ronhafe
+Checks: Foedeewrek
+Turn: Qd
+Checks: Ronhafe
+Checks: Foedeewrek
+River: 6c
+Checks: Ronhafe
+Checks: Foedeewrek
+Pot size: 20
+Showdown Reached
+Shows: Foedeewrek, 9s Ac
+Combination: Foedeewrek, Pair ( 9s 9h Ac Qd 7c )
+Shows: Ronhafe, Kd 7s
+Combination: Ronhafe, Pair ( 7s 7c Kd Qd 9h )
+Wins: Foedeewrek, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Folds: Ronhafe
+Pot size: 15
+Wins: Foedeewrek, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Folds: Foedeewrek
+Pot size: 15
+Wins: Ronhafe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Folds: Ronhafe
+Pot size: 15
+Wins: Foedeewrek, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Calls: Foedeewrek
+Checks: Ronhafe
+Flop: 9d 5d 5c
+Checks: Ronhafe
+Checks: Foedeewrek
+Turn: 9s
+Checks: Ronhafe
+Checks: Foedeewrek
+River: 4d
+Raises: Ronhafe, chips: 3830
+Folds: Foedeewrek
+Pot size: 3850
+Wins: Ronhafe, chips: 3850
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Calls: Ronhafe
+Checks: Foedeewrek
+Flop: 6h Jd 8s
+Checks: Foedeewrek
+Checks: Ronhafe
+Turn: 8c
+Checks: Foedeewrek
+Checks: Ronhafe
+River: Ts
+Checks: Foedeewrek
+Checks: Ronhafe
+Pot size: 20
+Showdown Reached
+Shows: Foedeewrek, Qd 6s
+Combination: Foedeewrek, Two Pair ( 8s 8c 6s 6h Qd )
+Shows: Ronhafe, Kd 4d
+Combination: Ronhafe, Pair ( 8s 8c Kd Jd Ts )
+Wins: Foedeewrek, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Folds: Foedeewrek
+Pot size: 15
+Wins: Ronhafe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Calls: Ronhafe
+Raises: Foedeewrek, chips: 10
+Folds: Ronhafe
+Pot size: 30
+Wins: Foedeewrek, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Folds: Foedeewrek
+Pot size: 15
+Wins: Ronhafe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Calls: Ronhafe
+Checks: Foedeewrek
+Flop: 2c Kh 9s
+Checks: Foedeewrek
+Raises: Ronhafe, chips: 10
+Calls: Foedeewrek
+Turn: 6c
+Checks: Foedeewrek
+Checks: Ronhafe
+River: Ks
+Raises: Foedeewrek, chips: 10
+Calls: Ronhafe
+Pot size: 60
+Showdown Reached
+Shows: Foedeewrek, Td 2h
+Combination: Foedeewrek, Two Pair ( Kh Ks 2h 2c Td )
+Shows: Ronhafe, Kc 8c
+Combination: Ronhafe, Three Of A Kind ( Kc Kh Ks 9s 8c )
+Wins: Ronhafe, chips: 60
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Calls: Foedeewrek
+Raises: Ronhafe, chips: 10
+Folds: Foedeewrek
+Pot size: 30
+Wins: Ronhafe, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Calls: Ronhafe
+Checks: Foedeewrek
+Flop: 7h 7s 4s
+Checks: Foedeewrek
+Checks: Ronhafe
+Turn: 4d
+Checks: Foedeewrek
+Checks: Ronhafe
+River: 6h
+Raises: Foedeewrek, chips: 3110
+Folds: Ronhafe
+Pot size: 3130
+Wins: Foedeewrek, chips: 3130
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Folds: Foedeewrek
+Pot size: 15
+Wins: Ronhafe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Folds: Ronhafe
+Pot size: 15
+Wins: Foedeewrek, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Calls: Foedeewrek
+Checks: Ronhafe
+Flop: 8d Kd 3d
+Checks: Ronhafe
+Raises: Foedeewrek, chips: 10
+Calls: Ronhafe
+Turn: 5d
+Raises: Ronhafe, chips: 10
+Calls: Foedeewrek
+River: Qd
+Checks: Ronhafe
+Raises: Foedeewrek, chips: 10
+Calls: Ronhafe
+Pot size: 80
+Showdown Reached
+Shows: Foedeewrek, 7d 9d
+Combination: Foedeewrek, Flush ( Kd Qd 9d 8d 7d )
+Shows: Ronhafe, 6d Jc
+Combination: Ronhafe, Flush ( Kd Qd 8d 6d 5d )
+Wins: Foedeewrek, chips: 80
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Folds: Ronhafe
+Pot size: 15
+Wins: Foedeewrek, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Folds: Foedeewrek
+Pot size: 15
+Wins: Ronhafe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Folds: Ronhafe
+Pot size: 15
+Wins: Foedeewrek, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Calls: Foedeewrek
+Checks: Ronhafe
+Flop: 8h 9c 4h
+Checks: Ronhafe
+Checks: Foedeewrek
+Turn: Js
+Checks: Ronhafe
+Checks: Foedeewrek
+River: Qd
+Checks: Ronhafe
+Checks: Foedeewrek
+Pot size: 20
+Showdown Reached
+Shows: Foedeewrek, 6s 5h
+Combination: Foedeewrek, High Card ( Qd Js 9c 8h 6s )
+Shows: Ronhafe, 2s 8s
+Combination: Ronhafe, Pair ( 8s 8h Qd Js 9c )
+Wins: Ronhafe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Folds: Ronhafe
+Pot size: 15
+Wins: Foedeewrek, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Calls: Foedeewrek
+Checks: Ronhafe
+Flop: 7c Ah 6s
+Checks: Ronhafe
+Checks: Foedeewrek
+Turn: Td
+Checks: Ronhafe
+Checks: Foedeewrek
+River: 2s
+Checks: Ronhafe
+Checks: Foedeewrek
+Pot size: 20
+Showdown Reached
+Shows: Foedeewrek, 9d 9h
+Combination: Foedeewrek, Pair ( 9d 9h Ah Td 7c )
+Shows: Ronhafe, Qd Kh
+Combination: Ronhafe, High Card ( Ah Kh Qd Td 7c )
+Wins: Foedeewrek, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Calls: Ronhafe
+Checks: Foedeewrek
+Flop: Ad Ts 6c
+Raises: Foedeewrek, chips: 10
+Raises: Ronhafe, chips: 20
+Raises: Foedeewrek, chips: 30
+Calls: Ronhafe
+Turn: 3c
+Checks: Foedeewrek
+Raises: Ronhafe, chips: 30
+Folds: Foedeewrek
+Pot size: 170
+Wins: Ronhafe, chips: 170
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Calls: Foedeewrek
+Checks: Ronhafe
+Flop: Ks Jh 6s
+Raises: Ronhafe, chips: 10
+Raises: Foedeewrek, chips: 3090
+Folds: Ronhafe
+Pot size: 3130
+Wins: Foedeewrek, chips: 3130
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Calls: Ronhafe
+Checks: Foedeewrek
+Flop: Ac 7c 2d
+Raises: Foedeewrek, chips: 3120
+Folds: Ronhafe
+Pot size: 3140
+Wins: Foedeewrek, chips: 3140
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Calls: Foedeewrek
+Checks: Ronhafe
+Flop: 9d Td 9h
+Checks: Ronhafe
+Checks: Foedeewrek
+Turn: 5c
+Checks: Ronhafe
+Checks: Foedeewrek
+River: Kd
+Checks: Ronhafe
+Raises: Foedeewrek, chips: 10
+Calls: Ronhafe
+Pot size: 40
+Showdown Reached
+Shows: Foedeewrek, Tc Qs
+Combination: Foedeewrek, Two Pair ( Tc Td 9d 9h Kd )
+Shows: Ronhafe, 6h Th
+Combination: Ronhafe, Two Pair ( Th Td 9d 9h Kd )
+Wins: Foedeewrek, chips: 20
+Wins: Ronhafe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Calls: Ronhafe
+Checks: Foedeewrek
+Flop: 2c 5d Kd
+Checks: Foedeewrek
+Checks: Ronhafe
+Turn: 2h
+Checks: Foedeewrek
+Checks: Ronhafe
+River: As
+Raises: Foedeewrek, chips: 10
+Calls: Ronhafe
+Pot size: 40
+Showdown Reached
+Shows: Foedeewrek, Ah 6d
+Combination: Foedeewrek, Two Pair ( Ah As 2c 2h Kd )
+Shows: Ronhafe, 4d Ad
+Combination: Ronhafe, Two Pair ( Ad As 2c 2h Kd )
+Wins: Foedeewrek, chips: 20
+Wins: Ronhafe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Calls: Foedeewrek
+Raises: Ronhafe, chips: 10
+Calls: Foedeewrek
+Flop: 5d As Jh
+Raises: Ronhafe, chips: 10
+Raises: Foedeewrek, chips: 10
+Raises: Ronhafe, chips: 10
+Raises: Foedeewrek, chips: 20
+Calls: Ronhafe
+Turn: 8d
+Raises: Ronhafe, chips: 3790
+Calls: Foedeewrek
+River: 4s
+Pot size: 7000
+Showdown Reached
+Shows: Foedeewrek, Td Ah
+Combination: Foedeewrek, Pair ( Ah As Jh Td 8d )
+Shows: Ronhafe, Kh Ad
+Combination: Ronhafe, Pair ( Ad As Kh Jh 8d )
+Wins: Ronhafe, chips: 7000
+Quits: Foedeewrek, chips: 0
+Ranking: Ronhafe, Place: 1, Score: 6000
+Reveal AI: Ronhafe, AI: Smart
+Ranking: Foedeewrek, Place: 2, Score: -1000
+Reveal AI: Foedeewrek, AI: Smart
+Ranking: Tababek, Place: 3, Score: -1000
+Reveal AI: Tababek, AI: Call
+Ranking: Goefewreep, Place: 4, Score: -1000
+Reveal AI: Goefewreep, AI: Random
+Ranking: Jefen, Place: 5, Score: -1000
+Reveal AI: Jefen, AI: Random
+Ranking: Gufi, Place: 6, Score: -1000
+Reveal AI: Gufi, AI: Call
+Ranking: Jesek, Place: 7, Score: -1000
+Reveal AI: Jesek, AI: AIMyBot1
+
+Player Stats for Foedeewrek, AI: Smart
+General: deals: 180, actions: 319, preflop actions: 142
+Rounds Seen: flops: 64, turns: 56, rivers: 49, showdowns: 43
+Wins: total: 87, showdown: 27, bluff: 60
+Chips: won: 25555, lost: 27275, bought: 1000, forced bets: 1265
+Pre-Flop Stats: VP$IP: 0.227778, PFR: 0.0444444, 3Bet: 0.0222222
+Post-Flop Stats: AF: 5.14286, WSD: 0.671875, WSDW: 0.627907
+
+
+Player Stats for Goefewreep, AI: Random
+General: deals: 1, actions: 2, preflop actions: 2
+Rounds Seen: flops: 74, turns: 69, rivers: 63, showdowns: 58
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 0
+Pre-Flop Stats: VP$IP: 1, PFR: 1, 3Bet: 1
+Post-Flop Stats: AF: -1.#IND, WSD: 0.783784, WSDW: 0
+
+
+Player Stats for Gufi, AI: Call
+General: deals: 1, actions: 2, preflop actions: 2
+Rounds Seen: flops: 74, turns: 69, rivers: 63, showdowns: 58
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 0
+Pre-Flop Stats: VP$IP: 1, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 0.783784, WSDW: 0
+
+
+Player Stats for Jefen, AI: Random
+General: deals: 1, actions: 2, preflop actions: 2
+Rounds Seen: flops: 74, turns: 69, rivers: 63, showdowns: 58
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 0
+Pre-Flop Stats: VP$IP: 1, PFR: 1, 3Bet: 1
+Post-Flop Stats: AF: -1.#IND, WSD: 0.783784, WSDW: 0
+
+
+Player Stats for Jesek, AI: AIMyBot1
+General: deals: 1, actions: 2, preflop actions: 2
+Rounds Seen: flops: 74, turns: 69, rivers: 63, showdowns: 58
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 0
+Pre-Flop Stats: VP$IP: 1, PFR: 1, 3Bet: 1
+Post-Flop Stats: AF: -1.#IND, WSD: 0.783784, WSDW: 0
+
+
+Player Stats for Ronhafe, AI: Smart
+General: deals: 180, actions: 320, preflop actions: 139
+Rounds Seen: flops: 62, turns: 56, rivers: 50, showdowns: 45
+Wins: total: 80, showdown: 23, bluff: 57
+Chips: won: 18760, lost: 12760, bought: 1000, forced bets: 1260
+Pre-Flop Stats: VP$IP: 0.227778, PFR: 0.05, 3Bet: 0.0277778
+Post-Flop Stats: AF: 2.33333, WSD: 0.725806, WSDW: 0.511111
+
+
+Player Stats for Tababek, AI: Call
+General: deals: 35, actions: 122, preflop actions: 32
+Rounds Seen: flops: 74, turns: 69, rivers: 63, showdowns: 58
+Wins: total: 17, showdown: 12, bluff: 5
+Chips: won: 5395, lost: 7575, bought: 1000, forced bets: 175
+Pre-Flop Stats: VP$IP: 0.657143, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: 0, WSD: 0.783784, WSDW: 0.206897
+
+
+Date: 2026/04/30 12:56:51
+
+The game begins. The AI's of the players are: 
+Foedeewrek: Smart
+Tababek: Call
+Jesek: AIMyBot1
+Gufi: Call
+Jefen: Random
+Goefewreep: Random
+Ronhafe: Smart
+
+Joins: Foedeewrek, chips: 1000
+Joins: Tababek, chips: 1000
+Joins: Jesek, chips: 1000
+Joins: Gufi, chips: 1000
+Joins: Jefen, chips: 1000
+Joins: Goefewreep, chips: 1000
+Joins: Ronhafe, chips: 1000
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Goefewreep
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Calls: Tababek
+Raises: Jesek, chips: 40
+Calls: Gufi
+Raises: Jefen, chips: 90
+Raises: Goefewreep, chips: 230
+Folds: Ronhafe
+Folds: Foedeewrek
+Calls: Tababek
+Raises: Jesek, chips: 630
+Calls: Gufi
+Calls: Jefen
+Calls: Goefewreep
+Calls: Tababek
+Flop: Ac 7s 8s
+Turn: 5s
+River: 2h
+Pot size: 5015
+Showdown Reached
+Shows: Tababek, 8c 4h
+Combination: Tababek, Pair ( 8c 8s Ac 7s 5s )
+Shows: Jesek, 6h 6d
+Combination: Jesek, Pair ( 6h 6d Ac 8s 7s )
+Shows: Gufi, Jd Td
+Combination: Gufi, High Card ( Ac Jd Td 8s 7s )
+Shows: Jefen, Qc 9s
+Combination: Jefen, High Card ( Ac Qc 9s 8s 7s )
+Shows: Goefewreep, 3c 9h
+Combination: Goefewreep, High Card ( Ac 9h 8s 7s 5s )
+Wins: Tababek, chips: 5015
+Quits: Jesek, chips: 0
+Quits: Gufi, chips: 0
+Quits: Jefen, chips: 0
+Quits: Goefewreep, chips: 0
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Tababek, chips: 10
+Calls: Ronhafe
+Folds: Foedeewrek
+Checks: Tababek
+Flop: 6c Ah 3d
+Checks: Tababek
+Checks: Ronhafe
+Turn: 5s
+Checks: Tababek
+Checks: Ronhafe
+River: 2c
+Checks: Tababek
+Checks: Ronhafe
+Pot size: 25
+Showdown Reached
+Shows: Tababek, 8s 8c
+Combination: Tababek, Pair ( 8s 8c Ah 6c 5s )
+Shows: Ronhafe, 6s 7c
+Combination: Ronhafe, Pair ( 6s 6c Ah 7c 5s )
+Wins: Tababek, chips: 25
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Tababek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Calls: Foedeewrek
+Calls: Tababek
+Checks: Ronhafe
+Flop: 7d 3h 4h
+Checks: Tababek
+Checks: Ronhafe
+Checks: Foedeewrek
+Turn: Kd
+Checks: Tababek
+Raises: Ronhafe, chips: 10
+Folds: Foedeewrek
+Calls: Tababek
+River: Jc
+Checks: Tababek
+Checks: Ronhafe
+Pot size: 50
+Showdown Reached
+Shows: Tababek, 9s 2d
+Combination: Tababek, High Card ( Kd Jc 9s 7d 4h )
+Shows: Ronhafe, 4d Qd
+Combination: Ronhafe, Pair ( 4d 4h Kd Qd Jc )
+Wins: Ronhafe, chips: 50
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Tababek
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Calls: Tababek
+Folds: Ronhafe
+Checks: Foedeewrek
+Flop: 2s Ks 8s
+Checks: Foedeewrek
+Checks: Tababek
+Turn: 5s
+Checks: Foedeewrek
+Checks: Tababek
+River: Jd
+Checks: Foedeewrek
+Checks: Tababek
+Pot size: 25
+Showdown Reached
+Shows: Foedeewrek, 3c 5h
+Combination: Foedeewrek, Pair ( 5h 5s Ks Jd 8s )
+Shows: Tababek, 6d 2d
+Combination: Tababek, Pair ( 2d 2s Ks Jd 8s )
+Wins: Foedeewrek, chips: 25
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Tababek, chips: 10
+Folds: Ronhafe
+Calls: Foedeewrek
+Checks: Tababek
+Flop: 5d 2c 6d
+Checks: Foedeewrek
+Checks: Tababek
+Turn: Tc
+Raises: Foedeewrek, chips: 10
+Calls: Tababek
+River: 6c
+Raises: Foedeewrek, chips: 10
+Calls: Tababek
+Pot size: 60
+Showdown Reached
+Shows: Foedeewrek, Qd Qc
+Combination: Foedeewrek, Two Pair ( Qd Qc 6d 6c Tc )
+Shows: Tababek, 2h 8d
+Combination: Tababek, Two Pair ( 6d 6c 2h 2c Tc )
+Wins: Foedeewrek, chips: 60
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Tababek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Folds: Foedeewrek
+Calls: Tababek
+Checks: Ronhafe
+Flop: 7c 2d As
+Checks: Tababek
+Checks: Ronhafe
+Turn: 4s
+Checks: Tababek
+Checks: Ronhafe
+River: Kc
+Checks: Tababek
+Checks: Ronhafe
+Pot size: 20
+Showdown Reached
+Shows: Tababek, 2c 9h
+Combination: Tababek, Pair ( 2c 2d As Kc 9h )
+Shows: Ronhafe, 8h Qs
+Combination: Ronhafe, High Card ( As Kc Qs 8h 7c )
+Wins: Tababek, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Tababek
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Calls: Tababek
+Calls: Ronhafe
+Checks: Foedeewrek
+Flop: 4d As Ah
+Raises: Ronhafe, chips: 990
+Folds: Foedeewrek
+Calls: Tababek
+Turn: Js
+River: 4h
+Pot size: 2010
+Showdown Reached
+Shows: Tababek, Kc Qc
+Combination: Tababek, Two Pair ( As Ah 4d 4h Kc )
+Shows: Ronhafe, Ad Jd
+Combination: Ronhafe, Full House ( Ad As Ah Jd Js )
+Wins: Ronhafe, chips: 2010
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Tababek, chips: 10
+Folds: Ronhafe
+Folds: Foedeewrek
+Pot size: 15
+Wins: Tababek, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Tababek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Folds: Foedeewrek
+Calls: Tababek
+Checks: Ronhafe
+Flop: Js 5c 9s
+Checks: Tababek
+Raises: Ronhafe, chips: 10
+Calls: Tababek
+Turn: 3s
+Checks: Tababek
+Checks: Ronhafe
+River: 9c
+Checks: Tababek
+Checks: Ronhafe
+Pot size: 40
+Showdown Reached
+Shows: Tababek, 9d 7d
+Combination: Tababek, Three Of A Kind ( 9d 9s 9c Js 7d )
+Shows: Ronhafe, Kd Ts
+Combination: Ronhafe, Pair ( 9s 9c Kd Js Ts )
+Wins: Tababek, chips: 40
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Tababek
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Calls: Tababek
+Folds: Ronhafe
+Checks: Foedeewrek
+Flop: 9d 4h 5d
+Checks: Foedeewrek
+Checks: Tababek
+Turn: 9h
+Raises: Foedeewrek, chips: 10
+Calls: Tababek
+River: Kh
+Checks: Foedeewrek
+Checks: Tababek
+Pot size: 45
+Showdown Reached
+Shows: Foedeewrek, 9c 8d
+Combination: Foedeewrek, Three Of A Kind ( 9c 9d 9h Kh 8d )
+Shows: Tababek, As 2c
+Combination: Tababek, Pair ( 9d 9h As Kh 5d )
+Wins: Foedeewrek, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Tababek, chips: 10
+Folds: Ronhafe
+Calls: Foedeewrek
+Checks: Tababek
+Flop: Js 8s As
+Checks: Foedeewrek
+Checks: Tababek
+Turn: 6s
+Checks: Foedeewrek
+Checks: Tababek
+River: Ah
+Checks: Foedeewrek
+Checks: Tababek
+Pot size: 20
+Showdown Reached
+Shows: Foedeewrek, 8h 7c
+Combination: Foedeewrek, Two Pair ( As Ah 8h 8s Js )
+Shows: Tababek, 5d Qh
+Combination: Tababek, Pair ( As Ah Qh Js 8s )
+Wins: Foedeewrek, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Tababek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Folds: Foedeewrek
+Calls: Tababek
+Checks: Ronhafe
+Flop: Td Kh Ac
+Checks: Tababek
+Checks: Ronhafe
+Turn: Kc
+Checks: Tababek
+Checks: Ronhafe
+River: 5h
+Checks: Tababek
+Checks: Ronhafe
+Pot size: 20
+Showdown Reached
+Shows: Tababek, 5s Jh
+Combination: Tababek, Two Pair ( Kh Kc 5s 5h Ac )
+Shows: Ronhafe, 5d 4h
+Combination: Ronhafe, Two Pair ( Kh Kc 5d 5h Ac )
+Wins: Tababek, chips: 10
+Wins: Ronhafe, chips: 10
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Tababek
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Calls: Tababek
+Calls: Ronhafe
+Checks: Foedeewrek
+Flop: 2s 5c Qc
+Raises: Ronhafe, chips: 10
+Folds: Foedeewrek
+Calls: Tababek
+Turn: Ad
+Checks: Ronhafe
+Checks: Tababek
+River: Ks
+Raises: Ronhafe, chips: 10
+Calls: Tababek
+Pot size: 70
+Showdown Reached
+Shows: Tababek, 7c Jc
+Combination: Tababek, High Card ( Ad Ks Qc Jc 7c )
+Shows: Ronhafe, 7s 7d
+Combination: Ronhafe, Pair ( 7s 7d Ad Ks Qc )
+Wins: Ronhafe, chips: 70
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Tababek, chips: 10
+Folds: Ronhafe
+Folds: Foedeewrek
+Pot size: 15
+Wins: Tababek, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Tababek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Folds: Foedeewrek
+Calls: Tababek
+Checks: Ronhafe
+Flop: 9c Kh 2h
+Checks: Tababek
+Checks: Ronhafe
+Turn: 7s
+Checks: Tababek
+Checks: Ronhafe
+River: 2s
+Checks: Tababek
+Raises: Ronhafe, chips: 10
+Calls: Tababek
+Pot size: 40
+Showdown Reached
+Shows: Tababek, Ah 2d
+Combination: Tababek, Three Of A Kind ( 2d 2h 2s Ah Kh )
+Shows: Ronhafe, As 4d
+Combination: Ronhafe, Pair ( 2h 2s As Kh 9c )
+Wins: Tababek, chips: 40
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Tababek
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Calls: Tababek
+Folds: Ronhafe
+Checks: Foedeewrek
+Flop: 4c 5d 5s
+Checks: Foedeewrek
+Checks: Tababek
+Turn: 7h
+Checks: Foedeewrek
+Checks: Tababek
+River: 8c
+Checks: Foedeewrek
+Checks: Tababek
+Pot size: 25
+Showdown Reached
+Shows: Foedeewrek, 9h Jd
+Combination: Foedeewrek, Pair ( 5d 5s Jd 9h 8c )
+Shows: Tababek, 2d 3c
+Combination: Tababek, Pair ( 5d 5s 8c 7h 4c )
+Wins: Foedeewrek, chips: 25
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Tababek, chips: 10
+Calls: Ronhafe
+Calls: Foedeewrek
+Checks: Tababek
+Flop: Ah 8d 8c
+Raises: Foedeewrek, chips: 1030
+Calls: Tababek
+Folds: Ronhafe
+Turn: 6s
+River: 4c
+Pot size: 2090
+Showdown Reached
+Shows: Foedeewrek, Ad Ac
+Combination: Foedeewrek, Full House ( Ad Ac Ah 8d 8c )
+Shows: Tababek, Qs 7h
+Combination: Tababek, Pair ( 8d 8c Ah Qs 7h )
+Wins: Foedeewrek, chips: 2090
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Tababek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Folds: Foedeewrek
+Calls: Tababek
+Checks: Ronhafe
+Flop: 6s Tc 2d
+Checks: Tababek
+Checks: Ronhafe
+Turn: Kh
+Checks: Tababek
+Raises: Ronhafe, chips: 10
+Calls: Tababek
+River: 8s
+Checks: Tababek
+Checks: Ronhafe
+Pot size: 40
+Showdown Reached
+Shows: Tababek, 9s Kd
+Combination: Tababek, Pair ( Kd Kh Tc 9s 8s )
+Shows: Ronhafe, 5s 2c
+Combination: Ronhafe, Pair ( 2c 2d Kh Tc 8s )
+Wins: Tababek, chips: 40
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Tababek
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Calls: Tababek
+Folds: Ronhafe
+Checks: Foedeewrek
+Flop: 9c 2s 8c
+Checks: Foedeewrek
+Checks: Tababek
+Turn: Ks
+Raises: Foedeewrek, chips: 10
+Calls: Tababek
+River: 6c
+Raises: Foedeewrek, chips: 10
+Calls: Tababek
+Pot size: 65
+Showdown Reached
+Shows: Foedeewrek, 2d 2h
+Combination: Foedeewrek, Three Of A Kind ( 2d 2h 2s Ks 9c )
+Shows: Tababek, Kd Qs
+Combination: Tababek, Pair ( Kd Ks Qs 9c 8c )
+Wins: Foedeewrek, chips: 65
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Tababek, chips: 10
+Folds: Ronhafe
+Folds: Foedeewrek
+Pot size: 15
+Wins: Tababek, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Tababek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Calls: Foedeewrek
+Calls: Tababek
+Checks: Ronhafe
+Flop: 5d Ah Kh
+Checks: Tababek
+Checks: Ronhafe
+Checks: Foedeewrek
+Turn: Ad
+Checks: Tababek
+Checks: Ronhafe
+Checks: Foedeewrek
+River: 5c
+Checks: Tababek
+Checks: Ronhafe
+Checks: Foedeewrek
+Pot size: 30
+Showdown Reached
+Shows: Foedeewrek, 8s 7c
+Combination: Foedeewrek, Two Pair ( Ah Ad 5d 5c Kh )
+Shows: Tababek, Qh Ac
+Combination: Tababek, Full House ( Ac Ah Ad 5d 5c )
+Shows: Ronhafe, 9c 3h
+Combination: Ronhafe, Two Pair ( Ah Ad 5d 5c Kh )
+Wins: Tababek, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Tababek
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Calls: Tababek
+Calls: Ronhafe
+Checks: Foedeewrek
+Flop: 5d 2d Td
+Checks: Ronhafe
+Checks: Foedeewrek
+Checks: Tababek
+Turn: 8s
+Checks: Ronhafe
+Checks: Foedeewrek
+Checks: Tababek
+River: 8h
+Checks: Ronhafe
+Checks: Foedeewrek
+Checks: Tababek
+Pot size: 30
+Showdown Reached
+Shows: Foedeewrek, 3s 4d
+Combination: Foedeewrek, Pair ( 8s 8h Td 5d 4d )
+Shows: Tababek, Js 9h
+Combination: Tababek, Pair ( 8s 8h Js Td 9h )
+Shows: Ronhafe, Jc 8d
+Combination: Ronhafe, Three Of A Kind ( 8d 8s 8h Jc Td )
+Wins: Ronhafe, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Tababek, chips: 10
+Calls: Ronhafe
+Calls: Foedeewrek
+Checks: Tababek
+Flop: Ah 6h Ad
+Checks: Foedeewrek
+Checks: Tababek
+Raises: Ronhafe, chips: 10
+Folds: Foedeewrek
+Calls: Tababek
+Turn: 4c
+Checks: Tababek
+Checks: Ronhafe
+River: Ts
+Checks: Tababek
+Checks: Ronhafe
+Pot size: 50
+Showdown Reached
+Shows: Tababek, 7s 5s
+Combination: Tababek, Pair ( Ah Ad Ts 7s 6h )
+Shows: Ronhafe, 7d 7h
+Combination: Ronhafe, Two Pair ( Ah Ad 7d 7h Ts )
+Wins: Ronhafe, chips: 50
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Tababek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Calls: Foedeewrek
+Calls: Tababek
+Checks: Ronhafe
+Flop: Kc Ad 7s
+Checks: Tababek
+Checks: Ronhafe
+Checks: Foedeewrek
+Turn: 4d
+Checks: Tababek
+Checks: Ronhafe
+Checks: Foedeewrek
+River: 6s
+Checks: Tababek
+Checks: Ronhafe
+Checks: Foedeewrek
+Pot size: 30
+Showdown Reached
+Shows: Foedeewrek, 8c 8s
+Combination: Foedeewrek, Pair ( 8c 8s Ad Kc 7s )
+Shows: Tababek, Ks 8h
+Combination: Tababek, Pair ( Ks Kc Ad 8h 7s )
+Shows: Ronhafe, 4c Qh
+Combination: Ronhafe, Pair ( 4c 4d Ad Kc Qh )
+Wins: Tababek, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Tababek
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Calls: Tababek
+Folds: Ronhafe
+Checks: Foedeewrek
+Flop: 6d Kc 3h
+Checks: Foedeewrek
+Checks: Tababek
+Turn: 3d
+Checks: Foedeewrek
+Checks: Tababek
+River: 4s
+Checks: Foedeewrek
+Checks: Tababek
+Pot size: 25
+Showdown Reached
+Shows: Foedeewrek, 7d 7c
+Combination: Foedeewrek, Two Pair ( 7d 7c 3h 3d Kc )
+Shows: Tababek, Ks 7s
+Combination: Tababek, Two Pair ( Ks Kc 3h 3d 7s )
+Wins: Tababek, chips: 25
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Tababek, chips: 10
+Folds: Ronhafe
+Folds: Foedeewrek
+Pot size: 15
+Wins: Tababek, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Tababek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Folds: Foedeewrek
+Calls: Tababek
+Checks: Ronhafe
+Flop: Kd Ah 6s
+Checks: Tababek
+Checks: Ronhafe
+Turn: 3d
+Checks: Tababek
+Raises: Ronhafe, chips: 10
+Calls: Tababek
+River: As
+Checks: Tababek
+Raises: Ronhafe, chips: 10
+Calls: Tababek
+Pot size: 60
+Showdown Reached
+Shows: Tababek, 7s 5h
+Combination: Tababek, Pair ( Ah As Kd 7s 6s )
+Shows: Ronhafe, Ad Jd
+Combination: Ronhafe, Three Of A Kind ( Ad Ah As Kd Jd )
+Wins: Ronhafe, chips: 60
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Tababek
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Calls: Tababek
+Folds: Ronhafe
+Checks: Foedeewrek
+Flop: Jd 8s Ah
+Checks: Foedeewrek
+Checks: Tababek
+Turn: 3h
+Checks: Foedeewrek
+Checks: Tababek
+River: 4d
+Checks: Foedeewrek
+Checks: Tababek
+Pot size: 25
+Showdown Reached
+Shows: Foedeewrek, Th 2c
+Combination: Foedeewrek, High Card ( Ah Jd Th 8s 4d )
+Shows: Tababek, Td 5d
+Combination: Tababek, High Card ( Ah Jd Td 8s 5d )
+Wins: Tababek, chips: 25
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Tababek, chips: 10
+Folds: Ronhafe
+Folds: Foedeewrek
+Pot size: 15
+Wins: Tababek, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Tababek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Folds: Foedeewrek
+Calls: Tababek
+Checks: Ronhafe
+Flop: 9c 3c 3h
+Checks: Tababek
+Checks: Ronhafe
+Turn: Kh
+Checks: Tababek
+Checks: Ronhafe
+River: 3d
+Checks: Tababek
+Checks: Ronhafe
+Pot size: 20
+Showdown Reached
+Shows: Tababek, 2s 5d
+Combination: Tababek, Three Of A Kind ( 3c 3h 3d Kh 9c )
+Shows: Ronhafe, Ad Td
+Combination: Ronhafe, Three Of A Kind ( 3c 3h 3d Ad Kh )
+Wins: Ronhafe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Tababek
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Calls: Tababek
+Folds: Ronhafe
+Checks: Foedeewrek
+Flop: 3d 6s 9d
+Checks: Foedeewrek
+Checks: Tababek
+Turn: 2d
+Checks: Foedeewrek
+Checks: Tababek
+River: Jd
+Raises: Foedeewrek, chips: 10
+Calls: Tababek
+Pot size: 45
+Showdown Reached
+Shows: Foedeewrek, 6d 7c
+Combination: Foedeewrek, Flush ( Jd 9d 6d 3d 2d )
+Shows: Tababek, 9c Ac
+Combination: Tababek, Pair ( 9c 9d Ac Jd 6s )
+Wins: Foedeewrek, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Tababek, chips: 10
+Folds: Ronhafe
+Calls: Foedeewrek
+Checks: Tababek
+Flop: Ad Ks Qs
+Checks: Foedeewrek
+Checks: Tababek
+Turn: Qh
+Checks: Foedeewrek
+Checks: Tababek
+River: 5c
+Checks: Foedeewrek
+Checks: Tababek
+Pot size: 20
+Showdown Reached
+Shows: Foedeewrek, 2s 4s
+Combination: Foedeewrek, Pair ( Qs Qh Ad Ks 5c )
+Shows: Tababek, Ts 9h
+Combination: Tababek, Pair ( Qs Qh Ad Ks Ts )
+Wins: Tababek, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Tababek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Folds: Foedeewrek
+Calls: Tababek
+Checks: Ronhafe
+Flop: Qs Th 5d
+Checks: Tababek
+Checks: Ronhafe
+Turn: 6c
+Checks: Tababek
+Checks: Ronhafe
+River: Kh
+Checks: Tababek
+Checks: Ronhafe
+Pot size: 20
+Showdown Reached
+Shows: Tababek, 3d 4s
+Combination: Tababek, High Card ( Kh Qs Th 6c 5d )
+Shows: Ronhafe, 2s 7h
+Combination: Ronhafe, High Card ( Kh Qs Th 7h 6c )
+Wins: Ronhafe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Tababek
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Calls: Tababek
+Calls: Ronhafe
+Checks: Foedeewrek
+Flop: 6s 2d 3h
+Checks: Ronhafe
+Checks: Foedeewrek
+Checks: Tababek
+Turn: Th
+Checks: Ronhafe
+Checks: Foedeewrek
+Checks: Tababek
+River: 8d
+Raises: Ronhafe, chips: 2020
+Folds: Foedeewrek
+Calls: Tababek
+Pot size: 4070
+Showdown Reached
+Shows: Tababek, 6h Js
+Combination: Tababek, Pair ( 6h 6s Js Th 8d )
+Shows: Ronhafe, 7c 9c
+Combination: Ronhafe, Straight ( Th 9c 8d 7c 6s )
+Wins: Ronhafe, chips: 4070
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Tababek, chips: 10
+Folds: Ronhafe
+Calls: Foedeewrek
+Checks: Tababek
+Flop: Ah Qs Ts
+Checks: Foedeewrek
+Checks: Tababek
+Turn: Ac
+Checks: Foedeewrek
+Checks: Tababek
+River: Th
+Raises: Foedeewrek, chips: 2045
+Calls: Tababek
+Pot size: 2930
+Showdown Reached
+Shows: Foedeewrek, Ad 8d
+Combination: Foedeewrek, Full House ( Ad Ah Ac Ts Th )
+Shows: Tababek, 9h 9s
+Combination: Tababek, Two Pair ( Ah Ac Ts Th Qs )
+Wins: Foedeewrek, chips: 2930
+Quits: Tababek, chips: 0
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Folds: Foedeewrek
+Pot size: 15
+Wins: Ronhafe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Folds: Ronhafe
+Pot size: 15
+Wins: Foedeewrek, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Folds: Foedeewrek
+Pot size: 15
+Wins: Ronhafe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Calls: Ronhafe
+Checks: Foedeewrek
+Flop: Qd Jh 4s
+Checks: Foedeewrek
+Checks: Ronhafe
+Turn: 6d
+Checks: Foedeewrek
+Checks: Ronhafe
+River: 4d
+Checks: Foedeewrek
+Checks: Ronhafe
+Pot size: 20
+Showdown Reached
+Shows: Foedeewrek, 5c As
+Combination: Foedeewrek, Pair ( 4s 4d As Qd Jh )
+Shows: Ronhafe, 9c Ah
+Combination: Ronhafe, Pair ( 4s 4d Ah Qd Jh )
+Wins: Foedeewrek, chips: 10
+Wins: Ronhafe, chips: 10
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Folds: Foedeewrek
+Pot size: 15
+Wins: Ronhafe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Raises: Ronhafe, chips: 15
+Folds: Foedeewrek
+Pot size: 35
+Wins: Ronhafe, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Folds: Foedeewrek
+Pot size: 15
+Wins: Ronhafe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Folds: Ronhafe
+Pot size: 15
+Wins: Foedeewrek, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Folds: Foedeewrek
+Pot size: 15
+Wins: Ronhafe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Folds: Ronhafe
+Pot size: 15
+Wins: Foedeewrek, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Folds: Foedeewrek
+Pot size: 15
+Wins: Ronhafe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Calls: Ronhafe
+Checks: Foedeewrek
+Flop: 5c As 4c
+Checks: Foedeewrek
+Raises: Ronhafe, chips: 10
+Calls: Foedeewrek
+Turn: 7d
+Checks: Foedeewrek
+Checks: Ronhafe
+River: 5d
+Checks: Foedeewrek
+Checks: Ronhafe
+Pot size: 40
+Showdown Reached
+Shows: Foedeewrek, 9h 4h
+Combination: Foedeewrek, Two Pair ( 5c 5d 4h 4c As )
+Shows: Ronhafe, Qc Jh
+Combination: Ronhafe, Pair ( 5c 5d As Qc Jh )
+Wins: Foedeewrek, chips: 40
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Folds: Foedeewrek
+Pot size: 15
+Wins: Ronhafe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Calls: Ronhafe
+Checks: Foedeewrek
+Flop: As 8s 7c
+Checks: Foedeewrek
+Checks: Ronhafe
+Turn: 2c
+Checks: Foedeewrek
+Checks: Ronhafe
+River: Qh
+Checks: Foedeewrek
+Checks: Ronhafe
+Pot size: 20
+Showdown Reached
+Shows: Foedeewrek, 5h Kc
+Combination: Foedeewrek, High Card ( As Kc Qh 8s 7c )
+Shows: Ronhafe, Kh 9s
+Combination: Ronhafe, High Card ( As Kh Qh 9s 8s )
+Wins: Ronhafe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Raises: Foedeewrek, chips: 15
+Folds: Ronhafe
+Pot size: 35
+Wins: Foedeewrek, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Folds: Ronhafe
+Pot size: 15
+Wins: Foedeewrek, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Calls: Foedeewrek
+Checks: Ronhafe
+Flop: Qd 8d 5d
+Checks: Ronhafe
+Checks: Foedeewrek
+Turn: Ks
+Checks: Ronhafe
+Raises: Foedeewrek, chips: 10
+Folds: Ronhafe
+Pot size: 30
+Wins: Foedeewrek, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Folds: Ronhafe
+Pot size: 15
+Wins: Foedeewrek, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Folds: Foedeewrek
+Pot size: 15
+Wins: Ronhafe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Folds: Ronhafe
+Pot size: 15
+Wins: Foedeewrek, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Calls: Foedeewrek
+Checks: Ronhafe
+Flop: 9c Qc 4h
+Checks: Ronhafe
+Checks: Foedeewrek
+Turn: 8s
+Checks: Ronhafe
+Checks: Foedeewrek
+River: Td
+Checks: Ronhafe
+Checks: Foedeewrek
+Pot size: 20
+Showdown Reached
+Shows: Foedeewrek, 2c Ac
+Combination: Foedeewrek, High Card ( Ac Qc Td 9c 8s )
+Shows: Ronhafe, Kh 5c
+Combination: Ronhafe, High Card ( Kh Qc Td 9c 8s )
+Wins: Foedeewrek, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Calls: Ronhafe
+Checks: Foedeewrek
+Flop: 3c 5h Kh
+Checks: Foedeewrek
+Checks: Ronhafe
+Turn: 9s
+Checks: Foedeewrek
+Checks: Ronhafe
+River: 3d
+Checks: Foedeewrek
+Raises: Ronhafe, chips: 10
+Raises: Foedeewrek, chips: 2930
+Folds: Ronhafe
+Pot size: 2970
+Wins: Foedeewrek, chips: 2970
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Folds: Foedeewrek
+Pot size: 15
+Wins: Ronhafe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Raises: Ronhafe, chips: 15
+Folds: Foedeewrek
+Pot size: 35
+Wins: Ronhafe, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Calls: Foedeewrek
+Checks: Ronhafe
+Flop: 5h Tc 4h
+Checks: Ronhafe
+Raises: Foedeewrek, chips: 10
+Raises: Ronhafe, chips: 20
+Calls: Foedeewrek
+Turn: Kd
+Checks: Ronhafe
+Checks: Foedeewrek
+River: 6d
+Raises: Ronhafe, chips: 30
+Calls: Foedeewrek
+Pot size: 140
+Showdown Reached
+Shows: Foedeewrek, As Th
+Combination: Foedeewrek, Pair ( Th Tc As Kd 6d )
+Shows: Ronhafe, 5s Ac
+Combination: Ronhafe, Pair ( 5s 5h Ac Kd Tc )
+Wins: Foedeewrek, chips: 140
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Calls: Ronhafe
+Checks: Foedeewrek
+Flop: Ts Td 5d
+Checks: Foedeewrek
+Checks: Ronhafe
+Turn: 7d
+Checks: Foedeewrek
+Checks: Ronhafe
+River: 2s
+Checks: Foedeewrek
+Checks: Ronhafe
+Pot size: 20
+Showdown Reached
+Shows: Foedeewrek, Jc Qs
+Combination: Foedeewrek, Pair ( Ts Td Qs Jc 7d )
+Shows: Ronhafe, Ac 4c
+Combination: Ronhafe, Pair ( Ts Td Ac 7d 5d )
+Wins: Ronhafe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Folds: Foedeewrek
+Pot size: 15
+Wins: Ronhafe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Folds: Ronhafe
+Pot size: 15
+Wins: Foedeewrek, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Folds: Foedeewrek
+Pot size: 15
+Wins: Ronhafe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Calls: Ronhafe
+Checks: Foedeewrek
+Flop: As 8h Qh
+Raises: Foedeewrek, chips: 10
+Folds: Ronhafe
+Pot size: 30
+Wins: Foedeewrek, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Calls: Foedeewrek
+Raises: Ronhafe, chips: 10
+Folds: Foedeewrek
+Pot size: 30
+Wins: Ronhafe, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Folds: Ronhafe
+Pot size: 15
+Wins: Foedeewrek, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Folds: Foedeewrek
+Pot size: 15
+Wins: Ronhafe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Folds: Ronhafe
+Pot size: 15
+Wins: Foedeewrek, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Calls: Foedeewrek
+Checks: Ronhafe
+Flop: 7c Ad 9d
+Checks: Ronhafe
+Raises: Foedeewrek, chips: 10
+Calls: Ronhafe
+Turn: 6d
+Checks: Ronhafe
+Checks: Foedeewrek
+River: 6c
+Checks: Ronhafe
+Checks: Foedeewrek
+Pot size: 40
+Showdown Reached
+Shows: Foedeewrek, 5d 5s
+Combination: Foedeewrek, Two Pair ( 6d 6c 5d 5s Ad )
+Shows: Ronhafe, 8c Js
+Combination: Ronhafe, Pair ( 6d 6c Ad Js 9d )
+Wins: Foedeewrek, chips: 40
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Folds: Ronhafe
+Pot size: 15
+Wins: Foedeewrek, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Folds: Foedeewrek
+Pot size: 15
+Wins: Ronhafe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Raises: Ronhafe, chips: 15
+Folds: Foedeewrek
+Pot size: 35
+Wins: Ronhafe, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Calls: Foedeewrek
+Checks: Ronhafe
+Flop: 3h 9h 6s
+Checks: Ronhafe
+Checks: Foedeewrek
+Turn: 2c
+Checks: Ronhafe
+Checks: Foedeewrek
+River: Th
+Checks: Ronhafe
+Checks: Foedeewrek
+Pot size: 20
+Showdown Reached
+Shows: Foedeewrek, 8d Td
+Combination: Foedeewrek, Pair ( Td Th 9h 8d 6s )
+Shows: Ronhafe, 8h Ah
+Combination: Ronhafe, Flush ( Ah Th 9h 8h 3h )
+Wins: Ronhafe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Folds: Ronhafe
+Pot size: 15
+Wins: Foedeewrek, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Folds: Foedeewrek
+Pot size: 15
+Wins: Ronhafe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Folds: Ronhafe
+Pot size: 15
+Wins: Foedeewrek, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Calls: Foedeewrek
+Checks: Ronhafe
+Flop: 5c Qd 4d
+Checks: Ronhafe
+Checks: Foedeewrek
+Turn: Th
+Checks: Ronhafe
+Checks: Foedeewrek
+River: Ad
+Checks: Ronhafe
+Raises: Foedeewrek, chips: 10
+Folds: Ronhafe
+Pot size: 30
+Wins: Foedeewrek, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Raises: Ronhafe, chips: 15
+Raises: Foedeewrek, chips: 15
+Calls: Ronhafe
+Flop: Jd 8h 5d
+Checks: Foedeewrek
+Checks: Ronhafe
+Turn: Ac
+Checks: Foedeewrek
+Checks: Ronhafe
+River: 3c
+Checks: Foedeewrek
+Checks: Ronhafe
+Pot size: 80
+Showdown Reached
+Shows: Foedeewrek, Qd Kc
+Combination: Foedeewrek, High Card ( Ac Kc Qd Jd 8h )
+Shows: Ronhafe, Th Jh
+Combination: Ronhafe, Pair ( Jh Jd Ac Th 8h )
+Wins: Ronhafe, chips: 80
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Folds: Foedeewrek
+Pot size: 15
+Wins: Ronhafe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Folds: Ronhafe
+Pot size: 15
+Wins: Foedeewrek, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Calls: Foedeewrek
+Checks: Ronhafe
+Flop: Ts 2s 4c
+Checks: Ronhafe
+Checks: Foedeewrek
+Turn: 2h
+Checks: Ronhafe
+Raises: Foedeewrek, chips: 10
+Calls: Ronhafe
+River: 4s
+Checks: Ronhafe
+Checks: Foedeewrek
+Pot size: 40
+Showdown Reached
+Shows: Foedeewrek, Th 8c
+Combination: Foedeewrek, Two Pair ( Th Ts 4c 4s 8c )
+Shows: Ronhafe, Ad 9d
+Combination: Ronhafe, Two Pair ( 4c 4s 2s 2h Ad )
+Wins: Foedeewrek, chips: 40
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Folds: Ronhafe
+Pot size: 15
+Wins: Foedeewrek, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Folds: Foedeewrek
+Pot size: 15
+Wins: Ronhafe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Calls: Ronhafe
+Checks: Foedeewrek
+Flop: Ks 9s 5s
+Raises: Foedeewrek, chips: 10
+Folds: Ronhafe
+Pot size: 30
+Wins: Foedeewrek, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Folds: Foedeewrek
+Pot size: 15
+Wins: Ronhafe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Folds: Ronhafe
+Pot size: 15
+Wins: Foedeewrek, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Calls: Foedeewrek
+Checks: Ronhafe
+Flop: 9h Th 3c
+Checks: Ronhafe
+Checks: Foedeewrek
+Turn: 3h
+Checks: Ronhafe
+Raises: Foedeewrek, chips: 10
+Folds: Ronhafe
+Pot size: 30
+Wins: Foedeewrek, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Calls: Ronhafe
+Raises: Foedeewrek, chips: 10
+Folds: Ronhafe
+Pot size: 30
+Wins: Foedeewrek, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Calls: Foedeewrek
+Checks: Ronhafe
+Flop: Qc Jc 7d
+Checks: Ronhafe
+Checks: Foedeewrek
+Turn: Qh
+Checks: Ronhafe
+Raises: Foedeewrek, chips: 10
+Folds: Ronhafe
+Pot size: 30
+Wins: Foedeewrek, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Folds: Ronhafe
+Pot size: 15
+Wins: Foedeewrek, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Folds: Foedeewrek
+Pot size: 15
+Wins: Ronhafe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Folds: Ronhafe
+Pot size: 15
+Wins: Foedeewrek, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Calls: Foedeewrek
+Raises: Ronhafe, chips: 10
+Folds: Foedeewrek
+Pot size: 30
+Wins: Ronhafe, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Folds: Ronhafe
+Pot size: 15
+Wins: Foedeewrek, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Folds: Foedeewrek
+Pot size: 15
+Wins: Ronhafe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Calls: Ronhafe
+Checks: Foedeewrek
+Flop: 6c Jd 3s
+Checks: Foedeewrek
+Checks: Ronhafe
+Turn: Qc
+Checks: Foedeewrek
+Checks: Ronhafe
+River: 9s
+Raises: Foedeewrek, chips: 3035
+Folds: Ronhafe
+Pot size: 3055
+Wins: Foedeewrek, chips: 3055
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Folds: Foedeewrek
+Pot size: 15
+Wins: Ronhafe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Folds: Ronhafe
+Pot size: 15
+Wins: Foedeewrek, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Folds: Foedeewrek
+Pot size: 15
+Wins: Ronhafe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Calls: Ronhafe
+Checks: Foedeewrek
+Flop: 3c 4c Js
+Checks: Foedeewrek
+Checks: Ronhafe
+Turn: 7h
+Checks: Foedeewrek
+Checks: Ronhafe
+River: Kc
+Checks: Foedeewrek
+Checks: Ronhafe
+Pot size: 20
+Showdown Reached
+Shows: Foedeewrek, 3s 9s
+Combination: Foedeewrek, Pair ( 3s 3c Kc Js 9s )
+Shows: Ronhafe, Tc Qs
+Combination: Ronhafe, High Card ( Kc Qs Js Tc 7h )
+Wins: Foedeewrek, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Folds: Foedeewrek
+Pot size: 15
+Wins: Ronhafe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Calls: Ronhafe
+Checks: Foedeewrek
+Flop: Th 4c 9c
+Checks: Foedeewrek
+Checks: Ronhafe
+Turn: 6s
+Checks: Foedeewrek
+Checks: Ronhafe
+River: Qd
+Checks: Foedeewrek
+Checks: Ronhafe
+Pot size: 20
+Showdown Reached
+Shows: Foedeewrek, 6h 8c
+Combination: Foedeewrek, Pair ( 6h 6s Qd Th 9c )
+Shows: Ronhafe, 7d Kd
+Combination: Ronhafe, High Card ( Kd Qd Th 9c 7d )
+Wins: Foedeewrek, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Calls: Foedeewrek
+Checks: Ronhafe
+Flop: 8s 3s Ac
+Checks: Ronhafe
+Checks: Foedeewrek
+Turn: 7h
+Raises: Ronhafe, chips: 10
+Folds: Foedeewrek
+Pot size: 30
+Wins: Ronhafe, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Folds: Ronhafe
+Pot size: 15
+Wins: Foedeewrek, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Folds: Foedeewrek
+Pot size: 15
+Wins: Ronhafe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Folds: Ronhafe
+Pot size: 15
+Wins: Foedeewrek, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Folds: Foedeewrek
+Pot size: 15
+Wins: Ronhafe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Folds: Ronhafe
+Pot size: 15
+Wins: Foedeewrek, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Folds: Foedeewrek
+Pot size: 15
+Wins: Ronhafe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Folds: Ronhafe
+Pot size: 15
+Wins: Foedeewrek, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Folds: Foedeewrek
+Pot size: 15
+Wins: Ronhafe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Folds: Ronhafe
+Pot size: 15
+Wins: Foedeewrek, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Folds: Foedeewrek
+Pot size: 15
+Wins: Ronhafe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Calls: Ronhafe
+Raises: Foedeewrek, chips: 10
+Folds: Ronhafe
+Pot size: 30
+Wins: Foedeewrek, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Folds: Foedeewrek
+Pot size: 15
+Wins: Ronhafe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Folds: Ronhafe
+Pot size: 15
+Wins: Foedeewrek, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Calls: Foedeewrek
+Checks: Ronhafe
+Flop: Qd 8h Tc
+Checks: Ronhafe
+Checks: Foedeewrek
+Turn: Td
+Checks: Ronhafe
+Checks: Foedeewrek
+River: 9s
+Checks: Ronhafe
+Checks: Foedeewrek
+Pot size: 20
+Showdown Reached
+Shows: Foedeewrek, 5c 6d
+Combination: Foedeewrek, Pair ( Tc Td Qd 9s 8h )
+Shows: Ronhafe, 4s Ad
+Combination: Ronhafe, Pair ( Tc Td Ad Qd 9s )
+Wins: Ronhafe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Calls: Ronhafe
+Checks: Foedeewrek
+Flop: 3c 3s Ah
+Checks: Foedeewrek
+Raises: Ronhafe, chips: 10
+Folds: Foedeewrek
+Pot size: 30
+Wins: Ronhafe, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Folds: Foedeewrek
+Pot size: 15
+Wins: Ronhafe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Folds: Ronhafe
+Pot size: 15
+Wins: Foedeewrek, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Raises: Foedeewrek, chips: 3035
+Folds: Ronhafe
+Pot size: 3055
+Wins: Foedeewrek, chips: 3055
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Folds: Ronhafe
+Pot size: 15
+Wins: Foedeewrek, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Folds: Foedeewrek
+Pot size: 15
+Wins: Ronhafe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Calls: Ronhafe
+Checks: Foedeewrek
+Flop: 6c 4c Kh
+Checks: Foedeewrek
+Checks: Ronhafe
+Turn: Tc
+Checks: Foedeewrek
+Checks: Ronhafe
+River: 3c
+Checks: Foedeewrek
+Checks: Ronhafe
+Pot size: 20
+Showdown Reached
+Shows: Foedeewrek, 8c Ad
+Combination: Foedeewrek, Flush ( Tc 8c 6c 4c 3c )
+Shows: Ronhafe, 5d 3d
+Combination: Ronhafe, Pair ( 3d 3c Kh Tc 6c )
+Wins: Foedeewrek, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Folds: Foedeewrek
+Pot size: 15
+Wins: Ronhafe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Calls: Ronhafe
+Checks: Foedeewrek
+Flop: 3c 7c As
+Checks: Foedeewrek
+Checks: Ronhafe
+Turn: Qs
+Checks: Foedeewrek
+Checks: Ronhafe
+River: 6s
+Checks: Foedeewrek
+Checks: Ronhafe
+Pot size: 20
+Showdown Reached
+Shows: Foedeewrek, 8h 2s
+Combination: Foedeewrek, High Card ( As Qs 8h 7c 6s )
+Shows: Ronhafe, 8s Th
+Combination: Ronhafe, High Card ( As Qs Th 8s 7c )
+Wins: Ronhafe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Folds: Foedeewrek
+Pot size: 15
+Wins: Ronhafe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Folds: Ronhafe
+Pot size: 15
+Wins: Foedeewrek, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Calls: Foedeewrek
+Checks: Ronhafe
+Flop: 9c 7d 2c
+Checks: Ronhafe
+Checks: Foedeewrek
+Turn: Qd
+Checks: Ronhafe
+Checks: Foedeewrek
+River: 9h
+Checks: Ronhafe
+Checks: Foedeewrek
+Pot size: 20
+Showdown Reached
+Shows: Foedeewrek, 8d Ad
+Combination: Foedeewrek, Pair ( 9c 9h Ad Qd 8d )
+Shows: Ronhafe, 8c Js
+Combination: Ronhafe, Pair ( 9c 9h Qd Js 8c )
+Wins: Foedeewrek, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Folds: Ronhafe
+Pot size: 15
+Wins: Foedeewrek, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Calls: Foedeewrek
+Checks: Ronhafe
+Flop: 9c 6h 5c
+Checks: Ronhafe
+Checks: Foedeewrek
+Turn: 6d
+Checks: Ronhafe
+Checks: Foedeewrek
+River: Js
+Checks: Ronhafe
+Checks: Foedeewrek
+Pot size: 20
+Showdown Reached
+Shows: Foedeewrek, Ks 9s
+Combination: Foedeewrek, Two Pair ( 9s 9c 6h 6d Ks )
+Shows: Ronhafe, Th 5h
+Combination: Ronhafe, Two Pair ( 6h 6d 5h 5c Js )
+Wins: Foedeewrek, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Folds: Ronhafe
+Pot size: 15
+Wins: Foedeewrek, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Folds: Foedeewrek
+Pot size: 15
+Wins: Ronhafe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Folds: Ronhafe
+Pot size: 15
+Wins: Foedeewrek, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Folds: Foedeewrek
+Pot size: 15
+Wins: Ronhafe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Folds: Ronhafe
+Pot size: 15
+Wins: Foedeewrek, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Folds: Foedeewrek
+Pot size: 15
+Wins: Ronhafe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Folds: Ronhafe
+Pot size: 15
+Wins: Foedeewrek, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Folds: Foedeewrek
+Pot size: 15
+Wins: Ronhafe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Calls: Ronhafe
+Raises: Foedeewrek, chips: 10
+Calls: Ronhafe
+Flop: 6h 3c Jh
+Checks: Foedeewrek
+Raises: Ronhafe, chips: 10
+Calls: Foedeewrek
+Turn: 9d
+Checks: Foedeewrek
+Checks: Ronhafe
+River: 7d
+Checks: Foedeewrek
+Checks: Ronhafe
+Pot size: 60
+Showdown Reached
+Shows: Foedeewrek, Kc Td
+Combination: Foedeewrek, High Card ( Kc Jh Td 9d 7d )
+Shows: Ronhafe, 8s As
+Combination: Ronhafe, High Card ( As Jh 9d 8s 7d )
+Wins: Ronhafe, chips: 60
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Folds: Foedeewrek
+Pot size: 15
+Wins: Ronhafe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Folds: Ronhafe
+Pot size: 15
+Wins: Foedeewrek, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Folds: Foedeewrek
+Pot size: 15
+Wins: Ronhafe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Raises: Ronhafe, chips: 15
+Folds: Foedeewrek
+Pot size: 35
+Wins: Ronhafe, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Folds: Foedeewrek
+Pot size: 15
+Wins: Ronhafe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Folds: Ronhafe
+Pot size: 15
+Wins: Foedeewrek, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Folds: Foedeewrek
+Pot size: 15
+Wins: Ronhafe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Calls: Ronhafe
+Checks: Foedeewrek
+Flop: 2h 7h Kh
+Checks: Foedeewrek
+Checks: Ronhafe
+Turn: 2s
+Raises: Foedeewrek, chips: 10
+Folds: Ronhafe
+Pot size: 30
+Wins: Foedeewrek, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Folds: Foedeewrek
+Pot size: 15
+Wins: Ronhafe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Calls: Ronhafe
+Checks: Foedeewrek
+Flop: 6c 2c Td
+Raises: Foedeewrek, chips: 10
+Calls: Ronhafe
+Turn: 3h
+Raises: Foedeewrek, chips: 10
+Raises: Ronhafe, chips: 20
+Raises: Foedeewrek, chips: 20
+Calls: Ronhafe
+River: 6s
+Raises: Foedeewrek, chips: 30
+Calls: Ronhafe
+Pot size: 200
+Showdown Reached
+Shows: Foedeewrek, 6d 7d
+Combination: Foedeewrek, Three Of A Kind ( 6d 6c 6s Td 7d )
+Shows: Ronhafe, Ah 2h
+Combination: Ronhafe, Two Pair ( 6c 6s 2h 2c Ah )
+Wins: Foedeewrek, chips: 200
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Raises: Foedeewrek, chips: 15
+Folds: Ronhafe
+Pot size: 35
+Wins: Foedeewrek, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Folds: Ronhafe
+Pot size: 15
+Wins: Foedeewrek, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Calls: Foedeewrek
+Checks: Ronhafe
+Flop: 9h 3s 7c
+Checks: Ronhafe
+Checks: Foedeewrek
+Turn: Qd
+Checks: Ronhafe
+Checks: Foedeewrek
+River: 6c
+Checks: Ronhafe
+Checks: Foedeewrek
+Pot size: 20
+Showdown Reached
+Shows: Foedeewrek, 9s Ac
+Combination: Foedeewrek, Pair ( 9s 9h Ac Qd 7c )
+Shows: Ronhafe, Kd 7s
+Combination: Ronhafe, Pair ( 7s 7c Kd Qd 9h )
+Wins: Foedeewrek, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Folds: Ronhafe
+Pot size: 15
+Wins: Foedeewrek, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Folds: Foedeewrek
+Pot size: 15
+Wins: Ronhafe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Folds: Ronhafe
+Pot size: 15
+Wins: Foedeewrek, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Calls: Foedeewrek
+Checks: Ronhafe
+Flop: 9d 5d 5c
+Checks: Ronhafe
+Checks: Foedeewrek
+Turn: 9s
+Checks: Ronhafe
+Checks: Foedeewrek
+River: 4d
+Raises: Ronhafe, chips: 3830
+Folds: Foedeewrek
+Pot size: 3850
+Wins: Ronhafe, chips: 3850
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Calls: Ronhafe
+Checks: Foedeewrek
+Flop: 6h Jd 8s
+Checks: Foedeewrek
+Checks: Ronhafe
+Turn: 8c
+Checks: Foedeewrek
+Checks: Ronhafe
+River: Ts
+Checks: Foedeewrek
+Checks: Ronhafe
+Pot size: 20
+Showdown Reached
+Shows: Foedeewrek, Qd 6s
+Combination: Foedeewrek, Two Pair ( 8s 8c 6s 6h Qd )
+Shows: Ronhafe, Kd 4d
+Combination: Ronhafe, Pair ( 8s 8c Kd Jd Ts )
+Wins: Foedeewrek, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Folds: Foedeewrek
+Pot size: 15
+Wins: Ronhafe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Calls: Ronhafe
+Raises: Foedeewrek, chips: 10
+Folds: Ronhafe
+Pot size: 30
+Wins: Foedeewrek, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Folds: Foedeewrek
+Pot size: 15
+Wins: Ronhafe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Calls: Ronhafe
+Checks: Foedeewrek
+Flop: 2c Kh 9s
+Checks: Foedeewrek
+Raises: Ronhafe, chips: 10
+Calls: Foedeewrek
+Turn: 6c
+Checks: Foedeewrek
+Checks: Ronhafe
+River: Ks
+Raises: Foedeewrek, chips: 10
+Calls: Ronhafe
+Pot size: 60
+Showdown Reached
+Shows: Foedeewrek, Td 2h
+Combination: Foedeewrek, Two Pair ( Kh Ks 2h 2c Td )
+Shows: Ronhafe, Kc 8c
+Combination: Ronhafe, Three Of A Kind ( Kc Kh Ks 9s 8c )
+Wins: Ronhafe, chips: 60
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Calls: Foedeewrek
+Raises: Ronhafe, chips: 10
+Folds: Foedeewrek
+Pot size: 30
+Wins: Ronhafe, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Calls: Ronhafe
+Checks: Foedeewrek
+Flop: 7h 7s 4s
+Checks: Foedeewrek
+Checks: Ronhafe
+Turn: 4d
+Checks: Foedeewrek
+Checks: Ronhafe
+River: 6h
+Raises: Foedeewrek, chips: 3110
+Folds: Ronhafe
+Pot size: 3130
+Wins: Foedeewrek, chips: 3130
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Folds: Foedeewrek
+Pot size: 15
+Wins: Ronhafe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Folds: Ronhafe
+Pot size: 15
+Wins: Foedeewrek, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Calls: Foedeewrek
+Checks: Ronhafe
+Flop: 8d Kd 3d
+Checks: Ronhafe
+Raises: Foedeewrek, chips: 10
+Calls: Ronhafe
+Turn: 5d
+Raises: Ronhafe, chips: 10
+Calls: Foedeewrek
+River: Qd
+Checks: Ronhafe
+Raises: Foedeewrek, chips: 10
+Calls: Ronhafe
+Pot size: 80
+Showdown Reached
+Shows: Foedeewrek, 7d 9d
+Combination: Foedeewrek, Flush ( Kd Qd 9d 8d 7d )
+Shows: Ronhafe, 6d Jc
+Combination: Ronhafe, Flush ( Kd Qd 8d 6d 5d )
+Wins: Foedeewrek, chips: 80
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Folds: Ronhafe
+Pot size: 15
+Wins: Foedeewrek, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Folds: Foedeewrek
+Pot size: 15
+Wins: Ronhafe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Folds: Ronhafe
+Pot size: 15
+Wins: Foedeewrek, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Calls: Foedeewrek
+Checks: Ronhafe
+Flop: 8h 9c 4h
+Checks: Ronhafe
+Checks: Foedeewrek
+Turn: Js
+Checks: Ronhafe
+Checks: Foedeewrek
+River: Qd
+Checks: Ronhafe
+Checks: Foedeewrek
+Pot size: 20
+Showdown Reached
+Shows: Foedeewrek, 6s 5h
+Combination: Foedeewrek, High Card ( Qd Js 9c 8h 6s )
+Shows: Ronhafe, 2s 8s
+Combination: Ronhafe, Pair ( 8s 8h Qd Js 9c )
+Wins: Ronhafe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Folds: Ronhafe
+Pot size: 15
+Wins: Foedeewrek, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Calls: Foedeewrek
+Checks: Ronhafe
+Flop: 7c Ah 6s
+Checks: Ronhafe
+Checks: Foedeewrek
+Turn: Td
+Checks: Ronhafe
+Checks: Foedeewrek
+River: 2s
+Checks: Ronhafe
+Checks: Foedeewrek
+Pot size: 20
+Showdown Reached
+Shows: Foedeewrek, 9d 9h
+Combination: Foedeewrek, Pair ( 9d 9h Ah Td 7c )
+Shows: Ronhafe, Qd Kh
+Combination: Ronhafe, High Card ( Ah Kh Qd Td 7c )
+Wins: Foedeewrek, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Calls: Ronhafe
+Checks: Foedeewrek
+Flop: Ad Ts 6c
+Raises: Foedeewrek, chips: 10
+Raises: Ronhafe, chips: 20
+Raises: Foedeewrek, chips: 30
+Calls: Ronhafe
+Turn: 3c
+Checks: Foedeewrek
+Raises: Ronhafe, chips: 30
+Folds: Foedeewrek
+Pot size: 170
+Wins: Ronhafe, chips: 170
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Calls: Foedeewrek
+Checks: Ronhafe
+Flop: Ks Jh 6s
+Raises: Ronhafe, chips: 10
+Raises: Foedeewrek, chips: 3090
+Folds: Ronhafe
+Pot size: 3130
+Wins: Foedeewrek, chips: 3130
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Calls: Ronhafe
+Checks: Foedeewrek
+Flop: Ac 7c 2d
+Raises: Foedeewrek, chips: 3120
+Folds: Ronhafe
+Pot size: 3140
+Wins: Foedeewrek, chips: 3140
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Calls: Foedeewrek
+Checks: Ronhafe
+Flop: 9d Td 9h
+Checks: Ronhafe
+Checks: Foedeewrek
+Turn: 5c
+Checks: Ronhafe
+Checks: Foedeewrek
+River: Kd
+Checks: Ronhafe
+Raises: Foedeewrek, chips: 10
+Calls: Ronhafe
+Pot size: 40
+Showdown Reached
+Shows: Foedeewrek, Tc Qs
+Combination: Foedeewrek, Two Pair ( Tc Td 9d 9h Kd )
+Shows: Ronhafe, 6h Th
+Combination: Ronhafe, Two Pair ( Th Td 9d 9h Kd )
+Wins: Foedeewrek, chips: 20
+Wins: Ronhafe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ronhafe
+Small Blind: Ronhafe, chips: 5
+Big Blind: Foedeewrek, chips: 10
+Calls: Ronhafe
+Checks: Foedeewrek
+Flop: 2c 5d Kd
+Checks: Foedeewrek
+Checks: Ronhafe
+Turn: 2h
+Checks: Foedeewrek
+Checks: Ronhafe
+River: As
+Raises: Foedeewrek, chips: 10
+Calls: Ronhafe
+Pot size: 40
+Showdown Reached
+Shows: Foedeewrek, Ah 6d
+Combination: Foedeewrek, Two Pair ( Ah As 2c 2h Kd )
+Shows: Ronhafe, 4d Ad
+Combination: Ronhafe, Two Pair ( Ad As 2c 2h Kd )
+Wins: Foedeewrek, chips: 20
+Wins: Ronhafe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Foedeewrek
+Small Blind: Foedeewrek, chips: 5
+Big Blind: Ronhafe, chips: 10
+Calls: Foedeewrek
+Raises: Ronhafe, chips: 10
+Calls: Foedeewrek
+Flop: 5d As Jh
+Raises: Ronhafe, chips: 10
+Raises: Foedeewrek, chips: 10
+Raises: Ronhafe, chips: 10
+Raises: Foedeewrek, chips: 20
+Calls: Ronhafe
+Turn: 8d
+Raises: Ronhafe, chips: 3790
+Calls: Foedeewrek
+River: 4s
+Pot size: 7000
+Showdown Reached
+Shows: Foedeewrek, Td Ah
+Combination: Foedeewrek, Pair ( Ah As Jh Td 8d )
+Shows: Ronhafe, Kh Ad
+Combination: Ronhafe, Pair ( Ad As Kh Jh 8d )
+Wins: Ronhafe, chips: 7000
+Quits: Foedeewrek, chips: 0
+Ranking: Ronhafe, Place: 1, Score: 6000
+Reveal AI: Ronhafe, AI: Smart
+Ranking: Foedeewrek, Place: 2, Score: -1000
+Reveal AI: Foedeewrek, AI: Smart
+Ranking: Tababek, Place: 3, Score: -1000
+Reveal AI: Tababek, AI: Call
+Ranking: Goefewreep, Place: 4, Score: -1000
+Reveal AI: Goefewreep, AI: Random
+Ranking: Jefen, Place: 5, Score: -1000
+Reveal AI: Jefen, AI: Random
+Ranking: Gufi, Place: 6, Score: -1000
+Reveal AI: Gufi, AI: Call
+Ranking: Jesek, Place: 7, Score: -1000
+Reveal AI: Jesek, AI: AIMyBot1
+
+Player Stats for Foedeewrek, AI: Smart
+General: deals: 180, actions: 319, preflop actions: 142
+Rounds Seen: flops: 64, turns: 56, rivers: 49, showdowns: 43
+Wins: total: 87, showdown: 27, bluff: 60
+Chips: won: 25555, lost: 27275, bought: 1000, forced bets: 1265
+Pre-Flop Stats: VP$IP: 0.227778, PFR: 0.0444444, 3Bet: 0.0222222
+Post-Flop Stats: AF: 5.14286, WSD: 0.671875, WSDW: 0.627907
+
+
+Player Stats for Goefewreep, AI: Random
+General: deals: 1, actions: 2, preflop actions: 2
+Rounds Seen: flops: 74, turns: 69, rivers: 63, showdowns: 58
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 0
+Pre-Flop Stats: VP$IP: 1, PFR: 1, 3Bet: 1
+Post-Flop Stats: AF: -1.#IND, WSD: 0.783784, WSDW: 0
+
+
+Player Stats for Gufi, AI: Call
+General: deals: 1, actions: 2, preflop actions: 2
+Rounds Seen: flops: 74, turns: 69, rivers: 63, showdowns: 58
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 0
+Pre-Flop Stats: VP$IP: 1, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 0.783784, WSDW: 0
+
+
+Player Stats for Jefen, AI: Random
+General: deals: 1, actions: 2, preflop actions: 2
+Rounds Seen: flops: 74, turns: 69, rivers: 63, showdowns: 58
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 0
+Pre-Flop Stats: VP$IP: 1, PFR: 1, 3Bet: 1
+Post-Flop Stats: AF: -1.#IND, WSD: 0.783784, WSDW: 0
+
+
+Player Stats for Jesek, AI: AIMyBot1
+General: deals: 1, actions: 2, preflop actions: 2
+Rounds Seen: flops: 74, turns: 69, rivers: 63, showdowns: 58
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 0
+Pre-Flop Stats: VP$IP: 1, PFR: 1, 3Bet: 1
+Post-Flop Stats: AF: -1.#IND, WSD: 0.783784, WSDW: 0
+
+
+Player Stats for Ronhafe, AI: Smart
+General: deals: 180, actions: 320, preflop actions: 139
+Rounds Seen: flops: 62, turns: 56, rivers: 50, showdowns: 45
+Wins: total: 80, showdown: 23, bluff: 57
+Chips: won: 18760, lost: 12760, bought: 1000, forced bets: 1260
+Pre-Flop Stats: VP$IP: 0.227778, PFR: 0.05, 3Bet: 0.0277778
+Post-Flop Stats: AF: 2.33333, WSD: 0.725806, WSDW: 0.511111
+
+
+Player Stats for Tababek, AI: Call
+General: deals: 35, actions: 122, preflop actions: 32
+Rounds Seen: flops: 74, turns: 69, rivers: 63, showdowns: 58
+Wins: total: 17, showdown: 12, bluff: 5
+Chips: won: 5395, lost: 7575, bought: 1000, forced bets: 175
+Pre-Flop Stats: VP$IP: 0.657143, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: 0, WSD: 0.783784, WSDW: 0.206897
+
+

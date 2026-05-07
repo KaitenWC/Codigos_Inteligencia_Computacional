@@ -1,0 +1,2492 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Nuwrot: Smart
+Hi: Smart
+Fiweek: AIMyBot1
+Febe: Random
+Pemo: Call
+Motateef: Call
+Runha: Random
+
+Joins: Nuwrot, chips: 1000
+Joins: Hi, chips: 1000
+Joins: Fiweek, chips: 1000
+Joins: Febe, chips: 1000
+Joins: Pemo, chips: 1000
+Joins: Motateef, chips: 1000
+Joins: Runha, chips: 1000
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Runha
+Small Blind: Nuwrot, chips: 5
+Big Blind: Hi, chips: 10
+Raises: Fiweek, chips: 40
+Calls: Febe
+Calls: Pemo
+Calls: Motateef
+Calls: Runha
+Folds: Nuwrot
+Folds: Hi
+Flop: Tc 7c Td
+Raises: Fiweek, chips: 80
+Calls: Febe
+Calls: Pemo
+Calls: Motateef
+Calls: Runha
+Turn: Jd
+Raises: Fiweek, chips: 160
+Raises: Febe, chips: 320
+Calls: Pemo
+Calls: Motateef
+Raises: Runha, chips: 390
+Calls: Fiweek
+Folds: Febe
+Calls: Pemo
+Calls: Motateef
+River: 2c
+Pot size: 4625
+Showdown Reached
+Shows: Fiweek, 8d 5d
+Combination: Fiweek, Pair ( Tc Td Jd 8d 7c )
+Shows: Pemo, Jc 3c
+Combination: Pemo, Flush ( Jc Tc 7c 3c 2c )
+Shows: Motateef, Kc Ks
+Combination: Motateef, Two Pair ( Kc Ks Tc Td Jd )
+Shows: Runha, Ad 4c
+Combination: Runha, Pair ( Tc Td Ad Jd 7c )
+Wins: Pemo, chips: 4625
+Quits: Fiweek, chips: 0
+Quits: Motateef, chips: 0
+Quits: Runha, chips: 0
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Nuwrot
+Small Blind: Hi, chips: 5
+Big Blind: Febe, chips: 10
+Calls: Pemo
+Folds: Nuwrot
+Calls: Hi
+Checks: Febe
+Flop: 8h Ad Kd
+Checks: Hi
+Checks: Febe
+Checks: Pemo
+Turn: Kc
+Checks: Hi
+Checks: Febe
+Checks: Pemo
+River: Qs
+Checks: Hi
+Checks: Febe
+Checks: Pemo
+Pot size: 30
+Showdown Reached
+Shows: Hi, 9h Td
+Combination: Hi, Pair ( Kd Kc Ad Qs Td )
+Shows: Febe, 7h Js
+Combination: Febe, Pair ( Kd Kc Ad Qs Js )
+Shows: Pemo, Tc 5s
+Combination: Pemo, Pair ( Kd Kc Ad Qs Tc )
+Wins: Febe, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Hi
+Small Blind: Febe, chips: 5
+Big Blind: Pemo, chips: 10
+Folds: Nuwrot
+Folds: Hi
+Raises: Febe, chips: 15
+Calls: Pemo
+Flop: 4s Ks Ts
+Checks: Febe
+Checks: Pemo
+Turn: Ah
+Checks: Febe
+Checks: Pemo
+River: 9d
+Checks: Febe
+Checks: Pemo
+Pot size: 50
+Showdown Reached
+Shows: Febe, 5h Kc
+Combination: Febe, Pair ( Kc Ks Ah Ts 9d )
+Shows: Pemo, 3d 7c
+Combination: Pemo, High Card ( Ah Ks Ts 9d 7c )
+Wins: Febe, chips: 50
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Febe
+Small Blind: Pemo, chips: 5
+Big Blind: Nuwrot, chips: 10
+Folds: Hi
+Calls: Febe
+Calls: Pemo
+Checks: Nuwrot
+Flop: 2s 4c 6h
+Checks: Pemo
+Checks: Nuwrot
+Checks: Febe
+Turn: Ad
+Checks: Pemo
+Checks: Nuwrot
+Checks: Febe
+River: 6s
+Checks: Pemo
+Checks: Nuwrot
+Raises: Febe, chips: 10
+Calls: Pemo
+Folds: Nuwrot
+Pot size: 50
+Showdown Reached
+Shows: Febe, Ah 6c
+Combination: Febe, Full House ( 6c 6h 6s Ah Ad )
+Shows: Pemo, 3s 5c
+Combination: Pemo, Straight ( 6h 5c 4c 3s 2s )
+Wins: Febe, chips: 50
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Pemo
+Small Blind: Nuwrot, chips: 5
+Big Blind: Hi, chips: 10
+Folds: Febe
+Calls: Pemo
+Calls: Nuwrot
+Checks: Hi
+Flop: Js 8d 6s
+Checks: Nuwrot
+Checks: Hi
+Checks: Pemo
+Turn: Jc
+Checks: Nuwrot
+Checks: Hi
+Checks: Pemo
+River: 9h
+Checks: Nuwrot
+Checks: Hi
+Checks: Pemo
+Pot size: 30
+Showdown Reached
+Shows: Nuwrot, Ad 9c
+Combination: Nuwrot, Two Pair ( Js Jc 9c 9h Ad )
+Shows: Hi, Kd 2h
+Combination: Hi, Pair ( Js Jc Kd 9h 8d )
+Shows: Pemo, 7h 5h
+Combination: Pemo, Straight ( 9h 8d 7h 6s 5h )
+Wins: Pemo, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Nuwrot
+Small Blind: Hi, chips: 5
+Big Blind: Febe, chips: 10
+Calls: Pemo
+Calls: Nuwrot
+Folds: Hi
+Raises: Febe, chips: 10
+Calls: Pemo
+Folds: Nuwrot
+Flop: 5d 6d 3c
+Checks: Febe
+Checks: Pemo
+Turn: Ts
+Raises: Febe, chips: 10
+Calls: Pemo
+River: 9s
+Checks: Febe
+Checks: Pemo
+Pot size: 75
+Showdown Reached
+Shows: Febe, Th 7h
+Combination: Febe, Pair ( Th Ts 9s 7h 6d )
+Shows: Pemo, 4c Jc
+Combination: Pemo, High Card ( Jc Ts 9s 6d 5d )
+Wins: Febe, chips: 75
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Hi
+Small Blind: Febe, chips: 5
+Big Blind: Pemo, chips: 10
+Calls: Nuwrot
+Raises: Hi, chips: 20
+Raises: Febe, chips: 45
+Calls: Pemo
+Calls: Nuwrot
+Calls: Hi
+Flop: 5h Ad 9h
+Checks: Febe
+Checks: Pemo
+Checks: Nuwrot
+Checks: Hi
+Turn: 4s
+Checks: Febe
+Checks: Pemo
+DEBUG MESSAGE: INVALID ACTION FROM Nuwrot (2 0)
+Folds: Nuwrot
+Checks: Hi
+River: 2c
+Checks: Febe
+Checks: Pemo
+Checks: Hi
+Pot size: 300
+Showdown Reached
+Shows: Hi, Qc Tc
+Combination: Hi, High Card ( Ad Qc Tc 9h 5h )
+Shows: Febe, 8c 9d
+Combination: Febe, Pair ( 9d 9h Ad 8c 5h )
+Shows: Pemo, 9c Qh
+Combination: Pemo, Pair ( 9c 9h Ad Qh 5h )
+Wins: Pemo, chips: 300
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Febe
+Small Blind: Pemo, chips: 5
+Big Blind: Nuwrot, chips: 10
+Calls: Hi
+Calls: Febe
+Calls: Pemo
+Checks: Nuwrot
+Flop: 7c 2d Th
+Checks: Pemo
+Checks: Nuwrot
+Checks: Hi
+Raises: Febe, chips: 10
+Calls: Pemo
+Calls: Nuwrot
+Folds: Hi
+Turn: 8d
+Checks: Pemo
+Checks: Nuwrot
+Checks: Febe
+River: 6s
+Checks: Pemo
+Checks: Nuwrot
+Checks: Febe
+Pot size: 70
+Showdown Reached
+Shows: Nuwrot, Ah Tc
+Combination: Nuwrot, Pair ( Tc Th Ah 8d 7c )
+Shows: Febe, 7s 9d
+Combination: Febe, Straight ( Th 9d 8d 7s 6s )
+Shows: Pemo, 2c 7h
+Combination: Pemo, Two Pair ( 7h 7c 2c 2d Th )
+Wins: Febe, chips: 70
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Pemo
+Small Blind: Nuwrot, chips: 5
+Big Blind: Hi, chips: 10
+Folds: Febe
+Calls: Pemo
+Folds: Nuwrot
+Checks: Hi
+Flop: 4c 6h Kd
+Checks: Hi
+Checks: Pemo
+Turn: 4d
+Checks: Hi
+Checks: Pemo
+River: Qh
+Checks: Hi
+Checks: Pemo
+Pot size: 25
+Showdown Reached
+Shows: Hi, 9h 8d
+Combination: Hi, Pair ( 4c 4d Kd Qh 9h )
+Shows: Pemo, 7c 3c
+Combination: Pemo, Pair ( 4c 4d Kd Qh 7c )
+Wins: Hi, chips: 25
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Nuwrot
+Small Blind: Hi, chips: 5
+Big Blind: Febe, chips: 10
+Calls: Pemo
+Folds: Nuwrot
+Calls: Hi
+Raises: Febe, chips: 10
+Calls: Pemo
+Raises: Hi, chips: 10
+Calls: Febe
+Calls: Pemo
+Flop: 9h 2d Ks
+Checks: Hi
+Raises: Febe, chips: 455
+Calls: Pemo
+Folds: Hi
+Turn: 4s
+River: 3s
+Pot size: 1000
+Showdown Reached
+Shows: Febe, Ts 8h
+Combination: Febe, High Card ( Ks Ts 9h 8h 4s )
+Shows: Pemo, 7d Qc
+Combination: Pemo, High Card ( Ks Qc 9h 7d 4s )
+Wins: Pemo, chips: 1000
+Quits: Febe, chips: 0
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Hi
+Small Blind: Pemo, chips: 5
+Big Blind: Nuwrot, chips: 10
+Folds: Hi
+Calls: Pemo
+Raises: Nuwrot, chips: 10
+Calls: Pemo
+Flop: Ad 5s 3h
+Checks: Pemo
+Raises: Nuwrot, chips: 10
+Calls: Pemo
+Turn: Qs
+Checks: Pemo
+Raises: Nuwrot, chips: 835
+Calls: Pemo
+River: 2d
+Pot size: 1730
+Showdown Reached
+Shows: Nuwrot, Kd Ac
+Combination: Nuwrot, Pair ( Ac Ad Kd Qs 5s )
+Shows: Pemo, Jh 9h
+Combination: Pemo, High Card ( Ad Qs Jh 9h 5s )
+Wins: Nuwrot, chips: 1730
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Pemo
+Small Blind: Nuwrot, chips: 5
+Big Blind: Hi, chips: 10
+Calls: Pemo
+Folds: Nuwrot
+Checks: Hi
+Flop: 5h 9h 4d
+Checks: Hi
+Checks: Pemo
+Turn: 5d
+Raises: Hi, chips: 10
+Calls: Pemo
+River: As
+Checks: Hi
+Checks: Pemo
+Pot size: 45
+Showdown Reached
+Shows: Hi, 3c 3h
+Combination: Hi, Two Pair ( 5h 5d 3c 3h As )
+Shows: Pemo, 2s 3s
+Combination: Pemo, Straight ( 5h 4d 3s 2s As )
+Wins: Pemo, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Nuwrot
+Small Blind: Hi, chips: 5
+Big Blind: Pemo, chips: 10
+Calls: Nuwrot
+Folds: Hi
+Checks: Pemo
+Flop: Jd Td 6s
+Checks: Pemo
+Raises: Nuwrot, chips: 10
+Calls: Pemo
+Turn: 6c
+Checks: Pemo
+Checks: Nuwrot
+River: Qh
+Checks: Pemo
+Checks: Nuwrot
+Pot size: 45
+Showdown Reached
+Shows: Nuwrot, Kd 4d
+Combination: Nuwrot, Pair ( 6s 6c Kd Qh Jd )
+Shows: Pemo, 5h Kh
+Combination: Pemo, Pair ( 6s 6c Kh Qh Jd )
+Wins: Nuwrot, chips: 23
+Wins: Pemo, chips: 22
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Hi
+Small Blind: Pemo, chips: 5
+Big Blind: Nuwrot, chips: 10
+Folds: Hi
+Calls: Pemo
+Checks: Nuwrot
+Flop: 8d 4h Qd
+Checks: Pemo
+Checks: Nuwrot
+Turn: Ts
+Checks: Pemo
+Raises: Nuwrot, chips: 10
+Calls: Pemo
+River: 7d
+Checks: Pemo
+Checks: Nuwrot
+Pot size: 40
+Showdown Reached
+Shows: Nuwrot, 7c 4s
+Combination: Nuwrot, Two Pair ( 7c 7d 4s 4h Qd )
+Shows: Pemo, Ad Kh
+Combination: Pemo, High Card ( Ad Kh Qd Ts 8d )
+Wins: Nuwrot, chips: 40
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Pemo
+Small Blind: Nuwrot, chips: 5
+Big Blind: Hi, chips: 10
+Calls: Pemo
+Folds: Nuwrot
+Checks: Hi
+Flop: 3d 4c 5d
+Checks: Hi
+Checks: Pemo
+Turn: 8c
+Raises: Hi, chips: 10
+Calls: Pemo
+River: Jh
+Raises: Hi, chips: 10
+Calls: Pemo
+Pot size: 65
+Showdown Reached
+Shows: Hi, 3c 4s
+Combination: Hi, Two Pair ( 4s 4c 3c 3d Jh )
+Shows: Pemo, Ad 8d
+Combination: Pemo, Pair ( 8d 8c Ad Jh 5d )
+Wins: Hi, chips: 65
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Nuwrot
+Small Blind: Hi, chips: 5
+Big Blind: Pemo, chips: 10
+Calls: Nuwrot
+Folds: Hi
+Checks: Pemo
+Flop: Qs 7c 5h
+Checks: Pemo
+Raises: Nuwrot, chips: 10
+Calls: Pemo
+Turn: 5s
+Checks: Pemo
+Checks: Nuwrot
+River: 3c
+Checks: Pemo
+Checks: Nuwrot
+Pot size: 45
+Showdown Reached
+Shows: Nuwrot, 7h Kh
+Combination: Nuwrot, Two Pair ( 7h 7c 5h 5s Kh )
+Shows: Pemo, Jh 8h
+Combination: Pemo, Pair ( 5h 5s Qs Jh 8h )
+Wins: Nuwrot, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Hi
+Small Blind: Pemo, chips: 5
+Big Blind: Nuwrot, chips: 10
+Calls: Hi
+Calls: Pemo
+Checks: Nuwrot
+Flop: Tc 8d Qc
+Checks: Pemo
+Checks: Nuwrot
+Checks: Hi
+Turn: 3s
+Checks: Pemo
+Raises: Nuwrot, chips: 10
+Calls: Hi
+Calls: Pemo
+River: 6h
+Checks: Pemo
+Raises: Nuwrot, chips: 10
+Calls: Hi
+Calls: Pemo
+Pot size: 90
+Showdown Reached
+Shows: Nuwrot, 8c 3c
+Combination: Nuwrot, Two Pair ( 8c 8d 3c 3s Qc )
+Shows: Hi, Ts 9h
+Combination: Hi, Pair ( Ts Tc Qc 9h 8d )
+Shows: Pemo, 6s Qd
+Combination: Pemo, Two Pair ( Qd Qc 6s 6h Tc )
+Wins: Pemo, chips: 90
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Pemo
+Small Blind: Nuwrot, chips: 5
+Big Blind: Hi, chips: 10
+Calls: Pemo
+Calls: Nuwrot
+Checks: Hi
+Flop: 9d 6h Qs
+Checks: Nuwrot
+Checks: Hi
+Checks: Pemo
+Turn: 5c
+Checks: Nuwrot
+Checks: Hi
+Checks: Pemo
+River: 7h
+Checks: Nuwrot
+Checks: Hi
+Checks: Pemo
+Pot size: 30
+Showdown Reached
+Shows: Nuwrot, Tc Ah
+Combination: Nuwrot, High Card ( Ah Qs Tc 9d 7h )
+Shows: Hi, 4h Ad
+Combination: Hi, High Card ( Ad Qs 9d 7h 6h )
+Shows: Pemo, 2d 8d
+Combination: Pemo, Straight ( 9d 8d 7h 6h 5c )
+Wins: Pemo, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Nuwrot
+Small Blind: Hi, chips: 5
+Big Blind: Pemo, chips: 10
+Folds: Nuwrot
+Calls: Hi
+Checks: Pemo
+Flop: 5h 2d Ah
+Checks: Hi
+Checks: Pemo
+Turn: 8s
+Checks: Hi
+Checks: Pemo
+River: Jh
+Checks: Hi
+Checks: Pemo
+Pot size: 20
+Showdown Reached
+Shows: Hi, Ts 8h
+Combination: Hi, Pair ( 8h 8s Ah Jh Ts )
+Shows: Pemo, Ad Ac
+Combination: Pemo, Three Of A Kind ( Ad Ac Ah Jh 8s )
+Wins: Pemo, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Hi
+Small Blind: Pemo, chips: 5
+Big Blind: Nuwrot, chips: 10
+Calls: Hi
+Calls: Pemo
+Checks: Nuwrot
+Flop: Kh Ks 3d
+Checks: Pemo
+Raises: Nuwrot, chips: 10
+Folds: Hi
+Calls: Pemo
+Turn: Qc
+Checks: Pemo
+Raises: Nuwrot, chips: 10
+Calls: Pemo
+River: 2c
+Checks: Pemo
+Raises: Nuwrot, chips: 10
+Calls: Pemo
+Pot size: 90
+Showdown Reached
+Shows: Nuwrot, 4h 4d
+Combination: Nuwrot, Two Pair ( Kh Ks 4h 4d Qc )
+Shows: Pemo, 7d 7s
+Combination: Pemo, Two Pair ( Kh Ks 7d 7s Qc )
+Wins: Pemo, chips: 90
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Pemo
+Small Blind: Nuwrot, chips: 5
+Big Blind: Hi, chips: 10
+Calls: Pemo
+Folds: Nuwrot
+Checks: Hi
+Flop: 9h 7s 5c
+Checks: Hi
+Checks: Pemo
+Turn: 7h
+Checks: Hi
+Checks: Pemo
+River: Jc
+Checks: Hi
+Checks: Pemo
+Pot size: 25
+Showdown Reached
+Shows: Hi, 5h 8d
+Combination: Hi, Two Pair ( 7s 7h 5h 5c Jc )
+Shows: Pemo, Td 2c
+Combination: Pemo, Pair ( 7s 7h Jc Td 9h )
+Wins: Hi, chips: 25
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Nuwrot
+Small Blind: Hi, chips: 5
+Big Blind: Pemo, chips: 10
+Calls: Nuwrot
+Calls: Hi
+Checks: Pemo
+Flop: Ts 2h Tc
+Checks: Hi
+Checks: Pemo
+Checks: Nuwrot
+Turn: Th
+Checks: Hi
+Checks: Pemo
+Checks: Nuwrot
+River: Jh
+Checks: Hi
+Checks: Pemo
+Checks: Nuwrot
+Pot size: 30
+Showdown Reached
+Shows: Nuwrot, 5h Kh
+Combination: Nuwrot, Flush ( Kh Jh Th 5h 2h )
+Shows: Hi, As 5s
+Combination: Hi, Three Of A Kind ( Ts Tc Th As Jh )
+Shows: Pemo, 4d 3h
+Combination: Pemo, Three Of A Kind ( Ts Tc Th Jh 4d )
+Wins: Nuwrot, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Hi
+Small Blind: Pemo, chips: 5
+Big Blind: Nuwrot, chips: 10
+Folds: Hi
+Calls: Pemo
+Checks: Nuwrot
+Flop: As Ah Kc
+Checks: Pemo
+Raises: Nuwrot, chips: 1693
+Calls: Pemo
+Turn: 3d
+River: Jc
+Pot size: 3406
+Showdown Reached
+Shows: Nuwrot, Kh Qs
+Combination: Nuwrot, Two Pair ( As Ah Kh Kc Qs )
+Shows: Pemo, 4c 2d
+Combination: Pemo, Pair ( As Ah Kc Jc 4c )
+Wins: Nuwrot, chips: 3406
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Pemo
+Small Blind: Nuwrot, chips: 5
+Big Blind: Hi, chips: 10
+Calls: Pemo
+Folds: Nuwrot
+Checks: Hi
+Flop: Qh Jh 2c
+Checks: Hi
+Checks: Pemo
+Turn: 8h
+Checks: Hi
+Checks: Pemo
+River: 3h
+Checks: Hi
+Checks: Pemo
+Pot size: 25
+Showdown Reached
+Shows: Hi, 9d Jc
+Combination: Hi, Pair ( Jc Jh Qh 9d 8h )
+Shows: Pemo, Td Ts
+Combination: Pemo, Pair ( Td Ts Qh Jh 8h )
+Wins: Hi, chips: 25
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Nuwrot
+Small Blind: Hi, chips: 5
+Big Blind: Pemo, chips: 10
+Folds: Nuwrot
+Calls: Hi
+Checks: Pemo
+Flop: Kh Ks 8d
+Checks: Hi
+Checks: Pemo
+Turn: 3s
+Checks: Hi
+Checks: Pemo
+River: Kd
+Checks: Hi
+Checks: Pemo
+Pot size: 20
+Showdown Reached
+Shows: Hi, 4h 4d
+Combination: Hi, Full House ( Kh Ks Kd 4h 4d )
+Shows: Pemo, As Js
+Combination: Pemo, Three Of A Kind ( Kh Ks Kd As Js )
+Wins: Hi, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Hi
+Small Blind: Pemo, chips: 5
+Big Blind: Nuwrot, chips: 10
+Folds: Hi
+Calls: Pemo
+Checks: Nuwrot
+Flop: 3c Td 7h
+Checks: Pemo
+Checks: Nuwrot
+Turn: Qs
+Checks: Pemo
+Checks: Nuwrot
+River: 2h
+Checks: Pemo
+Checks: Nuwrot
+Pot size: 20
+Showdown Reached
+Shows: Nuwrot, 6d 4c
+Combination: Nuwrot, High Card ( Qs Td 7h 6d 4c )
+Shows: Pemo, 8c 9h
+Combination: Pemo, High Card ( Qs Td 9h 8c 7h )
+Wins: Pemo, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Pemo
+Small Blind: Nuwrot, chips: 5
+Big Blind: Hi, chips: 10
+Calls: Pemo
+Calls: Nuwrot
+Checks: Hi
+Flop: 6c Qc 4h
+Checks: Nuwrot
+Checks: Hi
+Checks: Pemo
+Turn: 9h
+Checks: Nuwrot
+Checks: Hi
+Checks: Pemo
+River: Kh
+Checks: Nuwrot
+Checks: Hi
+Checks: Pemo
+Pot size: 30
+Showdown Reached
+Shows: Nuwrot, 6d 5s
+Combination: Nuwrot, Pair ( 6d 6c Kh Qc 9h )
+Shows: Hi, 8h 4d
+Combination: Hi, Pair ( 4d 4h Kh Qc 9h )
+Shows: Pemo, Kc Ah
+Combination: Pemo, Pair ( Kc Kh Ah Qc 9h )
+Wins: Pemo, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Nuwrot
+Small Blind: Hi, chips: 5
+Big Blind: Pemo, chips: 10
+Folds: Nuwrot
+Folds: Hi
+Pot size: 15
+Wins: Pemo, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Hi
+Small Blind: Pemo, chips: 5
+Big Blind: Nuwrot, chips: 10
+Folds: Hi
+Calls: Pemo
+Checks: Nuwrot
+Flop: 7h 7d 3c
+Checks: Pemo
+Raises: Nuwrot, chips: 10
+Calls: Pemo
+Turn: 2d
+Checks: Pemo
+Raises: Nuwrot, chips: 10
+Calls: Pemo
+River: 9c
+Checks: Pemo
+Checks: Nuwrot
+Pot size: 60
+Showdown Reached
+Shows: Nuwrot, As Js
+Combination: Nuwrot, Pair ( 7h 7d As Js 9c )
+Shows: Pemo, 5s 6h
+Combination: Pemo, Pair ( 7h 7d 9c 6h 5s )
+Wins: Nuwrot, chips: 60
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Pemo
+Small Blind: Nuwrot, chips: 5
+Big Blind: Hi, chips: 10
+Calls: Pemo
+Folds: Nuwrot
+Checks: Hi
+Flop: 2c Qc Kc
+Checks: Hi
+Checks: Pemo
+Turn: 2d
+Raises: Hi, chips: 10
+Calls: Pemo
+River: 5c
+Checks: Hi
+Checks: Pemo
+Pot size: 45
+Showdown Reached
+Shows: Hi, Ah 3c
+Combination: Hi, Flush ( Kc Qc 5c 3c 2c )
+Shows: Pemo, 3s 7c
+Combination: Pemo, Flush ( Kc Qc 7c 5c 2c )
+Wins: Pemo, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Nuwrot
+Small Blind: Hi, chips: 5
+Big Blind: Pemo, chips: 10
+Folds: Nuwrot
+Folds: Hi
+Pot size: 15
+Wins: Pemo, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Hi
+Small Blind: Pemo, chips: 5
+Big Blind: Nuwrot, chips: 10
+Folds: Hi
+Calls: Pemo
+Raises: Nuwrot, chips: 10
+Calls: Pemo
+Flop: Jc Jh 4c
+Checks: Pemo
+Checks: Nuwrot
+Turn: Ts
+Checks: Pemo
+Checks: Nuwrot
+River: Qs
+Checks: Pemo
+Raises: Nuwrot, chips: 10
+Calls: Pemo
+Pot size: 60
+Showdown Reached
+Shows: Nuwrot, As Ks
+Combination: Nuwrot, Straight ( As Ks Qs Jc Ts )
+Shows: Pemo, 5c Kc
+Combination: Pemo, Pair ( Jc Jh Kc Qs Ts )
+Wins: Nuwrot, chips: 60
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Pemo
+Small Blind: Nuwrot, chips: 5
+Big Blind: Hi, chips: 10
+Calls: Pemo
+Calls: Nuwrot
+Checks: Hi
+Flop: 2h Jh 4s
+Checks: Nuwrot
+Checks: Hi
+Checks: Pemo
+Turn: Qc
+Raises: Nuwrot, chips: 10
+Folds: Hi
+Calls: Pemo
+River: 9h
+Raises: Nuwrot, chips: 10
+Calls: Pemo
+Pot size: 70
+Showdown Reached
+Shows: Nuwrot, Qh Td
+Combination: Nuwrot, Pair ( Qh Qc Jh Td 9h )
+Shows: Pemo, 2s 3s
+Combination: Pemo, Pair ( 2s 2h Qc Jh 9h )
+Wins: Nuwrot, chips: 70
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Nuwrot
+Small Blind: Hi, chips: 5
+Big Blind: Pemo, chips: 10
+Folds: Nuwrot
+Folds: Hi
+Pot size: 15
+Wins: Pemo, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Hi
+Small Blind: Pemo, chips: 5
+Big Blind: Nuwrot, chips: 10
+Folds: Hi
+Calls: Pemo
+Checks: Nuwrot
+Flop: Qc 7h 5h
+Checks: Pemo
+Checks: Nuwrot
+Turn: 4c
+Checks: Pemo
+Checks: Nuwrot
+River: 6h
+Checks: Pemo
+Raises: Nuwrot, chips: 10
+Calls: Pemo
+Pot size: 40
+Showdown Reached
+Shows: Nuwrot, Qd Ts
+Combination: Nuwrot, Pair ( Qd Qc Ts 7h 6h )
+Shows: Pemo, Qs Th
+Combination: Pemo, Pair ( Qs Qc Th 7h 6h )
+Wins: Nuwrot, chips: 20
+Wins: Pemo, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Pemo
+Small Blind: Nuwrot, chips: 5
+Big Blind: Hi, chips: 10
+Calls: Pemo
+Folds: Nuwrot
+Checks: Hi
+Flop: 5s 7h 7d
+Checks: Hi
+Checks: Pemo
+Turn: 6h
+Checks: Hi
+Checks: Pemo
+River: 5h
+Checks: Hi
+Checks: Pemo
+Pot size: 25
+Showdown Reached
+Shows: Hi, 9c Ad
+Combination: Hi, Two Pair ( 7h 7d 5s 5h Ad )
+Shows: Pemo, 2d 2s
+Combination: Pemo, Two Pair ( 7h 7d 5s 5h 6h )
+Wins: Hi, chips: 25
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Nuwrot
+Small Blind: Hi, chips: 5
+Big Blind: Pemo, chips: 10
+Folds: Nuwrot
+Folds: Hi
+Pot size: 15
+Wins: Pemo, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Hi
+Small Blind: Pemo, chips: 5
+Big Blind: Nuwrot, chips: 10
+Folds: Hi
+Calls: Pemo
+Checks: Nuwrot
+Flop: Tc Jd 9h
+Checks: Pemo
+Checks: Nuwrot
+Turn: Ts
+Checks: Pemo
+Checks: Nuwrot
+River: 9c
+Checks: Pemo
+Checks: Nuwrot
+Pot size: 20
+Showdown Reached
+Shows: Nuwrot, Ad 6h
+Combination: Nuwrot, Two Pair ( Tc Ts 9h 9c Ad )
+Shows: Pemo, 7c 3c
+Combination: Pemo, Two Pair ( Tc Ts 9h 9c Jd )
+Wins: Nuwrot, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Pemo
+Small Blind: Nuwrot, chips: 5
+Big Blind: Hi, chips: 10
+Calls: Pemo
+Folds: Nuwrot
+Checks: Hi
+Flop: Kd Kc 5d
+Checks: Hi
+Checks: Pemo
+Turn: Td
+Raises: Hi, chips: 10
+Calls: Pemo
+River: Ts
+Checks: Hi
+Checks: Pemo
+Pot size: 45
+Showdown Reached
+Shows: Hi, 5c Qh
+Combination: Hi, Two Pair ( Kd Kc Td Ts Qh )
+Shows: Pemo, Tc 7s
+Combination: Pemo, Full House ( Tc Td Ts Kd Kc )
+Wins: Pemo, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Nuwrot
+Small Blind: Hi, chips: 5
+Big Blind: Pemo, chips: 10
+Folds: Nuwrot
+Folds: Hi
+Pot size: 15
+Wins: Pemo, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Hi
+Small Blind: Pemo, chips: 5
+Big Blind: Nuwrot, chips: 10
+Calls: Hi
+Calls: Pemo
+Checks: Nuwrot
+Flop: 3h Th 3c
+Checks: Pemo
+Raises: Nuwrot, chips: 10
+Calls: Hi
+Calls: Pemo
+Turn: 7s
+Checks: Pemo
+Checks: Nuwrot
+Checks: Hi
+River: Td
+Checks: Pemo
+Raises: Nuwrot, chips: 10
+Folds: Hi
+Calls: Pemo
+Pot size: 80
+Showdown Reached
+Shows: Nuwrot, Tc 6s
+Combination: Nuwrot, Full House ( Tc Th Td 3h 3c )
+Shows: Pemo, Jd 2d
+Combination: Pemo, Two Pair ( Th Td 3h 3c Jd )
+Wins: Nuwrot, chips: 80
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Pemo
+Small Blind: Nuwrot, chips: 5
+Big Blind: Hi, chips: 10
+Calls: Pemo
+Calls: Nuwrot
+Checks: Hi
+Flop: 7h 5s 5h
+Checks: Nuwrot
+Checks: Hi
+Checks: Pemo
+Turn: 2s
+Checks: Nuwrot
+Checks: Hi
+Checks: Pemo
+River: Kh
+Checks: Nuwrot
+Checks: Hi
+Checks: Pemo
+Pot size: 30
+Showdown Reached
+Shows: Nuwrot, 9h Ac
+Combination: Nuwrot, Pair ( 5s 5h Ac Kh 9h )
+Shows: Hi, 4c 9s
+Combination: Hi, Pair ( 5s 5h Kh 9s 7h )
+Shows: Pemo, 8c Js
+Combination: Pemo, Pair ( 5s 5h Kh Js 8c )
+Wins: Nuwrot, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Nuwrot
+Small Blind: Hi, chips: 5
+Big Blind: Pemo, chips: 10
+Folds: Nuwrot
+Calls: Hi
+Checks: Pemo
+Flop: Qd 8h 6s
+Raises: Hi, chips: 10
+Calls: Pemo
+Turn: Ah
+Checks: Hi
+Checks: Pemo
+River: 4s
+Checks: Hi
+Checks: Pemo
+Pot size: 40
+Showdown Reached
+Shows: Hi, 9c Tc
+Combination: Hi, High Card ( Ah Qd Tc 9c 8h )
+Shows: Pemo, Td Ts
+Combination: Pemo, Pair ( Td Ts Ah Qd 8h )
+Wins: Pemo, chips: 40
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Hi
+Small Blind: Pemo, chips: 5
+Big Blind: Nuwrot, chips: 10
+Calls: Hi
+Calls: Pemo
+Raises: Nuwrot, chips: 10
+Folds: Hi
+Calls: Pemo
+Flop: 5h 7c Qs
+Checks: Pemo
+Raises: Nuwrot, chips: 3526
+Calls: Pemo
+Turn: 2d
+River: Jh
+Pot size: 6290
+Showdown Reached
+Shows: Nuwrot, Qh Qc
+Combination: Nuwrot, Three Of A Kind ( Qh Qc Qs Jh 7c )
+Shows: Pemo, 6h 4d
+Combination: Pemo, High Card ( Qs Jh 7c 6h 5h )
+Wins: Nuwrot, chips: 6290
+Quits: Pemo, chips: 0
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Nuwrot
+Small Blind: Nuwrot, chips: 5
+Big Blind: Hi, chips: 10
+Folds: Nuwrot
+Pot size: 15
+Wins: Hi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Hi
+Small Blind: Hi, chips: 5
+Big Blind: Nuwrot, chips: 10
+Folds: Hi
+Pot size: 15
+Wins: Nuwrot, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Nuwrot
+Small Blind: Nuwrot, chips: 5
+Big Blind: Hi, chips: 10
+Calls: Nuwrot
+Checks: Hi
+Flop: 2d 5d 8s
+Checks: Hi
+Checks: Nuwrot
+Turn: 4c
+Checks: Hi
+Checks: Nuwrot
+River: Kh
+Checks: Hi
+Checks: Nuwrot
+Pot size: 20
+Showdown Reached
+Shows: Nuwrot, Jh Qc
+Combination: Nuwrot, High Card ( Kh Qc Jh 8s 5d )
+Shows: Hi, As 7d
+Combination: Hi, High Card ( As Kh 8s 7d 5d )
+Wins: Hi, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Hi
+Small Blind: Hi, chips: 5
+Big Blind: Nuwrot, chips: 10
+Calls: Hi
+Checks: Nuwrot
+Flop: 6h 8h Kc
+Checks: Nuwrot
+Checks: Hi
+Turn: Td
+Checks: Nuwrot
+Checks: Hi
+River: Js
+Checks: Nuwrot
+Raises: Hi, chips: 10
+Folds: Nuwrot
+Pot size: 30
+Wins: Hi, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Nuwrot
+Small Blind: Nuwrot, chips: 5
+Big Blind: Hi, chips: 10
+Calls: Nuwrot
+Checks: Hi
+Flop: Ts 6s 5c
+Checks: Hi
+Checks: Nuwrot
+Turn: Kc
+Checks: Hi
+Checks: Nuwrot
+River: Qh
+Checks: Hi
+Checks: Nuwrot
+Pot size: 20
+Showdown Reached
+Shows: Nuwrot, Js 8c
+Combination: Nuwrot, High Card ( Kc Qh Js Ts 8c )
+Shows: Hi, 3c Jd
+Combination: Hi, High Card ( Kc Qh Jd Ts 6s )
+Wins: Nuwrot, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Hi
+Small Blind: Hi, chips: 5
+Big Blind: Nuwrot, chips: 10
+Calls: Hi
+Checks: Nuwrot
+Flop: 4d Tc 2d
+Checks: Nuwrot
+Checks: Hi
+Turn: 8h
+Raises: Nuwrot, chips: 10
+Calls: Hi
+River: 7s
+Raises: Nuwrot, chips: 6260
+Calls: Hi
+Pot size: 7000
+Showdown Reached
+Shows: Nuwrot, 4h 8c
+Combination: Nuwrot, Two Pair ( 8c 8h 4h 4d Tc )
+Shows: Hi, Ts Jh
+Combination: Hi, Pair ( Ts Tc Jh 8h 7s )
+Wins: Nuwrot, chips: 7000
+Quits: Hi, chips: 0
+Ranking: Nuwrot, Place: 1, Score: 6000
+Reveal AI: Nuwrot, AI: Smart
+Ranking: Hi, Place: 2, Score: -1000
+Reveal AI: Hi, AI: Smart
+Ranking: Pemo, Place: 3, Score: -1000
+Reveal AI: Pemo, AI: Call
+Ranking: Febe, Place: 4, Score: -1000
+Reveal AI: Febe, AI: Random
+Ranking: Runha, Place: 5, Score: -1000
+Reveal AI: Runha, AI: Random
+Ranking: Motateef, Place: 6, Score: -1000
+Reveal AI: Motateef, AI: Call
+Ranking: Fiweek, Place: 7, Score: -1000
+Reveal AI: Fiweek, AI: AIMyBot1
+
+Player Stats for Febe, AI: Random
+General: deals: 10, actions: 33, preflop actions: 11
+Rounds Seen: flops: 41, turns: 41, rivers: 40, showdowns: 39
+Wins: total: 5, showdown: 5, bluff: 0
+Chips: won: 275, lost: 1275, bought: 1000, forced bets: 40
+Pre-Flop Stats: VP$IP: 0.7, PFR: 0.4, 3Bet: 0.2
+Post-Flop Stats: AF: 5, WSD: 0.95122, WSDW: 0.128205
+
+
+Player Stats for Fiweek, AI: AIMyBot1
+General: deals: 1, actions: 4, preflop actions: 1
+Rounds Seen: flops: 43, turns: 43, rivers: 43, showdowns: 42
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 0
+Pre-Flop Stats: VP$IP: 1, PFR: 1, 3Bet: 1
+Post-Flop Stats: AF: 2, WSD: 0.976744, WSDW: 0
+
+
+Player Stats for Hi, AI: Smart
+General: deals: 50, actions: 131, preflop actions: 52
+Rounds Seen: flops: 28, turns: 25, rivers: 24, showdowns: 22
+Wins: total: 9, showdown: 7, bluff: 2
+Chips: won: 250, lost: 6810, bought: 1000, forced bets: 255
+Pre-Flop Stats: VP$IP: 0.28, PFR: 0.04, 3Bet: 0.04
+Post-Flop Stats: AF: 1.4, WSD: 0.785714, WSDW: 0.318182
+
+
+Player Stats for Motateef, AI: Call
+General: deals: 1, actions: 4, preflop actions: 1
+Rounds Seen: flops: 43, turns: 43, rivers: 43, showdowns: 42
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 0
+Pre-Flop Stats: VP$IP: 1, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: 0, WSD: 0.976744, WSDW: 0
+
+
+Player Stats for Nuwrot, AI: Smart
+General: deals: 50, actions: 129, preflop actions: 51
+Rounds Seen: flops: 27, turns: 27, rivers: 26, showdowns: 24
+Wins: total: 17, showdown: 16, bluff: 1
+Chips: won: 18939, lost: 12939, bought: 1000, forced bets: 255
+Pre-Flop Stats: VP$IP: 0.3, PFR: 0.06, 3Bet: 0
+Post-Flop Stats: AF: 22, WSD: 0.888889, WSDW: 0.666667
+
+
+Player Stats for Pemo, AI: Call
+General: deals: 44, actions: 175, preflop actions: 45
+Rounds Seen: flops: 43, turns: 43, rivers: 43, showdowns: 42
+Wins: total: 21, showdown: 16, bluff: 5
+Chips: won: 6527, lost: 8339, bought: 1000, forced bets: 200
+Pre-Flop Stats: VP$IP: 0.75, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: 0, WSD: 0.976744, WSDW: 0.380952
+
+
+Player Stats for Runha, AI: Random
+General: deals: 1, actions: 3, preflop actions: 1
+Rounds Seen: flops: 43, turns: 43, rivers: 43, showdowns: 42
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 0
+Pre-Flop Stats: VP$IP: 1, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: 1, WSD: 0.976744, WSDW: 0
+
+
+Date: 2026/04/30 12:52:11
+
+The game begins. The AI's of the players are: 
+Nuwrot: Smart
+Hi: Smart
+Fiweek: AIMyBot1
+Febe: Random
+Pemo: Call
+Motateef: Call
+Runha: Random
+
+Joins: Nuwrot, chips: 1000
+Joins: Hi, chips: 1000
+Joins: Fiweek, chips: 1000
+Joins: Febe, chips: 1000
+Joins: Pemo, chips: 1000
+Joins: Motateef, chips: 1000
+Joins: Runha, chips: 1000
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Runha
+Small Blind: Nuwrot, chips: 5
+Big Blind: Hi, chips: 10
+Raises: Fiweek, chips: 40
+Calls: Febe
+Calls: Pemo
+Calls: Motateef
+Calls: Runha
+Folds: Nuwrot
+Folds: Hi
+Flop: Tc 7c Td
+Raises: Fiweek, chips: 80
+Calls: Febe
+Calls: Pemo
+Calls: Motateef
+Calls: Runha
+Turn: Jd
+Raises: Fiweek, chips: 160
+Raises: Febe, chips: 320
+Calls: Pemo
+Calls: Motateef
+Raises: Runha, chips: 390
+Calls: Fiweek
+Folds: Febe
+Calls: Pemo
+Calls: Motateef
+River: 2c
+Pot size: 4625
+Showdown Reached
+Shows: Fiweek, 8d 5d
+Combination: Fiweek, Pair ( Tc Td Jd 8d 7c )
+Shows: Pemo, Jc 3c
+Combination: Pemo, Flush ( Jc Tc 7c 3c 2c )
+Shows: Motateef, Kc Ks
+Combination: Motateef, Two Pair ( Kc Ks Tc Td Jd )
+Shows: Runha, Ad 4c
+Combination: Runha, Pair ( Tc Td Ad Jd 7c )
+Wins: Pemo, chips: 4625
+Quits: Fiweek, chips: 0
+Quits: Motateef, chips: 0
+Quits: Runha, chips: 0
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Nuwrot
+Small Blind: Hi, chips: 5
+Big Blind: Febe, chips: 10
+Calls: Pemo
+Folds: Nuwrot
+Calls: Hi
+Checks: Febe
+Flop: 8h Ad Kd
+Checks: Hi
+Checks: Febe
+Checks: Pemo
+Turn: Kc
+Checks: Hi
+Checks: Febe
+Checks: Pemo
+River: Qs
+Checks: Hi
+Checks: Febe
+Checks: Pemo
+Pot size: 30
+Showdown Reached
+Shows: Hi, 9h Td
+Combination: Hi, Pair ( Kd Kc Ad Qs Td )
+Shows: Febe, 7h Js
+Combination: Febe, Pair ( Kd Kc Ad Qs Js )
+Shows: Pemo, Tc 5s
+Combination: Pemo, Pair ( Kd Kc Ad Qs Tc )
+Wins: Febe, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Hi
+Small Blind: Febe, chips: 5
+Big Blind: Pemo, chips: 10
+Folds: Nuwrot
+Folds: Hi
+Raises: Febe, chips: 15
+Calls: Pemo
+Flop: 4s Ks Ts
+Checks: Febe
+Checks: Pemo
+Turn: Ah
+Checks: Febe
+Checks: Pemo
+River: 9d
+Checks: Febe
+Checks: Pemo
+Pot size: 50
+Showdown Reached
+Shows: Febe, 5h Kc
+Combination: Febe, Pair ( Kc Ks Ah Ts 9d )
+Shows: Pemo, 3d 7c
+Combination: Pemo, High Card ( Ah Ks Ts 9d 7c )
+Wins: Febe, chips: 50
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Febe
+Small Blind: Pemo, chips: 5
+Big Blind: Nuwrot, chips: 10
+Folds: Hi
+Calls: Febe
+Calls: Pemo
+Checks: Nuwrot
+Flop: 2s 4c 6h
+Checks: Pemo
+Checks: Nuwrot
+Checks: Febe
+Turn: Ad
+Checks: Pemo
+Checks: Nuwrot
+Checks: Febe
+River: 6s
+Checks: Pemo
+Checks: Nuwrot
+Raises: Febe, chips: 10
+Calls: Pemo
+Folds: Nuwrot
+Pot size: 50
+Showdown Reached
+Shows: Febe, Ah 6c
+Combination: Febe, Full House ( 6c 6h 6s Ah Ad )
+Shows: Pemo, 3s 5c
+Combination: Pemo, Straight ( 6h 5c 4c 3s 2s )
+Wins: Febe, chips: 50
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Pemo
+Small Blind: Nuwrot, chips: 5
+Big Blind: Hi, chips: 10
+Folds: Febe
+Calls: Pemo
+Calls: Nuwrot
+Checks: Hi
+Flop: Js 8d 6s
+Checks: Nuwrot
+Checks: Hi
+Checks: Pemo
+Turn: Jc
+Checks: Nuwrot
+Checks: Hi
+Checks: Pemo
+River: 9h
+Checks: Nuwrot
+Checks: Hi
+Checks: Pemo
+Pot size: 30
+Showdown Reached
+Shows: Nuwrot, Ad 9c
+Combination: Nuwrot, Two Pair ( Js Jc 9c 9h Ad )
+Shows: Hi, Kd 2h
+Combination: Hi, Pair ( Js Jc Kd 9h 8d )
+Shows: Pemo, 7h 5h
+Combination: Pemo, Straight ( 9h 8d 7h 6s 5h )
+Wins: Pemo, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Nuwrot
+Small Blind: Hi, chips: 5
+Big Blind: Febe, chips: 10
+Calls: Pemo
+Calls: Nuwrot
+Folds: Hi
+Raises: Febe, chips: 10
+Calls: Pemo
+Folds: Nuwrot
+Flop: 5d 6d 3c
+Checks: Febe
+Checks: Pemo
+Turn: Ts
+Raises: Febe, chips: 10
+Calls: Pemo
+River: 9s
+Checks: Febe
+Checks: Pemo
+Pot size: 75
+Showdown Reached
+Shows: Febe, Th 7h
+Combination: Febe, Pair ( Th Ts 9s 7h 6d )
+Shows: Pemo, 4c Jc
+Combination: Pemo, High Card ( Jc Ts 9s 6d 5d )
+Wins: Febe, chips: 75
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Hi
+Small Blind: Febe, chips: 5
+Big Blind: Pemo, chips: 10
+Calls: Nuwrot
+Raises: Hi, chips: 20
+Raises: Febe, chips: 45
+Calls: Pemo
+Calls: Nuwrot
+Calls: Hi
+Flop: 5h Ad 9h
+Checks: Febe
+Checks: Pemo
+Checks: Nuwrot
+Checks: Hi
+Turn: 4s
+Checks: Febe
+Checks: Pemo
+DEBUG MESSAGE: INVALID ACTION FROM Nuwrot (2 0)
+Folds: Nuwrot
+Checks: Hi
+River: 2c
+Checks: Febe
+Checks: Pemo
+Checks: Hi
+Pot size: 300
+Showdown Reached
+Shows: Hi, Qc Tc
+Combination: Hi, High Card ( Ad Qc Tc 9h 5h )
+Shows: Febe, 8c 9d
+Combination: Febe, Pair ( 9d 9h Ad 8c 5h )
+Shows: Pemo, 9c Qh
+Combination: Pemo, Pair ( 9c 9h Ad Qh 5h )
+Wins: Pemo, chips: 300
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Febe
+Small Blind: Pemo, chips: 5
+Big Blind: Nuwrot, chips: 10
+Calls: Hi
+Calls: Febe
+Calls: Pemo
+Checks: Nuwrot
+Flop: 7c 2d Th
+Checks: Pemo
+Checks: Nuwrot
+Checks: Hi
+Raises: Febe, chips: 10
+Calls: Pemo
+Calls: Nuwrot
+Folds: Hi
+Turn: 8d
+Checks: Pemo
+Checks: Nuwrot
+Checks: Febe
+River: 6s
+Checks: Pemo
+Checks: Nuwrot
+Checks: Febe
+Pot size: 70
+Showdown Reached
+Shows: Nuwrot, Ah Tc
+Combination: Nuwrot, Pair ( Tc Th Ah 8d 7c )
+Shows: Febe, 7s 9d
+Combination: Febe, Straight ( Th 9d 8d 7s 6s )
+Shows: Pemo, 2c 7h
+Combination: Pemo, Two Pair ( 7h 7c 2c 2d Th )
+Wins: Febe, chips: 70
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Pemo
+Small Blind: Nuwrot, chips: 5
+Big Blind: Hi, chips: 10
+Folds: Febe
+Calls: Pemo
+Folds: Nuwrot
+Checks: Hi
+Flop: 4c 6h Kd
+Checks: Hi
+Checks: Pemo
+Turn: 4d
+Checks: Hi
+Checks: Pemo
+River: Qh
+Checks: Hi
+Checks: Pemo
+Pot size: 25
+Showdown Reached
+Shows: Hi, 9h 8d
+Combination: Hi, Pair ( 4c 4d Kd Qh 9h )
+Shows: Pemo, 7c 3c
+Combination: Pemo, Pair ( 4c 4d Kd Qh 7c )
+Wins: Hi, chips: 25
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Nuwrot
+Small Blind: Hi, chips: 5
+Big Blind: Febe, chips: 10
+Calls: Pemo
+Folds: Nuwrot
+Calls: Hi
+Raises: Febe, chips: 10
+Calls: Pemo
+Raises: Hi, chips: 10
+Calls: Febe
+Calls: Pemo
+Flop: 9h 2d Ks
+Checks: Hi
+Raises: Febe, chips: 455
+Calls: Pemo
+Folds: Hi
+Turn: 4s
+River: 3s
+Pot size: 1000
+Showdown Reached
+Shows: Febe, Ts 8h
+Combination: Febe, High Card ( Ks Ts 9h 8h 4s )
+Shows: Pemo, 7d Qc
+Combination: Pemo, High Card ( Ks Qc 9h 7d 4s )
+Wins: Pemo, chips: 1000
+Quits: Febe, chips: 0
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Hi
+Small Blind: Pemo, chips: 5
+Big Blind: Nuwrot, chips: 10
+Folds: Hi
+Calls: Pemo
+Raises: Nuwrot, chips: 10
+Calls: Pemo
+Flop: Ad 5s 3h
+Checks: Pemo
+Raises: Nuwrot, chips: 10
+Calls: Pemo
+Turn: Qs
+Checks: Pemo
+Raises: Nuwrot, chips: 835
+Calls: Pemo
+River: 2d
+Pot size: 1730
+Showdown Reached
+Shows: Nuwrot, Kd Ac
+Combination: Nuwrot, Pair ( Ac Ad Kd Qs 5s )
+Shows: Pemo, Jh 9h
+Combination: Pemo, High Card ( Ad Qs Jh 9h 5s )
+Wins: Nuwrot, chips: 1730
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Pemo
+Small Blind: Nuwrot, chips: 5
+Big Blind: Hi, chips: 10
+Calls: Pemo
+Folds: Nuwrot
+Checks: Hi
+Flop: 5h 9h 4d
+Checks: Hi
+Checks: Pemo
+Turn: 5d
+Raises: Hi, chips: 10
+Calls: Pemo
+River: As
+Checks: Hi
+Checks: Pemo
+Pot size: 45
+Showdown Reached
+Shows: Hi, 3c 3h
+Combination: Hi, Two Pair ( 5h 5d 3c 3h As )
+Shows: Pemo, 2s 3s
+Combination: Pemo, Straight ( 5h 4d 3s 2s As )
+Wins: Pemo, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Nuwrot
+Small Blind: Hi, chips: 5
+Big Blind: Pemo, chips: 10
+Calls: Nuwrot
+Folds: Hi
+Checks: Pemo
+Flop: Jd Td 6s
+Checks: Pemo
+Raises: Nuwrot, chips: 10
+Calls: Pemo
+Turn: 6c
+Checks: Pemo
+Checks: Nuwrot
+River: Qh
+Checks: Pemo
+Checks: Nuwrot
+Pot size: 45
+Showdown Reached
+Shows: Nuwrot, Kd 4d
+Combination: Nuwrot, Pair ( 6s 6c Kd Qh Jd )
+Shows: Pemo, 5h Kh
+Combination: Pemo, Pair ( 6s 6c Kh Qh Jd )
+Wins: Nuwrot, chips: 23
+Wins: Pemo, chips: 22
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Hi
+Small Blind: Pemo, chips: 5
+Big Blind: Nuwrot, chips: 10
+Folds: Hi
+Calls: Pemo
+Checks: Nuwrot
+Flop: 8d 4h Qd
+Checks: Pemo
+Checks: Nuwrot
+Turn: Ts
+Checks: Pemo
+Raises: Nuwrot, chips: 10
+Calls: Pemo
+River: 7d
+Checks: Pemo
+Checks: Nuwrot
+Pot size: 40
+Showdown Reached
+Shows: Nuwrot, 7c 4s
+Combination: Nuwrot, Two Pair ( 7c 7d 4s 4h Qd )
+Shows: Pemo, Ad Kh
+Combination: Pemo, High Card ( Ad Kh Qd Ts 8d )
+Wins: Nuwrot, chips: 40
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Pemo
+Small Blind: Nuwrot, chips: 5
+Big Blind: Hi, chips: 10
+Calls: Pemo
+Folds: Nuwrot
+Checks: Hi
+Flop: 3d 4c 5d
+Checks: Hi
+Checks: Pemo
+Turn: 8c
+Raises: Hi, chips: 10
+Calls: Pemo
+River: Jh
+Raises: Hi, chips: 10
+Calls: Pemo
+Pot size: 65
+Showdown Reached
+Shows: Hi, 3c 4s
+Combination: Hi, Two Pair ( 4s 4c 3c 3d Jh )
+Shows: Pemo, Ad 8d
+Combination: Pemo, Pair ( 8d 8c Ad Jh 5d )
+Wins: Hi, chips: 65
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Nuwrot
+Small Blind: Hi, chips: 5
+Big Blind: Pemo, chips: 10
+Calls: Nuwrot
+Folds: Hi
+Checks: Pemo
+Flop: Qs 7c 5h
+Checks: Pemo
+Raises: Nuwrot, chips: 10
+Calls: Pemo
+Turn: 5s
+Checks: Pemo
+Checks: Nuwrot
+River: 3c
+Checks: Pemo
+Checks: Nuwrot
+Pot size: 45
+Showdown Reached
+Shows: Nuwrot, 7h Kh
+Combination: Nuwrot, Two Pair ( 7h 7c 5h 5s Kh )
+Shows: Pemo, Jh 8h
+Combination: Pemo, Pair ( 5h 5s Qs Jh 8h )
+Wins: Nuwrot, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Hi
+Small Blind: Pemo, chips: 5
+Big Blind: Nuwrot, chips: 10
+Calls: Hi
+Calls: Pemo
+Checks: Nuwrot
+Flop: Tc 8d Qc
+Checks: Pemo
+Checks: Nuwrot
+Checks: Hi
+Turn: 3s
+Checks: Pemo
+Raises: Nuwrot, chips: 10
+Calls: Hi
+Calls: Pemo
+River: 6h
+Checks: Pemo
+Raises: Nuwrot, chips: 10
+Calls: Hi
+Calls: Pemo
+Pot size: 90
+Showdown Reached
+Shows: Nuwrot, 8c 3c
+Combination: Nuwrot, Two Pair ( 8c 8d 3c 3s Qc )
+Shows: Hi, Ts 9h
+Combination: Hi, Pair ( Ts Tc Qc 9h 8d )
+Shows: Pemo, 6s Qd
+Combination: Pemo, Two Pair ( Qd Qc 6s 6h Tc )
+Wins: Pemo, chips: 90
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Pemo
+Small Blind: Nuwrot, chips: 5
+Big Blind: Hi, chips: 10
+Calls: Pemo
+Calls: Nuwrot
+Checks: Hi
+Flop: 9d 6h Qs
+Checks: Nuwrot
+Checks: Hi
+Checks: Pemo
+Turn: 5c
+Checks: Nuwrot
+Checks: Hi
+Checks: Pemo
+River: 7h
+Checks: Nuwrot
+Checks: Hi
+Checks: Pemo
+Pot size: 30
+Showdown Reached
+Shows: Nuwrot, Tc Ah
+Combination: Nuwrot, High Card ( Ah Qs Tc 9d 7h )
+Shows: Hi, 4h Ad
+Combination: Hi, High Card ( Ad Qs 9d 7h 6h )
+Shows: Pemo, 2d 8d
+Combination: Pemo, Straight ( 9d 8d 7h 6h 5c )
+Wins: Pemo, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Nuwrot
+Small Blind: Hi, chips: 5
+Big Blind: Pemo, chips: 10
+Folds: Nuwrot
+Calls: Hi
+Checks: Pemo
+Flop: 5h 2d Ah
+Checks: Hi
+Checks: Pemo
+Turn: 8s
+Checks: Hi
+Checks: Pemo
+River: Jh
+Checks: Hi
+Checks: Pemo
+Pot size: 20
+Showdown Reached
+Shows: Hi, Ts 8h
+Combination: Hi, Pair ( 8h 8s Ah Jh Ts )
+Shows: Pemo, Ad Ac
+Combination: Pemo, Three Of A Kind ( Ad Ac Ah Jh 8s )
+Wins: Pemo, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Hi
+Small Blind: Pemo, chips: 5
+Big Blind: Nuwrot, chips: 10
+Calls: Hi
+Calls: Pemo
+Checks: Nuwrot
+Flop: Kh Ks 3d
+Checks: Pemo
+Raises: Nuwrot, chips: 10
+Folds: Hi
+Calls: Pemo
+Turn: Qc
+Checks: Pemo
+Raises: Nuwrot, chips: 10
+Calls: Pemo
+River: 2c
+Checks: Pemo
+Raises: Nuwrot, chips: 10
+Calls: Pemo
+Pot size: 90
+Showdown Reached
+Shows: Nuwrot, 4h 4d
+Combination: Nuwrot, Two Pair ( Kh Ks 4h 4d Qc )
+Shows: Pemo, 7d 7s
+Combination: Pemo, Two Pair ( Kh Ks 7d 7s Qc )
+Wins: Pemo, chips: 90
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Pemo
+Small Blind: Nuwrot, chips: 5
+Big Blind: Hi, chips: 10
+Calls: Pemo
+Folds: Nuwrot
+Checks: Hi
+Flop: 9h 7s 5c
+Checks: Hi
+Checks: Pemo
+Turn: 7h
+Checks: Hi
+Checks: Pemo
+River: Jc
+Checks: Hi
+Checks: Pemo
+Pot size: 25
+Showdown Reached
+Shows: Hi, 5h 8d
+Combination: Hi, Two Pair ( 7s 7h 5h 5c Jc )
+Shows: Pemo, Td 2c
+Combination: Pemo, Pair ( 7s 7h Jc Td 9h )
+Wins: Hi, chips: 25
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Nuwrot
+Small Blind: Hi, chips: 5
+Big Blind: Pemo, chips: 10
+Calls: Nuwrot
+Calls: Hi
+Checks: Pemo
+Flop: Ts 2h Tc
+Checks: Hi
+Checks: Pemo
+Checks: Nuwrot
+Turn: Th
+Checks: Hi
+Checks: Pemo
+Checks: Nuwrot
+River: Jh
+Checks: Hi
+Checks: Pemo
+Checks: Nuwrot
+Pot size: 30
+Showdown Reached
+Shows: Nuwrot, 5h Kh
+Combination: Nuwrot, Flush ( Kh Jh Th 5h 2h )
+Shows: Hi, As 5s
+Combination: Hi, Three Of A Kind ( Ts Tc Th As Jh )
+Shows: Pemo, 4d 3h
+Combination: Pemo, Three Of A Kind ( Ts Tc Th Jh 4d )
+Wins: Nuwrot, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Hi
+Small Blind: Pemo, chips: 5
+Big Blind: Nuwrot, chips: 10
+Folds: Hi
+Calls: Pemo
+Checks: Nuwrot
+Flop: As Ah Kc
+Checks: Pemo
+Raises: Nuwrot, chips: 1693
+Calls: Pemo
+Turn: 3d
+River: Jc
+Pot size: 3406
+Showdown Reached
+Shows: Nuwrot, Kh Qs
+Combination: Nuwrot, Two Pair ( As Ah Kh Kc Qs )
+Shows: Pemo, 4c 2d
+Combination: Pemo, Pair ( As Ah Kc Jc 4c )
+Wins: Nuwrot, chips: 3406
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Pemo
+Small Blind: Nuwrot, chips: 5
+Big Blind: Hi, chips: 10
+Calls: Pemo
+Folds: Nuwrot
+Checks: Hi
+Flop: Qh Jh 2c
+Checks: Hi
+Checks: Pemo
+Turn: 8h
+Checks: Hi
+Checks: Pemo
+River: 3h
+Checks: Hi
+Checks: Pemo
+Pot size: 25
+Showdown Reached
+Shows: Hi, 9d Jc
+Combination: Hi, Pair ( Jc Jh Qh 9d 8h )
+Shows: Pemo, Td Ts
+Combination: Pemo, Pair ( Td Ts Qh Jh 8h )
+Wins: Hi, chips: 25
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Nuwrot
+Small Blind: Hi, chips: 5
+Big Blind: Pemo, chips: 10
+Folds: Nuwrot
+Calls: Hi
+Checks: Pemo
+Flop: Kh Ks 8d
+Checks: Hi
+Checks: Pemo
+Turn: 3s
+Checks: Hi
+Checks: Pemo
+River: Kd
+Checks: Hi
+Checks: Pemo
+Pot size: 20
+Showdown Reached
+Shows: Hi, 4h 4d
+Combination: Hi, Full House ( Kh Ks Kd 4h 4d )
+Shows: Pemo, As Js
+Combination: Pemo, Three Of A Kind ( Kh Ks Kd As Js )
+Wins: Hi, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Hi
+Small Blind: Pemo, chips: 5
+Big Blind: Nuwrot, chips: 10
+Folds: Hi
+Calls: Pemo
+Checks: Nuwrot
+Flop: 3c Td 7h
+Checks: Pemo
+Checks: Nuwrot
+Turn: Qs
+Checks: Pemo
+Checks: Nuwrot
+River: 2h
+Checks: Pemo
+Checks: Nuwrot
+Pot size: 20
+Showdown Reached
+Shows: Nuwrot, 6d 4c
+Combination: Nuwrot, High Card ( Qs Td 7h 6d 4c )
+Shows: Pemo, 8c 9h
+Combination: Pemo, High Card ( Qs Td 9h 8c 7h )
+Wins: Pemo, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Pemo
+Small Blind: Nuwrot, chips: 5
+Big Blind: Hi, chips: 10
+Calls: Pemo
+Calls: Nuwrot
+Checks: Hi
+Flop: 6c Qc 4h
+Checks: Nuwrot
+Checks: Hi
+Checks: Pemo
+Turn: 9h
+Checks: Nuwrot
+Checks: Hi
+Checks: Pemo
+River: Kh
+Checks: Nuwrot
+Checks: Hi
+Checks: Pemo
+Pot size: 30
+Showdown Reached
+Shows: Nuwrot, 6d 5s
+Combination: Nuwrot, Pair ( 6d 6c Kh Qc 9h )
+Shows: Hi, 8h 4d
+Combination: Hi, Pair ( 4d 4h Kh Qc 9h )
+Shows: Pemo, Kc Ah
+Combination: Pemo, Pair ( Kc Kh Ah Qc 9h )
+Wins: Pemo, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Nuwrot
+Small Blind: Hi, chips: 5
+Big Blind: Pemo, chips: 10
+Folds: Nuwrot
+Folds: Hi
+Pot size: 15
+Wins: Pemo, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Hi
+Small Blind: Pemo, chips: 5
+Big Blind: Nuwrot, chips: 10
+Folds: Hi
+Calls: Pemo
+Checks: Nuwrot
+Flop: 7h 7d 3c
+Checks: Pemo
+Raises: Nuwrot, chips: 10
+Calls: Pemo
+Turn: 2d
+Checks: Pemo
+Raises: Nuwrot, chips: 10
+Calls: Pemo
+River: 9c
+Checks: Pemo
+Checks: Nuwrot
+Pot size: 60
+Showdown Reached
+Shows: Nuwrot, As Js
+Combination: Nuwrot, Pair ( 7h 7d As Js 9c )
+Shows: Pemo, 5s 6h
+Combination: Pemo, Pair ( 7h 7d 9c 6h 5s )
+Wins: Nuwrot, chips: 60
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Pemo
+Small Blind: Nuwrot, chips: 5
+Big Blind: Hi, chips: 10
+Calls: Pemo
+Folds: Nuwrot
+Checks: Hi
+Flop: 2c Qc Kc
+Checks: Hi
+Checks: Pemo
+Turn: 2d
+Raises: Hi, chips: 10
+Calls: Pemo
+River: 5c
+Checks: Hi
+Checks: Pemo
+Pot size: 45
+Showdown Reached
+Shows: Hi, Ah 3c
+Combination: Hi, Flush ( Kc Qc 5c 3c 2c )
+Shows: Pemo, 3s 7c
+Combination: Pemo, Flush ( Kc Qc 7c 5c 2c )
+Wins: Pemo, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Nuwrot
+Small Blind: Hi, chips: 5
+Big Blind: Pemo, chips: 10
+Folds: Nuwrot
+Folds: Hi
+Pot size: 15
+Wins: Pemo, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Hi
+Small Blind: Pemo, chips: 5
+Big Blind: Nuwrot, chips: 10
+Folds: Hi
+Calls: Pemo
+Raises: Nuwrot, chips: 10
+Calls: Pemo
+Flop: Jc Jh 4c
+Checks: Pemo
+Checks: Nuwrot
+Turn: Ts
+Checks: Pemo
+Checks: Nuwrot
+River: Qs
+Checks: Pemo
+Raises: Nuwrot, chips: 10
+Calls: Pemo
+Pot size: 60
+Showdown Reached
+Shows: Nuwrot, As Ks
+Combination: Nuwrot, Straight ( As Ks Qs Jc Ts )
+Shows: Pemo, 5c Kc
+Combination: Pemo, Pair ( Jc Jh Kc Qs Ts )
+Wins: Nuwrot, chips: 60
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Pemo
+Small Blind: Nuwrot, chips: 5
+Big Blind: Hi, chips: 10
+Calls: Pemo
+Calls: Nuwrot
+Checks: Hi
+Flop: 2h Jh 4s
+Checks: Nuwrot
+Checks: Hi
+Checks: Pemo
+Turn: Qc
+Raises: Nuwrot, chips: 10
+Folds: Hi
+Calls: Pemo
+River: 9h
+Raises: Nuwrot, chips: 10
+Calls: Pemo
+Pot size: 70
+Showdown Reached
+Shows: Nuwrot, Qh Td
+Combination: Nuwrot, Pair ( Qh Qc Jh Td 9h )
+Shows: Pemo, 2s 3s
+Combination: Pemo, Pair ( 2s 2h Qc Jh 9h )
+Wins: Nuwrot, chips: 70
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Nuwrot
+Small Blind: Hi, chips: 5
+Big Blind: Pemo, chips: 10
+Folds: Nuwrot
+Folds: Hi
+Pot size: 15
+Wins: Pemo, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Hi
+Small Blind: Pemo, chips: 5
+Big Blind: Nuwrot, chips: 10
+Folds: Hi
+Calls: Pemo
+Checks: Nuwrot
+Flop: Qc 7h 5h
+Checks: Pemo
+Checks: Nuwrot
+Turn: 4c
+Checks: Pemo
+Checks: Nuwrot
+River: 6h
+Checks: Pemo
+Raises: Nuwrot, chips: 10
+Calls: Pemo
+Pot size: 40
+Showdown Reached
+Shows: Nuwrot, Qd Ts
+Combination: Nuwrot, Pair ( Qd Qc Ts 7h 6h )
+Shows: Pemo, Qs Th
+Combination: Pemo, Pair ( Qs Qc Th 7h 6h )
+Wins: Nuwrot, chips: 20
+Wins: Pemo, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Pemo
+Small Blind: Nuwrot, chips: 5
+Big Blind: Hi, chips: 10
+Calls: Pemo
+Folds: Nuwrot
+Checks: Hi
+Flop: 5s 7h 7d
+Checks: Hi
+Checks: Pemo
+Turn: 6h
+Checks: Hi
+Checks: Pemo
+River: 5h
+Checks: Hi
+Checks: Pemo
+Pot size: 25
+Showdown Reached
+Shows: Hi, 9c Ad
+Combination: Hi, Two Pair ( 7h 7d 5s 5h Ad )
+Shows: Pemo, 2d 2s
+Combination: Pemo, Two Pair ( 7h 7d 5s 5h 6h )
+Wins: Hi, chips: 25
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Nuwrot
+Small Blind: Hi, chips: 5
+Big Blind: Pemo, chips: 10
+Folds: Nuwrot
+Folds: Hi
+Pot size: 15
+Wins: Pemo, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Hi
+Small Blind: Pemo, chips: 5
+Big Blind: Nuwrot, chips: 10
+Folds: Hi
+Calls: Pemo
+Checks: Nuwrot
+Flop: Tc Jd 9h
+Checks: Pemo
+Checks: Nuwrot
+Turn: Ts
+Checks: Pemo
+Checks: Nuwrot
+River: 9c
+Checks: Pemo
+Checks: Nuwrot
+Pot size: 20
+Showdown Reached
+Shows: Nuwrot, Ad 6h
+Combination: Nuwrot, Two Pair ( Tc Ts 9h 9c Ad )
+Shows: Pemo, 7c 3c
+Combination: Pemo, Two Pair ( Tc Ts 9h 9c Jd )
+Wins: Nuwrot, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Pemo
+Small Blind: Nuwrot, chips: 5
+Big Blind: Hi, chips: 10
+Calls: Pemo
+Folds: Nuwrot
+Checks: Hi
+Flop: Kd Kc 5d
+Checks: Hi
+Checks: Pemo
+Turn: Td
+Raises: Hi, chips: 10
+Calls: Pemo
+River: Ts
+Checks: Hi
+Checks: Pemo
+Pot size: 45
+Showdown Reached
+Shows: Hi, 5c Qh
+Combination: Hi, Two Pair ( Kd Kc Td Ts Qh )
+Shows: Pemo, Tc 7s
+Combination: Pemo, Full House ( Tc Td Ts Kd Kc )
+Wins: Pemo, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Nuwrot
+Small Blind: Hi, chips: 5
+Big Blind: Pemo, chips: 10
+Folds: Nuwrot
+Folds: Hi
+Pot size: 15
+Wins: Pemo, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Hi
+Small Blind: Pemo, chips: 5
+Big Blind: Nuwrot, chips: 10
+Calls: Hi
+Calls: Pemo
+Checks: Nuwrot
+Flop: 3h Th 3c
+Checks: Pemo
+Raises: Nuwrot, chips: 10
+Calls: Hi
+Calls: Pemo
+Turn: 7s
+Checks: Pemo
+Checks: Nuwrot
+Checks: Hi
+River: Td
+Checks: Pemo
+Raises: Nuwrot, chips: 10
+Folds: Hi
+Calls: Pemo
+Pot size: 80
+Showdown Reached
+Shows: Nuwrot, Tc 6s
+Combination: Nuwrot, Full House ( Tc Th Td 3h 3c )
+Shows: Pemo, Jd 2d
+Combination: Pemo, Two Pair ( Th Td 3h 3c Jd )
+Wins: Nuwrot, chips: 80
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Pemo
+Small Blind: Nuwrot, chips: 5
+Big Blind: Hi, chips: 10
+Calls: Pemo
+Calls: Nuwrot
+Checks: Hi
+Flop: 7h 5s 5h
+Checks: Nuwrot
+Checks: Hi
+Checks: Pemo
+Turn: 2s
+Checks: Nuwrot
+Checks: Hi
+Checks: Pemo
+River: Kh
+Checks: Nuwrot
+Checks: Hi
+Checks: Pemo
+Pot size: 30
+Showdown Reached
+Shows: Nuwrot, 9h Ac
+Combination: Nuwrot, Pair ( 5s 5h Ac Kh 9h )
+Shows: Hi, 4c 9s
+Combination: Hi, Pair ( 5s 5h Kh 9s 7h )
+Shows: Pemo, 8c Js
+Combination: Pemo, Pair ( 5s 5h Kh Js 8c )
+Wins: Nuwrot, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Nuwrot
+Small Blind: Hi, chips: 5
+Big Blind: Pemo, chips: 10
+Folds: Nuwrot
+Calls: Hi
+Checks: Pemo
+Flop: Qd 8h 6s
+Raises: Hi, chips: 10
+Calls: Pemo
+Turn: Ah
+Checks: Hi
+Checks: Pemo
+River: 4s
+Checks: Hi
+Checks: Pemo
+Pot size: 40
+Showdown Reached
+Shows: Hi, 9c Tc
+Combination: Hi, High Card ( Ah Qd Tc 9c 8h )
+Shows: Pemo, Td Ts
+Combination: Pemo, Pair ( Td Ts Ah Qd 8h )
+Wins: Pemo, chips: 40
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Hi
+Small Blind: Pemo, chips: 5
+Big Blind: Nuwrot, chips: 10
+Calls: Hi
+Calls: Pemo
+Raises: Nuwrot, chips: 10
+Folds: Hi
+Calls: Pemo
+Flop: 5h 7c Qs
+Checks: Pemo
+Raises: Nuwrot, chips: 3526
+Calls: Pemo
+Turn: 2d
+River: Jh
+Pot size: 6290
+Showdown Reached
+Shows: Nuwrot, Qh Qc
+Combination: Nuwrot, Three Of A Kind ( Qh Qc Qs Jh 7c )
+Shows: Pemo, 6h 4d
+Combination: Pemo, High Card ( Qs Jh 7c 6h 5h )
+Wins: Nuwrot, chips: 6290
+Quits: Pemo, chips: 0
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Nuwrot
+Small Blind: Nuwrot, chips: 5
+Big Blind: Hi, chips: 10
+Folds: Nuwrot
+Pot size: 15
+Wins: Hi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Hi
+Small Blind: Hi, chips: 5
+Big Blind: Nuwrot, chips: 10
+Folds: Hi
+Pot size: 15
+Wins: Nuwrot, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Nuwrot
+Small Blind: Nuwrot, chips: 5
+Big Blind: Hi, chips: 10
+Calls: Nuwrot
+Checks: Hi
+Flop: 2d 5d 8s
+Checks: Hi
+Checks: Nuwrot
+Turn: 4c
+Checks: Hi
+Checks: Nuwrot
+River: Kh
+Checks: Hi
+Checks: Nuwrot
+Pot size: 20
+Showdown Reached
+Shows: Nuwrot, Jh Qc
+Combination: Nuwrot, High Card ( Kh Qc Jh 8s 5d )
+Shows: Hi, As 7d
+Combination: Hi, High Card ( As Kh 8s 7d 5d )
+Wins: Hi, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Hi
+Small Blind: Hi, chips: 5
+Big Blind: Nuwrot, chips: 10
+Calls: Hi
+Checks: Nuwrot
+Flop: 6h 8h Kc
+Checks: Nuwrot
+Checks: Hi
+Turn: Td
+Checks: Nuwrot
+Checks: Hi
+River: Js
+Checks: Nuwrot
+Raises: Hi, chips: 10
+Folds: Nuwrot
+Pot size: 30
+Wins: Hi, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Nuwrot
+Small Blind: Nuwrot, chips: 5
+Big Blind: Hi, chips: 10
+Calls: Nuwrot
+Checks: Hi
+Flop: Ts 6s 5c
+Checks: Hi
+Checks: Nuwrot
+Turn: Kc
+Checks: Hi
+Checks: Nuwrot
+River: Qh
+Checks: Hi
+Checks: Nuwrot
+Pot size: 20
+Showdown Reached
+Shows: Nuwrot, Js 8c
+Combination: Nuwrot, High Card ( Kc Qh Js Ts 8c )
+Shows: Hi, 3c Jd
+Combination: Hi, High Card ( Kc Qh Jd Ts 6s )
+Wins: Nuwrot, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Hi
+Small Blind: Hi, chips: 5
+Big Blind: Nuwrot, chips: 10
+Calls: Hi
+Checks: Nuwrot
+Flop: 4d Tc 2d
+Checks: Nuwrot
+Checks: Hi
+Turn: 8h
+Raises: Nuwrot, chips: 10
+Calls: Hi
+River: 7s
+Raises: Nuwrot, chips: 6260
+Calls: Hi
+Pot size: 7000
+Showdown Reached
+Shows: Nuwrot, 4h 8c
+Combination: Nuwrot, Two Pair ( 8c 8h 4h 4d Tc )
+Shows: Hi, Ts Jh
+Combination: Hi, Pair ( Ts Tc Jh 8h 7s )
+Wins: Nuwrot, chips: 7000
+Quits: Hi, chips: 0
+Ranking: Nuwrot, Place: 1, Score: 6000
+Reveal AI: Nuwrot, AI: Smart
+Ranking: Hi, Place: 2, Score: -1000
+Reveal AI: Hi, AI: Smart
+Ranking: Pemo, Place: 3, Score: -1000
+Reveal AI: Pemo, AI: Call
+Ranking: Febe, Place: 4, Score: -1000
+Reveal AI: Febe, AI: Random
+Ranking: Runha, Place: 5, Score: -1000
+Reveal AI: Runha, AI: Random
+Ranking: Motateef, Place: 6, Score: -1000
+Reveal AI: Motateef, AI: Call
+Ranking: Fiweek, Place: 7, Score: -1000
+Reveal AI: Fiweek, AI: AIMyBot1
+
+Player Stats for Febe, AI: Random
+General: deals: 10, actions: 33, preflop actions: 11
+Rounds Seen: flops: 41, turns: 41, rivers: 40, showdowns: 39
+Wins: total: 5, showdown: 5, bluff: 0
+Chips: won: 275, lost: 1275, bought: 1000, forced bets: 40
+Pre-Flop Stats: VP$IP: 0.7, PFR: 0.4, 3Bet: 0.2
+Post-Flop Stats: AF: 5, WSD: 0.95122, WSDW: 0.128205
+
+
+Player Stats for Fiweek, AI: AIMyBot1
+General: deals: 1, actions: 4, preflop actions: 1
+Rounds Seen: flops: 43, turns: 43, rivers: 43, showdowns: 42
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 0
+Pre-Flop Stats: VP$IP: 1, PFR: 1, 3Bet: 1
+Post-Flop Stats: AF: 2, WSD: 0.976744, WSDW: 0
+
+
+Player Stats for Hi, AI: Smart
+General: deals: 50, actions: 131, preflop actions: 52
+Rounds Seen: flops: 28, turns: 25, rivers: 24, showdowns: 22
+Wins: total: 9, showdown: 7, bluff: 2
+Chips: won: 250, lost: 6810, bought: 1000, forced bets: 255
+Pre-Flop Stats: VP$IP: 0.28, PFR: 0.04, 3Bet: 0.04
+Post-Flop Stats: AF: 1.4, WSD: 0.785714, WSDW: 0.318182
+
+
+Player Stats for Motateef, AI: Call
+General: deals: 1, actions: 4, preflop actions: 1
+Rounds Seen: flops: 43, turns: 43, rivers: 43, showdowns: 42
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 0
+Pre-Flop Stats: VP$IP: 1, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: 0, WSD: 0.976744, WSDW: 0
+
+
+Player Stats for Nuwrot, AI: Smart
+General: deals: 50, actions: 129, preflop actions: 51
+Rounds Seen: flops: 27, turns: 27, rivers: 26, showdowns: 24
+Wins: total: 17, showdown: 16, bluff: 1
+Chips: won: 18939, lost: 12939, bought: 1000, forced bets: 255
+Pre-Flop Stats: VP$IP: 0.3, PFR: 0.06, 3Bet: 0
+Post-Flop Stats: AF: 22, WSD: 0.888889, WSDW: 0.666667
+
+
+Player Stats for Pemo, AI: Call
+General: deals: 44, actions: 175, preflop actions: 45
+Rounds Seen: flops: 43, turns: 43, rivers: 43, showdowns: 42
+Wins: total: 21, showdown: 16, bluff: 5
+Chips: won: 6527, lost: 8339, bought: 1000, forced bets: 200
+Pre-Flop Stats: VP$IP: 0.75, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: 0, WSD: 0.976744, WSDW: 0.380952
+
+
+Player Stats for Runha, AI: Random
+General: deals: 1, actions: 3, preflop actions: 1
+Rounds Seen: flops: 43, turns: 43, rivers: 43, showdowns: 42
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 0
+Pre-Flop Stats: VP$IP: 1, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: 1, WSD: 0.976744, WSDW: 0
+
+

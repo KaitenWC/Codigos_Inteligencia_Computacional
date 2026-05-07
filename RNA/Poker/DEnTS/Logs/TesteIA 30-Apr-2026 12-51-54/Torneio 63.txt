@@ -1,0 +1,8884 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Pise: Call
+Chaku: Random
+Roe: Call
+Save: AIMyBot1
+Gunhi: Smart
+Balo: Smart
+Keesuk: Random
+
+Joins: Pise, chips: 1000
+Joins: Chaku, chips: 1000
+Joins: Roe, chips: 1000
+Joins: Save, chips: 1000
+Joins: Gunhi, chips: 1000
+Joins: Balo, chips: 1000
+Joins: Keesuk, chips: 1000
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Gunhi, chips: 5
+Big Blind: Balo, chips: 10
+Folds: Keesuk
+Calls: Pise
+Calls: Chaku
+Calls: Roe
+Folds: Save
+Calls: Gunhi
+Checks: Balo
+Flop: 9h 7d 6d
+Checks: Gunhi
+Checks: Balo
+Checks: Pise
+Raises: Chaku, chips: 10
+Calls: Roe
+Folds: Gunhi
+Folds: Balo
+Calls: Pise
+Turn: 4d
+Checks: Pise
+Checks: Chaku
+Checks: Roe
+River: Ks
+Checks: Pise
+Raises: Chaku, chips: 10
+Calls: Roe
+Calls: Pise
+Pot size: 110
+Showdown Reached
+Shows: Pise, 9s 6c
+Combination: Pise, Two Pair ( 9s 9h 6c 6d Ks )
+Shows: Chaku, 4s Jh
+Combination: Chaku, Pair ( 4s 4d Ks Jh 9h )
+Shows: Roe, 5c 8s
+Combination: Roe, Straight ( 9h 8s 7d 6d 5c )
+Wins: Roe, chips: 110
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Balo, chips: 5
+Big Blind: Keesuk, chips: 10
+Calls: Pise
+Calls: Chaku
+Calls: Roe
+Folds: Save
+Calls: Gunhi
+Folds: Balo
+Raises: Keesuk, chips: 10
+Calls: Pise
+Calls: Chaku
+Calls: Roe
+Calls: Gunhi
+Flop: 9s 7h Kc
+Raises: Keesuk, chips: 10
+Calls: Pise
+Calls: Chaku
+Calls: Roe
+Calls: Gunhi
+Turn: Ac
+Checks: Keesuk
+Checks: Pise
+Checks: Chaku
+Checks: Roe
+Checks: Gunhi
+River: 2c
+Checks: Keesuk
+Checks: Pise
+Checks: Chaku
+Checks: Roe
+Checks: Gunhi
+Pot size: 155
+Showdown Reached
+Shows: Pise, 8s 4h
+Combination: Pise, High Card ( Ac Kc 9s 8s 7h )
+Shows: Chaku, 4d 9h
+Combination: Chaku, Pair ( 9h 9s Ac Kc 7h )
+Shows: Roe, Td Jc
+Combination: Roe, High Card ( Ac Kc Jc Td 9s )
+Shows: Gunhi, Ks Jd
+Combination: Gunhi, Pair ( Ks Kc Ac Jd 9s )
+Shows: Keesuk, 6d As
+Combination: Keesuk, Pair ( As Ac Kc 9s 7h )
+Wins: Keesuk, chips: 155
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Balo
+Small Blind: Keesuk, chips: 5
+Big Blind: Pise, chips: 10
+Raises: Chaku, chips: 20
+Calls: Roe
+Folds: Save
+Folds: Gunhi
+Folds: Balo
+Calls: Keesuk
+Calls: Pise
+Flop: 6s 5d 2d
+Checks: Keesuk
+Checks: Pise
+Raises: Chaku, chips: 20
+Calls: Roe
+Calls: Keesuk
+Calls: Pise
+Turn: Qd
+Checks: Keesuk
+Checks: Pise
+Checks: Chaku
+Checks: Roe
+River: 5h
+Checks: Keesuk
+Checks: Pise
+Checks: Chaku
+Checks: Roe
+Pot size: 200
+Showdown Reached
+Shows: Pise, Qs 2h
+Combination: Pise, Two Pair ( Qs Qd 5d 5h 6s )
+Shows: Chaku, 4h Ac
+Combination: Chaku, Pair ( 5d 5h Ac Qd 6s )
+Shows: Roe, 5c As
+Combination: Roe, Three Of A Kind ( 5c 5d 5h As Qd )
+Shows: Keesuk, Tc 6d
+Combination: Keesuk, Two Pair ( 6d 6s 5d 5h Qd )
+Wins: Roe, chips: 200
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Keesuk
+Small Blind: Pise, chips: 5
+Big Blind: Chaku, chips: 10
+Calls: Roe
+Folds: Save
+Calls: Gunhi
+Folds: Balo
+Calls: Keesuk
+Calls: Pise
+Checks: Chaku
+Flop: 3h Kh 8h
+Checks: Pise
+Checks: Chaku
+Checks: Roe
+Checks: Gunhi
+Raises: Keesuk, chips: 10
+Calls: Pise
+Folds: Chaku
+Calls: Roe
+Calls: Gunhi
+Turn: 2d
+Checks: Pise
+Checks: Roe
+Checks: Gunhi
+Checks: Keesuk
+River: 7c
+Checks: Pise
+Checks: Roe
+Checks: Gunhi
+Raises: Keesuk, chips: 10
+Calls: Pise
+Calls: Roe
+Calls: Gunhi
+Pot size: 130
+Showdown Reached
+Shows: Pise, Tc 2c
+Combination: Pise, Pair ( 2c 2d Kh Tc 8h )
+Shows: Roe, Th 8c
+Combination: Roe, Pair ( 8c 8h Kh Th 7c )
+Shows: Gunhi, Ks Jc
+Combination: Gunhi, Pair ( Ks Kh Jc 8h 7c )
+Shows: Keesuk, 3d Ts
+Combination: Keesuk, Pair ( 3d 3h Kh Ts 8h )
+Wins: Gunhi, chips: 130
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Pise
+Small Blind: Chaku, chips: 5
+Big Blind: Roe, chips: 10
+Folds: Save
+Calls: Gunhi
+Folds: Balo
+Raises: Keesuk, chips: 20
+Calls: Pise
+Calls: Chaku
+Calls: Roe
+Folds: Gunhi
+Flop: 7d Tc 8h
+Raises: Chaku, chips: 20
+Calls: Roe
+Calls: Keesuk
+Calls: Pise
+Turn: 2d
+Raises: Chaku, chips: 20
+Calls: Roe
+Calls: Keesuk
+Calls: Pise
+River: Ah
+Checks: Chaku
+Checks: Roe
+Checks: Keesuk
+Checks: Pise
+Pot size: 290
+Showdown Reached
+Shows: Pise, 9s 6c
+Combination: Pise, Straight ( Tc 9s 8h 7d 6c )
+Shows: Chaku, 5c 2c
+Combination: Chaku, Pair ( 2c 2d Ah Tc 8h )
+Shows: Roe, 5h 7s
+Combination: Roe, Pair ( 7s 7d Ah Tc 8h )
+Shows: Keesuk, Jc Jh
+Combination: Keesuk, Pair ( Jc Jh Ah Tc 8h )
+Wins: Pise, chips: 290
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chaku
+Small Blind: Roe, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Folds: Balo
+Folds: Keesuk
+Calls: Pise
+Folds: Chaku
+Calls: Roe
+Checks: Save
+Flop: 6d 8h 3d
+Checks: Roe
+Checks: Save
+Checks: Pise
+Turn: Jh
+Checks: Roe
+Checks: Save
+Checks: Pise
+River: 7c
+Checks: Roe
+Checks: Save
+Checks: Pise
+Pot size: 30
+Showdown Reached
+Shows: Pise, Ad Qc
+Combination: Pise, High Card ( Ad Qc Jh 8h 7c )
+Boasts: Chaku, Kd 6c
+Shows: Roe, 4c 5h
+Combination: Roe, Straight ( 8h 7c 6d 5h 4c )
+Shows: Save, 7d 8c
+Combination: Save, Two Pair ( 8c 8h 7d 7c Jh )
+Wins: Roe, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Roe
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Balo
+Calls: Keesuk
+Calls: Pise
+Calls: Chaku
+Calls: Roe
+Folds: Save
+Raises: Gunhi, chips: 10
+Calls: Keesuk
+Calls: Pise
+Calls: Chaku
+Calls: Roe
+Flop: Ts Qh 6s
+Checks: Gunhi
+Checks: Keesuk
+Checks: Pise
+Raises: Chaku, chips: 10
+Calls: Roe
+Folds: Gunhi
+Folds: Keesuk
+Calls: Pise
+Turn: Qd
+Checks: Pise
+Raises: Chaku, chips: 10
+Calls: Roe
+Calls: Pise
+River: 6d
+Checks: Pise
+Raises: Chaku, chips: 10
+Calls: Roe
+Calls: Pise
+Pot size: 195
+Showdown Reached
+Shows: Pise, 9d 2d
+Combination: Pise, Two Pair ( Qh Qd 6s 6d Ts )
+Shows: Chaku, Ah 4h
+Combination: Chaku, Two Pair ( Qh Qd 6s 6d Ah )
+Shows: Roe, 7c 9s
+Combination: Roe, Two Pair ( Qh Qd 6s 6d Ts )
+Wins: Chaku, chips: 195
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Gunhi, chips: 5
+Big Blind: Balo, chips: 10
+Calls: Keesuk
+Calls: Pise
+Folds: Chaku
+Calls: Roe
+Folds: Save
+Calls: Gunhi
+Checks: Balo
+Flop: 9s Ks 7h
+Raises: Gunhi, chips: 10
+Folds: Balo
+Raises: Keesuk, chips: 20
+Calls: Pise
+Calls: Roe
+Raises: Gunhi, chips: 50
+Folds: Keesuk
+Calls: Pise
+Calls: Roe
+Turn: 6s
+Raises: Gunhi, chips: 940
+Calls: Pise
+Calls: Roe
+River: Ad
+Pot size: 3130
+Showdown Reached
+Shows: Pise, Th 8s
+Combination: Pise, Straight ( Th 9s 8s 7h 6s )
+Boasts: Chaku, 9h Jc
+Shows: Roe, 2h 3s
+Combination: Roe, High Card ( Ad Ks 9s 7h 6s )
+Shows: Gunhi, 7s Js
+Combination: Gunhi, Flush ( Ks Js 9s 7s 6s )
+Wins: Gunhi, chips: 3130
+Quits: Pise, chips: 0
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Balo, chips: 5
+Big Blind: Keesuk, chips: 10
+Folds: Chaku
+Calls: Roe
+Folds: Save
+Folds: Gunhi
+Folds: Balo
+Checks: Keesuk
+Flop: Qd 9h 5d
+Checks: Keesuk
+Checks: Roe
+Turn: 7s
+Raises: Keesuk, chips: 10
+Calls: Roe
+River: 2h
+Checks: Keesuk
+Checks: Roe
+Pot size: 45
+Showdown Reached
+Shows: Roe, Jd 7h
+Combination: Roe, Pair ( 7h 7s Qd Jd 9h )
+Shows: Keesuk, Jc Qc
+Combination: Keesuk, Pair ( Qc Qd Jc 9h 7s )
+Wins: Keesuk, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Balo
+Small Blind: Keesuk, chips: 5
+Big Blind: Chaku, chips: 10
+Calls: Roe
+Folds: Save
+Calls: Gunhi
+Folds: Balo
+Raises: Keesuk, chips: 15
+Folds: Chaku
+Calls: Roe
+Folds: Gunhi
+Flop: Td 4d 7d
+Turn: 9d
+River: 9h
+Pot size: 65
+Showdown Reached
+Boasts: Chaku, Jd 6h
+Shows: Roe, 5c Qh
+Combination: Roe, Pair ( 9d 9h Qh Td 7d )
+Shows: Keesuk, Qc 9c
+Combination: Keesuk, Three Of A Kind ( 9c 9d 9h Qc Td )
+Wins: Keesuk, chips: 65
+Quits: Roe, chips: 0
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Keesuk
+Small Blind: Chaku, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Folds: Balo
+Calls: Keesuk
+Raises: Chaku, chips: 15
+Folds: Save
+Folds: Gunhi
+Raises: Keesuk, chips: 30
+Calls: Chaku
+Flop: 7c Qd 9h
+Raises: Chaku, chips: 30
+Calls: Keesuk
+Turn: 8h
+Checks: Chaku
+Raises: Keesuk, chips: 30
+Calls: Chaku
+River: Ts
+Checks: Chaku
+Checks: Keesuk
+Pot size: 250
+Showdown Reached
+Shows: Chaku, 3d 3h
+Combination: Chaku, Pair ( 3d 3h Qd Ts 9h )
+Shows: Keesuk, 8d 4c
+Combination: Keesuk, Pair ( 8d 8h Qd Ts 9h )
+Wins: Keesuk, chips: 250
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chaku
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Calls: Balo
+Raises: Keesuk, chips: 20
+Calls: Chaku
+Folds: Save
+Folds: Gunhi
+Folds: Balo
+Flop: 3s 5s 4s
+Checks: Keesuk
+Checks: Chaku
+Turn: 2s
+Checks: Keesuk
+Checks: Chaku
+River: Ah
+Checks: Keesuk
+Checks: Chaku
+Pot size: 85
+Showdown Reached
+Shows: Chaku, Td 9c
+Combination: Chaku, Straight ( 5s 4s 3s 2s Ah )
+Shows: Keesuk, As 4c
+Combination: Keesuk, Straight Flush ( 5s 4s 3s 2s As )
+Wins: Keesuk, chips: 85
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Gunhi, chips: 5
+Big Blind: Balo, chips: 10
+Raises: Keesuk, chips: 20
+Folds: Chaku
+Folds: Save
+Calls: Gunhi
+Folds: Balo
+Flop: Kd Ts 6c
+Checks: Gunhi
+Checks: Keesuk
+Turn: Js
+Checks: Gunhi
+Raises: Keesuk, chips: 20
+Calls: Gunhi
+River: 4c
+Checks: Gunhi
+Raises: Keesuk, chips: 20
+Calls: Gunhi
+Pot size: 150
+Showdown Reached
+Shows: Gunhi, Ah Td
+Combination: Gunhi, Pair ( Td Ts Ah Kd Js )
+Shows: Keesuk, Qd 9h
+Combination: Keesuk, Straight ( Kd Qd Js Ts 9h )
+Wins: Keesuk, chips: 150
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Balo, chips: 5
+Big Blind: Keesuk, chips: 10
+Folds: Chaku
+Folds: Save
+Folds: Gunhi
+Folds: Balo
+Pot size: 15
+Boasts: Chaku, Qs 7h
+Wins: Keesuk, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Balo
+Small Blind: Keesuk, chips: 5
+Big Blind: Chaku, chips: 10
+Folds: Save
+Folds: Gunhi
+Folds: Balo
+Folds: Keesuk
+Pot size: 15
+Wins: Chaku, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Keesuk
+Small Blind: Chaku, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Folds: Balo
+Calls: Keesuk
+Calls: Chaku
+Checks: Save
+Flop: 9s Jc As
+Checks: Chaku
+Checks: Save
+Checks: Keesuk
+Turn: 7s
+Checks: Chaku
+Checks: Save
+Checks: Keesuk
+River: Qs
+Checks: Chaku
+Checks: Save
+Checks: Keesuk
+Pot size: 30
+Showdown Reached
+Shows: Chaku, 4c Kc
+Combination: Chaku, High Card ( As Kc Qs Jc 9s )
+Shows: Save, 9c Jd
+Combination: Save, Two Pair ( Jd Jc 9c 9s As )
+Shows: Keesuk, 7c Qd
+Combination: Keesuk, Two Pair ( Qd Qs 7c 7s As )
+Wins: Keesuk, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chaku
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Calls: Balo
+Raises: Keesuk, chips: 20
+Folds: Chaku
+Folds: Save
+Folds: Gunhi
+Raises: Balo, chips: 50
+Folds: Keesuk
+Pot size: 125
+Boasts: Chaku, 4h 6h
+Boasts: Keesuk, 9d Ac
+Wins: Balo, chips: 125
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Gunhi, chips: 5
+Big Blind: Balo, chips: 10
+Folds: Keesuk
+Calls: Chaku
+Folds: Save
+Calls: Gunhi
+Checks: Balo
+Flop: 3c 4c 4s
+Checks: Gunhi
+Checks: Balo
+Checks: Chaku
+Turn: Ts
+Checks: Gunhi
+Checks: Balo
+Checks: Chaku
+River: 2c
+Checks: Gunhi
+Checks: Balo
+Checks: Chaku
+Pot size: 30
+Showdown Reached
+Shows: Chaku, Js 5c
+Combination: Chaku, Pair ( 4c 4s Js Ts 5c )
+Shows: Gunhi, Kd Jd
+Combination: Gunhi, Pair ( 4c 4s Kd Jd Ts )
+Shows: Balo, 5h 9d
+Combination: Balo, Pair ( 4c 4s Ts 9d 5h )
+Boasts: Keesuk, 6s 4d
+Wins: Gunhi, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Balo, chips: 5
+Big Blind: Keesuk, chips: 10
+Calls: Chaku
+Folds: Save
+Folds: Gunhi
+Calls: Balo
+Checks: Keesuk
+Flop: 3h 3c 9h
+Checks: Balo
+Checks: Keesuk
+Checks: Chaku
+Turn: Kh
+Checks: Balo
+Checks: Keesuk
+Checks: Chaku
+River: Qh
+Checks: Balo
+Checks: Keesuk
+Checks: Chaku
+Pot size: 30
+Showdown Reached
+Shows: Chaku, 8d Th
+Combination: Chaku, Flush ( Kh Qh Th 9h 3h )
+Shows: Balo, 4h 4c
+Combination: Balo, Flush ( Kh Qh 9h 4h 3h )
+Shows: Keesuk, 8c 8s
+Combination: Keesuk, Two Pair ( 8c 8s 3h 3c Kh )
+Wins: Chaku, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Balo
+Small Blind: Keesuk, chips: 5
+Big Blind: Chaku, chips: 10
+Folds: Save
+Folds: Gunhi
+Calls: Balo
+Folds: Keesuk
+Checks: Chaku
+Flop: 2h 4c Qc
+Checks: Chaku
+Checks: Balo
+Turn: 9d
+Checks: Chaku
+Checks: Balo
+River: Qd
+Checks: Chaku
+Checks: Balo
+Pot size: 25
+Showdown Reached
+Shows: Chaku, Ah Tc
+Combination: Chaku, Pair ( Qc Qd Ah Tc 9d )
+Shows: Balo, 7h 8s
+Combination: Balo, Pair ( Qc Qd 9d 8s 7h )
+Boasts: Keesuk, Ks 2s
+Wins: Chaku, chips: 25
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Keesuk
+Small Blind: Chaku, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Folds: Balo
+Raises: Keesuk, chips: 20
+Folds: Chaku
+Folds: Save
+Pot size: 45
+Wins: Keesuk, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chaku
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Balo
+Raises: Keesuk, chips: 20
+Calls: Chaku
+Folds: Save
+Folds: Gunhi
+Flop: 8d As 5h
+Raises: Keesuk, chips: 20
+Folds: Chaku
+Pot size: 95
+Boasts: Chaku, Jh 2h
+Wins: Keesuk, chips: 95
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Gunhi, chips: 5
+Big Blind: Balo, chips: 10
+Folds: Keesuk
+Folds: Chaku
+Folds: Save
+Folds: Gunhi
+Pot size: 15
+Boasts: Chaku, As Ks
+Wins: Balo, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Balo, chips: 5
+Big Blind: Keesuk, chips: 10
+Folds: Chaku
+Folds: Save
+Calls: Gunhi
+Folds: Balo
+Checks: Keesuk
+Flop: 7h 4s 6s
+Raises: Keesuk, chips: 10
+Calls: Gunhi
+Turn: Tc
+Checks: Keesuk
+Checks: Gunhi
+River: 9d
+Checks: Keesuk
+Raises: Gunhi, chips: 3005
+Calls: Keesuk
+Pot size: 4315
+Showdown Reached
+Boasts: Chaku, 3s 4c
+Shows: Gunhi, Td Th
+Combination: Gunhi, Three Of A Kind ( Td Th Tc 9d 7h )
+Shows: Keesuk, As 9h
+Combination: Keesuk, Pair ( 9h 9d As Tc 7h )
+Wins: Gunhi, chips: 4315
+Quits: Keesuk, chips: 0
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Balo
+Small Blind: Chaku, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Folds: Balo
+Calls: Chaku
+Checks: Save
+Flop: 4s 4h 3d
+Raises: Chaku, chips: 10
+Folds: Save
+Folds: Gunhi
+Pot size: 40
+Boasts: Chaku, Qs 2h
+Wins: Chaku, chips: 40
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chaku
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Balo
+Calls: Chaku
+Folds: Save
+Checks: Gunhi
+Flop: 7d Qs 6s
+Checks: Gunhi
+Raises: Chaku, chips: 10
+Folds: Gunhi
+Pot size: 35
+Wins: Chaku, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Gunhi, chips: 5
+Big Blind: Balo, chips: 10
+Calls: Chaku
+Folds: Save
+Calls: Gunhi
+Checks: Balo
+Flop: Ah Ac 5d
+Checks: Gunhi
+Checks: Balo
+Checks: Chaku
+Turn: 6c
+Checks: Gunhi
+Checks: Balo
+Checks: Chaku
+River: Th
+Checks: Gunhi
+Checks: Balo
+Checks: Chaku
+Pot size: 30
+Showdown Reached
+Shows: Chaku, 8s 2d
+Combination: Chaku, Pair ( Ah Ac Th 8s 6c )
+Shows: Gunhi, 5c Kc
+Combination: Gunhi, Two Pair ( Ah Ac 5c 5d Kc )
+Shows: Balo, 3c Js
+Combination: Balo, Pair ( Ah Ac Js Th 6c )
+Wins: Gunhi, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Balo, chips: 5
+Big Blind: Chaku, chips: 10
+Folds: Save
+Folds: Gunhi
+Folds: Balo
+Pot size: 15
+Wins: Chaku, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Balo
+Small Blind: Chaku, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Folds: Balo
+Raises: Chaku, chips: 15
+Folds: Save
+Pot size: 35
+Wins: Chaku, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chaku
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Balo
+Folds: Chaku
+Folds: Save
+Pot size: 15
+Boasts: Chaku, 8d Qd
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Gunhi, chips: 5
+Big Blind: Balo, chips: 10
+Raises: Chaku, chips: 20
+Folds: Save
+Folds: Gunhi
+Folds: Balo
+Pot size: 45
+Wins: Chaku, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Balo, chips: 5
+Big Blind: Chaku, chips: 10
+Folds: Save
+Calls: Gunhi
+Calls: Balo
+Checks: Chaku
+Flop: Kh 6h Qh
+Raises: Balo, chips: 10
+Raises: Chaku, chips: 20
+Folds: Gunhi
+Calls: Balo
+Turn: 2s
+Checks: Balo
+Checks: Chaku
+River: 4s
+Checks: Balo
+Raises: Chaku, chips: 20
+Calls: Balo
+Pot size: 130
+Showdown Reached
+Shows: Chaku, 4h 5c
+Combination: Chaku, Pair ( 4h 4s Kh Qh 6h )
+Shows: Balo, Kc Qd
+Combination: Balo, Two Pair ( Kc Kh Qd Qh 6h )
+Wins: Balo, chips: 130
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Balo
+Small Blind: Chaku, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Folds: Balo
+Raises: Chaku, chips: 15
+Folds: Save
+Raises: Gunhi, chips: 25
+Raises: Chaku, chips: 50
+Folds: Gunhi
+Pot size: 160
+Boasts: Chaku, Tc 2h
+Wins: Chaku, chips: 160
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chaku
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Balo
+Folds: Chaku
+Folds: Save
+Pot size: 15
+Boasts: Chaku, 7d 7s
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Gunhi, chips: 5
+Big Blind: Balo, chips: 10
+Folds: Chaku
+Folds: Save
+Folds: Gunhi
+Pot size: 15
+Boasts: Chaku, Qd Qc
+Wins: Balo, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Balo, chips: 5
+Big Blind: Chaku, chips: 10
+Folds: Save
+Folds: Gunhi
+Calls: Balo
+Raises: Chaku, chips: 10
+Raises: Balo, chips: 10
+Folds: Chaku
+Pot size: 50
+Wins: Balo, chips: 50
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Balo
+Small Blind: Chaku, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Folds: Balo
+Calls: Chaku
+Checks: Save
+Flop: 5h Ts 6s
+Checks: Chaku
+Checks: Save
+Checks: Gunhi
+Turn: 6d
+Raises: Chaku, chips: 10
+Folds: Save
+Raises: Gunhi, chips: 20
+Folds: Chaku
+Pot size: 70
+Boasts: Chaku, Kc 4s
+Wins: Gunhi, chips: 70
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chaku
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Calls: Balo
+Folds: Chaku
+Folds: Save
+Checks: Gunhi
+Flop: 5h As Kc
+Checks: Gunhi
+Raises: Balo, chips: 10
+Calls: Gunhi
+Turn: 9d
+Checks: Gunhi
+Checks: Balo
+River: Ac
+Checks: Gunhi
+Checks: Balo
+Pot size: 45
+Showdown Reached
+Shows: Gunhi, Qc Qd
+Combination: Gunhi, Two Pair ( As Ac Qc Qd Kc )
+Shows: Balo, 6h 6c
+Combination: Balo, Two Pair ( As Ac 6h 6c Kc )
+Wins: Gunhi, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Gunhi, chips: 5
+Big Blind: Balo, chips: 10
+Calls: Chaku
+Folds: Save
+Calls: Gunhi
+Raises: Balo, chips: 10
+Calls: Chaku
+Folds: Gunhi
+Flop: 5c 4h 2s
+Raises: Balo, chips: 10
+Calls: Chaku
+Turn: Jc
+Raises: Balo, chips: 980
+Calls: Chaku
+River: 6s
+Pot size: 1820
+Showdown Reached
+Shows: Chaku, Jd Js
+Combination: Chaku, Three Of A Kind ( Jd Js Jc 6s 5c )
+Shows: Balo, 5s 4s
+Combination: Balo, Two Pair ( 5s 5c 4s 4h Jc )
+Wins: Chaku, chips: 1610
+Wins: Balo, chips: 210
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Balo, chips: 5
+Big Blind: Chaku, chips: 10
+Folds: Save
+Folds: Gunhi
+Folds: Balo
+Pot size: 15
+Wins: Chaku, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Balo
+Small Blind: Chaku, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Folds: Balo
+Folds: Chaku
+Pot size: 15
+Boasts: Chaku, Ac 2s
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chaku
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Balo
+Calls: Chaku
+Folds: Save
+Checks: Gunhi
+Flop: 4c 4h Jc
+Checks: Gunhi
+Checks: Chaku
+Turn: Js
+Raises: Gunhi, chips: 4290
+Calls: Chaku
+River: 5h
+Pot size: 5915
+Showdown Reached
+Shows: Chaku, Jh 6h
+Combination: Chaku, Full House ( Jh Jc Js 4c 4h )
+Shows: Gunhi, Jd 9c
+Combination: Gunhi, Full House ( Jd Jc Js 4c 4h )
+Wins: Chaku, chips: 1613
+Wins: Gunhi, chips: 4302
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Gunhi, chips: 5
+Big Blind: Balo, chips: 10
+Calls: Chaku
+Folds: Save
+Calls: Gunhi
+Raises: Balo, chips: 10
+Raises: Chaku, chips: 20
+Calls: Gunhi
+Calls: Balo
+Flop: 4s 3s 6s
+Checks: Gunhi
+Raises: Balo, chips: 20
+Calls: Chaku
+Folds: Gunhi
+Turn: 7d
+Raises: Balo, chips: 20
+Folds: Chaku
+Pot size: 180
+Wins: Balo, chips: 180
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Balo, chips: 5
+Big Blind: Chaku, chips: 10
+Folds: Save
+Folds: Gunhi
+Folds: Balo
+Pot size: 15
+Wins: Chaku, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Balo
+Small Blind: Chaku, chips: 5
+Big Blind: Save, chips: 10
+Raises: Gunhi, chips: 20
+Folds: Balo
+Calls: Chaku
+Folds: Save
+Flop: 7d 8c 4c
+Checks: Chaku
+Raises: Gunhi, chips: 30
+Raises: Chaku, chips: 60
+Raises: Gunhi, chips: 90
+Calls: Chaku
+Turn: 9h
+Checks: Chaku
+Raises: Gunhi, chips: 170
+Calls: Chaku
+River: Jc
+Checks: Chaku
+Checks: Gunhi
+Pot size: 770
+Showdown Reached
+Shows: Chaku, 2s 3s
+Combination: Chaku, High Card ( Jc 9h 8c 7d 4c )
+Shows: Gunhi, 8d 8s
+Combination: Gunhi, Three Of A Kind ( 8d 8s 8c Jc 9h )
+Wins: Gunhi, chips: 770
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chaku
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Balo
+Calls: Chaku
+Folds: Save
+Checks: Gunhi
+Flop: 7h 7s 4d
+Checks: Gunhi
+Checks: Chaku
+Turn: 5d
+Raises: Gunhi, chips: 10
+Folds: Chaku
+Pot size: 35
+Boasts: Chaku, 3h 7d
+Wins: Gunhi, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Gunhi, chips: 5
+Big Blind: Balo, chips: 10
+Raises: Chaku, chips: 20
+Folds: Save
+Folds: Gunhi
+Folds: Balo
+Pot size: 45
+Wins: Chaku, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Balo, chips: 5
+Big Blind: Chaku, chips: 10
+Folds: Save
+Calls: Gunhi
+Folds: Balo
+Checks: Chaku
+Flop: 5h 3h Td
+Checks: Chaku
+Checks: Gunhi
+Turn: 3c
+Checks: Chaku
+Checks: Gunhi
+River: 2h
+Raises: Chaku, chips: 10
+Folds: Gunhi
+Pot size: 35
+Wins: Chaku, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Balo
+Small Blind: Chaku, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Folds: Balo
+Folds: Chaku
+Pot size: 15
+Boasts: Chaku, 9d 9s
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chaku
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Calls: Balo
+Calls: Chaku
+Folds: Save
+Checks: Gunhi
+Flop: Kd As 5h
+Checks: Gunhi
+Checks: Balo
+Raises: Chaku, chips: 10
+Folds: Gunhi
+Calls: Balo
+Turn: 6c
+Checks: Balo
+Raises: Chaku, chips: 10
+Calls: Balo
+River: Qs
+Checks: Balo
+Checks: Chaku
+Pot size: 75
+Showdown Reached
+Shows: Chaku, 8d 3s
+Combination: Chaku, High Card ( As Kd Qs 8d 6c )
+Shows: Balo, Kc Th
+Combination: Balo, Pair ( Kc Kd As Qs Th )
+Wins: Balo, chips: 75
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Gunhi, chips: 5
+Big Blind: Balo, chips: 10
+Calls: Chaku
+Folds: Save
+Folds: Gunhi
+Raises: Balo, chips: 10
+Calls: Chaku
+Flop: 9s 5d Ah
+Raises: Balo, chips: 10
+Raises: Chaku, chips: 20
+Raises: Balo, chips: 40
+Folds: Chaku
+Pot size: 145
+Boasts: Chaku, 5s Tc
+Wins: Balo, chips: 145
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Balo, chips: 5
+Big Blind: Chaku, chips: 10
+Folds: Save
+Calls: Gunhi
+Folds: Balo
+Checks: Chaku
+Flop: 2c Kd 9h
+Raises: Chaku, chips: 10
+Calls: Gunhi
+Turn: 4c
+Checks: Chaku
+Checks: Gunhi
+River: 5d
+Raises: Chaku, chips: 10
+Calls: Gunhi
+Pot size: 65
+Showdown Reached
+Shows: Chaku, 4d Tc
+Combination: Chaku, Pair ( 4d 4c Kd Tc 9h )
+Shows: Gunhi, 3d 3s
+Combination: Gunhi, Pair ( 3d 3s Kd 9h 5d )
+Wins: Chaku, chips: 65
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Balo
+Small Blind: Chaku, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Folds: Balo
+Calls: Chaku
+Checks: Save
+Flop: Js 9h 2d
+Checks: Chaku
+Checks: Save
+Turn: 6d
+Raises: Chaku, chips: 10
+Folds: Save
+Pot size: 30
+Wins: Chaku, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chaku
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Balo
+Calls: Chaku
+Folds: Save
+Checks: Gunhi
+Flop: 3d 5s As
+Checks: Gunhi
+Checks: Chaku
+Turn: Td
+Checks: Gunhi
+Raises: Chaku, chips: 10
+Folds: Gunhi
+Pot size: 35
+Wins: Chaku, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Gunhi, chips: 5
+Big Blind: Balo, chips: 10
+Calls: Chaku
+Folds: Save
+Folds: Gunhi
+Checks: Balo
+Flop: 9d 4h Tc
+Checks: Balo
+Checks: Chaku
+Turn: 6s
+Checks: Balo
+Checks: Chaku
+River: 7c
+Checks: Balo
+Raises: Chaku, chips: 10
+Calls: Balo
+Pot size: 45
+Showdown Reached
+Shows: Chaku, Qd 5c
+Combination: Chaku, High Card ( Qd Tc 9d 7c 6s )
+Shows: Balo, Jc 9h
+Combination: Balo, Pair ( 9h 9d Jc Tc 7c )
+Wins: Balo, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Balo, chips: 5
+Big Blind: Chaku, chips: 10
+Folds: Save
+Calls: Gunhi
+Calls: Balo
+Raises: Chaku, chips: 10
+Raises: Gunhi, chips: 20
+Raises: Balo, chips: 40
+Calls: Chaku
+Raises: Gunhi, chips: 110
+Raises: Balo, chips: 215
+Calls: Chaku
+Raises: Gunhi, chips: 325
+Calls: Chaku
+Flop: Js 7d 8h
+Checks: Chaku
+Checks: Gunhi
+Turn: 2d
+Raises: Chaku, chips: 325
+Calls: Gunhi
+River: 3s
+Checks: Chaku
+Checks: Gunhi
+Pot size: 2515
+Showdown Reached
+Shows: Chaku, Tc 8c
+Combination: Chaku, Pair ( 8c 8h Js Tc 7d )
+Shows: Gunhi, Kh Kc
+Combination: Gunhi, Pair ( Kh Kc Js 8h 7d )
+Shows: Balo, 9h 9s
+Combination: Balo, Pair ( 9h 9s Js 8h 7d )
+Wins: Gunhi, chips: 2515
+Quits: Balo, chips: 0
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chaku
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Raises: Chaku, chips: 20
+Folds: Save
+Calls: Gunhi
+Flop: 2c 2s 9c
+Checks: Gunhi
+Checks: Chaku
+Turn: As
+Raises: Gunhi, chips: 30
+Calls: Chaku
+River: 6c
+Checks: Gunhi
+Checks: Chaku
+Pot size: 125
+Showdown Reached
+Shows: Chaku, Jh 9h
+Combination: Chaku, Two Pair ( 9h 9c 2c 2s As )
+Shows: Gunhi, 8s Js
+Combination: Gunhi, Pair ( 2c 2s As Js 9c )
+Wins: Chaku, chips: 125
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Gunhi, chips: 5
+Big Blind: Chaku, chips: 10
+Folds: Save
+Folds: Gunhi
+Pot size: 15
+Boasts: Chaku, Ks 2h
+Wins: Chaku, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Chaku, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Calls: Chaku
+Checks: Save
+Flop: 3h Qh 6d
+Checks: Chaku
+Checks: Save
+Checks: Gunhi
+Turn: Qd
+Checks: Chaku
+Checks: Save
+Checks: Gunhi
+River: 8s
+Checks: Chaku
+Checks: Save
+Checks: Gunhi
+Pot size: 30
+Showdown Reached
+Shows: Chaku, Ah Jh
+Combination: Chaku, Pair ( Qh Qd Ah Jh 8s )
+Shows: Save, 5s 2d
+Combination: Save, Pair ( Qh Qd 8s 6d 5s )
+Shows: Gunhi, 9h Ts
+Combination: Gunhi, Pair ( Qh Qd Ts 9h 8s )
+Wins: Chaku, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chaku
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Raises: Chaku, chips: 20
+Folds: Save
+Folds: Gunhi
+Pot size: 45
+Boasts: Chaku, 8d 5c
+Wins: Chaku, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Gunhi, chips: 5
+Big Blind: Chaku, chips: 10
+Folds: Save
+Folds: Gunhi
+Pot size: 15
+Boasts: Chaku, Ts Qc
+Wins: Chaku, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Chaku, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Raises: Chaku, chips: 15
+Folds: Save
+Pot size: 35
+Wins: Chaku, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chaku
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Chaku
+Folds: Save
+Pot size: 15
+Boasts: Chaku, 9d Ad
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Gunhi, chips: 5
+Big Blind: Chaku, chips: 10
+Folds: Save
+Calls: Gunhi
+Raises: Chaku, chips: 10
+Calls: Gunhi
+Flop: 7h Tc 7d
+Checks: Gunhi
+Checks: Chaku
+Turn: Kc
+Checks: Gunhi
+Checks: Chaku
+River: Ts
+Checks: Gunhi
+Checks: Chaku
+Pot size: 40
+Showdown Reached
+Shows: Chaku, 2d Jd
+Combination: Chaku, Two Pair ( Tc Ts 7h 7d Kc )
+Shows: Gunhi, Ac Qd
+Combination: Gunhi, Two Pair ( Tc Ts 7h 7d Ac )
+Wins: Gunhi, chips: 40
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Chaku, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Calls: Chaku
+Checks: Save
+Flop: 3s Jh 6s
+Checks: Chaku
+Checks: Save
+Checks: Gunhi
+Turn: 8d
+Checks: Chaku
+Checks: Save
+Checks: Gunhi
+River: Td
+Raises: Chaku, chips: 10
+Folds: Save
+Folds: Gunhi
+Pot size: 40
+Boasts: Chaku, Th 8c
+Wins: Chaku, chips: 40
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chaku
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Calls: Chaku
+Folds: Save
+Checks: Gunhi
+Flop: 5h Js 3s
+Checks: Gunhi
+Checks: Chaku
+Turn: Th
+Checks: Gunhi
+Raises: Chaku, chips: 10
+Folds: Gunhi
+Pot size: 35
+Wins: Chaku, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Gunhi, chips: 5
+Big Blind: Chaku, chips: 10
+Folds: Save
+Folds: Gunhi
+Pot size: 15
+Wins: Chaku, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Chaku, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Raises: Chaku, chips: 15
+Folds: Save
+Pot size: 35
+Wins: Chaku, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chaku
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Chaku
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Gunhi, chips: 5
+Big Blind: Chaku, chips: 10
+Folds: Save
+Folds: Gunhi
+Pot size: 15
+Boasts: Chaku, Qd Ac
+Wins: Chaku, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Chaku, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Folds: Chaku
+Pot size: 15
+Boasts: Chaku, 6c Kd
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chaku
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Chaku
+Folds: Save
+Pot size: 15
+Boasts: Chaku, Jd 6h
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Gunhi, chips: 5
+Big Blind: Chaku, chips: 10
+Folds: Save
+Folds: Gunhi
+Pot size: 15
+Wins: Chaku, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Chaku, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Calls: Chaku
+Checks: Save
+Flop: 4d 6s Kd
+Checks: Chaku
+Checks: Save
+Turn: Kc
+Raises: Chaku, chips: 10
+Folds: Save
+Pot size: 30
+Boasts: Chaku, 7h 7c
+Wins: Chaku, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chaku
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Raises: Chaku, chips: 20
+Folds: Save
+Folds: Gunhi
+Pot size: 45
+Wins: Chaku, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Gunhi, chips: 5
+Big Blind: Chaku, chips: 10
+Folds: Save
+Calls: Gunhi
+Raises: Chaku, chips: 10
+Folds: Gunhi
+Pot size: 30
+Boasts: Chaku, 3h 7d
+Wins: Chaku, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Chaku, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Raises: Chaku, chips: 15
+Folds: Save
+Calls: Gunhi
+Flop: 6d Ts 4h
+Checks: Chaku
+Checks: Gunhi
+Turn: Qd
+Checks: Chaku
+Checks: Gunhi
+River: Jc
+Checks: Chaku
+Checks: Gunhi
+Pot size: 60
+Showdown Reached
+Shows: Chaku, 4s 7c
+Combination: Chaku, Pair ( 4s 4h Qd Jc Ts )
+Shows: Gunhi, Ac 3c
+Combination: Gunhi, High Card ( Ac Qd Jc Ts 6d )
+Wins: Chaku, chips: 60
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chaku
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Calls: Chaku
+Folds: Save
+Checks: Gunhi
+Flop: Kc Th 4c
+Checks: Gunhi
+Checks: Chaku
+Turn: 8c
+Checks: Gunhi
+Raises: Chaku, chips: 10
+Calls: Gunhi
+River: 5d
+Checks: Gunhi
+Checks: Chaku
+Pot size: 45
+Showdown Reached
+Shows: Chaku, Jh 9h
+Combination: Chaku, High Card ( Kc Jh Th 9h 8c )
+Shows: Gunhi, 8h 6h
+Combination: Gunhi, Pair ( 8h 8c Kc Th 6h )
+Wins: Gunhi, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Gunhi, chips: 5
+Big Blind: Chaku, chips: 10
+Folds: Save
+Folds: Gunhi
+Pot size: 15
+Boasts: Chaku, 4s 8s
+Wins: Chaku, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Chaku, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Raises: Chaku, chips: 298
+Folds: Save
+Pot size: 318
+Boasts: Chaku, 6h 4c
+Wins: Chaku, chips: 318
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chaku
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Raises: Chaku, chips: 20
+Folds: Save
+Raises: Gunhi, chips: 30
+Raises: Chaku, chips: 60
+Raises: Gunhi, chips: 80
+Folds: Chaku
+Pot size: 325
+Boasts: Chaku, Kc 7c
+Wins: Gunhi, chips: 325
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Gunhi, chips: 5
+Big Blind: Chaku, chips: 10
+Folds: Save
+Folds: Gunhi
+Pot size: 15
+Wins: Chaku, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Chaku, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Calls: Chaku
+Checks: Save
+Flop: Th 6c As
+Checks: Chaku
+Checks: Save
+Checks: Gunhi
+Turn: Kh
+Checks: Chaku
+Checks: Save
+Checks: Gunhi
+River: 3h
+Checks: Chaku
+Checks: Save
+Checks: Gunhi
+Pot size: 30
+Showdown Reached
+Shows: Chaku, 2c Kd
+Combination: Chaku, Pair ( Kd Kh As Th 6c )
+Shows: Save, 9s Qs
+Combination: Save, High Card ( As Kh Qs Th 9s )
+Shows: Gunhi, 8c 7s
+Combination: Gunhi, High Card ( As Kh Th 8c 7s )
+Wins: Chaku, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chaku
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Raises: Chaku, chips: 20
+Folds: Save
+Raises: Gunhi, chips: 30
+Calls: Chaku
+Flop: 5h Tc Qd
+Raises: Gunhi, chips: 50
+Calls: Chaku
+Turn: 7c
+Checks: Gunhi
+Checks: Chaku
+River: 4d
+Raises: Gunhi, chips: 50
+Calls: Chaku
+Pot size: 325
+Showdown Reached
+Shows: Chaku, Ts 6s
+Combination: Chaku, Pair ( Ts Tc Qd 7c 6s )
+Shows: Gunhi, Qs Kc
+Combination: Gunhi, Pair ( Qs Qd Kc Tc 7c )
+Wins: Gunhi, chips: 325
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Gunhi, chips: 5
+Big Blind: Chaku, chips: 10
+Folds: Save
+Folds: Gunhi
+Pot size: 15
+Wins: Chaku, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Chaku, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Raises: Chaku, chips: 15
+Folds: Save
+Pot size: 35
+Wins: Chaku, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chaku
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Raises: Chaku, chips: 20
+Folds: Save
+Folds: Gunhi
+Pot size: 45
+Boasts: Chaku, Tc 7c
+Wins: Chaku, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Gunhi, chips: 5
+Big Blind: Chaku, chips: 10
+Folds: Save
+Calls: Gunhi
+Raises: Chaku, chips: 10
+Folds: Gunhi
+Pot size: 30
+Wins: Chaku, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Chaku, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Calls: Chaku
+Checks: Save
+Flop: Ts Td 3c
+Raises: Chaku, chips: 10
+Folds: Save
+Pot size: 30
+Wins: Chaku, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chaku
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Chaku
+Folds: Save
+Pot size: 15
+Boasts: Chaku, Jh 8d
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Gunhi, chips: 5
+Big Blind: Chaku, chips: 10
+Folds: Save
+Calls: Gunhi
+Raises: Chaku, chips: 10
+Raises: Gunhi, chips: 20
+Raises: Chaku, chips: 40
+Calls: Gunhi
+Flop: 3c 7h 6c
+Raises: Gunhi, chips: 40
+Calls: Chaku
+Turn: 3s
+River: Ks
+Pot size: 233
+Showdown Reached
+Shows: Chaku, 9d 2s
+Combination: Chaku, Pair ( 3c 3s Ks 9d 7h )
+Shows: Gunhi, Kc Jc
+Combination: Gunhi, Two Pair ( Kc Ks 3c 3s Jc )
+Wins: Gunhi, chips: 233
+Quits: Chaku, chips: 0
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Checks: Save
+Flop: 2d As Ac
+Checks: Save
+Raises: Gunhi, chips: 10
+Folds: Save
+Pot size: 30
+Wins: Gunhi, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Checks: Save
+Flop: Kc 5c 5s
+Checks: Save
+Raises: Gunhi, chips: 10
+Folds: Save
+Pot size: 30
+Wins: Gunhi, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Checks: Save
+Flop: Td 5h 8d
+Checks: Save
+Checks: Gunhi
+Turn: 6h
+Checks: Save
+Checks: Gunhi
+River: 6c
+Checks: Save
+Raises: Gunhi, chips: 10
+Folds: Save
+Pot size: 30
+Wins: Gunhi, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Checks: Save
+Flop: Tc Jh 8h
+Checks: Save
+Raises: Gunhi, chips: 10
+Folds: Save
+Pot size: 30
+Wins: Gunhi, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Raises: Gunhi, chips: 15
+Folds: Save
+Pot size: 35
+Wins: Gunhi, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Checks: Save
+Flop: 5d Jd Ts
+Checks: Save
+Raises: Gunhi, chips: 10
+Folds: Save
+Pot size: 30
+Wins: Gunhi, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Checks: Save
+Flop: Kc Ks Kh
+Checks: Save
+Checks: Gunhi
+Turn: 2h
+Checks: Save
+Checks: Gunhi
+River: 7c
+Checks: Save
+Checks: Gunhi
+Pot size: 20
+Showdown Reached
+Shows: Save, 6d 3s
+Combination: Save, Three Of A Kind ( Kc Ks Kh 7c 6d )
+Shows: Gunhi, Th 9c
+Combination: Gunhi, Three Of A Kind ( Kc Ks Kh Th 9c )
+Wins: Gunhi, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Checks: Save
+Flop: Qh Ah Kd
+Checks: Save
+Checks: Gunhi
+Turn: 3h
+Checks: Save
+Checks: Gunhi
+River: 4d
+Checks: Save
+Checks: Gunhi
+Pot size: 20
+Showdown Reached
+Shows: Save, 3s 9h
+Combination: Save, Pair ( 3s 3h Ah Kd Qh )
+Shows: Gunhi, 9c 7c
+Combination: Gunhi, High Card ( Ah Kd Qh 9c 7c )
+Wins: Save, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Checks: Save
+Flop: Qc 5s 2h
+Checks: Save
+Checks: Gunhi
+Turn: 2s
+Checks: Save
+Checks: Gunhi
+River: Ks
+Checks: Save
+Checks: Gunhi
+Pot size: 20
+Showdown Reached
+Shows: Save, Td Qd
+Combination: Save, Two Pair ( Qd Qc 2h 2s Ks )
+Shows: Gunhi, Kd Jc
+Combination: Gunhi, Two Pair ( Kd Ks 2h 2s Qc )
+Wins: Gunhi, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Checks: Save
+Flop: Kc 9s 4c
+Checks: Save
+Checks: Gunhi
+Turn: Ac
+Checks: Save
+Checks: Gunhi
+River: 4s
+Checks: Save
+Checks: Gunhi
+Pot size: 20
+Showdown Reached
+Shows: Save, Ts 3s
+Combination: Save, Pair ( 4c 4s Ac Kc Ts )
+Shows: Gunhi, Td 8h
+Combination: Gunhi, Pair ( 4c 4s Ac Kc Td )
+Wins: Save, chips: 10
+Wins: Gunhi, chips: 10
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Raises: Gunhi, chips: 15
+Folds: Save
+Pot size: 35
+Wins: Gunhi, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Checks: Save
+Flop: Th 6h 9h
+Checks: Save
+Checks: Gunhi
+Turn: 5c
+Checks: Save
+Checks: Gunhi
+River: 4c
+Checks: Save
+Checks: Gunhi
+Pot size: 20
+Showdown Reached
+Shows: Save, 8c 2h
+Combination: Save, High Card ( Th 9h 8c 6h 5c )
+Shows: Gunhi, Kh Qs
+Combination: Gunhi, High Card ( Kh Qs Th 9h 6h )
+Wins: Gunhi, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Checks: Save
+Flop: 7c Kc Ts
+Checks: Save
+Checks: Gunhi
+Turn: 5d
+Checks: Save
+Raises: Gunhi, chips: 10
+Folds: Save
+Pot size: 30
+Wins: Gunhi, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Checks: Save
+Flop: 4h 3s Jd
+Checks: Save
+Checks: Gunhi
+Turn: 7d
+Checks: Save
+Checks: Gunhi
+River: 6s
+Checks: Save
+Raises: Gunhi, chips: 10
+Folds: Save
+Pot size: 30
+Wins: Gunhi, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Checks: Save
+Flop: 4h As 7d
+Checks: Save
+Checks: Gunhi
+Turn: 3c
+Checks: Save
+Checks: Gunhi
+River: 5s
+Checks: Save
+Checks: Gunhi
+Pot size: 20
+Showdown Reached
+Shows: Save, 8s 3d
+Combination: Save, Pair ( 3d 3c As 8s 7d )
+Shows: Gunhi, Kd Js
+Combination: Gunhi, High Card ( As Kd Js 7d 5s )
+Wins: Save, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Checks: Save
+Flop: 7h Jd 7d
+Checks: Save
+Checks: Gunhi
+Turn: Kh
+Checks: Save
+Checks: Gunhi
+River: 8c
+Checks: Save
+Checks: Gunhi
+Pot size: 20
+Showdown Reached
+Shows: Save, 5d 4h
+Combination: Save, Pair ( 7h 7d Kh Jd 8c )
+Shows: Gunhi, Qc Jh
+Combination: Gunhi, Two Pair ( Jh Jd 7h 7d Kh )
+Wins: Gunhi, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Checks: Save
+Flop: 8h Qc 3d
+Checks: Save
+Checks: Gunhi
+Turn: 2h
+Checks: Save
+Raises: Gunhi, chips: 10
+Folds: Save
+Pot size: 30
+Wins: Gunhi, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Checks: Save
+Flop: 3d 2c 8c
+Checks: Save
+Checks: Gunhi
+Turn: Kc
+Checks: Save
+Checks: Gunhi
+River: 5c
+Checks: Save
+Checks: Gunhi
+Pot size: 20
+Showdown Reached
+Shows: Save, 2s Qd
+Combination: Save, Pair ( 2s 2c Kc Qd 8c )
+Shows: Gunhi, Th 9s
+Combination: Gunhi, High Card ( Kc Th 9s 8c 5c )
+Wins: Save, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Raises: Gunhi, chips: 6495
+Folds: Save
+Pot size: 6515
+Wins: Gunhi, chips: 6515
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Checks: Save
+Flop: 7s 4h 6h
+Checks: Save
+Checks: Gunhi
+Turn: Qs
+Checks: Save
+Checks: Gunhi
+River: 9c
+Checks: Save
+Checks: Gunhi
+Pot size: 20
+Showdown Reached
+Shows: Save, Js Ad
+Combination: Save, High Card ( Ad Qs Js 9c 7s )
+Shows: Gunhi, 8c 7d
+Combination: Gunhi, Pair ( 7d 7s Qs 9c 8c )
+Wins: Gunhi, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Checks: Save
+Flop: Ad 5s Ac
+Checks: Save
+Checks: Gunhi
+Turn: As
+Checks: Save
+Checks: Gunhi
+River: 5c
+Checks: Save
+Checks: Gunhi
+Pot size: 20
+Showdown Reached
+Shows: Save, Tc 4s
+Combination: Save, Full House ( Ad Ac As 5s 5c )
+Shows: Gunhi, 9c 8h
+Combination: Gunhi, Full House ( Ad Ac As 5s 5c )
+Wins: Save, chips: 10
+Wins: Gunhi, chips: 10
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Checks: Save
+Flop: As 3d 7h
+Checks: Save
+Checks: Gunhi
+Turn: 3s
+Checks: Save
+Checks: Gunhi
+River: Kd
+Checks: Save
+Checks: Gunhi
+Pot size: 20
+Showdown Reached
+Shows: Save, 2d 2h
+Combination: Save, Two Pair ( 3d 3s 2d 2h As )
+Shows: Gunhi, 5c 6c
+Combination: Gunhi, Pair ( 3d 3s As Kd 7h )
+Wins: Save, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Checks: Save
+Flop: 5d Kd 5h
+Checks: Save
+Raises: Gunhi, chips: 10
+Folds: Save
+Pot size: 30
+Wins: Gunhi, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Checks: Save
+Flop: Ks 4h 5h
+Checks: Save
+Checks: Gunhi
+Turn: 2c
+Checks: Save
+Checks: Gunhi
+River: 8c
+Checks: Save
+Checks: Gunhi
+Pot size: 20
+Showdown Reached
+Shows: Save, 8s 9s
+Combination: Save, Pair ( 8s 8c Ks 9s 5h )
+Shows: Gunhi, Ac 7c
+Combination: Gunhi, High Card ( Ac Ks 8c 7c 5h )
+Wins: Save, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Raises: Gunhi, chips: 15
+Folds: Save
+Pot size: 35
+Wins: Gunhi, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Raises: Gunhi, chips: 15
+Folds: Save
+Pot size: 35
+Wins: Gunhi, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Checks: Save
+Flop: Ac Qs 8c
+Checks: Save
+Checks: Gunhi
+Turn: Jd
+Checks: Save
+Checks: Gunhi
+River: Ah
+Checks: Save
+Checks: Gunhi
+Pot size: 20
+Showdown Reached
+Shows: Save, 9s Ks
+Combination: Save, Pair ( Ac Ah Ks Qs Jd )
+Shows: Gunhi, 5d 4c
+Combination: Gunhi, Pair ( Ac Ah Qs Jd 8c )
+Wins: Save, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Checks: Save
+Flop: 5h 4h 8h
+Checks: Save
+Checks: Gunhi
+Turn: 2d
+Checks: Save
+Checks: Gunhi
+River: Ah
+Checks: Save
+Raises: Gunhi, chips: 10
+Folds: Save
+Pot size: 30
+Wins: Gunhi, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Checks: Save
+Flop: 7d 8c 8d
+Checks: Save
+Checks: Gunhi
+Turn: Ac
+Checks: Save
+Checks: Gunhi
+River: Qh
+Checks: Save
+Checks: Gunhi
+Pot size: 20
+Showdown Reached
+Shows: Save, 5s Jc
+Combination: Save, Pair ( 8c 8d Ac Qh Jc )
+Shows: Gunhi, 3d 5d
+Combination: Gunhi, Pair ( 8c 8d Ac Qh 7d )
+Wins: Save, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Checks: Save
+Flop: Ah Js 7s
+Checks: Save
+Checks: Gunhi
+Turn: 9d
+Checks: Save
+Raises: Gunhi, chips: 10
+Folds: Save
+Pot size: 30
+Wins: Gunhi, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Checks: Save
+Flop: 3h 9d 9s
+Checks: Save
+Checks: Gunhi
+Turn: 4c
+Checks: Save
+Checks: Gunhi
+River: 6c
+Checks: Save
+Checks: Gunhi
+Pot size: 20
+Showdown Reached
+Shows: Save, Jc 7s
+Combination: Save, Pair ( 9d 9s Jc 7s 6c )
+Shows: Gunhi, Qs Jh
+Combination: Gunhi, Pair ( 9d 9s Qs Jh 6c )
+Wins: Gunhi, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Checks: Save
+Flop: 6c 8c Ts
+Checks: Save
+Checks: Gunhi
+Turn: 5c
+Checks: Save
+Raises: Gunhi, chips: 10
+Folds: Save
+Pot size: 30
+Wins: Gunhi, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Checks: Save
+Flop: 5s Td 4h
+Checks: Save
+Checks: Gunhi
+Turn: 3c
+Checks: Save
+Checks: Gunhi
+River: Ks
+Checks: Save
+Checks: Gunhi
+Pot size: 20
+Showdown Reached
+Shows: Save, Tc 3h
+Combination: Save, Two Pair ( Tc Td 3h 3c Ks )
+Shows: Gunhi, 6h Ah
+Combination: Gunhi, High Card ( Ah Ks Td 6h 5s )
+Wins: Save, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Checks: Save
+Flop: 3c 9s 6s
+Checks: Save
+Checks: Gunhi
+Turn: Ts
+Checks: Save
+Checks: Gunhi
+River: 5d
+Checks: Save
+Checks: Gunhi
+Pot size: 20
+Showdown Reached
+Shows: Save, 4s 4c
+Combination: Save, Pair ( 4s 4c Ts 9s 6s )
+Shows: Gunhi, 5c 4d
+Combination: Gunhi, Pair ( 5c 5d Ts 9s 6s )
+Wins: Gunhi, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Checks: Save
+Flop: 9h 4h 9s
+Checks: Save
+Checks: Gunhi
+Turn: Th
+Checks: Save
+Raises: Gunhi, chips: 10
+Folds: Save
+Pot size: 30
+Wins: Gunhi, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Checks: Save
+Flop: 4s 6d 7c
+Checks: Save
+Checks: Gunhi
+Turn: Ah
+Checks: Save
+Checks: Gunhi
+River: 5c
+Checks: Save
+Raises: Gunhi, chips: 10
+Folds: Save
+Pot size: 30
+Wins: Gunhi, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Checks: Save
+Flop: 5d 3d Ac
+Checks: Save
+Checks: Gunhi
+Turn: 2s
+Checks: Save
+Checks: Gunhi
+River: 9s
+Checks: Save
+Checks: Gunhi
+Pot size: 20
+Showdown Reached
+Shows: Save, 6s Tc
+Combination: Save, High Card ( Ac Tc 9s 6s 5d )
+Shows: Gunhi, 9c 7c
+Combination: Gunhi, Pair ( 9c 9s Ac 7c 5d )
+Wins: Gunhi, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Checks: Save
+Flop: 4c 9c Js
+Checks: Save
+Checks: Gunhi
+Turn: 2d
+Checks: Save
+Raises: Gunhi, chips: 10
+Folds: Save
+Pot size: 30
+Wins: Gunhi, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Checks: Save
+Flop: 3c 8d Td
+Checks: Save
+Checks: Gunhi
+Turn: Jh
+Checks: Save
+Raises: Gunhi, chips: 10
+Folds: Save
+Pot size: 30
+Wins: Gunhi, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Raises: Gunhi, chips: 15
+Folds: Save
+Pot size: 35
+Wins: Gunhi, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Checks: Save
+Flop: 3c 7h Qh
+Checks: Save
+Checks: Gunhi
+Turn: 3h
+Checks: Save
+Checks: Gunhi
+River: 6c
+Checks: Save
+Checks: Gunhi
+Pot size: 20
+Showdown Reached
+Shows: Save, 4h Qc
+Combination: Save, Two Pair ( Qc Qh 3c 3h 7h )
+Shows: Gunhi, Td 8s
+Combination: Gunhi, Pair ( 3c 3h Qh Td 8s )
+Wins: Save, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Checks: Save
+Flop: Qh 6s Qc
+Checks: Save
+Checks: Gunhi
+Turn: 7d
+Checks: Save
+Checks: Gunhi
+River: 8s
+Checks: Save
+Checks: Gunhi
+Pot size: 20
+Showdown Reached
+Shows: Save, 2c Ts
+Combination: Save, Pair ( Qh Qc Ts 8s 7d )
+Shows: Gunhi, 7h 9h
+Combination: Gunhi, Two Pair ( Qh Qc 7h 7d 9h )
+Wins: Gunhi, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Checks: Save
+Flop: 6s 8h Qc
+Checks: Save
+Raises: Gunhi, chips: 10
+Folds: Save
+Pot size: 30
+Wins: Gunhi, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Checks: Save
+Flop: Qh 7h 9s
+Checks: Save
+Checks: Gunhi
+Turn: Kh
+Checks: Save
+Checks: Gunhi
+River: Ad
+Checks: Save
+Checks: Gunhi
+Pot size: 20
+Showdown Reached
+Shows: Save, 2s Jc
+Combination: Save, High Card ( Ad Kh Qh Jc 9s )
+Shows: Gunhi, 5d Kd
+Combination: Gunhi, Pair ( Kd Kh Ad Qh 9s )
+Wins: Gunhi, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Checks: Save
+Flop: 3s 6d Kh
+Checks: Save
+Checks: Gunhi
+Turn: Qc
+Checks: Save
+Raises: Gunhi, chips: 10
+Folds: Save
+Pot size: 30
+Wins: Gunhi, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Checks: Save
+Flop: 2s 2h 3s
+Checks: Save
+Checks: Gunhi
+Turn: Js
+Checks: Save
+Checks: Gunhi
+River: Qs
+Checks: Save
+Checks: Gunhi
+Pot size: 20
+Showdown Reached
+Shows: Save, 4h 5c
+Combination: Save, Pair ( 2s 2h Qs Js 5c )
+Shows: Gunhi, 8c 7h
+Combination: Gunhi, Pair ( 2s 2h Qs Js 8c )
+Wins: Gunhi, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Checks: Save
+Flop: 5h 8c 9h
+Checks: Save
+Checks: Gunhi
+Turn: Qh
+Checks: Save
+Checks: Gunhi
+River: 7c
+Checks: Save
+Raises: Gunhi, chips: 10
+Folds: Save
+Pot size: 30
+Wins: Gunhi, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Raises: Gunhi, chips: 6800
+Folds: Save
+Pot size: 6820
+Wins: Gunhi, chips: 6820
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Checks: Save
+Flop: 9h 8s Ks
+Checks: Save
+Checks: Gunhi
+Turn: Qs
+Checks: Save
+Raises: Gunhi, chips: 10
+Folds: Save
+Pot size: 30
+Wins: Gunhi, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Checks: Save
+Flop: Qc Td 7s
+Checks: Save
+Checks: Gunhi
+Turn: Ts
+Checks: Save
+Checks: Gunhi
+River: Th
+Checks: Save
+Checks: Gunhi
+Pot size: 20
+Showdown Reached
+Shows: Save, 9h 8c
+Combination: Save, Three Of A Kind ( Td Ts Th Qc 9h )
+Shows: Gunhi, Ad 9d
+Combination: Gunhi, Three Of A Kind ( Td Ts Th Ad Qc )
+Wins: Gunhi, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Checks: Save
+Flop: 5d 9s Kd
+Checks: Save
+Checks: Gunhi
+Turn: 7d
+Checks: Save
+Raises: Gunhi, chips: 10
+Folds: Save
+Pot size: 30
+Wins: Gunhi, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Checks: Save
+Flop: Ad 4s 9d
+Checks: Save
+Raises: Gunhi, chips: 10
+Folds: Save
+Pot size: 30
+Wins: Gunhi, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Checks: Save
+Flop: 9s Ah 3d
+Checks: Save
+Checks: Gunhi
+Turn: Jc
+Checks: Save
+Checks: Gunhi
+River: 3h
+Checks: Save
+Checks: Gunhi
+Pot size: 20
+Showdown Reached
+Shows: Save, Ad 5d
+Combination: Save, Two Pair ( Ad Ah 3d 3h Jc )
+Shows: Gunhi, Tc 8h
+Combination: Gunhi, Pair ( 3d 3h Ah Jc Tc )
+Wins: Save, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Raises: Gunhi, chips: 6870
+Folds: Save
+Pot size: 6890
+Wins: Gunhi, chips: 6890
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Checks: Save
+Flop: 9s 7d Qd
+Checks: Save
+Checks: Gunhi
+Turn: 2c
+Checks: Save
+Checks: Gunhi
+River: 6d
+Checks: Save
+Checks: Gunhi
+Pot size: 20
+Showdown Reached
+Shows: Save, 7c Tc
+Combination: Save, Pair ( 7c 7d Qd Tc 9s )
+Shows: Gunhi, Kh 8h
+Combination: Gunhi, High Card ( Kh Qd 9s 8h 7d )
+Wins: Save, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Raises: Gunhi, chips: 15
+Folds: Save
+Pot size: 35
+Wins: Gunhi, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Raises: Gunhi, chips: 15
+Folds: Save
+Pot size: 35
+Wins: Gunhi, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Checks: Save
+Flop: 9h Qc 3h
+Checks: Save
+Raises: Gunhi, chips: 6910
+Folds: Save
+Pot size: 6930
+Wins: Gunhi, chips: 6930
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Checks: Save
+Flop: Kc 5s 3h
+Checks: Save
+Checks: Gunhi
+Turn: 8s
+Checks: Save
+Checks: Gunhi
+River: Jd
+Checks: Save
+Checks: Gunhi
+Pot size: 20
+Showdown Reached
+Shows: Save, 8c 7s
+Combination: Save, Pair ( 8c 8s Kc Jd 7s )
+Shows: Gunhi, 8d Ts
+Combination: Gunhi, Pair ( 8d 8s Kc Jd Ts )
+Wins: Gunhi, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Checks: Save
+Flop: 3d Ah 5d
+Checks: Save
+Checks: Gunhi
+Turn: 5c
+Checks: Save
+Raises: Gunhi, chips: 10
+Folds: Save
+Pot size: 30
+Wins: Gunhi, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Checks: Save
+Flop: Ks Qh Ad
+Checks: Save
+Checks: Gunhi
+Turn: Qc
+Checks: Save
+Checks: Gunhi
+River: 5s
+Checks: Save
+Raises: Gunhi, chips: 6955
+Folds: Save
+Pot size: 6975
+Wins: Gunhi, chips: 6975
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Checks: Save
+Flop: Ks Kh 2d
+Checks: Save
+Checks: Gunhi
+Turn: 2c
+Checks: Save
+Checks: Gunhi
+River: 9h
+Checks: Save
+Checks: Gunhi
+Pot size: 20
+Showdown Reached
+Shows: Save, 3d 4c
+Combination: Save, Two Pair ( Ks Kh 2d 2c 9h )
+Shows: Gunhi, 8c Tc
+Combination: Gunhi, Two Pair ( Ks Kh 2d 2c Tc )
+Wins: Gunhi, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 5
+Flop: 9h Jd Tc
+Turn: 7c
+River: 2c
+Pot size: 10
+Showdown Reached
+Shows: Save, Kh 5d
+Combination: Save, High Card ( Kh Jd Tc 9h 7c )
+Shows: Gunhi, 5s Jh
+Combination: Gunhi, Pair ( Jh Jd Tc 9h 7c )
+Wins: Gunhi, chips: 10
+Quits: Save, chips: 0
+Ranking: Gunhi, Place: 1, Score: 6000
+Reveal AI: Gunhi, AI: Smart
+Ranking: Save, Place: 2, Score: -1000
+Reveal AI: Save, AI: AIMyBot1
+Ranking: Chaku, Place: 3, Score: -1000
+Reveal AI: Chaku, AI: Random
+Ranking: Balo, Place: 4, Score: -1000
+Reveal AI: Balo, AI: Smart
+Ranking: Keesuk, Place: 5, Score: -1000
+Reveal AI: Keesuk, AI: Random
+Ranking: Roe, Place: 6, Score: -1000
+Reveal AI: Roe, AI: Call
+Ranking: Pise, Place: 7, Score: -1000
+Reveal AI: Pise, AI: Call
+
+Player Stats for Balo, AI: Smart
+General: deals: 56, actions: 98, preflop actions: 60
+Rounds Seen: flops: 79, turns: 67, rivers: 53, showdowns: 46
+Wins: total: 10, showdown: 4, bluff: 6
+Chips: won: 990, lost: 1990, bought: 1000, forced bets: 195
+Pre-Flop Stats: VP$IP: 0.214286, PFR: 0.107143, 3Bet: 0.0535714
+Post-Flop Stats: AF: 1.6, WSD: 0.582278, WSDW: 0.0869565
+
+
+Player Stats for Chaku, AI: Random
+General: deals: 91, actions: 207, preflop actions: 94
+Rounds Seen: flops: 96, turns: 82, rivers: 64, showdowns: 56
+Wins: total: 44, showdown: 10, bluff: 34
+Chips: won: 5176, lost: 9083, bought: 1000, forced bets: 355
+Pre-Flop Stats: VP$IP: 0.582418, PFR: 0.263736, 3Bet: 0.208791
+Post-Flop Stats: AF: 2.5, WSD: 0.583333, WSDW: 0.178571
+
+
+Player Stats for Gunhi, AI: Smart
+General: deals: 380, actions: 468, preflop actions: 247
+Rounds Seen: flops: 86, turns: 71, rivers: 56, showdowns: 48
+Wins: total: 218, showdown: 30, bluff: 188
+Chips: won: 53965, lost: 47965, bought: 1000, forced bets: 2530
+Pre-Flop Stats: VP$IP: 0.25, PFR: 0.0447368, 3Bet: 0.0421053
+Post-Flop Stats: AF: 3.54545, WSD: 0.55814, WSDW: 0.625
+
+
+Player Stats for Keesuk, AI: Random
+General: deals: 24, actions: 66, preflop actions: 26
+Rounds Seen: flops: 99, turns: 84, rivers: 66, showdowns: 58
+Wins: total: 10, showdown: 7, bluff: 3
+Chips: won: 935, lost: 3675, bought: 1000, forced bets: 70
+Pre-Flop Stats: VP$IP: 0.583333, PFR: 0.375, 3Bet: 0.333333
+Post-Flop Stats: AF: 2, WSD: 0.585859, WSDW: 0.12069
+
+
+Player Stats for Pise, AI: Call
+General: deals: 8, actions: 42, preflop actions: 10
+Rounds Seen: flops: 103, turns: 90, rivers: 72, showdowns: 64
+Wins: total: 1, showdown: 1, bluff: 0
+Chips: won: 290, lost: 1300, bought: 1000, forced bets: 15
+Pre-Flop Stats: VP$IP: 1, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: 0, WSD: 0.621359, WSDW: 0.015625
+
+
+Player Stats for Roe, AI: Call
+General: deals: 10, actions: 42, preflop actions: 13
+Rounds Seen: flops: 103, turns: 90, rivers: 72, showdowns: 64
+Wins: total: 3, showdown: 3, bluff: 0
+Chips: won: 340, lost: 1345, bought: 1000, forced bets: 15
+Pre-Flop Stats: VP$IP: 1, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: 0, WSD: 0.621359, WSDW: 0.046875
+
+
+Player Stats for Save, AI: AIMyBot1
+General: deals: 380, actions: 471, preflop actions: 294
+Rounds Seen: flops: 63, turns: 53, rivers: 39, showdowns: 32
+Wins: total: 98, showdown: 13, bluff: 85
+Chips: won: 1515, lost: 2515, bought: 1000, forced bets: 2515
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 0.507937, WSDW: 0.40625
+
+
+Date: 2026/04/30 12:55:34
+
+The game begins. The AI's of the players are: 
+Pise: Call
+Chaku: Random
+Roe: Call
+Save: AIMyBot1
+Gunhi: Smart
+Balo: Smart
+Keesuk: Random
+
+Joins: Pise, chips: 1000
+Joins: Chaku, chips: 1000
+Joins: Roe, chips: 1000
+Joins: Save, chips: 1000
+Joins: Gunhi, chips: 1000
+Joins: Balo, chips: 1000
+Joins: Keesuk, chips: 1000
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Gunhi, chips: 5
+Big Blind: Balo, chips: 10
+Folds: Keesuk
+Calls: Pise
+Calls: Chaku
+Calls: Roe
+Folds: Save
+Calls: Gunhi
+Checks: Balo
+Flop: 9h 7d 6d
+Checks: Gunhi
+Checks: Balo
+Checks: Pise
+Raises: Chaku, chips: 10
+Calls: Roe
+Folds: Gunhi
+Folds: Balo
+Calls: Pise
+Turn: 4d
+Checks: Pise
+Checks: Chaku
+Checks: Roe
+River: Ks
+Checks: Pise
+Raises: Chaku, chips: 10
+Calls: Roe
+Calls: Pise
+Pot size: 110
+Showdown Reached
+Shows: Pise, 9s 6c
+Combination: Pise, Two Pair ( 9s 9h 6c 6d Ks )
+Shows: Chaku, 4s Jh
+Combination: Chaku, Pair ( 4s 4d Ks Jh 9h )
+Shows: Roe, 5c 8s
+Combination: Roe, Straight ( 9h 8s 7d 6d 5c )
+Wins: Roe, chips: 110
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Balo, chips: 5
+Big Blind: Keesuk, chips: 10
+Calls: Pise
+Calls: Chaku
+Calls: Roe
+Folds: Save
+Calls: Gunhi
+Folds: Balo
+Raises: Keesuk, chips: 10
+Calls: Pise
+Calls: Chaku
+Calls: Roe
+Calls: Gunhi
+Flop: 9s 7h Kc
+Raises: Keesuk, chips: 10
+Calls: Pise
+Calls: Chaku
+Calls: Roe
+Calls: Gunhi
+Turn: Ac
+Checks: Keesuk
+Checks: Pise
+Checks: Chaku
+Checks: Roe
+Checks: Gunhi
+River: 2c
+Checks: Keesuk
+Checks: Pise
+Checks: Chaku
+Checks: Roe
+Checks: Gunhi
+Pot size: 155
+Showdown Reached
+Shows: Pise, 8s 4h
+Combination: Pise, High Card ( Ac Kc 9s 8s 7h )
+Shows: Chaku, 4d 9h
+Combination: Chaku, Pair ( 9h 9s Ac Kc 7h )
+Shows: Roe, Td Jc
+Combination: Roe, High Card ( Ac Kc Jc Td 9s )
+Shows: Gunhi, Ks Jd
+Combination: Gunhi, Pair ( Ks Kc Ac Jd 9s )
+Shows: Keesuk, 6d As
+Combination: Keesuk, Pair ( As Ac Kc 9s 7h )
+Wins: Keesuk, chips: 155
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Balo
+Small Blind: Keesuk, chips: 5
+Big Blind: Pise, chips: 10
+Raises: Chaku, chips: 20
+Calls: Roe
+Folds: Save
+Folds: Gunhi
+Folds: Balo
+Calls: Keesuk
+Calls: Pise
+Flop: 6s 5d 2d
+Checks: Keesuk
+Checks: Pise
+Raises: Chaku, chips: 20
+Calls: Roe
+Calls: Keesuk
+Calls: Pise
+Turn: Qd
+Checks: Keesuk
+Checks: Pise
+Checks: Chaku
+Checks: Roe
+River: 5h
+Checks: Keesuk
+Checks: Pise
+Checks: Chaku
+Checks: Roe
+Pot size: 200
+Showdown Reached
+Shows: Pise, Qs 2h
+Combination: Pise, Two Pair ( Qs Qd 5d 5h 6s )
+Shows: Chaku, 4h Ac
+Combination: Chaku, Pair ( 5d 5h Ac Qd 6s )
+Shows: Roe, 5c As
+Combination: Roe, Three Of A Kind ( 5c 5d 5h As Qd )
+Shows: Keesuk, Tc 6d
+Combination: Keesuk, Two Pair ( 6d 6s 5d 5h Qd )
+Wins: Roe, chips: 200
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Keesuk
+Small Blind: Pise, chips: 5
+Big Blind: Chaku, chips: 10
+Calls: Roe
+Folds: Save
+Calls: Gunhi
+Folds: Balo
+Calls: Keesuk
+Calls: Pise
+Checks: Chaku
+Flop: 3h Kh 8h
+Checks: Pise
+Checks: Chaku
+Checks: Roe
+Checks: Gunhi
+Raises: Keesuk, chips: 10
+Calls: Pise
+Folds: Chaku
+Calls: Roe
+Calls: Gunhi
+Turn: 2d
+Checks: Pise
+Checks: Roe
+Checks: Gunhi
+Checks: Keesuk
+River: 7c
+Checks: Pise
+Checks: Roe
+Checks: Gunhi
+Raises: Keesuk, chips: 10
+Calls: Pise
+Calls: Roe
+Calls: Gunhi
+Pot size: 130
+Showdown Reached
+Shows: Pise, Tc 2c
+Combination: Pise, Pair ( 2c 2d Kh Tc 8h )
+Shows: Roe, Th 8c
+Combination: Roe, Pair ( 8c 8h Kh Th 7c )
+Shows: Gunhi, Ks Jc
+Combination: Gunhi, Pair ( Ks Kh Jc 8h 7c )
+Shows: Keesuk, 3d Ts
+Combination: Keesuk, Pair ( 3d 3h Kh Ts 8h )
+Wins: Gunhi, chips: 130
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Pise
+Small Blind: Chaku, chips: 5
+Big Blind: Roe, chips: 10
+Folds: Save
+Calls: Gunhi
+Folds: Balo
+Raises: Keesuk, chips: 20
+Calls: Pise
+Calls: Chaku
+Calls: Roe
+Folds: Gunhi
+Flop: 7d Tc 8h
+Raises: Chaku, chips: 20
+Calls: Roe
+Calls: Keesuk
+Calls: Pise
+Turn: 2d
+Raises: Chaku, chips: 20
+Calls: Roe
+Calls: Keesuk
+Calls: Pise
+River: Ah
+Checks: Chaku
+Checks: Roe
+Checks: Keesuk
+Checks: Pise
+Pot size: 290
+Showdown Reached
+Shows: Pise, 9s 6c
+Combination: Pise, Straight ( Tc 9s 8h 7d 6c )
+Shows: Chaku, 5c 2c
+Combination: Chaku, Pair ( 2c 2d Ah Tc 8h )
+Shows: Roe, 5h 7s
+Combination: Roe, Pair ( 7s 7d Ah Tc 8h )
+Shows: Keesuk, Jc Jh
+Combination: Keesuk, Pair ( Jc Jh Ah Tc 8h )
+Wins: Pise, chips: 290
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chaku
+Small Blind: Roe, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Folds: Balo
+Folds: Keesuk
+Calls: Pise
+Folds: Chaku
+Calls: Roe
+Checks: Save
+Flop: 6d 8h 3d
+Checks: Roe
+Checks: Save
+Checks: Pise
+Turn: Jh
+Checks: Roe
+Checks: Save
+Checks: Pise
+River: 7c
+Checks: Roe
+Checks: Save
+Checks: Pise
+Pot size: 30
+Showdown Reached
+Shows: Pise, Ad Qc
+Combination: Pise, High Card ( Ad Qc Jh 8h 7c )
+Boasts: Chaku, Kd 6c
+Shows: Roe, 4c 5h
+Combination: Roe, Straight ( 8h 7c 6d 5h 4c )
+Shows: Save, 7d 8c
+Combination: Save, Two Pair ( 8c 8h 7d 7c Jh )
+Wins: Roe, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Roe
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Balo
+Calls: Keesuk
+Calls: Pise
+Calls: Chaku
+Calls: Roe
+Folds: Save
+Raises: Gunhi, chips: 10
+Calls: Keesuk
+Calls: Pise
+Calls: Chaku
+Calls: Roe
+Flop: Ts Qh 6s
+Checks: Gunhi
+Checks: Keesuk
+Checks: Pise
+Raises: Chaku, chips: 10
+Calls: Roe
+Folds: Gunhi
+Folds: Keesuk
+Calls: Pise
+Turn: Qd
+Checks: Pise
+Raises: Chaku, chips: 10
+Calls: Roe
+Calls: Pise
+River: 6d
+Checks: Pise
+Raises: Chaku, chips: 10
+Calls: Roe
+Calls: Pise
+Pot size: 195
+Showdown Reached
+Shows: Pise, 9d 2d
+Combination: Pise, Two Pair ( Qh Qd 6s 6d Ts )
+Shows: Chaku, Ah 4h
+Combination: Chaku, Two Pair ( Qh Qd 6s 6d Ah )
+Shows: Roe, 7c 9s
+Combination: Roe, Two Pair ( Qh Qd 6s 6d Ts )
+Wins: Chaku, chips: 195
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Gunhi, chips: 5
+Big Blind: Balo, chips: 10
+Calls: Keesuk
+Calls: Pise
+Folds: Chaku
+Calls: Roe
+Folds: Save
+Calls: Gunhi
+Checks: Balo
+Flop: 9s Ks 7h
+Raises: Gunhi, chips: 10
+Folds: Balo
+Raises: Keesuk, chips: 20
+Calls: Pise
+Calls: Roe
+Raises: Gunhi, chips: 50
+Folds: Keesuk
+Calls: Pise
+Calls: Roe
+Turn: 6s
+Raises: Gunhi, chips: 940
+Calls: Pise
+Calls: Roe
+River: Ad
+Pot size: 3130
+Showdown Reached
+Shows: Pise, Th 8s
+Combination: Pise, Straight ( Th 9s 8s 7h 6s )
+Boasts: Chaku, 9h Jc
+Shows: Roe, 2h 3s
+Combination: Roe, High Card ( Ad Ks 9s 7h 6s )
+Shows: Gunhi, 7s Js
+Combination: Gunhi, Flush ( Ks Js 9s 7s 6s )
+Wins: Gunhi, chips: 3130
+Quits: Pise, chips: 0
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Balo, chips: 5
+Big Blind: Keesuk, chips: 10
+Folds: Chaku
+Calls: Roe
+Folds: Save
+Folds: Gunhi
+Folds: Balo
+Checks: Keesuk
+Flop: Qd 9h 5d
+Checks: Keesuk
+Checks: Roe
+Turn: 7s
+Raises: Keesuk, chips: 10
+Calls: Roe
+River: 2h
+Checks: Keesuk
+Checks: Roe
+Pot size: 45
+Showdown Reached
+Shows: Roe, Jd 7h
+Combination: Roe, Pair ( 7h 7s Qd Jd 9h )
+Shows: Keesuk, Jc Qc
+Combination: Keesuk, Pair ( Qc Qd Jc 9h 7s )
+Wins: Keesuk, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Balo
+Small Blind: Keesuk, chips: 5
+Big Blind: Chaku, chips: 10
+Calls: Roe
+Folds: Save
+Calls: Gunhi
+Folds: Balo
+Raises: Keesuk, chips: 15
+Folds: Chaku
+Calls: Roe
+Folds: Gunhi
+Flop: Td 4d 7d
+Turn: 9d
+River: 9h
+Pot size: 65
+Showdown Reached
+Boasts: Chaku, Jd 6h
+Shows: Roe, 5c Qh
+Combination: Roe, Pair ( 9d 9h Qh Td 7d )
+Shows: Keesuk, Qc 9c
+Combination: Keesuk, Three Of A Kind ( 9c 9d 9h Qc Td )
+Wins: Keesuk, chips: 65
+Quits: Roe, chips: 0
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Keesuk
+Small Blind: Chaku, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Folds: Balo
+Calls: Keesuk
+Raises: Chaku, chips: 15
+Folds: Save
+Folds: Gunhi
+Raises: Keesuk, chips: 30
+Calls: Chaku
+Flop: 7c Qd 9h
+Raises: Chaku, chips: 30
+Calls: Keesuk
+Turn: 8h
+Checks: Chaku
+Raises: Keesuk, chips: 30
+Calls: Chaku
+River: Ts
+Checks: Chaku
+Checks: Keesuk
+Pot size: 250
+Showdown Reached
+Shows: Chaku, 3d 3h
+Combination: Chaku, Pair ( 3d 3h Qd Ts 9h )
+Shows: Keesuk, 8d 4c
+Combination: Keesuk, Pair ( 8d 8h Qd Ts 9h )
+Wins: Keesuk, chips: 250
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chaku
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Calls: Balo
+Raises: Keesuk, chips: 20
+Calls: Chaku
+Folds: Save
+Folds: Gunhi
+Folds: Balo
+Flop: 3s 5s 4s
+Checks: Keesuk
+Checks: Chaku
+Turn: 2s
+Checks: Keesuk
+Checks: Chaku
+River: Ah
+Checks: Keesuk
+Checks: Chaku
+Pot size: 85
+Showdown Reached
+Shows: Chaku, Td 9c
+Combination: Chaku, Straight ( 5s 4s 3s 2s Ah )
+Shows: Keesuk, As 4c
+Combination: Keesuk, Straight Flush ( 5s 4s 3s 2s As )
+Wins: Keesuk, chips: 85
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Gunhi, chips: 5
+Big Blind: Balo, chips: 10
+Raises: Keesuk, chips: 20
+Folds: Chaku
+Folds: Save
+Calls: Gunhi
+Folds: Balo
+Flop: Kd Ts 6c
+Checks: Gunhi
+Checks: Keesuk
+Turn: Js
+Checks: Gunhi
+Raises: Keesuk, chips: 20
+Calls: Gunhi
+River: 4c
+Checks: Gunhi
+Raises: Keesuk, chips: 20
+Calls: Gunhi
+Pot size: 150
+Showdown Reached
+Shows: Gunhi, Ah Td
+Combination: Gunhi, Pair ( Td Ts Ah Kd Js )
+Shows: Keesuk, Qd 9h
+Combination: Keesuk, Straight ( Kd Qd Js Ts 9h )
+Wins: Keesuk, chips: 150
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Balo, chips: 5
+Big Blind: Keesuk, chips: 10
+Folds: Chaku
+Folds: Save
+Folds: Gunhi
+Folds: Balo
+Pot size: 15
+Boasts: Chaku, Qs 7h
+Wins: Keesuk, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Balo
+Small Blind: Keesuk, chips: 5
+Big Blind: Chaku, chips: 10
+Folds: Save
+Folds: Gunhi
+Folds: Balo
+Folds: Keesuk
+Pot size: 15
+Wins: Chaku, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Keesuk
+Small Blind: Chaku, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Folds: Balo
+Calls: Keesuk
+Calls: Chaku
+Checks: Save
+Flop: 9s Jc As
+Checks: Chaku
+Checks: Save
+Checks: Keesuk
+Turn: 7s
+Checks: Chaku
+Checks: Save
+Checks: Keesuk
+River: Qs
+Checks: Chaku
+Checks: Save
+Checks: Keesuk
+Pot size: 30
+Showdown Reached
+Shows: Chaku, 4c Kc
+Combination: Chaku, High Card ( As Kc Qs Jc 9s )
+Shows: Save, 9c Jd
+Combination: Save, Two Pair ( Jd Jc 9c 9s As )
+Shows: Keesuk, 7c Qd
+Combination: Keesuk, Two Pair ( Qd Qs 7c 7s As )
+Wins: Keesuk, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chaku
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Calls: Balo
+Raises: Keesuk, chips: 20
+Folds: Chaku
+Folds: Save
+Folds: Gunhi
+Raises: Balo, chips: 50
+Folds: Keesuk
+Pot size: 125
+Boasts: Chaku, 4h 6h
+Boasts: Keesuk, 9d Ac
+Wins: Balo, chips: 125
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Gunhi, chips: 5
+Big Blind: Balo, chips: 10
+Folds: Keesuk
+Calls: Chaku
+Folds: Save
+Calls: Gunhi
+Checks: Balo
+Flop: 3c 4c 4s
+Checks: Gunhi
+Checks: Balo
+Checks: Chaku
+Turn: Ts
+Checks: Gunhi
+Checks: Balo
+Checks: Chaku
+River: 2c
+Checks: Gunhi
+Checks: Balo
+Checks: Chaku
+Pot size: 30
+Showdown Reached
+Shows: Chaku, Js 5c
+Combination: Chaku, Pair ( 4c 4s Js Ts 5c )
+Shows: Gunhi, Kd Jd
+Combination: Gunhi, Pair ( 4c 4s Kd Jd Ts )
+Shows: Balo, 5h 9d
+Combination: Balo, Pair ( 4c 4s Ts 9d 5h )
+Boasts: Keesuk, 6s 4d
+Wins: Gunhi, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Balo, chips: 5
+Big Blind: Keesuk, chips: 10
+Calls: Chaku
+Folds: Save
+Folds: Gunhi
+Calls: Balo
+Checks: Keesuk
+Flop: 3h 3c 9h
+Checks: Balo
+Checks: Keesuk
+Checks: Chaku
+Turn: Kh
+Checks: Balo
+Checks: Keesuk
+Checks: Chaku
+River: Qh
+Checks: Balo
+Checks: Keesuk
+Checks: Chaku
+Pot size: 30
+Showdown Reached
+Shows: Chaku, 8d Th
+Combination: Chaku, Flush ( Kh Qh Th 9h 3h )
+Shows: Balo, 4h 4c
+Combination: Balo, Flush ( Kh Qh 9h 4h 3h )
+Shows: Keesuk, 8c 8s
+Combination: Keesuk, Two Pair ( 8c 8s 3h 3c Kh )
+Wins: Chaku, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Balo
+Small Blind: Keesuk, chips: 5
+Big Blind: Chaku, chips: 10
+Folds: Save
+Folds: Gunhi
+Calls: Balo
+Folds: Keesuk
+Checks: Chaku
+Flop: 2h 4c Qc
+Checks: Chaku
+Checks: Balo
+Turn: 9d
+Checks: Chaku
+Checks: Balo
+River: Qd
+Checks: Chaku
+Checks: Balo
+Pot size: 25
+Showdown Reached
+Shows: Chaku, Ah Tc
+Combination: Chaku, Pair ( Qc Qd Ah Tc 9d )
+Shows: Balo, 7h 8s
+Combination: Balo, Pair ( Qc Qd 9d 8s 7h )
+Boasts: Keesuk, Ks 2s
+Wins: Chaku, chips: 25
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Keesuk
+Small Blind: Chaku, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Folds: Balo
+Raises: Keesuk, chips: 20
+Folds: Chaku
+Folds: Save
+Pot size: 45
+Wins: Keesuk, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chaku
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Balo
+Raises: Keesuk, chips: 20
+Calls: Chaku
+Folds: Save
+Folds: Gunhi
+Flop: 8d As 5h
+Raises: Keesuk, chips: 20
+Folds: Chaku
+Pot size: 95
+Boasts: Chaku, Jh 2h
+Wins: Keesuk, chips: 95
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Gunhi, chips: 5
+Big Blind: Balo, chips: 10
+Folds: Keesuk
+Folds: Chaku
+Folds: Save
+Folds: Gunhi
+Pot size: 15
+Boasts: Chaku, As Ks
+Wins: Balo, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Balo, chips: 5
+Big Blind: Keesuk, chips: 10
+Folds: Chaku
+Folds: Save
+Calls: Gunhi
+Folds: Balo
+Checks: Keesuk
+Flop: 7h 4s 6s
+Raises: Keesuk, chips: 10
+Calls: Gunhi
+Turn: Tc
+Checks: Keesuk
+Checks: Gunhi
+River: 9d
+Checks: Keesuk
+Raises: Gunhi, chips: 3005
+Calls: Keesuk
+Pot size: 4315
+Showdown Reached
+Boasts: Chaku, 3s 4c
+Shows: Gunhi, Td Th
+Combination: Gunhi, Three Of A Kind ( Td Th Tc 9d 7h )
+Shows: Keesuk, As 9h
+Combination: Keesuk, Pair ( 9h 9d As Tc 7h )
+Wins: Gunhi, chips: 4315
+Quits: Keesuk, chips: 0
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Balo
+Small Blind: Chaku, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Folds: Balo
+Calls: Chaku
+Checks: Save
+Flop: 4s 4h 3d
+Raises: Chaku, chips: 10
+Folds: Save
+Folds: Gunhi
+Pot size: 40
+Boasts: Chaku, Qs 2h
+Wins: Chaku, chips: 40
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chaku
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Balo
+Calls: Chaku
+Folds: Save
+Checks: Gunhi
+Flop: 7d Qs 6s
+Checks: Gunhi
+Raises: Chaku, chips: 10
+Folds: Gunhi
+Pot size: 35
+Wins: Chaku, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Gunhi, chips: 5
+Big Blind: Balo, chips: 10
+Calls: Chaku
+Folds: Save
+Calls: Gunhi
+Checks: Balo
+Flop: Ah Ac 5d
+Checks: Gunhi
+Checks: Balo
+Checks: Chaku
+Turn: 6c
+Checks: Gunhi
+Checks: Balo
+Checks: Chaku
+River: Th
+Checks: Gunhi
+Checks: Balo
+Checks: Chaku
+Pot size: 30
+Showdown Reached
+Shows: Chaku, 8s 2d
+Combination: Chaku, Pair ( Ah Ac Th 8s 6c )
+Shows: Gunhi, 5c Kc
+Combination: Gunhi, Two Pair ( Ah Ac 5c 5d Kc )
+Shows: Balo, 3c Js
+Combination: Balo, Pair ( Ah Ac Js Th 6c )
+Wins: Gunhi, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Balo, chips: 5
+Big Blind: Chaku, chips: 10
+Folds: Save
+Folds: Gunhi
+Folds: Balo
+Pot size: 15
+Wins: Chaku, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Balo
+Small Blind: Chaku, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Folds: Balo
+Raises: Chaku, chips: 15
+Folds: Save
+Pot size: 35
+Wins: Chaku, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chaku
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Balo
+Folds: Chaku
+Folds: Save
+Pot size: 15
+Boasts: Chaku, 8d Qd
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Gunhi, chips: 5
+Big Blind: Balo, chips: 10
+Raises: Chaku, chips: 20
+Folds: Save
+Folds: Gunhi
+Folds: Balo
+Pot size: 45
+Wins: Chaku, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Balo, chips: 5
+Big Blind: Chaku, chips: 10
+Folds: Save
+Calls: Gunhi
+Calls: Balo
+Checks: Chaku
+Flop: Kh 6h Qh
+Raises: Balo, chips: 10
+Raises: Chaku, chips: 20
+Folds: Gunhi
+Calls: Balo
+Turn: 2s
+Checks: Balo
+Checks: Chaku
+River: 4s
+Checks: Balo
+Raises: Chaku, chips: 20
+Calls: Balo
+Pot size: 130
+Showdown Reached
+Shows: Chaku, 4h 5c
+Combination: Chaku, Pair ( 4h 4s Kh Qh 6h )
+Shows: Balo, Kc Qd
+Combination: Balo, Two Pair ( Kc Kh Qd Qh 6h )
+Wins: Balo, chips: 130
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Balo
+Small Blind: Chaku, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Folds: Balo
+Raises: Chaku, chips: 15
+Folds: Save
+Raises: Gunhi, chips: 25
+Raises: Chaku, chips: 50
+Folds: Gunhi
+Pot size: 160
+Boasts: Chaku, Tc 2h
+Wins: Chaku, chips: 160
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chaku
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Balo
+Folds: Chaku
+Folds: Save
+Pot size: 15
+Boasts: Chaku, 7d 7s
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Gunhi, chips: 5
+Big Blind: Balo, chips: 10
+Folds: Chaku
+Folds: Save
+Folds: Gunhi
+Pot size: 15
+Boasts: Chaku, Qd Qc
+Wins: Balo, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Balo, chips: 5
+Big Blind: Chaku, chips: 10
+Folds: Save
+Folds: Gunhi
+Calls: Balo
+Raises: Chaku, chips: 10
+Raises: Balo, chips: 10
+Folds: Chaku
+Pot size: 50
+Wins: Balo, chips: 50
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Balo
+Small Blind: Chaku, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Folds: Balo
+Calls: Chaku
+Checks: Save
+Flop: 5h Ts 6s
+Checks: Chaku
+Checks: Save
+Checks: Gunhi
+Turn: 6d
+Raises: Chaku, chips: 10
+Folds: Save
+Raises: Gunhi, chips: 20
+Folds: Chaku
+Pot size: 70
+Boasts: Chaku, Kc 4s
+Wins: Gunhi, chips: 70
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chaku
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Calls: Balo
+Folds: Chaku
+Folds: Save
+Checks: Gunhi
+Flop: 5h As Kc
+Checks: Gunhi
+Raises: Balo, chips: 10
+Calls: Gunhi
+Turn: 9d
+Checks: Gunhi
+Checks: Balo
+River: Ac
+Checks: Gunhi
+Checks: Balo
+Pot size: 45
+Showdown Reached
+Shows: Gunhi, Qc Qd
+Combination: Gunhi, Two Pair ( As Ac Qc Qd Kc )
+Shows: Balo, 6h 6c
+Combination: Balo, Two Pair ( As Ac 6h 6c Kc )
+Wins: Gunhi, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Gunhi, chips: 5
+Big Blind: Balo, chips: 10
+Calls: Chaku
+Folds: Save
+Calls: Gunhi
+Raises: Balo, chips: 10
+Calls: Chaku
+Folds: Gunhi
+Flop: 5c 4h 2s
+Raises: Balo, chips: 10
+Calls: Chaku
+Turn: Jc
+Raises: Balo, chips: 980
+Calls: Chaku
+River: 6s
+Pot size: 1820
+Showdown Reached
+Shows: Chaku, Jd Js
+Combination: Chaku, Three Of A Kind ( Jd Js Jc 6s 5c )
+Shows: Balo, 5s 4s
+Combination: Balo, Two Pair ( 5s 5c 4s 4h Jc )
+Wins: Chaku, chips: 1610
+Wins: Balo, chips: 210
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Balo, chips: 5
+Big Blind: Chaku, chips: 10
+Folds: Save
+Folds: Gunhi
+Folds: Balo
+Pot size: 15
+Wins: Chaku, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Balo
+Small Blind: Chaku, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Folds: Balo
+Folds: Chaku
+Pot size: 15
+Boasts: Chaku, Ac 2s
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chaku
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Balo
+Calls: Chaku
+Folds: Save
+Checks: Gunhi
+Flop: 4c 4h Jc
+Checks: Gunhi
+Checks: Chaku
+Turn: Js
+Raises: Gunhi, chips: 4290
+Calls: Chaku
+River: 5h
+Pot size: 5915
+Showdown Reached
+Shows: Chaku, Jh 6h
+Combination: Chaku, Full House ( Jh Jc Js 4c 4h )
+Shows: Gunhi, Jd 9c
+Combination: Gunhi, Full House ( Jd Jc Js 4c 4h )
+Wins: Chaku, chips: 1613
+Wins: Gunhi, chips: 4302
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Gunhi, chips: 5
+Big Blind: Balo, chips: 10
+Calls: Chaku
+Folds: Save
+Calls: Gunhi
+Raises: Balo, chips: 10
+Raises: Chaku, chips: 20
+Calls: Gunhi
+Calls: Balo
+Flop: 4s 3s 6s
+Checks: Gunhi
+Raises: Balo, chips: 20
+Calls: Chaku
+Folds: Gunhi
+Turn: 7d
+Raises: Balo, chips: 20
+Folds: Chaku
+Pot size: 180
+Wins: Balo, chips: 180
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Balo, chips: 5
+Big Blind: Chaku, chips: 10
+Folds: Save
+Folds: Gunhi
+Folds: Balo
+Pot size: 15
+Wins: Chaku, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Balo
+Small Blind: Chaku, chips: 5
+Big Blind: Save, chips: 10
+Raises: Gunhi, chips: 20
+Folds: Balo
+Calls: Chaku
+Folds: Save
+Flop: 7d 8c 4c
+Checks: Chaku
+Raises: Gunhi, chips: 30
+Raises: Chaku, chips: 60
+Raises: Gunhi, chips: 90
+Calls: Chaku
+Turn: 9h
+Checks: Chaku
+Raises: Gunhi, chips: 170
+Calls: Chaku
+River: Jc
+Checks: Chaku
+Checks: Gunhi
+Pot size: 770
+Showdown Reached
+Shows: Chaku, 2s 3s
+Combination: Chaku, High Card ( Jc 9h 8c 7d 4c )
+Shows: Gunhi, 8d 8s
+Combination: Gunhi, Three Of A Kind ( 8d 8s 8c Jc 9h )
+Wins: Gunhi, chips: 770
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chaku
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Balo
+Calls: Chaku
+Folds: Save
+Checks: Gunhi
+Flop: 7h 7s 4d
+Checks: Gunhi
+Checks: Chaku
+Turn: 5d
+Raises: Gunhi, chips: 10
+Folds: Chaku
+Pot size: 35
+Boasts: Chaku, 3h 7d
+Wins: Gunhi, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Gunhi, chips: 5
+Big Blind: Balo, chips: 10
+Raises: Chaku, chips: 20
+Folds: Save
+Folds: Gunhi
+Folds: Balo
+Pot size: 45
+Wins: Chaku, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Balo, chips: 5
+Big Blind: Chaku, chips: 10
+Folds: Save
+Calls: Gunhi
+Folds: Balo
+Checks: Chaku
+Flop: 5h 3h Td
+Checks: Chaku
+Checks: Gunhi
+Turn: 3c
+Checks: Chaku
+Checks: Gunhi
+River: 2h
+Raises: Chaku, chips: 10
+Folds: Gunhi
+Pot size: 35
+Wins: Chaku, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Balo
+Small Blind: Chaku, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Folds: Balo
+Folds: Chaku
+Pot size: 15
+Boasts: Chaku, 9d 9s
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chaku
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Calls: Balo
+Calls: Chaku
+Folds: Save
+Checks: Gunhi
+Flop: Kd As 5h
+Checks: Gunhi
+Checks: Balo
+Raises: Chaku, chips: 10
+Folds: Gunhi
+Calls: Balo
+Turn: 6c
+Checks: Balo
+Raises: Chaku, chips: 10
+Calls: Balo
+River: Qs
+Checks: Balo
+Checks: Chaku
+Pot size: 75
+Showdown Reached
+Shows: Chaku, 8d 3s
+Combination: Chaku, High Card ( As Kd Qs 8d 6c )
+Shows: Balo, Kc Th
+Combination: Balo, Pair ( Kc Kd As Qs Th )
+Wins: Balo, chips: 75
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Gunhi, chips: 5
+Big Blind: Balo, chips: 10
+Calls: Chaku
+Folds: Save
+Folds: Gunhi
+Raises: Balo, chips: 10
+Calls: Chaku
+Flop: 9s 5d Ah
+Raises: Balo, chips: 10
+Raises: Chaku, chips: 20
+Raises: Balo, chips: 40
+Folds: Chaku
+Pot size: 145
+Boasts: Chaku, 5s Tc
+Wins: Balo, chips: 145
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Balo, chips: 5
+Big Blind: Chaku, chips: 10
+Folds: Save
+Calls: Gunhi
+Folds: Balo
+Checks: Chaku
+Flop: 2c Kd 9h
+Raises: Chaku, chips: 10
+Calls: Gunhi
+Turn: 4c
+Checks: Chaku
+Checks: Gunhi
+River: 5d
+Raises: Chaku, chips: 10
+Calls: Gunhi
+Pot size: 65
+Showdown Reached
+Shows: Chaku, 4d Tc
+Combination: Chaku, Pair ( 4d 4c Kd Tc 9h )
+Shows: Gunhi, 3d 3s
+Combination: Gunhi, Pair ( 3d 3s Kd 9h 5d )
+Wins: Chaku, chips: 65
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Balo
+Small Blind: Chaku, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Folds: Balo
+Calls: Chaku
+Checks: Save
+Flop: Js 9h 2d
+Checks: Chaku
+Checks: Save
+Turn: 6d
+Raises: Chaku, chips: 10
+Folds: Save
+Pot size: 30
+Wins: Chaku, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chaku
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Balo
+Calls: Chaku
+Folds: Save
+Checks: Gunhi
+Flop: 3d 5s As
+Checks: Gunhi
+Checks: Chaku
+Turn: Td
+Checks: Gunhi
+Raises: Chaku, chips: 10
+Folds: Gunhi
+Pot size: 35
+Wins: Chaku, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Gunhi, chips: 5
+Big Blind: Balo, chips: 10
+Calls: Chaku
+Folds: Save
+Folds: Gunhi
+Checks: Balo
+Flop: 9d 4h Tc
+Checks: Balo
+Checks: Chaku
+Turn: 6s
+Checks: Balo
+Checks: Chaku
+River: 7c
+Checks: Balo
+Raises: Chaku, chips: 10
+Calls: Balo
+Pot size: 45
+Showdown Reached
+Shows: Chaku, Qd 5c
+Combination: Chaku, High Card ( Qd Tc 9d 7c 6s )
+Shows: Balo, Jc 9h
+Combination: Balo, Pair ( 9h 9d Jc Tc 7c )
+Wins: Balo, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Balo, chips: 5
+Big Blind: Chaku, chips: 10
+Folds: Save
+Calls: Gunhi
+Calls: Balo
+Raises: Chaku, chips: 10
+Raises: Gunhi, chips: 20
+Raises: Balo, chips: 40
+Calls: Chaku
+Raises: Gunhi, chips: 110
+Raises: Balo, chips: 215
+Calls: Chaku
+Raises: Gunhi, chips: 325
+Calls: Chaku
+Flop: Js 7d 8h
+Checks: Chaku
+Checks: Gunhi
+Turn: 2d
+Raises: Chaku, chips: 325
+Calls: Gunhi
+River: 3s
+Checks: Chaku
+Checks: Gunhi
+Pot size: 2515
+Showdown Reached
+Shows: Chaku, Tc 8c
+Combination: Chaku, Pair ( 8c 8h Js Tc 7d )
+Shows: Gunhi, Kh Kc
+Combination: Gunhi, Pair ( Kh Kc Js 8h 7d )
+Shows: Balo, 9h 9s
+Combination: Balo, Pair ( 9h 9s Js 8h 7d )
+Wins: Gunhi, chips: 2515
+Quits: Balo, chips: 0
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chaku
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Raises: Chaku, chips: 20
+Folds: Save
+Calls: Gunhi
+Flop: 2c 2s 9c
+Checks: Gunhi
+Checks: Chaku
+Turn: As
+Raises: Gunhi, chips: 30
+Calls: Chaku
+River: 6c
+Checks: Gunhi
+Checks: Chaku
+Pot size: 125
+Showdown Reached
+Shows: Chaku, Jh 9h
+Combination: Chaku, Two Pair ( 9h 9c 2c 2s As )
+Shows: Gunhi, 8s Js
+Combination: Gunhi, Pair ( 2c 2s As Js 9c )
+Wins: Chaku, chips: 125
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Gunhi, chips: 5
+Big Blind: Chaku, chips: 10
+Folds: Save
+Folds: Gunhi
+Pot size: 15
+Boasts: Chaku, Ks 2h
+Wins: Chaku, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Chaku, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Calls: Chaku
+Checks: Save
+Flop: 3h Qh 6d
+Checks: Chaku
+Checks: Save
+Checks: Gunhi
+Turn: Qd
+Checks: Chaku
+Checks: Save
+Checks: Gunhi
+River: 8s
+Checks: Chaku
+Checks: Save
+Checks: Gunhi
+Pot size: 30
+Showdown Reached
+Shows: Chaku, Ah Jh
+Combination: Chaku, Pair ( Qh Qd Ah Jh 8s )
+Shows: Save, 5s 2d
+Combination: Save, Pair ( Qh Qd 8s 6d 5s )
+Shows: Gunhi, 9h Ts
+Combination: Gunhi, Pair ( Qh Qd Ts 9h 8s )
+Wins: Chaku, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chaku
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Raises: Chaku, chips: 20
+Folds: Save
+Folds: Gunhi
+Pot size: 45
+Boasts: Chaku, 8d 5c
+Wins: Chaku, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Gunhi, chips: 5
+Big Blind: Chaku, chips: 10
+Folds: Save
+Folds: Gunhi
+Pot size: 15
+Boasts: Chaku, Ts Qc
+Wins: Chaku, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Chaku, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Raises: Chaku, chips: 15
+Folds: Save
+Pot size: 35
+Wins: Chaku, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chaku
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Chaku
+Folds: Save
+Pot size: 15
+Boasts: Chaku, 9d Ad
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Gunhi, chips: 5
+Big Blind: Chaku, chips: 10
+Folds: Save
+Calls: Gunhi
+Raises: Chaku, chips: 10
+Calls: Gunhi
+Flop: 7h Tc 7d
+Checks: Gunhi
+Checks: Chaku
+Turn: Kc
+Checks: Gunhi
+Checks: Chaku
+River: Ts
+Checks: Gunhi
+Checks: Chaku
+Pot size: 40
+Showdown Reached
+Shows: Chaku, 2d Jd
+Combination: Chaku, Two Pair ( Tc Ts 7h 7d Kc )
+Shows: Gunhi, Ac Qd
+Combination: Gunhi, Two Pair ( Tc Ts 7h 7d Ac )
+Wins: Gunhi, chips: 40
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Chaku, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Calls: Chaku
+Checks: Save
+Flop: 3s Jh 6s
+Checks: Chaku
+Checks: Save
+Checks: Gunhi
+Turn: 8d
+Checks: Chaku
+Checks: Save
+Checks: Gunhi
+River: Td
+Raises: Chaku, chips: 10
+Folds: Save
+Folds: Gunhi
+Pot size: 40
+Boasts: Chaku, Th 8c
+Wins: Chaku, chips: 40
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chaku
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Calls: Chaku
+Folds: Save
+Checks: Gunhi
+Flop: 5h Js 3s
+Checks: Gunhi
+Checks: Chaku
+Turn: Th
+Checks: Gunhi
+Raises: Chaku, chips: 10
+Folds: Gunhi
+Pot size: 35
+Wins: Chaku, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Gunhi, chips: 5
+Big Blind: Chaku, chips: 10
+Folds: Save
+Folds: Gunhi
+Pot size: 15
+Wins: Chaku, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Chaku, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Raises: Chaku, chips: 15
+Folds: Save
+Pot size: 35
+Wins: Chaku, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chaku
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Chaku
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Gunhi, chips: 5
+Big Blind: Chaku, chips: 10
+Folds: Save
+Folds: Gunhi
+Pot size: 15
+Boasts: Chaku, Qd Ac
+Wins: Chaku, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Chaku, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Folds: Chaku
+Pot size: 15
+Boasts: Chaku, 6c Kd
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chaku
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Chaku
+Folds: Save
+Pot size: 15
+Boasts: Chaku, Jd 6h
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Gunhi, chips: 5
+Big Blind: Chaku, chips: 10
+Folds: Save
+Folds: Gunhi
+Pot size: 15
+Wins: Chaku, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Chaku, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Calls: Chaku
+Checks: Save
+Flop: 4d 6s Kd
+Checks: Chaku
+Checks: Save
+Turn: Kc
+Raises: Chaku, chips: 10
+Folds: Save
+Pot size: 30
+Boasts: Chaku, 7h 7c
+Wins: Chaku, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chaku
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Raises: Chaku, chips: 20
+Folds: Save
+Folds: Gunhi
+Pot size: 45
+Wins: Chaku, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Gunhi, chips: 5
+Big Blind: Chaku, chips: 10
+Folds: Save
+Calls: Gunhi
+Raises: Chaku, chips: 10
+Folds: Gunhi
+Pot size: 30
+Boasts: Chaku, 3h 7d
+Wins: Chaku, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Chaku, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Raises: Chaku, chips: 15
+Folds: Save
+Calls: Gunhi
+Flop: 6d Ts 4h
+Checks: Chaku
+Checks: Gunhi
+Turn: Qd
+Checks: Chaku
+Checks: Gunhi
+River: Jc
+Checks: Chaku
+Checks: Gunhi
+Pot size: 60
+Showdown Reached
+Shows: Chaku, 4s 7c
+Combination: Chaku, Pair ( 4s 4h Qd Jc Ts )
+Shows: Gunhi, Ac 3c
+Combination: Gunhi, High Card ( Ac Qd Jc Ts 6d )
+Wins: Chaku, chips: 60
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chaku
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Calls: Chaku
+Folds: Save
+Checks: Gunhi
+Flop: Kc Th 4c
+Checks: Gunhi
+Checks: Chaku
+Turn: 8c
+Checks: Gunhi
+Raises: Chaku, chips: 10
+Calls: Gunhi
+River: 5d
+Checks: Gunhi
+Checks: Chaku
+Pot size: 45
+Showdown Reached
+Shows: Chaku, Jh 9h
+Combination: Chaku, High Card ( Kc Jh Th 9h 8c )
+Shows: Gunhi, 8h 6h
+Combination: Gunhi, Pair ( 8h 8c Kc Th 6h )
+Wins: Gunhi, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Gunhi, chips: 5
+Big Blind: Chaku, chips: 10
+Folds: Save
+Folds: Gunhi
+Pot size: 15
+Boasts: Chaku, 4s 8s
+Wins: Chaku, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Chaku, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Raises: Chaku, chips: 298
+Folds: Save
+Pot size: 318
+Boasts: Chaku, 6h 4c
+Wins: Chaku, chips: 318
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chaku
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Raises: Chaku, chips: 20
+Folds: Save
+Raises: Gunhi, chips: 30
+Raises: Chaku, chips: 60
+Raises: Gunhi, chips: 80
+Folds: Chaku
+Pot size: 325
+Boasts: Chaku, Kc 7c
+Wins: Gunhi, chips: 325
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Gunhi, chips: 5
+Big Blind: Chaku, chips: 10
+Folds: Save
+Folds: Gunhi
+Pot size: 15
+Wins: Chaku, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Chaku, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Calls: Chaku
+Checks: Save
+Flop: Th 6c As
+Checks: Chaku
+Checks: Save
+Checks: Gunhi
+Turn: Kh
+Checks: Chaku
+Checks: Save
+Checks: Gunhi
+River: 3h
+Checks: Chaku
+Checks: Save
+Checks: Gunhi
+Pot size: 30
+Showdown Reached
+Shows: Chaku, 2c Kd
+Combination: Chaku, Pair ( Kd Kh As Th 6c )
+Shows: Save, 9s Qs
+Combination: Save, High Card ( As Kh Qs Th 9s )
+Shows: Gunhi, 8c 7s
+Combination: Gunhi, High Card ( As Kh Th 8c 7s )
+Wins: Chaku, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chaku
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Raises: Chaku, chips: 20
+Folds: Save
+Raises: Gunhi, chips: 30
+Calls: Chaku
+Flop: 5h Tc Qd
+Raises: Gunhi, chips: 50
+Calls: Chaku
+Turn: 7c
+Checks: Gunhi
+Checks: Chaku
+River: 4d
+Raises: Gunhi, chips: 50
+Calls: Chaku
+Pot size: 325
+Showdown Reached
+Shows: Chaku, Ts 6s
+Combination: Chaku, Pair ( Ts Tc Qd 7c 6s )
+Shows: Gunhi, Qs Kc
+Combination: Gunhi, Pair ( Qs Qd Kc Tc 7c )
+Wins: Gunhi, chips: 325
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Gunhi, chips: 5
+Big Blind: Chaku, chips: 10
+Folds: Save
+Folds: Gunhi
+Pot size: 15
+Wins: Chaku, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Chaku, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Raises: Chaku, chips: 15
+Folds: Save
+Pot size: 35
+Wins: Chaku, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chaku
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Raises: Chaku, chips: 20
+Folds: Save
+Folds: Gunhi
+Pot size: 45
+Boasts: Chaku, Tc 7c
+Wins: Chaku, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Gunhi, chips: 5
+Big Blind: Chaku, chips: 10
+Folds: Save
+Calls: Gunhi
+Raises: Chaku, chips: 10
+Folds: Gunhi
+Pot size: 30
+Wins: Chaku, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Chaku, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Calls: Chaku
+Checks: Save
+Flop: Ts Td 3c
+Raises: Chaku, chips: 10
+Folds: Save
+Pot size: 30
+Wins: Chaku, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chaku
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Chaku
+Folds: Save
+Pot size: 15
+Boasts: Chaku, Jh 8d
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Gunhi, chips: 5
+Big Blind: Chaku, chips: 10
+Folds: Save
+Calls: Gunhi
+Raises: Chaku, chips: 10
+Raises: Gunhi, chips: 20
+Raises: Chaku, chips: 40
+Calls: Gunhi
+Flop: 3c 7h 6c
+Raises: Gunhi, chips: 40
+Calls: Chaku
+Turn: 3s
+River: Ks
+Pot size: 233
+Showdown Reached
+Shows: Chaku, 9d 2s
+Combination: Chaku, Pair ( 3c 3s Ks 9d 7h )
+Shows: Gunhi, Kc Jc
+Combination: Gunhi, Two Pair ( Kc Ks 3c 3s Jc )
+Wins: Gunhi, chips: 233
+Quits: Chaku, chips: 0
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Checks: Save
+Flop: 2d As Ac
+Checks: Save
+Raises: Gunhi, chips: 10
+Folds: Save
+Pot size: 30
+Wins: Gunhi, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Checks: Save
+Flop: Kc 5c 5s
+Checks: Save
+Raises: Gunhi, chips: 10
+Folds: Save
+Pot size: 30
+Wins: Gunhi, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Checks: Save
+Flop: Td 5h 8d
+Checks: Save
+Checks: Gunhi
+Turn: 6h
+Checks: Save
+Checks: Gunhi
+River: 6c
+Checks: Save
+Raises: Gunhi, chips: 10
+Folds: Save
+Pot size: 30
+Wins: Gunhi, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Checks: Save
+Flop: Tc Jh 8h
+Checks: Save
+Raises: Gunhi, chips: 10
+Folds: Save
+Pot size: 30
+Wins: Gunhi, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Raises: Gunhi, chips: 15
+Folds: Save
+Pot size: 35
+Wins: Gunhi, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Checks: Save
+Flop: 5d Jd Ts
+Checks: Save
+Raises: Gunhi, chips: 10
+Folds: Save
+Pot size: 30
+Wins: Gunhi, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Checks: Save
+Flop: Kc Ks Kh
+Checks: Save
+Checks: Gunhi
+Turn: 2h
+Checks: Save
+Checks: Gunhi
+River: 7c
+Checks: Save
+Checks: Gunhi
+Pot size: 20
+Showdown Reached
+Shows: Save, 6d 3s
+Combination: Save, Three Of A Kind ( Kc Ks Kh 7c 6d )
+Shows: Gunhi, Th 9c
+Combination: Gunhi, Three Of A Kind ( Kc Ks Kh Th 9c )
+Wins: Gunhi, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Checks: Save
+Flop: Qh Ah Kd
+Checks: Save
+Checks: Gunhi
+Turn: 3h
+Checks: Save
+Checks: Gunhi
+River: 4d
+Checks: Save
+Checks: Gunhi
+Pot size: 20
+Showdown Reached
+Shows: Save, 3s 9h
+Combination: Save, Pair ( 3s 3h Ah Kd Qh )
+Shows: Gunhi, 9c 7c
+Combination: Gunhi, High Card ( Ah Kd Qh 9c 7c )
+Wins: Save, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Checks: Save
+Flop: Qc 5s 2h
+Checks: Save
+Checks: Gunhi
+Turn: 2s
+Checks: Save
+Checks: Gunhi
+River: Ks
+Checks: Save
+Checks: Gunhi
+Pot size: 20
+Showdown Reached
+Shows: Save, Td Qd
+Combination: Save, Two Pair ( Qd Qc 2h 2s Ks )
+Shows: Gunhi, Kd Jc
+Combination: Gunhi, Two Pair ( Kd Ks 2h 2s Qc )
+Wins: Gunhi, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Checks: Save
+Flop: Kc 9s 4c
+Checks: Save
+Checks: Gunhi
+Turn: Ac
+Checks: Save
+Checks: Gunhi
+River: 4s
+Checks: Save
+Checks: Gunhi
+Pot size: 20
+Showdown Reached
+Shows: Save, Ts 3s
+Combination: Save, Pair ( 4c 4s Ac Kc Ts )
+Shows: Gunhi, Td 8h
+Combination: Gunhi, Pair ( 4c 4s Ac Kc Td )
+Wins: Save, chips: 10
+Wins: Gunhi, chips: 10
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Raises: Gunhi, chips: 15
+Folds: Save
+Pot size: 35
+Wins: Gunhi, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Checks: Save
+Flop: Th 6h 9h
+Checks: Save
+Checks: Gunhi
+Turn: 5c
+Checks: Save
+Checks: Gunhi
+River: 4c
+Checks: Save
+Checks: Gunhi
+Pot size: 20
+Showdown Reached
+Shows: Save, 8c 2h
+Combination: Save, High Card ( Th 9h 8c 6h 5c )
+Shows: Gunhi, Kh Qs
+Combination: Gunhi, High Card ( Kh Qs Th 9h 6h )
+Wins: Gunhi, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Checks: Save
+Flop: 7c Kc Ts
+Checks: Save
+Checks: Gunhi
+Turn: 5d
+Checks: Save
+Raises: Gunhi, chips: 10
+Folds: Save
+Pot size: 30
+Wins: Gunhi, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Checks: Save
+Flop: 4h 3s Jd
+Checks: Save
+Checks: Gunhi
+Turn: 7d
+Checks: Save
+Checks: Gunhi
+River: 6s
+Checks: Save
+Raises: Gunhi, chips: 10
+Folds: Save
+Pot size: 30
+Wins: Gunhi, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Checks: Save
+Flop: 4h As 7d
+Checks: Save
+Checks: Gunhi
+Turn: 3c
+Checks: Save
+Checks: Gunhi
+River: 5s
+Checks: Save
+Checks: Gunhi
+Pot size: 20
+Showdown Reached
+Shows: Save, 8s 3d
+Combination: Save, Pair ( 3d 3c As 8s 7d )
+Shows: Gunhi, Kd Js
+Combination: Gunhi, High Card ( As Kd Js 7d 5s )
+Wins: Save, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Checks: Save
+Flop: 7h Jd 7d
+Checks: Save
+Checks: Gunhi
+Turn: Kh
+Checks: Save
+Checks: Gunhi
+River: 8c
+Checks: Save
+Checks: Gunhi
+Pot size: 20
+Showdown Reached
+Shows: Save, 5d 4h
+Combination: Save, Pair ( 7h 7d Kh Jd 8c )
+Shows: Gunhi, Qc Jh
+Combination: Gunhi, Two Pair ( Jh Jd 7h 7d Kh )
+Wins: Gunhi, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Checks: Save
+Flop: 8h Qc 3d
+Checks: Save
+Checks: Gunhi
+Turn: 2h
+Checks: Save
+Raises: Gunhi, chips: 10
+Folds: Save
+Pot size: 30
+Wins: Gunhi, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Checks: Save
+Flop: 3d 2c 8c
+Checks: Save
+Checks: Gunhi
+Turn: Kc
+Checks: Save
+Checks: Gunhi
+River: 5c
+Checks: Save
+Checks: Gunhi
+Pot size: 20
+Showdown Reached
+Shows: Save, 2s Qd
+Combination: Save, Pair ( 2s 2c Kc Qd 8c )
+Shows: Gunhi, Th 9s
+Combination: Gunhi, High Card ( Kc Th 9s 8c 5c )
+Wins: Save, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Raises: Gunhi, chips: 6495
+Folds: Save
+Pot size: 6515
+Wins: Gunhi, chips: 6515
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Checks: Save
+Flop: 7s 4h 6h
+Checks: Save
+Checks: Gunhi
+Turn: Qs
+Checks: Save
+Checks: Gunhi
+River: 9c
+Checks: Save
+Checks: Gunhi
+Pot size: 20
+Showdown Reached
+Shows: Save, Js Ad
+Combination: Save, High Card ( Ad Qs Js 9c 7s )
+Shows: Gunhi, 8c 7d
+Combination: Gunhi, Pair ( 7d 7s Qs 9c 8c )
+Wins: Gunhi, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Checks: Save
+Flop: Ad 5s Ac
+Checks: Save
+Checks: Gunhi
+Turn: As
+Checks: Save
+Checks: Gunhi
+River: 5c
+Checks: Save
+Checks: Gunhi
+Pot size: 20
+Showdown Reached
+Shows: Save, Tc 4s
+Combination: Save, Full House ( Ad Ac As 5s 5c )
+Shows: Gunhi, 9c 8h
+Combination: Gunhi, Full House ( Ad Ac As 5s 5c )
+Wins: Save, chips: 10
+Wins: Gunhi, chips: 10
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Checks: Save
+Flop: As 3d 7h
+Checks: Save
+Checks: Gunhi
+Turn: 3s
+Checks: Save
+Checks: Gunhi
+River: Kd
+Checks: Save
+Checks: Gunhi
+Pot size: 20
+Showdown Reached
+Shows: Save, 2d 2h
+Combination: Save, Two Pair ( 3d 3s 2d 2h As )
+Shows: Gunhi, 5c 6c
+Combination: Gunhi, Pair ( 3d 3s As Kd 7h )
+Wins: Save, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Checks: Save
+Flop: 5d Kd 5h
+Checks: Save
+Raises: Gunhi, chips: 10
+Folds: Save
+Pot size: 30
+Wins: Gunhi, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Checks: Save
+Flop: Ks 4h 5h
+Checks: Save
+Checks: Gunhi
+Turn: 2c
+Checks: Save
+Checks: Gunhi
+River: 8c
+Checks: Save
+Checks: Gunhi
+Pot size: 20
+Showdown Reached
+Shows: Save, 8s 9s
+Combination: Save, Pair ( 8s 8c Ks 9s 5h )
+Shows: Gunhi, Ac 7c
+Combination: Gunhi, High Card ( Ac Ks 8c 7c 5h )
+Wins: Save, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Raises: Gunhi, chips: 15
+Folds: Save
+Pot size: 35
+Wins: Gunhi, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Raises: Gunhi, chips: 15
+Folds: Save
+Pot size: 35
+Wins: Gunhi, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Checks: Save
+Flop: Ac Qs 8c
+Checks: Save
+Checks: Gunhi
+Turn: Jd
+Checks: Save
+Checks: Gunhi
+River: Ah
+Checks: Save
+Checks: Gunhi
+Pot size: 20
+Showdown Reached
+Shows: Save, 9s Ks
+Combination: Save, Pair ( Ac Ah Ks Qs Jd )
+Shows: Gunhi, 5d 4c
+Combination: Gunhi, Pair ( Ac Ah Qs Jd 8c )
+Wins: Save, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Checks: Save
+Flop: 5h 4h 8h
+Checks: Save
+Checks: Gunhi
+Turn: 2d
+Checks: Save
+Checks: Gunhi
+River: Ah
+Checks: Save
+Raises: Gunhi, chips: 10
+Folds: Save
+Pot size: 30
+Wins: Gunhi, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Checks: Save
+Flop: 7d 8c 8d
+Checks: Save
+Checks: Gunhi
+Turn: Ac
+Checks: Save
+Checks: Gunhi
+River: Qh
+Checks: Save
+Checks: Gunhi
+Pot size: 20
+Showdown Reached
+Shows: Save, 5s Jc
+Combination: Save, Pair ( 8c 8d Ac Qh Jc )
+Shows: Gunhi, 3d 5d
+Combination: Gunhi, Pair ( 8c 8d Ac Qh 7d )
+Wins: Save, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Checks: Save
+Flop: Ah Js 7s
+Checks: Save
+Checks: Gunhi
+Turn: 9d
+Checks: Save
+Raises: Gunhi, chips: 10
+Folds: Save
+Pot size: 30
+Wins: Gunhi, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Checks: Save
+Flop: 3h 9d 9s
+Checks: Save
+Checks: Gunhi
+Turn: 4c
+Checks: Save
+Checks: Gunhi
+River: 6c
+Checks: Save
+Checks: Gunhi
+Pot size: 20
+Showdown Reached
+Shows: Save, Jc 7s
+Combination: Save, Pair ( 9d 9s Jc 7s 6c )
+Shows: Gunhi, Qs Jh
+Combination: Gunhi, Pair ( 9d 9s Qs Jh 6c )
+Wins: Gunhi, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Checks: Save
+Flop: 6c 8c Ts
+Checks: Save
+Checks: Gunhi
+Turn: 5c
+Checks: Save
+Raises: Gunhi, chips: 10
+Folds: Save
+Pot size: 30
+Wins: Gunhi, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Checks: Save
+Flop: 5s Td 4h
+Checks: Save
+Checks: Gunhi
+Turn: 3c
+Checks: Save
+Checks: Gunhi
+River: Ks
+Checks: Save
+Checks: Gunhi
+Pot size: 20
+Showdown Reached
+Shows: Save, Tc 3h
+Combination: Save, Two Pair ( Tc Td 3h 3c Ks )
+Shows: Gunhi, 6h Ah
+Combination: Gunhi, High Card ( Ah Ks Td 6h 5s )
+Wins: Save, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Checks: Save
+Flop: 3c 9s 6s
+Checks: Save
+Checks: Gunhi
+Turn: Ts
+Checks: Save
+Checks: Gunhi
+River: 5d
+Checks: Save
+Checks: Gunhi
+Pot size: 20
+Showdown Reached
+Shows: Save, 4s 4c
+Combination: Save, Pair ( 4s 4c Ts 9s 6s )
+Shows: Gunhi, 5c 4d
+Combination: Gunhi, Pair ( 5c 5d Ts 9s 6s )
+Wins: Gunhi, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Checks: Save
+Flop: 9h 4h 9s
+Checks: Save
+Checks: Gunhi
+Turn: Th
+Checks: Save
+Raises: Gunhi, chips: 10
+Folds: Save
+Pot size: 30
+Wins: Gunhi, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Checks: Save
+Flop: 4s 6d 7c
+Checks: Save
+Checks: Gunhi
+Turn: Ah
+Checks: Save
+Checks: Gunhi
+River: 5c
+Checks: Save
+Raises: Gunhi, chips: 10
+Folds: Save
+Pot size: 30
+Wins: Gunhi, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Checks: Save
+Flop: 5d 3d Ac
+Checks: Save
+Checks: Gunhi
+Turn: 2s
+Checks: Save
+Checks: Gunhi
+River: 9s
+Checks: Save
+Checks: Gunhi
+Pot size: 20
+Showdown Reached
+Shows: Save, 6s Tc
+Combination: Save, High Card ( Ac Tc 9s 6s 5d )
+Shows: Gunhi, 9c 7c
+Combination: Gunhi, Pair ( 9c 9s Ac 7c 5d )
+Wins: Gunhi, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Checks: Save
+Flop: 4c 9c Js
+Checks: Save
+Checks: Gunhi
+Turn: 2d
+Checks: Save
+Raises: Gunhi, chips: 10
+Folds: Save
+Pot size: 30
+Wins: Gunhi, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Checks: Save
+Flop: 3c 8d Td
+Checks: Save
+Checks: Gunhi
+Turn: Jh
+Checks: Save
+Raises: Gunhi, chips: 10
+Folds: Save
+Pot size: 30
+Wins: Gunhi, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Raises: Gunhi, chips: 15
+Folds: Save
+Pot size: 35
+Wins: Gunhi, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Checks: Save
+Flop: 3c 7h Qh
+Checks: Save
+Checks: Gunhi
+Turn: 3h
+Checks: Save
+Checks: Gunhi
+River: 6c
+Checks: Save
+Checks: Gunhi
+Pot size: 20
+Showdown Reached
+Shows: Save, 4h Qc
+Combination: Save, Two Pair ( Qc Qh 3c 3h 7h )
+Shows: Gunhi, Td 8s
+Combination: Gunhi, Pair ( 3c 3h Qh Td 8s )
+Wins: Save, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Checks: Save
+Flop: Qh 6s Qc
+Checks: Save
+Checks: Gunhi
+Turn: 7d
+Checks: Save
+Checks: Gunhi
+River: 8s
+Checks: Save
+Checks: Gunhi
+Pot size: 20
+Showdown Reached
+Shows: Save, 2c Ts
+Combination: Save, Pair ( Qh Qc Ts 8s 7d )
+Shows: Gunhi, 7h 9h
+Combination: Gunhi, Two Pair ( Qh Qc 7h 7d 9h )
+Wins: Gunhi, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Checks: Save
+Flop: 6s 8h Qc
+Checks: Save
+Raises: Gunhi, chips: 10
+Folds: Save
+Pot size: 30
+Wins: Gunhi, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Checks: Save
+Flop: Qh 7h 9s
+Checks: Save
+Checks: Gunhi
+Turn: Kh
+Checks: Save
+Checks: Gunhi
+River: Ad
+Checks: Save
+Checks: Gunhi
+Pot size: 20
+Showdown Reached
+Shows: Save, 2s Jc
+Combination: Save, High Card ( Ad Kh Qh Jc 9s )
+Shows: Gunhi, 5d Kd
+Combination: Gunhi, Pair ( Kd Kh Ad Qh 9s )
+Wins: Gunhi, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Checks: Save
+Flop: 3s 6d Kh
+Checks: Save
+Checks: Gunhi
+Turn: Qc
+Checks: Save
+Raises: Gunhi, chips: 10
+Folds: Save
+Pot size: 30
+Wins: Gunhi, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Checks: Save
+Flop: 2s 2h 3s
+Checks: Save
+Checks: Gunhi
+Turn: Js
+Checks: Save
+Checks: Gunhi
+River: Qs
+Checks: Save
+Checks: Gunhi
+Pot size: 20
+Showdown Reached
+Shows: Save, 4h 5c
+Combination: Save, Pair ( 2s 2h Qs Js 5c )
+Shows: Gunhi, 8c 7h
+Combination: Gunhi, Pair ( 2s 2h Qs Js 8c )
+Wins: Gunhi, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Checks: Save
+Flop: 5h 8c 9h
+Checks: Save
+Checks: Gunhi
+Turn: Qh
+Checks: Save
+Checks: Gunhi
+River: 7c
+Checks: Save
+Raises: Gunhi, chips: 10
+Folds: Save
+Pot size: 30
+Wins: Gunhi, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Raises: Gunhi, chips: 6800
+Folds: Save
+Pot size: 6820
+Wins: Gunhi, chips: 6820
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Checks: Save
+Flop: 9h 8s Ks
+Checks: Save
+Checks: Gunhi
+Turn: Qs
+Checks: Save
+Raises: Gunhi, chips: 10
+Folds: Save
+Pot size: 30
+Wins: Gunhi, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Checks: Save
+Flop: Qc Td 7s
+Checks: Save
+Checks: Gunhi
+Turn: Ts
+Checks: Save
+Checks: Gunhi
+River: Th
+Checks: Save
+Checks: Gunhi
+Pot size: 20
+Showdown Reached
+Shows: Save, 9h 8c
+Combination: Save, Three Of A Kind ( Td Ts Th Qc 9h )
+Shows: Gunhi, Ad 9d
+Combination: Gunhi, Three Of A Kind ( Td Ts Th Ad Qc )
+Wins: Gunhi, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Checks: Save
+Flop: 5d 9s Kd
+Checks: Save
+Checks: Gunhi
+Turn: 7d
+Checks: Save
+Raises: Gunhi, chips: 10
+Folds: Save
+Pot size: 30
+Wins: Gunhi, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Checks: Save
+Flop: Ad 4s 9d
+Checks: Save
+Raises: Gunhi, chips: 10
+Folds: Save
+Pot size: 30
+Wins: Gunhi, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Checks: Save
+Flop: 9s Ah 3d
+Checks: Save
+Checks: Gunhi
+Turn: Jc
+Checks: Save
+Checks: Gunhi
+River: 3h
+Checks: Save
+Checks: Gunhi
+Pot size: 20
+Showdown Reached
+Shows: Save, Ad 5d
+Combination: Save, Two Pair ( Ad Ah 3d 3h Jc )
+Shows: Gunhi, Tc 8h
+Combination: Gunhi, Pair ( 3d 3h Ah Jc Tc )
+Wins: Save, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Raises: Gunhi, chips: 6870
+Folds: Save
+Pot size: 6890
+Wins: Gunhi, chips: 6890
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Checks: Save
+Flop: 9s 7d Qd
+Checks: Save
+Checks: Gunhi
+Turn: 2c
+Checks: Save
+Checks: Gunhi
+River: 6d
+Checks: Save
+Checks: Gunhi
+Pot size: 20
+Showdown Reached
+Shows: Save, 7c Tc
+Combination: Save, Pair ( 7c 7d Qd Tc 9s )
+Shows: Gunhi, Kh 8h
+Combination: Gunhi, High Card ( Kh Qd 9s 8h 7d )
+Wins: Save, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Raises: Gunhi, chips: 15
+Folds: Save
+Pot size: 35
+Wins: Gunhi, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Raises: Gunhi, chips: 15
+Folds: Save
+Pot size: 35
+Wins: Gunhi, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Checks: Save
+Flop: 9h Qc 3h
+Checks: Save
+Raises: Gunhi, chips: 6910
+Folds: Save
+Pot size: 6930
+Wins: Gunhi, chips: 6930
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Checks: Save
+Flop: Kc 5s 3h
+Checks: Save
+Checks: Gunhi
+Turn: 8s
+Checks: Save
+Checks: Gunhi
+River: Jd
+Checks: Save
+Checks: Gunhi
+Pot size: 20
+Showdown Reached
+Shows: Save, 8c 7s
+Combination: Save, Pair ( 8c 8s Kc Jd 7s )
+Shows: Gunhi, 8d Ts
+Combination: Gunhi, Pair ( 8d 8s Kc Jd Ts )
+Wins: Gunhi, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Checks: Save
+Flop: 3d Ah 5d
+Checks: Save
+Checks: Gunhi
+Turn: 5c
+Checks: Save
+Raises: Gunhi, chips: 10
+Folds: Save
+Pot size: 30
+Wins: Gunhi, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Checks: Save
+Flop: Ks Qh Ad
+Checks: Save
+Checks: Gunhi
+Turn: Qc
+Checks: Save
+Checks: Gunhi
+River: 5s
+Checks: Save
+Raises: Gunhi, chips: 6955
+Folds: Save
+Pot size: 6975
+Wins: Gunhi, chips: 6975
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Folds: Gunhi
+Pot size: 15
+Wins: Save, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 10
+Calls: Gunhi
+Checks: Save
+Flop: Ks Kh 2d
+Checks: Save
+Checks: Gunhi
+Turn: 2c
+Checks: Save
+Checks: Gunhi
+River: 9h
+Checks: Save
+Checks: Gunhi
+Pot size: 20
+Showdown Reached
+Shows: Save, 3d 4c
+Combination: Save, Two Pair ( Ks Kh 2d 2c 9h )
+Shows: Gunhi, 8c Tc
+Combination: Gunhi, Two Pair ( Ks Kh 2d 2c Tc )
+Wins: Gunhi, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Save
+Small Blind: Save, chips: 5
+Big Blind: Gunhi, chips: 10
+Folds: Save
+Pot size: 15
+Wins: Gunhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gunhi
+Small Blind: Gunhi, chips: 5
+Big Blind: Save, chips: 5
+Flop: 9h Jd Tc
+Turn: 7c
+River: 2c
+Pot size: 10
+Showdown Reached
+Shows: Save, Kh 5d
+Combination: Save, High Card ( Kh Jd Tc 9h 7c )
+Shows: Gunhi, 5s Jh
+Combination: Gunhi, Pair ( Jh Jd Tc 9h 7c )
+Wins: Gunhi, chips: 10
+Quits: Save, chips: 0
+Ranking: Gunhi, Place: 1, Score: 6000
+Reveal AI: Gunhi, AI: Smart
+Ranking: Save, Place: 2, Score: -1000
+Reveal AI: Save, AI: AIMyBot1
+Ranking: Chaku, Place: 3, Score: -1000
+Reveal AI: Chaku, AI: Random
+Ranking: Balo, Place: 4, Score: -1000
+Reveal AI: Balo, AI: Smart
+Ranking: Keesuk, Place: 5, Score: -1000
+Reveal AI: Keesuk, AI: Random
+Ranking: Roe, Place: 6, Score: -1000
+Reveal AI: Roe, AI: Call
+Ranking: Pise, Place: 7, Score: -1000
+Reveal AI: Pise, AI: Call
+
+Player Stats for Balo, AI: Smart
+General: deals: 56, actions: 98, preflop actions: 60
+Rounds Seen: flops: 79, turns: 67, rivers: 53, showdowns: 46
+Wins: total: 10, showdown: 4, bluff: 6
+Chips: won: 990, lost: 1990, bought: 1000, forced bets: 195
+Pre-Flop Stats: VP$IP: 0.214286, PFR: 0.107143, 3Bet: 0.0535714
+Post-Flop Stats: AF: 1.6, WSD: 0.582278, WSDW: 0.0869565
+
+
+Player Stats for Chaku, AI: Random
+General: deals: 91, actions: 207, preflop actions: 94
+Rounds Seen: flops: 96, turns: 82, rivers: 64, showdowns: 56
+Wins: total: 44, showdown: 10, bluff: 34
+Chips: won: 5176, lost: 9083, bought: 1000, forced bets: 355
+Pre-Flop Stats: VP$IP: 0.582418, PFR: 0.263736, 3Bet: 0.208791
+Post-Flop Stats: AF: 2.5, WSD: 0.583333, WSDW: 0.178571
+
+
+Player Stats for Gunhi, AI: Smart
+General: deals: 380, actions: 468, preflop actions: 247
+Rounds Seen: flops: 86, turns: 71, rivers: 56, showdowns: 48
+Wins: total: 218, showdown: 30, bluff: 188
+Chips: won: 53965, lost: 47965, bought: 1000, forced bets: 2530
+Pre-Flop Stats: VP$IP: 0.25, PFR: 0.0447368, 3Bet: 0.0421053
+Post-Flop Stats: AF: 3.54545, WSD: 0.55814, WSDW: 0.625
+
+
+Player Stats for Keesuk, AI: Random
+General: deals: 24, actions: 66, preflop actions: 26
+Rounds Seen: flops: 99, turns: 84, rivers: 66, showdowns: 58
+Wins: total: 10, showdown: 7, bluff: 3
+Chips: won: 935, lost: 3675, bought: 1000, forced bets: 70
+Pre-Flop Stats: VP$IP: 0.583333, PFR: 0.375, 3Bet: 0.333333
+Post-Flop Stats: AF: 2, WSD: 0.585859, WSDW: 0.12069
+
+
+Player Stats for Pise, AI: Call
+General: deals: 8, actions: 42, preflop actions: 10
+Rounds Seen: flops: 103, turns: 90, rivers: 72, showdowns: 64
+Wins: total: 1, showdown: 1, bluff: 0
+Chips: won: 290, lost: 1300, bought: 1000, forced bets: 15
+Pre-Flop Stats: VP$IP: 1, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: 0, WSD: 0.621359, WSDW: 0.015625
+
+
+Player Stats for Roe, AI: Call
+General: deals: 10, actions: 42, preflop actions: 13
+Rounds Seen: flops: 103, turns: 90, rivers: 72, showdowns: 64
+Wins: total: 3, showdown: 3, bluff: 0
+Chips: won: 340, lost: 1345, bought: 1000, forced bets: 15
+Pre-Flop Stats: VP$IP: 1, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: 0, WSD: 0.621359, WSDW: 0.046875
+
+
+Player Stats for Save, AI: AIMyBot1
+General: deals: 380, actions: 471, preflop actions: 294
+Rounds Seen: flops: 63, turns: 53, rivers: 39, showdowns: 32
+Wins: total: 98, showdown: 13, bluff: 85
+Chips: won: 1515, lost: 2515, bought: 1000, forced bets: 2515
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 0.507937, WSDW: 0.40625
+
+

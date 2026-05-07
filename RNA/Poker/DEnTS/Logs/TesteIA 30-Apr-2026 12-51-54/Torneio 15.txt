@@ -1,0 +1,1910 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Fowroerli: Smart
+Wettoefel: Call
+Jidutta: AIMyBot1
+Hachanoe: Call
+Wonochoe: Random
+Segubuf: Random
+Jo: Smart
+
+Joins: Fowroerli, chips: 1000
+Joins: Wettoefel, chips: 1000
+Joins: Jidutta, chips: 1000
+Joins: Hachanoe, chips: 1000
+Joins: Wonochoe, chips: 1000
+Joins: Segubuf, chips: 1000
+Joins: Jo, chips: 1000
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Fowroerli
+Small Blind: Wettoefel, chips: 5
+Big Blind: Jidutta, chips: 10
+Calls: Hachanoe
+Calls: Wonochoe
+Calls: Segubuf
+Raises: Jo, chips: 20
+Folds: Fowroerli
+Calls: Wettoefel
+Raises: Jidutta, chips: 80
+Calls: Hachanoe
+Calls: Wonochoe
+Calls: Segubuf
+Folds: Jo
+Calls: Wettoefel
+Flop: Kh 9d 5s
+Checks: Wettoefel
+Raises: Jidutta, chips: 160
+Calls: Hachanoe
+Calls: Wonochoe
+Calls: Segubuf
+Calls: Wettoefel
+Turn: 8c
+Checks: Wettoefel
+Raises: Jidutta, chips: 320
+Calls: Hachanoe
+Calls: Wonochoe
+Raises: Segubuf, chips: 410
+Calls: Wettoefel
+Calls: Jidutta
+Calls: Hachanoe
+Calls: Wonochoe
+River: 5c
+Pot size: 5030
+Showdown Reached
+Shows: Wettoefel, 7c Ks
+Combination: Wettoefel, Two Pair ( Ks Kh 5s 5c 9d )
+Shows: Jidutta, 4d Th
+Combination: Jidutta, Pair ( 5s 5c Kh Th 9d )
+Shows: Hachanoe, Qd 7h
+Combination: Hachanoe, Pair ( 5s 5c Kh Qd 9d )
+Shows: Wonochoe, Jc Ad
+Combination: Wonochoe, Pair ( 5s 5c Ad Kh Jc )
+Shows: Segubuf, 4c 4s
+Combination: Segubuf, Two Pair ( 5s 5c 4c 4s Kh )
+Wins: Wettoefel, chips: 5030
+Quits: Jidutta, chips: 0
+Quits: Hachanoe, chips: 0
+Quits: Wonochoe, chips: 0
+Quits: Segubuf, chips: 0
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wettoefel
+Small Blind: Jo, chips: 5
+Big Blind: Fowroerli, chips: 10
+Calls: Wettoefel
+Calls: Jo
+Raises: Fowroerli, chips: 10
+Calls: Wettoefel
+Raises: Jo, chips: 10
+Raises: Fowroerli, chips: 10
+Calls: Wettoefel
+Raises: Jo, chips: 930
+Folds: Fowroerli
+Calls: Wettoefel
+Flop: Qs 2c 4c
+Turn: 2s
+River: 5d
+Pot size: 1980
+Showdown Reached
+Shows: Wettoefel, As Jd
+Combination: Wettoefel, Pair ( 2c 2s As Qs Jd )
+Shows: Jo, Kc Ks
+Combination: Jo, Two Pair ( Kc Ks 2c 2s Qs )
+Wins: Jo, chips: 1980
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jo
+Small Blind: Fowroerli, chips: 5
+Big Blind: Wettoefel, chips: 10
+Folds: Jo
+Folds: Fowroerli
+Pot size: 15
+Wins: Wettoefel, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Fowroerli
+Small Blind: Wettoefel, chips: 5
+Big Blind: Jo, chips: 10
+Folds: Fowroerli
+Calls: Wettoefel
+Checks: Jo
+Flop: Kh 5s As
+Checks: Wettoefel
+Checks: Jo
+Turn: 8d
+Checks: Wettoefel
+Checks: Jo
+River: Jc
+Checks: Wettoefel
+Raises: Jo, chips: 10
+Calls: Wettoefel
+Pot size: 40
+Showdown Reached
+Shows: Wettoefel, Tc 3d
+Combination: Wettoefel, High Card ( As Kh Jc Tc 8d )
+Shows: Jo, 8c 9d
+Combination: Jo, Pair ( 8c 8d As Kh Jc )
+Wins: Jo, chips: 40
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wettoefel
+Small Blind: Jo, chips: 5
+Big Blind: Fowroerli, chips: 10
+Calls: Wettoefel
+Raises: Jo, chips: 15
+Folds: Fowroerli
+Calls: Wettoefel
+Flop: 5d 8d 7s
+Checks: Jo
+Checks: Wettoefel
+Turn: 5h
+Raises: Jo, chips: 20
+Calls: Wettoefel
+River: 9s
+Checks: Jo
+Checks: Wettoefel
+Pot size: 100
+Showdown Reached
+Shows: Wettoefel, Js Qh
+Combination: Wettoefel, Pair ( 5d 5h Qh Js 9s )
+Shows: Jo, As Kd
+Combination: Jo, Pair ( 5d 5h As Kd 9s )
+Wins: Jo, chips: 100
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jo
+Small Blind: Fowroerli, chips: 5
+Big Blind: Wettoefel, chips: 10
+Raises: Jo, chips: 20
+Folds: Fowroerli
+Calls: Wettoefel
+Flop: 8d 9d 5d
+Checks: Wettoefel
+Raises: Jo, chips: 2025
+Calls: Wettoefel
+Turn: 2h
+River: 6s
+Pot size: 4115
+Showdown Reached
+Shows: Wettoefel, 3h 4d
+Combination: Wettoefel, Straight ( 6s 5d 4d 3h 2h )
+Shows: Jo, Jd Td
+Combination: Jo, Flush ( Jd Td 9d 8d 5d )
+Wins: Jo, chips: 4115
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Fowroerli
+Small Blind: Wettoefel, chips: 5
+Big Blind: Jo, chips: 10
+Folds: Fowroerli
+Calls: Wettoefel
+Checks: Jo
+Flop: Kd 8d 2c
+Checks: Wettoefel
+Checks: Jo
+Turn: Kh
+Checks: Wettoefel
+Checks: Jo
+River: Qd
+Checks: Wettoefel
+Checks: Jo
+Pot size: 20
+Showdown Reached
+Shows: Wettoefel, Ah 2s
+Combination: Wettoefel, Two Pair ( Kd Kh 2s 2c Ah )
+Shows: Jo, 4c 6c
+Combination: Jo, Pair ( Kd Kh Qd 8d 6c )
+Wins: Wettoefel, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wettoefel
+Small Blind: Jo, chips: 5
+Big Blind: Fowroerli, chips: 10
+Calls: Wettoefel
+Folds: Jo
+Checks: Fowroerli
+Flop: 8h 7h Ks
+Checks: Fowroerli
+Checks: Wettoefel
+Turn: 9d
+Checks: Fowroerli
+Checks: Wettoefel
+River: 8d
+Raises: Fowroerli, chips: 10
+Calls: Wettoefel
+Pot size: 45
+Showdown Reached
+Shows: Fowroerli, Kc 6d
+Combination: Fowroerli, Two Pair ( Kc Ks 8h 8d 9d )
+Shows: Wettoefel, 9s 8c
+Combination: Wettoefel, Full House ( 8c 8h 8d 9s 9d )
+Wins: Wettoefel, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jo
+Small Blind: Fowroerli, chips: 5
+Big Blind: Wettoefel, chips: 10
+Folds: Jo
+Folds: Fowroerli
+Pot size: 15
+Wins: Wettoefel, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Fowroerli
+Small Blind: Wettoefel, chips: 5
+Big Blind: Jo, chips: 10
+Folds: Fowroerli
+Calls: Wettoefel
+Checks: Jo
+Flop: Ac 6h 4c
+Checks: Wettoefel
+Checks: Jo
+Turn: Kc
+Checks: Wettoefel
+Checks: Jo
+River: 2s
+Checks: Wettoefel
+Checks: Jo
+Pot size: 20
+Showdown Reached
+Shows: Wettoefel, 6c 6d
+Combination: Wettoefel, Three Of A Kind ( 6c 6d 6h Ac Kc )
+Shows: Jo, 7s 3d
+Combination: Jo, High Card ( Ac Kc 7s 6h 4c )
+Wins: Wettoefel, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wettoefel
+Small Blind: Jo, chips: 5
+Big Blind: Fowroerli, chips: 10
+Calls: Wettoefel
+Folds: Jo
+Checks: Fowroerli
+Flop: Qs Td 6d
+Checks: Fowroerli
+Checks: Wettoefel
+Turn: 8s
+Checks: Fowroerli
+Checks: Wettoefel
+River: 4h
+Checks: Fowroerli
+Checks: Wettoefel
+Pot size: 25
+Showdown Reached
+Shows: Fowroerli, 3s 2c
+Combination: Fowroerli, High Card ( Qs Td 8s 6d 4h )
+Shows: Wettoefel, Js 8d
+Combination: Wettoefel, Pair ( 8d 8s Qs Js Td )
+Wins: Wettoefel, chips: 25
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jo
+Small Blind: Fowroerli, chips: 5
+Big Blind: Wettoefel, chips: 10
+Folds: Jo
+Folds: Fowroerli
+Pot size: 15
+Wins: Wettoefel, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Fowroerli
+Small Blind: Wettoefel, chips: 5
+Big Blind: Jo, chips: 10
+Folds: Fowroerli
+Calls: Wettoefel
+Checks: Jo
+Flop: Jc Jh 9c
+Checks: Wettoefel
+Checks: Jo
+Turn: Tc
+Checks: Wettoefel
+Checks: Jo
+River: 7c
+Checks: Wettoefel
+Raises: Jo, chips: 10
+Calls: Wettoefel
+Pot size: 40
+Showdown Reached
+Shows: Wettoefel, Qh Qc
+Combination: Wettoefel, Flush ( Qc Jc Tc 9c 7c )
+Shows: Jo, Kc 3d
+Combination: Jo, Flush ( Kc Jc Tc 9c 7c )
+Wins: Jo, chips: 40
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wettoefel
+Small Blind: Jo, chips: 5
+Big Blind: Fowroerli, chips: 10
+Calls: Wettoefel
+Folds: Jo
+Checks: Fowroerli
+Flop: 6d Kh 9c
+Checks: Fowroerli
+Checks: Wettoefel
+Turn: 6h
+Checks: Fowroerli
+Checks: Wettoefel
+River: 2s
+Checks: Fowroerli
+Checks: Wettoefel
+Pot size: 25
+Showdown Reached
+Shows: Fowroerli, 9h Ts
+Combination: Fowroerli, Two Pair ( 9h 9c 6d 6h Kh )
+Shows: Wettoefel, Ah Js
+Combination: Wettoefel, Pair ( 6d 6h Ah Kh Js )
+Wins: Fowroerli, chips: 25
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jo
+Small Blind: Fowroerli, chips: 5
+Big Blind: Wettoefel, chips: 10
+Calls: Jo
+Raises: Fowroerli, chips: 15
+Calls: Wettoefel
+Raises: Jo, chips: 25
+Folds: Fowroerli
+Calls: Wettoefel
+Flop: As 3s Jd
+Checks: Wettoefel
+Checks: Jo
+Turn: 5c
+Checks: Wettoefel
+Checks: Jo
+River: Js
+Checks: Wettoefel
+Checks: Jo
+Pot size: 125
+Showdown Reached
+Shows: Wettoefel, 8s 9h
+Combination: Wettoefel, Pair ( Jd Js As 9h 8s )
+Shows: Jo, Qh Qd
+Combination: Jo, Two Pair ( Qh Qd Jd Js As )
+Wins: Jo, chips: 125
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Fowroerli
+Small Blind: Wettoefel, chips: 5
+Big Blind: Jo, chips: 10
+Raises: Fowroerli, chips: 20
+Calls: Wettoefel
+Folds: Jo
+Flop: 2c Ac Jd
+Checks: Wettoefel
+Checks: Fowroerli
+Turn: 6h
+Checks: Wettoefel
+Checks: Fowroerli
+River: 2s
+Checks: Wettoefel
+Raises: Fowroerli, chips: 30
+Calls: Wettoefel
+Pot size: 130
+Showdown Reached
+Shows: Fowroerli, Td Th
+Combination: Fowroerli, Two Pair ( Td Th 2c 2s Ac )
+Shows: Wettoefel, 6c 6d
+Combination: Wettoefel, Full House ( 6c 6d 6h 2c 2s )
+Wins: Wettoefel, chips: 130
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wettoefel
+Small Blind: Jo, chips: 5
+Big Blind: Fowroerli, chips: 10
+Calls: Wettoefel
+Calls: Jo
+Checks: Fowroerli
+Flop: Jc 7s Jh
+Checks: Jo
+Checks: Fowroerli
+Checks: Wettoefel
+Turn: Qs
+Checks: Jo
+Checks: Fowroerli
+Checks: Wettoefel
+River: Th
+Checks: Jo
+Checks: Fowroerli
+Checks: Wettoefel
+Pot size: 30
+Showdown Reached
+Shows: Fowroerli, 8c 2d
+Combination: Fowroerli, Pair ( Jc Jh Qs Th 8c )
+Shows: Wettoefel, 3h 8d
+Combination: Wettoefel, Pair ( Jc Jh Qs Th 8d )
+Shows: Jo, Ks Td
+Combination: Jo, Two Pair ( Jc Jh Td Th Ks )
+Wins: Jo, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jo
+Small Blind: Fowroerli, chips: 5
+Big Blind: Wettoefel, chips: 10
+Folds: Jo
+Folds: Fowroerli
+Pot size: 15
+Wins: Wettoefel, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Fowroerli
+Small Blind: Wettoefel, chips: 5
+Big Blind: Jo, chips: 10
+Calls: Fowroerli
+Calls: Wettoefel
+Checks: Jo
+Flop: 4c 6h 6d
+Checks: Wettoefel
+Checks: Jo
+Checks: Fowroerli
+Turn: 2c
+Checks: Wettoefel
+Checks: Jo
+Checks: Fowroerli
+River: Th
+Checks: Wettoefel
+Checks: Jo
+Checks: Fowroerli
+Pot size: 30
+Showdown Reached
+Shows: Fowroerli, Ah 9d
+Combination: Fowroerli, Pair ( 6h 6d Ah Th 9d )
+Shows: Wettoefel, Jc 9h
+Combination: Wettoefel, Pair ( 6h 6d Jc Th 9h )
+Shows: Jo, Js Qc
+Combination: Jo, Pair ( 6h 6d Qc Js Th )
+Wins: Fowroerli, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wettoefel
+Small Blind: Jo, chips: 5
+Big Blind: Fowroerli, chips: 10
+Calls: Wettoefel
+Calls: Jo
+Checks: Fowroerli
+Flop: 5s 7h 6s
+Checks: Jo
+Checks: Fowroerli
+Checks: Wettoefel
+Turn: As
+Checks: Jo
+Checks: Fowroerli
+Checks: Wettoefel
+River: 2s
+Checks: Jo
+Checks: Fowroerli
+Checks: Wettoefel
+Pot size: 30
+Showdown Reached
+Shows: Fowroerli, 4c Ts
+Combination: Fowroerli, Flush ( As Ts 6s 5s 2s )
+Shows: Wettoefel, 9h 2d
+Combination: Wettoefel, Pair ( 2d 2s As 9h 7h )
+Shows: Jo, 5h 8h
+Combination: Jo, Pair ( 5h 5s As 8h 7h )
+Wins: Fowroerli, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jo
+Small Blind: Fowroerli, chips: 5
+Big Blind: Wettoefel, chips: 10
+Folds: Jo
+Folds: Fowroerli
+Pot size: 15
+Wins: Wettoefel, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Fowroerli
+Small Blind: Wettoefel, chips: 5
+Big Blind: Jo, chips: 10
+Calls: Fowroerli
+Calls: Wettoefel
+Checks: Jo
+Flop: Js 6c Ad
+Checks: Wettoefel
+Checks: Jo
+Checks: Fowroerli
+Turn: 8d
+Checks: Wettoefel
+Checks: Jo
+Checks: Fowroerli
+River: 9h
+Checks: Wettoefel
+Raises: Jo, chips: 10
+Folds: Fowroerli
+Calls: Wettoefel
+Pot size: 50
+Showdown Reached
+Shows: Wettoefel, 8s 7s
+Combination: Wettoefel, Pair ( 8s 8d Ad Js 9h )
+Shows: Jo, 5c 7d
+Combination: Jo, Straight ( 9h 8d 7d 6c 5c )
+Wins: Jo, chips: 50
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wettoefel
+Small Blind: Jo, chips: 5
+Big Blind: Fowroerli, chips: 10
+Calls: Wettoefel
+Folds: Jo
+Checks: Fowroerli
+Flop: 4c 9c Ad
+Checks: Fowroerli
+Checks: Wettoefel
+Turn: 8h
+Raises: Fowroerli, chips: 10
+Calls: Wettoefel
+River: 9d
+Raises: Fowroerli, chips: 820
+Calls: Wettoefel
+Pot size: 1685
+Showdown Reached
+Shows: Fowroerli, As 2d
+Combination: Fowroerli, Two Pair ( As Ad 9c 9d 8h )
+Shows: Wettoefel, Ts 9s
+Combination: Wettoefel, Three Of A Kind ( 9s 9c 9d Ad Ts )
+Wins: Wettoefel, chips: 1685
+Quits: Fowroerli, chips: 0
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jo
+Small Blind: Jo, chips: 5
+Big Blind: Wettoefel, chips: 10
+Folds: Jo
+Pot size: 15
+Wins: Wettoefel, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wettoefel
+Small Blind: Wettoefel, chips: 5
+Big Blind: Jo, chips: 10
+Calls: Wettoefel
+Checks: Jo
+Flop: Qh Tc Ts
+Checks: Jo
+Checks: Wettoefel
+Turn: Qc
+Raises: Jo, chips: 10
+Calls: Wettoefel
+River: 8c
+Raises: Jo, chips: 10
+Calls: Wettoefel
+Pot size: 60
+Showdown Reached
+Shows: Wettoefel, Qd 8s
+Combination: Wettoefel, Full House ( Qd Qh Qc Tc Ts )
+Shows: Jo, 9c Jc
+Combination: Jo, Straight Flush ( Qc Jc Tc 9c 8c )
+Wins: Jo, chips: 60
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jo
+Small Blind: Jo, chips: 5
+Big Blind: Wettoefel, chips: 10
+Calls: Jo
+Checks: Wettoefel
+Flop: 8s Ac Ks
+Checks: Wettoefel
+Raises: Jo, chips: 10
+Calls: Wettoefel
+Turn: Ts
+Checks: Wettoefel
+Checks: Jo
+River: 6s
+Checks: Wettoefel
+Checks: Jo
+Pot size: 40
+Showdown Reached
+Shows: Wettoefel, 3d 5c
+Combination: Wettoefel, High Card ( Ac Ks Ts 8s 6s )
+Shows: Jo, 4s 4d
+Combination: Jo, Flush ( Ks Ts 8s 6s 4s )
+Wins: Jo, chips: 40
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wettoefel
+Small Blind: Wettoefel, chips: 5
+Big Blind: Jo, chips: 10
+Calls: Wettoefel
+Checks: Jo
+Flop: Th Td 9c
+Raises: Jo, chips: 10
+Calls: Wettoefel
+Turn: Tc
+Raises: Jo, chips: 10
+Calls: Wettoefel
+River: Kc
+Checks: Jo
+Checks: Wettoefel
+Pot size: 60
+Showdown Reached
+Shows: Wettoefel, 6h Ts
+Combination: Wettoefel, Four Of A Kind ( Ts Th Td Tc Kc )
+Shows: Jo, Kd 6s
+Combination: Jo, Full House ( Th Td Tc Kd Kc )
+Wins: Wettoefel, chips: 60
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jo
+Small Blind: Jo, chips: 5
+Big Blind: Wettoefel, chips: 10
+Calls: Jo
+Checks: Wettoefel
+Flop: 5d 6c Ad
+Checks: Wettoefel
+Checks: Jo
+Turn: Jh
+Checks: Wettoefel
+Checks: Jo
+River: As
+Checks: Wettoefel
+Raises: Jo, chips: 10
+Calls: Wettoefel
+Pot size: 40
+Showdown Reached
+Shows: Wettoefel, 6d 9d
+Combination: Wettoefel, Two Pair ( Ad As 6d 6c Jh )
+Shows: Jo, 8c Js
+Combination: Jo, Two Pair ( Ad As Js Jh 8c )
+Wins: Jo, chips: 40
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wettoefel
+Small Blind: Wettoefel, chips: 5
+Big Blind: Jo, chips: 10
+Calls: Wettoefel
+Checks: Jo
+Flop: 6h 5d 7h
+Checks: Jo
+Checks: Wettoefel
+Turn: 3s
+Raises: Jo, chips: 10
+Calls: Wettoefel
+River: Qc
+Checks: Jo
+Checks: Wettoefel
+Pot size: 40
+Showdown Reached
+Shows: Wettoefel, Ks 8c
+Combination: Wettoefel, High Card ( Ks Qc 8c 7h 6h )
+Shows: Jo, 2s 4s
+Combination: Jo, Straight ( 7h 6h 5d 4s 3s )
+Wins: Jo, chips: 40
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jo
+Small Blind: Jo, chips: 5
+Big Blind: Wettoefel, chips: 10
+Raises: Jo, chips: 15
+Calls: Wettoefel
+Flop: 7s 5d 6d
+Checks: Wettoefel
+Checks: Jo
+Turn: 9s
+Checks: Wettoefel
+Checks: Jo
+River: 7c
+Checks: Wettoefel
+Checks: Jo
+Pot size: 50
+Showdown Reached
+Shows: Wettoefel, Ac 3c
+Combination: Wettoefel, Pair ( 7s 7c Ac 9s 6d )
+Shows: Jo, Qd Kd
+Combination: Jo, Pair ( 7s 7c Kd Qd 9s )
+Wins: Wettoefel, chips: 50
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wettoefel
+Small Blind: Wettoefel, chips: 5
+Big Blind: Jo, chips: 10
+Calls: Wettoefel
+Raises: Jo, chips: 10
+Calls: Wettoefel
+Flop: Ad 3c 2s
+Checks: Jo
+Checks: Wettoefel
+Turn: 9d
+Raises: Jo, chips: 10
+Calls: Wettoefel
+River: 8h
+Checks: Jo
+Checks: Wettoefel
+Pot size: 60
+Showdown Reached
+Shows: Wettoefel, Jh Qc
+Combination: Wettoefel, High Card ( Ad Qc Jh 9d 8h )
+Shows: Jo, Kc Ks
+Combination: Jo, Pair ( Kc Ks Ad 9d 8h )
+Wins: Jo, chips: 60
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jo
+Small Blind: Jo, chips: 5
+Big Blind: Wettoefel, chips: 10
+Raises: Jo, chips: 15
+Calls: Wettoefel
+Flop: Jh 4d Jc
+Checks: Wettoefel
+Raises: Jo, chips: 20
+Calls: Wettoefel
+Turn: Qh
+Checks: Wettoefel
+Checks: Jo
+River: 3h
+Checks: Wettoefel
+Checks: Jo
+Pot size: 90
+Showdown Reached
+Shows: Wettoefel, 5d 3d
+Combination: Wettoefel, Two Pair ( Jh Jc 3d 3h Qh )
+Shows: Jo, Ad 2d
+Combination: Jo, Pair ( Jh Jc Ad Qh 4d )
+Wins: Wettoefel, chips: 90
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wettoefel
+Small Blind: Wettoefel, chips: 5
+Big Blind: Jo, chips: 10
+Calls: Wettoefel
+Checks: Jo
+Flop: 3h 6s 2c
+Checks: Jo
+Checks: Wettoefel
+Turn: 7d
+Checks: Jo
+Checks: Wettoefel
+River: 8h
+Raises: Jo, chips: 10
+Calls: Wettoefel
+Pot size: 40
+Showdown Reached
+Shows: Wettoefel, 8c 5h
+Combination: Wettoefel, Pair ( 8c 8h 7d 6s 5h )
+Shows: Jo, 7c 5c
+Combination: Jo, Pair ( 7c 7d 8h 6s 5c )
+Wins: Wettoefel, chips: 40
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jo
+Small Blind: Jo, chips: 5
+Big Blind: Wettoefel, chips: 10
+Folds: Jo
+Pot size: 15
+Wins: Wettoefel, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wettoefel
+Small Blind: Wettoefel, chips: 5
+Big Blind: Jo, chips: 10
+Calls: Wettoefel
+Raises: Jo, chips: 10
+Calls: Wettoefel
+Flop: 3s 5s 4d
+Checks: Jo
+Checks: Wettoefel
+Turn: 2h
+Checks: Jo
+Checks: Wettoefel
+River: Qs
+Checks: Jo
+Checks: Wettoefel
+Pot size: 40
+Showdown Reached
+Shows: Wettoefel, 9c 8c
+Combination: Wettoefel, High Card ( Qs 9c 8c 5s 4d )
+Shows: Jo, Kh Qd
+Combination: Jo, Pair ( Qd Qs Kh 5s 4d )
+Wins: Jo, chips: 40
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jo
+Small Blind: Jo, chips: 5
+Big Blind: Wettoefel, chips: 10
+Folds: Jo
+Pot size: 15
+Wins: Wettoefel, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wettoefel
+Small Blind: Wettoefel, chips: 5
+Big Blind: Jo, chips: 10
+Calls: Wettoefel
+Checks: Jo
+Flop: 5h 9s 2c
+Raises: Jo, chips: 10
+Calls: Wettoefel
+Turn: Td
+Checks: Jo
+Checks: Wettoefel
+River: 6c
+Checks: Jo
+Checks: Wettoefel
+Pot size: 40
+Showdown Reached
+Shows: Wettoefel, 4d 5s
+Combination: Wettoefel, Pair ( 5s 5h Td 9s 6c )
+Shows: Jo, Qs 9h
+Combination: Jo, Pair ( 9h 9s Qs Td 6c )
+Wins: Jo, chips: 40
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jo
+Small Blind: Jo, chips: 5
+Big Blind: Wettoefel, chips: 10
+Folds: Jo
+Pot size: 15
+Wins: Wettoefel, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wettoefel
+Small Blind: Wettoefel, chips: 5
+Big Blind: Jo, chips: 10
+Calls: Wettoefel
+Checks: Jo
+Flop: Ts 4s Qc
+Checks: Jo
+Checks: Wettoefel
+Turn: 3h
+Checks: Jo
+Checks: Wettoefel
+River: 7h
+Checks: Jo
+Checks: Wettoefel
+Pot size: 20
+Showdown Reached
+Shows: Wettoefel, 4h 9c
+Combination: Wettoefel, Pair ( 4h 4s Qc Ts 9c )
+Shows: Jo, 7c 9s
+Combination: Jo, Pair ( 7c 7h Qc Ts 9s )
+Wins: Jo, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jo
+Small Blind: Jo, chips: 5
+Big Blind: Wettoefel, chips: 10
+Folds: Jo
+Pot size: 15
+Wins: Wettoefel, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wettoefel
+Small Blind: Wettoefel, chips: 5
+Big Blind: Jo, chips: 10
+Calls: Wettoefel
+Checks: Jo
+Flop: 6h Jh 4d
+Checks: Jo
+Checks: Wettoefel
+Turn: 5s
+Checks: Jo
+Checks: Wettoefel
+River: 6c
+Raises: Jo, chips: 10
+Calls: Wettoefel
+Pot size: 40
+Showdown Reached
+Shows: Wettoefel, 9d Jc
+Combination: Wettoefel, Two Pair ( Jc Jh 6h 6c 9d )
+Shows: Jo, 5c 6s
+Combination: Jo, Full House ( 6s 6h 6c 5c 5s )
+Wins: Jo, chips: 40
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jo
+Small Blind: Jo, chips: 5
+Big Blind: Wettoefel, chips: 10
+Folds: Jo
+Pot size: 15
+Wins: Wettoefel, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wettoefel
+Small Blind: Wettoefel, chips: 5
+Big Blind: Jo, chips: 10
+Calls: Wettoefel
+Raises: Jo, chips: 4220
+Calls: Wettoefel
+Flop: Js 8h As
+Turn: 6s
+River: 5d
+Pot size: 7000
+Showdown Reached
+Shows: Wettoefel, 8d Td
+Combination: Wettoefel, Pair ( 8d 8h As Js Td )
+Shows: Jo, Th Ts
+Combination: Jo, Pair ( Th Ts As Js 8h )
+Wins: Jo, chips: 7000
+Quits: Wettoefel, chips: 0
+Ranking: Jo, Place: 1, Score: 6000
+Reveal AI: Jo, AI: Smart
+Ranking: Wettoefel, Place: 2, Score: -1000
+Reveal AI: Wettoefel, AI: Call
+Ranking: Fowroerli, Place: 3, Score: -1000
+Reveal AI: Fowroerli, AI: Smart
+Ranking: Segubuf, Place: 4, Score: -1000
+Reveal AI: Segubuf, AI: Random
+Ranking: Wonochoe, Place: 5, Score: -1000
+Reveal AI: Wonochoe, AI: Random
+Ranking: Hachanoe, Place: 6, Score: -1000
+Reveal AI: Hachanoe, AI: Call
+Ranking: Jidutta, Place: 7, Score: -1000
+Reveal AI: Jidutta, AI: AIMyBot1
+
+Player Stats for Fowroerli, AI: Smart
+General: deals: 23, actions: 53, preflop actions: 26
+Rounds Seen: flops: 23, turns: 23, rivers: 23, showdowns: 22
+Wins: total: 3, showdown: 3, bluff: 0
+Chips: won: 85, lost: 1085, bought: 1000, forced bets: 115
+Pre-Flop Stats: VP$IP: 0.217391, PFR: 0.130435, 3Bet: 0.130435
+Post-Flop Stats: AF: 1.#INF, WSD: 0.956522, WSDW: 0.136364
+
+
+Player Stats for Hachanoe, AI: Call
+General: deals: 1, actions: 5, preflop actions: 2
+Rounds Seen: flops: 32, turns: 32, rivers: 32, showdowns: 32
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 0
+Pre-Flop Stats: VP$IP: 1, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: 0, WSD: 1, WSDW: 0
+
+
+Player Stats for Jidutta, AI: AIMyBot1
+General: deals: 1, actions: 4, preflop actions: 1
+Rounds Seen: flops: 32, turns: 32, rivers: 32, showdowns: 32
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 10
+Pre-Flop Stats: VP$IP: 1, PFR: 1, 3Bet: 1
+Post-Flop Stats: AF: 2, WSD: 1, WSDW: 0
+
+
+Player Stats for Jo, AI: Smart
+General: deals: 43, actions: 117, preflop actions: 47
+Rounds Seen: flops: 26, turns: 26, rivers: 26, showdowns: 26
+Wins: total: 18, showdown: 18, bluff: 0
+Chips: won: 13860, lost: 7860, bought: 1000, forced bets: 260
+Pre-Flop Stats: VP$IP: 0.325581, PFR: 0.232558, 3Bet: 0.162791
+Post-Flop Stats: AF: 1.#INF, WSD: 1, WSDW: 0.692308
+
+
+Player Stats for Segubuf, AI: Random
+General: deals: 1, actions: 4, preflop actions: 2
+Rounds Seen: flops: 32, turns: 32, rivers: 32, showdowns: 32
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 0
+Pre-Flop Stats: VP$IP: 1, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: 1, WSD: 1, WSDW: 0
+
+
+Player Stats for Wettoefel, AI: Call
+General: deals: 43, actions: 138, preflop actions: 41
+Rounds Seen: flops: 32, turns: 32, rivers: 32, showdowns: 32
+Wins: total: 22, showdown: 11, bluff: 11
+Chips: won: 7360, lost: 9820, bought: 1000, forced bets: 260
+Pre-Flop Stats: VP$IP: 0.697674, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: 0, WSD: 1, WSDW: 0.34375
+
+
+Player Stats for Wonochoe, AI: Random
+General: deals: 1, actions: 5, preflop actions: 2
+Rounds Seen: flops: 32, turns: 32, rivers: 32, showdowns: 32
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 0
+Pre-Flop Stats: VP$IP: 1, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: 0, WSD: 1, WSDW: 0
+
+
+Date: 2026/04/30 12:52:36
+
+The game begins. The AI's of the players are: 
+Fowroerli: Smart
+Wettoefel: Call
+Jidutta: AIMyBot1
+Hachanoe: Call
+Wonochoe: Random
+Segubuf: Random
+Jo: Smart
+
+Joins: Fowroerli, chips: 1000
+Joins: Wettoefel, chips: 1000
+Joins: Jidutta, chips: 1000
+Joins: Hachanoe, chips: 1000
+Joins: Wonochoe, chips: 1000
+Joins: Segubuf, chips: 1000
+Joins: Jo, chips: 1000
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Fowroerli
+Small Blind: Wettoefel, chips: 5
+Big Blind: Jidutta, chips: 10
+Calls: Hachanoe
+Calls: Wonochoe
+Calls: Segubuf
+Raises: Jo, chips: 20
+Folds: Fowroerli
+Calls: Wettoefel
+Raises: Jidutta, chips: 80
+Calls: Hachanoe
+Calls: Wonochoe
+Calls: Segubuf
+Folds: Jo
+Calls: Wettoefel
+Flop: Kh 9d 5s
+Checks: Wettoefel
+Raises: Jidutta, chips: 160
+Calls: Hachanoe
+Calls: Wonochoe
+Calls: Segubuf
+Calls: Wettoefel
+Turn: 8c
+Checks: Wettoefel
+Raises: Jidutta, chips: 320
+Calls: Hachanoe
+Calls: Wonochoe
+Raises: Segubuf, chips: 410
+Calls: Wettoefel
+Calls: Jidutta
+Calls: Hachanoe
+Calls: Wonochoe
+River: 5c
+Pot size: 5030
+Showdown Reached
+Shows: Wettoefel, 7c Ks
+Combination: Wettoefel, Two Pair ( Ks Kh 5s 5c 9d )
+Shows: Jidutta, 4d Th
+Combination: Jidutta, Pair ( 5s 5c Kh Th 9d )
+Shows: Hachanoe, Qd 7h
+Combination: Hachanoe, Pair ( 5s 5c Kh Qd 9d )
+Shows: Wonochoe, Jc Ad
+Combination: Wonochoe, Pair ( 5s 5c Ad Kh Jc )
+Shows: Segubuf, 4c 4s
+Combination: Segubuf, Two Pair ( 5s 5c 4c 4s Kh )
+Wins: Wettoefel, chips: 5030
+Quits: Jidutta, chips: 0
+Quits: Hachanoe, chips: 0
+Quits: Wonochoe, chips: 0
+Quits: Segubuf, chips: 0
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wettoefel
+Small Blind: Jo, chips: 5
+Big Blind: Fowroerli, chips: 10
+Calls: Wettoefel
+Calls: Jo
+Raises: Fowroerli, chips: 10
+Calls: Wettoefel
+Raises: Jo, chips: 10
+Raises: Fowroerli, chips: 10
+Calls: Wettoefel
+Raises: Jo, chips: 930
+Folds: Fowroerli
+Calls: Wettoefel
+Flop: Qs 2c 4c
+Turn: 2s
+River: 5d
+Pot size: 1980
+Showdown Reached
+Shows: Wettoefel, As Jd
+Combination: Wettoefel, Pair ( 2c 2s As Qs Jd )
+Shows: Jo, Kc Ks
+Combination: Jo, Two Pair ( Kc Ks 2c 2s Qs )
+Wins: Jo, chips: 1980
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jo
+Small Blind: Fowroerli, chips: 5
+Big Blind: Wettoefel, chips: 10
+Folds: Jo
+Folds: Fowroerli
+Pot size: 15
+Wins: Wettoefel, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Fowroerli
+Small Blind: Wettoefel, chips: 5
+Big Blind: Jo, chips: 10
+Folds: Fowroerli
+Calls: Wettoefel
+Checks: Jo
+Flop: Kh 5s As
+Checks: Wettoefel
+Checks: Jo
+Turn: 8d
+Checks: Wettoefel
+Checks: Jo
+River: Jc
+Checks: Wettoefel
+Raises: Jo, chips: 10
+Calls: Wettoefel
+Pot size: 40
+Showdown Reached
+Shows: Wettoefel, Tc 3d
+Combination: Wettoefel, High Card ( As Kh Jc Tc 8d )
+Shows: Jo, 8c 9d
+Combination: Jo, Pair ( 8c 8d As Kh Jc )
+Wins: Jo, chips: 40
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wettoefel
+Small Blind: Jo, chips: 5
+Big Blind: Fowroerli, chips: 10
+Calls: Wettoefel
+Raises: Jo, chips: 15
+Folds: Fowroerli
+Calls: Wettoefel
+Flop: 5d 8d 7s
+Checks: Jo
+Checks: Wettoefel
+Turn: 5h
+Raises: Jo, chips: 20
+Calls: Wettoefel
+River: 9s
+Checks: Jo
+Checks: Wettoefel
+Pot size: 100
+Showdown Reached
+Shows: Wettoefel, Js Qh
+Combination: Wettoefel, Pair ( 5d 5h Qh Js 9s )
+Shows: Jo, As Kd
+Combination: Jo, Pair ( 5d 5h As Kd 9s )
+Wins: Jo, chips: 100
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jo
+Small Blind: Fowroerli, chips: 5
+Big Blind: Wettoefel, chips: 10
+Raises: Jo, chips: 20
+Folds: Fowroerli
+Calls: Wettoefel
+Flop: 8d 9d 5d
+Checks: Wettoefel
+Raises: Jo, chips: 2025
+Calls: Wettoefel
+Turn: 2h
+River: 6s
+Pot size: 4115
+Showdown Reached
+Shows: Wettoefel, 3h 4d
+Combination: Wettoefel, Straight ( 6s 5d 4d 3h 2h )
+Shows: Jo, Jd Td
+Combination: Jo, Flush ( Jd Td 9d 8d 5d )
+Wins: Jo, chips: 4115
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Fowroerli
+Small Blind: Wettoefel, chips: 5
+Big Blind: Jo, chips: 10
+Folds: Fowroerli
+Calls: Wettoefel
+Checks: Jo
+Flop: Kd 8d 2c
+Checks: Wettoefel
+Checks: Jo
+Turn: Kh
+Checks: Wettoefel
+Checks: Jo
+River: Qd
+Checks: Wettoefel
+Checks: Jo
+Pot size: 20
+Showdown Reached
+Shows: Wettoefel, Ah 2s
+Combination: Wettoefel, Two Pair ( Kd Kh 2s 2c Ah )
+Shows: Jo, 4c 6c
+Combination: Jo, Pair ( Kd Kh Qd 8d 6c )
+Wins: Wettoefel, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wettoefel
+Small Blind: Jo, chips: 5
+Big Blind: Fowroerli, chips: 10
+Calls: Wettoefel
+Folds: Jo
+Checks: Fowroerli
+Flop: 8h 7h Ks
+Checks: Fowroerli
+Checks: Wettoefel
+Turn: 9d
+Checks: Fowroerli
+Checks: Wettoefel
+River: 8d
+Raises: Fowroerli, chips: 10
+Calls: Wettoefel
+Pot size: 45
+Showdown Reached
+Shows: Fowroerli, Kc 6d
+Combination: Fowroerli, Two Pair ( Kc Ks 8h 8d 9d )
+Shows: Wettoefel, 9s 8c
+Combination: Wettoefel, Full House ( 8c 8h 8d 9s 9d )
+Wins: Wettoefel, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jo
+Small Blind: Fowroerli, chips: 5
+Big Blind: Wettoefel, chips: 10
+Folds: Jo
+Folds: Fowroerli
+Pot size: 15
+Wins: Wettoefel, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Fowroerli
+Small Blind: Wettoefel, chips: 5
+Big Blind: Jo, chips: 10
+Folds: Fowroerli
+Calls: Wettoefel
+Checks: Jo
+Flop: Ac 6h 4c
+Checks: Wettoefel
+Checks: Jo
+Turn: Kc
+Checks: Wettoefel
+Checks: Jo
+River: 2s
+Checks: Wettoefel
+Checks: Jo
+Pot size: 20
+Showdown Reached
+Shows: Wettoefel, 6c 6d
+Combination: Wettoefel, Three Of A Kind ( 6c 6d 6h Ac Kc )
+Shows: Jo, 7s 3d
+Combination: Jo, High Card ( Ac Kc 7s 6h 4c )
+Wins: Wettoefel, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wettoefel
+Small Blind: Jo, chips: 5
+Big Blind: Fowroerli, chips: 10
+Calls: Wettoefel
+Folds: Jo
+Checks: Fowroerli
+Flop: Qs Td 6d
+Checks: Fowroerli
+Checks: Wettoefel
+Turn: 8s
+Checks: Fowroerli
+Checks: Wettoefel
+River: 4h
+Checks: Fowroerli
+Checks: Wettoefel
+Pot size: 25
+Showdown Reached
+Shows: Fowroerli, 3s 2c
+Combination: Fowroerli, High Card ( Qs Td 8s 6d 4h )
+Shows: Wettoefel, Js 8d
+Combination: Wettoefel, Pair ( 8d 8s Qs Js Td )
+Wins: Wettoefel, chips: 25
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jo
+Small Blind: Fowroerli, chips: 5
+Big Blind: Wettoefel, chips: 10
+Folds: Jo
+Folds: Fowroerli
+Pot size: 15
+Wins: Wettoefel, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Fowroerli
+Small Blind: Wettoefel, chips: 5
+Big Blind: Jo, chips: 10
+Folds: Fowroerli
+Calls: Wettoefel
+Checks: Jo
+Flop: Jc Jh 9c
+Checks: Wettoefel
+Checks: Jo
+Turn: Tc
+Checks: Wettoefel
+Checks: Jo
+River: 7c
+Checks: Wettoefel
+Raises: Jo, chips: 10
+Calls: Wettoefel
+Pot size: 40
+Showdown Reached
+Shows: Wettoefel, Qh Qc
+Combination: Wettoefel, Flush ( Qc Jc Tc 9c 7c )
+Shows: Jo, Kc 3d
+Combination: Jo, Flush ( Kc Jc Tc 9c 7c )
+Wins: Jo, chips: 40
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wettoefel
+Small Blind: Jo, chips: 5
+Big Blind: Fowroerli, chips: 10
+Calls: Wettoefel
+Folds: Jo
+Checks: Fowroerli
+Flop: 6d Kh 9c
+Checks: Fowroerli
+Checks: Wettoefel
+Turn: 6h
+Checks: Fowroerli
+Checks: Wettoefel
+River: 2s
+Checks: Fowroerli
+Checks: Wettoefel
+Pot size: 25
+Showdown Reached
+Shows: Fowroerli, 9h Ts
+Combination: Fowroerli, Two Pair ( 9h 9c 6d 6h Kh )
+Shows: Wettoefel, Ah Js
+Combination: Wettoefel, Pair ( 6d 6h Ah Kh Js )
+Wins: Fowroerli, chips: 25
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jo
+Small Blind: Fowroerli, chips: 5
+Big Blind: Wettoefel, chips: 10
+Calls: Jo
+Raises: Fowroerli, chips: 15
+Calls: Wettoefel
+Raises: Jo, chips: 25
+Folds: Fowroerli
+Calls: Wettoefel
+Flop: As 3s Jd
+Checks: Wettoefel
+Checks: Jo
+Turn: 5c
+Checks: Wettoefel
+Checks: Jo
+River: Js
+Checks: Wettoefel
+Checks: Jo
+Pot size: 125
+Showdown Reached
+Shows: Wettoefel, 8s 9h
+Combination: Wettoefel, Pair ( Jd Js As 9h 8s )
+Shows: Jo, Qh Qd
+Combination: Jo, Two Pair ( Qh Qd Jd Js As )
+Wins: Jo, chips: 125
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Fowroerli
+Small Blind: Wettoefel, chips: 5
+Big Blind: Jo, chips: 10
+Raises: Fowroerli, chips: 20
+Calls: Wettoefel
+Folds: Jo
+Flop: 2c Ac Jd
+Checks: Wettoefel
+Checks: Fowroerli
+Turn: 6h
+Checks: Wettoefel
+Checks: Fowroerli
+River: 2s
+Checks: Wettoefel
+Raises: Fowroerli, chips: 30
+Calls: Wettoefel
+Pot size: 130
+Showdown Reached
+Shows: Fowroerli, Td Th
+Combination: Fowroerli, Two Pair ( Td Th 2c 2s Ac )
+Shows: Wettoefel, 6c 6d
+Combination: Wettoefel, Full House ( 6c 6d 6h 2c 2s )
+Wins: Wettoefel, chips: 130
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wettoefel
+Small Blind: Jo, chips: 5
+Big Blind: Fowroerli, chips: 10
+Calls: Wettoefel
+Calls: Jo
+Checks: Fowroerli
+Flop: Jc 7s Jh
+Checks: Jo
+Checks: Fowroerli
+Checks: Wettoefel
+Turn: Qs
+Checks: Jo
+Checks: Fowroerli
+Checks: Wettoefel
+River: Th
+Checks: Jo
+Checks: Fowroerli
+Checks: Wettoefel
+Pot size: 30
+Showdown Reached
+Shows: Fowroerli, 8c 2d
+Combination: Fowroerli, Pair ( Jc Jh Qs Th 8c )
+Shows: Wettoefel, 3h 8d
+Combination: Wettoefel, Pair ( Jc Jh Qs Th 8d )
+Shows: Jo, Ks Td
+Combination: Jo, Two Pair ( Jc Jh Td Th Ks )
+Wins: Jo, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jo
+Small Blind: Fowroerli, chips: 5
+Big Blind: Wettoefel, chips: 10
+Folds: Jo
+Folds: Fowroerli
+Pot size: 15
+Wins: Wettoefel, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Fowroerli
+Small Blind: Wettoefel, chips: 5
+Big Blind: Jo, chips: 10
+Calls: Fowroerli
+Calls: Wettoefel
+Checks: Jo
+Flop: 4c 6h 6d
+Checks: Wettoefel
+Checks: Jo
+Checks: Fowroerli
+Turn: 2c
+Checks: Wettoefel
+Checks: Jo
+Checks: Fowroerli
+River: Th
+Checks: Wettoefel
+Checks: Jo
+Checks: Fowroerli
+Pot size: 30
+Showdown Reached
+Shows: Fowroerli, Ah 9d
+Combination: Fowroerli, Pair ( 6h 6d Ah Th 9d )
+Shows: Wettoefel, Jc 9h
+Combination: Wettoefel, Pair ( 6h 6d Jc Th 9h )
+Shows: Jo, Js Qc
+Combination: Jo, Pair ( 6h 6d Qc Js Th )
+Wins: Fowroerli, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wettoefel
+Small Blind: Jo, chips: 5
+Big Blind: Fowroerli, chips: 10
+Calls: Wettoefel
+Calls: Jo
+Checks: Fowroerli
+Flop: 5s 7h 6s
+Checks: Jo
+Checks: Fowroerli
+Checks: Wettoefel
+Turn: As
+Checks: Jo
+Checks: Fowroerli
+Checks: Wettoefel
+River: 2s
+Checks: Jo
+Checks: Fowroerli
+Checks: Wettoefel
+Pot size: 30
+Showdown Reached
+Shows: Fowroerli, 4c Ts
+Combination: Fowroerli, Flush ( As Ts 6s 5s 2s )
+Shows: Wettoefel, 9h 2d
+Combination: Wettoefel, Pair ( 2d 2s As 9h 7h )
+Shows: Jo, 5h 8h
+Combination: Jo, Pair ( 5h 5s As 8h 7h )
+Wins: Fowroerli, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jo
+Small Blind: Fowroerli, chips: 5
+Big Blind: Wettoefel, chips: 10
+Folds: Jo
+Folds: Fowroerli
+Pot size: 15
+Wins: Wettoefel, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Fowroerli
+Small Blind: Wettoefel, chips: 5
+Big Blind: Jo, chips: 10
+Calls: Fowroerli
+Calls: Wettoefel
+Checks: Jo
+Flop: Js 6c Ad
+Checks: Wettoefel
+Checks: Jo
+Checks: Fowroerli
+Turn: 8d
+Checks: Wettoefel
+Checks: Jo
+Checks: Fowroerli
+River: 9h
+Checks: Wettoefel
+Raises: Jo, chips: 10
+Folds: Fowroerli
+Calls: Wettoefel
+Pot size: 50
+Showdown Reached
+Shows: Wettoefel, 8s 7s
+Combination: Wettoefel, Pair ( 8s 8d Ad Js 9h )
+Shows: Jo, 5c 7d
+Combination: Jo, Straight ( 9h 8d 7d 6c 5c )
+Wins: Jo, chips: 50
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wettoefel
+Small Blind: Jo, chips: 5
+Big Blind: Fowroerli, chips: 10
+Calls: Wettoefel
+Folds: Jo
+Checks: Fowroerli
+Flop: 4c 9c Ad
+Checks: Fowroerli
+Checks: Wettoefel
+Turn: 8h
+Raises: Fowroerli, chips: 10
+Calls: Wettoefel
+River: 9d
+Raises: Fowroerli, chips: 820
+Calls: Wettoefel
+Pot size: 1685
+Showdown Reached
+Shows: Fowroerli, As 2d
+Combination: Fowroerli, Two Pair ( As Ad 9c 9d 8h )
+Shows: Wettoefel, Ts 9s
+Combination: Wettoefel, Three Of A Kind ( 9s 9c 9d Ad Ts )
+Wins: Wettoefel, chips: 1685
+Quits: Fowroerli, chips: 0
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jo
+Small Blind: Jo, chips: 5
+Big Blind: Wettoefel, chips: 10
+Folds: Jo
+Pot size: 15
+Wins: Wettoefel, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wettoefel
+Small Blind: Wettoefel, chips: 5
+Big Blind: Jo, chips: 10
+Calls: Wettoefel
+Checks: Jo
+Flop: Qh Tc Ts
+Checks: Jo
+Checks: Wettoefel
+Turn: Qc
+Raises: Jo, chips: 10
+Calls: Wettoefel
+River: 8c
+Raises: Jo, chips: 10
+Calls: Wettoefel
+Pot size: 60
+Showdown Reached
+Shows: Wettoefel, Qd 8s
+Combination: Wettoefel, Full House ( Qd Qh Qc Tc Ts )
+Shows: Jo, 9c Jc
+Combination: Jo, Straight Flush ( Qc Jc Tc 9c 8c )
+Wins: Jo, chips: 60
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jo
+Small Blind: Jo, chips: 5
+Big Blind: Wettoefel, chips: 10
+Calls: Jo
+Checks: Wettoefel
+Flop: 8s Ac Ks
+Checks: Wettoefel
+Raises: Jo, chips: 10
+Calls: Wettoefel
+Turn: Ts
+Checks: Wettoefel
+Checks: Jo
+River: 6s
+Checks: Wettoefel
+Checks: Jo
+Pot size: 40
+Showdown Reached
+Shows: Wettoefel, 3d 5c
+Combination: Wettoefel, High Card ( Ac Ks Ts 8s 6s )
+Shows: Jo, 4s 4d
+Combination: Jo, Flush ( Ks Ts 8s 6s 4s )
+Wins: Jo, chips: 40
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wettoefel
+Small Blind: Wettoefel, chips: 5
+Big Blind: Jo, chips: 10
+Calls: Wettoefel
+Checks: Jo
+Flop: Th Td 9c
+Raises: Jo, chips: 10
+Calls: Wettoefel
+Turn: Tc
+Raises: Jo, chips: 10
+Calls: Wettoefel
+River: Kc
+Checks: Jo
+Checks: Wettoefel
+Pot size: 60
+Showdown Reached
+Shows: Wettoefel, 6h Ts
+Combination: Wettoefel, Four Of A Kind ( Ts Th Td Tc Kc )
+Shows: Jo, Kd 6s
+Combination: Jo, Full House ( Th Td Tc Kd Kc )
+Wins: Wettoefel, chips: 60
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jo
+Small Blind: Jo, chips: 5
+Big Blind: Wettoefel, chips: 10
+Calls: Jo
+Checks: Wettoefel
+Flop: 5d 6c Ad
+Checks: Wettoefel
+Checks: Jo
+Turn: Jh
+Checks: Wettoefel
+Checks: Jo
+River: As
+Checks: Wettoefel
+Raises: Jo, chips: 10
+Calls: Wettoefel
+Pot size: 40
+Showdown Reached
+Shows: Wettoefel, 6d 9d
+Combination: Wettoefel, Two Pair ( Ad As 6d 6c Jh )
+Shows: Jo, 8c Js
+Combination: Jo, Two Pair ( Ad As Js Jh 8c )
+Wins: Jo, chips: 40
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wettoefel
+Small Blind: Wettoefel, chips: 5
+Big Blind: Jo, chips: 10
+Calls: Wettoefel
+Checks: Jo
+Flop: 6h 5d 7h
+Checks: Jo
+Checks: Wettoefel
+Turn: 3s
+Raises: Jo, chips: 10
+Calls: Wettoefel
+River: Qc
+Checks: Jo
+Checks: Wettoefel
+Pot size: 40
+Showdown Reached
+Shows: Wettoefel, Ks 8c
+Combination: Wettoefel, High Card ( Ks Qc 8c 7h 6h )
+Shows: Jo, 2s 4s
+Combination: Jo, Straight ( 7h 6h 5d 4s 3s )
+Wins: Jo, chips: 40
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jo
+Small Blind: Jo, chips: 5
+Big Blind: Wettoefel, chips: 10
+Raises: Jo, chips: 15
+Calls: Wettoefel
+Flop: 7s 5d 6d
+Checks: Wettoefel
+Checks: Jo
+Turn: 9s
+Checks: Wettoefel
+Checks: Jo
+River: 7c
+Checks: Wettoefel
+Checks: Jo
+Pot size: 50
+Showdown Reached
+Shows: Wettoefel, Ac 3c
+Combination: Wettoefel, Pair ( 7s 7c Ac 9s 6d )
+Shows: Jo, Qd Kd
+Combination: Jo, Pair ( 7s 7c Kd Qd 9s )
+Wins: Wettoefel, chips: 50
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wettoefel
+Small Blind: Wettoefel, chips: 5
+Big Blind: Jo, chips: 10
+Calls: Wettoefel
+Raises: Jo, chips: 10
+Calls: Wettoefel
+Flop: Ad 3c 2s
+Checks: Jo
+Checks: Wettoefel
+Turn: 9d
+Raises: Jo, chips: 10
+Calls: Wettoefel
+River: 8h
+Checks: Jo
+Checks: Wettoefel
+Pot size: 60
+Showdown Reached
+Shows: Wettoefel, Jh Qc
+Combination: Wettoefel, High Card ( Ad Qc Jh 9d 8h )
+Shows: Jo, Kc Ks
+Combination: Jo, Pair ( Kc Ks Ad 9d 8h )
+Wins: Jo, chips: 60
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jo
+Small Blind: Jo, chips: 5
+Big Blind: Wettoefel, chips: 10
+Raises: Jo, chips: 15
+Calls: Wettoefel
+Flop: Jh 4d Jc
+Checks: Wettoefel
+Raises: Jo, chips: 20
+Calls: Wettoefel
+Turn: Qh
+Checks: Wettoefel
+Checks: Jo
+River: 3h
+Checks: Wettoefel
+Checks: Jo
+Pot size: 90
+Showdown Reached
+Shows: Wettoefel, 5d 3d
+Combination: Wettoefel, Two Pair ( Jh Jc 3d 3h Qh )
+Shows: Jo, Ad 2d
+Combination: Jo, Pair ( Jh Jc Ad Qh 4d )
+Wins: Wettoefel, chips: 90
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wettoefel
+Small Blind: Wettoefel, chips: 5
+Big Blind: Jo, chips: 10
+Calls: Wettoefel
+Checks: Jo
+Flop: 3h 6s 2c
+Checks: Jo
+Checks: Wettoefel
+Turn: 7d
+Checks: Jo
+Checks: Wettoefel
+River: 8h
+Raises: Jo, chips: 10
+Calls: Wettoefel
+Pot size: 40
+Showdown Reached
+Shows: Wettoefel, 8c 5h
+Combination: Wettoefel, Pair ( 8c 8h 7d 6s 5h )
+Shows: Jo, 7c 5c
+Combination: Jo, Pair ( 7c 7d 8h 6s 5c )
+Wins: Wettoefel, chips: 40
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jo
+Small Blind: Jo, chips: 5
+Big Blind: Wettoefel, chips: 10
+Folds: Jo
+Pot size: 15
+Wins: Wettoefel, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wettoefel
+Small Blind: Wettoefel, chips: 5
+Big Blind: Jo, chips: 10
+Calls: Wettoefel
+Raises: Jo, chips: 10
+Calls: Wettoefel
+Flop: 3s 5s 4d
+Checks: Jo
+Checks: Wettoefel
+Turn: 2h
+Checks: Jo
+Checks: Wettoefel
+River: Qs
+Checks: Jo
+Checks: Wettoefel
+Pot size: 40
+Showdown Reached
+Shows: Wettoefel, 9c 8c
+Combination: Wettoefel, High Card ( Qs 9c 8c 5s 4d )
+Shows: Jo, Kh Qd
+Combination: Jo, Pair ( Qd Qs Kh 5s 4d )
+Wins: Jo, chips: 40
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jo
+Small Blind: Jo, chips: 5
+Big Blind: Wettoefel, chips: 10
+Folds: Jo
+Pot size: 15
+Wins: Wettoefel, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wettoefel
+Small Blind: Wettoefel, chips: 5
+Big Blind: Jo, chips: 10
+Calls: Wettoefel
+Checks: Jo
+Flop: 5h 9s 2c
+Raises: Jo, chips: 10
+Calls: Wettoefel
+Turn: Td
+Checks: Jo
+Checks: Wettoefel
+River: 6c
+Checks: Jo
+Checks: Wettoefel
+Pot size: 40
+Showdown Reached
+Shows: Wettoefel, 4d 5s
+Combination: Wettoefel, Pair ( 5s 5h Td 9s 6c )
+Shows: Jo, Qs 9h
+Combination: Jo, Pair ( 9h 9s Qs Td 6c )
+Wins: Jo, chips: 40
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jo
+Small Blind: Jo, chips: 5
+Big Blind: Wettoefel, chips: 10
+Folds: Jo
+Pot size: 15
+Wins: Wettoefel, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wettoefel
+Small Blind: Wettoefel, chips: 5
+Big Blind: Jo, chips: 10
+Calls: Wettoefel
+Checks: Jo
+Flop: Ts 4s Qc
+Checks: Jo
+Checks: Wettoefel
+Turn: 3h
+Checks: Jo
+Checks: Wettoefel
+River: 7h
+Checks: Jo
+Checks: Wettoefel
+Pot size: 20
+Showdown Reached
+Shows: Wettoefel, 4h 9c
+Combination: Wettoefel, Pair ( 4h 4s Qc Ts 9c )
+Shows: Jo, 7c 9s
+Combination: Jo, Pair ( 7c 7h Qc Ts 9s )
+Wins: Jo, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jo
+Small Blind: Jo, chips: 5
+Big Blind: Wettoefel, chips: 10
+Folds: Jo
+Pot size: 15
+Wins: Wettoefel, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wettoefel
+Small Blind: Wettoefel, chips: 5
+Big Blind: Jo, chips: 10
+Calls: Wettoefel
+Checks: Jo
+Flop: 6h Jh 4d
+Checks: Jo
+Checks: Wettoefel
+Turn: 5s
+Checks: Jo
+Checks: Wettoefel
+River: 6c
+Raises: Jo, chips: 10
+Calls: Wettoefel
+Pot size: 40
+Showdown Reached
+Shows: Wettoefel, 9d Jc
+Combination: Wettoefel, Two Pair ( Jc Jh 6h 6c 9d )
+Shows: Jo, 5c 6s
+Combination: Jo, Full House ( 6s 6h 6c 5c 5s )
+Wins: Jo, chips: 40
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jo
+Small Blind: Jo, chips: 5
+Big Blind: Wettoefel, chips: 10
+Folds: Jo
+Pot size: 15
+Wins: Wettoefel, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wettoefel
+Small Blind: Wettoefel, chips: 5
+Big Blind: Jo, chips: 10
+Calls: Wettoefel
+Raises: Jo, chips: 4220
+Calls: Wettoefel
+Flop: Js 8h As
+Turn: 6s
+River: 5d
+Pot size: 7000
+Showdown Reached
+Shows: Wettoefel, 8d Td
+Combination: Wettoefel, Pair ( 8d 8h As Js Td )
+Shows: Jo, Th Ts
+Combination: Jo, Pair ( Th Ts As Js 8h )
+Wins: Jo, chips: 7000
+Quits: Wettoefel, chips: 0
+Ranking: Jo, Place: 1, Score: 6000
+Reveal AI: Jo, AI: Smart
+Ranking: Wettoefel, Place: 2, Score: -1000
+Reveal AI: Wettoefel, AI: Call
+Ranking: Fowroerli, Place: 3, Score: -1000
+Reveal AI: Fowroerli, AI: Smart
+Ranking: Segubuf, Place: 4, Score: -1000
+Reveal AI: Segubuf, AI: Random
+Ranking: Wonochoe, Place: 5, Score: -1000
+Reveal AI: Wonochoe, AI: Random
+Ranking: Hachanoe, Place: 6, Score: -1000
+Reveal AI: Hachanoe, AI: Call
+Ranking: Jidutta, Place: 7, Score: -1000
+Reveal AI: Jidutta, AI: AIMyBot1
+
+Player Stats for Fowroerli, AI: Smart
+General: deals: 23, actions: 53, preflop actions: 26
+Rounds Seen: flops: 23, turns: 23, rivers: 23, showdowns: 22
+Wins: total: 3, showdown: 3, bluff: 0
+Chips: won: 85, lost: 1085, bought: 1000, forced bets: 115
+Pre-Flop Stats: VP$IP: 0.217391, PFR: 0.130435, 3Bet: 0.130435
+Post-Flop Stats: AF: 1.#INF, WSD: 0.956522, WSDW: 0.136364
+
+
+Player Stats for Hachanoe, AI: Call
+General: deals: 1, actions: 5, preflop actions: 2
+Rounds Seen: flops: 32, turns: 32, rivers: 32, showdowns: 32
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 0
+Pre-Flop Stats: VP$IP: 1, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: 0, WSD: 1, WSDW: 0
+
+
+Player Stats for Jidutta, AI: AIMyBot1
+General: deals: 1, actions: 4, preflop actions: 1
+Rounds Seen: flops: 32, turns: 32, rivers: 32, showdowns: 32
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 10
+Pre-Flop Stats: VP$IP: 1, PFR: 1, 3Bet: 1
+Post-Flop Stats: AF: 2, WSD: 1, WSDW: 0
+
+
+Player Stats for Jo, AI: Smart
+General: deals: 43, actions: 117, preflop actions: 47
+Rounds Seen: flops: 26, turns: 26, rivers: 26, showdowns: 26
+Wins: total: 18, showdown: 18, bluff: 0
+Chips: won: 13860, lost: 7860, bought: 1000, forced bets: 260
+Pre-Flop Stats: VP$IP: 0.325581, PFR: 0.232558, 3Bet: 0.162791
+Post-Flop Stats: AF: 1.#INF, WSD: 1, WSDW: 0.692308
+
+
+Player Stats for Segubuf, AI: Random
+General: deals: 1, actions: 4, preflop actions: 2
+Rounds Seen: flops: 32, turns: 32, rivers: 32, showdowns: 32
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 0
+Pre-Flop Stats: VP$IP: 1, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: 1, WSD: 1, WSDW: 0
+
+
+Player Stats for Wettoefel, AI: Call
+General: deals: 43, actions: 138, preflop actions: 41
+Rounds Seen: flops: 32, turns: 32, rivers: 32, showdowns: 32
+Wins: total: 22, showdown: 11, bluff: 11
+Chips: won: 7360, lost: 9820, bought: 1000, forced bets: 260
+Pre-Flop Stats: VP$IP: 0.697674, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: 0, WSD: 1, WSDW: 0.34375
+
+
+Player Stats for Wonochoe, AI: Random
+General: deals: 1, actions: 5, preflop actions: 2
+Rounds Seen: flops: 32, turns: 32, rivers: 32, showdowns: 32
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 0
+Pre-Flop Stats: VP$IP: 1, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: 0, WSD: 1, WSDW: 0
+
+

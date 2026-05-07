@@ -1,0 +1,8862 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Joheev: Random
+Soso: AIMyBot1
+Vugeeva: Call
+Joeru: Random
+Mudef: Call
+Sa: Smart
+Wupi: Smart
+
+Joins: Joheev, chips: 1000
+Joins: Soso, chips: 1000
+Joins: Vugeeva, chips: 1000
+Joins: Joeru, chips: 1000
+Joins: Mudef, chips: 1000
+Joins: Sa, chips: 1000
+Joins: Wupi, chips: 1000
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Vugeeva
+Small Blind: Joeru, chips: 5
+Big Blind: Mudef, chips: 10
+Raises: Sa, chips: 20
+Folds: Wupi
+Calls: Joheev
+Folds: Soso
+Calls: Vugeeva
+Calls: Joeru
+Calls: Mudef
+Flop: Td 6s 7h
+Raises: Joeru, chips: 20
+Calls: Mudef
+Folds: Sa
+Calls: Joheev
+Calls: Vugeeva
+Turn: 6h
+Checks: Joeru
+Checks: Mudef
+Checks: Joheev
+Checks: Vugeeva
+River: 4d
+Checks: Joeru
+Checks: Mudef
+Raises: Joheev, chips: 950
+Calls: Vugeeva
+Calls: Joeru
+Calls: Mudef
+Pot size: 4030
+Showdown Reached
+Shows: Joheev, 6c Ah
+Combination: Joheev, Three Of A Kind ( 6c 6s 6h Ah Td )
+Shows: Vugeeva, 3d Ks
+Combination: Vugeeva, Pair ( 6s 6h Ks Td 7h )
+Shows: Joeru, 5c Kc
+Combination: Joeru, Pair ( 6s 6h Kc Td 7h )
+Shows: Mudef, 7d 2c
+Combination: Mudef, Two Pair ( 7d 7h 6s 6h Td )
+Wins: Joheev, chips: 4030
+Quits: Vugeeva, chips: 0
+Quits: Joeru, chips: 0
+Quits: Mudef, chips: 0
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sa
+Small Blind: Wupi, chips: 5
+Big Blind: Joheev, chips: 10
+Folds: Soso
+Calls: Sa
+Folds: Wupi
+Checks: Joheev
+Flop: 9d Jh Qh
+Checks: Joheev
+Raises: Sa, chips: 10
+Raises: Joheev, chips: 20
+Calls: Sa
+Turn: 2h
+Checks: Joheev
+Checks: Sa
+River: 9s
+Raises: Joheev, chips: 20
+Folds: Sa
+Pot size: 105
+Wins: Joheev, chips: 105
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Joheev, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Sa
+Folds: Wupi
+Folds: Joheev
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Joheev
+Small Blind: Soso, chips: 5
+Big Blind: Sa, chips: 10
+Folds: Wupi
+Raises: Joheev, chips: 20
+Folds: Soso
+Folds: Sa
+Pot size: 45
+Wins: Joheev, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Sa, chips: 5
+Big Blind: Wupi, chips: 10
+Calls: Joheev
+Folds: Soso
+Folds: Sa
+Checks: Wupi
+Flop: 5h Th Ad
+Checks: Wupi
+Checks: Joheev
+Turn: Ac
+Checks: Wupi
+Raises: Joheev, chips: 10
+Folds: Wupi
+Pot size: 35
+Boasts: Joheev, Td Qh
+Wins: Joheev, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sa
+Small Blind: Wupi, chips: 5
+Big Blind: Joheev, chips: 10
+Folds: Soso
+Folds: Sa
+Calls: Wupi
+Raises: Joheev, chips: 10
+Folds: Wupi
+Pot size: 30
+Wins: Joheev, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Joheev, chips: 5
+Big Blind: Soso, chips: 10
+Calls: Sa
+Folds: Wupi
+Calls: Joheev
+Checks: Soso
+Flop: Td 4h 3c
+Checks: Joheev
+Checks: Soso
+Checks: Sa
+Turn: 3h
+Checks: Joheev
+Checks: Soso
+Checks: Sa
+River: 6d
+Raises: Joheev, chips: 10
+Folds: Soso
+Folds: Sa
+Pot size: 40
+Boasts: Joheev, 8d Tc
+Wins: Joheev, chips: 40
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Joheev
+Small Blind: Soso, chips: 5
+Big Blind: Sa, chips: 10
+Calls: Wupi
+Folds: Joheev
+Folds: Soso
+Checks: Sa
+Flop: Kd 8c 4h
+Checks: Sa
+Checks: Wupi
+Turn: 6h
+Raises: Sa, chips: 10
+Folds: Wupi
+Pot size: 35
+Wins: Sa, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Sa, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Joheev
+Folds: Soso
+Calls: Sa
+Checks: Wupi
+Flop: Qd Js 5d
+Checks: Sa
+Checks: Wupi
+Turn: 7c
+Checks: Sa
+Checks: Wupi
+River: 5s
+Raises: Sa, chips: 10
+Folds: Wupi
+Pot size: 30
+Boasts: Joheev, Tc 9c
+Wins: Sa, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sa
+Small Blind: Wupi, chips: 5
+Big Blind: Joheev, chips: 10
+Folds: Soso
+Folds: Sa
+Folds: Wupi
+Pot size: 15
+Boasts: Joheev, Ks 4h
+Wins: Joheev, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Joheev, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Sa
+Calls: Wupi
+Raises: Joheev, chips: 15
+Folds: Soso
+Folds: Wupi
+Pot size: 45
+Wins: Joheev, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Joheev
+Small Blind: Soso, chips: 5
+Big Blind: Sa, chips: 10
+Folds: Wupi
+Raises: Joheev, chips: 20
+Folds: Soso
+Folds: Sa
+Pot size: 45
+Boasts: Joheev, 9s 6h
+Wins: Joheev, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Sa, chips: 5
+Big Blind: Wupi, chips: 10
+Calls: Joheev
+Folds: Soso
+Calls: Sa
+Checks: Wupi
+Flop: Ks 6s 9d
+Checks: Sa
+Checks: Wupi
+Raises: Joheev, chips: 10
+Raises: Sa, chips: 20
+Raises: Wupi, chips: 20
+Raises: Joheev, chips: 60
+Raises: Sa, chips: 190
+Calls: Wupi
+Calls: Joheev
+Turn: 3s
+Checks: Sa
+Raises: Wupi, chips: 290
+Raises: Joheev, chips: 580
+Folds: Sa
+Folds: Wupi
+Pot size: 2090
+Boasts: Joheev, 5h Qd
+Wins: Joheev, chips: 2090
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sa
+Small Blind: Wupi, chips: 5
+Big Blind: Joheev, chips: 10
+Folds: Soso
+Calls: Sa
+Folds: Wupi
+Raises: Joheev, chips: 5070
+Calls: Sa
+Flop: 7c 2c 5c
+Turn: 8s
+River: 4s
+Pot size: 5695
+Showdown Reached
+Shows: Joheev, Qs Jh
+Combination: Joheev, High Card ( Qs Jh 8s 7c 5c )
+Shows: Sa, Qh Ah
+Combination: Sa, High Card ( Ah Qh 8s 7c 5c )
+Wins: Joheev, chips: 4470
+Wins: Sa, chips: 1225
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Joheev, chips: 5
+Big Blind: Soso, chips: 10
+Calls: Sa
+Calls: Wupi
+Calls: Joheev
+Checks: Soso
+Flop: 7c 5s 7d
+Checks: Joheev
+Checks: Soso
+Checks: Sa
+Checks: Wupi
+Turn: 6h
+Checks: Joheev
+Checks: Soso
+Checks: Sa
+Checks: Wupi
+River: 8h
+Checks: Joheev
+Checks: Soso
+Checks: Sa
+Checks: Wupi
+Pot size: 40
+Showdown Reached
+Shows: Joheev, 9h 2d
+Combination: Joheev, Straight ( 9h 8h 7c 6h 5s )
+Shows: Soso, Td 4s
+Combination: Soso, Straight ( 8h 7c 6h 5s 4s )
+Shows: Sa, 4h 3h
+Combination: Sa, Straight ( 8h 7c 6h 5s 4h )
+Shows: Wupi, 3d Ad
+Combination: Wupi, Pair ( 7c 7d Ad 8h 6h )
+Wins: Joheev, chips: 40
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Joheev
+Small Blind: Soso, chips: 5
+Big Blind: Sa, chips: 10
+Folds: Wupi
+Folds: Joheev
+Folds: Soso
+Pot size: 15
+Boasts: Joheev, 3c 8s
+Wins: Sa, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Sa, chips: 5
+Big Blind: Wupi, chips: 10
+Calls: Joheev
+Folds: Soso
+Calls: Sa
+Checks: Wupi
+Flop: 6c Jd 8s
+Checks: Sa
+Checks: Wupi
+Raises: Joheev, chips: 10
+Folds: Sa
+Calls: Wupi
+Turn: 9c
+Checks: Wupi
+Checks: Joheev
+River: 4c
+Checks: Wupi
+Checks: Joheev
+Pot size: 50
+Showdown Reached
+Shows: Joheev, 4d Kd
+Combination: Joheev, Pair ( 4d 4c Kd Jd 9c )
+Shows: Wupi, Jc 5s
+Combination: Wupi, Pair ( Jc Jd 9c 8s 6c )
+Wins: Wupi, chips: 50
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sa
+Small Blind: Wupi, chips: 5
+Big Blind: Joheev, chips: 10
+Folds: Soso
+Folds: Sa
+Folds: Wupi
+Pot size: 15
+Boasts: Joheev, 8h 6s
+Wins: Joheev, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Joheev, chips: 5
+Big Blind: Soso, chips: 10
+Calls: Sa
+Raises: Wupi, chips: 10
+Calls: Joheev
+Folds: Soso
+Folds: Sa
+Flop: Jd Th 2h
+Checks: Joheev
+Checks: Wupi
+Turn: 5h
+Raises: Joheev, chips: 10
+Raises: Wupi, chips: 10
+Folds: Joheev
+Pot size: 90
+Boasts: Joheev, Ks 8c
+Wins: Wupi, chips: 90
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Joheev
+Small Blind: Soso, chips: 5
+Big Blind: Sa, chips: 10
+Folds: Wupi
+Folds: Joheev
+Folds: Soso
+Pot size: 15
+Wins: Sa, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Sa, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Joheev
+Folds: Soso
+Folds: Sa
+Pot size: 15
+Boasts: Joheev, 5s Js
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sa
+Small Blind: Wupi, chips: 5
+Big Blind: Joheev, chips: 10
+Folds: Soso
+Folds: Sa
+Folds: Wupi
+Pot size: 15
+Boasts: Joheev, 9c 6s
+Wins: Joheev, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Joheev, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Sa
+Folds: Wupi
+Raises: Joheev, chips: 15
+Folds: Soso
+Pot size: 35
+Boasts: Joheev, 4s Ac
+Wins: Joheev, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Joheev
+Small Blind: Soso, chips: 5
+Big Blind: Sa, chips: 10
+Folds: Wupi
+Folds: Joheev
+Folds: Soso
+Pot size: 15
+Boasts: Joheev, 9s Jc
+Wins: Sa, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Sa, chips: 5
+Big Blind: Wupi, chips: 10
+Raises: Joheev, chips: 20
+Folds: Soso
+Folds: Sa
+Folds: Wupi
+Pot size: 45
+Boasts: Joheev, 6h Th
+Wins: Joheev, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sa
+Small Blind: Wupi, chips: 5
+Big Blind: Joheev, chips: 10
+Folds: Soso
+Folds: Sa
+Calls: Wupi
+Checks: Joheev
+Flop: 3c 7d 4h
+Checks: Wupi
+Raises: Joheev, chips: 10
+Calls: Wupi
+Turn: 5s
+Checks: Wupi
+Checks: Joheev
+River: 7c
+Checks: Wupi
+Checks: Joheev
+Pot size: 40
+Showdown Reached
+Shows: Joheev, Kc 6d
+Combination: Joheev, Straight ( 7d 6d 5s 4h 3c )
+Shows: Wupi, Ad 9d
+Combination: Wupi, Pair ( 7d 7c Ad 9d 5s )
+Wins: Joheev, chips: 40
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Joheev, chips: 5
+Big Blind: Soso, chips: 10
+Raises: Sa, chips: 20
+Folds: Wupi
+Raises: Joheev, chips: 45
+Folds: Soso
+Folds: Sa
+Pot size: 115
+Boasts: Joheev, 2c 7s
+Wins: Joheev, chips: 115
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Joheev
+Small Blind: Soso, chips: 5
+Big Blind: Sa, chips: 10
+Folds: Wupi
+Calls: Joheev
+Folds: Soso
+Checks: Sa
+Flop: 9c 2c 5s
+Checks: Sa
+Checks: Joheev
+Turn: 6h
+Checks: Sa
+Raises: Joheev, chips: 10
+Folds: Sa
+Pot size: 35
+Boasts: Joheev, Kc Js
+Wins: Joheev, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Sa, chips: 5
+Big Blind: Wupi, chips: 10
+Raises: Joheev, chips: 20
+Folds: Soso
+Folds: Sa
+Folds: Wupi
+Pot size: 45
+Wins: Joheev, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sa
+Small Blind: Wupi, chips: 5
+Big Blind: Joheev, chips: 10
+Folds: Soso
+Calls: Sa
+Raises: Wupi, chips: 15
+Calls: Joheev
+Calls: Sa
+Flop: Jh 3h 4c
+Checks: Wupi
+Checks: Joheev
+Checks: Sa
+Turn: 9d
+Checks: Wupi
+Checks: Joheev
+Checks: Sa
+River: 6c
+Checks: Wupi
+Raises: Joheev, chips: 15
+Folds: Sa
+Raises: Wupi, chips: 25
+Folds: Joheev
+Pot size: 130
+Wins: Wupi, chips: 130
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Joheev, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Sa
+Folds: Wupi
+Calls: Joheev
+Checks: Soso
+Flop: 7c 3s 8c
+Checks: Joheev
+Checks: Soso
+Turn: Jc
+Raises: Joheev, chips: 10
+Folds: Soso
+Pot size: 30
+Boasts: Joheev, Ac Kd
+Wins: Joheev, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Joheev
+Small Blind: Soso, chips: 5
+Big Blind: Sa, chips: 10
+Calls: Wupi
+Calls: Joheev
+Folds: Soso
+Checks: Sa
+Flop: Kd Qc As
+Checks: Sa
+Checks: Wupi
+Checks: Joheev
+Turn: 7d
+Checks: Sa
+Checks: Wupi
+Checks: Joheev
+River: 5d
+Checks: Sa
+Checks: Wupi
+Checks: Joheev
+Pot size: 35
+Showdown Reached
+Shows: Joheev, 7s 8s
+Combination: Joheev, Pair ( 7s 7d As Kd Qc )
+Shows: Sa, 7c Jh
+Combination: Sa, Pair ( 7c 7d As Kd Qc )
+Shows: Wupi, 8c 9h
+Combination: Wupi, High Card ( As Kd Qc 9h 8c )
+Wins: Joheev, chips: 18
+Wins: Sa, chips: 17
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Sa, chips: 5
+Big Blind: Wupi, chips: 10
+Raises: Joheev, chips: 20
+Folds: Soso
+Raises: Sa, chips: 55
+Folds: Wupi
+Raises: Joheev, chips: 4468
+Calls: Sa
+Flop: 5c 4c 6c
+Turn: 3h
+River: Jd
+Pot size: 5700
+Showdown Reached
+Shows: Joheev, 2h 6h
+Combination: Joheev, Straight ( 6h 5c 4c 3h 2h )
+Shows: Sa, Ah Js
+Combination: Sa, Pair ( Js Jd Ah 6c 5c )
+Wins: Joheev, chips: 5700
+Quits: Sa, chips: 0
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Joheev, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Calls: Joheev
+Checks: Soso
+Flop: 4s 3d Ts
+Checks: Joheev
+Checks: Soso
+Turn: 4h
+Raises: Joheev, chips: 10
+Folds: Soso
+Pot size: 30
+Boasts: Joheev, 9s Kh
+Wins: Joheev, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Joheev
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Joheev
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Wupi, chips: 5
+Big Blind: Joheev, chips: 10
+Folds: Soso
+Folds: Wupi
+Pot size: 15
+Boasts: Joheev, Th Qs
+Wins: Joheev, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Joheev, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Folds: Joheev
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Joheev
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Calls: Joheev
+Folds: Soso
+Checks: Wupi
+Flop: 5s 7s Ad
+Checks: Wupi
+Checks: Joheev
+Turn: Kh
+Checks: Wupi
+Checks: Joheev
+River: Tc
+Checks: Wupi
+Checks: Joheev
+Pot size: 25
+Showdown Reached
+Shows: Joheev, Th Ts
+Combination: Joheev, Three Of A Kind ( Th Ts Tc Ad Kh )
+Shows: Wupi, 4h 2c
+Combination: Wupi, High Card ( Ad Kh Tc 7s 5s )
+Wins: Joheev, chips: 25
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Wupi, chips: 5
+Big Blind: Joheev, chips: 10
+Folds: Soso
+Calls: Wupi
+Checks: Joheev
+Flop: 9d Th Jc
+Checks: Wupi
+Raises: Joheev, chips: 10
+Folds: Wupi
+Pot size: 30
+Wins: Joheev, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Joheev, chips: 5
+Big Blind: Soso, chips: 10
+Calls: Wupi
+Raises: Joheev, chips: 15
+Folds: Soso
+Calls: Wupi
+Flop: Ac 4s 5s
+Checks: Joheev
+Checks: Wupi
+Turn: Js
+Checks: Joheev
+DEBUG MESSAGE: INVALID ACTION FROM Wupi (2 0)
+Folds: Wupi
+Pot size: 60
+Wins: Joheev, chips: 60
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Joheev
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Calls: Joheev
+Folds: Soso
+Checks: Wupi
+Flop: 8h 9c 8c
+Checks: Wupi
+Checks: Joheev
+Turn: 6s
+Checks: Wupi
+Checks: Joheev
+River: 3d
+Checks: Wupi
+Raises: Joheev, chips: 10
+Folds: Wupi
+Pot size: 35
+Wins: Joheev, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Wupi, chips: 5
+Big Blind: Joheev, chips: 10
+Folds: Soso
+Folds: Wupi
+Pot size: 15
+Boasts: Joheev, Qd 2d
+Wins: Joheev, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Joheev, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Calls: Joheev
+Checks: Soso
+Flop: Qc 9h 5c
+Checks: Joheev
+Checks: Soso
+Turn: 3h
+Raises: Joheev, chips: 10
+Folds: Soso
+Pot size: 30
+Wins: Joheev, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Joheev
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Calls: Joheev
+Folds: Soso
+Checks: Wupi
+Flop: Qc 8h As
+Checks: Wupi
+Checks: Joheev
+Turn: 8d
+Checks: Wupi
+Raises: Joheev, chips: 10
+Calls: Wupi
+River: 3h
+Checks: Wupi
+Raises: Joheev, chips: 10
+Calls: Wupi
+Pot size: 65
+Showdown Reached
+Shows: Joheev, 6h Kd
+Combination: Joheev, Pair ( 8h 8d As Kd Qc )
+Shows: Wupi, 6c Kh
+Combination: Wupi, Pair ( 8h 8d As Kh Qc )
+Wins: Joheev, chips: 33
+Wins: Wupi, chips: 32
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Wupi, chips: 5
+Big Blind: Joheev, chips: 10
+Folds: Soso
+Folds: Wupi
+Pot size: 15
+Wins: Joheev, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Joheev, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Folds: Joheev
+Pot size: 15
+Boasts: Joheev, 8d Jc
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Joheev
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Calls: Joheev
+Folds: Soso
+Checks: Wupi
+Flop: 3s 2c 9d
+Checks: Wupi
+Checks: Joheev
+Turn: 5d
+Checks: Wupi
+Checks: Joheev
+River: Kc
+Checks: Wupi
+Raises: Joheev, chips: 10
+Calls: Wupi
+Pot size: 45
+Showdown Reached
+Shows: Joheev, Ks 8c
+Combination: Joheev, Pair ( Ks Kc 9d 8c 5d )
+Shows: Wupi, Jh 3d
+Combination: Wupi, Pair ( 3d 3s Kc Jh 9d )
+Wins: Joheev, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Wupi, chips: 5
+Big Blind: Joheev, chips: 10
+Folds: Soso
+Folds: Wupi
+Pot size: 15
+Boasts: Joheev, Ah 9s
+Wins: Joheev, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Joheev, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Calls: Joheev
+Checks: Soso
+Flop: As 8s 2c
+Checks: Joheev
+Checks: Soso
+Turn: Qc
+Checks: Joheev
+Checks: Soso
+River: 6h
+Checks: Joheev
+Checks: Soso
+Pot size: 20
+Showdown Reached
+Shows: Joheev, 8h 3h
+Combination: Joheev, Pair ( 8h 8s As Qc 6h )
+Shows: Soso, Kh Td
+Combination: Soso, High Card ( As Kh Qc Td 8s )
+Wins: Joheev, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Joheev
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Calls: Joheev
+Folds: Soso
+Checks: Wupi
+Flop: Jd 2c 8s
+Checks: Wupi
+Checks: Joheev
+Turn: 7s
+Checks: Wupi
+Checks: Joheev
+River: 6c
+Checks: Wupi
+Raises: Joheev, chips: 10
+Raises: Wupi, chips: 10
+Folds: Joheev
+Pot size: 55
+Boasts: Joheev, 4s 3d
+Wins: Wupi, chips: 55
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Wupi, chips: 5
+Big Blind: Joheev, chips: 10
+Folds: Soso
+Folds: Wupi
+Pot size: 15
+Boasts: Joheev, 4h 2c
+Wins: Joheev, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Joheev, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Calls: Joheev
+Checks: Soso
+Flop: 5c 8h 6h
+Checks: Joheev
+Checks: Soso
+Turn: 3d
+Checks: Joheev
+Checks: Soso
+River: Ks
+Checks: Joheev
+Checks: Soso
+Pot size: 20
+Showdown Reached
+Shows: Joheev, 6s Kc
+Combination: Joheev, Two Pair ( Kc Ks 6s 6h 8h )
+Shows: Soso, Jd 8s
+Combination: Soso, Pair ( 8s 8h Ks Jd 6h )
+Wins: Joheev, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Joheev
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Calls: Joheev
+Folds: Soso
+Checks: Wupi
+Flop: 3d Ah Kc
+Checks: Wupi
+Checks: Joheev
+Turn: 5d
+Checks: Wupi
+Raises: Joheev, chips: 10
+Raises: Wupi, chips: 10
+Raises: Joheev, chips: 20
+Calls: Wupi
+River: 8h
+Raises: Wupi, chips: 20
+Raises: Joheev, chips: 40
+Calls: Wupi
+Pot size: 225
+Showdown Reached
+Shows: Joheev, Ac 9c
+Combination: Joheev, Pair ( Ac Ah Kc 9c 8h )
+Shows: Wupi, Kd 2h
+Combination: Wupi, Pair ( Kd Kc Ah 8h 5d )
+Wins: Joheev, chips: 225
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Wupi, chips: 5
+Big Blind: Joheev, chips: 10
+Folds: Soso
+Raises: Wupi, chips: 15
+Calls: Joheev
+Flop: 7c 4d 2d
+Checks: Wupi
+Checks: Joheev
+Turn: 6h
+Checks: Wupi
+Checks: Joheev
+River: 8d
+Checks: Wupi
+Checks: Joheev
+Pot size: 50
+Showdown Reached
+Shows: Joheev, Qh 5h
+Combination: Joheev, Straight ( 8d 7c 6h 5h 4d )
+Shows: Wupi, 9d 9c
+Combination: Wupi, Pair ( 9d 9c 8d 7c 6h )
+Wins: Joheev, chips: 50
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Joheev, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Calls: Joheev
+Checks: Soso
+Flop: 6d As Jd
+Raises: Joheev, chips: 10
+Folds: Soso
+Pot size: 30
+Wins: Joheev, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Joheev
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Calls: Joheev
+Folds: Soso
+Checks: Wupi
+Flop: 7c Ks Tc
+Checks: Wupi
+Checks: Joheev
+Turn: Ts
+Raises: Wupi, chips: 10
+Calls: Joheev
+River: Ad
+Raises: Wupi, chips: 10
+Calls: Joheev
+Pot size: 65
+Showdown Reached
+Shows: Joheev, Kc 9d
+Combination: Joheev, Two Pair ( Kc Ks Tc Ts Ad )
+Shows: Wupi, Ac Td
+Combination: Wupi, Full House ( Td Tc Ts Ac Ad )
+Wins: Wupi, chips: 65
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Wupi, chips: 5
+Big Blind: Joheev, chips: 10
+Folds: Soso
+Folds: Wupi
+Pot size: 15
+Boasts: Joheev, Ad 6c
+Wins: Joheev, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Joheev, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Calls: Joheev
+Checks: Soso
+Flop: Jh Kd 4s
+Checks: Joheev
+Checks: Soso
+Turn: 9s
+Checks: Joheev
+Checks: Soso
+River: Ts
+Checks: Joheev
+Checks: Soso
+Pot size: 20
+Showdown Reached
+Shows: Joheev, Th 4h
+Combination: Joheev, Two Pair ( Th Ts 4h 4s Kd )
+Shows: Soso, 9d 2h
+Combination: Soso, Pair ( 9d 9s Kd Jh Ts )
+Wins: Joheev, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Joheev
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Joheev
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Wupi, chips: 5
+Big Blind: Joheev, chips: 10
+Folds: Soso
+Folds: Wupi
+Pot size: 15
+Wins: Joheev, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Joheev, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Calls: Joheev
+Checks: Soso
+Flop: 7h 9s 4h
+Raises: Joheev, chips: 10
+Folds: Soso
+Pot size: 30
+Wins: Joheev, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Joheev
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Calls: Joheev
+Folds: Soso
+Checks: Wupi
+Flop: As 6h 7c
+Checks: Wupi
+Checks: Joheev
+Turn: 8h
+Checks: Wupi
+Checks: Joheev
+River: 4s
+Checks: Wupi
+Checks: Joheev
+Pot size: 25
+Showdown Reached
+Shows: Joheev, Ah 6s
+Combination: Joheev, Two Pair ( Ah As 6s 6h 8h )
+Shows: Wupi, 6c Kc
+Combination: Wupi, Pair ( 6c 6h As Kc 8h )
+Wins: Joheev, chips: 25
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Wupi, chips: 5
+Big Blind: Joheev, chips: 10
+Folds: Soso
+Folds: Wupi
+Pot size: 15
+Boasts: Joheev, Ks 9h
+Wins: Joheev, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Joheev, chips: 5
+Big Blind: Soso, chips: 10
+Calls: Wupi
+Calls: Joheev
+Checks: Soso
+Flop: Tc Td 3c
+Checks: Joheev
+Checks: Soso
+Raises: Wupi, chips: 10
+Folds: Joheev
+Folds: Soso
+Pot size: 40
+Boasts: Joheev, Jc Ks
+Wins: Wupi, chips: 40
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Joheev
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Raises: Joheev, chips: 20
+Folds: Soso
+Folds: Wupi
+Pot size: 45
+Wins: Joheev, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Wupi, chips: 5
+Big Blind: Joheev, chips: 10
+Folds: Soso
+Calls: Wupi
+Checks: Joheev
+Flop: 6d 3d Qc
+Checks: Wupi
+Checks: Joheev
+Turn: Ad
+Raises: Wupi, chips: 10
+Raises: Joheev, chips: 20
+Calls: Wupi
+River: 2s
+Checks: Wupi
+Checks: Joheev
+Pot size: 80
+Showdown Reached
+Shows: Joheev, 6s Jd
+Combination: Joheev, Pair ( 6s 6d Ad Qc Jd )
+Shows: Wupi, 9s 9h
+Combination: Wupi, Pair ( 9s 9h Ad Qc 6d )
+Wins: Wupi, chips: 80
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Joheev, chips: 5
+Big Blind: Soso, chips: 10
+Calls: Wupi
+Folds: Joheev
+Checks: Soso
+Flop: Kc Ks 5c
+Checks: Soso
+Checks: Wupi
+Turn: Td
+Checks: Soso
+Checks: Wupi
+River: 7d
+Checks: Soso
+Checks: Wupi
+Pot size: 25
+Showdown Reached
+Shows: Soso, 6d Ts
+Combination: Soso, Two Pair ( Kc Ks Ts Td 7d )
+Shows: Wupi, 4h 7h
+Combination: Wupi, Two Pair ( Kc Ks 7h 7d Td )
+Wins: Soso, chips: 25
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Joheev
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Joheev
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Wupi, chips: 5
+Big Blind: Joheev, chips: 10
+Folds: Soso
+Folds: Wupi
+Pot size: 15
+Wins: Joheev, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Joheev, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Calls: Joheev
+Checks: Soso
+Flop: 2c Kc 8d
+Raises: Joheev, chips: 10
+Folds: Soso
+Pot size: 30
+Boasts: Joheev, Kd Jh
+Wins: Joheev, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Joheev
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Calls: Joheev
+Folds: Soso
+Checks: Wupi
+Flop: 8s Kh Jh
+Raises: Wupi, chips: 10
+Folds: Joheev
+Pot size: 35
+Wins: Wupi, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Wupi, chips: 5
+Big Blind: Joheev, chips: 10
+Folds: Soso
+Calls: Wupi
+Checks: Joheev
+Flop: Qs Jc 7d
+Checks: Wupi
+Checks: Joheev
+Turn: 2c
+Checks: Wupi
+Raises: Joheev, chips: 10
+Calls: Wupi
+River: Kc
+Checks: Wupi
+Checks: Joheev
+Pot size: 40
+Showdown Reached
+Shows: Joheev, Ad 5d
+Combination: Joheev, High Card ( Ad Kc Qs Jc 7d )
+Shows: Wupi, Td 9h
+Combination: Wupi, Straight ( Kc Qs Jc Td 9h )
+Wins: Wupi, chips: 40
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Joheev, chips: 5
+Big Blind: Soso, chips: 10
+Calls: Wupi
+Raises: Joheev, chips: 15
+Folds: Soso
+Calls: Wupi
+Flop: Jh 3h 2d
+Checks: Joheev
+Raises: Wupi, chips: 20
+Calls: Joheev
+Turn: 9d
+Raises: Joheev, chips: 20
+Calls: Wupi
+River: 7c
+Checks: Joheev
+Checks: Wupi
+Pot size: 140
+Showdown Reached
+Shows: Joheev, 2s 6s
+Combination: Joheev, Pair ( 2s 2d Jh 9d 7c )
+Shows: Wupi, 6d 6c
+Combination: Wupi, Pair ( 6d 6c Jh 9d 7c )
+Wins: Wupi, chips: 140
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Joheev
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Raises: Joheev, chips: 20
+Folds: Soso
+Folds: Wupi
+Pot size: 45
+Wins: Joheev, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Wupi, chips: 5
+Big Blind: Joheev, chips: 10
+Folds: Soso
+Calls: Wupi
+Checks: Joheev
+Flop: 6d Th 7s
+Checks: Wupi
+Checks: Joheev
+Turn: 9s
+Raises: Wupi, chips: 10
+Raises: Joheev, chips: 20
+Calls: Wupi
+River: Tc
+Raises: Wupi, chips: 20
+Calls: Joheev
+Pot size: 120
+Showdown Reached
+Shows: Joheev, Td 7h
+Combination: Joheev, Full House ( Td Th Tc 7h 7s )
+Shows: Wupi, 7c 8d
+Combination: Wupi, Straight ( Th 9s 8d 7c 6d )
+Wins: Joheev, chips: 120
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Joheev, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Calls: Joheev
+Checks: Soso
+Flop: 7s 4h 5d
+Checks: Joheev
+Checks: Soso
+Turn: Qs
+Checks: Joheev
+Checks: Soso
+River: 5s
+Raises: Joheev, chips: 10
+Folds: Soso
+Pot size: 30
+Boasts: Joheev, 3h 2c
+Wins: Joheev, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Joheev
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Calls: Joheev
+Folds: Soso
+Raises: Wupi, chips: 10
+Calls: Joheev
+Flop: Ks 9c Jd
+Checks: Wupi
+Checks: Joheev
+Turn: Js
+Checks: Wupi
+Checks: Joheev
+River: 5s
+Checks: Wupi
+Checks: Joheev
+Pot size: 45
+Showdown Reached
+Shows: Joheev, 4h Tc
+Combination: Joheev, Pair ( Jd Js Ks Tc 9c )
+Shows: Wupi, Qh Ad
+Combination: Wupi, Pair ( Jd Js Ad Ks Qh )
+Wins: Wupi, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Wupi, chips: 5
+Big Blind: Joheev, chips: 10
+Folds: Soso
+Folds: Wupi
+Pot size: 15
+Wins: Joheev, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Joheev, chips: 5
+Big Blind: Soso, chips: 10
+Calls: Wupi
+Calls: Joheev
+Checks: Soso
+Flop: Qh 7c 6c
+Raises: Joheev, chips: 10
+Folds: Soso
+Raises: Wupi, chips: 10
+Raises: Joheev, chips: 20
+Raises: Wupi, chips: 267
+Calls: Joheev
+Turn: Js
+River: 6h
+Pot size: 644
+Showdown Reached
+Shows: Joheev, 2s Jd
+Combination: Joheev, Two Pair ( Jd Js 6c 6h Qh )
+Shows: Wupi, Qc Ts
+Combination: Wupi, Two Pair ( Qc Qh 6c 6h Js )
+Wins: Wupi, chips: 644
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Joheev
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Raises: Joheev, chips: 20
+Folds: Soso
+Raises: Wupi, chips: 614
+Folds: Joheev
+Pot size: 679
+Wins: Wupi, chips: 679
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Wupi, chips: 5
+Big Blind: Joheev, chips: 10
+Folds: Soso
+Calls: Wupi
+Raises: Joheev, chips: 10
+Folds: Wupi
+Pot size: 30
+Wins: Joheev, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Joheev, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Calls: Joheev
+Checks: Soso
+Flop: Qh Kc Qs
+Raises: Joheev, chips: 10
+Folds: Soso
+Pot size: 30
+Wins: Joheev, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Joheev
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Calls: Joheev
+Folds: Soso
+Checks: Wupi
+Flop: 7c Th Kd
+Checks: Wupi
+Checks: Joheev
+Turn: Kc
+Checks: Wupi
+Checks: Joheev
+River: 9d
+Checks: Wupi
+Checks: Joheev
+Pot size: 25
+Showdown Reached
+Shows: Joheev, 6s Ah
+Combination: Joheev, Pair ( Kd Kc Ah Th 9d )
+Shows: Wupi, 9h As
+Combination: Wupi, Two Pair ( Kd Kc 9h 9d As )
+Wins: Wupi, chips: 25
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Wupi, chips: 5
+Big Blind: Joheev, chips: 10
+Folds: Soso
+Folds: Wupi
+Pot size: 15
+Boasts: Joheev, 5s 6s
+Wins: Joheev, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Joheev, chips: 5
+Big Blind: Soso, chips: 10
+Calls: Wupi
+Folds: Joheev
+Checks: Soso
+Flop: Td Ah 5c
+Checks: Soso
+Checks: Wupi
+Turn: 6d
+Checks: Soso
+Checks: Wupi
+River: 7s
+Checks: Soso
+Checks: Wupi
+Pot size: 25
+Showdown Reached
+Shows: Soso, 9c Qc
+Combination: Soso, High Card ( Ah Qc Td 9c 7s )
+Shows: Wupi, 2d 3d
+Combination: Wupi, High Card ( Ah Td 7s 6d 5c )
+Wins: Soso, chips: 25
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Joheev
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Raises: Joheev, chips: 20
+Folds: Soso
+Raises: Wupi, chips: 50
+Calls: Joheev
+Flop: Ac 3s 7s
+Checks: Wupi
+Raises: Joheev, chips: 50
+Calls: Wupi
+Turn: 3d
+Raises: Wupi, chips: 80
+Calls: Joheev
+River: 4d
+Raises: Wupi, chips: 150
+Folds: Joheev
+Pot size: 575
+Wins: Wupi, chips: 575
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Wupi, chips: 5
+Big Blind: Joheev, chips: 10
+Folds: Soso
+Folds: Wupi
+Pot size: 15
+Wins: Joheev, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Joheev, chips: 5
+Big Blind: Soso, chips: 10
+Raises: Wupi, chips: 10
+Calls: Joheev
+Folds: Soso
+Flop: 8h 9c Ks
+Checks: Joheev
+Checks: Wupi
+Turn: 4d
+Checks: Joheev
+Checks: Wupi
+River: 9s
+Checks: Joheev
+Checks: Wupi
+Pot size: 50
+Showdown Reached
+Shows: Joheev, Qh 2d
+Combination: Joheev, Pair ( 9c 9s Ks Qh 8h )
+Shows: Wupi, Ts Qs
+Combination: Wupi, Pair ( 9c 9s Ks Qs Ts )
+Wins: Wupi, chips: 50
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Joheev
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Joheev
+Folds: Soso
+Pot size: 15
+Boasts: Joheev, 4s Js
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Wupi, chips: 5
+Big Blind: Joheev, chips: 10
+Folds: Soso
+Raises: Wupi, chips: 15
+Calls: Joheev
+Flop: 5c 2d 9h
+Checks: Wupi
+Raises: Joheev, chips: 15
+Calls: Wupi
+Turn: 5h
+Checks: Wupi
+Checks: Joheev
+River: Js
+Checks: Wupi
+Checks: Joheev
+Pot size: 80
+Showdown Reached
+Shows: Joheev, 2s 4s
+Combination: Joheev, Two Pair ( 5c 5h 2s 2d Js )
+Shows: Wupi, 7h 7d
+Combination: Wupi, Two Pair ( 7h 7d 5c 5h Js )
+Wins: Wupi, chips: 80
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Joheev, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Raises: Joheev, chips: 15
+Folds: Soso
+Pot size: 35
+Boasts: Joheev, Qh Tc
+Wins: Joheev, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Joheev
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Calls: Joheev
+Folds: Soso
+Checks: Wupi
+Flop: Th 3h Qh
+Raises: Wupi, chips: 10
+Calls: Joheev
+Turn: 8s
+Checks: Wupi
+Checks: Joheev
+River: 8d
+Checks: Wupi
+Raises: Joheev, chips: 10
+Calls: Wupi
+Pot size: 65
+Showdown Reached
+Shows: Joheev, 4s 9s
+Combination: Joheev, Pair ( 8s 8d Qh Th 9s )
+Shows: Wupi, 6s Qc
+Combination: Wupi, Two Pair ( Qc Qh 8s 8d Th )
+Wins: Wupi, chips: 65
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Wupi, chips: 5
+Big Blind: Joheev, chips: 10
+Folds: Soso
+Calls: Wupi
+Checks: Joheev
+Flop: 5d Jc 7d
+Checks: Wupi
+Checks: Joheev
+Turn: 4s
+Checks: Wupi
+Checks: Joheev
+River: 9h
+Checks: Wupi
+Raises: Joheev, chips: 10
+Folds: Wupi
+Pot size: 30
+Boasts: Joheev, 5h 9d
+Wins: Joheev, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Joheev, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Calls: Joheev
+Checks: Soso
+Flop: 5h 4s 3s
+Checks: Joheev
+Checks: Soso
+Turn: 4c
+Checks: Joheev
+Checks: Soso
+River: Js
+Raises: Joheev, chips: 10
+Folds: Soso
+Pot size: 30
+Boasts: Joheev, Qc Kd
+Wins: Joheev, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Joheev
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Calls: Joheev
+Folds: Soso
+Checks: Wupi
+Flop: 7s Td Qs
+Checks: Wupi
+Checks: Joheev
+Turn: Ts
+Checks: Wupi
+Checks: Joheev
+River: Qh
+Checks: Wupi
+Checks: Joheev
+Pot size: 25
+Showdown Reached
+Shows: Joheev, Ks Kc
+Combination: Joheev, Two Pair ( Ks Kc Qs Qh Td )
+Shows: Wupi, Jd 8s
+Combination: Wupi, Two Pair ( Qs Qh Td Ts Jd )
+Wins: Joheev, chips: 25
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Wupi, chips: 5
+Big Blind: Joheev, chips: 10
+Folds: Soso
+Calls: Wupi
+Raises: Joheev, chips: 10
+Calls: Wupi
+Flop: Js Td Jc
+Checks: Wupi
+Checks: Joheev
+Turn: Kc
+Checks: Wupi
+Checks: Joheev
+River: 2h
+Checks: Wupi
+Checks: Joheev
+Pot size: 40
+Showdown Reached
+Shows: Joheev, Th 7s
+Combination: Joheev, Two Pair ( Js Jc Th Td Kc )
+Shows: Wupi, Qc Ts
+Combination: Wupi, Two Pair ( Js Jc Ts Td Kc )
+Wins: Joheev, chips: 20
+Wins: Wupi, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Joheev, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Raises: Joheev, chips: 15
+Folds: Soso
+Pot size: 35
+Boasts: Joheev, 4s Jh
+Wins: Joheev, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Joheev
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Joheev
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Wupi, chips: 5
+Big Blind: Joheev, chips: 10
+Folds: Soso
+Folds: Wupi
+Pot size: 15
+Boasts: Joheev, Th 2h
+Wins: Joheev, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Joheev, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Calls: Joheev
+Checks: Soso
+Flop: 8c 7s 8h
+Checks: Joheev
+Checks: Soso
+Turn: 2d
+Raises: Joheev, chips: 10
+Folds: Soso
+Pot size: 30
+Wins: Joheev, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Joheev
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Raises: Joheev, chips: 5386
+Folds: Soso
+Folds: Wupi
+Pot size: 5411
+Boasts: Joheev, 2s 6d
+Wins: Joheev, chips: 5411
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Wupi, chips: 5
+Big Blind: Joheev, chips: 10
+Folds: Soso
+Calls: Wupi
+Checks: Joheev
+Flop: 3h 3d Ah
+Checks: Wupi
+Checks: Joheev
+Turn: 7s
+Checks: Wupi
+Checks: Joheev
+River: Ts
+Checks: Wupi
+Raises: Joheev, chips: 10
+Calls: Wupi
+Pot size: 40
+Showdown Reached
+Shows: Joheev, 5d 4d
+Combination: Joheev, Pair ( 3h 3d Ah Ts 7s )
+Shows: Wupi, Ks Tc
+Combination: Wupi, Two Pair ( Tc Ts 3h 3d Ah )
+Wins: Wupi, chips: 40
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Joheev, chips: 5
+Big Blind: Soso, chips: 10
+Calls: Wupi
+Raises: Joheev, chips: 15
+Folds: Soso
+Raises: Wupi, chips: 25
+Calls: Joheev
+Flop: Th 5s Js
+Raises: Joheev, chips: 25
+Raises: Wupi, chips: 25
+Raises: Joheev, chips: 50
+Calls: Wupi
+Turn: 9s
+Raises: Joheev, chips: 50
+Raises: Wupi, chips: 70
+Calls: Joheev
+River: Qh
+Checks: Joheev
+Checks: Wupi
+Pot size: 550
+Showdown Reached
+Shows: Joheev, 4d 9h
+Combination: Joheev, Pair ( 9h 9s Qh Js Th )
+Shows: Wupi, Ah As
+Combination: Wupi, Pair ( Ah As Qh Js Th )
+Wins: Wupi, chips: 550
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Joheev
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Joheev
+Folds: Soso
+Pot size: 15
+Boasts: Joheev, Tc 4s
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Wupi, chips: 5
+Big Blind: Joheev, chips: 10
+Folds: Soso
+Folds: Wupi
+Pot size: 15
+Wins: Joheev, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Joheev, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Raises: Joheev, chips: 15
+Folds: Soso
+Pot size: 35
+Boasts: Joheev, 8s Ac
+Wins: Joheev, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Joheev
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Raises: Joheev, chips: 20
+Folds: Soso
+Folds: Wupi
+Pot size: 45
+Boasts: Joheev, 6c 8d
+Wins: Joheev, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Wupi, chips: 5
+Big Blind: Joheev, chips: 10
+Folds: Soso
+Folds: Wupi
+Pot size: 15
+Boasts: Joheev, Js 4c
+Wins: Joheev, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Joheev, chips: 5
+Big Blind: Soso, chips: 10
+Calls: Wupi
+Calls: Joheev
+Checks: Soso
+Flop: 7c Qd 4d
+Checks: Joheev
+Checks: Soso
+Raises: Wupi, chips: 10
+Calls: Joheev
+Folds: Soso
+Turn: Kh
+Checks: Joheev
+Raises: Wupi, chips: 1224
+Raises: Joheev, chips: 1234
+River: Kd
+Pot size: 3732
+Showdown Reached
+Shows: Joheev, 9d Jc
+Combination: Joheev, Pair ( Kh Kd Qd Jc 9d )
+Shows: Wupi, 7h 7d
+Combination: Wupi, Full House ( 7h 7d 7c Kh Kd )
+Wins: Joheev, chips: 1234
+Wins: Wupi, chips: 2498
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Joheev
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Joheev
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Wupi, chips: 5
+Big Blind: Joheev, chips: 10
+Folds: Soso
+Folds: Wupi
+Pot size: 15
+Boasts: Joheev, Jh Ac
+Wins: Joheev, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Joheev, chips: 5
+Big Blind: Soso, chips: 10
+Calls: Wupi
+Folds: Joheev
+Checks: Soso
+Flop: Qh Jc Qs
+Checks: Soso
+Checks: Wupi
+Turn: Jh
+Checks: Soso
+Checks: Wupi
+River: 8s
+Checks: Soso
+Checks: Wupi
+Pot size: 25
+Showdown Reached
+Boasts: Joheev, 8h Jd
+Shows: Soso, 2c 5s
+Combination: Soso, Two Pair ( Qh Qs Jc Jh 8s )
+Shows: Wupi, Kc 9d
+Combination: Wupi, Two Pair ( Qh Qs Jc Jh Kc )
+Wins: Wupi, chips: 25
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Joheev
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Raises: Joheev, chips: 20
+Folds: Soso
+Folds: Wupi
+Pot size: 45
+Boasts: Joheev, 4d Ah
+Wins: Joheev, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Wupi, chips: 5
+Big Blind: Joheev, chips: 10
+Folds: Soso
+Folds: Wupi
+Pot size: 15
+Boasts: Joheev, 9c 5h
+Wins: Joheev, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Joheev, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Raises: Joheev, chips: 3922
+Folds: Soso
+Pot size: 3942
+Boasts: Joheev, Td 3c
+Wins: Joheev, chips: 3942
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Joheev
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Joheev
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Wupi, chips: 5
+Big Blind: Joheev, chips: 10
+Folds: Soso
+Calls: Wupi
+Checks: Joheev
+Flop: 9s Jh 3d
+Checks: Wupi
+Checks: Joheev
+Turn: 4s
+Raises: Wupi, chips: 10
+Folds: Joheev
+Pot size: 30
+Wins: Wupi, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Joheev, chips: 5
+Big Blind: Soso, chips: 10
+Calls: Wupi
+Folds: Joheev
+Checks: Soso
+Flop: Qd 5c 6c
+Checks: Soso
+Checks: Wupi
+Turn: Jh
+Checks: Soso
+Checks: Wupi
+River: 8c
+Checks: Soso
+Checks: Wupi
+Pot size: 25
+Showdown Reached
+Shows: Soso, 2h Kh
+Combination: Soso, High Card ( Kh Qd Jh 8c 6c )
+Shows: Wupi, 9d Jc
+Combination: Wupi, Pair ( Jc Jh Qd 9d 8c )
+Wins: Wupi, chips: 25
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Joheev
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Calls: Joheev
+Folds: Soso
+Raises: Wupi, chips: 10
+Calls: Joheev
+Flop: 9h Qc 3h
+Raises: Wupi, chips: 10
+Raises: Joheev, chips: 20
+Raises: Wupi, chips: 2478
+Calls: Joheev
+Turn: 2d
+River: Jh
+Pot size: 5061
+Showdown Reached
+Shows: Joheev, Td 9c
+Combination: Joheev, Pair ( 9c 9h Qc Jh Td )
+Shows: Wupi, Kh Kd
+Combination: Wupi, Pair ( Kh Kd Qc Jh 9h )
+Wins: Wupi, chips: 5061
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Wupi, chips: 5
+Big Blind: Joheev, chips: 10
+Folds: Soso
+Folds: Wupi
+Pot size: 15
+Wins: Joheev, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Joheev, chips: 5
+Big Blind: Soso, chips: 10
+Calls: Wupi
+Calls: Joheev
+Checks: Soso
+Flop: Jd 3c Qd
+Checks: Joheev
+Checks: Soso
+Checks: Wupi
+Turn: Tc
+Checks: Joheev
+Checks: Soso
+Checks: Wupi
+River: Qs
+Raises: Joheev, chips: 10
+Folds: Soso
+Raises: Wupi, chips: 10
+Folds: Joheev
+Pot size: 60
+Wins: Wupi, chips: 60
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Joheev
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Calls: Joheev
+Folds: Soso
+Raises: Wupi, chips: 10
+Raises: Joheev, chips: 20
+Raises: Wupi, chips: 40
+Raises: Joheev, chips: 80
+Raises: Wupi, chips: 90
+Folds: Joheev
+Pot size: 415
+Boasts: Joheev, Js Jd
+Wins: Wupi, chips: 415
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Wupi, chips: 5
+Big Blind: Joheev, chips: 10
+Folds: Soso
+Calls: Wupi
+Checks: Joheev
+Flop: Kc Tc Kh
+Raises: Wupi, chips: 10
+Calls: Joheev
+Turn: Td
+Checks: Wupi
+Raises: Joheev, chips: 10
+Raises: Wupi, chips: 20
+Raises: Joheev, chips: 40
+Raises: Wupi, chips: 40
+Calls: Joheev
+River: 7s
+Checks: Wupi
+Checks: Joheev
+Pot size: 260
+Showdown Reached
+Shows: Joheev, 9s 7d
+Combination: Joheev, Two Pair ( Kc Kh Tc Td 9s )
+Shows: Wupi, 4h Ah
+Combination: Wupi, Two Pair ( Kc Kh Tc Td Ah )
+Wins: Wupi, chips: 260
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Joheev, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Calls: Joheev
+Checks: Soso
+Flop: Jd 4c 2c
+Checks: Joheev
+Checks: Soso
+Turn: 3h
+Checks: Joheev
+Checks: Soso
+River: 6c
+Raises: Joheev, chips: 10
+Folds: Soso
+Pot size: 30
+Wins: Joheev, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Joheev
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Calls: Joheev
+Folds: Soso
+Checks: Wupi
+Flop: 3h 6h Qc
+Checks: Wupi
+Raises: Joheev, chips: 10
+Folds: Wupi
+Pot size: 35
+Wins: Joheev, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Wupi, chips: 5
+Big Blind: Joheev, chips: 10
+Folds: Soso
+Calls: Wupi
+Checks: Joheev
+Flop: 5s 2c 3s
+Raises: Wupi, chips: 10
+Raises: Joheev, chips: 20
+Calls: Wupi
+Turn: 3h
+Checks: Wupi
+Checks: Joheev
+River: 7c
+Checks: Wupi
+Raises: Joheev, chips: 20
+Calls: Wupi
+Pot size: 120
+Showdown Reached
+Shows: Joheev, Ah 8c
+Combination: Joheev, Pair ( 3s 3h Ah 8c 7c )
+Shows: Wupi, 6d Ad
+Combination: Wupi, Pair ( 3s 3h Ad 7c 6d )
+Wins: Joheev, chips: 120
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Joheev, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Calls: Joheev
+Checks: Soso
+Flop: Jh Td 5c
+Checks: Joheev
+Checks: Soso
+Turn: 3d
+Raises: Joheev, chips: 10
+Folds: Soso
+Pot size: 30
+Boasts: Joheev, Js Tc
+Wins: Joheev, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Joheev
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Raises: Joheev, chips: 20
+Folds: Soso
+Calls: Wupi
+Flop: 4c Qd 9h
+Checks: Wupi
+Raises: Joheev, chips: 20
+Calls: Wupi
+Turn: As
+Checks: Wupi
+Checks: Joheev
+River: Js
+Raises: Wupi, chips: 5261
+Calls: Joheev
+Pot size: 6505
+Showdown Reached
+Shows: Joheev, Ah 3d
+Combination: Joheev, Pair ( Ah As Qd Js 9h )
+Shows: Wupi, Td Ks
+Combination: Wupi, Straight ( As Ks Qd Js Td )
+Wins: Wupi, chips: 6505
+Quits: Joheev, chips: 0
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Calls: Wupi
+Checks: Soso
+Flop: 7c 3d 9s
+Checks: Soso
+Checks: Wupi
+Turn: 2h
+Checks: Soso
+Raises: Wupi, chips: 10
+Folds: Soso
+Pot size: 30
+Wins: Wupi, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Raises: Wupi, chips: 15
+Folds: Soso
+Pot size: 35
+Wins: Wupi, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Calls: Wupi
+Checks: Soso
+Flop: 8c 5h Qh
+Checks: Soso
+Raises: Wupi, chips: 10
+Folds: Soso
+Pot size: 30
+Wins: Wupi, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Calls: Wupi
+Checks: Soso
+Flop: Jh 9c Ac
+Checks: Soso
+Checks: Wupi
+Turn: 3d
+Checks: Soso
+Checks: Wupi
+River: 4h
+Checks: Soso
+Checks: Wupi
+Pot size: 20
+Showdown Reached
+Shows: Soso, 9s 8h
+Combination: Soso, Pair ( 9s 9c Ac Jh 8h )
+Shows: Wupi, 2d 2c
+Combination: Wupi, Pair ( 2d 2c Ac Jh 9c )
+Wins: Soso, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Calls: Wupi
+Checks: Soso
+Flop: 4h 4d 9c
+Checks: Soso
+Raises: Wupi, chips: 10
+Folds: Soso
+Pot size: 30
+Wins: Wupi, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Calls: Wupi
+Checks: Soso
+Flop: 6h 3d 9s
+Checks: Soso
+Checks: Wupi
+Turn: 7c
+Checks: Soso
+Checks: Wupi
+River: 8s
+Checks: Soso
+Checks: Wupi
+Pot size: 20
+Showdown Reached
+Shows: Soso, 2s Qh
+Combination: Soso, High Card ( Qh 9s 8s 7c 6h )
+Shows: Wupi, 5s 4h
+Combination: Wupi, Straight ( 9s 8s 7c 6h 5s )
+Wins: Wupi, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Calls: Wupi
+Checks: Soso
+Flop: 5h 9h Jh
+Checks: Soso
+Checks: Wupi
+Turn: Ah
+Checks: Soso
+Checks: Wupi
+River: 6s
+Checks: Soso
+Checks: Wupi
+Pot size: 20
+Showdown Reached
+Shows: Soso, Qc Qd
+Combination: Soso, Pair ( Qc Qd Ah Jh 9h )
+Shows: Wupi, 4c 6c
+Combination: Wupi, Pair ( 6c 6s Ah Jh 9h )
+Wins: Soso, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Calls: Wupi
+Checks: Soso
+Flop: 8c Js 7d
+Checks: Soso
+Checks: Wupi
+Turn: Ac
+Checks: Soso
+Raises: Wupi, chips: 10
+Folds: Soso
+Pot size: 30
+Wins: Wupi, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Calls: Wupi
+Checks: Soso
+Flop: Ah Qd 2s
+Checks: Soso
+Checks: Wupi
+Turn: 9s
+Checks: Soso
+Raises: Wupi, chips: 10
+Folds: Soso
+Pot size: 30
+Wins: Wupi, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Calls: Wupi
+Checks: Soso
+Flop: Ks Qh 5c
+Checks: Soso
+Checks: Wupi
+Turn: Jd
+Checks: Soso
+Checks: Wupi
+River: 2c
+Checks: Soso
+Checks: Wupi
+Pot size: 20
+Showdown Reached
+Shows: Soso, 2s 7h
+Combination: Soso, Pair ( 2s 2c Ks Qh Jd )
+Shows: Wupi, 9c 8c
+Combination: Wupi, High Card ( Ks Qh Jd 9c 8c )
+Wins: Soso, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Raises: Wupi, chips: 15
+Folds: Soso
+Pot size: 35
+Wins: Wupi, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Calls: Wupi
+Checks: Soso
+Flop: 8d 9c 5h
+Checks: Soso
+Checks: Wupi
+Turn: 9h
+Checks: Soso
+Checks: Wupi
+River: 7h
+Checks: Soso
+Checks: Wupi
+Pot size: 20
+Showdown Reached
+Shows: Soso, Ks 3s
+Combination: Soso, Pair ( 9c 9h Ks 8d 7h )
+Shows: Wupi, 7c 8h
+Combination: Wupi, Two Pair ( 9c 9h 8h 8d 7c )
+Wins: Wupi, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Calls: Wupi
+Checks: Soso
+Flop: Ts 2s 4c
+Checks: Soso
+Checks: Wupi
+Turn: Td
+Checks: Soso
+Checks: Wupi
+River: 8h
+Checks: Soso
+Checks: Wupi
+Pot size: 20
+Showdown Reached
+Shows: Soso, 4h 6c
+Combination: Soso, Two Pair ( Ts Td 4h 4c 8h )
+Shows: Wupi, Qh Jd
+Combination: Wupi, Pair ( Ts Td Qh Jd 8h )
+Wins: Soso, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Raises: Wupi, chips: 15
+Folds: Soso
+Pot size: 35
+Wins: Wupi, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Calls: Wupi
+Checks: Soso
+Flop: 6c Jh 9h
+Checks: Soso
+Raises: Wupi, chips: 6630
+Folds: Soso
+Pot size: 6650
+Wins: Wupi, chips: 6650
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Calls: Wupi
+Checks: Soso
+Flop: 2d Ks Qh
+Checks: Soso
+Checks: Wupi
+Turn: 2h
+Checks: Soso
+Checks: Wupi
+River: 7c
+Checks: Soso
+Raises: Wupi, chips: 10
+Folds: Soso
+Pot size: 30
+Wins: Wupi, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Calls: Wupi
+Checks: Soso
+Flop: Kc Th Jh
+Checks: Soso
+Checks: Wupi
+Turn: Qd
+Checks: Soso
+Checks: Wupi
+River: Jc
+Checks: Soso
+Checks: Wupi
+Pot size: 20
+Showdown Reached
+Shows: Soso, 7c Ah
+Combination: Soso, Straight ( Ah Kc Qd Jh Th )
+Shows: Wupi, Qc Ad
+Combination: Wupi, Straight ( Ad Kc Qc Jh Th )
+Wins: Soso, chips: 10
+Wins: Wupi, chips: 10
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Raises: Wupi, chips: 15
+Folds: Soso
+Pot size: 35
+Wins: Wupi, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Raises: Wupi, chips: 6680
+Folds: Soso
+Pot size: 6700
+Wins: Wupi, chips: 6700
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Raises: Wupi, chips: 15
+Folds: Soso
+Pot size: 35
+Wins: Wupi, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Calls: Wupi
+Checks: Soso
+Flop: Jc Td Jh
+Checks: Soso
+Raises: Wupi, chips: 10
+Folds: Soso
+Pot size: 30
+Wins: Wupi, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Calls: Wupi
+Checks: Soso
+Flop: Qc 5c Ac
+Checks: Soso
+Checks: Wupi
+Turn: Ah
+Checks: Soso
+Checks: Wupi
+River: Jh
+Checks: Soso
+Checks: Wupi
+Pot size: 20
+Showdown Reached
+Shows: Soso, 6h Qh
+Combination: Soso, Two Pair ( Ac Ah Qh Qc Jh )
+Shows: Wupi, Js 9c
+Combination: Wupi, Two Pair ( Ac Ah Js Jh Qc )
+Wins: Soso, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Calls: Wupi
+Checks: Soso
+Flop: Tc 2c 8c
+Checks: Soso
+Checks: Wupi
+Turn: Jd
+Checks: Soso
+Checks: Wupi
+River: 6h
+Checks: Soso
+Checks: Wupi
+Pot size: 20
+Showdown Reached
+Shows: Soso, 2d 7s
+Combination: Soso, Pair ( 2d 2c Jd Tc 8c )
+Shows: Wupi, 4h 4c
+Combination: Wupi, Pair ( 4h 4c Jd Tc 8c )
+Wins: Wupi, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Calls: Wupi
+Checks: Soso
+Flop: 7s 8d Kc
+Checks: Soso
+Checks: Wupi
+Turn: 9h
+Checks: Soso
+Checks: Wupi
+River: 6h
+Checks: Soso
+Checks: Wupi
+Pot size: 20
+Showdown Reached
+Shows: Soso, 2c Ac
+Combination: Soso, High Card ( Ac Kc 9h 8d 7s )
+Shows: Wupi, 9c As
+Combination: Wupi, Pair ( 9c 9h As Kc 8d )
+Wins: Wupi, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Calls: Wupi
+Checks: Soso
+Flop: Qs 2s 3h
+Checks: Soso
+Checks: Wupi
+Turn: Ts
+Checks: Soso
+Checks: Wupi
+River: Kh
+Checks: Soso
+Raises: Wupi, chips: 6750
+Folds: Soso
+Pot size: 6770
+Wins: Wupi, chips: 6770
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Calls: Wupi
+Checks: Soso
+Flop: Qc 9c 8d
+Checks: Soso
+Checks: Wupi
+Turn: 2d
+Checks: Soso
+Raises: Wupi, chips: 10
+Folds: Soso
+Pot size: 30
+Wins: Wupi, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Calls: Wupi
+Checks: Soso
+Flop: Qc As 7s
+Checks: Soso
+Raises: Wupi, chips: 10
+Folds: Soso
+Pot size: 30
+Wins: Wupi, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Raises: Wupi, chips: 15
+Folds: Soso
+Pot size: 35
+Wins: Wupi, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Calls: Wupi
+Checks: Soso
+Flop: 6h 9c Js
+Checks: Soso
+Checks: Wupi
+Turn: 8h
+Checks: Soso
+Checks: Wupi
+River: Qs
+Checks: Soso
+Checks: Wupi
+Pot size: 20
+Showdown Reached
+Shows: Soso, Kd 7c
+Combination: Soso, High Card ( Kd Qs Js 9c 8h )
+Shows: Wupi, 5s 4h
+Combination: Wupi, High Card ( Qs Js 9c 8h 6h )
+Wins: Soso, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Calls: Wupi
+Checks: Soso
+Flop: 2s 4d 8d
+Checks: Soso
+Raises: Wupi, chips: 10
+Folds: Soso
+Pot size: 30
+Wins: Wupi, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Calls: Wupi
+Checks: Soso
+Flop: 8s 8c Ad
+Checks: Soso
+Checks: Wupi
+Turn: Qh
+Checks: Soso
+Checks: Wupi
+River: Ks
+Checks: Soso
+Checks: Wupi
+Pot size: 20
+Showdown Reached
+Shows: Soso, 2c Jd
+Combination: Soso, Pair ( 8s 8c Ad Ks Qh )
+Shows: Wupi, 4s 6s
+Combination: Wupi, Pair ( 8s 8c Ad Ks Qh )
+Wins: Soso, chips: 10
+Wins: Wupi, chips: 10
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Calls: Wupi
+Checks: Soso
+Flop: Ks Tc 9c
+Checks: Soso
+Checks: Wupi
+Turn: 7h
+Checks: Soso
+Raises: Wupi, chips: 10
+Folds: Soso
+Pot size: 30
+Wins: Wupi, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Calls: Wupi
+Checks: Soso
+Flop: 4d Jd 6s
+Checks: Soso
+Checks: Wupi
+Turn: 8s
+Checks: Soso
+Checks: Wupi
+River: 6c
+Checks: Soso
+Checks: Wupi
+Pot size: 20
+Showdown Reached
+Shows: Soso, Th 5s
+Combination: Soso, Pair ( 6s 6c Jd Th 8s )
+Shows: Wupi, 8c Qc
+Combination: Wupi, Two Pair ( 8c 8s 6s 6c Qc )
+Wins: Wupi, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Raises: Wupi, chips: 6855
+Folds: Soso
+Pot size: 6875
+Wins: Wupi, chips: 6875
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Calls: Wupi
+Checks: Soso
+Flop: Ad Js 5d
+Checks: Soso
+Checks: Wupi
+Turn: 6c
+Checks: Soso
+Checks: Wupi
+River: 9c
+Checks: Soso
+Checks: Wupi
+Pot size: 20
+Showdown Reached
+Shows: Soso, Ah 7h
+Combination: Soso, Pair ( Ah Ad Js 9c 7h )
+Shows: Wupi, Qs Tc
+Combination: Wupi, High Card ( Ad Qs Js Tc 9c )
+Wins: Soso, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Calls: Wupi
+Checks: Soso
+Flop: Qh 8d Th
+Checks: Soso
+Checks: Wupi
+Turn: 9h
+Checks: Soso
+Raises: Wupi, chips: 10
+Folds: Soso
+Pot size: 30
+Wins: Wupi, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Calls: Wupi
+Checks: Soso
+Flop: 7c Tc 9h
+Checks: Soso
+Checks: Wupi
+Turn: 7h
+Checks: Soso
+Checks: Wupi
+River: 9d
+Checks: Soso
+Checks: Wupi
+Pot size: 20
+Showdown Reached
+Shows: Soso, 5d 2d
+Combination: Soso, Two Pair ( 9h 9d 7c 7h Tc )
+Shows: Wupi, 4h 6h
+Combination: Wupi, Two Pair ( 9h 9d 7c 7h Tc )
+Wins: Soso, chips: 10
+Wins: Wupi, chips: 10
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Calls: Wupi
+Checks: Soso
+Flop: 9c 9h 7s
+Checks: Soso
+Checks: Wupi
+Turn: 4c
+Checks: Soso
+Checks: Wupi
+River: 2c
+Checks: Soso
+Checks: Wupi
+Pot size: 20
+Showdown Reached
+Shows: Soso, 4h 9d
+Combination: Soso, Full House ( 9d 9c 9h 4h 4c )
+Shows: Wupi, Jc Ah
+Combination: Wupi, Pair ( 9c 9h Ah Jc 7s )
+Wins: Soso, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Calls: Wupi
+Checks: Soso
+Flop: Kd 6c 9c
+Checks: Soso
+Checks: Wupi
+Turn: Ts
+Checks: Soso
+Checks: Wupi
+River: Ah
+Checks: Soso
+Checks: Wupi
+Pot size: 20
+Showdown Reached
+Shows: Soso, 3h 5s
+Combination: Soso, High Card ( Ah Kd Ts 9c 6c )
+Shows: Wupi, 5h 4s
+Combination: Wupi, High Card ( Ah Kd Ts 9c 6c )
+Wins: Soso, chips: 10
+Wins: Wupi, chips: 10
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Calls: Wupi
+Checks: Soso
+Flop: 5d 2h 8d
+Checks: Soso
+Checks: Wupi
+Turn: Th
+Checks: Soso
+Checks: Wupi
+River: Ad
+Checks: Soso
+Checks: Wupi
+Pot size: 20
+Showdown Reached
+Shows: Soso, 6s 8h
+Combination: Soso, Pair ( 8h 8d Ad Th 6s )
+Shows: Wupi, 8s 7c
+Combination: Wupi, Pair ( 8s 8d Ad Th 7c )
+Wins: Wupi, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Calls: Wupi
+Checks: Soso
+Flop: Kh 7s As
+Checks: Soso
+Checks: Wupi
+Turn: 7d
+Checks: Soso
+Checks: Wupi
+River: Qs
+Checks: Soso
+Raises: Wupi, chips: 10
+Folds: Soso
+Pot size: 30
+Wins: Wupi, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Calls: Wupi
+Checks: Soso
+Flop: 7c 8d 8h
+Checks: Soso
+Raises: Wupi, chips: 10
+Folds: Soso
+Pot size: 30
+Wins: Wupi, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Calls: Wupi
+Checks: Soso
+Flop: 5d 8h 8d
+Checks: Soso
+Checks: Wupi
+Turn: Qc
+Checks: Soso
+Raises: Wupi, chips: 10
+Folds: Soso
+Pot size: 30
+Wins: Wupi, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Calls: Wupi
+Checks: Soso
+Flop: Jd 9h Kh
+Checks: Soso
+Checks: Wupi
+Turn: Qd
+Checks: Soso
+Checks: Wupi
+River: 5h
+Checks: Soso
+Checks: Wupi
+Pot size: 20
+Showdown Reached
+Shows: Soso, 9s 3d
+Combination: Soso, Pair ( 9s 9h Kh Qd Jd )
+Shows: Wupi, 4c 5s
+Combination: Wupi, Pair ( 5s 5h Kh Qd Jd )
+Wins: Soso, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Calls: Wupi
+Checks: Soso
+Flop: 4c 5d 5c
+Checks: Soso
+Checks: Wupi
+Turn: 6s
+Checks: Soso
+Checks: Wupi
+River: 5s
+Checks: Soso
+Raises: Wupi, chips: 10
+Folds: Soso
+Pot size: 30
+Wins: Wupi, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Calls: Wupi
+Checks: Soso
+Flop: 2s 5d 4d
+Checks: Soso
+Checks: Wupi
+Turn: Ts
+Checks: Soso
+Checks: Wupi
+River: Td
+Checks: Soso
+Checks: Wupi
+Pot size: 20
+Showdown Reached
+Shows: Soso, Kh Kd
+Combination: Soso, Two Pair ( Kh Kd Ts Td 5d )
+Shows: Wupi, 8c 7s
+Combination: Wupi, Pair ( Ts Td 8c 7s 5d )
+Wins: Soso, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Calls: Wupi
+Checks: Soso
+Flop: 2s 9d Qd
+Checks: Soso
+Checks: Wupi
+Turn: 3d
+Checks: Soso
+Raises: Wupi, chips: 10
+Folds: Soso
+Pot size: 30
+Wins: Wupi, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Calls: Wupi
+Checks: Soso
+Flop: 3s 6c Kd
+Checks: Soso
+Checks: Wupi
+Turn: 7c
+Checks: Soso
+Checks: Wupi
+River: 8d
+Checks: Soso
+Checks: Wupi
+Pot size: 20
+Showdown Reached
+Shows: Soso, 5h Tc
+Combination: Soso, High Card ( Kd Tc 8d 7c 6c )
+Shows: Wupi, As 6s
+Combination: Wupi, Pair ( 6s 6c As Kd 8d )
+Wins: Wupi, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Flop: Js 7d 9h
+Turn: 7s
+River: 7h
+Pot size: 15
+Showdown Reached
+Shows: Soso, 3d Ah
+Combination: Soso, Three Of A Kind ( 7d 7s 7h Ah Js )
+Shows: Wupi, Qc Td
+Combination: Wupi, Three Of A Kind ( 7d 7s 7h Qc Js )
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Flop: Ks 7s 7c
+Turn: 4s
+River: 4c
+Pot size: 15
+Showdown Reached
+Shows: Soso, Ac 5h
+Combination: Soso, Two Pair ( 7s 7c 4s 4c Ac )
+Shows: Wupi, 2s Ad
+Combination: Wupi, Two Pair ( 7s 7c 4s 4c Ad )
+Wins: Soso, chips: 10
+Wins: Wupi, chips: 5
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 5
+Flop: As Th 5c
+Turn: 8h
+River: Jh
+Pot size: 10
+Showdown Reached
+Shows: Soso, Qd Jd
+Combination: Soso, Pair ( Jd Jh As Qd Th )
+Shows: Wupi, 9s 4h
+Combination: Wupi, High Card ( As Jh Th 9s 8h )
+Wins: Soso, chips: 10
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 5
+Flop: 3c 9c 9d
+Turn: Qh
+River: 3d
+Pot size: 10
+Showdown Reached
+Shows: Soso, Td 4c
+Combination: Soso, Two Pair ( 9c 9d 3c 3d Qh )
+Shows: Wupi, 7s Tc
+Combination: Wupi, Two Pair ( 9c 9d 3c 3d Qh )
+Wins: Soso, chips: 5
+Wins: Wupi, chips: 5
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Flop: 8s 5h As
+Turn: 4s
+River: Qs
+Pot size: 15
+Showdown Reached
+Shows: Soso, Ks 6h
+Combination: Soso, Flush ( As Ks Qs 8s 4s )
+Shows: Wupi, Tc 9c
+Combination: Wupi, High Card ( As Qs Tc 9c 8s )
+Wins: Soso, chips: 10
+Wins: Wupi, chips: 5
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Flop: 6c Kc 6s
+Turn: Ac
+River: 7h
+Pot size: 15
+Showdown Reached
+Shows: Soso, Qc Jd
+Combination: Soso, Pair ( 6c 6s Ac Kc Qc )
+Shows: Wupi, Kh Td
+Combination: Wupi, Two Pair ( Kh Kc 6c 6s Ac )
+Wins: Soso, chips: 5
+Wins: Wupi, chips: 10
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Flop: Ad 2c Ts
+Turn: 8c
+River: Ks
+Pot size: 15
+Showdown Reached
+Shows: Soso, Jh Qd
+Combination: Soso, Straight ( Ad Ks Qd Jh Ts )
+Shows: Wupi, 2d Jd
+Combination: Wupi, Pair ( 2d 2c Ad Ks Jd )
+Wins: Soso, chips: 10
+Wins: Wupi, chips: 5
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Flop: Kc Qc 9d
+Turn: 5d
+River: 2c
+Pot size: 15
+Showdown Reached
+Shows: Soso, 7d 4c
+Combination: Soso, High Card ( Kc Qc 9d 7d 5d )
+Shows: Wupi, 6c Ts
+Combination: Wupi, High Card ( Kc Qc Ts 9d 6c )
+Wins: Soso, chips: 5
+Wins: Wupi, chips: 10
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Flop: 7h 4s Jc
+Turn: 6c
+River: 3h
+Pot size: 15
+Showdown Reached
+Shows: Soso, 2d Qs
+Combination: Soso, High Card ( Qs Jc 7h 6c 4s )
+Shows: Wupi, 5d Th
+Combination: Wupi, Straight ( 7h 6c 5d 4s 3h )
+Wins: Wupi, chips: 15
+Quits: Soso, chips: 0
+Ranking: Wupi, Place: 1, Score: 6000
+Reveal AI: Wupi, AI: Smart
+Ranking: Soso, Place: 2, Score: -1000
+Reveal AI: Soso, AI: AIMyBot1
+Ranking: Joheev, Place: 3, Score: -1000
+Reveal AI: Joheev, AI: Random
+Ranking: Sa, Place: 4, Score: -1000
+Reveal AI: Sa, AI: Smart
+Ranking: Mudef, Place: 5, Score: -1000
+Reveal AI: Mudef, AI: Call
+Ranking: Joeru, Place: 6, Score: -1000
+Reveal AI: Joeru, AI: Random
+Ranking: Vugeeva, Place: 7, Score: -1000
+Reveal AI: Vugeeva, AI: Call
+
+Player Stats for Joeru, AI: Random
+General: deals: 1, actions: 5, preflop actions: 1
+Rounds Seen: flops: 121, turns: 106, rivers: 86, showdowns: 70
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 5
+Pre-Flop Stats: VP$IP: 1, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: 1, WSD: 0.578512, WSDW: 0
+
+
+Player Stats for Joheev, AI: Random
+General: deals: 128, actions: 295, preflop actions: 116
+Rounds Seen: flops: 115, turns: 100, rivers: 81, showdowns: 66
+Wins: total: 81, showdown: 20, bluff: 61
+Chips: won: 29523, lost: 34645, bought: 1000, forced bets: 590
+Pre-Flop Stats: VP$IP: 0.585938, PFR: 0.21875, 3Bet: 0.1875
+Post-Flop Stats: AF: 3.8, WSD: 0.573913, WSDW: 0.30303
+
+
+Player Stats for Mudef, AI: Call
+General: deals: 1, actions: 5, preflop actions: 1
+Rounds Seen: flops: 121, turns: 106, rivers: 86, showdowns: 70
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 10
+Pre-Flop Stats: VP$IP: 1, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: 0, WSD: 0.578512, WSDW: 0
+
+
+Player Stats for Sa, AI: Smart
+General: deals: 33, actions: 67, preflop actions: 35
+Rounds Seen: flops: 117, turns: 100, rivers: 83, showdowns: 67
+Wins: total: 7, showdown: 2, bluff: 5
+Chips: won: 1352, lost: 10238, bought: 1000, forced bets: 120
+Pre-Flop Stats: VP$IP: 0.363636, PFR: 0.0909091, 3Bet: 0.0909091
+Post-Flop Stats: AF: 5, WSD: 0.57265, WSDW: 0.0298507
+
+
+Player Stats for Soso, AI: AIMyBot1
+General: deals: 373, actions: 468, preflop actions: 293
+Rounds Seen: flops: 74, turns: 60, rivers: 47, showdowns: 38
+Wins: total: 95, showdown: 24, bluff: 71
+Chips: won: 1425, lost: 2425, bought: 1000, forced bets: 2425
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 0.513514, WSDW: 0.631579
+
+
+Player Stats for Vugeeva, AI: Call
+General: deals: 1, actions: 4, preflop actions: 1
+Rounds Seen: flops: 121, turns: 106, rivers: 86, showdowns: 70
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 0
+Pre-Flop Stats: VP$IP: 1, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: 0, WSD: 0.578512, WSDW: 0
+
+
+Player Stats for Wupi, AI: Smart
+General: deals: 373, actions: 509, preflop actions: 244
+Rounds Seen: flops: 100, turns: 89, rivers: 75, showdowns: 64
+Wins: total: 205, showdown: 39, bluff: 166
+Chips: won: 48294, lost: 42294, bought: 1000, forced bets: 2435
+Pre-Flop Stats: VP$IP: 0.233244, PFR: 0.0509383, 3Bet: 0.0455764
+Post-Flop Stats: AF: 2.6, WSD: 0.64, WSDW: 0.609375
+
+
+Date: 2026/04/30 12:57:09
+
+The game begins. The AI's of the players are: 
+Joheev: Random
+Soso: AIMyBot1
+Vugeeva: Call
+Joeru: Random
+Mudef: Call
+Sa: Smart
+Wupi: Smart
+
+Joins: Joheev, chips: 1000
+Joins: Soso, chips: 1000
+Joins: Vugeeva, chips: 1000
+Joins: Joeru, chips: 1000
+Joins: Mudef, chips: 1000
+Joins: Sa, chips: 1000
+Joins: Wupi, chips: 1000
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Vugeeva
+Small Blind: Joeru, chips: 5
+Big Blind: Mudef, chips: 10
+Raises: Sa, chips: 20
+Folds: Wupi
+Calls: Joheev
+Folds: Soso
+Calls: Vugeeva
+Calls: Joeru
+Calls: Mudef
+Flop: Td 6s 7h
+Raises: Joeru, chips: 20
+Calls: Mudef
+Folds: Sa
+Calls: Joheev
+Calls: Vugeeva
+Turn: 6h
+Checks: Joeru
+Checks: Mudef
+Checks: Joheev
+Checks: Vugeeva
+River: 4d
+Checks: Joeru
+Checks: Mudef
+Raises: Joheev, chips: 950
+Calls: Vugeeva
+Calls: Joeru
+Calls: Mudef
+Pot size: 4030
+Showdown Reached
+Shows: Joheev, 6c Ah
+Combination: Joheev, Three Of A Kind ( 6c 6s 6h Ah Td )
+Shows: Vugeeva, 3d Ks
+Combination: Vugeeva, Pair ( 6s 6h Ks Td 7h )
+Shows: Joeru, 5c Kc
+Combination: Joeru, Pair ( 6s 6h Kc Td 7h )
+Shows: Mudef, 7d 2c
+Combination: Mudef, Two Pair ( 7d 7h 6s 6h Td )
+Wins: Joheev, chips: 4030
+Quits: Vugeeva, chips: 0
+Quits: Joeru, chips: 0
+Quits: Mudef, chips: 0
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sa
+Small Blind: Wupi, chips: 5
+Big Blind: Joheev, chips: 10
+Folds: Soso
+Calls: Sa
+Folds: Wupi
+Checks: Joheev
+Flop: 9d Jh Qh
+Checks: Joheev
+Raises: Sa, chips: 10
+Raises: Joheev, chips: 20
+Calls: Sa
+Turn: 2h
+Checks: Joheev
+Checks: Sa
+River: 9s
+Raises: Joheev, chips: 20
+Folds: Sa
+Pot size: 105
+Wins: Joheev, chips: 105
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Joheev, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Sa
+Folds: Wupi
+Folds: Joheev
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Joheev
+Small Blind: Soso, chips: 5
+Big Blind: Sa, chips: 10
+Folds: Wupi
+Raises: Joheev, chips: 20
+Folds: Soso
+Folds: Sa
+Pot size: 45
+Wins: Joheev, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Sa, chips: 5
+Big Blind: Wupi, chips: 10
+Calls: Joheev
+Folds: Soso
+Folds: Sa
+Checks: Wupi
+Flop: 5h Th Ad
+Checks: Wupi
+Checks: Joheev
+Turn: Ac
+Checks: Wupi
+Raises: Joheev, chips: 10
+Folds: Wupi
+Pot size: 35
+Boasts: Joheev, Td Qh
+Wins: Joheev, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sa
+Small Blind: Wupi, chips: 5
+Big Blind: Joheev, chips: 10
+Folds: Soso
+Folds: Sa
+Calls: Wupi
+Raises: Joheev, chips: 10
+Folds: Wupi
+Pot size: 30
+Wins: Joheev, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Joheev, chips: 5
+Big Blind: Soso, chips: 10
+Calls: Sa
+Folds: Wupi
+Calls: Joheev
+Checks: Soso
+Flop: Td 4h 3c
+Checks: Joheev
+Checks: Soso
+Checks: Sa
+Turn: 3h
+Checks: Joheev
+Checks: Soso
+Checks: Sa
+River: 6d
+Raises: Joheev, chips: 10
+Folds: Soso
+Folds: Sa
+Pot size: 40
+Boasts: Joheev, 8d Tc
+Wins: Joheev, chips: 40
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Joheev
+Small Blind: Soso, chips: 5
+Big Blind: Sa, chips: 10
+Calls: Wupi
+Folds: Joheev
+Folds: Soso
+Checks: Sa
+Flop: Kd 8c 4h
+Checks: Sa
+Checks: Wupi
+Turn: 6h
+Raises: Sa, chips: 10
+Folds: Wupi
+Pot size: 35
+Wins: Sa, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Sa, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Joheev
+Folds: Soso
+Calls: Sa
+Checks: Wupi
+Flop: Qd Js 5d
+Checks: Sa
+Checks: Wupi
+Turn: 7c
+Checks: Sa
+Checks: Wupi
+River: 5s
+Raises: Sa, chips: 10
+Folds: Wupi
+Pot size: 30
+Boasts: Joheev, Tc 9c
+Wins: Sa, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sa
+Small Blind: Wupi, chips: 5
+Big Blind: Joheev, chips: 10
+Folds: Soso
+Folds: Sa
+Folds: Wupi
+Pot size: 15
+Boasts: Joheev, Ks 4h
+Wins: Joheev, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Joheev, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Sa
+Calls: Wupi
+Raises: Joheev, chips: 15
+Folds: Soso
+Folds: Wupi
+Pot size: 45
+Wins: Joheev, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Joheev
+Small Blind: Soso, chips: 5
+Big Blind: Sa, chips: 10
+Folds: Wupi
+Raises: Joheev, chips: 20
+Folds: Soso
+Folds: Sa
+Pot size: 45
+Boasts: Joheev, 9s 6h
+Wins: Joheev, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Sa, chips: 5
+Big Blind: Wupi, chips: 10
+Calls: Joheev
+Folds: Soso
+Calls: Sa
+Checks: Wupi
+Flop: Ks 6s 9d
+Checks: Sa
+Checks: Wupi
+Raises: Joheev, chips: 10
+Raises: Sa, chips: 20
+Raises: Wupi, chips: 20
+Raises: Joheev, chips: 60
+Raises: Sa, chips: 190
+Calls: Wupi
+Calls: Joheev
+Turn: 3s
+Checks: Sa
+Raises: Wupi, chips: 290
+Raises: Joheev, chips: 580
+Folds: Sa
+Folds: Wupi
+Pot size: 2090
+Boasts: Joheev, 5h Qd
+Wins: Joheev, chips: 2090
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sa
+Small Blind: Wupi, chips: 5
+Big Blind: Joheev, chips: 10
+Folds: Soso
+Calls: Sa
+Folds: Wupi
+Raises: Joheev, chips: 5070
+Calls: Sa
+Flop: 7c 2c 5c
+Turn: 8s
+River: 4s
+Pot size: 5695
+Showdown Reached
+Shows: Joheev, Qs Jh
+Combination: Joheev, High Card ( Qs Jh 8s 7c 5c )
+Shows: Sa, Qh Ah
+Combination: Sa, High Card ( Ah Qh 8s 7c 5c )
+Wins: Joheev, chips: 4470
+Wins: Sa, chips: 1225
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Joheev, chips: 5
+Big Blind: Soso, chips: 10
+Calls: Sa
+Calls: Wupi
+Calls: Joheev
+Checks: Soso
+Flop: 7c 5s 7d
+Checks: Joheev
+Checks: Soso
+Checks: Sa
+Checks: Wupi
+Turn: 6h
+Checks: Joheev
+Checks: Soso
+Checks: Sa
+Checks: Wupi
+River: 8h
+Checks: Joheev
+Checks: Soso
+Checks: Sa
+Checks: Wupi
+Pot size: 40
+Showdown Reached
+Shows: Joheev, 9h 2d
+Combination: Joheev, Straight ( 9h 8h 7c 6h 5s )
+Shows: Soso, Td 4s
+Combination: Soso, Straight ( 8h 7c 6h 5s 4s )
+Shows: Sa, 4h 3h
+Combination: Sa, Straight ( 8h 7c 6h 5s 4h )
+Shows: Wupi, 3d Ad
+Combination: Wupi, Pair ( 7c 7d Ad 8h 6h )
+Wins: Joheev, chips: 40
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Joheev
+Small Blind: Soso, chips: 5
+Big Blind: Sa, chips: 10
+Folds: Wupi
+Folds: Joheev
+Folds: Soso
+Pot size: 15
+Boasts: Joheev, 3c 8s
+Wins: Sa, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Sa, chips: 5
+Big Blind: Wupi, chips: 10
+Calls: Joheev
+Folds: Soso
+Calls: Sa
+Checks: Wupi
+Flop: 6c Jd 8s
+Checks: Sa
+Checks: Wupi
+Raises: Joheev, chips: 10
+Folds: Sa
+Calls: Wupi
+Turn: 9c
+Checks: Wupi
+Checks: Joheev
+River: 4c
+Checks: Wupi
+Checks: Joheev
+Pot size: 50
+Showdown Reached
+Shows: Joheev, 4d Kd
+Combination: Joheev, Pair ( 4d 4c Kd Jd 9c )
+Shows: Wupi, Jc 5s
+Combination: Wupi, Pair ( Jc Jd 9c 8s 6c )
+Wins: Wupi, chips: 50
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sa
+Small Blind: Wupi, chips: 5
+Big Blind: Joheev, chips: 10
+Folds: Soso
+Folds: Sa
+Folds: Wupi
+Pot size: 15
+Boasts: Joheev, 8h 6s
+Wins: Joheev, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Joheev, chips: 5
+Big Blind: Soso, chips: 10
+Calls: Sa
+Raises: Wupi, chips: 10
+Calls: Joheev
+Folds: Soso
+Folds: Sa
+Flop: Jd Th 2h
+Checks: Joheev
+Checks: Wupi
+Turn: 5h
+Raises: Joheev, chips: 10
+Raises: Wupi, chips: 10
+Folds: Joheev
+Pot size: 90
+Boasts: Joheev, Ks 8c
+Wins: Wupi, chips: 90
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Joheev
+Small Blind: Soso, chips: 5
+Big Blind: Sa, chips: 10
+Folds: Wupi
+Folds: Joheev
+Folds: Soso
+Pot size: 15
+Wins: Sa, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Sa, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Joheev
+Folds: Soso
+Folds: Sa
+Pot size: 15
+Boasts: Joheev, 5s Js
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sa
+Small Blind: Wupi, chips: 5
+Big Blind: Joheev, chips: 10
+Folds: Soso
+Folds: Sa
+Folds: Wupi
+Pot size: 15
+Boasts: Joheev, 9c 6s
+Wins: Joheev, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Joheev, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Sa
+Folds: Wupi
+Raises: Joheev, chips: 15
+Folds: Soso
+Pot size: 35
+Boasts: Joheev, 4s Ac
+Wins: Joheev, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Joheev
+Small Blind: Soso, chips: 5
+Big Blind: Sa, chips: 10
+Folds: Wupi
+Folds: Joheev
+Folds: Soso
+Pot size: 15
+Boasts: Joheev, 9s Jc
+Wins: Sa, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Sa, chips: 5
+Big Blind: Wupi, chips: 10
+Raises: Joheev, chips: 20
+Folds: Soso
+Folds: Sa
+Folds: Wupi
+Pot size: 45
+Boasts: Joheev, 6h Th
+Wins: Joheev, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sa
+Small Blind: Wupi, chips: 5
+Big Blind: Joheev, chips: 10
+Folds: Soso
+Folds: Sa
+Calls: Wupi
+Checks: Joheev
+Flop: 3c 7d 4h
+Checks: Wupi
+Raises: Joheev, chips: 10
+Calls: Wupi
+Turn: 5s
+Checks: Wupi
+Checks: Joheev
+River: 7c
+Checks: Wupi
+Checks: Joheev
+Pot size: 40
+Showdown Reached
+Shows: Joheev, Kc 6d
+Combination: Joheev, Straight ( 7d 6d 5s 4h 3c )
+Shows: Wupi, Ad 9d
+Combination: Wupi, Pair ( 7d 7c Ad 9d 5s )
+Wins: Joheev, chips: 40
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Joheev, chips: 5
+Big Blind: Soso, chips: 10
+Raises: Sa, chips: 20
+Folds: Wupi
+Raises: Joheev, chips: 45
+Folds: Soso
+Folds: Sa
+Pot size: 115
+Boasts: Joheev, 2c 7s
+Wins: Joheev, chips: 115
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Joheev
+Small Blind: Soso, chips: 5
+Big Blind: Sa, chips: 10
+Folds: Wupi
+Calls: Joheev
+Folds: Soso
+Checks: Sa
+Flop: 9c 2c 5s
+Checks: Sa
+Checks: Joheev
+Turn: 6h
+Checks: Sa
+Raises: Joheev, chips: 10
+Folds: Sa
+Pot size: 35
+Boasts: Joheev, Kc Js
+Wins: Joheev, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Sa, chips: 5
+Big Blind: Wupi, chips: 10
+Raises: Joheev, chips: 20
+Folds: Soso
+Folds: Sa
+Folds: Wupi
+Pot size: 45
+Wins: Joheev, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sa
+Small Blind: Wupi, chips: 5
+Big Blind: Joheev, chips: 10
+Folds: Soso
+Calls: Sa
+Raises: Wupi, chips: 15
+Calls: Joheev
+Calls: Sa
+Flop: Jh 3h 4c
+Checks: Wupi
+Checks: Joheev
+Checks: Sa
+Turn: 9d
+Checks: Wupi
+Checks: Joheev
+Checks: Sa
+River: 6c
+Checks: Wupi
+Raises: Joheev, chips: 15
+Folds: Sa
+Raises: Wupi, chips: 25
+Folds: Joheev
+Pot size: 130
+Wins: Wupi, chips: 130
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Joheev, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Sa
+Folds: Wupi
+Calls: Joheev
+Checks: Soso
+Flop: 7c 3s 8c
+Checks: Joheev
+Checks: Soso
+Turn: Jc
+Raises: Joheev, chips: 10
+Folds: Soso
+Pot size: 30
+Boasts: Joheev, Ac Kd
+Wins: Joheev, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Joheev
+Small Blind: Soso, chips: 5
+Big Blind: Sa, chips: 10
+Calls: Wupi
+Calls: Joheev
+Folds: Soso
+Checks: Sa
+Flop: Kd Qc As
+Checks: Sa
+Checks: Wupi
+Checks: Joheev
+Turn: 7d
+Checks: Sa
+Checks: Wupi
+Checks: Joheev
+River: 5d
+Checks: Sa
+Checks: Wupi
+Checks: Joheev
+Pot size: 35
+Showdown Reached
+Shows: Joheev, 7s 8s
+Combination: Joheev, Pair ( 7s 7d As Kd Qc )
+Shows: Sa, 7c Jh
+Combination: Sa, Pair ( 7c 7d As Kd Qc )
+Shows: Wupi, 8c 9h
+Combination: Wupi, High Card ( As Kd Qc 9h 8c )
+Wins: Joheev, chips: 18
+Wins: Sa, chips: 17
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Sa, chips: 5
+Big Blind: Wupi, chips: 10
+Raises: Joheev, chips: 20
+Folds: Soso
+Raises: Sa, chips: 55
+Folds: Wupi
+Raises: Joheev, chips: 4468
+Calls: Sa
+Flop: 5c 4c 6c
+Turn: 3h
+River: Jd
+Pot size: 5700
+Showdown Reached
+Shows: Joheev, 2h 6h
+Combination: Joheev, Straight ( 6h 5c 4c 3h 2h )
+Shows: Sa, Ah Js
+Combination: Sa, Pair ( Js Jd Ah 6c 5c )
+Wins: Joheev, chips: 5700
+Quits: Sa, chips: 0
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Joheev, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Calls: Joheev
+Checks: Soso
+Flop: 4s 3d Ts
+Checks: Joheev
+Checks: Soso
+Turn: 4h
+Raises: Joheev, chips: 10
+Folds: Soso
+Pot size: 30
+Boasts: Joheev, 9s Kh
+Wins: Joheev, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Joheev
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Joheev
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Wupi, chips: 5
+Big Blind: Joheev, chips: 10
+Folds: Soso
+Folds: Wupi
+Pot size: 15
+Boasts: Joheev, Th Qs
+Wins: Joheev, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Joheev, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Folds: Joheev
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Joheev
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Calls: Joheev
+Folds: Soso
+Checks: Wupi
+Flop: 5s 7s Ad
+Checks: Wupi
+Checks: Joheev
+Turn: Kh
+Checks: Wupi
+Checks: Joheev
+River: Tc
+Checks: Wupi
+Checks: Joheev
+Pot size: 25
+Showdown Reached
+Shows: Joheev, Th Ts
+Combination: Joheev, Three Of A Kind ( Th Ts Tc Ad Kh )
+Shows: Wupi, 4h 2c
+Combination: Wupi, High Card ( Ad Kh Tc 7s 5s )
+Wins: Joheev, chips: 25
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Wupi, chips: 5
+Big Blind: Joheev, chips: 10
+Folds: Soso
+Calls: Wupi
+Checks: Joheev
+Flop: 9d Th Jc
+Checks: Wupi
+Raises: Joheev, chips: 10
+Folds: Wupi
+Pot size: 30
+Wins: Joheev, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Joheev, chips: 5
+Big Blind: Soso, chips: 10
+Calls: Wupi
+Raises: Joheev, chips: 15
+Folds: Soso
+Calls: Wupi
+Flop: Ac 4s 5s
+Checks: Joheev
+Checks: Wupi
+Turn: Js
+Checks: Joheev
+DEBUG MESSAGE: INVALID ACTION FROM Wupi (2 0)
+Folds: Wupi
+Pot size: 60
+Wins: Joheev, chips: 60
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Joheev
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Calls: Joheev
+Folds: Soso
+Checks: Wupi
+Flop: 8h 9c 8c
+Checks: Wupi
+Checks: Joheev
+Turn: 6s
+Checks: Wupi
+Checks: Joheev
+River: 3d
+Checks: Wupi
+Raises: Joheev, chips: 10
+Folds: Wupi
+Pot size: 35
+Wins: Joheev, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Wupi, chips: 5
+Big Blind: Joheev, chips: 10
+Folds: Soso
+Folds: Wupi
+Pot size: 15
+Boasts: Joheev, Qd 2d
+Wins: Joheev, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Joheev, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Calls: Joheev
+Checks: Soso
+Flop: Qc 9h 5c
+Checks: Joheev
+Checks: Soso
+Turn: 3h
+Raises: Joheev, chips: 10
+Folds: Soso
+Pot size: 30
+Wins: Joheev, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Joheev
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Calls: Joheev
+Folds: Soso
+Checks: Wupi
+Flop: Qc 8h As
+Checks: Wupi
+Checks: Joheev
+Turn: 8d
+Checks: Wupi
+Raises: Joheev, chips: 10
+Calls: Wupi
+River: 3h
+Checks: Wupi
+Raises: Joheev, chips: 10
+Calls: Wupi
+Pot size: 65
+Showdown Reached
+Shows: Joheev, 6h Kd
+Combination: Joheev, Pair ( 8h 8d As Kd Qc )
+Shows: Wupi, 6c Kh
+Combination: Wupi, Pair ( 8h 8d As Kh Qc )
+Wins: Joheev, chips: 33
+Wins: Wupi, chips: 32
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Wupi, chips: 5
+Big Blind: Joheev, chips: 10
+Folds: Soso
+Folds: Wupi
+Pot size: 15
+Wins: Joheev, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Joheev, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Folds: Joheev
+Pot size: 15
+Boasts: Joheev, 8d Jc
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Joheev
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Calls: Joheev
+Folds: Soso
+Checks: Wupi
+Flop: 3s 2c 9d
+Checks: Wupi
+Checks: Joheev
+Turn: 5d
+Checks: Wupi
+Checks: Joheev
+River: Kc
+Checks: Wupi
+Raises: Joheev, chips: 10
+Calls: Wupi
+Pot size: 45
+Showdown Reached
+Shows: Joheev, Ks 8c
+Combination: Joheev, Pair ( Ks Kc 9d 8c 5d )
+Shows: Wupi, Jh 3d
+Combination: Wupi, Pair ( 3d 3s Kc Jh 9d )
+Wins: Joheev, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Wupi, chips: 5
+Big Blind: Joheev, chips: 10
+Folds: Soso
+Folds: Wupi
+Pot size: 15
+Boasts: Joheev, Ah 9s
+Wins: Joheev, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Joheev, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Calls: Joheev
+Checks: Soso
+Flop: As 8s 2c
+Checks: Joheev
+Checks: Soso
+Turn: Qc
+Checks: Joheev
+Checks: Soso
+River: 6h
+Checks: Joheev
+Checks: Soso
+Pot size: 20
+Showdown Reached
+Shows: Joheev, 8h 3h
+Combination: Joheev, Pair ( 8h 8s As Qc 6h )
+Shows: Soso, Kh Td
+Combination: Soso, High Card ( As Kh Qc Td 8s )
+Wins: Joheev, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Joheev
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Calls: Joheev
+Folds: Soso
+Checks: Wupi
+Flop: Jd 2c 8s
+Checks: Wupi
+Checks: Joheev
+Turn: 7s
+Checks: Wupi
+Checks: Joheev
+River: 6c
+Checks: Wupi
+Raises: Joheev, chips: 10
+Raises: Wupi, chips: 10
+Folds: Joheev
+Pot size: 55
+Boasts: Joheev, 4s 3d
+Wins: Wupi, chips: 55
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Wupi, chips: 5
+Big Blind: Joheev, chips: 10
+Folds: Soso
+Folds: Wupi
+Pot size: 15
+Boasts: Joheev, 4h 2c
+Wins: Joheev, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Joheev, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Calls: Joheev
+Checks: Soso
+Flop: 5c 8h 6h
+Checks: Joheev
+Checks: Soso
+Turn: 3d
+Checks: Joheev
+Checks: Soso
+River: Ks
+Checks: Joheev
+Checks: Soso
+Pot size: 20
+Showdown Reached
+Shows: Joheev, 6s Kc
+Combination: Joheev, Two Pair ( Kc Ks 6s 6h 8h )
+Shows: Soso, Jd 8s
+Combination: Soso, Pair ( 8s 8h Ks Jd 6h )
+Wins: Joheev, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Joheev
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Calls: Joheev
+Folds: Soso
+Checks: Wupi
+Flop: 3d Ah Kc
+Checks: Wupi
+Checks: Joheev
+Turn: 5d
+Checks: Wupi
+Raises: Joheev, chips: 10
+Raises: Wupi, chips: 10
+Raises: Joheev, chips: 20
+Calls: Wupi
+River: 8h
+Raises: Wupi, chips: 20
+Raises: Joheev, chips: 40
+Calls: Wupi
+Pot size: 225
+Showdown Reached
+Shows: Joheev, Ac 9c
+Combination: Joheev, Pair ( Ac Ah Kc 9c 8h )
+Shows: Wupi, Kd 2h
+Combination: Wupi, Pair ( Kd Kc Ah 8h 5d )
+Wins: Joheev, chips: 225
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Wupi, chips: 5
+Big Blind: Joheev, chips: 10
+Folds: Soso
+Raises: Wupi, chips: 15
+Calls: Joheev
+Flop: 7c 4d 2d
+Checks: Wupi
+Checks: Joheev
+Turn: 6h
+Checks: Wupi
+Checks: Joheev
+River: 8d
+Checks: Wupi
+Checks: Joheev
+Pot size: 50
+Showdown Reached
+Shows: Joheev, Qh 5h
+Combination: Joheev, Straight ( 8d 7c 6h 5h 4d )
+Shows: Wupi, 9d 9c
+Combination: Wupi, Pair ( 9d 9c 8d 7c 6h )
+Wins: Joheev, chips: 50
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Joheev, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Calls: Joheev
+Checks: Soso
+Flop: 6d As Jd
+Raises: Joheev, chips: 10
+Folds: Soso
+Pot size: 30
+Wins: Joheev, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Joheev
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Calls: Joheev
+Folds: Soso
+Checks: Wupi
+Flop: 7c Ks Tc
+Checks: Wupi
+Checks: Joheev
+Turn: Ts
+Raises: Wupi, chips: 10
+Calls: Joheev
+River: Ad
+Raises: Wupi, chips: 10
+Calls: Joheev
+Pot size: 65
+Showdown Reached
+Shows: Joheev, Kc 9d
+Combination: Joheev, Two Pair ( Kc Ks Tc Ts Ad )
+Shows: Wupi, Ac Td
+Combination: Wupi, Full House ( Td Tc Ts Ac Ad )
+Wins: Wupi, chips: 65
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Wupi, chips: 5
+Big Blind: Joheev, chips: 10
+Folds: Soso
+Folds: Wupi
+Pot size: 15
+Boasts: Joheev, Ad 6c
+Wins: Joheev, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Joheev, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Calls: Joheev
+Checks: Soso
+Flop: Jh Kd 4s
+Checks: Joheev
+Checks: Soso
+Turn: 9s
+Checks: Joheev
+Checks: Soso
+River: Ts
+Checks: Joheev
+Checks: Soso
+Pot size: 20
+Showdown Reached
+Shows: Joheev, Th 4h
+Combination: Joheev, Two Pair ( Th Ts 4h 4s Kd )
+Shows: Soso, 9d 2h
+Combination: Soso, Pair ( 9d 9s Kd Jh Ts )
+Wins: Joheev, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Joheev
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Joheev
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Wupi, chips: 5
+Big Blind: Joheev, chips: 10
+Folds: Soso
+Folds: Wupi
+Pot size: 15
+Wins: Joheev, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Joheev, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Calls: Joheev
+Checks: Soso
+Flop: 7h 9s 4h
+Raises: Joheev, chips: 10
+Folds: Soso
+Pot size: 30
+Wins: Joheev, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Joheev
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Calls: Joheev
+Folds: Soso
+Checks: Wupi
+Flop: As 6h 7c
+Checks: Wupi
+Checks: Joheev
+Turn: 8h
+Checks: Wupi
+Checks: Joheev
+River: 4s
+Checks: Wupi
+Checks: Joheev
+Pot size: 25
+Showdown Reached
+Shows: Joheev, Ah 6s
+Combination: Joheev, Two Pair ( Ah As 6s 6h 8h )
+Shows: Wupi, 6c Kc
+Combination: Wupi, Pair ( 6c 6h As Kc 8h )
+Wins: Joheev, chips: 25
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Wupi, chips: 5
+Big Blind: Joheev, chips: 10
+Folds: Soso
+Folds: Wupi
+Pot size: 15
+Boasts: Joheev, Ks 9h
+Wins: Joheev, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Joheev, chips: 5
+Big Blind: Soso, chips: 10
+Calls: Wupi
+Calls: Joheev
+Checks: Soso
+Flop: Tc Td 3c
+Checks: Joheev
+Checks: Soso
+Raises: Wupi, chips: 10
+Folds: Joheev
+Folds: Soso
+Pot size: 40
+Boasts: Joheev, Jc Ks
+Wins: Wupi, chips: 40
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Joheev
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Raises: Joheev, chips: 20
+Folds: Soso
+Folds: Wupi
+Pot size: 45
+Wins: Joheev, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Wupi, chips: 5
+Big Blind: Joheev, chips: 10
+Folds: Soso
+Calls: Wupi
+Checks: Joheev
+Flop: 6d 3d Qc
+Checks: Wupi
+Checks: Joheev
+Turn: Ad
+Raises: Wupi, chips: 10
+Raises: Joheev, chips: 20
+Calls: Wupi
+River: 2s
+Checks: Wupi
+Checks: Joheev
+Pot size: 80
+Showdown Reached
+Shows: Joheev, 6s Jd
+Combination: Joheev, Pair ( 6s 6d Ad Qc Jd )
+Shows: Wupi, 9s 9h
+Combination: Wupi, Pair ( 9s 9h Ad Qc 6d )
+Wins: Wupi, chips: 80
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Joheev, chips: 5
+Big Blind: Soso, chips: 10
+Calls: Wupi
+Folds: Joheev
+Checks: Soso
+Flop: Kc Ks 5c
+Checks: Soso
+Checks: Wupi
+Turn: Td
+Checks: Soso
+Checks: Wupi
+River: 7d
+Checks: Soso
+Checks: Wupi
+Pot size: 25
+Showdown Reached
+Shows: Soso, 6d Ts
+Combination: Soso, Two Pair ( Kc Ks Ts Td 7d )
+Shows: Wupi, 4h 7h
+Combination: Wupi, Two Pair ( Kc Ks 7h 7d Td )
+Wins: Soso, chips: 25
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Joheev
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Joheev
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Wupi, chips: 5
+Big Blind: Joheev, chips: 10
+Folds: Soso
+Folds: Wupi
+Pot size: 15
+Wins: Joheev, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Joheev, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Calls: Joheev
+Checks: Soso
+Flop: 2c Kc 8d
+Raises: Joheev, chips: 10
+Folds: Soso
+Pot size: 30
+Boasts: Joheev, Kd Jh
+Wins: Joheev, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Joheev
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Calls: Joheev
+Folds: Soso
+Checks: Wupi
+Flop: 8s Kh Jh
+Raises: Wupi, chips: 10
+Folds: Joheev
+Pot size: 35
+Wins: Wupi, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Wupi, chips: 5
+Big Blind: Joheev, chips: 10
+Folds: Soso
+Calls: Wupi
+Checks: Joheev
+Flop: Qs Jc 7d
+Checks: Wupi
+Checks: Joheev
+Turn: 2c
+Checks: Wupi
+Raises: Joheev, chips: 10
+Calls: Wupi
+River: Kc
+Checks: Wupi
+Checks: Joheev
+Pot size: 40
+Showdown Reached
+Shows: Joheev, Ad 5d
+Combination: Joheev, High Card ( Ad Kc Qs Jc 7d )
+Shows: Wupi, Td 9h
+Combination: Wupi, Straight ( Kc Qs Jc Td 9h )
+Wins: Wupi, chips: 40
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Joheev, chips: 5
+Big Blind: Soso, chips: 10
+Calls: Wupi
+Raises: Joheev, chips: 15
+Folds: Soso
+Calls: Wupi
+Flop: Jh 3h 2d
+Checks: Joheev
+Raises: Wupi, chips: 20
+Calls: Joheev
+Turn: 9d
+Raises: Joheev, chips: 20
+Calls: Wupi
+River: 7c
+Checks: Joheev
+Checks: Wupi
+Pot size: 140
+Showdown Reached
+Shows: Joheev, 2s 6s
+Combination: Joheev, Pair ( 2s 2d Jh 9d 7c )
+Shows: Wupi, 6d 6c
+Combination: Wupi, Pair ( 6d 6c Jh 9d 7c )
+Wins: Wupi, chips: 140
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Joheev
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Raises: Joheev, chips: 20
+Folds: Soso
+Folds: Wupi
+Pot size: 45
+Wins: Joheev, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Wupi, chips: 5
+Big Blind: Joheev, chips: 10
+Folds: Soso
+Calls: Wupi
+Checks: Joheev
+Flop: 6d Th 7s
+Checks: Wupi
+Checks: Joheev
+Turn: 9s
+Raises: Wupi, chips: 10
+Raises: Joheev, chips: 20
+Calls: Wupi
+River: Tc
+Raises: Wupi, chips: 20
+Calls: Joheev
+Pot size: 120
+Showdown Reached
+Shows: Joheev, Td 7h
+Combination: Joheev, Full House ( Td Th Tc 7h 7s )
+Shows: Wupi, 7c 8d
+Combination: Wupi, Straight ( Th 9s 8d 7c 6d )
+Wins: Joheev, chips: 120
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Joheev, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Calls: Joheev
+Checks: Soso
+Flop: 7s 4h 5d
+Checks: Joheev
+Checks: Soso
+Turn: Qs
+Checks: Joheev
+Checks: Soso
+River: 5s
+Raises: Joheev, chips: 10
+Folds: Soso
+Pot size: 30
+Boasts: Joheev, 3h 2c
+Wins: Joheev, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Joheev
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Calls: Joheev
+Folds: Soso
+Raises: Wupi, chips: 10
+Calls: Joheev
+Flop: Ks 9c Jd
+Checks: Wupi
+Checks: Joheev
+Turn: Js
+Checks: Wupi
+Checks: Joheev
+River: 5s
+Checks: Wupi
+Checks: Joheev
+Pot size: 45
+Showdown Reached
+Shows: Joheev, 4h Tc
+Combination: Joheev, Pair ( Jd Js Ks Tc 9c )
+Shows: Wupi, Qh Ad
+Combination: Wupi, Pair ( Jd Js Ad Ks Qh )
+Wins: Wupi, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Wupi, chips: 5
+Big Blind: Joheev, chips: 10
+Folds: Soso
+Folds: Wupi
+Pot size: 15
+Wins: Joheev, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Joheev, chips: 5
+Big Blind: Soso, chips: 10
+Calls: Wupi
+Calls: Joheev
+Checks: Soso
+Flop: Qh 7c 6c
+Raises: Joheev, chips: 10
+Folds: Soso
+Raises: Wupi, chips: 10
+Raises: Joheev, chips: 20
+Raises: Wupi, chips: 267
+Calls: Joheev
+Turn: Js
+River: 6h
+Pot size: 644
+Showdown Reached
+Shows: Joheev, 2s Jd
+Combination: Joheev, Two Pair ( Jd Js 6c 6h Qh )
+Shows: Wupi, Qc Ts
+Combination: Wupi, Two Pair ( Qc Qh 6c 6h Js )
+Wins: Wupi, chips: 644
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Joheev
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Raises: Joheev, chips: 20
+Folds: Soso
+Raises: Wupi, chips: 614
+Folds: Joheev
+Pot size: 679
+Wins: Wupi, chips: 679
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Wupi, chips: 5
+Big Blind: Joheev, chips: 10
+Folds: Soso
+Calls: Wupi
+Raises: Joheev, chips: 10
+Folds: Wupi
+Pot size: 30
+Wins: Joheev, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Joheev, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Calls: Joheev
+Checks: Soso
+Flop: Qh Kc Qs
+Raises: Joheev, chips: 10
+Folds: Soso
+Pot size: 30
+Wins: Joheev, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Joheev
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Calls: Joheev
+Folds: Soso
+Checks: Wupi
+Flop: 7c Th Kd
+Checks: Wupi
+Checks: Joheev
+Turn: Kc
+Checks: Wupi
+Checks: Joheev
+River: 9d
+Checks: Wupi
+Checks: Joheev
+Pot size: 25
+Showdown Reached
+Shows: Joheev, 6s Ah
+Combination: Joheev, Pair ( Kd Kc Ah Th 9d )
+Shows: Wupi, 9h As
+Combination: Wupi, Two Pair ( Kd Kc 9h 9d As )
+Wins: Wupi, chips: 25
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Wupi, chips: 5
+Big Blind: Joheev, chips: 10
+Folds: Soso
+Folds: Wupi
+Pot size: 15
+Boasts: Joheev, 5s 6s
+Wins: Joheev, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Joheev, chips: 5
+Big Blind: Soso, chips: 10
+Calls: Wupi
+Folds: Joheev
+Checks: Soso
+Flop: Td Ah 5c
+Checks: Soso
+Checks: Wupi
+Turn: 6d
+Checks: Soso
+Checks: Wupi
+River: 7s
+Checks: Soso
+Checks: Wupi
+Pot size: 25
+Showdown Reached
+Shows: Soso, 9c Qc
+Combination: Soso, High Card ( Ah Qc Td 9c 7s )
+Shows: Wupi, 2d 3d
+Combination: Wupi, High Card ( Ah Td 7s 6d 5c )
+Wins: Soso, chips: 25
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Joheev
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Raises: Joheev, chips: 20
+Folds: Soso
+Raises: Wupi, chips: 50
+Calls: Joheev
+Flop: Ac 3s 7s
+Checks: Wupi
+Raises: Joheev, chips: 50
+Calls: Wupi
+Turn: 3d
+Raises: Wupi, chips: 80
+Calls: Joheev
+River: 4d
+Raises: Wupi, chips: 150
+Folds: Joheev
+Pot size: 575
+Wins: Wupi, chips: 575
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Wupi, chips: 5
+Big Blind: Joheev, chips: 10
+Folds: Soso
+Folds: Wupi
+Pot size: 15
+Wins: Joheev, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Joheev, chips: 5
+Big Blind: Soso, chips: 10
+Raises: Wupi, chips: 10
+Calls: Joheev
+Folds: Soso
+Flop: 8h 9c Ks
+Checks: Joheev
+Checks: Wupi
+Turn: 4d
+Checks: Joheev
+Checks: Wupi
+River: 9s
+Checks: Joheev
+Checks: Wupi
+Pot size: 50
+Showdown Reached
+Shows: Joheev, Qh 2d
+Combination: Joheev, Pair ( 9c 9s Ks Qh 8h )
+Shows: Wupi, Ts Qs
+Combination: Wupi, Pair ( 9c 9s Ks Qs Ts )
+Wins: Wupi, chips: 50
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Joheev
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Joheev
+Folds: Soso
+Pot size: 15
+Boasts: Joheev, 4s Js
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Wupi, chips: 5
+Big Blind: Joheev, chips: 10
+Folds: Soso
+Raises: Wupi, chips: 15
+Calls: Joheev
+Flop: 5c 2d 9h
+Checks: Wupi
+Raises: Joheev, chips: 15
+Calls: Wupi
+Turn: 5h
+Checks: Wupi
+Checks: Joheev
+River: Js
+Checks: Wupi
+Checks: Joheev
+Pot size: 80
+Showdown Reached
+Shows: Joheev, 2s 4s
+Combination: Joheev, Two Pair ( 5c 5h 2s 2d Js )
+Shows: Wupi, 7h 7d
+Combination: Wupi, Two Pair ( 7h 7d 5c 5h Js )
+Wins: Wupi, chips: 80
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Joheev, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Raises: Joheev, chips: 15
+Folds: Soso
+Pot size: 35
+Boasts: Joheev, Qh Tc
+Wins: Joheev, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Joheev
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Calls: Joheev
+Folds: Soso
+Checks: Wupi
+Flop: Th 3h Qh
+Raises: Wupi, chips: 10
+Calls: Joheev
+Turn: 8s
+Checks: Wupi
+Checks: Joheev
+River: 8d
+Checks: Wupi
+Raises: Joheev, chips: 10
+Calls: Wupi
+Pot size: 65
+Showdown Reached
+Shows: Joheev, 4s 9s
+Combination: Joheev, Pair ( 8s 8d Qh Th 9s )
+Shows: Wupi, 6s Qc
+Combination: Wupi, Two Pair ( Qc Qh 8s 8d Th )
+Wins: Wupi, chips: 65
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Wupi, chips: 5
+Big Blind: Joheev, chips: 10
+Folds: Soso
+Calls: Wupi
+Checks: Joheev
+Flop: 5d Jc 7d
+Checks: Wupi
+Checks: Joheev
+Turn: 4s
+Checks: Wupi
+Checks: Joheev
+River: 9h
+Checks: Wupi
+Raises: Joheev, chips: 10
+Folds: Wupi
+Pot size: 30
+Boasts: Joheev, 5h 9d
+Wins: Joheev, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Joheev, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Calls: Joheev
+Checks: Soso
+Flop: 5h 4s 3s
+Checks: Joheev
+Checks: Soso
+Turn: 4c
+Checks: Joheev
+Checks: Soso
+River: Js
+Raises: Joheev, chips: 10
+Folds: Soso
+Pot size: 30
+Boasts: Joheev, Qc Kd
+Wins: Joheev, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Joheev
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Calls: Joheev
+Folds: Soso
+Checks: Wupi
+Flop: 7s Td Qs
+Checks: Wupi
+Checks: Joheev
+Turn: Ts
+Checks: Wupi
+Checks: Joheev
+River: Qh
+Checks: Wupi
+Checks: Joheev
+Pot size: 25
+Showdown Reached
+Shows: Joheev, Ks Kc
+Combination: Joheev, Two Pair ( Ks Kc Qs Qh Td )
+Shows: Wupi, Jd 8s
+Combination: Wupi, Two Pair ( Qs Qh Td Ts Jd )
+Wins: Joheev, chips: 25
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Wupi, chips: 5
+Big Blind: Joheev, chips: 10
+Folds: Soso
+Calls: Wupi
+Raises: Joheev, chips: 10
+Calls: Wupi
+Flop: Js Td Jc
+Checks: Wupi
+Checks: Joheev
+Turn: Kc
+Checks: Wupi
+Checks: Joheev
+River: 2h
+Checks: Wupi
+Checks: Joheev
+Pot size: 40
+Showdown Reached
+Shows: Joheev, Th 7s
+Combination: Joheev, Two Pair ( Js Jc Th Td Kc )
+Shows: Wupi, Qc Ts
+Combination: Wupi, Two Pair ( Js Jc Ts Td Kc )
+Wins: Joheev, chips: 20
+Wins: Wupi, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Joheev, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Raises: Joheev, chips: 15
+Folds: Soso
+Pot size: 35
+Boasts: Joheev, 4s Jh
+Wins: Joheev, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Joheev
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Joheev
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Wupi, chips: 5
+Big Blind: Joheev, chips: 10
+Folds: Soso
+Folds: Wupi
+Pot size: 15
+Boasts: Joheev, Th 2h
+Wins: Joheev, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Joheev, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Calls: Joheev
+Checks: Soso
+Flop: 8c 7s 8h
+Checks: Joheev
+Checks: Soso
+Turn: 2d
+Raises: Joheev, chips: 10
+Folds: Soso
+Pot size: 30
+Wins: Joheev, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Joheev
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Raises: Joheev, chips: 5386
+Folds: Soso
+Folds: Wupi
+Pot size: 5411
+Boasts: Joheev, 2s 6d
+Wins: Joheev, chips: 5411
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Wupi, chips: 5
+Big Blind: Joheev, chips: 10
+Folds: Soso
+Calls: Wupi
+Checks: Joheev
+Flop: 3h 3d Ah
+Checks: Wupi
+Checks: Joheev
+Turn: 7s
+Checks: Wupi
+Checks: Joheev
+River: Ts
+Checks: Wupi
+Raises: Joheev, chips: 10
+Calls: Wupi
+Pot size: 40
+Showdown Reached
+Shows: Joheev, 5d 4d
+Combination: Joheev, Pair ( 3h 3d Ah Ts 7s )
+Shows: Wupi, Ks Tc
+Combination: Wupi, Two Pair ( Tc Ts 3h 3d Ah )
+Wins: Wupi, chips: 40
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Joheev, chips: 5
+Big Blind: Soso, chips: 10
+Calls: Wupi
+Raises: Joheev, chips: 15
+Folds: Soso
+Raises: Wupi, chips: 25
+Calls: Joheev
+Flop: Th 5s Js
+Raises: Joheev, chips: 25
+Raises: Wupi, chips: 25
+Raises: Joheev, chips: 50
+Calls: Wupi
+Turn: 9s
+Raises: Joheev, chips: 50
+Raises: Wupi, chips: 70
+Calls: Joheev
+River: Qh
+Checks: Joheev
+Checks: Wupi
+Pot size: 550
+Showdown Reached
+Shows: Joheev, 4d 9h
+Combination: Joheev, Pair ( 9h 9s Qh Js Th )
+Shows: Wupi, Ah As
+Combination: Wupi, Pair ( Ah As Qh Js Th )
+Wins: Wupi, chips: 550
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Joheev
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Joheev
+Folds: Soso
+Pot size: 15
+Boasts: Joheev, Tc 4s
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Wupi, chips: 5
+Big Blind: Joheev, chips: 10
+Folds: Soso
+Folds: Wupi
+Pot size: 15
+Wins: Joheev, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Joheev, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Raises: Joheev, chips: 15
+Folds: Soso
+Pot size: 35
+Boasts: Joheev, 8s Ac
+Wins: Joheev, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Joheev
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Raises: Joheev, chips: 20
+Folds: Soso
+Folds: Wupi
+Pot size: 45
+Boasts: Joheev, 6c 8d
+Wins: Joheev, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Wupi, chips: 5
+Big Blind: Joheev, chips: 10
+Folds: Soso
+Folds: Wupi
+Pot size: 15
+Boasts: Joheev, Js 4c
+Wins: Joheev, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Joheev, chips: 5
+Big Blind: Soso, chips: 10
+Calls: Wupi
+Calls: Joheev
+Checks: Soso
+Flop: 7c Qd 4d
+Checks: Joheev
+Checks: Soso
+Raises: Wupi, chips: 10
+Calls: Joheev
+Folds: Soso
+Turn: Kh
+Checks: Joheev
+Raises: Wupi, chips: 1224
+Raises: Joheev, chips: 1234
+River: Kd
+Pot size: 3732
+Showdown Reached
+Shows: Joheev, 9d Jc
+Combination: Joheev, Pair ( Kh Kd Qd Jc 9d )
+Shows: Wupi, 7h 7d
+Combination: Wupi, Full House ( 7h 7d 7c Kh Kd )
+Wins: Joheev, chips: 1234
+Wins: Wupi, chips: 2498
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Joheev
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Joheev
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Wupi, chips: 5
+Big Blind: Joheev, chips: 10
+Folds: Soso
+Folds: Wupi
+Pot size: 15
+Boasts: Joheev, Jh Ac
+Wins: Joheev, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Joheev, chips: 5
+Big Blind: Soso, chips: 10
+Calls: Wupi
+Folds: Joheev
+Checks: Soso
+Flop: Qh Jc Qs
+Checks: Soso
+Checks: Wupi
+Turn: Jh
+Checks: Soso
+Checks: Wupi
+River: 8s
+Checks: Soso
+Checks: Wupi
+Pot size: 25
+Showdown Reached
+Boasts: Joheev, 8h Jd
+Shows: Soso, 2c 5s
+Combination: Soso, Two Pair ( Qh Qs Jc Jh 8s )
+Shows: Wupi, Kc 9d
+Combination: Wupi, Two Pair ( Qh Qs Jc Jh Kc )
+Wins: Wupi, chips: 25
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Joheev
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Raises: Joheev, chips: 20
+Folds: Soso
+Folds: Wupi
+Pot size: 45
+Boasts: Joheev, 4d Ah
+Wins: Joheev, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Wupi, chips: 5
+Big Blind: Joheev, chips: 10
+Folds: Soso
+Folds: Wupi
+Pot size: 15
+Boasts: Joheev, 9c 5h
+Wins: Joheev, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Joheev, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Raises: Joheev, chips: 3922
+Folds: Soso
+Pot size: 3942
+Boasts: Joheev, Td 3c
+Wins: Joheev, chips: 3942
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Joheev
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Joheev
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Wupi, chips: 5
+Big Blind: Joheev, chips: 10
+Folds: Soso
+Calls: Wupi
+Checks: Joheev
+Flop: 9s Jh 3d
+Checks: Wupi
+Checks: Joheev
+Turn: 4s
+Raises: Wupi, chips: 10
+Folds: Joheev
+Pot size: 30
+Wins: Wupi, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Joheev, chips: 5
+Big Blind: Soso, chips: 10
+Calls: Wupi
+Folds: Joheev
+Checks: Soso
+Flop: Qd 5c 6c
+Checks: Soso
+Checks: Wupi
+Turn: Jh
+Checks: Soso
+Checks: Wupi
+River: 8c
+Checks: Soso
+Checks: Wupi
+Pot size: 25
+Showdown Reached
+Shows: Soso, 2h Kh
+Combination: Soso, High Card ( Kh Qd Jh 8c 6c )
+Shows: Wupi, 9d Jc
+Combination: Wupi, Pair ( Jc Jh Qd 9d 8c )
+Wins: Wupi, chips: 25
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Joheev
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Calls: Joheev
+Folds: Soso
+Raises: Wupi, chips: 10
+Calls: Joheev
+Flop: 9h Qc 3h
+Raises: Wupi, chips: 10
+Raises: Joheev, chips: 20
+Raises: Wupi, chips: 2478
+Calls: Joheev
+Turn: 2d
+River: Jh
+Pot size: 5061
+Showdown Reached
+Shows: Joheev, Td 9c
+Combination: Joheev, Pair ( 9c 9h Qc Jh Td )
+Shows: Wupi, Kh Kd
+Combination: Wupi, Pair ( Kh Kd Qc Jh 9h )
+Wins: Wupi, chips: 5061
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Wupi, chips: 5
+Big Blind: Joheev, chips: 10
+Folds: Soso
+Folds: Wupi
+Pot size: 15
+Wins: Joheev, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Joheev, chips: 5
+Big Blind: Soso, chips: 10
+Calls: Wupi
+Calls: Joheev
+Checks: Soso
+Flop: Jd 3c Qd
+Checks: Joheev
+Checks: Soso
+Checks: Wupi
+Turn: Tc
+Checks: Joheev
+Checks: Soso
+Checks: Wupi
+River: Qs
+Raises: Joheev, chips: 10
+Folds: Soso
+Raises: Wupi, chips: 10
+Folds: Joheev
+Pot size: 60
+Wins: Wupi, chips: 60
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Joheev
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Calls: Joheev
+Folds: Soso
+Raises: Wupi, chips: 10
+Raises: Joheev, chips: 20
+Raises: Wupi, chips: 40
+Raises: Joheev, chips: 80
+Raises: Wupi, chips: 90
+Folds: Joheev
+Pot size: 415
+Boasts: Joheev, Js Jd
+Wins: Wupi, chips: 415
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Wupi, chips: 5
+Big Blind: Joheev, chips: 10
+Folds: Soso
+Calls: Wupi
+Checks: Joheev
+Flop: Kc Tc Kh
+Raises: Wupi, chips: 10
+Calls: Joheev
+Turn: Td
+Checks: Wupi
+Raises: Joheev, chips: 10
+Raises: Wupi, chips: 20
+Raises: Joheev, chips: 40
+Raises: Wupi, chips: 40
+Calls: Joheev
+River: 7s
+Checks: Wupi
+Checks: Joheev
+Pot size: 260
+Showdown Reached
+Shows: Joheev, 9s 7d
+Combination: Joheev, Two Pair ( Kc Kh Tc Td 9s )
+Shows: Wupi, 4h Ah
+Combination: Wupi, Two Pair ( Kc Kh Tc Td Ah )
+Wins: Wupi, chips: 260
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Joheev, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Calls: Joheev
+Checks: Soso
+Flop: Jd 4c 2c
+Checks: Joheev
+Checks: Soso
+Turn: 3h
+Checks: Joheev
+Checks: Soso
+River: 6c
+Raises: Joheev, chips: 10
+Folds: Soso
+Pot size: 30
+Wins: Joheev, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Joheev
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Calls: Joheev
+Folds: Soso
+Checks: Wupi
+Flop: 3h 6h Qc
+Checks: Wupi
+Raises: Joheev, chips: 10
+Folds: Wupi
+Pot size: 35
+Wins: Joheev, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Wupi, chips: 5
+Big Blind: Joheev, chips: 10
+Folds: Soso
+Calls: Wupi
+Checks: Joheev
+Flop: 5s 2c 3s
+Raises: Wupi, chips: 10
+Raises: Joheev, chips: 20
+Calls: Wupi
+Turn: 3h
+Checks: Wupi
+Checks: Joheev
+River: 7c
+Checks: Wupi
+Raises: Joheev, chips: 20
+Calls: Wupi
+Pot size: 120
+Showdown Reached
+Shows: Joheev, Ah 8c
+Combination: Joheev, Pair ( 3s 3h Ah 8c 7c )
+Shows: Wupi, 6d Ad
+Combination: Wupi, Pair ( 3s 3h Ad 7c 6d )
+Wins: Joheev, chips: 120
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Joheev, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Calls: Joheev
+Checks: Soso
+Flop: Jh Td 5c
+Checks: Joheev
+Checks: Soso
+Turn: 3d
+Raises: Joheev, chips: 10
+Folds: Soso
+Pot size: 30
+Boasts: Joheev, Js Tc
+Wins: Joheev, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Joheev
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Raises: Joheev, chips: 20
+Folds: Soso
+Calls: Wupi
+Flop: 4c Qd 9h
+Checks: Wupi
+Raises: Joheev, chips: 20
+Calls: Wupi
+Turn: As
+Checks: Wupi
+Checks: Joheev
+River: Js
+Raises: Wupi, chips: 5261
+Calls: Joheev
+Pot size: 6505
+Showdown Reached
+Shows: Joheev, Ah 3d
+Combination: Joheev, Pair ( Ah As Qd Js 9h )
+Shows: Wupi, Td Ks
+Combination: Wupi, Straight ( As Ks Qd Js Td )
+Wins: Wupi, chips: 6505
+Quits: Joheev, chips: 0
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Calls: Wupi
+Checks: Soso
+Flop: 7c 3d 9s
+Checks: Soso
+Checks: Wupi
+Turn: 2h
+Checks: Soso
+Raises: Wupi, chips: 10
+Folds: Soso
+Pot size: 30
+Wins: Wupi, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Raises: Wupi, chips: 15
+Folds: Soso
+Pot size: 35
+Wins: Wupi, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Calls: Wupi
+Checks: Soso
+Flop: 8c 5h Qh
+Checks: Soso
+Raises: Wupi, chips: 10
+Folds: Soso
+Pot size: 30
+Wins: Wupi, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Calls: Wupi
+Checks: Soso
+Flop: Jh 9c Ac
+Checks: Soso
+Checks: Wupi
+Turn: 3d
+Checks: Soso
+Checks: Wupi
+River: 4h
+Checks: Soso
+Checks: Wupi
+Pot size: 20
+Showdown Reached
+Shows: Soso, 9s 8h
+Combination: Soso, Pair ( 9s 9c Ac Jh 8h )
+Shows: Wupi, 2d 2c
+Combination: Wupi, Pair ( 2d 2c Ac Jh 9c )
+Wins: Soso, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Calls: Wupi
+Checks: Soso
+Flop: 4h 4d 9c
+Checks: Soso
+Raises: Wupi, chips: 10
+Folds: Soso
+Pot size: 30
+Wins: Wupi, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Calls: Wupi
+Checks: Soso
+Flop: 6h 3d 9s
+Checks: Soso
+Checks: Wupi
+Turn: 7c
+Checks: Soso
+Checks: Wupi
+River: 8s
+Checks: Soso
+Checks: Wupi
+Pot size: 20
+Showdown Reached
+Shows: Soso, 2s Qh
+Combination: Soso, High Card ( Qh 9s 8s 7c 6h )
+Shows: Wupi, 5s 4h
+Combination: Wupi, Straight ( 9s 8s 7c 6h 5s )
+Wins: Wupi, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Calls: Wupi
+Checks: Soso
+Flop: 5h 9h Jh
+Checks: Soso
+Checks: Wupi
+Turn: Ah
+Checks: Soso
+Checks: Wupi
+River: 6s
+Checks: Soso
+Checks: Wupi
+Pot size: 20
+Showdown Reached
+Shows: Soso, Qc Qd
+Combination: Soso, Pair ( Qc Qd Ah Jh 9h )
+Shows: Wupi, 4c 6c
+Combination: Wupi, Pair ( 6c 6s Ah Jh 9h )
+Wins: Soso, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Calls: Wupi
+Checks: Soso
+Flop: 8c Js 7d
+Checks: Soso
+Checks: Wupi
+Turn: Ac
+Checks: Soso
+Raises: Wupi, chips: 10
+Folds: Soso
+Pot size: 30
+Wins: Wupi, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Calls: Wupi
+Checks: Soso
+Flop: Ah Qd 2s
+Checks: Soso
+Checks: Wupi
+Turn: 9s
+Checks: Soso
+Raises: Wupi, chips: 10
+Folds: Soso
+Pot size: 30
+Wins: Wupi, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Calls: Wupi
+Checks: Soso
+Flop: Ks Qh 5c
+Checks: Soso
+Checks: Wupi
+Turn: Jd
+Checks: Soso
+Checks: Wupi
+River: 2c
+Checks: Soso
+Checks: Wupi
+Pot size: 20
+Showdown Reached
+Shows: Soso, 2s 7h
+Combination: Soso, Pair ( 2s 2c Ks Qh Jd )
+Shows: Wupi, 9c 8c
+Combination: Wupi, High Card ( Ks Qh Jd 9c 8c )
+Wins: Soso, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Raises: Wupi, chips: 15
+Folds: Soso
+Pot size: 35
+Wins: Wupi, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Calls: Wupi
+Checks: Soso
+Flop: 8d 9c 5h
+Checks: Soso
+Checks: Wupi
+Turn: 9h
+Checks: Soso
+Checks: Wupi
+River: 7h
+Checks: Soso
+Checks: Wupi
+Pot size: 20
+Showdown Reached
+Shows: Soso, Ks 3s
+Combination: Soso, Pair ( 9c 9h Ks 8d 7h )
+Shows: Wupi, 7c 8h
+Combination: Wupi, Two Pair ( 9c 9h 8h 8d 7c )
+Wins: Wupi, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Calls: Wupi
+Checks: Soso
+Flop: Ts 2s 4c
+Checks: Soso
+Checks: Wupi
+Turn: Td
+Checks: Soso
+Checks: Wupi
+River: 8h
+Checks: Soso
+Checks: Wupi
+Pot size: 20
+Showdown Reached
+Shows: Soso, 4h 6c
+Combination: Soso, Two Pair ( Ts Td 4h 4c 8h )
+Shows: Wupi, Qh Jd
+Combination: Wupi, Pair ( Ts Td Qh Jd 8h )
+Wins: Soso, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Raises: Wupi, chips: 15
+Folds: Soso
+Pot size: 35
+Wins: Wupi, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Calls: Wupi
+Checks: Soso
+Flop: 6c Jh 9h
+Checks: Soso
+Raises: Wupi, chips: 6630
+Folds: Soso
+Pot size: 6650
+Wins: Wupi, chips: 6650
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Calls: Wupi
+Checks: Soso
+Flop: 2d Ks Qh
+Checks: Soso
+Checks: Wupi
+Turn: 2h
+Checks: Soso
+Checks: Wupi
+River: 7c
+Checks: Soso
+Raises: Wupi, chips: 10
+Folds: Soso
+Pot size: 30
+Wins: Wupi, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Calls: Wupi
+Checks: Soso
+Flop: Kc Th Jh
+Checks: Soso
+Checks: Wupi
+Turn: Qd
+Checks: Soso
+Checks: Wupi
+River: Jc
+Checks: Soso
+Checks: Wupi
+Pot size: 20
+Showdown Reached
+Shows: Soso, 7c Ah
+Combination: Soso, Straight ( Ah Kc Qd Jh Th )
+Shows: Wupi, Qc Ad
+Combination: Wupi, Straight ( Ad Kc Qc Jh Th )
+Wins: Soso, chips: 10
+Wins: Wupi, chips: 10
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Raises: Wupi, chips: 15
+Folds: Soso
+Pot size: 35
+Wins: Wupi, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Raises: Wupi, chips: 6680
+Folds: Soso
+Pot size: 6700
+Wins: Wupi, chips: 6700
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Raises: Wupi, chips: 15
+Folds: Soso
+Pot size: 35
+Wins: Wupi, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Calls: Wupi
+Checks: Soso
+Flop: Jc Td Jh
+Checks: Soso
+Raises: Wupi, chips: 10
+Folds: Soso
+Pot size: 30
+Wins: Wupi, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Calls: Wupi
+Checks: Soso
+Flop: Qc 5c Ac
+Checks: Soso
+Checks: Wupi
+Turn: Ah
+Checks: Soso
+Checks: Wupi
+River: Jh
+Checks: Soso
+Checks: Wupi
+Pot size: 20
+Showdown Reached
+Shows: Soso, 6h Qh
+Combination: Soso, Two Pair ( Ac Ah Qh Qc Jh )
+Shows: Wupi, Js 9c
+Combination: Wupi, Two Pair ( Ac Ah Js Jh Qc )
+Wins: Soso, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Calls: Wupi
+Checks: Soso
+Flop: Tc 2c 8c
+Checks: Soso
+Checks: Wupi
+Turn: Jd
+Checks: Soso
+Checks: Wupi
+River: 6h
+Checks: Soso
+Checks: Wupi
+Pot size: 20
+Showdown Reached
+Shows: Soso, 2d 7s
+Combination: Soso, Pair ( 2d 2c Jd Tc 8c )
+Shows: Wupi, 4h 4c
+Combination: Wupi, Pair ( 4h 4c Jd Tc 8c )
+Wins: Wupi, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Calls: Wupi
+Checks: Soso
+Flop: 7s 8d Kc
+Checks: Soso
+Checks: Wupi
+Turn: 9h
+Checks: Soso
+Checks: Wupi
+River: 6h
+Checks: Soso
+Checks: Wupi
+Pot size: 20
+Showdown Reached
+Shows: Soso, 2c Ac
+Combination: Soso, High Card ( Ac Kc 9h 8d 7s )
+Shows: Wupi, 9c As
+Combination: Wupi, Pair ( 9c 9h As Kc 8d )
+Wins: Wupi, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Calls: Wupi
+Checks: Soso
+Flop: Qs 2s 3h
+Checks: Soso
+Checks: Wupi
+Turn: Ts
+Checks: Soso
+Checks: Wupi
+River: Kh
+Checks: Soso
+Raises: Wupi, chips: 6750
+Folds: Soso
+Pot size: 6770
+Wins: Wupi, chips: 6770
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Calls: Wupi
+Checks: Soso
+Flop: Qc 9c 8d
+Checks: Soso
+Checks: Wupi
+Turn: 2d
+Checks: Soso
+Raises: Wupi, chips: 10
+Folds: Soso
+Pot size: 30
+Wins: Wupi, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Calls: Wupi
+Checks: Soso
+Flop: Qc As 7s
+Checks: Soso
+Raises: Wupi, chips: 10
+Folds: Soso
+Pot size: 30
+Wins: Wupi, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Raises: Wupi, chips: 15
+Folds: Soso
+Pot size: 35
+Wins: Wupi, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Calls: Wupi
+Checks: Soso
+Flop: 6h 9c Js
+Checks: Soso
+Checks: Wupi
+Turn: 8h
+Checks: Soso
+Checks: Wupi
+River: Qs
+Checks: Soso
+Checks: Wupi
+Pot size: 20
+Showdown Reached
+Shows: Soso, Kd 7c
+Combination: Soso, High Card ( Kd Qs Js 9c 8h )
+Shows: Wupi, 5s 4h
+Combination: Wupi, High Card ( Qs Js 9c 8h 6h )
+Wins: Soso, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Calls: Wupi
+Checks: Soso
+Flop: 2s 4d 8d
+Checks: Soso
+Raises: Wupi, chips: 10
+Folds: Soso
+Pot size: 30
+Wins: Wupi, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Calls: Wupi
+Checks: Soso
+Flop: 8s 8c Ad
+Checks: Soso
+Checks: Wupi
+Turn: Qh
+Checks: Soso
+Checks: Wupi
+River: Ks
+Checks: Soso
+Checks: Wupi
+Pot size: 20
+Showdown Reached
+Shows: Soso, 2c Jd
+Combination: Soso, Pair ( 8s 8c Ad Ks Qh )
+Shows: Wupi, 4s 6s
+Combination: Wupi, Pair ( 8s 8c Ad Ks Qh )
+Wins: Soso, chips: 10
+Wins: Wupi, chips: 10
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Calls: Wupi
+Checks: Soso
+Flop: Ks Tc 9c
+Checks: Soso
+Checks: Wupi
+Turn: 7h
+Checks: Soso
+Raises: Wupi, chips: 10
+Folds: Soso
+Pot size: 30
+Wins: Wupi, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Calls: Wupi
+Checks: Soso
+Flop: 4d Jd 6s
+Checks: Soso
+Checks: Wupi
+Turn: 8s
+Checks: Soso
+Checks: Wupi
+River: 6c
+Checks: Soso
+Checks: Wupi
+Pot size: 20
+Showdown Reached
+Shows: Soso, Th 5s
+Combination: Soso, Pair ( 6s 6c Jd Th 8s )
+Shows: Wupi, 8c Qc
+Combination: Wupi, Two Pair ( 8c 8s 6s 6c Qc )
+Wins: Wupi, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Raises: Wupi, chips: 6855
+Folds: Soso
+Pot size: 6875
+Wins: Wupi, chips: 6875
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Calls: Wupi
+Checks: Soso
+Flop: Ad Js 5d
+Checks: Soso
+Checks: Wupi
+Turn: 6c
+Checks: Soso
+Checks: Wupi
+River: 9c
+Checks: Soso
+Checks: Wupi
+Pot size: 20
+Showdown Reached
+Shows: Soso, Ah 7h
+Combination: Soso, Pair ( Ah Ad Js 9c 7h )
+Shows: Wupi, Qs Tc
+Combination: Wupi, High Card ( Ad Qs Js Tc 9c )
+Wins: Soso, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Calls: Wupi
+Checks: Soso
+Flop: Qh 8d Th
+Checks: Soso
+Checks: Wupi
+Turn: 9h
+Checks: Soso
+Raises: Wupi, chips: 10
+Folds: Soso
+Pot size: 30
+Wins: Wupi, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Calls: Wupi
+Checks: Soso
+Flop: 7c Tc 9h
+Checks: Soso
+Checks: Wupi
+Turn: 7h
+Checks: Soso
+Checks: Wupi
+River: 9d
+Checks: Soso
+Checks: Wupi
+Pot size: 20
+Showdown Reached
+Shows: Soso, 5d 2d
+Combination: Soso, Two Pair ( 9h 9d 7c 7h Tc )
+Shows: Wupi, 4h 6h
+Combination: Wupi, Two Pair ( 9h 9d 7c 7h Tc )
+Wins: Soso, chips: 10
+Wins: Wupi, chips: 10
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Calls: Wupi
+Checks: Soso
+Flop: 9c 9h 7s
+Checks: Soso
+Checks: Wupi
+Turn: 4c
+Checks: Soso
+Checks: Wupi
+River: 2c
+Checks: Soso
+Checks: Wupi
+Pot size: 20
+Showdown Reached
+Shows: Soso, 4h 9d
+Combination: Soso, Full House ( 9d 9c 9h 4h 4c )
+Shows: Wupi, Jc Ah
+Combination: Wupi, Pair ( 9c 9h Ah Jc 7s )
+Wins: Soso, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Calls: Wupi
+Checks: Soso
+Flop: Kd 6c 9c
+Checks: Soso
+Checks: Wupi
+Turn: Ts
+Checks: Soso
+Checks: Wupi
+River: Ah
+Checks: Soso
+Checks: Wupi
+Pot size: 20
+Showdown Reached
+Shows: Soso, 3h 5s
+Combination: Soso, High Card ( Ah Kd Ts 9c 6c )
+Shows: Wupi, 5h 4s
+Combination: Wupi, High Card ( Ah Kd Ts 9c 6c )
+Wins: Soso, chips: 10
+Wins: Wupi, chips: 10
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Calls: Wupi
+Checks: Soso
+Flop: 5d 2h 8d
+Checks: Soso
+Checks: Wupi
+Turn: Th
+Checks: Soso
+Checks: Wupi
+River: Ad
+Checks: Soso
+Checks: Wupi
+Pot size: 20
+Showdown Reached
+Shows: Soso, 6s 8h
+Combination: Soso, Pair ( 8h 8d Ad Th 6s )
+Shows: Wupi, 8s 7c
+Combination: Wupi, Pair ( 8s 8d Ad Th 7c )
+Wins: Wupi, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Calls: Wupi
+Checks: Soso
+Flop: Kh 7s As
+Checks: Soso
+Checks: Wupi
+Turn: 7d
+Checks: Soso
+Checks: Wupi
+River: Qs
+Checks: Soso
+Raises: Wupi, chips: 10
+Folds: Soso
+Pot size: 30
+Wins: Wupi, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Calls: Wupi
+Checks: Soso
+Flop: 7c 8d 8h
+Checks: Soso
+Raises: Wupi, chips: 10
+Folds: Soso
+Pot size: 30
+Wins: Wupi, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Calls: Wupi
+Checks: Soso
+Flop: 5d 8h 8d
+Checks: Soso
+Checks: Wupi
+Turn: Qc
+Checks: Soso
+Raises: Wupi, chips: 10
+Folds: Soso
+Pot size: 30
+Wins: Wupi, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Calls: Wupi
+Checks: Soso
+Flop: Jd 9h Kh
+Checks: Soso
+Checks: Wupi
+Turn: Qd
+Checks: Soso
+Checks: Wupi
+River: 5h
+Checks: Soso
+Checks: Wupi
+Pot size: 20
+Showdown Reached
+Shows: Soso, 9s 3d
+Combination: Soso, Pair ( 9s 9h Kh Qd Jd )
+Shows: Wupi, 4c 5s
+Combination: Wupi, Pair ( 5s 5h Kh Qd Jd )
+Wins: Soso, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Calls: Wupi
+Checks: Soso
+Flop: 4c 5d 5c
+Checks: Soso
+Checks: Wupi
+Turn: 6s
+Checks: Soso
+Checks: Wupi
+River: 5s
+Checks: Soso
+Raises: Wupi, chips: 10
+Folds: Soso
+Pot size: 30
+Wins: Wupi, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Calls: Wupi
+Checks: Soso
+Flop: 2s 5d 4d
+Checks: Soso
+Checks: Wupi
+Turn: Ts
+Checks: Soso
+Checks: Wupi
+River: Td
+Checks: Soso
+Checks: Wupi
+Pot size: 20
+Showdown Reached
+Shows: Soso, Kh Kd
+Combination: Soso, Two Pair ( Kh Kd Ts Td 5d )
+Shows: Wupi, 8c 7s
+Combination: Wupi, Pair ( Ts Td 8c 7s 5d )
+Wins: Soso, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Calls: Wupi
+Checks: Soso
+Flop: 2s 9d Qd
+Checks: Soso
+Checks: Wupi
+Turn: 3d
+Checks: Soso
+Raises: Wupi, chips: 10
+Folds: Soso
+Pot size: 30
+Wins: Wupi, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Folds: Wupi
+Pot size: 15
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Calls: Wupi
+Checks: Soso
+Flop: 3s 6c Kd
+Checks: Soso
+Checks: Wupi
+Turn: 7c
+Checks: Soso
+Checks: Wupi
+River: 8d
+Checks: Soso
+Checks: Wupi
+Pot size: 20
+Showdown Reached
+Shows: Soso, 5h Tc
+Combination: Soso, High Card ( Kd Tc 8d 7c 6c )
+Shows: Wupi, As 6s
+Combination: Wupi, Pair ( 6s 6c As Kd 8d )
+Wins: Wupi, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Flop: Js 7d 9h
+Turn: 7s
+River: 7h
+Pot size: 15
+Showdown Reached
+Shows: Soso, 3d Ah
+Combination: Soso, Three Of A Kind ( 7d 7s 7h Ah Js )
+Shows: Wupi, Qc Td
+Combination: Wupi, Three Of A Kind ( 7d 7s 7h Qc Js )
+Wins: Soso, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Flop: Ks 7s 7c
+Turn: 4s
+River: 4c
+Pot size: 15
+Showdown Reached
+Shows: Soso, Ac 5h
+Combination: Soso, Two Pair ( 7s 7c 4s 4c Ac )
+Shows: Wupi, 2s Ad
+Combination: Wupi, Two Pair ( 7s 7c 4s 4c Ad )
+Wins: Soso, chips: 10
+Wins: Wupi, chips: 5
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 5
+Flop: As Th 5c
+Turn: 8h
+River: Jh
+Pot size: 10
+Showdown Reached
+Shows: Soso, Qd Jd
+Combination: Soso, Pair ( Jd Jh As Qd Th )
+Shows: Wupi, 9s 4h
+Combination: Wupi, High Card ( As Jh Th 9s 8h )
+Wins: Soso, chips: 10
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Folds: Soso
+Pot size: 15
+Wins: Wupi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 5
+Flop: 3c 9c 9d
+Turn: Qh
+River: 3d
+Pot size: 10
+Showdown Reached
+Shows: Soso, Td 4c
+Combination: Soso, Two Pair ( 9c 9d 3c 3d Qh )
+Shows: Wupi, 7s Tc
+Combination: Wupi, Two Pair ( 9c 9d 3c 3d Qh )
+Wins: Soso, chips: 5
+Wins: Wupi, chips: 5
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Flop: 8s 5h As
+Turn: 4s
+River: Qs
+Pot size: 15
+Showdown Reached
+Shows: Soso, Ks 6h
+Combination: Soso, Flush ( As Ks Qs 8s 4s )
+Shows: Wupi, Tc 9c
+Combination: Wupi, High Card ( As Qs Tc 9c 8s )
+Wins: Soso, chips: 10
+Wins: Wupi, chips: 5
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Flop: 6c Kc 6s
+Turn: Ac
+River: 7h
+Pot size: 15
+Showdown Reached
+Shows: Soso, Qc Jd
+Combination: Soso, Pair ( 6c 6s Ac Kc Qc )
+Shows: Wupi, Kh Td
+Combination: Wupi, Two Pair ( Kh Kc 6c 6s Ac )
+Wins: Soso, chips: 5
+Wins: Wupi, chips: 10
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Flop: Ad 2c Ts
+Turn: 8c
+River: Ks
+Pot size: 15
+Showdown Reached
+Shows: Soso, Jh Qd
+Combination: Soso, Straight ( Ad Ks Qd Jh Ts )
+Shows: Wupi, 2d Jd
+Combination: Wupi, Pair ( 2d 2c Ad Ks Jd )
+Wins: Soso, chips: 10
+Wins: Wupi, chips: 5
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Wupi
+Small Blind: Wupi, chips: 5
+Big Blind: Soso, chips: 10
+Flop: Kc Qc 9d
+Turn: 5d
+River: 2c
+Pot size: 15
+Showdown Reached
+Shows: Soso, 7d 4c
+Combination: Soso, High Card ( Kc Qc 9d 7d 5d )
+Shows: Wupi, 6c Ts
+Combination: Wupi, High Card ( Kc Qc Ts 9d 6c )
+Wins: Soso, chips: 5
+Wins: Wupi, chips: 10
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Soso
+Small Blind: Soso, chips: 5
+Big Blind: Wupi, chips: 10
+Flop: 7h 4s Jc
+Turn: 6c
+River: 3h
+Pot size: 15
+Showdown Reached
+Shows: Soso, 2d Qs
+Combination: Soso, High Card ( Qs Jc 7h 6c 4s )
+Shows: Wupi, 5d Th
+Combination: Wupi, Straight ( 7h 6c 5d 4s 3h )
+Wins: Wupi, chips: 15
+Quits: Soso, chips: 0
+Ranking: Wupi, Place: 1, Score: 6000
+Reveal AI: Wupi, AI: Smart
+Ranking: Soso, Place: 2, Score: -1000
+Reveal AI: Soso, AI: AIMyBot1
+Ranking: Joheev, Place: 3, Score: -1000
+Reveal AI: Joheev, AI: Random
+Ranking: Sa, Place: 4, Score: -1000
+Reveal AI: Sa, AI: Smart
+Ranking: Mudef, Place: 5, Score: -1000
+Reveal AI: Mudef, AI: Call
+Ranking: Joeru, Place: 6, Score: -1000
+Reveal AI: Joeru, AI: Random
+Ranking: Vugeeva, Place: 7, Score: -1000
+Reveal AI: Vugeeva, AI: Call
+
+Player Stats for Joeru, AI: Random
+General: deals: 1, actions: 5, preflop actions: 1
+Rounds Seen: flops: 121, turns: 106, rivers: 86, showdowns: 70
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 5
+Pre-Flop Stats: VP$IP: 1, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: 1, WSD: 0.578512, WSDW: 0
+
+
+Player Stats for Joheev, AI: Random
+General: deals: 128, actions: 295, preflop actions: 116
+Rounds Seen: flops: 115, turns: 100, rivers: 81, showdowns: 66
+Wins: total: 81, showdown: 20, bluff: 61
+Chips: won: 29523, lost: 34645, bought: 1000, forced bets: 590
+Pre-Flop Stats: VP$IP: 0.585938, PFR: 0.21875, 3Bet: 0.1875
+Post-Flop Stats: AF: 3.8, WSD: 0.573913, WSDW: 0.30303
+
+
+Player Stats for Mudef, AI: Call
+General: deals: 1, actions: 5, preflop actions: 1
+Rounds Seen: flops: 121, turns: 106, rivers: 86, showdowns: 70
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 10
+Pre-Flop Stats: VP$IP: 1, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: 0, WSD: 0.578512, WSDW: 0
+
+
+Player Stats for Sa, AI: Smart
+General: deals: 33, actions: 67, preflop actions: 35
+Rounds Seen: flops: 117, turns: 100, rivers: 83, showdowns: 67
+Wins: total: 7, showdown: 2, bluff: 5
+Chips: won: 1352, lost: 10238, bought: 1000, forced bets: 120
+Pre-Flop Stats: VP$IP: 0.363636, PFR: 0.0909091, 3Bet: 0.0909091
+Post-Flop Stats: AF: 5, WSD: 0.57265, WSDW: 0.0298507
+
+
+Player Stats for Soso, AI: AIMyBot1
+General: deals: 373, actions: 468, preflop actions: 293
+Rounds Seen: flops: 74, turns: 60, rivers: 47, showdowns: 38
+Wins: total: 95, showdown: 24, bluff: 71
+Chips: won: 1425, lost: 2425, bought: 1000, forced bets: 2425
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 0.513514, WSDW: 0.631579
+
+
+Player Stats for Vugeeva, AI: Call
+General: deals: 1, actions: 4, preflop actions: 1
+Rounds Seen: flops: 121, turns: 106, rivers: 86, showdowns: 70
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 0
+Pre-Flop Stats: VP$IP: 1, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: 0, WSD: 0.578512, WSDW: 0
+
+
+Player Stats for Wupi, AI: Smart
+General: deals: 373, actions: 509, preflop actions: 244
+Rounds Seen: flops: 100, turns: 89, rivers: 75, showdowns: 64
+Wins: total: 205, showdown: 39, bluff: 166
+Chips: won: 48294, lost: 42294, bought: 1000, forced bets: 2435
+Pre-Flop Stats: VP$IP: 0.233244, PFR: 0.0509383, 3Bet: 0.0455764
+Post-Flop Stats: AF: 2.6, WSD: 0.64, WSDW: 0.609375
+
+

@@ -1,0 +1,8876 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Midep: Call
+Rohoelee: Smart
+Joemel: Random
+Poefenhel: Random
+Chee: Call
+Lechut: Smart
+Binhiloe: AIMyBot1
+
+Joins: Midep, chips: 1000
+Joins: Rohoelee, chips: 1000
+Joins: Joemel, chips: 1000
+Joins: Poefenhel, chips: 1000
+Joins: Chee, chips: 1000
+Joins: Lechut, chips: 1000
+Joins: Binhiloe, chips: 1000
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Rohoelee
+Small Blind: Joemel, chips: 5
+Big Blind: Poefenhel, chips: 10
+Calls: Chee
+Folds: Lechut
+Folds: Binhiloe
+Calls: Midep
+Folds: Rohoelee
+Raises: Joemel, chips: 15
+Raises: Poefenhel, chips: 30
+Calls: Chee
+Calls: Midep
+Raises: Joemel, chips: 60
+Folds: Poefenhel
+Calls: Chee
+Calls: Midep
+Flop: 2s Kh 2c
+Raises: Joemel, chips: 60
+Calls: Chee
+Calls: Midep
+Turn: Tc
+Checks: Joemel
+Checks: Chee
+Checks: Midep
+River: 8s
+Raises: Joemel, chips: 60
+Calls: Chee
+Calls: Midep
+Pot size: 760
+Showdown Reached
+Shows: Midep, Jc Ah
+Combination: Midep, Pair ( 2s 2c Ah Kh Jc )
+Shows: Joemel, 3h 6h
+Combination: Joemel, Pair ( 2s 2c Kh Tc 8s )
+Boasts: Poefenhel, 9h 8h
+Shows: Chee, 6s Ks
+Combination: Chee, Two Pair ( Ks Kh 2s 2c Tc )
+Wins: Chee, chips: 760
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Joemel
+Small Blind: Poefenhel, chips: 5
+Big Blind: Chee, chips: 10
+Calls: Lechut
+Folds: Binhiloe
+Calls: Midep
+Calls: Rohoelee
+Raises: Joemel, chips: 20
+Raises: Poefenhel, chips: 45
+Calls: Chee
+Raises: Lechut, chips: 55
+Calls: Midep
+Folds: Rohoelee
+Raises: Joemel, chips: 155
+Calls: Poefenhel
+Calls: Chee
+Raises: Lechut, chips: 205
+Calls: Midep
+Raises: Joemel, chips: 275
+Calls: Poefenhel
+Calls: Chee
+Raises: Lechut, chips: 235
+Calls: Midep
+Folds: Poefenhel
+Calls: Chee
+Flop: 3c 5d Qh
+Turn: 4d
+River: 2d
+Pot size: 4305
+Showdown Reached
+Shows: Midep, 3h Jh
+Combination: Midep, Pair ( 3h 3c Qh Jh 5d )
+Shows: Joemel, 6c Kd
+Combination: Joemel, Straight ( 6c 5d 4d 3c 2d )
+Boasts: Poefenhel, 2s 9d
+Shows: Chee, Jd 8d
+Combination: Chee, Flush ( Jd 8d 5d 4d 2d )
+Shows: Lechut, Ts 9s
+Combination: Lechut, High Card ( Qh Ts 9s 5d 4d )
+Wins: Chee, chips: 4305
+Quits: Midep, chips: 0
+Quits: Joemel, chips: 0
+Quits: Lechut, chips: 0
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poefenhel
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Folds: Rohoelee
+Calls: Poefenhel
+Calls: Chee
+Checks: Binhiloe
+Flop: 7s 2c Qd
+Checks: Chee
+Checks: Binhiloe
+Checks: Poefenhel
+Turn: Kc
+Checks: Chee
+Checks: Binhiloe
+Checks: Poefenhel
+River: Ac
+Checks: Chee
+Checks: Binhiloe
+Checks: Poefenhel
+Pot size: 30
+Showdown Reached
+Shows: Poefenhel, Js 9s
+Combination: Poefenhel, High Card ( Ac Kc Qd Js 9s )
+Shows: Chee, Qh Ks
+Combination: Chee, Two Pair ( Ks Kc Qh Qd Ac )
+Shows: Binhiloe, 4h 2s
+Combination: Binhiloe, Pair ( 2s 2c Ac Kc Qd )
+Wins: Chee, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Binhiloe, chips: 5
+Big Blind: Rohoelee, chips: 10
+Calls: Poefenhel
+Calls: Chee
+Folds: Binhiloe
+Checks: Rohoelee
+Flop: 6s 7c 6d
+Checks: Rohoelee
+Raises: Poefenhel, chips: 10
+Calls: Chee
+Calls: Rohoelee
+Turn: 3s
+Raises: Rohoelee, chips: 10
+Calls: Poefenhel
+Calls: Chee
+River: Kh
+Raises: Rohoelee, chips: 10
+Calls: Poefenhel
+Calls: Chee
+Pot size: 125
+Showdown Reached
+Shows: Rohoelee, 8c 6c
+Combination: Rohoelee, Three Of A Kind ( 6c 6s 6d Kh 8c )
+Shows: Poefenhel, Qs Ts
+Combination: Poefenhel, Pair ( 6s 6d Kh Qs Ts )
+Shows: Chee, 5c Tc
+Combination: Chee, Pair ( 6s 6d Kh Tc 7c )
+Wins: Rohoelee, chips: 125
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Rohoelee, chips: 5
+Big Blind: Poefenhel, chips: 10
+Calls: Chee
+Folds: Binhiloe
+Folds: Rohoelee
+Checks: Poefenhel
+Flop: 5h 4s 9d
+Checks: Poefenhel
+Checks: Chee
+Turn: 5c
+Checks: Poefenhel
+Checks: Chee
+River: 8s
+Checks: Poefenhel
+Checks: Chee
+Pot size: 25
+Showdown Reached
+Shows: Poefenhel, 3h 8h
+Combination: Poefenhel, Two Pair ( 8h 8s 5h 5c 9d )
+Shows: Chee, Qh 7c
+Combination: Chee, Pair ( 5h 5c Qh 9d 8s )
+Wins: Poefenhel, chips: 25
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Rohoelee
+Small Blind: Poefenhel, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Folds: Rohoelee
+Raises: Poefenhel, chips: 15
+Calls: Chee
+Flop: Jh 8s 2s
+Raises: Poefenhel, chips: 15
+Calls: Chee
+Turn: 7d
+Raises: Poefenhel, chips: 15
+Calls: Chee
+River: 6s
+Raises: Poefenhel, chips: 15
+Calls: Chee
+Pot size: 140
+Showdown Reached
+Shows: Poefenhel, Td 4h
+Combination: Poefenhel, High Card ( Jh Td 8s 7d 6s )
+Shows: Chee, 8c Ah
+Combination: Chee, Pair ( 8c 8s Ah Jh 7d )
+Wins: Chee, chips: 140
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poefenhel
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Folds: Rohoelee
+Calls: Poefenhel
+Calls: Chee
+Checks: Binhiloe
+Flop: 8h Kd 3s
+Checks: Chee
+Checks: Binhiloe
+Checks: Poefenhel
+Turn: 6d
+Checks: Chee
+Checks: Binhiloe
+Checks: Poefenhel
+River: 8d
+Checks: Chee
+Checks: Binhiloe
+Raises: Poefenhel, chips: 10
+Calls: Chee
+Folds: Binhiloe
+Pot size: 50
+Showdown Reached
+Shows: Poefenhel, Th 3d
+Combination: Poefenhel, Two Pair ( 8h 8d 3d 3s Kd )
+Shows: Chee, Ts 4c
+Combination: Chee, Pair ( 8h 8d Kd Ts 6d )
+Wins: Poefenhel, chips: 50
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Binhiloe, chips: 5
+Big Blind: Rohoelee, chips: 10
+Calls: Poefenhel
+Calls: Chee
+Folds: Binhiloe
+Checks: Rohoelee
+Flop: Jh As 7s
+Checks: Rohoelee
+Raises: Poefenhel, chips: 10
+Calls: Chee
+Raises: Rohoelee, chips: 20
+Calls: Poefenhel
+Calls: Chee
+Turn: Td
+Checks: Rohoelee
+Checks: Poefenhel
+Checks: Chee
+River: 6h
+Raises: Rohoelee, chips: 1030
+Calls: Poefenhel
+Calls: Chee
+Pot size: 2250
+Showdown Reached
+Shows: Rohoelee, Jd 7d
+Combination: Rohoelee, Two Pair ( Jd Jh 7d 7s As )
+Shows: Poefenhel, 6s Ac
+Combination: Poefenhel, Two Pair ( Ac As 6s 6h Jh )
+Shows: Chee, Kc Qh
+Combination: Chee, Straight ( As Kc Qh Jh Td )
+Wins: Chee, chips: 2250
+Quits: Rohoelee, chips: 0
+Quits: Poefenhel, chips: 0
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 2d Ad 3d
+Checks: Binhiloe
+Checks: Chee
+Turn: Th
+Checks: Binhiloe
+Checks: Chee
+River: Qh
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 3s 5d
+Combination: Chee, Pair ( 3s 3d Ad Qh Th )
+Shows: Binhiloe, Jd 4c
+Combination: Binhiloe, High Card ( Ad Qh Jd Th 4c )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: Ts 6d 9d
+Checks: Binhiloe
+Checks: Chee
+Turn: 5d
+Checks: Binhiloe
+Checks: Chee
+River: 8s
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 5c Jd
+Combination: Chee, Pair ( 5c 5d Jd Ts 9d )
+Shows: Binhiloe, As 8h
+Combination: Binhiloe, Pair ( 8h 8s As Ts 9d )
+Wins: Binhiloe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 5c 9c Jc
+Checks: Binhiloe
+Checks: Chee
+Turn: 4c
+Checks: Binhiloe
+Checks: Chee
+River: 3d
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 2c Ah
+Combination: Chee, Flush ( Jc 9c 5c 4c 2c )
+Shows: Binhiloe, 7h Qc
+Combination: Binhiloe, Flush ( Qc Jc 9c 5c 4c )
+Wins: Binhiloe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: Qd 7s 3c
+Checks: Binhiloe
+Checks: Chee
+Turn: 5d
+Checks: Binhiloe
+Checks: Chee
+River: Qc
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, Jd 8s
+Combination: Chee, Pair ( Qd Qc Jd 8s 7s )
+Shows: Binhiloe, 8h Qh
+Combination: Binhiloe, Three Of A Kind ( Qh Qd Qc 8h 7s )
+Wins: Binhiloe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 6d As Kc
+Checks: Binhiloe
+Checks: Chee
+Turn: 8s
+Checks: Binhiloe
+Checks: Chee
+River: Kh
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 3c 6s
+Combination: Chee, Two Pair ( Kc Kh 6s 6d As )
+Shows: Binhiloe, Qs Ts
+Combination: Binhiloe, Pair ( Kc Kh As Qs Ts )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: Qh 6s 6c
+Checks: Binhiloe
+Checks: Chee
+Turn: As
+Checks: Binhiloe
+Checks: Chee
+River: 2h
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, Ks 3s
+Combination: Chee, Pair ( 6s 6c As Ks Qh )
+Shows: Binhiloe, Js 4s
+Combination: Binhiloe, Pair ( 6s 6c As Qh Js )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: Qd 3d 9c
+Checks: Binhiloe
+Checks: Chee
+Turn: Ts
+Checks: Binhiloe
+Checks: Chee
+River: 7h
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, Td Qc
+Combination: Chee, Two Pair ( Qc Qd Td Ts 9c )
+Shows: Binhiloe, Ah 9s
+Combination: Binhiloe, Pair ( 9s 9c Ah Qd Ts )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 8d Td Kd
+Checks: Binhiloe
+Checks: Chee
+Turn: Qs
+Checks: Binhiloe
+Checks: Chee
+River: 9s
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 9c 6c
+Combination: Chee, Pair ( 9c 9s Kd Qs Td )
+Shows: Binhiloe, 7d 4d
+Combination: Binhiloe, Flush ( Kd Td 8d 7d 4d )
+Wins: Binhiloe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 4s 7s Qs
+Checks: Binhiloe
+Checks: Chee
+Turn: Td
+Checks: Binhiloe
+Checks: Chee
+River: 9h
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 7d Kh
+Combination: Chee, Pair ( 7d 7s Kh Qs Td )
+Shows: Binhiloe, 3h Ks
+Combination: Binhiloe, High Card ( Ks Qs Td 9h 7s )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: Js 7s Ah
+Checks: Binhiloe
+Checks: Chee
+Turn: Kd
+Checks: Binhiloe
+Checks: Chee
+River: 6s
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, Qc 3c
+Combination: Chee, High Card ( Ah Kd Qc Js 7s )
+Shows: Binhiloe, Ts 9d
+Combination: Binhiloe, High Card ( Ah Kd Js Ts 9d )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: Jd Kh 4d
+Checks: Binhiloe
+Checks: Chee
+Turn: 5h
+Checks: Binhiloe
+Checks: Chee
+River: Jh
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 6d 3h
+Combination: Chee, Pair ( Jd Jh Kh 6d 5h )
+Shows: Binhiloe, 7c Ah
+Combination: Binhiloe, Pair ( Jd Jh Ah Kh 7c )
+Wins: Binhiloe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 3h As 5h
+Checks: Binhiloe
+Checks: Chee
+Turn: 5c
+Checks: Binhiloe
+Checks: Chee
+River: 7h
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, Ah 9h
+Combination: Chee, Flush ( Ah 9h 7h 5h 3h )
+Shows: Binhiloe, Td 8h
+Combination: Binhiloe, Pair ( 5h 5c As Td 8h )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 5h 2d Ah
+Checks: Binhiloe
+Checks: Chee
+Turn: Qs
+Checks: Binhiloe
+Checks: Chee
+River: Tc
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 4c Qc
+Combination: Chee, Pair ( Qc Qs Ah Tc 5h )
+Shows: Binhiloe, As 7s
+Combination: Binhiloe, Pair ( As Ah Qs Tc 7s )
+Wins: Binhiloe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: Qd Ah 2c
+Checks: Binhiloe
+Checks: Chee
+Turn: 6c
+Checks: Binhiloe
+Checks: Chee
+River: 8s
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 7s 9c
+Combination: Chee, High Card ( Ah Qd 9c 8s 7s )
+Shows: Binhiloe, 9s 7h
+Combination: Binhiloe, High Card ( Ah Qd 9s 8s 7h )
+Wins: Chee, chips: 10
+Wins: Binhiloe, chips: 10
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 4h 5d 4d
+Checks: Binhiloe
+Checks: Chee
+Turn: 6s
+Checks: Binhiloe
+Checks: Chee
+River: 5c
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, Ac Qc
+Combination: Chee, Two Pair ( 5d 5c 4h 4d Ac )
+Shows: Binhiloe, 3d Ts
+Combination: Binhiloe, Two Pair ( 5d 5c 4h 4d Ts )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: Kc 9c Ks
+Checks: Binhiloe
+Checks: Chee
+Turn: 6d
+Checks: Binhiloe
+Checks: Chee
+River: Ts
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 6c 3s
+Combination: Chee, Two Pair ( Kc Ks 6c 6d Ts )
+Shows: Binhiloe, 5s 2d
+Combination: Binhiloe, Pair ( Kc Ks Ts 9c 6d )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 9h Ah 5s
+Checks: Binhiloe
+Checks: Chee
+Turn: 7d
+Checks: Binhiloe
+Checks: Chee
+River: Td
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, Th Ad
+Combination: Chee, Two Pair ( Ad Ah Th Td 9h )
+Shows: Binhiloe, 3c 6d
+Combination: Binhiloe, High Card ( Ah Td 9h 7d 6d )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 7d 7h Td
+Checks: Binhiloe
+Checks: Chee
+Turn: 5h
+Checks: Binhiloe
+Checks: Chee
+River: Kh
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 8d 9d
+Combination: Chee, Pair ( 7d 7h Kh Td 9d )
+Shows: Binhiloe, 4s 4h
+Combination: Binhiloe, Two Pair ( 7d 7h 4s 4h Kh )
+Wins: Binhiloe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: Jh 9c 9d
+Checks: Binhiloe
+Checks: Chee
+Turn: Qc
+Checks: Binhiloe
+Checks: Chee
+River: Jd
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 5h 4h
+Combination: Chee, Two Pair ( Jh Jd 9c 9d Qc )
+Shows: Binhiloe, 7h 6h
+Combination: Binhiloe, Two Pair ( Jh Jd 9c 9d Qc )
+Wins: Chee, chips: 10
+Wins: Binhiloe, chips: 10
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: Js 9s Jc
+Checks: Binhiloe
+Checks: Chee
+Turn: 9h
+Checks: Binhiloe
+Checks: Chee
+River: 2d
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 7c 8s
+Combination: Chee, Two Pair ( Js Jc 9s 9h 8s )
+Shows: Binhiloe, 6h Ac
+Combination: Binhiloe, Two Pair ( Js Jc 9s 9h Ac )
+Wins: Binhiloe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: Js 2c 4d
+Checks: Binhiloe
+Checks: Chee
+Turn: 8s
+Checks: Binhiloe
+Checks: Chee
+River: 9h
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 8c 5c
+Combination: Chee, Pair ( 8c 8s Js 9h 5c )
+Shows: Binhiloe, 6h Kh
+Combination: Binhiloe, High Card ( Kh Js 9h 8s 6h )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 4h Kh 2c
+Checks: Binhiloe
+Checks: Chee
+Turn: Ac
+Checks: Binhiloe
+Checks: Chee
+River: 8h
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, Ah 5c
+Combination: Chee, Pair ( Ah Ac Kh 8h 5c )
+Shows: Binhiloe, 7h 3d
+Combination: Binhiloe, High Card ( Ac Kh 8h 7h 4h )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 5c 9c 8c
+Checks: Binhiloe
+Checks: Chee
+Turn: 8s
+Checks: Binhiloe
+Checks: Chee
+River: 5d
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 9s 4s
+Combination: Chee, Two Pair ( 9s 9c 8c 8s 5c )
+Shows: Binhiloe, Qs 2d
+Combination: Binhiloe, Two Pair ( 8c 8s 5c 5d Qs )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: Ks Ac 4d
+Checks: Binhiloe
+Checks: Chee
+Turn: As
+Checks: Binhiloe
+Checks: Chee
+River: Jc
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, Tc Jh
+Combination: Chee, Two Pair ( Ac As Jh Jc Ks )
+Shows: Binhiloe, 9h 9d
+Combination: Binhiloe, Two Pair ( Ac As 9h 9d Ks )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 7d 5s Jd
+Checks: Binhiloe
+Checks: Chee
+Turn: Ac
+Checks: Binhiloe
+Checks: Chee
+River: 6d
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 4s 8h
+Combination: Chee, Straight ( 8h 7d 6d 5s 4s )
+Shows: Binhiloe, Jc 9s
+Combination: Binhiloe, Pair ( Jc Jd Ac 9s 7d )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: Qh 7c Jh
+Checks: Binhiloe
+Checks: Chee
+Turn: Ts
+Checks: Binhiloe
+Checks: Chee
+River: Kd
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 8s 7d
+Combination: Chee, Pair ( 7d 7c Kd Qh Jh )
+Shows: Binhiloe, 3h Js
+Combination: Binhiloe, Pair ( Js Jh Kd Qh Ts )
+Wins: Binhiloe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 6s 4s 6h
+Checks: Binhiloe
+Checks: Chee
+Turn: Kd
+Checks: Binhiloe
+Checks: Chee
+River: 4h
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, Kh 5h
+Combination: Chee, Two Pair ( Kh Kd 6s 6h 5h )
+Shows: Binhiloe, Js 3h
+Combination: Binhiloe, Two Pair ( 6s 6h 4s 4h Kd )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 8h Ah 5h
+Checks: Binhiloe
+Checks: Chee
+Turn: 7d
+Checks: Binhiloe
+Checks: Chee
+River: 9d
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 6c 6h
+Combination: Chee, Straight ( 9d 8h 7d 6c 5h )
+Shows: Binhiloe, 9s 9c
+Combination: Binhiloe, Three Of A Kind ( 9s 9c 9d Ah 8h )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 5d 9s Ts
+Checks: Binhiloe
+Checks: Chee
+Turn: 6s
+Checks: Binhiloe
+Checks: Chee
+River: 4s
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, Ks 3c
+Combination: Chee, Flush ( Ks Ts 9s 6s 4s )
+Shows: Binhiloe, Jd Jc
+Combination: Binhiloe, Pair ( Jd Jc Ts 9s 6s )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 9d Td Tc
+Checks: Binhiloe
+Checks: Chee
+Turn: 9c
+Checks: Binhiloe
+Checks: Chee
+River: Th
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 2h 8s
+Combination: Chee, Full House ( Td Tc Th 9d 9c )
+Shows: Binhiloe, 9s 8d
+Combination: Binhiloe, Full House ( Td Tc Th 9s 9d )
+Wins: Chee, chips: 10
+Wins: Binhiloe, chips: 10
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: Jd Jh 2c
+Checks: Binhiloe
+Checks: Chee
+Turn: 6h
+Checks: Binhiloe
+Checks: Chee
+River: 3d
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, Ad 6s
+Combination: Chee, Two Pair ( Jd Jh 6s 6h Ad )
+Shows: Binhiloe, 9d Ac
+Combination: Binhiloe, Pair ( Jd Jh Ac 9d 6h )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: Qd 7s 2c
+Checks: Binhiloe
+Checks: Chee
+Turn: 7c
+Checks: Binhiloe
+Checks: Chee
+River: 3s
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, Jc 2s
+Combination: Chee, Two Pair ( 7s 7c 2s 2c Qd )
+Shows: Binhiloe, Ks As
+Combination: Binhiloe, Pair ( 7s 7c As Ks Qd )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 8c 9s Ah
+Checks: Binhiloe
+Checks: Chee
+Turn: 6h
+Checks: Binhiloe
+Checks: Chee
+River: 5h
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 4c 9h
+Combination: Chee, Pair ( 9h 9s Ah 8c 6h )
+Shows: Binhiloe, Th 4h
+Combination: Binhiloe, Flush ( Ah Th 6h 5h 4h )
+Wins: Binhiloe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 9d Th 6s
+Checks: Binhiloe
+Checks: Chee
+Turn: Ac
+Checks: Binhiloe
+Checks: Chee
+River: 7h
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 2s 9c
+Combination: Chee, Pair ( 9c 9d Ac Th 7h )
+Shows: Binhiloe, Tc Qc
+Combination: Binhiloe, Pair ( Tc Th Ac Qc 9d )
+Wins: Binhiloe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 2s Tc 6s
+Checks: Binhiloe
+Checks: Chee
+Turn: Qc
+Checks: Binhiloe
+Checks: Chee
+River: 7c
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 5h Td
+Combination: Chee, Pair ( Td Tc Qc 7c 6s )
+Shows: Binhiloe, 6c Jh
+Combination: Binhiloe, Pair ( 6c 6s Qc Jh Tc )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: Kd Kc 7c
+Checks: Binhiloe
+Checks: Chee
+Turn: 5c
+Checks: Binhiloe
+Checks: Chee
+River: 2s
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 4s 4h
+Combination: Chee, Two Pair ( Kd Kc 4s 4h 7c )
+Shows: Binhiloe, 7s 7h
+Combination: Binhiloe, Full House ( 7s 7h 7c Kd Kc )
+Wins: Binhiloe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 6h 2c 9d
+Checks: Binhiloe
+Checks: Chee
+Turn: 5s
+Checks: Binhiloe
+Checks: Chee
+River: 6c
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, Jc Js
+Combination: Chee, Two Pair ( Jc Js 6h 6c 9d )
+Shows: Binhiloe, 4c 3s
+Combination: Binhiloe, Straight ( 6h 5s 4c 3s 2c )
+Wins: Binhiloe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: Qd As 5c
+Checks: Binhiloe
+Checks: Chee
+Turn: 2c
+Checks: Binhiloe
+Checks: Chee
+River: Ad
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 6c 2d
+Combination: Chee, Two Pair ( As Ad 2d 2c Qd )
+Shows: Binhiloe, 4h 5s
+Combination: Binhiloe, Two Pair ( As Ad 5s 5c Qd )
+Wins: Binhiloe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: Ks 9d As
+Checks: Binhiloe
+Checks: Chee
+Turn: 2c
+Checks: Binhiloe
+Checks: Chee
+River: Tc
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 6d Jd
+Combination: Chee, High Card ( As Ks Jd Tc 9d )
+Shows: Binhiloe, Td 5c
+Combination: Binhiloe, Pair ( Td Tc As Ks 9d )
+Wins: Binhiloe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 6s 3s Ts
+Checks: Binhiloe
+Checks: Chee
+Turn: Tc
+Checks: Binhiloe
+Checks: Chee
+River: 9h
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, Ad Td
+Combination: Chee, Three Of A Kind ( Td Ts Tc Ad 9h )
+Shows: Binhiloe, 2c 7c
+Combination: Binhiloe, Pair ( Ts Tc 9h 7c 6s )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: As 7d Qs
+Checks: Binhiloe
+Checks: Chee
+Turn: 9d
+Checks: Binhiloe
+Checks: Chee
+River: 9h
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, Ts Ah
+Combination: Chee, Two Pair ( Ah As 9d 9h Qs )
+Shows: Binhiloe, 2c 6c
+Combination: Binhiloe, Pair ( 9d 9h As Qs 7d )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 9h 5h Ks
+Checks: Binhiloe
+Checks: Chee
+Turn: 4s
+Checks: Binhiloe
+Checks: Chee
+River: Ac
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 8c Jh
+Combination: Chee, High Card ( Ac Ks Jh 9h 8c )
+Shows: Binhiloe, 8h 2d
+Combination: Binhiloe, High Card ( Ac Ks 9h 8h 5h )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 8d Ad Jc
+Checks: Binhiloe
+Checks: Chee
+Turn: Ts
+Checks: Binhiloe
+Checks: Chee
+River: 8s
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 5d 4h
+Combination: Chee, Pair ( 8d 8s Ad Jc Ts )
+Shows: Binhiloe, Jh 4c
+Combination: Binhiloe, Two Pair ( Jh Jc 8d 8s Ad )
+Wins: Binhiloe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 4s Jh Jd
+Checks: Binhiloe
+Checks: Chee
+Turn: 7c
+Checks: Binhiloe
+Checks: Chee
+River: 5d
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 7s Qc
+Combination: Chee, Two Pair ( Jh Jd 7s 7c Qc )
+Shows: Binhiloe, 9h 8c
+Combination: Binhiloe, Pair ( Jh Jd 9h 8c 7c )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 3d 8h Qd
+Checks: Binhiloe
+Checks: Chee
+Turn: 6c
+Checks: Binhiloe
+Checks: Chee
+River: 9c
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 2c Tc
+Combination: Chee, High Card ( Qd Tc 9c 8h 6c )
+Shows: Binhiloe, Ad 2h
+Combination: Binhiloe, High Card ( Ad Qd 9c 8h 6c )
+Wins: Binhiloe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 4h Ks Qs
+Checks: Binhiloe
+Checks: Chee
+Turn: As
+Checks: Binhiloe
+Checks: Chee
+River: Ad
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, Js 5h
+Combination: Chee, Pair ( As Ad Ks Qs Js )
+Shows: Binhiloe, 8d 2h
+Combination: Binhiloe, Pair ( As Ad Ks Qs 8d )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 6h Kc 7s
+Checks: Binhiloe
+Checks: Chee
+Turn: 4s
+Checks: Binhiloe
+Checks: Chee
+River: 4d
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 9s Qc
+Combination: Chee, Pair ( 4s 4d Kc Qc 9s )
+Shows: Binhiloe, 8c Kh
+Combination: Binhiloe, Two Pair ( Kh Kc 4s 4d 8c )
+Wins: Binhiloe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 7c 6d Tc
+Checks: Binhiloe
+Checks: Chee
+Turn: Th
+Checks: Binhiloe
+Checks: Chee
+River: 3s
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, Td 5c
+Combination: Chee, Three Of A Kind ( Td Tc Th 7c 6d )
+Shows: Binhiloe, Jc Qd
+Combination: Binhiloe, Pair ( Tc Th Qd Jc 7c )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: Qh Qd Kd
+Checks: Binhiloe
+Checks: Chee
+Turn: 7d
+Checks: Binhiloe
+Checks: Chee
+River: 3h
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 9h 3s
+Combination: Chee, Two Pair ( Qh Qd 3s 3h Kd )
+Shows: Binhiloe, Js 5c
+Combination: Binhiloe, Pair ( Qh Qd Kd Js 7d )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 8d 9d 3h
+Checks: Binhiloe
+Checks: Chee
+Turn: 8s
+Checks: Binhiloe
+Checks: Chee
+River: 7d
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, Tc Ah
+Combination: Chee, Pair ( 8d 8s Ah Tc 9d )
+Shows: Binhiloe, Th Qh
+Combination: Binhiloe, Pair ( 8d 8s Qh Th 9d )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 3c 7h Jh
+Checks: Binhiloe
+Checks: Chee
+Turn: 5h
+Checks: Binhiloe
+Checks: Chee
+River: 8s
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 9h 8c
+Combination: Chee, Pair ( 8c 8s Jh 9h 7h )
+Shows: Binhiloe, 8d 6h
+Combination: Binhiloe, Pair ( 8d 8s Jh 7h 6h )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: Jc 3d 7c
+Checks: Binhiloe
+Checks: Chee
+Turn: Kc
+Checks: Binhiloe
+Checks: Chee
+River: 4s
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 9s 4c
+Combination: Chee, Pair ( 4c 4s Kc Jc 9s )
+Shows: Binhiloe, 8c Qd
+Combination: Binhiloe, High Card ( Kc Qd Jc 8c 7c )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: Kc 4c Kh
+Checks: Binhiloe
+Checks: Chee
+Turn: 2d
+Checks: Binhiloe
+Checks: Chee
+River: 2s
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 8d 8s
+Combination: Chee, Two Pair ( Kc Kh 8d 8s 4c )
+Shows: Binhiloe, 7h 2c
+Combination: Binhiloe, Full House ( 2c 2d 2s Kc Kh )
+Wins: Binhiloe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: Ks 5s 8d
+Checks: Binhiloe
+Checks: Chee
+Turn: Jc
+Checks: Binhiloe
+Checks: Chee
+River: 8h
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 9d Kh
+Combination: Chee, Two Pair ( Kh Ks 8d 8h Jc )
+Shows: Binhiloe, 6s Js
+Combination: Binhiloe, Two Pair ( Js Jc 8d 8h Ks )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: Ad 5s Ac
+Checks: Binhiloe
+Checks: Chee
+Turn: Js
+Checks: Binhiloe
+Checks: Chee
+River: 9c
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 7h Th
+Combination: Chee, Pair ( Ad Ac Js Th 9c )
+Shows: Binhiloe, 6h 7d
+Combination: Binhiloe, Pair ( Ad Ac Js 9c 7d )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 9d 8d Ts
+Checks: Binhiloe
+Checks: Chee
+Turn: 7c
+Checks: Binhiloe
+Checks: Chee
+River: 3h
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, Jh Js
+Combination: Chee, Straight ( Jh Ts 9d 8d 7c )
+Shows: Binhiloe, 3c 7h
+Combination: Binhiloe, Two Pair ( 7h 7c 3c 3h Ts )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: Td 8s Th
+Checks: Binhiloe
+Checks: Chee
+Turn: Qs
+Checks: Binhiloe
+Checks: Chee
+River: Kh
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, Jd 9d
+Combination: Chee, Straight ( Kh Qs Jd Td 9d )
+Shows: Binhiloe, 2s 3s
+Combination: Binhiloe, Pair ( Td Th Kh Qs 8s )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 3s 6c Tc
+Checks: Binhiloe
+Checks: Chee
+Turn: 7c
+Checks: Binhiloe
+Checks: Chee
+River: 5c
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 4c Js
+Combination: Chee, Flush ( Tc 7c 6c 5c 4c )
+Shows: Binhiloe, Jh Th
+Combination: Binhiloe, Pair ( Th Tc Jh 7c 6c )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: Js 9c 4d
+Checks: Binhiloe
+Checks: Chee
+Turn: 3s
+Checks: Binhiloe
+Checks: Chee
+River: Ah
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, Ts 6c
+Combination: Chee, High Card ( Ah Js Ts 9c 6c )
+Shows: Binhiloe, 7c 4s
+Combination: Binhiloe, Pair ( 4s 4d Ah Js 9c )
+Wins: Binhiloe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: Jh 2s 4h
+Checks: Binhiloe
+Checks: Chee
+Turn: 6s
+Checks: Binhiloe
+Checks: Chee
+River: Qd
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 3c Kh
+Combination: Chee, High Card ( Kh Qd Jh 6s 4h )
+Shows: Binhiloe, Js Kd
+Combination: Binhiloe, Pair ( Js Jh Kd Qd 6s )
+Wins: Binhiloe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: Ks Qc Kc
+Checks: Binhiloe
+Checks: Chee
+Turn: Ah
+Checks: Binhiloe
+Checks: Chee
+River: Ac
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, Js 3c
+Combination: Chee, Two Pair ( Ah Ac Ks Kc Qc )
+Shows: Binhiloe, 8c 2d
+Combination: Binhiloe, Two Pair ( Ah Ac Ks Kc Qc )
+Wins: Chee, chips: 10
+Wins: Binhiloe, chips: 10
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: Ts Qs 3h
+Checks: Binhiloe
+Checks: Chee
+Turn: 2c
+Checks: Binhiloe
+Checks: Chee
+River: 9c
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, Jd 6h
+Combination: Chee, High Card ( Qs Jd Ts 9c 6h )
+Shows: Binhiloe, 7h 4h
+Combination: Binhiloe, High Card ( Qs Ts 9c 7h 4h )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 3c 9c 8c
+Checks: Binhiloe
+Checks: Chee
+Turn: 9d
+Checks: Binhiloe
+Checks: Chee
+River: 5h
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, Ac Kh
+Combination: Chee, Pair ( 9c 9d Ac Kh 8c )
+Shows: Binhiloe, 2d As
+Combination: Binhiloe, Pair ( 9c 9d As 8c 5h )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: Th 8s Kc
+Checks: Binhiloe
+Checks: Chee
+Turn: 4h
+Checks: Binhiloe
+Checks: Chee
+River: Ah
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 4s 4c
+Combination: Chee, Three Of A Kind ( 4s 4c 4h Ah Kc )
+Shows: Binhiloe, Ks 3d
+Combination: Binhiloe, Pair ( Ks Kc Ah Th 8s )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: Jc 5c 6c
+Checks: Binhiloe
+Checks: Chee
+Turn: 8s
+Checks: Binhiloe
+Checks: Chee
+River: Ac
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, Qc 5d
+Combination: Chee, Flush ( Ac Qc Jc 6c 5c )
+Shows: Binhiloe, Ad Kh
+Combination: Binhiloe, Pair ( Ad Ac Kh Jc 8s )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 6h 4s 5c
+Checks: Binhiloe
+Checks: Chee
+Turn: 3h
+Checks: Binhiloe
+Checks: Chee
+River: 9h
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 4h 7h
+Combination: Chee, Flush ( 9h 7h 6h 4h 3h )
+Shows: Binhiloe, 9d 8d
+Combination: Binhiloe, Pair ( 9d 9h 8d 6h 5c )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 8h 5h Qd
+Checks: Binhiloe
+Checks: Chee
+Turn: 4h
+Checks: Binhiloe
+Checks: Chee
+River: 7s
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 9h 8d
+Combination: Chee, Pair ( 8d 8h Qd 9h 7s )
+Shows: Binhiloe, Kc 6h
+Combination: Binhiloe, Straight ( 8h 7s 6h 5h 4h )
+Wins: Binhiloe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: Kh 7c 3c
+Checks: Binhiloe
+Checks: Chee
+Turn: 4h
+Checks: Binhiloe
+Checks: Chee
+River: Qh
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, Ac Kd
+Combination: Chee, Pair ( Kd Kh Ac Qh 7c )
+Shows: Binhiloe, Ts Jd
+Combination: Binhiloe, High Card ( Kh Qh Jd Ts 7c )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: Kh Ad 4s
+Checks: Binhiloe
+Checks: Chee
+Turn: 3h
+Checks: Binhiloe
+Checks: Chee
+River: Qh
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, Jd 4d
+Combination: Chee, Pair ( 4d 4s Ad Kh Qh )
+Shows: Binhiloe, Jh 8s
+Combination: Binhiloe, High Card ( Ad Kh Qh Jh 8s )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 4d 8c 7d
+Checks: Binhiloe
+Checks: Chee
+Turn: Ts
+Checks: Binhiloe
+Checks: Chee
+River: 2s
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, Td Tc
+Combination: Chee, Three Of A Kind ( Td Tc Ts 8c 7d )
+Shows: Binhiloe, 9d Jd
+Combination: Binhiloe, Straight ( Jd Ts 9d 8c 7d )
+Wins: Binhiloe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: Th As Qs
+Checks: Binhiloe
+Checks: Chee
+Turn: Kd
+Checks: Binhiloe
+Checks: Chee
+River: Kh
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, Td Qd
+Combination: Chee, Two Pair ( Kd Kh Qd Qs As )
+Shows: Binhiloe, 3d 2c
+Combination: Binhiloe, Pair ( Kd Kh As Qs Th )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 9d As Th
+Checks: Binhiloe
+Checks: Chee
+Turn: 9h
+Checks: Binhiloe
+Checks: Chee
+River: Js
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 9s 7c
+Combination: Chee, Three Of A Kind ( 9s 9d 9h As Js )
+Shows: Binhiloe, 7d Jh
+Combination: Binhiloe, Two Pair ( Jh Js 9d 9h As )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 7s 4d Kd
+Checks: Binhiloe
+Checks: Chee
+Turn: 6c
+Checks: Binhiloe
+Checks: Chee
+River: 3d
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 8d 3s
+Combination: Chee, Pair ( 3s 3d Kd 8d 7s )
+Shows: Binhiloe, Jh 3h
+Combination: Binhiloe, Pair ( 3h 3d Kd Jh 7s )
+Wins: Binhiloe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 8d 4c Ah
+Checks: Binhiloe
+Checks: Chee
+Turn: 9d
+Checks: Binhiloe
+Checks: Chee
+River: Qh
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 2s As
+Combination: Chee, Pair ( As Ah Qh 9d 8d )
+Shows: Binhiloe, 8s Ad
+Combination: Binhiloe, Two Pair ( Ad Ah 8s 8d Qh )
+Wins: Binhiloe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 8s 2h 2s
+Checks: Binhiloe
+Checks: Chee
+Turn: 6d
+Checks: Binhiloe
+Checks: Chee
+River: Jc
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 3s 4d
+Combination: Chee, Pair ( 2h 2s Jc 8s 6d )
+Shows: Binhiloe, Kc 8c
+Combination: Binhiloe, Two Pair ( 8c 8s 2h 2s Kc )
+Wins: Binhiloe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 8h Jc 9s
+Checks: Binhiloe
+Checks: Chee
+Turn: Qd
+Checks: Binhiloe
+Checks: Chee
+River: 5s
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 9d Ad
+Combination: Chee, Pair ( 9d 9s Ad Qd Jc )
+Shows: Binhiloe, Ac 6h
+Combination: Binhiloe, High Card ( Ac Qd Jc 9s 8h )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 2c 9s Kc
+Checks: Binhiloe
+Checks: Chee
+Turn: 5c
+Checks: Binhiloe
+Checks: Chee
+River: As
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 4h Jc
+Combination: Chee, High Card ( As Kc Jc 9s 5c )
+Shows: Binhiloe, 7h 6h
+Combination: Binhiloe, High Card ( As Kc 9s 7h 6h )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 8h 6d 5h
+Checks: Binhiloe
+Checks: Chee
+Turn: As
+Checks: Binhiloe
+Checks: Chee
+River: 2d
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 6s 7h
+Combination: Chee, Pair ( 6s 6d As 8h 7h )
+Shows: Binhiloe, 4h Tc
+Combination: Binhiloe, High Card ( As Tc 8h 6d 5h )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: Qs 9c 3c
+Checks: Binhiloe
+Checks: Chee
+Turn: Jc
+Checks: Binhiloe
+Checks: Chee
+River: Qc
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, Kc 2s
+Combination: Chee, Flush ( Kc Qc Jc 9c 3c )
+Shows: Binhiloe, 9d 5d
+Combination: Binhiloe, Two Pair ( Qs Qc 9d 9c Jc )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 6c 4h Ah
+Checks: Binhiloe
+Checks: Chee
+Turn: 9d
+Checks: Binhiloe
+Checks: Chee
+River: 7s
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 5c 6d
+Combination: Chee, Pair ( 6d 6c Ah 9d 7s )
+Shows: Binhiloe, Tc Ks
+Combination: Binhiloe, High Card ( Ah Ks Tc 9d 7s )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 4c 2c 7s
+Checks: Binhiloe
+Checks: Chee
+Turn: 8s
+Checks: Binhiloe
+Checks: Chee
+River: Tc
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, Qc Td
+Combination: Chee, Pair ( Td Tc Qc 8s 7s )
+Shows: Binhiloe, Ah 7d
+Combination: Binhiloe, Pair ( 7d 7s Ah Tc 8s )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: Kd 7h 8d
+Checks: Binhiloe
+Checks: Chee
+Turn: 4s
+Checks: Binhiloe
+Checks: Chee
+River: 9h
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, Qs 6s
+Combination: Chee, High Card ( Kd Qs 9h 8d 7h )
+Shows: Binhiloe, 4h As
+Combination: Binhiloe, Pair ( 4h 4s As Kd 9h )
+Wins: Binhiloe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 7d 8c As
+Checks: Binhiloe
+Checks: Chee
+Turn: Qs
+Checks: Binhiloe
+Checks: Chee
+River: 3s
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 8d 8s
+Combination: Chee, Three Of A Kind ( 8d 8s 8c As Qs )
+Shows: Binhiloe, Kh 5c
+Combination: Binhiloe, High Card ( As Kh Qs 8c 7d )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 5c 5h 8d
+Checks: Binhiloe
+Checks: Chee
+Turn: 7s
+Checks: Binhiloe
+Checks: Chee
+River: Ad
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, Jd 2h
+Combination: Chee, Pair ( 5c 5h Ad Jd 8d )
+Shows: Binhiloe, Th Ac
+Combination: Binhiloe, Two Pair ( Ac Ad 5c 5h Th )
+Wins: Binhiloe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 4d 4h Ts
+Checks: Binhiloe
+Checks: Chee
+Turn: 8s
+Checks: Binhiloe
+Checks: Chee
+River: 3c
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, Ah 7c
+Combination: Chee, Pair ( 4d 4h Ah Ts 8s )
+Shows: Binhiloe, 6h Jc
+Combination: Binhiloe, Pair ( 4d 4h Jc Ts 8s )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 5d 2s Qh
+Checks: Binhiloe
+Checks: Chee
+Turn: 4c
+Checks: Binhiloe
+Checks: Chee
+River: 9d
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 6c Ac
+Combination: Chee, High Card ( Ac Qh 9d 6c 5d )
+Shows: Binhiloe, Jd Ad
+Combination: Binhiloe, High Card ( Ad Qh Jd 9d 5d )
+Wins: Binhiloe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 8s 8d Tc
+Checks: Binhiloe
+Checks: Chee
+Turn: Ks
+Checks: Binhiloe
+Checks: Chee
+River: 7s
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 5s 8c
+Combination: Chee, Three Of A Kind ( 8c 8s 8d Ks Tc )
+Shows: Binhiloe, Qh As
+Combination: Binhiloe, Pair ( 8s 8d As Ks Qh )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 6d 4s 7d
+Checks: Binhiloe
+Checks: Chee
+Turn: Kh
+Checks: Binhiloe
+Checks: Chee
+River: 2s
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 6h 5s
+Combination: Chee, Pair ( 6h 6d Kh 7d 5s )
+Shows: Binhiloe, 3s Ac
+Combination: Binhiloe, High Card ( Ac Kh 7d 6d 4s )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: Ks 3s 2d
+Checks: Binhiloe
+Checks: Chee
+Turn: 8h
+Checks: Binhiloe
+Checks: Chee
+River: Ah
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, Kd Ad
+Combination: Chee, Two Pair ( Ad Ah Kd Ks 8h )
+Shows: Binhiloe, 3h Jd
+Combination: Binhiloe, Pair ( 3h 3s Ah Ks Jd )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 4h 3s Ts
+Checks: Binhiloe
+Checks: Chee
+Turn: 2h
+Checks: Binhiloe
+Checks: Chee
+River: 6d
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 3d Ah
+Combination: Chee, Pair ( 3d 3s Ah Ts 6d )
+Shows: Binhiloe, 3h Th
+Combination: Binhiloe, Two Pair ( Th Ts 3h 3s 6d )
+Wins: Binhiloe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 7h Qd Js
+Checks: Binhiloe
+Checks: Chee
+Turn: Ac
+Checks: Binhiloe
+Checks: Chee
+River: 3h
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 6c 5c
+Combination: Chee, High Card ( Ac Qd Js 7h 6c )
+Shows: Binhiloe, 5d Kh
+Combination: Binhiloe, High Card ( Ac Kh Qd Js 7h )
+Wins: Binhiloe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 8c 5c 9h
+Checks: Binhiloe
+Checks: Chee
+Turn: 7s
+Checks: Binhiloe
+Checks: Chee
+River: 4h
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 3c Kh
+Combination: Chee, High Card ( Kh 9h 8c 7s 5c )
+Shows: Binhiloe, 4c 2d
+Combination: Binhiloe, Pair ( 4c 4h 9h 8c 7s )
+Wins: Binhiloe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 3h 8s 2c
+Checks: Binhiloe
+Checks: Chee
+Turn: Qs
+Checks: Binhiloe
+Checks: Chee
+River: Jd
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 6s 5h
+Combination: Chee, High Card ( Qs Jd 8s 6s 5h )
+Shows: Binhiloe, 9c 6d
+Combination: Binhiloe, High Card ( Qs Jd 9c 8s 6d )
+Wins: Binhiloe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 6d Tc 3s
+Checks: Binhiloe
+Checks: Chee
+Turn: 2h
+Checks: Binhiloe
+Checks: Chee
+River: 5h
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 5s Qd
+Combination: Chee, Pair ( 5s 5h Qd Tc 6d )
+Shows: Binhiloe, Ah Ad
+Combination: Binhiloe, Pair ( Ah Ad Tc 6d 5h )
+Wins: Binhiloe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 5d Th Qd
+Checks: Binhiloe
+Checks: Chee
+Turn: Ad
+Checks: Binhiloe
+Checks: Chee
+River: 3c
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 7h Ts
+Combination: Chee, Pair ( Ts Th Ad Qd 7h )
+Shows: Binhiloe, 2c Kc
+Combination: Binhiloe, High Card ( Ad Kc Qd Th 5d )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 9d 2h Qh
+Checks: Binhiloe
+Checks: Chee
+Turn: 3d
+Checks: Binhiloe
+Checks: Chee
+River: 2s
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, Ac 4h
+Combination: Chee, Pair ( 2h 2s Ac Qh 9d )
+Shows: Binhiloe, 8s Ts
+Combination: Binhiloe, Pair ( 2h 2s Qh Ts 9d )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 9c Jd 5h
+Checks: Binhiloe
+Checks: Chee
+Turn: As
+Checks: Binhiloe
+Checks: Chee
+River: Tc
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, Qh 4c
+Combination: Chee, High Card ( As Qh Jd Tc 9c )
+Shows: Binhiloe, 2c 3d
+Combination: Binhiloe, High Card ( As Jd Tc 9c 5h )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 7s 2c As
+Checks: Binhiloe
+Checks: Chee
+Turn: 5d
+Checks: Binhiloe
+Checks: Chee
+River: 8d
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 9c Jc
+Combination: Chee, High Card ( As Jc 9c 8d 7s )
+Shows: Binhiloe, 7d Qh
+Combination: Binhiloe, Pair ( 7d 7s As Qh 8d )
+Wins: Binhiloe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: Kc Th 9d
+Checks: Binhiloe
+Checks: Chee
+Turn: Ks
+Checks: Binhiloe
+Checks: Chee
+River: 7d
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 8h Kh
+Combination: Chee, Three Of A Kind ( Kh Kc Ks Th 9d )
+Shows: Binhiloe, 5s 5d
+Combination: Binhiloe, Two Pair ( Kc Ks 5s 5d Th )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 8d 6s 5s
+Checks: Binhiloe
+Checks: Chee
+Turn: 7s
+Checks: Binhiloe
+Checks: Chee
+River: Ks
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 9c 6c
+Combination: Chee, Straight ( 9c 8d 7s 6c 5s )
+Shows: Binhiloe, 3c 6d
+Combination: Binhiloe, Pair ( 6d 6s Ks 8d 7s )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: Ad 8c 6s
+Checks: Binhiloe
+Checks: Chee
+Turn: 5c
+Checks: Binhiloe
+Checks: Chee
+River: 2c
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, Ah 2h
+Combination: Chee, Two Pair ( Ah Ad 2h 2c 8c )
+Shows: Binhiloe, Kh 2s
+Combination: Binhiloe, Pair ( 2s 2c Ad Kh 8c )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 5s Td Qc
+Checks: Binhiloe
+Checks: Chee
+Turn: 2c
+Checks: Binhiloe
+Checks: Chee
+River: 8h
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 7d Ad
+Combination: Chee, High Card ( Ad Qc Td 8h 7d )
+Shows: Binhiloe, Js 5c
+Combination: Binhiloe, Pair ( 5c 5s Qc Js Td )
+Wins: Binhiloe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 3h 7c 4s
+Checks: Binhiloe
+Checks: Chee
+Turn: 9h
+Checks: Binhiloe
+Checks: Chee
+River: Kc
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 8h 4c
+Combination: Chee, Pair ( 4c 4s Kc 9h 8h )
+Shows: Binhiloe, 5d 6h
+Combination: Binhiloe, Straight ( 7c 6h 5d 4s 3h )
+Wins: Binhiloe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 5c 3d As
+Checks: Binhiloe
+Checks: Chee
+Turn: 9d
+Checks: Binhiloe
+Checks: Chee
+River: 6s
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 3c 4s
+Combination: Chee, Pair ( 3c 3d As 9d 6s )
+Shows: Binhiloe, Kh 5d
+Combination: Binhiloe, Pair ( 5d 5c As Kh 9d )
+Wins: Binhiloe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 7s As 2s
+Checks: Binhiloe
+Checks: Chee
+Turn: Th
+Checks: Binhiloe
+Checks: Chee
+River: Jc
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 5c 4c
+Combination: Chee, High Card ( As Jc Th 7s 5c )
+Shows: Binhiloe, Kc 3c
+Combination: Binhiloe, High Card ( As Kc Jc Th 7s )
+Wins: Binhiloe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 9c 3s 8d
+Checks: Binhiloe
+Checks: Chee
+Turn: Js
+Checks: Binhiloe
+Checks: Chee
+River: 5s
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, Qs 9s
+Combination: Chee, Flush ( Qs Js 9s 5s 3s )
+Shows: Binhiloe, 3d Td
+Combination: Binhiloe, Pair ( 3d 3s Js Td 9c )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 3c 6d 4d
+Checks: Binhiloe
+Checks: Chee
+Turn: 2c
+Checks: Binhiloe
+Checks: Chee
+River: Qc
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, Ac Jc
+Combination: Chee, Flush ( Ac Qc Jc 3c 2c )
+Shows: Binhiloe, 9d Qd
+Combination: Binhiloe, Pair ( Qd Qc 9d 6d 4d )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: Jc Qs 9s
+Checks: Binhiloe
+Checks: Chee
+Turn: 4s
+Checks: Binhiloe
+Checks: Chee
+River: Qc
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 7h 3s
+Combination: Chee, Pair ( Qs Qc Jc 9s 7h )
+Shows: Binhiloe, 3d Jd
+Combination: Binhiloe, Two Pair ( Qs Qc Jd Jc 9s )
+Wins: Binhiloe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: Qc Qh 4h
+Checks: Binhiloe
+Checks: Chee
+Turn: Kc
+Checks: Binhiloe
+Checks: Chee
+River: 5d
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, Jd Kh
+Combination: Chee, Two Pair ( Kh Kc Qc Qh Jd )
+Shows: Binhiloe, 2c 8c
+Combination: Binhiloe, Pair ( Qc Qh Kc 8c 5d )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: As 9c 3h
+Checks: Binhiloe
+Checks: Chee
+Turn: Ac
+Checks: Binhiloe
+Checks: Chee
+River: 5d
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, Kc Qd
+Combination: Chee, Pair ( As Ac Kc Qd 9c )
+Shows: Binhiloe, 2d Th
+Combination: Binhiloe, Pair ( As Ac Th 9c 5d )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: Kd 7h Jc
+Checks: Binhiloe
+Checks: Chee
+Turn: 2h
+Checks: Binhiloe
+Checks: Chee
+River: 6s
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 8c 6c
+Combination: Chee, Pair ( 6c 6s Kd Jc 8c )
+Shows: Binhiloe, Qc 6h
+Combination: Binhiloe, Pair ( 6h 6s Kd Qc Jc )
+Wins: Binhiloe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 5c 9c 8h
+Checks: Binhiloe
+Checks: Chee
+Turn: 6d
+Checks: Binhiloe
+Checks: Chee
+River: Kh
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, Td 4s
+Combination: Chee, High Card ( Kh Td 9c 8h 6d )
+Shows: Binhiloe, 6s 5h
+Combination: Binhiloe, Two Pair ( 6s 6d 5h 5c Kh )
+Wins: Binhiloe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: Td 6c Ad
+Checks: Binhiloe
+Checks: Chee
+Turn: Th
+Checks: Binhiloe
+Checks: Chee
+River: 7h
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 9s Js
+Combination: Chee, Pair ( Td Th Ad Js 9s )
+Shows: Binhiloe, Jh Jd
+Combination: Binhiloe, Two Pair ( Jh Jd Td Th Ad )
+Wins: Binhiloe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 9h Ks 5s
+Checks: Binhiloe
+Checks: Chee
+Turn: 6h
+Checks: Binhiloe
+Checks: Chee
+River: 5c
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, Ad 3h
+Combination: Chee, Pair ( 5s 5c Ad Ks 9h )
+Shows: Binhiloe, 3d 7c
+Combination: Binhiloe, Pair ( 5s 5c Ks 9h 7c )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 8c 6d 2c
+Checks: Binhiloe
+Checks: Chee
+Turn: Jc
+Checks: Binhiloe
+Checks: Chee
+River: 3h
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, Kd 2h
+Combination: Chee, Pair ( 2h 2c Kd Jc 8c )
+Shows: Binhiloe, Td 7d
+Combination: Binhiloe, High Card ( Jc Td 8c 7d 6d )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 3c 4h 2h
+Checks: Binhiloe
+Checks: Chee
+Turn: 7h
+Checks: Binhiloe
+Checks: Chee
+River: 7s
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 8c 5c
+Combination: Chee, Pair ( 7h 7s 8c 5c 4h )
+Shows: Binhiloe, Ts 9h
+Combination: Binhiloe, Pair ( 7h 7s Ts 9h 4h )
+Wins: Binhiloe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 6s Kd Qc
+Checks: Binhiloe
+Checks: Chee
+Turn: 4d
+Checks: Binhiloe
+Checks: Chee
+River: 8h
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 7h 9d
+Combination: Chee, High Card ( Kd Qc 9d 8h 7h )
+Shows: Binhiloe, Th Ks
+Combination: Binhiloe, Pair ( Ks Kd Qc Th 8h )
+Wins: Binhiloe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 4h 6c 3c
+Checks: Binhiloe
+Checks: Chee
+Turn: 8d
+Checks: Binhiloe
+Checks: Chee
+River: 3s
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 2d 9d
+Combination: Chee, Pair ( 3c 3s 9d 8d 6c )
+Shows: Binhiloe, 5d Ts
+Combination: Binhiloe, Pair ( 3c 3s Ts 8d 6c )
+Wins: Binhiloe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: Jd 3h Th
+Checks: Binhiloe
+Checks: Chee
+Turn: 7s
+Checks: Binhiloe
+Checks: Chee
+River: 3c
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 8d 5d
+Combination: Chee, Pair ( 3h 3c Jd Th 8d )
+Shows: Binhiloe, Jh 7c
+Combination: Binhiloe, Two Pair ( Jh Jd 7c 7s Th )
+Wins: Binhiloe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: Qh As 9s
+Checks: Binhiloe
+Checks: Chee
+Turn: 2d
+Checks: Binhiloe
+Checks: Chee
+River: 6d
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 4d Jd
+Combination: Chee, High Card ( As Qh Jd 9s 6d )
+Shows: Binhiloe, 6c 9h
+Combination: Binhiloe, Two Pair ( 9h 9s 6c 6d As )
+Wins: Binhiloe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 3c Ah 4s
+Checks: Binhiloe
+Checks: Chee
+Turn: Jd
+Checks: Binhiloe
+Checks: Chee
+River: 3s
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 7s 8c
+Combination: Chee, Pair ( 3c 3s Ah Jd 8c )
+Shows: Binhiloe, 6h 3d
+Combination: Binhiloe, Three Of A Kind ( 3d 3c 3s Ah Jd )
+Wins: Binhiloe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 2h 7c 5d
+Checks: Binhiloe
+Checks: Chee
+Turn: 3c
+Checks: Binhiloe
+Checks: Chee
+River: 4c
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 8h Kc
+Combination: Chee, High Card ( Kc 8h 7c 5d 4c )
+Shows: Binhiloe, Th 7h
+Combination: Binhiloe, Pair ( 7h 7c Th 5d 4c )
+Wins: Binhiloe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 4h 6h 7s
+Checks: Binhiloe
+Checks: Chee
+Turn: Ts
+Checks: Binhiloe
+Checks: Chee
+River: 2c
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 5s 3s
+Combination: Chee, Straight ( 7s 6h 5s 4h 3s )
+Shows: Binhiloe, 9s 6c
+Combination: Binhiloe, Pair ( 6c 6h Ts 9s 7s )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: As 3c Ad
+Checks: Binhiloe
+Checks: Chee
+Turn: 5s
+Checks: Binhiloe
+Checks: Chee
+River: Jh
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, Tc 7s
+Combination: Chee, Pair ( As Ad Jh Tc 7s )
+Shows: Binhiloe, 4c Kc
+Combination: Binhiloe, Pair ( As Ad Kc Jh 5s )
+Wins: Binhiloe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: Tc Jh Ac
+Checks: Binhiloe
+Checks: Chee
+Turn: 5h
+Checks: Binhiloe
+Checks: Chee
+River: Jd
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 6c As
+Combination: Chee, Two Pair ( As Ac Jh Jd Tc )
+Shows: Binhiloe, 2h 6d
+Combination: Binhiloe, Pair ( Jh Jd Ac Tc 6d )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 4h 7c Ts
+Checks: Binhiloe
+Checks: Chee
+Turn: 5h
+Checks: Binhiloe
+Checks: Chee
+River: 2s
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 2h Qs
+Combination: Chee, Pair ( 2h 2s Qs Ts 7c )
+Shows: Binhiloe, Tc Qd
+Combination: Binhiloe, Pair ( Tc Ts Qd 7c 5h )
+Wins: Binhiloe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: Jh Jd 9s
+Checks: Binhiloe
+Checks: Chee
+Turn: 2d
+Checks: Binhiloe
+Checks: Chee
+River: 5s
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, Ah Qs
+Combination: Chee, Pair ( Jh Jd Ah Qs 9s )
+Shows: Binhiloe, Td Qh
+Combination: Binhiloe, Pair ( Jh Jd Qh Td 9s )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 5s 8s 6d
+Checks: Binhiloe
+Checks: Chee
+Turn: 9h
+Checks: Binhiloe
+Checks: Chee
+River: Ad
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 7d 2c
+Combination: Chee, Straight ( 9h 8s 7d 6d 5s )
+Shows: Binhiloe, 5c 2h
+Combination: Binhiloe, Pair ( 5c 5s Ad 9h 8s )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: Qh Qd 3s
+Checks: Binhiloe
+Checks: Chee
+Turn: 4s
+Checks: Binhiloe
+Checks: Chee
+River: Kc
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 4c 8h
+Combination: Chee, Two Pair ( Qh Qd 4c 4s Kc )
+Shows: Binhiloe, 4h Tc
+Combination: Binhiloe, Two Pair ( Qh Qd 4h 4s Kc )
+Wins: Chee, chips: 10
+Wins: Binhiloe, chips: 10
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 8c Jd 5d
+Checks: Binhiloe
+Checks: Chee
+Turn: 9h
+Checks: Binhiloe
+Checks: Chee
+River: Tc
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, Qc As
+Combination: Chee, Straight ( Qc Jd Tc 9h 8c )
+Shows: Binhiloe, Qs Jh
+Combination: Binhiloe, Straight ( Qs Jh Tc 9h 8c )
+Wins: Chee, chips: 10
+Wins: Binhiloe, chips: 10
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 4h 2h Jc
+Checks: Binhiloe
+Checks: Chee
+Turn: 5d
+Checks: Binhiloe
+Checks: Chee
+River: Ts
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, Jh Qh
+Combination: Chee, Pair ( Jh Jc Qh Ts 5d )
+Shows: Binhiloe, Ah 8h
+Combination: Binhiloe, High Card ( Ah Jc Ts 8h 5d )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: Qh Ts 5h
+Checks: Binhiloe
+Checks: Chee
+Turn: 9s
+Checks: Binhiloe
+Checks: Chee
+River: Kd
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 6d 5s
+Combination: Chee, Pair ( 5s 5h Kd Qh Ts )
+Shows: Binhiloe, 5d Th
+Combination: Binhiloe, Two Pair ( Th Ts 5d 5h Kd )
+Wins: Binhiloe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: Ad Jh 5d
+Checks: Binhiloe
+Checks: Chee
+Turn: 6c
+Checks: Binhiloe
+Checks: Chee
+River: Ah
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 4h 5c
+Combination: Chee, Two Pair ( Ad Ah 5c 5d Jh )
+Shows: Binhiloe, 7d 8h
+Combination: Binhiloe, Pair ( Ad Ah Jh 8h 7d )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 2c Ts Kc
+Checks: Binhiloe
+Checks: Chee
+Turn: Jc
+Checks: Binhiloe
+Checks: Chee
+River: 5d
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, Ad Jd
+Combination: Chee, Pair ( Jd Jc Ad Kc Ts )
+Shows: Binhiloe, Qh Js
+Combination: Binhiloe, Pair ( Js Jc Kc Qh Ts )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: Qh 7h 3h
+Checks: Binhiloe
+Checks: Chee
+Turn: 9h
+Checks: Binhiloe
+Checks: Chee
+River: Js
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, Qs 3s
+Combination: Chee, Two Pair ( Qs Qh 3s 3h Js )
+Shows: Binhiloe, 2c 2d
+Combination: Binhiloe, Pair ( 2c 2d Qh Js 9h )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: Kd 5c 4h
+Checks: Binhiloe
+Checks: Chee
+Turn: Ks
+Checks: Binhiloe
+Checks: Chee
+River: 6h
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, Jc 6c
+Combination: Chee, Two Pair ( Kd Ks 6c 6h Jc )
+Shows: Binhiloe, 4c Ah
+Combination: Binhiloe, Two Pair ( Kd Ks 4c 4h Ah )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 5h Jh Ks
+Checks: Binhiloe
+Checks: Chee
+Turn: 9d
+Checks: Binhiloe
+Checks: Chee
+River: 7d
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 3d Qc
+Combination: Chee, High Card ( Ks Qc Jh 9d 7d )
+Shows: Binhiloe, 6s Ac
+Combination: Binhiloe, High Card ( Ac Ks Jh 9d 7d )
+Wins: Binhiloe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 9d Ks Qs
+Checks: Binhiloe
+Checks: Chee
+Turn: 7c
+Checks: Binhiloe
+Checks: Chee
+River: Td
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, Qh 4d
+Combination: Chee, Pair ( Qh Qs Ks Td 9d )
+Shows: Binhiloe, 4c 9h
+Combination: Binhiloe, Pair ( 9h 9d Ks Qs Td )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 5c Th 7d
+Checks: Binhiloe
+Checks: Chee
+Turn: 2h
+Checks: Binhiloe
+Checks: Chee
+River: 8c
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, Ad 4s
+Combination: Chee, High Card ( Ad Th 8c 7d 5c )
+Shows: Binhiloe, Qd 4d
+Combination: Binhiloe, High Card ( Qd Th 8c 7d 5c )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 9c 3h Qs
+Checks: Binhiloe
+Checks: Chee
+Turn: 8h
+Checks: Binhiloe
+Checks: Chee
+River: Ts
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 2c Js
+Combination: Chee, Straight ( Qs Js Ts 9c 8h )
+Shows: Binhiloe, Qd 2d
+Combination: Binhiloe, Pair ( Qd Qs Ts 9c 8h )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 5
+Flop: Kd 4d Ts
+Turn: 9s
+River: Js
+Pot size: 10
+Showdown Reached
+Shows: Chee, 7c 8s
+Combination: Chee, Straight ( Js Ts 9s 8s 7c )
+Shows: Binhiloe, Tc 4h
+Combination: Binhiloe, Two Pair ( Tc Ts 4h 4d Kd )
+Wins: Chee, chips: 10
+Quits: Binhiloe, chips: 0
+Ranking: Chee, Place: 1, Score: 6000
+Reveal AI: Chee, AI: Call
+Ranking: Binhiloe, Place: 2, Score: -1000
+Reveal AI: Binhiloe, AI: AIMyBot1
+Ranking: Poefenhel, Place: 3, Score: -1000
+Reveal AI: Poefenhel, AI: Random
+Ranking: Rohoelee, Place: 4, Score: -1000
+Reveal AI: Rohoelee, AI: Smart
+Ranking: Lechut, Place: 5, Score: -1000
+Reveal AI: Lechut, AI: Smart
+Ranking: Joemel, Place: 6, Score: -1000
+Reveal AI: Joemel, AI: Random
+Ranking: Midep, Place: 7, Score: -1000
+Reveal AI: Midep, AI: Call
+
+Player Stats for Binhiloe, AI: AIMyBot1
+General: deals: 290, actions: 716, preflop actions: 289
+Rounds Seen: flops: 143, turns: 143, rivers: 143, showdowns: 142
+Wins: total: 60, showdown: 60, bluff: 0
+Chips: won: 1140, lost: 2140, bought: 1000, forced bets: 2140
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 0.993007, WSDW: 0.422535
+
+
+Player Stats for Chee, AI: Call
+General: deals: 290, actions: 596, preflop actions: 153
+Rounds Seen: flops: 149, turns: 149, rivers: 149, showdowns: 149
+Wins: total: 233, showdown: 92, bluff: 141
+Chips: won: 11270, lost: 5270, bought: 1000, forced bets: 2145
+Pre-Flop Stats: VP$IP: 0.510345, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: 0, WSD: 1, WSDW: 0.61745
+
+
+Player Stats for Joemel, AI: Random
+General: deals: 2, actions: 8, preflop actions: 5
+Rounds Seen: flops: 149, turns: 149, rivers: 149, showdowns: 149
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 5
+Pre-Flop Stats: VP$IP: 1, PFR: 1, 3Bet: 1
+Post-Flop Stats: AF: 1.#INF, WSD: 1, WSDW: 0
+
+
+Player Stats for Lechut, AI: Smart
+General: deals: 2, actions: 5, preflop actions: 5
+Rounds Seen: flops: 148, turns: 148, rivers: 148, showdowns: 148
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 0
+Pre-Flop Stats: VP$IP: 0.5, PFR: 0.5, 3Bet: 0.5
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Midep, AI: Call
+General: deals: 2, actions: 10, preflop actions: 7
+Rounds Seen: flops: 149, turns: 149, rivers: 149, showdowns: 149
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1235, bought: 1000, forced bets: 0
+Pre-Flop Stats: VP$IP: 1, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: 0, WSD: 1, WSDW: 0
+
+
+Player Stats for Poefenhel, AI: Random
+General: deals: 8, actions: 31, preflop actions: 12
+Rounds Seen: flops: 147, turns: 147, rivers: 147, showdowns: 147
+Wins: total: 2, showdown: 2, bluff: 0
+Chips: won: 75, lost: 2040, bought: 1000, forced bets: 30
+Pre-Flop Stats: VP$IP: 0.875, PFR: 0.375, 3Bet: 0.375
+Post-Flop Stats: AF: 1.5, WSD: 1, WSDW: 0.0136054
+
+
+Player Stats for Rohoelee, AI: Smart
+General: deals: 8, actions: 17, preflop actions: 9
+Rounds Seen: flops: 143, turns: 143, rivers: 143, showdowns: 143
+Wins: total: 1, showdown: 1, bluff: 0
+Chips: won: 125, lost: 1125, bought: 1000, forced bets: 25
+Pre-Flop Stats: VP$IP: 0.125, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: 4, WSD: 1, WSDW: 0.00699301
+
+
+Date: 2026/04/30 12:53:18
+
+The game begins. The AI's of the players are: 
+Midep: Call
+Rohoelee: Smart
+Joemel: Random
+Poefenhel: Random
+Chee: Call
+Lechut: Smart
+Binhiloe: AIMyBot1
+
+Joins: Midep, chips: 1000
+Joins: Rohoelee, chips: 1000
+Joins: Joemel, chips: 1000
+Joins: Poefenhel, chips: 1000
+Joins: Chee, chips: 1000
+Joins: Lechut, chips: 1000
+Joins: Binhiloe, chips: 1000
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Rohoelee
+Small Blind: Joemel, chips: 5
+Big Blind: Poefenhel, chips: 10
+Calls: Chee
+Folds: Lechut
+Folds: Binhiloe
+Calls: Midep
+Folds: Rohoelee
+Raises: Joemel, chips: 15
+Raises: Poefenhel, chips: 30
+Calls: Chee
+Calls: Midep
+Raises: Joemel, chips: 60
+Folds: Poefenhel
+Calls: Chee
+Calls: Midep
+Flop: 2s Kh 2c
+Raises: Joemel, chips: 60
+Calls: Chee
+Calls: Midep
+Turn: Tc
+Checks: Joemel
+Checks: Chee
+Checks: Midep
+River: 8s
+Raises: Joemel, chips: 60
+Calls: Chee
+Calls: Midep
+Pot size: 760
+Showdown Reached
+Shows: Midep, Jc Ah
+Combination: Midep, Pair ( 2s 2c Ah Kh Jc )
+Shows: Joemel, 3h 6h
+Combination: Joemel, Pair ( 2s 2c Kh Tc 8s )
+Boasts: Poefenhel, 9h 8h
+Shows: Chee, 6s Ks
+Combination: Chee, Two Pair ( Ks Kh 2s 2c Tc )
+Wins: Chee, chips: 760
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Joemel
+Small Blind: Poefenhel, chips: 5
+Big Blind: Chee, chips: 10
+Calls: Lechut
+Folds: Binhiloe
+Calls: Midep
+Calls: Rohoelee
+Raises: Joemel, chips: 20
+Raises: Poefenhel, chips: 45
+Calls: Chee
+Raises: Lechut, chips: 55
+Calls: Midep
+Folds: Rohoelee
+Raises: Joemel, chips: 155
+Calls: Poefenhel
+Calls: Chee
+Raises: Lechut, chips: 205
+Calls: Midep
+Raises: Joemel, chips: 275
+Calls: Poefenhel
+Calls: Chee
+Raises: Lechut, chips: 235
+Calls: Midep
+Folds: Poefenhel
+Calls: Chee
+Flop: 3c 5d Qh
+Turn: 4d
+River: 2d
+Pot size: 4305
+Showdown Reached
+Shows: Midep, 3h Jh
+Combination: Midep, Pair ( 3h 3c Qh Jh 5d )
+Shows: Joemel, 6c Kd
+Combination: Joemel, Straight ( 6c 5d 4d 3c 2d )
+Boasts: Poefenhel, 2s 9d
+Shows: Chee, Jd 8d
+Combination: Chee, Flush ( Jd 8d 5d 4d 2d )
+Shows: Lechut, Ts 9s
+Combination: Lechut, High Card ( Qh Ts 9s 5d 4d )
+Wins: Chee, chips: 4305
+Quits: Midep, chips: 0
+Quits: Joemel, chips: 0
+Quits: Lechut, chips: 0
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poefenhel
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Folds: Rohoelee
+Calls: Poefenhel
+Calls: Chee
+Checks: Binhiloe
+Flop: 7s 2c Qd
+Checks: Chee
+Checks: Binhiloe
+Checks: Poefenhel
+Turn: Kc
+Checks: Chee
+Checks: Binhiloe
+Checks: Poefenhel
+River: Ac
+Checks: Chee
+Checks: Binhiloe
+Checks: Poefenhel
+Pot size: 30
+Showdown Reached
+Shows: Poefenhel, Js 9s
+Combination: Poefenhel, High Card ( Ac Kc Qd Js 9s )
+Shows: Chee, Qh Ks
+Combination: Chee, Two Pair ( Ks Kc Qh Qd Ac )
+Shows: Binhiloe, 4h 2s
+Combination: Binhiloe, Pair ( 2s 2c Ac Kc Qd )
+Wins: Chee, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Binhiloe, chips: 5
+Big Blind: Rohoelee, chips: 10
+Calls: Poefenhel
+Calls: Chee
+Folds: Binhiloe
+Checks: Rohoelee
+Flop: 6s 7c 6d
+Checks: Rohoelee
+Raises: Poefenhel, chips: 10
+Calls: Chee
+Calls: Rohoelee
+Turn: 3s
+Raises: Rohoelee, chips: 10
+Calls: Poefenhel
+Calls: Chee
+River: Kh
+Raises: Rohoelee, chips: 10
+Calls: Poefenhel
+Calls: Chee
+Pot size: 125
+Showdown Reached
+Shows: Rohoelee, 8c 6c
+Combination: Rohoelee, Three Of A Kind ( 6c 6s 6d Kh 8c )
+Shows: Poefenhel, Qs Ts
+Combination: Poefenhel, Pair ( 6s 6d Kh Qs Ts )
+Shows: Chee, 5c Tc
+Combination: Chee, Pair ( 6s 6d Kh Tc 7c )
+Wins: Rohoelee, chips: 125
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Rohoelee, chips: 5
+Big Blind: Poefenhel, chips: 10
+Calls: Chee
+Folds: Binhiloe
+Folds: Rohoelee
+Checks: Poefenhel
+Flop: 5h 4s 9d
+Checks: Poefenhel
+Checks: Chee
+Turn: 5c
+Checks: Poefenhel
+Checks: Chee
+River: 8s
+Checks: Poefenhel
+Checks: Chee
+Pot size: 25
+Showdown Reached
+Shows: Poefenhel, 3h 8h
+Combination: Poefenhel, Two Pair ( 8h 8s 5h 5c 9d )
+Shows: Chee, Qh 7c
+Combination: Chee, Pair ( 5h 5c Qh 9d 8s )
+Wins: Poefenhel, chips: 25
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Rohoelee
+Small Blind: Poefenhel, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Folds: Rohoelee
+Raises: Poefenhel, chips: 15
+Calls: Chee
+Flop: Jh 8s 2s
+Raises: Poefenhel, chips: 15
+Calls: Chee
+Turn: 7d
+Raises: Poefenhel, chips: 15
+Calls: Chee
+River: 6s
+Raises: Poefenhel, chips: 15
+Calls: Chee
+Pot size: 140
+Showdown Reached
+Shows: Poefenhel, Td 4h
+Combination: Poefenhel, High Card ( Jh Td 8s 7d 6s )
+Shows: Chee, 8c Ah
+Combination: Chee, Pair ( 8c 8s Ah Jh 7d )
+Wins: Chee, chips: 140
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poefenhel
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Folds: Rohoelee
+Calls: Poefenhel
+Calls: Chee
+Checks: Binhiloe
+Flop: 8h Kd 3s
+Checks: Chee
+Checks: Binhiloe
+Checks: Poefenhel
+Turn: 6d
+Checks: Chee
+Checks: Binhiloe
+Checks: Poefenhel
+River: 8d
+Checks: Chee
+Checks: Binhiloe
+Raises: Poefenhel, chips: 10
+Calls: Chee
+Folds: Binhiloe
+Pot size: 50
+Showdown Reached
+Shows: Poefenhel, Th 3d
+Combination: Poefenhel, Two Pair ( 8h 8d 3d 3s Kd )
+Shows: Chee, Ts 4c
+Combination: Chee, Pair ( 8h 8d Kd Ts 6d )
+Wins: Poefenhel, chips: 50
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Binhiloe, chips: 5
+Big Blind: Rohoelee, chips: 10
+Calls: Poefenhel
+Calls: Chee
+Folds: Binhiloe
+Checks: Rohoelee
+Flop: Jh As 7s
+Checks: Rohoelee
+Raises: Poefenhel, chips: 10
+Calls: Chee
+Raises: Rohoelee, chips: 20
+Calls: Poefenhel
+Calls: Chee
+Turn: Td
+Checks: Rohoelee
+Checks: Poefenhel
+Checks: Chee
+River: 6h
+Raises: Rohoelee, chips: 1030
+Calls: Poefenhel
+Calls: Chee
+Pot size: 2250
+Showdown Reached
+Shows: Rohoelee, Jd 7d
+Combination: Rohoelee, Two Pair ( Jd Jh 7d 7s As )
+Shows: Poefenhel, 6s Ac
+Combination: Poefenhel, Two Pair ( Ac As 6s 6h Jh )
+Shows: Chee, Kc Qh
+Combination: Chee, Straight ( As Kc Qh Jh Td )
+Wins: Chee, chips: 2250
+Quits: Rohoelee, chips: 0
+Quits: Poefenhel, chips: 0
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 2d Ad 3d
+Checks: Binhiloe
+Checks: Chee
+Turn: Th
+Checks: Binhiloe
+Checks: Chee
+River: Qh
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 3s 5d
+Combination: Chee, Pair ( 3s 3d Ad Qh Th )
+Shows: Binhiloe, Jd 4c
+Combination: Binhiloe, High Card ( Ad Qh Jd Th 4c )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: Ts 6d 9d
+Checks: Binhiloe
+Checks: Chee
+Turn: 5d
+Checks: Binhiloe
+Checks: Chee
+River: 8s
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 5c Jd
+Combination: Chee, Pair ( 5c 5d Jd Ts 9d )
+Shows: Binhiloe, As 8h
+Combination: Binhiloe, Pair ( 8h 8s As Ts 9d )
+Wins: Binhiloe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 5c 9c Jc
+Checks: Binhiloe
+Checks: Chee
+Turn: 4c
+Checks: Binhiloe
+Checks: Chee
+River: 3d
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 2c Ah
+Combination: Chee, Flush ( Jc 9c 5c 4c 2c )
+Shows: Binhiloe, 7h Qc
+Combination: Binhiloe, Flush ( Qc Jc 9c 5c 4c )
+Wins: Binhiloe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: Qd 7s 3c
+Checks: Binhiloe
+Checks: Chee
+Turn: 5d
+Checks: Binhiloe
+Checks: Chee
+River: Qc
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, Jd 8s
+Combination: Chee, Pair ( Qd Qc Jd 8s 7s )
+Shows: Binhiloe, 8h Qh
+Combination: Binhiloe, Three Of A Kind ( Qh Qd Qc 8h 7s )
+Wins: Binhiloe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 6d As Kc
+Checks: Binhiloe
+Checks: Chee
+Turn: 8s
+Checks: Binhiloe
+Checks: Chee
+River: Kh
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 3c 6s
+Combination: Chee, Two Pair ( Kc Kh 6s 6d As )
+Shows: Binhiloe, Qs Ts
+Combination: Binhiloe, Pair ( Kc Kh As Qs Ts )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: Qh 6s 6c
+Checks: Binhiloe
+Checks: Chee
+Turn: As
+Checks: Binhiloe
+Checks: Chee
+River: 2h
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, Ks 3s
+Combination: Chee, Pair ( 6s 6c As Ks Qh )
+Shows: Binhiloe, Js 4s
+Combination: Binhiloe, Pair ( 6s 6c As Qh Js )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: Qd 3d 9c
+Checks: Binhiloe
+Checks: Chee
+Turn: Ts
+Checks: Binhiloe
+Checks: Chee
+River: 7h
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, Td Qc
+Combination: Chee, Two Pair ( Qc Qd Td Ts 9c )
+Shows: Binhiloe, Ah 9s
+Combination: Binhiloe, Pair ( 9s 9c Ah Qd Ts )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 8d Td Kd
+Checks: Binhiloe
+Checks: Chee
+Turn: Qs
+Checks: Binhiloe
+Checks: Chee
+River: 9s
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 9c 6c
+Combination: Chee, Pair ( 9c 9s Kd Qs Td )
+Shows: Binhiloe, 7d 4d
+Combination: Binhiloe, Flush ( Kd Td 8d 7d 4d )
+Wins: Binhiloe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 4s 7s Qs
+Checks: Binhiloe
+Checks: Chee
+Turn: Td
+Checks: Binhiloe
+Checks: Chee
+River: 9h
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 7d Kh
+Combination: Chee, Pair ( 7d 7s Kh Qs Td )
+Shows: Binhiloe, 3h Ks
+Combination: Binhiloe, High Card ( Ks Qs Td 9h 7s )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: Js 7s Ah
+Checks: Binhiloe
+Checks: Chee
+Turn: Kd
+Checks: Binhiloe
+Checks: Chee
+River: 6s
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, Qc 3c
+Combination: Chee, High Card ( Ah Kd Qc Js 7s )
+Shows: Binhiloe, Ts 9d
+Combination: Binhiloe, High Card ( Ah Kd Js Ts 9d )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: Jd Kh 4d
+Checks: Binhiloe
+Checks: Chee
+Turn: 5h
+Checks: Binhiloe
+Checks: Chee
+River: Jh
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 6d 3h
+Combination: Chee, Pair ( Jd Jh Kh 6d 5h )
+Shows: Binhiloe, 7c Ah
+Combination: Binhiloe, Pair ( Jd Jh Ah Kh 7c )
+Wins: Binhiloe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 3h As 5h
+Checks: Binhiloe
+Checks: Chee
+Turn: 5c
+Checks: Binhiloe
+Checks: Chee
+River: 7h
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, Ah 9h
+Combination: Chee, Flush ( Ah 9h 7h 5h 3h )
+Shows: Binhiloe, Td 8h
+Combination: Binhiloe, Pair ( 5h 5c As Td 8h )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 5h 2d Ah
+Checks: Binhiloe
+Checks: Chee
+Turn: Qs
+Checks: Binhiloe
+Checks: Chee
+River: Tc
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 4c Qc
+Combination: Chee, Pair ( Qc Qs Ah Tc 5h )
+Shows: Binhiloe, As 7s
+Combination: Binhiloe, Pair ( As Ah Qs Tc 7s )
+Wins: Binhiloe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: Qd Ah 2c
+Checks: Binhiloe
+Checks: Chee
+Turn: 6c
+Checks: Binhiloe
+Checks: Chee
+River: 8s
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 7s 9c
+Combination: Chee, High Card ( Ah Qd 9c 8s 7s )
+Shows: Binhiloe, 9s 7h
+Combination: Binhiloe, High Card ( Ah Qd 9s 8s 7h )
+Wins: Chee, chips: 10
+Wins: Binhiloe, chips: 10
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 4h 5d 4d
+Checks: Binhiloe
+Checks: Chee
+Turn: 6s
+Checks: Binhiloe
+Checks: Chee
+River: 5c
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, Ac Qc
+Combination: Chee, Two Pair ( 5d 5c 4h 4d Ac )
+Shows: Binhiloe, 3d Ts
+Combination: Binhiloe, Two Pair ( 5d 5c 4h 4d Ts )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: Kc 9c Ks
+Checks: Binhiloe
+Checks: Chee
+Turn: 6d
+Checks: Binhiloe
+Checks: Chee
+River: Ts
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 6c 3s
+Combination: Chee, Two Pair ( Kc Ks 6c 6d Ts )
+Shows: Binhiloe, 5s 2d
+Combination: Binhiloe, Pair ( Kc Ks Ts 9c 6d )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 9h Ah 5s
+Checks: Binhiloe
+Checks: Chee
+Turn: 7d
+Checks: Binhiloe
+Checks: Chee
+River: Td
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, Th Ad
+Combination: Chee, Two Pair ( Ad Ah Th Td 9h )
+Shows: Binhiloe, 3c 6d
+Combination: Binhiloe, High Card ( Ah Td 9h 7d 6d )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 7d 7h Td
+Checks: Binhiloe
+Checks: Chee
+Turn: 5h
+Checks: Binhiloe
+Checks: Chee
+River: Kh
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 8d 9d
+Combination: Chee, Pair ( 7d 7h Kh Td 9d )
+Shows: Binhiloe, 4s 4h
+Combination: Binhiloe, Two Pair ( 7d 7h 4s 4h Kh )
+Wins: Binhiloe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: Jh 9c 9d
+Checks: Binhiloe
+Checks: Chee
+Turn: Qc
+Checks: Binhiloe
+Checks: Chee
+River: Jd
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 5h 4h
+Combination: Chee, Two Pair ( Jh Jd 9c 9d Qc )
+Shows: Binhiloe, 7h 6h
+Combination: Binhiloe, Two Pair ( Jh Jd 9c 9d Qc )
+Wins: Chee, chips: 10
+Wins: Binhiloe, chips: 10
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: Js 9s Jc
+Checks: Binhiloe
+Checks: Chee
+Turn: 9h
+Checks: Binhiloe
+Checks: Chee
+River: 2d
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 7c 8s
+Combination: Chee, Two Pair ( Js Jc 9s 9h 8s )
+Shows: Binhiloe, 6h Ac
+Combination: Binhiloe, Two Pair ( Js Jc 9s 9h Ac )
+Wins: Binhiloe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: Js 2c 4d
+Checks: Binhiloe
+Checks: Chee
+Turn: 8s
+Checks: Binhiloe
+Checks: Chee
+River: 9h
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 8c 5c
+Combination: Chee, Pair ( 8c 8s Js 9h 5c )
+Shows: Binhiloe, 6h Kh
+Combination: Binhiloe, High Card ( Kh Js 9h 8s 6h )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 4h Kh 2c
+Checks: Binhiloe
+Checks: Chee
+Turn: Ac
+Checks: Binhiloe
+Checks: Chee
+River: 8h
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, Ah 5c
+Combination: Chee, Pair ( Ah Ac Kh 8h 5c )
+Shows: Binhiloe, 7h 3d
+Combination: Binhiloe, High Card ( Ac Kh 8h 7h 4h )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 5c 9c 8c
+Checks: Binhiloe
+Checks: Chee
+Turn: 8s
+Checks: Binhiloe
+Checks: Chee
+River: 5d
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 9s 4s
+Combination: Chee, Two Pair ( 9s 9c 8c 8s 5c )
+Shows: Binhiloe, Qs 2d
+Combination: Binhiloe, Two Pair ( 8c 8s 5c 5d Qs )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: Ks Ac 4d
+Checks: Binhiloe
+Checks: Chee
+Turn: As
+Checks: Binhiloe
+Checks: Chee
+River: Jc
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, Tc Jh
+Combination: Chee, Two Pair ( Ac As Jh Jc Ks )
+Shows: Binhiloe, 9h 9d
+Combination: Binhiloe, Two Pair ( Ac As 9h 9d Ks )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 7d 5s Jd
+Checks: Binhiloe
+Checks: Chee
+Turn: Ac
+Checks: Binhiloe
+Checks: Chee
+River: 6d
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 4s 8h
+Combination: Chee, Straight ( 8h 7d 6d 5s 4s )
+Shows: Binhiloe, Jc 9s
+Combination: Binhiloe, Pair ( Jc Jd Ac 9s 7d )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: Qh 7c Jh
+Checks: Binhiloe
+Checks: Chee
+Turn: Ts
+Checks: Binhiloe
+Checks: Chee
+River: Kd
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 8s 7d
+Combination: Chee, Pair ( 7d 7c Kd Qh Jh )
+Shows: Binhiloe, 3h Js
+Combination: Binhiloe, Pair ( Js Jh Kd Qh Ts )
+Wins: Binhiloe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 6s 4s 6h
+Checks: Binhiloe
+Checks: Chee
+Turn: Kd
+Checks: Binhiloe
+Checks: Chee
+River: 4h
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, Kh 5h
+Combination: Chee, Two Pair ( Kh Kd 6s 6h 5h )
+Shows: Binhiloe, Js 3h
+Combination: Binhiloe, Two Pair ( 6s 6h 4s 4h Kd )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 8h Ah 5h
+Checks: Binhiloe
+Checks: Chee
+Turn: 7d
+Checks: Binhiloe
+Checks: Chee
+River: 9d
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 6c 6h
+Combination: Chee, Straight ( 9d 8h 7d 6c 5h )
+Shows: Binhiloe, 9s 9c
+Combination: Binhiloe, Three Of A Kind ( 9s 9c 9d Ah 8h )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 5d 9s Ts
+Checks: Binhiloe
+Checks: Chee
+Turn: 6s
+Checks: Binhiloe
+Checks: Chee
+River: 4s
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, Ks 3c
+Combination: Chee, Flush ( Ks Ts 9s 6s 4s )
+Shows: Binhiloe, Jd Jc
+Combination: Binhiloe, Pair ( Jd Jc Ts 9s 6s )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 9d Td Tc
+Checks: Binhiloe
+Checks: Chee
+Turn: 9c
+Checks: Binhiloe
+Checks: Chee
+River: Th
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 2h 8s
+Combination: Chee, Full House ( Td Tc Th 9d 9c )
+Shows: Binhiloe, 9s 8d
+Combination: Binhiloe, Full House ( Td Tc Th 9s 9d )
+Wins: Chee, chips: 10
+Wins: Binhiloe, chips: 10
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: Jd Jh 2c
+Checks: Binhiloe
+Checks: Chee
+Turn: 6h
+Checks: Binhiloe
+Checks: Chee
+River: 3d
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, Ad 6s
+Combination: Chee, Two Pair ( Jd Jh 6s 6h Ad )
+Shows: Binhiloe, 9d Ac
+Combination: Binhiloe, Pair ( Jd Jh Ac 9d 6h )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: Qd 7s 2c
+Checks: Binhiloe
+Checks: Chee
+Turn: 7c
+Checks: Binhiloe
+Checks: Chee
+River: 3s
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, Jc 2s
+Combination: Chee, Two Pair ( 7s 7c 2s 2c Qd )
+Shows: Binhiloe, Ks As
+Combination: Binhiloe, Pair ( 7s 7c As Ks Qd )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 8c 9s Ah
+Checks: Binhiloe
+Checks: Chee
+Turn: 6h
+Checks: Binhiloe
+Checks: Chee
+River: 5h
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 4c 9h
+Combination: Chee, Pair ( 9h 9s Ah 8c 6h )
+Shows: Binhiloe, Th 4h
+Combination: Binhiloe, Flush ( Ah Th 6h 5h 4h )
+Wins: Binhiloe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 9d Th 6s
+Checks: Binhiloe
+Checks: Chee
+Turn: Ac
+Checks: Binhiloe
+Checks: Chee
+River: 7h
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 2s 9c
+Combination: Chee, Pair ( 9c 9d Ac Th 7h )
+Shows: Binhiloe, Tc Qc
+Combination: Binhiloe, Pair ( Tc Th Ac Qc 9d )
+Wins: Binhiloe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 2s Tc 6s
+Checks: Binhiloe
+Checks: Chee
+Turn: Qc
+Checks: Binhiloe
+Checks: Chee
+River: 7c
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 5h Td
+Combination: Chee, Pair ( Td Tc Qc 7c 6s )
+Shows: Binhiloe, 6c Jh
+Combination: Binhiloe, Pair ( 6c 6s Qc Jh Tc )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: Kd Kc 7c
+Checks: Binhiloe
+Checks: Chee
+Turn: 5c
+Checks: Binhiloe
+Checks: Chee
+River: 2s
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 4s 4h
+Combination: Chee, Two Pair ( Kd Kc 4s 4h 7c )
+Shows: Binhiloe, 7s 7h
+Combination: Binhiloe, Full House ( 7s 7h 7c Kd Kc )
+Wins: Binhiloe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 6h 2c 9d
+Checks: Binhiloe
+Checks: Chee
+Turn: 5s
+Checks: Binhiloe
+Checks: Chee
+River: 6c
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, Jc Js
+Combination: Chee, Two Pair ( Jc Js 6h 6c 9d )
+Shows: Binhiloe, 4c 3s
+Combination: Binhiloe, Straight ( 6h 5s 4c 3s 2c )
+Wins: Binhiloe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: Qd As 5c
+Checks: Binhiloe
+Checks: Chee
+Turn: 2c
+Checks: Binhiloe
+Checks: Chee
+River: Ad
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 6c 2d
+Combination: Chee, Two Pair ( As Ad 2d 2c Qd )
+Shows: Binhiloe, 4h 5s
+Combination: Binhiloe, Two Pair ( As Ad 5s 5c Qd )
+Wins: Binhiloe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: Ks 9d As
+Checks: Binhiloe
+Checks: Chee
+Turn: 2c
+Checks: Binhiloe
+Checks: Chee
+River: Tc
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 6d Jd
+Combination: Chee, High Card ( As Ks Jd Tc 9d )
+Shows: Binhiloe, Td 5c
+Combination: Binhiloe, Pair ( Td Tc As Ks 9d )
+Wins: Binhiloe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 6s 3s Ts
+Checks: Binhiloe
+Checks: Chee
+Turn: Tc
+Checks: Binhiloe
+Checks: Chee
+River: 9h
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, Ad Td
+Combination: Chee, Three Of A Kind ( Td Ts Tc Ad 9h )
+Shows: Binhiloe, 2c 7c
+Combination: Binhiloe, Pair ( Ts Tc 9h 7c 6s )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: As 7d Qs
+Checks: Binhiloe
+Checks: Chee
+Turn: 9d
+Checks: Binhiloe
+Checks: Chee
+River: 9h
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, Ts Ah
+Combination: Chee, Two Pair ( Ah As 9d 9h Qs )
+Shows: Binhiloe, 2c 6c
+Combination: Binhiloe, Pair ( 9d 9h As Qs 7d )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 9h 5h Ks
+Checks: Binhiloe
+Checks: Chee
+Turn: 4s
+Checks: Binhiloe
+Checks: Chee
+River: Ac
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 8c Jh
+Combination: Chee, High Card ( Ac Ks Jh 9h 8c )
+Shows: Binhiloe, 8h 2d
+Combination: Binhiloe, High Card ( Ac Ks 9h 8h 5h )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 8d Ad Jc
+Checks: Binhiloe
+Checks: Chee
+Turn: Ts
+Checks: Binhiloe
+Checks: Chee
+River: 8s
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 5d 4h
+Combination: Chee, Pair ( 8d 8s Ad Jc Ts )
+Shows: Binhiloe, Jh 4c
+Combination: Binhiloe, Two Pair ( Jh Jc 8d 8s Ad )
+Wins: Binhiloe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 4s Jh Jd
+Checks: Binhiloe
+Checks: Chee
+Turn: 7c
+Checks: Binhiloe
+Checks: Chee
+River: 5d
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 7s Qc
+Combination: Chee, Two Pair ( Jh Jd 7s 7c Qc )
+Shows: Binhiloe, 9h 8c
+Combination: Binhiloe, Pair ( Jh Jd 9h 8c 7c )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 3d 8h Qd
+Checks: Binhiloe
+Checks: Chee
+Turn: 6c
+Checks: Binhiloe
+Checks: Chee
+River: 9c
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 2c Tc
+Combination: Chee, High Card ( Qd Tc 9c 8h 6c )
+Shows: Binhiloe, Ad 2h
+Combination: Binhiloe, High Card ( Ad Qd 9c 8h 6c )
+Wins: Binhiloe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 4h Ks Qs
+Checks: Binhiloe
+Checks: Chee
+Turn: As
+Checks: Binhiloe
+Checks: Chee
+River: Ad
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, Js 5h
+Combination: Chee, Pair ( As Ad Ks Qs Js )
+Shows: Binhiloe, 8d 2h
+Combination: Binhiloe, Pair ( As Ad Ks Qs 8d )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 6h Kc 7s
+Checks: Binhiloe
+Checks: Chee
+Turn: 4s
+Checks: Binhiloe
+Checks: Chee
+River: 4d
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 9s Qc
+Combination: Chee, Pair ( 4s 4d Kc Qc 9s )
+Shows: Binhiloe, 8c Kh
+Combination: Binhiloe, Two Pair ( Kh Kc 4s 4d 8c )
+Wins: Binhiloe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 7c 6d Tc
+Checks: Binhiloe
+Checks: Chee
+Turn: Th
+Checks: Binhiloe
+Checks: Chee
+River: 3s
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, Td 5c
+Combination: Chee, Three Of A Kind ( Td Tc Th 7c 6d )
+Shows: Binhiloe, Jc Qd
+Combination: Binhiloe, Pair ( Tc Th Qd Jc 7c )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: Qh Qd Kd
+Checks: Binhiloe
+Checks: Chee
+Turn: 7d
+Checks: Binhiloe
+Checks: Chee
+River: 3h
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 9h 3s
+Combination: Chee, Two Pair ( Qh Qd 3s 3h Kd )
+Shows: Binhiloe, Js 5c
+Combination: Binhiloe, Pair ( Qh Qd Kd Js 7d )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 8d 9d 3h
+Checks: Binhiloe
+Checks: Chee
+Turn: 8s
+Checks: Binhiloe
+Checks: Chee
+River: 7d
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, Tc Ah
+Combination: Chee, Pair ( 8d 8s Ah Tc 9d )
+Shows: Binhiloe, Th Qh
+Combination: Binhiloe, Pair ( 8d 8s Qh Th 9d )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 3c 7h Jh
+Checks: Binhiloe
+Checks: Chee
+Turn: 5h
+Checks: Binhiloe
+Checks: Chee
+River: 8s
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 9h 8c
+Combination: Chee, Pair ( 8c 8s Jh 9h 7h )
+Shows: Binhiloe, 8d 6h
+Combination: Binhiloe, Pair ( 8d 8s Jh 7h 6h )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: Jc 3d 7c
+Checks: Binhiloe
+Checks: Chee
+Turn: Kc
+Checks: Binhiloe
+Checks: Chee
+River: 4s
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 9s 4c
+Combination: Chee, Pair ( 4c 4s Kc Jc 9s )
+Shows: Binhiloe, 8c Qd
+Combination: Binhiloe, High Card ( Kc Qd Jc 8c 7c )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: Kc 4c Kh
+Checks: Binhiloe
+Checks: Chee
+Turn: 2d
+Checks: Binhiloe
+Checks: Chee
+River: 2s
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 8d 8s
+Combination: Chee, Two Pair ( Kc Kh 8d 8s 4c )
+Shows: Binhiloe, 7h 2c
+Combination: Binhiloe, Full House ( 2c 2d 2s Kc Kh )
+Wins: Binhiloe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: Ks 5s 8d
+Checks: Binhiloe
+Checks: Chee
+Turn: Jc
+Checks: Binhiloe
+Checks: Chee
+River: 8h
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 9d Kh
+Combination: Chee, Two Pair ( Kh Ks 8d 8h Jc )
+Shows: Binhiloe, 6s Js
+Combination: Binhiloe, Two Pair ( Js Jc 8d 8h Ks )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: Ad 5s Ac
+Checks: Binhiloe
+Checks: Chee
+Turn: Js
+Checks: Binhiloe
+Checks: Chee
+River: 9c
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 7h Th
+Combination: Chee, Pair ( Ad Ac Js Th 9c )
+Shows: Binhiloe, 6h 7d
+Combination: Binhiloe, Pair ( Ad Ac Js 9c 7d )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 9d 8d Ts
+Checks: Binhiloe
+Checks: Chee
+Turn: 7c
+Checks: Binhiloe
+Checks: Chee
+River: 3h
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, Jh Js
+Combination: Chee, Straight ( Jh Ts 9d 8d 7c )
+Shows: Binhiloe, 3c 7h
+Combination: Binhiloe, Two Pair ( 7h 7c 3c 3h Ts )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: Td 8s Th
+Checks: Binhiloe
+Checks: Chee
+Turn: Qs
+Checks: Binhiloe
+Checks: Chee
+River: Kh
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, Jd 9d
+Combination: Chee, Straight ( Kh Qs Jd Td 9d )
+Shows: Binhiloe, 2s 3s
+Combination: Binhiloe, Pair ( Td Th Kh Qs 8s )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 3s 6c Tc
+Checks: Binhiloe
+Checks: Chee
+Turn: 7c
+Checks: Binhiloe
+Checks: Chee
+River: 5c
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 4c Js
+Combination: Chee, Flush ( Tc 7c 6c 5c 4c )
+Shows: Binhiloe, Jh Th
+Combination: Binhiloe, Pair ( Th Tc Jh 7c 6c )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: Js 9c 4d
+Checks: Binhiloe
+Checks: Chee
+Turn: 3s
+Checks: Binhiloe
+Checks: Chee
+River: Ah
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, Ts 6c
+Combination: Chee, High Card ( Ah Js Ts 9c 6c )
+Shows: Binhiloe, 7c 4s
+Combination: Binhiloe, Pair ( 4s 4d Ah Js 9c )
+Wins: Binhiloe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: Jh 2s 4h
+Checks: Binhiloe
+Checks: Chee
+Turn: 6s
+Checks: Binhiloe
+Checks: Chee
+River: Qd
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 3c Kh
+Combination: Chee, High Card ( Kh Qd Jh 6s 4h )
+Shows: Binhiloe, Js Kd
+Combination: Binhiloe, Pair ( Js Jh Kd Qd 6s )
+Wins: Binhiloe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: Ks Qc Kc
+Checks: Binhiloe
+Checks: Chee
+Turn: Ah
+Checks: Binhiloe
+Checks: Chee
+River: Ac
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, Js 3c
+Combination: Chee, Two Pair ( Ah Ac Ks Kc Qc )
+Shows: Binhiloe, 8c 2d
+Combination: Binhiloe, Two Pair ( Ah Ac Ks Kc Qc )
+Wins: Chee, chips: 10
+Wins: Binhiloe, chips: 10
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: Ts Qs 3h
+Checks: Binhiloe
+Checks: Chee
+Turn: 2c
+Checks: Binhiloe
+Checks: Chee
+River: 9c
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, Jd 6h
+Combination: Chee, High Card ( Qs Jd Ts 9c 6h )
+Shows: Binhiloe, 7h 4h
+Combination: Binhiloe, High Card ( Qs Ts 9c 7h 4h )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 3c 9c 8c
+Checks: Binhiloe
+Checks: Chee
+Turn: 9d
+Checks: Binhiloe
+Checks: Chee
+River: 5h
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, Ac Kh
+Combination: Chee, Pair ( 9c 9d Ac Kh 8c )
+Shows: Binhiloe, 2d As
+Combination: Binhiloe, Pair ( 9c 9d As 8c 5h )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: Th 8s Kc
+Checks: Binhiloe
+Checks: Chee
+Turn: 4h
+Checks: Binhiloe
+Checks: Chee
+River: Ah
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 4s 4c
+Combination: Chee, Three Of A Kind ( 4s 4c 4h Ah Kc )
+Shows: Binhiloe, Ks 3d
+Combination: Binhiloe, Pair ( Ks Kc Ah Th 8s )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: Jc 5c 6c
+Checks: Binhiloe
+Checks: Chee
+Turn: 8s
+Checks: Binhiloe
+Checks: Chee
+River: Ac
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, Qc 5d
+Combination: Chee, Flush ( Ac Qc Jc 6c 5c )
+Shows: Binhiloe, Ad Kh
+Combination: Binhiloe, Pair ( Ad Ac Kh Jc 8s )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 6h 4s 5c
+Checks: Binhiloe
+Checks: Chee
+Turn: 3h
+Checks: Binhiloe
+Checks: Chee
+River: 9h
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 4h 7h
+Combination: Chee, Flush ( 9h 7h 6h 4h 3h )
+Shows: Binhiloe, 9d 8d
+Combination: Binhiloe, Pair ( 9d 9h 8d 6h 5c )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 8h 5h Qd
+Checks: Binhiloe
+Checks: Chee
+Turn: 4h
+Checks: Binhiloe
+Checks: Chee
+River: 7s
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 9h 8d
+Combination: Chee, Pair ( 8d 8h Qd 9h 7s )
+Shows: Binhiloe, Kc 6h
+Combination: Binhiloe, Straight ( 8h 7s 6h 5h 4h )
+Wins: Binhiloe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: Kh 7c 3c
+Checks: Binhiloe
+Checks: Chee
+Turn: 4h
+Checks: Binhiloe
+Checks: Chee
+River: Qh
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, Ac Kd
+Combination: Chee, Pair ( Kd Kh Ac Qh 7c )
+Shows: Binhiloe, Ts Jd
+Combination: Binhiloe, High Card ( Kh Qh Jd Ts 7c )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: Kh Ad 4s
+Checks: Binhiloe
+Checks: Chee
+Turn: 3h
+Checks: Binhiloe
+Checks: Chee
+River: Qh
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, Jd 4d
+Combination: Chee, Pair ( 4d 4s Ad Kh Qh )
+Shows: Binhiloe, Jh 8s
+Combination: Binhiloe, High Card ( Ad Kh Qh Jh 8s )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 4d 8c 7d
+Checks: Binhiloe
+Checks: Chee
+Turn: Ts
+Checks: Binhiloe
+Checks: Chee
+River: 2s
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, Td Tc
+Combination: Chee, Three Of A Kind ( Td Tc Ts 8c 7d )
+Shows: Binhiloe, 9d Jd
+Combination: Binhiloe, Straight ( Jd Ts 9d 8c 7d )
+Wins: Binhiloe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: Th As Qs
+Checks: Binhiloe
+Checks: Chee
+Turn: Kd
+Checks: Binhiloe
+Checks: Chee
+River: Kh
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, Td Qd
+Combination: Chee, Two Pair ( Kd Kh Qd Qs As )
+Shows: Binhiloe, 3d 2c
+Combination: Binhiloe, Pair ( Kd Kh As Qs Th )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 9d As Th
+Checks: Binhiloe
+Checks: Chee
+Turn: 9h
+Checks: Binhiloe
+Checks: Chee
+River: Js
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 9s 7c
+Combination: Chee, Three Of A Kind ( 9s 9d 9h As Js )
+Shows: Binhiloe, 7d Jh
+Combination: Binhiloe, Two Pair ( Jh Js 9d 9h As )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 7s 4d Kd
+Checks: Binhiloe
+Checks: Chee
+Turn: 6c
+Checks: Binhiloe
+Checks: Chee
+River: 3d
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 8d 3s
+Combination: Chee, Pair ( 3s 3d Kd 8d 7s )
+Shows: Binhiloe, Jh 3h
+Combination: Binhiloe, Pair ( 3h 3d Kd Jh 7s )
+Wins: Binhiloe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 8d 4c Ah
+Checks: Binhiloe
+Checks: Chee
+Turn: 9d
+Checks: Binhiloe
+Checks: Chee
+River: Qh
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 2s As
+Combination: Chee, Pair ( As Ah Qh 9d 8d )
+Shows: Binhiloe, 8s Ad
+Combination: Binhiloe, Two Pair ( Ad Ah 8s 8d Qh )
+Wins: Binhiloe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 8s 2h 2s
+Checks: Binhiloe
+Checks: Chee
+Turn: 6d
+Checks: Binhiloe
+Checks: Chee
+River: Jc
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 3s 4d
+Combination: Chee, Pair ( 2h 2s Jc 8s 6d )
+Shows: Binhiloe, Kc 8c
+Combination: Binhiloe, Two Pair ( 8c 8s 2h 2s Kc )
+Wins: Binhiloe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 8h Jc 9s
+Checks: Binhiloe
+Checks: Chee
+Turn: Qd
+Checks: Binhiloe
+Checks: Chee
+River: 5s
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 9d Ad
+Combination: Chee, Pair ( 9d 9s Ad Qd Jc )
+Shows: Binhiloe, Ac 6h
+Combination: Binhiloe, High Card ( Ac Qd Jc 9s 8h )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 2c 9s Kc
+Checks: Binhiloe
+Checks: Chee
+Turn: 5c
+Checks: Binhiloe
+Checks: Chee
+River: As
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 4h Jc
+Combination: Chee, High Card ( As Kc Jc 9s 5c )
+Shows: Binhiloe, 7h 6h
+Combination: Binhiloe, High Card ( As Kc 9s 7h 6h )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 8h 6d 5h
+Checks: Binhiloe
+Checks: Chee
+Turn: As
+Checks: Binhiloe
+Checks: Chee
+River: 2d
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 6s 7h
+Combination: Chee, Pair ( 6s 6d As 8h 7h )
+Shows: Binhiloe, 4h Tc
+Combination: Binhiloe, High Card ( As Tc 8h 6d 5h )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: Qs 9c 3c
+Checks: Binhiloe
+Checks: Chee
+Turn: Jc
+Checks: Binhiloe
+Checks: Chee
+River: Qc
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, Kc 2s
+Combination: Chee, Flush ( Kc Qc Jc 9c 3c )
+Shows: Binhiloe, 9d 5d
+Combination: Binhiloe, Two Pair ( Qs Qc 9d 9c Jc )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 6c 4h Ah
+Checks: Binhiloe
+Checks: Chee
+Turn: 9d
+Checks: Binhiloe
+Checks: Chee
+River: 7s
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 5c 6d
+Combination: Chee, Pair ( 6d 6c Ah 9d 7s )
+Shows: Binhiloe, Tc Ks
+Combination: Binhiloe, High Card ( Ah Ks Tc 9d 7s )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 4c 2c 7s
+Checks: Binhiloe
+Checks: Chee
+Turn: 8s
+Checks: Binhiloe
+Checks: Chee
+River: Tc
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, Qc Td
+Combination: Chee, Pair ( Td Tc Qc 8s 7s )
+Shows: Binhiloe, Ah 7d
+Combination: Binhiloe, Pair ( 7d 7s Ah Tc 8s )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: Kd 7h 8d
+Checks: Binhiloe
+Checks: Chee
+Turn: 4s
+Checks: Binhiloe
+Checks: Chee
+River: 9h
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, Qs 6s
+Combination: Chee, High Card ( Kd Qs 9h 8d 7h )
+Shows: Binhiloe, 4h As
+Combination: Binhiloe, Pair ( 4h 4s As Kd 9h )
+Wins: Binhiloe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 7d 8c As
+Checks: Binhiloe
+Checks: Chee
+Turn: Qs
+Checks: Binhiloe
+Checks: Chee
+River: 3s
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 8d 8s
+Combination: Chee, Three Of A Kind ( 8d 8s 8c As Qs )
+Shows: Binhiloe, Kh 5c
+Combination: Binhiloe, High Card ( As Kh Qs 8c 7d )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 5c 5h 8d
+Checks: Binhiloe
+Checks: Chee
+Turn: 7s
+Checks: Binhiloe
+Checks: Chee
+River: Ad
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, Jd 2h
+Combination: Chee, Pair ( 5c 5h Ad Jd 8d )
+Shows: Binhiloe, Th Ac
+Combination: Binhiloe, Two Pair ( Ac Ad 5c 5h Th )
+Wins: Binhiloe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 4d 4h Ts
+Checks: Binhiloe
+Checks: Chee
+Turn: 8s
+Checks: Binhiloe
+Checks: Chee
+River: 3c
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, Ah 7c
+Combination: Chee, Pair ( 4d 4h Ah Ts 8s )
+Shows: Binhiloe, 6h Jc
+Combination: Binhiloe, Pair ( 4d 4h Jc Ts 8s )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 5d 2s Qh
+Checks: Binhiloe
+Checks: Chee
+Turn: 4c
+Checks: Binhiloe
+Checks: Chee
+River: 9d
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 6c Ac
+Combination: Chee, High Card ( Ac Qh 9d 6c 5d )
+Shows: Binhiloe, Jd Ad
+Combination: Binhiloe, High Card ( Ad Qh Jd 9d 5d )
+Wins: Binhiloe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 8s 8d Tc
+Checks: Binhiloe
+Checks: Chee
+Turn: Ks
+Checks: Binhiloe
+Checks: Chee
+River: 7s
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 5s 8c
+Combination: Chee, Three Of A Kind ( 8c 8s 8d Ks Tc )
+Shows: Binhiloe, Qh As
+Combination: Binhiloe, Pair ( 8s 8d As Ks Qh )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 6d 4s 7d
+Checks: Binhiloe
+Checks: Chee
+Turn: Kh
+Checks: Binhiloe
+Checks: Chee
+River: 2s
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 6h 5s
+Combination: Chee, Pair ( 6h 6d Kh 7d 5s )
+Shows: Binhiloe, 3s Ac
+Combination: Binhiloe, High Card ( Ac Kh 7d 6d 4s )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: Ks 3s 2d
+Checks: Binhiloe
+Checks: Chee
+Turn: 8h
+Checks: Binhiloe
+Checks: Chee
+River: Ah
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, Kd Ad
+Combination: Chee, Two Pair ( Ad Ah Kd Ks 8h )
+Shows: Binhiloe, 3h Jd
+Combination: Binhiloe, Pair ( 3h 3s Ah Ks Jd )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 4h 3s Ts
+Checks: Binhiloe
+Checks: Chee
+Turn: 2h
+Checks: Binhiloe
+Checks: Chee
+River: 6d
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 3d Ah
+Combination: Chee, Pair ( 3d 3s Ah Ts 6d )
+Shows: Binhiloe, 3h Th
+Combination: Binhiloe, Two Pair ( Th Ts 3h 3s 6d )
+Wins: Binhiloe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 7h Qd Js
+Checks: Binhiloe
+Checks: Chee
+Turn: Ac
+Checks: Binhiloe
+Checks: Chee
+River: 3h
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 6c 5c
+Combination: Chee, High Card ( Ac Qd Js 7h 6c )
+Shows: Binhiloe, 5d Kh
+Combination: Binhiloe, High Card ( Ac Kh Qd Js 7h )
+Wins: Binhiloe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 8c 5c 9h
+Checks: Binhiloe
+Checks: Chee
+Turn: 7s
+Checks: Binhiloe
+Checks: Chee
+River: 4h
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 3c Kh
+Combination: Chee, High Card ( Kh 9h 8c 7s 5c )
+Shows: Binhiloe, 4c 2d
+Combination: Binhiloe, Pair ( 4c 4h 9h 8c 7s )
+Wins: Binhiloe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 3h 8s 2c
+Checks: Binhiloe
+Checks: Chee
+Turn: Qs
+Checks: Binhiloe
+Checks: Chee
+River: Jd
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 6s 5h
+Combination: Chee, High Card ( Qs Jd 8s 6s 5h )
+Shows: Binhiloe, 9c 6d
+Combination: Binhiloe, High Card ( Qs Jd 9c 8s 6d )
+Wins: Binhiloe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 6d Tc 3s
+Checks: Binhiloe
+Checks: Chee
+Turn: 2h
+Checks: Binhiloe
+Checks: Chee
+River: 5h
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 5s Qd
+Combination: Chee, Pair ( 5s 5h Qd Tc 6d )
+Shows: Binhiloe, Ah Ad
+Combination: Binhiloe, Pair ( Ah Ad Tc 6d 5h )
+Wins: Binhiloe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 5d Th Qd
+Checks: Binhiloe
+Checks: Chee
+Turn: Ad
+Checks: Binhiloe
+Checks: Chee
+River: 3c
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 7h Ts
+Combination: Chee, Pair ( Ts Th Ad Qd 7h )
+Shows: Binhiloe, 2c Kc
+Combination: Binhiloe, High Card ( Ad Kc Qd Th 5d )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 9d 2h Qh
+Checks: Binhiloe
+Checks: Chee
+Turn: 3d
+Checks: Binhiloe
+Checks: Chee
+River: 2s
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, Ac 4h
+Combination: Chee, Pair ( 2h 2s Ac Qh 9d )
+Shows: Binhiloe, 8s Ts
+Combination: Binhiloe, Pair ( 2h 2s Qh Ts 9d )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 9c Jd 5h
+Checks: Binhiloe
+Checks: Chee
+Turn: As
+Checks: Binhiloe
+Checks: Chee
+River: Tc
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, Qh 4c
+Combination: Chee, High Card ( As Qh Jd Tc 9c )
+Shows: Binhiloe, 2c 3d
+Combination: Binhiloe, High Card ( As Jd Tc 9c 5h )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 7s 2c As
+Checks: Binhiloe
+Checks: Chee
+Turn: 5d
+Checks: Binhiloe
+Checks: Chee
+River: 8d
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 9c Jc
+Combination: Chee, High Card ( As Jc 9c 8d 7s )
+Shows: Binhiloe, 7d Qh
+Combination: Binhiloe, Pair ( 7d 7s As Qh 8d )
+Wins: Binhiloe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: Kc Th 9d
+Checks: Binhiloe
+Checks: Chee
+Turn: Ks
+Checks: Binhiloe
+Checks: Chee
+River: 7d
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 8h Kh
+Combination: Chee, Three Of A Kind ( Kh Kc Ks Th 9d )
+Shows: Binhiloe, 5s 5d
+Combination: Binhiloe, Two Pair ( Kc Ks 5s 5d Th )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 8d 6s 5s
+Checks: Binhiloe
+Checks: Chee
+Turn: 7s
+Checks: Binhiloe
+Checks: Chee
+River: Ks
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 9c 6c
+Combination: Chee, Straight ( 9c 8d 7s 6c 5s )
+Shows: Binhiloe, 3c 6d
+Combination: Binhiloe, Pair ( 6d 6s Ks 8d 7s )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: Ad 8c 6s
+Checks: Binhiloe
+Checks: Chee
+Turn: 5c
+Checks: Binhiloe
+Checks: Chee
+River: 2c
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, Ah 2h
+Combination: Chee, Two Pair ( Ah Ad 2h 2c 8c )
+Shows: Binhiloe, Kh 2s
+Combination: Binhiloe, Pair ( 2s 2c Ad Kh 8c )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 5s Td Qc
+Checks: Binhiloe
+Checks: Chee
+Turn: 2c
+Checks: Binhiloe
+Checks: Chee
+River: 8h
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 7d Ad
+Combination: Chee, High Card ( Ad Qc Td 8h 7d )
+Shows: Binhiloe, Js 5c
+Combination: Binhiloe, Pair ( 5c 5s Qc Js Td )
+Wins: Binhiloe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 3h 7c 4s
+Checks: Binhiloe
+Checks: Chee
+Turn: 9h
+Checks: Binhiloe
+Checks: Chee
+River: Kc
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 8h 4c
+Combination: Chee, Pair ( 4c 4s Kc 9h 8h )
+Shows: Binhiloe, 5d 6h
+Combination: Binhiloe, Straight ( 7c 6h 5d 4s 3h )
+Wins: Binhiloe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 5c 3d As
+Checks: Binhiloe
+Checks: Chee
+Turn: 9d
+Checks: Binhiloe
+Checks: Chee
+River: 6s
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 3c 4s
+Combination: Chee, Pair ( 3c 3d As 9d 6s )
+Shows: Binhiloe, Kh 5d
+Combination: Binhiloe, Pair ( 5d 5c As Kh 9d )
+Wins: Binhiloe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 7s As 2s
+Checks: Binhiloe
+Checks: Chee
+Turn: Th
+Checks: Binhiloe
+Checks: Chee
+River: Jc
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 5c 4c
+Combination: Chee, High Card ( As Jc Th 7s 5c )
+Shows: Binhiloe, Kc 3c
+Combination: Binhiloe, High Card ( As Kc Jc Th 7s )
+Wins: Binhiloe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 9c 3s 8d
+Checks: Binhiloe
+Checks: Chee
+Turn: Js
+Checks: Binhiloe
+Checks: Chee
+River: 5s
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, Qs 9s
+Combination: Chee, Flush ( Qs Js 9s 5s 3s )
+Shows: Binhiloe, 3d Td
+Combination: Binhiloe, Pair ( 3d 3s Js Td 9c )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 3c 6d 4d
+Checks: Binhiloe
+Checks: Chee
+Turn: 2c
+Checks: Binhiloe
+Checks: Chee
+River: Qc
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, Ac Jc
+Combination: Chee, Flush ( Ac Qc Jc 3c 2c )
+Shows: Binhiloe, 9d Qd
+Combination: Binhiloe, Pair ( Qd Qc 9d 6d 4d )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: Jc Qs 9s
+Checks: Binhiloe
+Checks: Chee
+Turn: 4s
+Checks: Binhiloe
+Checks: Chee
+River: Qc
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 7h 3s
+Combination: Chee, Pair ( Qs Qc Jc 9s 7h )
+Shows: Binhiloe, 3d Jd
+Combination: Binhiloe, Two Pair ( Qs Qc Jd Jc 9s )
+Wins: Binhiloe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: Qc Qh 4h
+Checks: Binhiloe
+Checks: Chee
+Turn: Kc
+Checks: Binhiloe
+Checks: Chee
+River: 5d
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, Jd Kh
+Combination: Chee, Two Pair ( Kh Kc Qc Qh Jd )
+Shows: Binhiloe, 2c 8c
+Combination: Binhiloe, Pair ( Qc Qh Kc 8c 5d )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: As 9c 3h
+Checks: Binhiloe
+Checks: Chee
+Turn: Ac
+Checks: Binhiloe
+Checks: Chee
+River: 5d
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, Kc Qd
+Combination: Chee, Pair ( As Ac Kc Qd 9c )
+Shows: Binhiloe, 2d Th
+Combination: Binhiloe, Pair ( As Ac Th 9c 5d )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: Kd 7h Jc
+Checks: Binhiloe
+Checks: Chee
+Turn: 2h
+Checks: Binhiloe
+Checks: Chee
+River: 6s
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 8c 6c
+Combination: Chee, Pair ( 6c 6s Kd Jc 8c )
+Shows: Binhiloe, Qc 6h
+Combination: Binhiloe, Pair ( 6h 6s Kd Qc Jc )
+Wins: Binhiloe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 5c 9c 8h
+Checks: Binhiloe
+Checks: Chee
+Turn: 6d
+Checks: Binhiloe
+Checks: Chee
+River: Kh
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, Td 4s
+Combination: Chee, High Card ( Kh Td 9c 8h 6d )
+Shows: Binhiloe, 6s 5h
+Combination: Binhiloe, Two Pair ( 6s 6d 5h 5c Kh )
+Wins: Binhiloe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: Td 6c Ad
+Checks: Binhiloe
+Checks: Chee
+Turn: Th
+Checks: Binhiloe
+Checks: Chee
+River: 7h
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 9s Js
+Combination: Chee, Pair ( Td Th Ad Js 9s )
+Shows: Binhiloe, Jh Jd
+Combination: Binhiloe, Two Pair ( Jh Jd Td Th Ad )
+Wins: Binhiloe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 9h Ks 5s
+Checks: Binhiloe
+Checks: Chee
+Turn: 6h
+Checks: Binhiloe
+Checks: Chee
+River: 5c
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, Ad 3h
+Combination: Chee, Pair ( 5s 5c Ad Ks 9h )
+Shows: Binhiloe, 3d 7c
+Combination: Binhiloe, Pair ( 5s 5c Ks 9h 7c )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 8c 6d 2c
+Checks: Binhiloe
+Checks: Chee
+Turn: Jc
+Checks: Binhiloe
+Checks: Chee
+River: 3h
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, Kd 2h
+Combination: Chee, Pair ( 2h 2c Kd Jc 8c )
+Shows: Binhiloe, Td 7d
+Combination: Binhiloe, High Card ( Jc Td 8c 7d 6d )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 3c 4h 2h
+Checks: Binhiloe
+Checks: Chee
+Turn: 7h
+Checks: Binhiloe
+Checks: Chee
+River: 7s
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 8c 5c
+Combination: Chee, Pair ( 7h 7s 8c 5c 4h )
+Shows: Binhiloe, Ts 9h
+Combination: Binhiloe, Pair ( 7h 7s Ts 9h 4h )
+Wins: Binhiloe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 6s Kd Qc
+Checks: Binhiloe
+Checks: Chee
+Turn: 4d
+Checks: Binhiloe
+Checks: Chee
+River: 8h
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 7h 9d
+Combination: Chee, High Card ( Kd Qc 9d 8h 7h )
+Shows: Binhiloe, Th Ks
+Combination: Binhiloe, Pair ( Ks Kd Qc Th 8h )
+Wins: Binhiloe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 4h 6c 3c
+Checks: Binhiloe
+Checks: Chee
+Turn: 8d
+Checks: Binhiloe
+Checks: Chee
+River: 3s
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 2d 9d
+Combination: Chee, Pair ( 3c 3s 9d 8d 6c )
+Shows: Binhiloe, 5d Ts
+Combination: Binhiloe, Pair ( 3c 3s Ts 8d 6c )
+Wins: Binhiloe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: Jd 3h Th
+Checks: Binhiloe
+Checks: Chee
+Turn: 7s
+Checks: Binhiloe
+Checks: Chee
+River: 3c
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 8d 5d
+Combination: Chee, Pair ( 3h 3c Jd Th 8d )
+Shows: Binhiloe, Jh 7c
+Combination: Binhiloe, Two Pair ( Jh Jd 7c 7s Th )
+Wins: Binhiloe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: Qh As 9s
+Checks: Binhiloe
+Checks: Chee
+Turn: 2d
+Checks: Binhiloe
+Checks: Chee
+River: 6d
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 4d Jd
+Combination: Chee, High Card ( As Qh Jd 9s 6d )
+Shows: Binhiloe, 6c 9h
+Combination: Binhiloe, Two Pair ( 9h 9s 6c 6d As )
+Wins: Binhiloe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 3c Ah 4s
+Checks: Binhiloe
+Checks: Chee
+Turn: Jd
+Checks: Binhiloe
+Checks: Chee
+River: 3s
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 7s 8c
+Combination: Chee, Pair ( 3c 3s Ah Jd 8c )
+Shows: Binhiloe, 6h 3d
+Combination: Binhiloe, Three Of A Kind ( 3d 3c 3s Ah Jd )
+Wins: Binhiloe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 2h 7c 5d
+Checks: Binhiloe
+Checks: Chee
+Turn: 3c
+Checks: Binhiloe
+Checks: Chee
+River: 4c
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 8h Kc
+Combination: Chee, High Card ( Kc 8h 7c 5d 4c )
+Shows: Binhiloe, Th 7h
+Combination: Binhiloe, Pair ( 7h 7c Th 5d 4c )
+Wins: Binhiloe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 4h 6h 7s
+Checks: Binhiloe
+Checks: Chee
+Turn: Ts
+Checks: Binhiloe
+Checks: Chee
+River: 2c
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 5s 3s
+Combination: Chee, Straight ( 7s 6h 5s 4h 3s )
+Shows: Binhiloe, 9s 6c
+Combination: Binhiloe, Pair ( 6c 6h Ts 9s 7s )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: As 3c Ad
+Checks: Binhiloe
+Checks: Chee
+Turn: 5s
+Checks: Binhiloe
+Checks: Chee
+River: Jh
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, Tc 7s
+Combination: Chee, Pair ( As Ad Jh Tc 7s )
+Shows: Binhiloe, 4c Kc
+Combination: Binhiloe, Pair ( As Ad Kc Jh 5s )
+Wins: Binhiloe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: Tc Jh Ac
+Checks: Binhiloe
+Checks: Chee
+Turn: 5h
+Checks: Binhiloe
+Checks: Chee
+River: Jd
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 6c As
+Combination: Chee, Two Pair ( As Ac Jh Jd Tc )
+Shows: Binhiloe, 2h 6d
+Combination: Binhiloe, Pair ( Jh Jd Ac Tc 6d )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 4h 7c Ts
+Checks: Binhiloe
+Checks: Chee
+Turn: 5h
+Checks: Binhiloe
+Checks: Chee
+River: 2s
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 2h Qs
+Combination: Chee, Pair ( 2h 2s Qs Ts 7c )
+Shows: Binhiloe, Tc Qd
+Combination: Binhiloe, Pair ( Tc Ts Qd 7c 5h )
+Wins: Binhiloe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: Jh Jd 9s
+Checks: Binhiloe
+Checks: Chee
+Turn: 2d
+Checks: Binhiloe
+Checks: Chee
+River: 5s
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, Ah Qs
+Combination: Chee, Pair ( Jh Jd Ah Qs 9s )
+Shows: Binhiloe, Td Qh
+Combination: Binhiloe, Pair ( Jh Jd Qh Td 9s )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 5s 8s 6d
+Checks: Binhiloe
+Checks: Chee
+Turn: 9h
+Checks: Binhiloe
+Checks: Chee
+River: Ad
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 7d 2c
+Combination: Chee, Straight ( 9h 8s 7d 6d 5s )
+Shows: Binhiloe, 5c 2h
+Combination: Binhiloe, Pair ( 5c 5s Ad 9h 8s )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: Qh Qd 3s
+Checks: Binhiloe
+Checks: Chee
+Turn: 4s
+Checks: Binhiloe
+Checks: Chee
+River: Kc
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 4c 8h
+Combination: Chee, Two Pair ( Qh Qd 4c 4s Kc )
+Shows: Binhiloe, 4h Tc
+Combination: Binhiloe, Two Pair ( Qh Qd 4h 4s Kc )
+Wins: Chee, chips: 10
+Wins: Binhiloe, chips: 10
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 8c Jd 5d
+Checks: Binhiloe
+Checks: Chee
+Turn: 9h
+Checks: Binhiloe
+Checks: Chee
+River: Tc
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, Qc As
+Combination: Chee, Straight ( Qc Jd Tc 9h 8c )
+Shows: Binhiloe, Qs Jh
+Combination: Binhiloe, Straight ( Qs Jh Tc 9h 8c )
+Wins: Chee, chips: 10
+Wins: Binhiloe, chips: 10
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 4h 2h Jc
+Checks: Binhiloe
+Checks: Chee
+Turn: 5d
+Checks: Binhiloe
+Checks: Chee
+River: Ts
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, Jh Qh
+Combination: Chee, Pair ( Jh Jc Qh Ts 5d )
+Shows: Binhiloe, Ah 8h
+Combination: Binhiloe, High Card ( Ah Jc Ts 8h 5d )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: Qh Ts 5h
+Checks: Binhiloe
+Checks: Chee
+Turn: 9s
+Checks: Binhiloe
+Checks: Chee
+River: Kd
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 6d 5s
+Combination: Chee, Pair ( 5s 5h Kd Qh Ts )
+Shows: Binhiloe, 5d Th
+Combination: Binhiloe, Two Pair ( Th Ts 5d 5h Kd )
+Wins: Binhiloe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: Ad Jh 5d
+Checks: Binhiloe
+Checks: Chee
+Turn: 6c
+Checks: Binhiloe
+Checks: Chee
+River: Ah
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 4h 5c
+Combination: Chee, Two Pair ( Ad Ah 5c 5d Jh )
+Shows: Binhiloe, 7d 8h
+Combination: Binhiloe, Pair ( Ad Ah Jh 8h 7d )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 2c Ts Kc
+Checks: Binhiloe
+Checks: Chee
+Turn: Jc
+Checks: Binhiloe
+Checks: Chee
+River: 5d
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, Ad Jd
+Combination: Chee, Pair ( Jd Jc Ad Kc Ts )
+Shows: Binhiloe, Qh Js
+Combination: Binhiloe, Pair ( Js Jc Kc Qh Ts )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: Qh 7h 3h
+Checks: Binhiloe
+Checks: Chee
+Turn: 9h
+Checks: Binhiloe
+Checks: Chee
+River: Js
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, Qs 3s
+Combination: Chee, Two Pair ( Qs Qh 3s 3h Js )
+Shows: Binhiloe, 2c 2d
+Combination: Binhiloe, Pair ( 2c 2d Qh Js 9h )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: Kd 5c 4h
+Checks: Binhiloe
+Checks: Chee
+Turn: Ks
+Checks: Binhiloe
+Checks: Chee
+River: 6h
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, Jc 6c
+Combination: Chee, Two Pair ( Kd Ks 6c 6h Jc )
+Shows: Binhiloe, 4c Ah
+Combination: Binhiloe, Two Pair ( Kd Ks 4c 4h Ah )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 5h Jh Ks
+Checks: Binhiloe
+Checks: Chee
+Turn: 9d
+Checks: Binhiloe
+Checks: Chee
+River: 7d
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 3d Qc
+Combination: Chee, High Card ( Ks Qc Jh 9d 7d )
+Shows: Binhiloe, 6s Ac
+Combination: Binhiloe, High Card ( Ac Ks Jh 9d 7d )
+Wins: Binhiloe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 9d Ks Qs
+Checks: Binhiloe
+Checks: Chee
+Turn: 7c
+Checks: Binhiloe
+Checks: Chee
+River: Td
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, Qh 4d
+Combination: Chee, Pair ( Qh Qs Ks Td 9d )
+Shows: Binhiloe, 4c 9h
+Combination: Binhiloe, Pair ( 9h 9d Ks Qs Td )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 5c Th 7d
+Checks: Binhiloe
+Checks: Chee
+Turn: 2h
+Checks: Binhiloe
+Checks: Chee
+River: 8c
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, Ad 4s
+Combination: Chee, High Card ( Ad Th 8c 7d 5c )
+Shows: Binhiloe, Qd 4d
+Combination: Binhiloe, High Card ( Qd Th 8c 7d 5c )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 10
+Calls: Chee
+Checks: Binhiloe
+Flop: 9c 3h Qs
+Checks: Binhiloe
+Checks: Chee
+Turn: 8h
+Checks: Binhiloe
+Checks: Chee
+River: Ts
+Checks: Binhiloe
+Checks: Chee
+Pot size: 20
+Showdown Reached
+Shows: Chee, 2c Js
+Combination: Chee, Straight ( Qs Js Ts 9c 8h )
+Shows: Binhiloe, Qd 2d
+Combination: Binhiloe, Pair ( Qd Qs Ts 9c 8h )
+Wins: Chee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Binhiloe
+Small Blind: Binhiloe, chips: 5
+Big Blind: Chee, chips: 10
+Folds: Binhiloe
+Pot size: 15
+Wins: Chee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chee
+Small Blind: Chee, chips: 5
+Big Blind: Binhiloe, chips: 5
+Flop: Kd 4d Ts
+Turn: 9s
+River: Js
+Pot size: 10
+Showdown Reached
+Shows: Chee, 7c 8s
+Combination: Chee, Straight ( Js Ts 9s 8s 7c )
+Shows: Binhiloe, Tc 4h
+Combination: Binhiloe, Two Pair ( Tc Ts 4h 4d Kd )
+Wins: Chee, chips: 10
+Quits: Binhiloe, chips: 0
+Ranking: Chee, Place: 1, Score: 6000
+Reveal AI: Chee, AI: Call
+Ranking: Binhiloe, Place: 2, Score: -1000
+Reveal AI: Binhiloe, AI: AIMyBot1
+Ranking: Poefenhel, Place: 3, Score: -1000
+Reveal AI: Poefenhel, AI: Random
+Ranking: Rohoelee, Place: 4, Score: -1000
+Reveal AI: Rohoelee, AI: Smart
+Ranking: Lechut, Place: 5, Score: -1000
+Reveal AI: Lechut, AI: Smart
+Ranking: Joemel, Place: 6, Score: -1000
+Reveal AI: Joemel, AI: Random
+Ranking: Midep, Place: 7, Score: -1000
+Reveal AI: Midep, AI: Call
+
+Player Stats for Binhiloe, AI: AIMyBot1
+General: deals: 290, actions: 716, preflop actions: 289
+Rounds Seen: flops: 143, turns: 143, rivers: 143, showdowns: 142
+Wins: total: 60, showdown: 60, bluff: 0
+Chips: won: 1140, lost: 2140, bought: 1000, forced bets: 2140
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 0.993007, WSDW: 0.422535
+
+
+Player Stats for Chee, AI: Call
+General: deals: 290, actions: 596, preflop actions: 153
+Rounds Seen: flops: 149, turns: 149, rivers: 149, showdowns: 149
+Wins: total: 233, showdown: 92, bluff: 141
+Chips: won: 11270, lost: 5270, bought: 1000, forced bets: 2145
+Pre-Flop Stats: VP$IP: 0.510345, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: 0, WSD: 1, WSDW: 0.61745
+
+
+Player Stats for Joemel, AI: Random
+General: deals: 2, actions: 8, preflop actions: 5
+Rounds Seen: flops: 149, turns: 149, rivers: 149, showdowns: 149
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 5
+Pre-Flop Stats: VP$IP: 1, PFR: 1, 3Bet: 1
+Post-Flop Stats: AF: 1.#INF, WSD: 1, WSDW: 0
+
+
+Player Stats for Lechut, AI: Smart
+General: deals: 2, actions: 5, preflop actions: 5
+Rounds Seen: flops: 148, turns: 148, rivers: 148, showdowns: 148
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 0
+Pre-Flop Stats: VP$IP: 0.5, PFR: 0.5, 3Bet: 0.5
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Midep, AI: Call
+General: deals: 2, actions: 10, preflop actions: 7
+Rounds Seen: flops: 149, turns: 149, rivers: 149, showdowns: 149
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1235, bought: 1000, forced bets: 0
+Pre-Flop Stats: VP$IP: 1, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: 0, WSD: 1, WSDW: 0
+
+
+Player Stats for Poefenhel, AI: Random
+General: deals: 8, actions: 31, preflop actions: 12
+Rounds Seen: flops: 147, turns: 147, rivers: 147, showdowns: 147
+Wins: total: 2, showdown: 2, bluff: 0
+Chips: won: 75, lost: 2040, bought: 1000, forced bets: 30
+Pre-Flop Stats: VP$IP: 0.875, PFR: 0.375, 3Bet: 0.375
+Post-Flop Stats: AF: 1.5, WSD: 1, WSDW: 0.0136054
+
+
+Player Stats for Rohoelee, AI: Smart
+General: deals: 8, actions: 17, preflop actions: 9
+Rounds Seen: flops: 143, turns: 143, rivers: 143, showdowns: 143
+Wins: total: 1, showdown: 1, bluff: 0
+Chips: won: 125, lost: 1125, bought: 1000, forced bets: 25
+Pre-Flop Stats: VP$IP: 0.125, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: 4, WSD: 1, WSDW: 0.00699301
+
+

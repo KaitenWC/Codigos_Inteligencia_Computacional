@@ -1,0 +1,2086 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Choedee: Smart
+Kufoetry: Random
+Gehihom: AIMyBot1
+Vichiwreek: Call
+Che: Smart
+Hegoenhi: Call
+Deeha: Random
+
+Joins: Choedee, chips: 1000
+Joins: Kufoetry, chips: 1000
+Joins: Gehihom, chips: 1000
+Joins: Vichiwreek, chips: 1000
+Joins: Che, chips: 1000
+Joins: Hegoenhi, chips: 1000
+Joins: Deeha, chips: 1000
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gehihom
+Small Blind: Vichiwreek, chips: 5
+Big Blind: Che, chips: 10
+Calls: Hegoenhi
+Folds: Deeha
+Calls: Choedee
+Folds: Kufoetry
+Folds: Gehihom
+Calls: Vichiwreek
+Checks: Che
+Flop: Jc 3d Ks
+Checks: Vichiwreek
+Checks: Che
+Checks: Hegoenhi
+Checks: Choedee
+Turn: Ac
+Checks: Vichiwreek
+Checks: Che
+Checks: Hegoenhi
+Checks: Choedee
+River: 4d
+Checks: Vichiwreek
+Checks: Che
+Checks: Hegoenhi
+Checks: Choedee
+Pot size: 40
+Showdown Reached
+Shows: Choedee, 8c 9d
+Combination: Choedee, High Card ( Ac Ks Jc 9d 8c )
+Boasts: Kufoetry, Kc Tc
+Shows: Vichiwreek, Qh Qd
+Combination: Vichiwreek, Pair ( Qh Qd Ac Ks Jc )
+Shows: Che, 4c 9s
+Combination: Che, Pair ( 4c 4d Ac Ks Jc )
+Shows: Hegoenhi, Jd Td
+Combination: Hegoenhi, Pair ( Jd Jc Ac Ks Td )
+Wins: Vichiwreek, chips: 40
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Vichiwreek
+Small Blind: Che, chips: 5
+Big Blind: Hegoenhi, chips: 10
+Folds: Deeha
+Folds: Choedee
+Raises: Kufoetry, chips: 20
+Raises: Gehihom, chips: 100
+Calls: Vichiwreek
+Folds: Che
+Calls: Hegoenhi
+Raises: Kufoetry, chips: 200
+Raises: Gehihom, chips: 670
+Calls: Vichiwreek
+Calls: Hegoenhi
+Calls: Kufoetry
+Flop: Kh Ah 9d
+Turn: 3c
+River: 8s
+Pot size: 3995
+Showdown Reached
+Shows: Kufoetry, Tc 8d
+Combination: Kufoetry, Pair ( 8d 8s Ah Kh Tc )
+Shows: Gehihom, 4h Qh
+Combination: Gehihom, High Card ( Ah Kh Qh 9d 8s )
+Shows: Vichiwreek, 9s Qc
+Combination: Vichiwreek, Pair ( 9s 9d Ah Kh Qc )
+Shows: Hegoenhi, Ad Js
+Combination: Hegoenhi, Pair ( Ad Ah Kh Js 9d )
+Wins: Vichiwreek, chips: 30
+Wins: Hegoenhi, chips: 3965
+Quits: Kufoetry, chips: 0
+Quits: Gehihom, chips: 0
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Che
+Small Blind: Hegoenhi, chips: 5
+Big Blind: Deeha, chips: 10
+Folds: Choedee
+Calls: Vichiwreek
+Folds: Che
+Calls: Hegoenhi
+Checks: Deeha
+Flop: 4h 2d 7d
+Checks: Hegoenhi
+Checks: Deeha
+Checks: Vichiwreek
+Turn: 5c
+Checks: Hegoenhi
+Checks: Deeha
+Checks: Vichiwreek
+River: 2h
+Checks: Hegoenhi
+Checks: Deeha
+Checks: Vichiwreek
+Pot size: 30
+Showdown Reached
+Shows: Vichiwreek, Qs Kh
+Combination: Vichiwreek, Pair ( 2d 2h Kh Qs 7d )
+Shows: Hegoenhi, 4s 8c
+Combination: Hegoenhi, Two Pair ( 4s 4h 2d 2h 8c )
+Shows: Deeha, 5h 8h
+Combination: Deeha, Two Pair ( 5h 5c 2d 2h 8h )
+Wins: Deeha, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Hegoenhi
+Small Blind: Deeha, chips: 5
+Big Blind: Choedee, chips: 10
+Calls: Vichiwreek
+Calls: Che
+Calls: Hegoenhi
+Folds: Deeha
+Checks: Choedee
+Flop: Qh As 2s
+Checks: Choedee
+Checks: Vichiwreek
+Checks: Che
+Checks: Hegoenhi
+Turn: Ts
+Checks: Choedee
+Checks: Vichiwreek
+Checks: Che
+Checks: Hegoenhi
+River: 4s
+Checks: Choedee
+Checks: Vichiwreek
+Checks: Che
+Checks: Hegoenhi
+Pot size: 45
+Showdown Reached
+Shows: Choedee, 7c 6c
+Combination: Choedee, High Card ( As Qh Ts 7c 6c )
+Shows: Vichiwreek, 7h 9s
+Combination: Vichiwreek, Flush ( As Ts 9s 4s 2s )
+Shows: Che, Jd Qc
+Combination: Che, Pair ( Qc Qh As Jd Ts )
+Shows: Hegoenhi, Kd 6d
+Combination: Hegoenhi, High Card ( As Kd Qh Ts 6d )
+Boasts: Deeha, 6h 2d
+Wins: Vichiwreek, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Deeha
+Small Blind: Choedee, chips: 5
+Big Blind: Vichiwreek, chips: 10
+Calls: Che
+Calls: Hegoenhi
+Folds: Deeha
+Calls: Choedee
+Checks: Vichiwreek
+Flop: 9d 8c Qh
+Checks: Choedee
+Checks: Vichiwreek
+Checks: Che
+Checks: Hegoenhi
+Turn: 8d
+Checks: Choedee
+Checks: Vichiwreek
+Checks: Che
+Checks: Hegoenhi
+River: 2d
+Checks: Choedee
+Checks: Vichiwreek
+Checks: Che
+Checks: Hegoenhi
+Pot size: 40
+Showdown Reached
+Shows: Choedee, Jc 7c
+Combination: Choedee, Pair ( 8c 8d Qh Jc 9d )
+Shows: Vichiwreek, 6s 4h
+Combination: Vichiwreek, Pair ( 8c 8d Qh 9d 6s )
+Shows: Che, Kc 6c
+Combination: Che, Pair ( 8c 8d Kc Qh 9d )
+Shows: Hegoenhi, 2h 7s
+Combination: Hegoenhi, Two Pair ( 8c 8d 2h 2d Qh )
+Wins: Hegoenhi, chips: 40
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Choedee
+Small Blind: Vichiwreek, chips: 5
+Big Blind: Che, chips: 10
+Calls: Hegoenhi
+Raises: Deeha, chips: 20
+Raises: Choedee, chips: 940
+Calls: Vichiwreek
+Folds: Che
+Calls: Hegoenhi
+Folds: Deeha
+Flop: Kh Js Ad
+Turn: 8c
+River: Ac
+Pot size: 2055
+Showdown Reached
+Shows: Choedee, 9d 9c
+Combination: Choedee, Two Pair ( Ad Ac 9d 9c Kh )
+Shows: Vichiwreek, 7c Tc
+Combination: Vichiwreek, Pair ( Ad Ac Kh Js Tc )
+Shows: Hegoenhi, 7s Jc
+Combination: Hegoenhi, Two Pair ( Ad Ac Jc Js Kh )
+Wins: Hegoenhi, chips: 2055
+Quits: Choedee, chips: 0
+Quits: Vichiwreek, chips: 0
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Che
+Small Blind: Hegoenhi, chips: 5
+Big Blind: Deeha, chips: 10
+Folds: Che
+Calls: Hegoenhi
+Checks: Deeha
+Flop: 9d Kd 4c
+Checks: Hegoenhi
+Raises: Deeha, chips: 10
+Calls: Hegoenhi
+Turn: Qd
+Checks: Hegoenhi
+Raises: Deeha, chips: 10
+Calls: Hegoenhi
+River: Th
+Checks: Hegoenhi
+Checks: Deeha
+Pot size: 60
+Showdown Reached
+Shows: Hegoenhi, 4h 4s
+Combination: Hegoenhi, Three Of A Kind ( 4h 4s 4c Kd Qd )
+Shows: Deeha, 7h 2h
+Combination: Deeha, High Card ( Kd Qd Th 9d 7h )
+Wins: Hegoenhi, chips: 60
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Hegoenhi
+Small Blind: Deeha, chips: 5
+Big Blind: Che, chips: 10
+Calls: Hegoenhi
+Folds: Deeha
+Checks: Che
+Flop: Ah Kh 4d
+Checks: Che
+Checks: Hegoenhi
+Turn: 2s
+Checks: Che
+Checks: Hegoenhi
+River: Jd
+Raises: Che, chips: 10
+Calls: Hegoenhi
+Pot size: 45
+Showdown Reached
+Shows: Che, Js 3c
+Combination: Che, Pair ( Js Jd Ah Kh 4d )
+Shows: Hegoenhi, 7c Jc
+Combination: Hegoenhi, Pair ( Jc Jd Ah Kh 7c )
+Boasts: Deeha, 2h 9c
+Wins: Hegoenhi, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Deeha
+Small Blind: Che, chips: 5
+Big Blind: Hegoenhi, chips: 10
+Calls: Deeha
+Calls: Che
+Checks: Hegoenhi
+Flop: 8c 3h Th
+Checks: Che
+Checks: Hegoenhi
+Raises: Deeha, chips: 10
+Folds: Che
+Calls: Hegoenhi
+Turn: Qc
+Checks: Hegoenhi
+Checks: Deeha
+River: Jh
+Checks: Hegoenhi
+Raises: Deeha, chips: 10
+Calls: Hegoenhi
+Pot size: 70
+Showdown Reached
+Shows: Hegoenhi, 4d Jc
+Combination: Hegoenhi, Pair ( Jc Jh Qc Th 8c )
+Shows: Deeha, Td 7c
+Combination: Deeha, Pair ( Td Th Qc Jh 8c )
+Wins: Hegoenhi, chips: 70
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Che
+Small Blind: Hegoenhi, chips: 5
+Big Blind: Deeha, chips: 10
+Calls: Che
+Calls: Hegoenhi
+Raises: Deeha, chips: 10
+Folds: Che
+Calls: Hegoenhi
+Flop: 7d Kd 6d
+Checks: Hegoenhi
+Checks: Deeha
+Turn: 4d
+Checks: Hegoenhi
+Checks: Deeha
+River: Qc
+Checks: Hegoenhi
+Checks: Deeha
+Pot size: 50
+Showdown Reached
+Shows: Hegoenhi, Jh 7c
+Combination: Hegoenhi, Pair ( 7c 7d Kd Qc Jh )
+Shows: Deeha, Ks Ah
+Combination: Deeha, Pair ( Ks Kd Ah Qc 7d )
+Wins: Deeha, chips: 50
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Hegoenhi
+Small Blind: Deeha, chips: 5
+Big Blind: Che, chips: 10
+Calls: Hegoenhi
+Raises: Deeha, chips: 15
+Folds: Che
+Calls: Hegoenhi
+Flop: Ac Qd Ah
+Checks: Deeha
+Checks: Hegoenhi
+Turn: 3h
+Checks: Deeha
+Checks: Hegoenhi
+River: 8h
+Checks: Deeha
+Checks: Hegoenhi
+Pot size: 60
+Showdown Reached
+Shows: Hegoenhi, Ks Kc
+Combination: Hegoenhi, Two Pair ( Ac Ah Ks Kc Qd )
+Shows: Deeha, 2d 8c
+Combination: Deeha, Two Pair ( Ac Ah 8c 8h Qd )
+Wins: Hegoenhi, chips: 60
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Deeha
+Small Blind: Che, chips: 5
+Big Blind: Hegoenhi, chips: 10
+Calls: Deeha
+Calls: Che
+Checks: Hegoenhi
+Flop: Td 2d 3c
+Checks: Che
+Checks: Hegoenhi
+Checks: Deeha
+Turn: 2s
+Checks: Che
+Checks: Hegoenhi
+Checks: Deeha
+River: Kd
+Checks: Che
+Checks: Hegoenhi
+Checks: Deeha
+Pot size: 30
+Showdown Reached
+Shows: Che, Tc 9d
+Combination: Che, Two Pair ( Tc Td 2d 2s Kd )
+Shows: Hegoenhi, 4c Qh
+Combination: Hegoenhi, Pair ( 2d 2s Kd Qh Td )
+Shows: Deeha, Jd 8d
+Combination: Deeha, Flush ( Kd Jd Td 8d 2d )
+Wins: Deeha, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Che
+Small Blind: Hegoenhi, chips: 5
+Big Blind: Deeha, chips: 10
+Folds: Che
+Calls: Hegoenhi
+Checks: Deeha
+Flop: Jc 4s Kc
+Checks: Hegoenhi
+Checks: Deeha
+Turn: 8s
+Checks: Hegoenhi
+Checks: Deeha
+River: 6d
+Checks: Hegoenhi
+Checks: Deeha
+Pot size: 20
+Showdown Reached
+Shows: Hegoenhi, 9s 4c
+Combination: Hegoenhi, Pair ( 4c 4s Kc Jc 9s )
+Shows: Deeha, 7h 3h
+Combination: Deeha, High Card ( Kc Jc 8s 7h 6d )
+Wins: Hegoenhi, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Hegoenhi
+Small Blind: Deeha, chips: 5
+Big Blind: Che, chips: 10
+Calls: Hegoenhi
+Calls: Deeha
+Checks: Che
+Flop: Ad 8c Kd
+Checks: Deeha
+Raises: Che, chips: 10
+Calls: Hegoenhi
+Calls: Deeha
+Turn: Ks
+Checks: Deeha
+Checks: Che
+Checks: Hegoenhi
+River: 8h
+Checks: Deeha
+Checks: Che
+Checks: Hegoenhi
+Pot size: 60
+Showdown Reached
+Shows: Che, 9d Ac
+Combination: Che, Two Pair ( Ac Ad Kd Ks 9d )
+Shows: Hegoenhi, Js 5s
+Combination: Hegoenhi, Two Pair ( Kd Ks 8c 8h Ad )
+Shows: Deeha, 5d 2c
+Combination: Deeha, Two Pair ( Kd Ks 8c 8h Ad )
+Wins: Che, chips: 60
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Deeha
+Small Blind: Che, chips: 5
+Big Blind: Hegoenhi, chips: 10
+Folds: Deeha
+Folds: Che
+Pot size: 15
+Boasts: Deeha, 7c 2h
+Wins: Hegoenhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Che
+Small Blind: Hegoenhi, chips: 5
+Big Blind: Deeha, chips: 10
+Calls: Che
+Calls: Hegoenhi
+Raises: Deeha, chips: 10
+Calls: Che
+Calls: Hegoenhi
+Flop: Qh Qc 4c
+Checks: Hegoenhi
+Checks: Deeha
+Checks: Che
+Turn: As
+Checks: Hegoenhi
+Raises: Deeha, chips: 10
+Calls: Che
+Calls: Hegoenhi
+River: Js
+Checks: Hegoenhi
+Raises: Deeha, chips: 10
+Calls: Che
+Calls: Hegoenhi
+Pot size: 120
+Showdown Reached
+Shows: Che, Ac 5c
+Combination: Che, Two Pair ( Ac As Qh Qc Js )
+Shows: Hegoenhi, 2c 6h
+Combination: Hegoenhi, Pair ( Qh Qc As Js 6h )
+Shows: Deeha, Jd 2d
+Combination: Deeha, Two Pair ( Qh Qc Jd Js As )
+Wins: Che, chips: 120
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Hegoenhi
+Small Blind: Deeha, chips: 5
+Big Blind: Che, chips: 10
+Calls: Hegoenhi
+Raises: Deeha, chips: 15
+Calls: Che
+Calls: Hegoenhi
+Flop: 4s As 9h
+Checks: Deeha
+Raises: Che, chips: 20
+Calls: Hegoenhi
+Raises: Deeha, chips: 40
+Raises: Che, chips: 50
+Calls: Hegoenhi
+Calls: Deeha
+Turn: 4d
+Checks: Deeha
+Checks: Che
+Checks: Hegoenhi
+River: 6c
+Checks: Deeha
+Checks: Che
+Checks: Hegoenhi
+Pot size: 405
+Showdown Reached
+Shows: Che, Ts Ac
+Combination: Che, Two Pair ( Ac As 4s 4d Ts )
+Shows: Hegoenhi, 6d 8s
+Combination: Hegoenhi, Two Pair ( 6d 6c 4s 4d As )
+Shows: Deeha, Td Th
+Combination: Deeha, Two Pair ( Td Th 4s 4d As )
+Wins: Che, chips: 405
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Deeha
+Small Blind: Che, chips: 5
+Big Blind: Hegoenhi, chips: 10
+Raises: Deeha, chips: 20
+Folds: Che
+Calls: Hegoenhi
+Flop: Kh 7h 9s
+Checks: Hegoenhi
+Raises: Deeha, chips: 20
+Calls: Hegoenhi
+Turn: 4h
+Checks: Hegoenhi
+Raises: Deeha, chips: 20
+Calls: Hegoenhi
+River: Ad
+Checks: Hegoenhi
+Checks: Deeha
+Pot size: 145
+Showdown Reached
+Shows: Hegoenhi, Th 6c
+Combination: Hegoenhi, High Card ( Ad Kh Th 9s 7h )
+Shows: Deeha, Qs 2c
+Combination: Deeha, High Card ( Ad Kh Qs 9s 7h )
+Wins: Deeha, chips: 145
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Che
+Small Blind: Hegoenhi, chips: 5
+Big Blind: Deeha, chips: 10
+Folds: Che
+Calls: Hegoenhi
+Raises: Deeha, chips: 805
+Calls: Hegoenhi
+Flop: 6c 9c 3s
+Turn: 4c
+River: Qc
+Pot size: 1630
+Showdown Reached
+Shows: Hegoenhi, 2s Jd
+Combination: Hegoenhi, High Card ( Qc Jd 9c 6c 4c )
+Shows: Deeha, Td Jh
+Combination: Deeha, High Card ( Qc Jh Td 9c 6c )
+Wins: Deeha, chips: 1630
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Hegoenhi
+Small Blind: Deeha, chips: 5
+Big Blind: Che, chips: 10
+Calls: Hegoenhi
+Folds: Deeha
+Checks: Che
+Flop: 2c 4d 8s
+Checks: Che
+Checks: Hegoenhi
+Turn: 5s
+Checks: Che
+Checks: Hegoenhi
+River: 7s
+Raises: Che, chips: 1265
+Calls: Hegoenhi
+Pot size: 2555
+Showdown Reached
+Shows: Che, 6h Jh
+Combination: Che, Straight ( 8s 7s 6h 5s 4d )
+Shows: Hegoenhi, 7d 9h
+Combination: Hegoenhi, Pair ( 7d 7s 9h 8s 5s )
+Wins: Che, chips: 2555
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Deeha
+Small Blind: Che, chips: 5
+Big Blind: Hegoenhi, chips: 10
+Calls: Deeha
+Calls: Che
+Checks: Hegoenhi
+Flop: Kh 5d 6h
+Checks: Che
+Checks: Hegoenhi
+Checks: Deeha
+Turn: 4h
+Checks: Che
+Checks: Hegoenhi
+Checks: Deeha
+River: 7c
+Checks: Che
+Checks: Hegoenhi
+Checks: Deeha
+Pot size: 30
+Showdown Reached
+Shows: Che, Ad Qs
+Combination: Che, High Card ( Ad Kh Qs 7c 6h )
+Shows: Hegoenhi, 6c Js
+Combination: Hegoenhi, Pair ( 6c 6h Kh Js 7c )
+Shows: Deeha, 9c Qd
+Combination: Deeha, High Card ( Kh Qd 9c 7c 6h )
+Wins: Hegoenhi, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Che
+Small Blind: Hegoenhi, chips: 5
+Big Blind: Deeha, chips: 10
+Raises: Che, chips: 10
+Calls: Hegoenhi
+Raises: Deeha, chips: 20
+Calls: Che
+Calls: Hegoenhi
+Flop: 2c 6d 4d
+Checks: Hegoenhi
+Checks: Deeha
+Checks: Che
+Turn: 4c
+Checks: Hegoenhi
+Raises: Deeha, chips: 20
+Folds: Che
+Calls: Hegoenhi
+River: 8h
+Checks: Hegoenhi
+Checks: Deeha
+Pot size: 160
+Showdown Reached
+Shows: Hegoenhi, 9s 4h
+Combination: Hegoenhi, Three Of A Kind ( 4h 4d 4c 9s 8h )
+Shows: Deeha, Qd 6s
+Combination: Deeha, Two Pair ( 6s 6d 4d 4c Qd )
+Wins: Hegoenhi, chips: 160
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Hegoenhi
+Small Blind: Deeha, chips: 5
+Big Blind: Che, chips: 10
+Calls: Hegoenhi
+Raises: Deeha, chips: 15
+Folds: Che
+Calls: Hegoenhi
+Flop: 5d Ad As
+Checks: Deeha
+Checks: Hegoenhi
+Turn: 2h
+Raises: Deeha, chips: 15
+Calls: Hegoenhi
+River: 6s
+Raises: Deeha, chips: 15
+Calls: Hegoenhi
+Pot size: 120
+Showdown Reached
+Shows: Hegoenhi, Qh 7h
+Combination: Hegoenhi, Pair ( Ad As Qh 7h 6s )
+Shows: Deeha, Js 5c
+Combination: Deeha, Two Pair ( Ad As 5c 5d Js )
+Wins: Deeha, chips: 120
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Deeha
+Small Blind: Che, chips: 5
+Big Blind: Hegoenhi, chips: 10
+Calls: Deeha
+Folds: Che
+Checks: Hegoenhi
+Flop: Qh 9s Ts
+Checks: Hegoenhi
+Raises: Deeha, chips: 10
+Calls: Hegoenhi
+Turn: 8c
+Checks: Hegoenhi
+Checks: Deeha
+River: Ac
+Checks: Hegoenhi
+Checks: Deeha
+Pot size: 45
+Showdown Reached
+Shows: Hegoenhi, Ks Kc
+Combination: Hegoenhi, Pair ( Ks Kc Ac Qh Ts )
+Shows: Deeha, 7s 8h
+Combination: Deeha, Pair ( 8h 8c Ac Qh Ts )
+Wins: Hegoenhi, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Che
+Small Blind: Hegoenhi, chips: 5
+Big Blind: Deeha, chips: 10
+Folds: Che
+Calls: Hegoenhi
+Raises: Deeha, chips: 10
+Calls: Hegoenhi
+Flop: 8c 6c 3h
+Checks: Hegoenhi
+Checks: Deeha
+Turn: Jc
+Checks: Hegoenhi
+Checks: Deeha
+River: 2c
+Checks: Hegoenhi
+Raises: Deeha, chips: 10
+Calls: Hegoenhi
+Pot size: 60
+Showdown Reached
+Shows: Hegoenhi, Ad Qd
+Combination: Hegoenhi, High Card ( Ad Qd Jc 8c 6c )
+Shows: Deeha, 8h Kh
+Combination: Deeha, Pair ( 8h 8c Kh Jc 6c )
+Wins: Deeha, chips: 60
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Hegoenhi
+Small Blind: Deeha, chips: 5
+Big Blind: Che, chips: 10
+Calls: Hegoenhi
+Calls: Deeha
+Checks: Che
+Flop: 3c 4c 4h
+Checks: Deeha
+Raises: Che, chips: 2480
+Calls: Hegoenhi
+Calls: Deeha
+Turn: 3d
+River: Qs
+Pot size: 6610
+Showdown Reached
+Shows: Che, 8d 4s
+Combination: Che, Full House ( 4s 4c 4h 3c 3d )
+Shows: Hegoenhi, Js 3h
+Combination: Hegoenhi, Full House ( 3h 3c 3d 4c 4h )
+Shows: Deeha, 6s 7h
+Combination: Deeha, Two Pair ( 4c 4h 3c 3d Qs )
+Wins: Che, chips: 6610
+Quits: Deeha, chips: 0
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Che
+Small Blind: Che, chips: 5
+Big Blind: Hegoenhi, chips: 10
+Folds: Che
+Pot size: 15
+Wins: Hegoenhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Hegoenhi
+Small Blind: Hegoenhi, chips: 5
+Big Blind: Che, chips: 10
+Calls: Hegoenhi
+Checks: Che
+Flop: 2h Ah 9s
+Raises: Che, chips: 10
+Calls: Hegoenhi
+Turn: 6c
+Raises: Che, chips: 10
+Calls: Hegoenhi
+River: 4h
+Checks: Che
+Checks: Hegoenhi
+Pot size: 60
+Showdown Reached
+Shows: Che, Ac Jc
+Combination: Che, Pair ( Ac Ah Jc 9s 6c )
+Shows: Hegoenhi, Qs Ks
+Combination: Hegoenhi, High Card ( Ah Ks Qs 9s 6c )
+Wins: Che, chips: 60
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Che
+Small Blind: Che, chips: 5
+Big Blind: Hegoenhi, chips: 10
+Calls: Che
+Checks: Hegoenhi
+Flop: Js As 6h
+Checks: Hegoenhi
+Checks: Che
+Turn: Ad
+Checks: Hegoenhi
+Checks: Che
+River: 4c
+Checks: Hegoenhi
+Checks: Che
+Pot size: 20
+Showdown Reached
+Shows: Che, Kc 8c
+Combination: Che, Pair ( As Ad Kc Js 8c )
+Shows: Hegoenhi, Qh 2h
+Combination: Hegoenhi, Pair ( As Ad Qh Js 6h )
+Wins: Che, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Hegoenhi
+Small Blind: Hegoenhi, chips: 5
+Big Blind: Che, chips: 10
+Calls: Hegoenhi
+Checks: Che
+Flop: Ad 4s Kh
+Checks: Che
+Checks: Hegoenhi
+Turn: 6s
+Checks: Che
+Checks: Hegoenhi
+River: Qh
+Checks: Che
+Checks: Hegoenhi
+Pot size: 20
+Showdown Reached
+Shows: Che, 8h 3h
+Combination: Che, High Card ( Ad Kh Qh 8h 6s )
+Shows: Hegoenhi, 5c Kc
+Combination: Hegoenhi, Pair ( Kc Kh Ad Qh 6s )
+Wins: Hegoenhi, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Che
+Small Blind: Che, chips: 5
+Big Blind: Hegoenhi, chips: 10
+Folds: Che
+Pot size: 15
+Wins: Hegoenhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Hegoenhi
+Small Blind: Hegoenhi, chips: 5
+Big Blind: Che, chips: 10
+Calls: Hegoenhi
+Checks: Che
+Flop: Jh Tc Qd
+Checks: Che
+Checks: Hegoenhi
+Turn: 9h
+Checks: Che
+Checks: Hegoenhi
+River: As
+Checks: Che
+Checks: Hegoenhi
+Pot size: 20
+Showdown Reached
+Shows: Che, 9d 4d
+Combination: Che, Pair ( 9d 9h As Qd Jh )
+Shows: Hegoenhi, 9s 2h
+Combination: Hegoenhi, Pair ( 9s 9h As Qd Jh )
+Wins: Che, chips: 10
+Wins: Hegoenhi, chips: 10
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Che
+Small Blind: Che, chips: 5
+Big Blind: Hegoenhi, chips: 10
+Folds: Che
+Pot size: 15
+Wins: Hegoenhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Hegoenhi
+Small Blind: Hegoenhi, chips: 5
+Big Blind: Che, chips: 10
+Calls: Hegoenhi
+Checks: Che
+Flop: Kh Qh 9h
+Checks: Che
+Checks: Hegoenhi
+Turn: 9d
+Checks: Che
+Checks: Hegoenhi
+River: 4h
+Checks: Che
+Checks: Hegoenhi
+Pot size: 20
+Showdown Reached
+Shows: Che, 8d Ac
+Combination: Che, Pair ( 9h 9d Ac Kh Qh )
+Shows: Hegoenhi, Jc As
+Combination: Hegoenhi, Pair ( 9h 9d As Kh Qh )
+Wins: Che, chips: 10
+Wins: Hegoenhi, chips: 10
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Che
+Small Blind: Che, chips: 5
+Big Blind: Hegoenhi, chips: 10
+Folds: Che
+Pot size: 15
+Wins: Hegoenhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Hegoenhi
+Small Blind: Hegoenhi, chips: 5
+Big Blind: Che, chips: 10
+Calls: Hegoenhi
+Checks: Che
+Flop: Js 9h Qh
+Checks: Che
+Checks: Hegoenhi
+Turn: 3h
+Checks: Che
+Checks: Hegoenhi
+River: 2h
+Checks: Che
+Checks: Hegoenhi
+Pot size: 20
+Showdown Reached
+Shows: Che, Kc 8d
+Combination: Che, High Card ( Kc Qh Js 9h 8d )
+Shows: Hegoenhi, 7s 2d
+Combination: Hegoenhi, Pair ( 2d 2h Qh Js 9h )
+Wins: Hegoenhi, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Che
+Small Blind: Che, chips: 5
+Big Blind: Hegoenhi, chips: 10
+Calls: Che
+Checks: Hegoenhi
+Flop: 8h 4d 7c
+Checks: Hegoenhi
+Checks: Che
+Turn: Js
+Checks: Hegoenhi
+Checks: Che
+River: Ah
+Checks: Hegoenhi
+Checks: Che
+Pot size: 20
+Showdown Reached
+Shows: Che, 2h 4h
+Combination: Che, Pair ( 4h 4d Ah Js 8h )
+Shows: Hegoenhi, 4s 5d
+Combination: Hegoenhi, Pair ( 4s 4d Ah Js 8h )
+Wins: Che, chips: 10
+Wins: Hegoenhi, chips: 10
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Hegoenhi
+Small Blind: Hegoenhi, chips: 5
+Big Blind: Che, chips: 10
+Calls: Hegoenhi
+Checks: Che
+Flop: 3c 9h 4d
+Checks: Che
+Checks: Hegoenhi
+Turn: Ac
+Checks: Che
+Checks: Hegoenhi
+River: Kc
+Checks: Che
+Checks: Hegoenhi
+Pot size: 20
+Showdown Reached
+Shows: Che, 6c 6d
+Combination: Che, Pair ( 6c 6d Ac Kc 9h )
+Shows: Hegoenhi, Qd 8c
+Combination: Hegoenhi, High Card ( Ac Kc Qd 9h 8c )
+Wins: Che, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Che
+Small Blind: Che, chips: 5
+Big Blind: Hegoenhi, chips: 10
+Calls: Che
+Checks: Hegoenhi
+Flop: 2s Kc 4d
+Checks: Hegoenhi
+Checks: Che
+Turn: 3s
+Checks: Hegoenhi
+Checks: Che
+River: Qd
+Checks: Hegoenhi
+Raises: Che, chips: 10
+Calls: Hegoenhi
+Pot size: 40
+Showdown Reached
+Shows: Che, 9d 9c
+Combination: Che, Pair ( 9d 9c Kc Qd 4d )
+Shows: Hegoenhi, 7c 5s
+Combination: Hegoenhi, High Card ( Kc Qd 7c 5s 4d )
+Wins: Che, chips: 40
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Hegoenhi
+Small Blind: Hegoenhi, chips: 5
+Big Blind: Che, chips: 10
+Calls: Hegoenhi
+Checks: Che
+Flop: 8h 5s 8d
+Raises: Che, chips: 10
+Calls: Hegoenhi
+Turn: 4c
+Raises: Che, chips: 6620
+Calls: Hegoenhi
+River: Jh
+Pot size: 7000
+Showdown Reached
+Shows: Che, 8s As
+Combination: Che, Three Of A Kind ( 8s 8h 8d As Jh )
+Shows: Hegoenhi, 9h 7d
+Combination: Hegoenhi, Pair ( 8h 8d Jh 9h 7d )
+Wins: Che, chips: 7000
+Quits: Hegoenhi, chips: 0
+Ranking: Che, Place: 1, Score: 6000
+Reveal AI: Che, AI: Smart
+Ranking: Hegoenhi, Place: 2, Score: -1000
+Reveal AI: Hegoenhi, AI: Call
+Ranking: Deeha, Place: 3, Score: -1000
+Reveal AI: Deeha, AI: Random
+Ranking: Vichiwreek, Place: 4, Score: -1000
+Reveal AI: Vichiwreek, AI: Call
+Ranking: Choedee, Place: 5, Score: -1000
+Reveal AI: Choedee, AI: Smart
+Ranking: Gehihom, Place: 6, Score: -1000
+Reveal AI: Gehihom, AI: AIMyBot1
+Ranking: Kufoetry, Place: 7, Score: -1000
+Reveal AI: Kufoetry, AI: Random
+
+Player Stats for Che, AI: Smart
+General: deals: 40, actions: 108, preflop actions: 43
+Rounds Seen: flops: 23, turns: 22, rivers: 21, showdowns: 21
+Wins: total: 13, showdown: 13, bluff: 0
+Chips: won: 16920, lost: 10920, bought: 1000, forced bets: 230
+Pre-Flop Stats: VP$IP: 0.3, PFR: 0.025, 3Bet: 0.025
+Post-Flop Stats: AF: 5.5, WSD: 0.913043, WSDW: 0.619048
+
+
+Player Stats for Choedee, AI: Smart
+General: deals: 6, actions: 15, preflop actions: 6
+Rounds Seen: flops: 33, turns: 33, rivers: 33, showdowns: 33
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 15
+Pre-Flop Stats: VP$IP: 0.5, PFR: 0.166667, 3Bet: 0.166667
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Deeha, AI: Random
+General: deals: 26, actions: 80, preflop actions: 27
+Rounds Seen: flops: 28, turns: 28, rivers: 28, showdowns: 28
+Wins: total: 7, showdown: 7, bluff: 0
+Chips: won: 2065, lost: 3925, bought: 1000, forced bets: 120
+Pre-Flop Stats: VP$IP: 0.615385, PFR: 0.384615, 3Bet: 0.230769
+Post-Flop Stats: AF: 4.66667, WSD: 1, WSDW: 0.25
+
+
+Player Stats for Gehihom, AI: AIMyBot1
+General: deals: 2, actions: 3, preflop actions: 3
+Rounds Seen: flops: 34, turns: 34, rivers: 34, showdowns: 34
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 0
+Pre-Flop Stats: VP$IP: 0.5, PFR: 0.5, 3Bet: 0.5
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Hegoenhi, AI: Call
+General: deals: 40, actions: 151, preflop actions: 45
+Rounds Seen: flops: 35, turns: 35, rivers: 35, showdowns: 35
+Wins: total: 21, showdown: 16, bluff: 5
+Chips: won: 6695, lost: 13985, bought: 1000, forced bets: 215
+Pre-Flop Stats: VP$IP: 0.7, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: 0, WSD: 1, WSDW: 0.457143
+
+
+Player Stats for Kufoetry, AI: Random
+General: deals: 2, actions: 4, preflop actions: 4
+Rounds Seen: flops: 34, turns: 34, rivers: 34, showdowns: 34
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 0
+Pre-Flop Stats: VP$IP: 0.5, PFR: 0.5, 3Bet: 0.5
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Vichiwreek, AI: Call
+General: deals: 6, actions: 19, preflop actions: 7
+Rounds Seen: flops: 35, turns: 35, rivers: 35, showdowns: 35
+Wins: total: 3, showdown: 3, bluff: 0
+Chips: won: 115, lost: 2010, bought: 1000, forced bets: 20
+Pre-Flop Stats: VP$IP: 0.833333, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.0857143
+
+
+Date: 2026/04/30 12:51:59
+
+The game begins. The AI's of the players are: 
+Choedee: Smart
+Kufoetry: Random
+Gehihom: AIMyBot1
+Vichiwreek: Call
+Che: Smart
+Hegoenhi: Call
+Deeha: Random
+
+Joins: Choedee, chips: 1000
+Joins: Kufoetry, chips: 1000
+Joins: Gehihom, chips: 1000
+Joins: Vichiwreek, chips: 1000
+Joins: Che, chips: 1000
+Joins: Hegoenhi, chips: 1000
+Joins: Deeha, chips: 1000
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gehihom
+Small Blind: Vichiwreek, chips: 5
+Big Blind: Che, chips: 10
+Calls: Hegoenhi
+Folds: Deeha
+Calls: Choedee
+Folds: Kufoetry
+Folds: Gehihom
+Calls: Vichiwreek
+Checks: Che
+Flop: Jc 3d Ks
+Checks: Vichiwreek
+Checks: Che
+Checks: Hegoenhi
+Checks: Choedee
+Turn: Ac
+Checks: Vichiwreek
+Checks: Che
+Checks: Hegoenhi
+Checks: Choedee
+River: 4d
+Checks: Vichiwreek
+Checks: Che
+Checks: Hegoenhi
+Checks: Choedee
+Pot size: 40
+Showdown Reached
+Shows: Choedee, 8c 9d
+Combination: Choedee, High Card ( Ac Ks Jc 9d 8c )
+Boasts: Kufoetry, Kc Tc
+Shows: Vichiwreek, Qh Qd
+Combination: Vichiwreek, Pair ( Qh Qd Ac Ks Jc )
+Shows: Che, 4c 9s
+Combination: Che, Pair ( 4c 4d Ac Ks Jc )
+Shows: Hegoenhi, Jd Td
+Combination: Hegoenhi, Pair ( Jd Jc Ac Ks Td )
+Wins: Vichiwreek, chips: 40
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Vichiwreek
+Small Blind: Che, chips: 5
+Big Blind: Hegoenhi, chips: 10
+Folds: Deeha
+Folds: Choedee
+Raises: Kufoetry, chips: 20
+Raises: Gehihom, chips: 100
+Calls: Vichiwreek
+Folds: Che
+Calls: Hegoenhi
+Raises: Kufoetry, chips: 200
+Raises: Gehihom, chips: 670
+Calls: Vichiwreek
+Calls: Hegoenhi
+Calls: Kufoetry
+Flop: Kh Ah 9d
+Turn: 3c
+River: 8s
+Pot size: 3995
+Showdown Reached
+Shows: Kufoetry, Tc 8d
+Combination: Kufoetry, Pair ( 8d 8s Ah Kh Tc )
+Shows: Gehihom, 4h Qh
+Combination: Gehihom, High Card ( Ah Kh Qh 9d 8s )
+Shows: Vichiwreek, 9s Qc
+Combination: Vichiwreek, Pair ( 9s 9d Ah Kh Qc )
+Shows: Hegoenhi, Ad Js
+Combination: Hegoenhi, Pair ( Ad Ah Kh Js 9d )
+Wins: Vichiwreek, chips: 30
+Wins: Hegoenhi, chips: 3965
+Quits: Kufoetry, chips: 0
+Quits: Gehihom, chips: 0
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Che
+Small Blind: Hegoenhi, chips: 5
+Big Blind: Deeha, chips: 10
+Folds: Choedee
+Calls: Vichiwreek
+Folds: Che
+Calls: Hegoenhi
+Checks: Deeha
+Flop: 4h 2d 7d
+Checks: Hegoenhi
+Checks: Deeha
+Checks: Vichiwreek
+Turn: 5c
+Checks: Hegoenhi
+Checks: Deeha
+Checks: Vichiwreek
+River: 2h
+Checks: Hegoenhi
+Checks: Deeha
+Checks: Vichiwreek
+Pot size: 30
+Showdown Reached
+Shows: Vichiwreek, Qs Kh
+Combination: Vichiwreek, Pair ( 2d 2h Kh Qs 7d )
+Shows: Hegoenhi, 4s 8c
+Combination: Hegoenhi, Two Pair ( 4s 4h 2d 2h 8c )
+Shows: Deeha, 5h 8h
+Combination: Deeha, Two Pair ( 5h 5c 2d 2h 8h )
+Wins: Deeha, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Hegoenhi
+Small Blind: Deeha, chips: 5
+Big Blind: Choedee, chips: 10
+Calls: Vichiwreek
+Calls: Che
+Calls: Hegoenhi
+Folds: Deeha
+Checks: Choedee
+Flop: Qh As 2s
+Checks: Choedee
+Checks: Vichiwreek
+Checks: Che
+Checks: Hegoenhi
+Turn: Ts
+Checks: Choedee
+Checks: Vichiwreek
+Checks: Che
+Checks: Hegoenhi
+River: 4s
+Checks: Choedee
+Checks: Vichiwreek
+Checks: Che
+Checks: Hegoenhi
+Pot size: 45
+Showdown Reached
+Shows: Choedee, 7c 6c
+Combination: Choedee, High Card ( As Qh Ts 7c 6c )
+Shows: Vichiwreek, 7h 9s
+Combination: Vichiwreek, Flush ( As Ts 9s 4s 2s )
+Shows: Che, Jd Qc
+Combination: Che, Pair ( Qc Qh As Jd Ts )
+Shows: Hegoenhi, Kd 6d
+Combination: Hegoenhi, High Card ( As Kd Qh Ts 6d )
+Boasts: Deeha, 6h 2d
+Wins: Vichiwreek, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Deeha
+Small Blind: Choedee, chips: 5
+Big Blind: Vichiwreek, chips: 10
+Calls: Che
+Calls: Hegoenhi
+Folds: Deeha
+Calls: Choedee
+Checks: Vichiwreek
+Flop: 9d 8c Qh
+Checks: Choedee
+Checks: Vichiwreek
+Checks: Che
+Checks: Hegoenhi
+Turn: 8d
+Checks: Choedee
+Checks: Vichiwreek
+Checks: Che
+Checks: Hegoenhi
+River: 2d
+Checks: Choedee
+Checks: Vichiwreek
+Checks: Che
+Checks: Hegoenhi
+Pot size: 40
+Showdown Reached
+Shows: Choedee, Jc 7c
+Combination: Choedee, Pair ( 8c 8d Qh Jc 9d )
+Shows: Vichiwreek, 6s 4h
+Combination: Vichiwreek, Pair ( 8c 8d Qh 9d 6s )
+Shows: Che, Kc 6c
+Combination: Che, Pair ( 8c 8d Kc Qh 9d )
+Shows: Hegoenhi, 2h 7s
+Combination: Hegoenhi, Two Pair ( 8c 8d 2h 2d Qh )
+Wins: Hegoenhi, chips: 40
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Choedee
+Small Blind: Vichiwreek, chips: 5
+Big Blind: Che, chips: 10
+Calls: Hegoenhi
+Raises: Deeha, chips: 20
+Raises: Choedee, chips: 940
+Calls: Vichiwreek
+Folds: Che
+Calls: Hegoenhi
+Folds: Deeha
+Flop: Kh Js Ad
+Turn: 8c
+River: Ac
+Pot size: 2055
+Showdown Reached
+Shows: Choedee, 9d 9c
+Combination: Choedee, Two Pair ( Ad Ac 9d 9c Kh )
+Shows: Vichiwreek, 7c Tc
+Combination: Vichiwreek, Pair ( Ad Ac Kh Js Tc )
+Shows: Hegoenhi, 7s Jc
+Combination: Hegoenhi, Two Pair ( Ad Ac Jc Js Kh )
+Wins: Hegoenhi, chips: 2055
+Quits: Choedee, chips: 0
+Quits: Vichiwreek, chips: 0
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Che
+Small Blind: Hegoenhi, chips: 5
+Big Blind: Deeha, chips: 10
+Folds: Che
+Calls: Hegoenhi
+Checks: Deeha
+Flop: 9d Kd 4c
+Checks: Hegoenhi
+Raises: Deeha, chips: 10
+Calls: Hegoenhi
+Turn: Qd
+Checks: Hegoenhi
+Raises: Deeha, chips: 10
+Calls: Hegoenhi
+River: Th
+Checks: Hegoenhi
+Checks: Deeha
+Pot size: 60
+Showdown Reached
+Shows: Hegoenhi, 4h 4s
+Combination: Hegoenhi, Three Of A Kind ( 4h 4s 4c Kd Qd )
+Shows: Deeha, 7h 2h
+Combination: Deeha, High Card ( Kd Qd Th 9d 7h )
+Wins: Hegoenhi, chips: 60
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Hegoenhi
+Small Blind: Deeha, chips: 5
+Big Blind: Che, chips: 10
+Calls: Hegoenhi
+Folds: Deeha
+Checks: Che
+Flop: Ah Kh 4d
+Checks: Che
+Checks: Hegoenhi
+Turn: 2s
+Checks: Che
+Checks: Hegoenhi
+River: Jd
+Raises: Che, chips: 10
+Calls: Hegoenhi
+Pot size: 45
+Showdown Reached
+Shows: Che, Js 3c
+Combination: Che, Pair ( Js Jd Ah Kh 4d )
+Shows: Hegoenhi, 7c Jc
+Combination: Hegoenhi, Pair ( Jc Jd Ah Kh 7c )
+Boasts: Deeha, 2h 9c
+Wins: Hegoenhi, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Deeha
+Small Blind: Che, chips: 5
+Big Blind: Hegoenhi, chips: 10
+Calls: Deeha
+Calls: Che
+Checks: Hegoenhi
+Flop: 8c 3h Th
+Checks: Che
+Checks: Hegoenhi
+Raises: Deeha, chips: 10
+Folds: Che
+Calls: Hegoenhi
+Turn: Qc
+Checks: Hegoenhi
+Checks: Deeha
+River: Jh
+Checks: Hegoenhi
+Raises: Deeha, chips: 10
+Calls: Hegoenhi
+Pot size: 70
+Showdown Reached
+Shows: Hegoenhi, 4d Jc
+Combination: Hegoenhi, Pair ( Jc Jh Qc Th 8c )
+Shows: Deeha, Td 7c
+Combination: Deeha, Pair ( Td Th Qc Jh 8c )
+Wins: Hegoenhi, chips: 70
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Che
+Small Blind: Hegoenhi, chips: 5
+Big Blind: Deeha, chips: 10
+Calls: Che
+Calls: Hegoenhi
+Raises: Deeha, chips: 10
+Folds: Che
+Calls: Hegoenhi
+Flop: 7d Kd 6d
+Checks: Hegoenhi
+Checks: Deeha
+Turn: 4d
+Checks: Hegoenhi
+Checks: Deeha
+River: Qc
+Checks: Hegoenhi
+Checks: Deeha
+Pot size: 50
+Showdown Reached
+Shows: Hegoenhi, Jh 7c
+Combination: Hegoenhi, Pair ( 7c 7d Kd Qc Jh )
+Shows: Deeha, Ks Ah
+Combination: Deeha, Pair ( Ks Kd Ah Qc 7d )
+Wins: Deeha, chips: 50
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Hegoenhi
+Small Blind: Deeha, chips: 5
+Big Blind: Che, chips: 10
+Calls: Hegoenhi
+Raises: Deeha, chips: 15
+Folds: Che
+Calls: Hegoenhi
+Flop: Ac Qd Ah
+Checks: Deeha
+Checks: Hegoenhi
+Turn: 3h
+Checks: Deeha
+Checks: Hegoenhi
+River: 8h
+Checks: Deeha
+Checks: Hegoenhi
+Pot size: 60
+Showdown Reached
+Shows: Hegoenhi, Ks Kc
+Combination: Hegoenhi, Two Pair ( Ac Ah Ks Kc Qd )
+Shows: Deeha, 2d 8c
+Combination: Deeha, Two Pair ( Ac Ah 8c 8h Qd )
+Wins: Hegoenhi, chips: 60
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Deeha
+Small Blind: Che, chips: 5
+Big Blind: Hegoenhi, chips: 10
+Calls: Deeha
+Calls: Che
+Checks: Hegoenhi
+Flop: Td 2d 3c
+Checks: Che
+Checks: Hegoenhi
+Checks: Deeha
+Turn: 2s
+Checks: Che
+Checks: Hegoenhi
+Checks: Deeha
+River: Kd
+Checks: Che
+Checks: Hegoenhi
+Checks: Deeha
+Pot size: 30
+Showdown Reached
+Shows: Che, Tc 9d
+Combination: Che, Two Pair ( Tc Td 2d 2s Kd )
+Shows: Hegoenhi, 4c Qh
+Combination: Hegoenhi, Pair ( 2d 2s Kd Qh Td )
+Shows: Deeha, Jd 8d
+Combination: Deeha, Flush ( Kd Jd Td 8d 2d )
+Wins: Deeha, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Che
+Small Blind: Hegoenhi, chips: 5
+Big Blind: Deeha, chips: 10
+Folds: Che
+Calls: Hegoenhi
+Checks: Deeha
+Flop: Jc 4s Kc
+Checks: Hegoenhi
+Checks: Deeha
+Turn: 8s
+Checks: Hegoenhi
+Checks: Deeha
+River: 6d
+Checks: Hegoenhi
+Checks: Deeha
+Pot size: 20
+Showdown Reached
+Shows: Hegoenhi, 9s 4c
+Combination: Hegoenhi, Pair ( 4c 4s Kc Jc 9s )
+Shows: Deeha, 7h 3h
+Combination: Deeha, High Card ( Kc Jc 8s 7h 6d )
+Wins: Hegoenhi, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Hegoenhi
+Small Blind: Deeha, chips: 5
+Big Blind: Che, chips: 10
+Calls: Hegoenhi
+Calls: Deeha
+Checks: Che
+Flop: Ad 8c Kd
+Checks: Deeha
+Raises: Che, chips: 10
+Calls: Hegoenhi
+Calls: Deeha
+Turn: Ks
+Checks: Deeha
+Checks: Che
+Checks: Hegoenhi
+River: 8h
+Checks: Deeha
+Checks: Che
+Checks: Hegoenhi
+Pot size: 60
+Showdown Reached
+Shows: Che, 9d Ac
+Combination: Che, Two Pair ( Ac Ad Kd Ks 9d )
+Shows: Hegoenhi, Js 5s
+Combination: Hegoenhi, Two Pair ( Kd Ks 8c 8h Ad )
+Shows: Deeha, 5d 2c
+Combination: Deeha, Two Pair ( Kd Ks 8c 8h Ad )
+Wins: Che, chips: 60
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Deeha
+Small Blind: Che, chips: 5
+Big Blind: Hegoenhi, chips: 10
+Folds: Deeha
+Folds: Che
+Pot size: 15
+Boasts: Deeha, 7c 2h
+Wins: Hegoenhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Che
+Small Blind: Hegoenhi, chips: 5
+Big Blind: Deeha, chips: 10
+Calls: Che
+Calls: Hegoenhi
+Raises: Deeha, chips: 10
+Calls: Che
+Calls: Hegoenhi
+Flop: Qh Qc 4c
+Checks: Hegoenhi
+Checks: Deeha
+Checks: Che
+Turn: As
+Checks: Hegoenhi
+Raises: Deeha, chips: 10
+Calls: Che
+Calls: Hegoenhi
+River: Js
+Checks: Hegoenhi
+Raises: Deeha, chips: 10
+Calls: Che
+Calls: Hegoenhi
+Pot size: 120
+Showdown Reached
+Shows: Che, Ac 5c
+Combination: Che, Two Pair ( Ac As Qh Qc Js )
+Shows: Hegoenhi, 2c 6h
+Combination: Hegoenhi, Pair ( Qh Qc As Js 6h )
+Shows: Deeha, Jd 2d
+Combination: Deeha, Two Pair ( Qh Qc Jd Js As )
+Wins: Che, chips: 120
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Hegoenhi
+Small Blind: Deeha, chips: 5
+Big Blind: Che, chips: 10
+Calls: Hegoenhi
+Raises: Deeha, chips: 15
+Calls: Che
+Calls: Hegoenhi
+Flop: 4s As 9h
+Checks: Deeha
+Raises: Che, chips: 20
+Calls: Hegoenhi
+Raises: Deeha, chips: 40
+Raises: Che, chips: 50
+Calls: Hegoenhi
+Calls: Deeha
+Turn: 4d
+Checks: Deeha
+Checks: Che
+Checks: Hegoenhi
+River: 6c
+Checks: Deeha
+Checks: Che
+Checks: Hegoenhi
+Pot size: 405
+Showdown Reached
+Shows: Che, Ts Ac
+Combination: Che, Two Pair ( Ac As 4s 4d Ts )
+Shows: Hegoenhi, 6d 8s
+Combination: Hegoenhi, Two Pair ( 6d 6c 4s 4d As )
+Shows: Deeha, Td Th
+Combination: Deeha, Two Pair ( Td Th 4s 4d As )
+Wins: Che, chips: 405
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Deeha
+Small Blind: Che, chips: 5
+Big Blind: Hegoenhi, chips: 10
+Raises: Deeha, chips: 20
+Folds: Che
+Calls: Hegoenhi
+Flop: Kh 7h 9s
+Checks: Hegoenhi
+Raises: Deeha, chips: 20
+Calls: Hegoenhi
+Turn: 4h
+Checks: Hegoenhi
+Raises: Deeha, chips: 20
+Calls: Hegoenhi
+River: Ad
+Checks: Hegoenhi
+Checks: Deeha
+Pot size: 145
+Showdown Reached
+Shows: Hegoenhi, Th 6c
+Combination: Hegoenhi, High Card ( Ad Kh Th 9s 7h )
+Shows: Deeha, Qs 2c
+Combination: Deeha, High Card ( Ad Kh Qs 9s 7h )
+Wins: Deeha, chips: 145
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Che
+Small Blind: Hegoenhi, chips: 5
+Big Blind: Deeha, chips: 10
+Folds: Che
+Calls: Hegoenhi
+Raises: Deeha, chips: 805
+Calls: Hegoenhi
+Flop: 6c 9c 3s
+Turn: 4c
+River: Qc
+Pot size: 1630
+Showdown Reached
+Shows: Hegoenhi, 2s Jd
+Combination: Hegoenhi, High Card ( Qc Jd 9c 6c 4c )
+Shows: Deeha, Td Jh
+Combination: Deeha, High Card ( Qc Jh Td 9c 6c )
+Wins: Deeha, chips: 1630
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Hegoenhi
+Small Blind: Deeha, chips: 5
+Big Blind: Che, chips: 10
+Calls: Hegoenhi
+Folds: Deeha
+Checks: Che
+Flop: 2c 4d 8s
+Checks: Che
+Checks: Hegoenhi
+Turn: 5s
+Checks: Che
+Checks: Hegoenhi
+River: 7s
+Raises: Che, chips: 1265
+Calls: Hegoenhi
+Pot size: 2555
+Showdown Reached
+Shows: Che, 6h Jh
+Combination: Che, Straight ( 8s 7s 6h 5s 4d )
+Shows: Hegoenhi, 7d 9h
+Combination: Hegoenhi, Pair ( 7d 7s 9h 8s 5s )
+Wins: Che, chips: 2555
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Deeha
+Small Blind: Che, chips: 5
+Big Blind: Hegoenhi, chips: 10
+Calls: Deeha
+Calls: Che
+Checks: Hegoenhi
+Flop: Kh 5d 6h
+Checks: Che
+Checks: Hegoenhi
+Checks: Deeha
+Turn: 4h
+Checks: Che
+Checks: Hegoenhi
+Checks: Deeha
+River: 7c
+Checks: Che
+Checks: Hegoenhi
+Checks: Deeha
+Pot size: 30
+Showdown Reached
+Shows: Che, Ad Qs
+Combination: Che, High Card ( Ad Kh Qs 7c 6h )
+Shows: Hegoenhi, 6c Js
+Combination: Hegoenhi, Pair ( 6c 6h Kh Js 7c )
+Shows: Deeha, 9c Qd
+Combination: Deeha, High Card ( Kh Qd 9c 7c 6h )
+Wins: Hegoenhi, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Che
+Small Blind: Hegoenhi, chips: 5
+Big Blind: Deeha, chips: 10
+Raises: Che, chips: 10
+Calls: Hegoenhi
+Raises: Deeha, chips: 20
+Calls: Che
+Calls: Hegoenhi
+Flop: 2c 6d 4d
+Checks: Hegoenhi
+Checks: Deeha
+Checks: Che
+Turn: 4c
+Checks: Hegoenhi
+Raises: Deeha, chips: 20
+Folds: Che
+Calls: Hegoenhi
+River: 8h
+Checks: Hegoenhi
+Checks: Deeha
+Pot size: 160
+Showdown Reached
+Shows: Hegoenhi, 9s 4h
+Combination: Hegoenhi, Three Of A Kind ( 4h 4d 4c 9s 8h )
+Shows: Deeha, Qd 6s
+Combination: Deeha, Two Pair ( 6s 6d 4d 4c Qd )
+Wins: Hegoenhi, chips: 160
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Hegoenhi
+Small Blind: Deeha, chips: 5
+Big Blind: Che, chips: 10
+Calls: Hegoenhi
+Raises: Deeha, chips: 15
+Folds: Che
+Calls: Hegoenhi
+Flop: 5d Ad As
+Checks: Deeha
+Checks: Hegoenhi
+Turn: 2h
+Raises: Deeha, chips: 15
+Calls: Hegoenhi
+River: 6s
+Raises: Deeha, chips: 15
+Calls: Hegoenhi
+Pot size: 120
+Showdown Reached
+Shows: Hegoenhi, Qh 7h
+Combination: Hegoenhi, Pair ( Ad As Qh 7h 6s )
+Shows: Deeha, Js 5c
+Combination: Deeha, Two Pair ( Ad As 5c 5d Js )
+Wins: Deeha, chips: 120
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Deeha
+Small Blind: Che, chips: 5
+Big Blind: Hegoenhi, chips: 10
+Calls: Deeha
+Folds: Che
+Checks: Hegoenhi
+Flop: Qh 9s Ts
+Checks: Hegoenhi
+Raises: Deeha, chips: 10
+Calls: Hegoenhi
+Turn: 8c
+Checks: Hegoenhi
+Checks: Deeha
+River: Ac
+Checks: Hegoenhi
+Checks: Deeha
+Pot size: 45
+Showdown Reached
+Shows: Hegoenhi, Ks Kc
+Combination: Hegoenhi, Pair ( Ks Kc Ac Qh Ts )
+Shows: Deeha, 7s 8h
+Combination: Deeha, Pair ( 8h 8c Ac Qh Ts )
+Wins: Hegoenhi, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Che
+Small Blind: Hegoenhi, chips: 5
+Big Blind: Deeha, chips: 10
+Folds: Che
+Calls: Hegoenhi
+Raises: Deeha, chips: 10
+Calls: Hegoenhi
+Flop: 8c 6c 3h
+Checks: Hegoenhi
+Checks: Deeha
+Turn: Jc
+Checks: Hegoenhi
+Checks: Deeha
+River: 2c
+Checks: Hegoenhi
+Raises: Deeha, chips: 10
+Calls: Hegoenhi
+Pot size: 60
+Showdown Reached
+Shows: Hegoenhi, Ad Qd
+Combination: Hegoenhi, High Card ( Ad Qd Jc 8c 6c )
+Shows: Deeha, 8h Kh
+Combination: Deeha, Pair ( 8h 8c Kh Jc 6c )
+Wins: Deeha, chips: 60
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Hegoenhi
+Small Blind: Deeha, chips: 5
+Big Blind: Che, chips: 10
+Calls: Hegoenhi
+Calls: Deeha
+Checks: Che
+Flop: 3c 4c 4h
+Checks: Deeha
+Raises: Che, chips: 2480
+Calls: Hegoenhi
+Calls: Deeha
+Turn: 3d
+River: Qs
+Pot size: 6610
+Showdown Reached
+Shows: Che, 8d 4s
+Combination: Che, Full House ( 4s 4c 4h 3c 3d )
+Shows: Hegoenhi, Js 3h
+Combination: Hegoenhi, Full House ( 3h 3c 3d 4c 4h )
+Shows: Deeha, 6s 7h
+Combination: Deeha, Two Pair ( 4c 4h 3c 3d Qs )
+Wins: Che, chips: 6610
+Quits: Deeha, chips: 0
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Che
+Small Blind: Che, chips: 5
+Big Blind: Hegoenhi, chips: 10
+Folds: Che
+Pot size: 15
+Wins: Hegoenhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Hegoenhi
+Small Blind: Hegoenhi, chips: 5
+Big Blind: Che, chips: 10
+Calls: Hegoenhi
+Checks: Che
+Flop: 2h Ah 9s
+Raises: Che, chips: 10
+Calls: Hegoenhi
+Turn: 6c
+Raises: Che, chips: 10
+Calls: Hegoenhi
+River: 4h
+Checks: Che
+Checks: Hegoenhi
+Pot size: 60
+Showdown Reached
+Shows: Che, Ac Jc
+Combination: Che, Pair ( Ac Ah Jc 9s 6c )
+Shows: Hegoenhi, Qs Ks
+Combination: Hegoenhi, High Card ( Ah Ks Qs 9s 6c )
+Wins: Che, chips: 60
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Che
+Small Blind: Che, chips: 5
+Big Blind: Hegoenhi, chips: 10
+Calls: Che
+Checks: Hegoenhi
+Flop: Js As 6h
+Checks: Hegoenhi
+Checks: Che
+Turn: Ad
+Checks: Hegoenhi
+Checks: Che
+River: 4c
+Checks: Hegoenhi
+Checks: Che
+Pot size: 20
+Showdown Reached
+Shows: Che, Kc 8c
+Combination: Che, Pair ( As Ad Kc Js 8c )
+Shows: Hegoenhi, Qh 2h
+Combination: Hegoenhi, Pair ( As Ad Qh Js 6h )
+Wins: Che, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Hegoenhi
+Small Blind: Hegoenhi, chips: 5
+Big Blind: Che, chips: 10
+Calls: Hegoenhi
+Checks: Che
+Flop: Ad 4s Kh
+Checks: Che
+Checks: Hegoenhi
+Turn: 6s
+Checks: Che
+Checks: Hegoenhi
+River: Qh
+Checks: Che
+Checks: Hegoenhi
+Pot size: 20
+Showdown Reached
+Shows: Che, 8h 3h
+Combination: Che, High Card ( Ad Kh Qh 8h 6s )
+Shows: Hegoenhi, 5c Kc
+Combination: Hegoenhi, Pair ( Kc Kh Ad Qh 6s )
+Wins: Hegoenhi, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Che
+Small Blind: Che, chips: 5
+Big Blind: Hegoenhi, chips: 10
+Folds: Che
+Pot size: 15
+Wins: Hegoenhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Hegoenhi
+Small Blind: Hegoenhi, chips: 5
+Big Blind: Che, chips: 10
+Calls: Hegoenhi
+Checks: Che
+Flop: Jh Tc Qd
+Checks: Che
+Checks: Hegoenhi
+Turn: 9h
+Checks: Che
+Checks: Hegoenhi
+River: As
+Checks: Che
+Checks: Hegoenhi
+Pot size: 20
+Showdown Reached
+Shows: Che, 9d 4d
+Combination: Che, Pair ( 9d 9h As Qd Jh )
+Shows: Hegoenhi, 9s 2h
+Combination: Hegoenhi, Pair ( 9s 9h As Qd Jh )
+Wins: Che, chips: 10
+Wins: Hegoenhi, chips: 10
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Che
+Small Blind: Che, chips: 5
+Big Blind: Hegoenhi, chips: 10
+Folds: Che
+Pot size: 15
+Wins: Hegoenhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Hegoenhi
+Small Blind: Hegoenhi, chips: 5
+Big Blind: Che, chips: 10
+Calls: Hegoenhi
+Checks: Che
+Flop: Kh Qh 9h
+Checks: Che
+Checks: Hegoenhi
+Turn: 9d
+Checks: Che
+Checks: Hegoenhi
+River: 4h
+Checks: Che
+Checks: Hegoenhi
+Pot size: 20
+Showdown Reached
+Shows: Che, 8d Ac
+Combination: Che, Pair ( 9h 9d Ac Kh Qh )
+Shows: Hegoenhi, Jc As
+Combination: Hegoenhi, Pair ( 9h 9d As Kh Qh )
+Wins: Che, chips: 10
+Wins: Hegoenhi, chips: 10
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Che
+Small Blind: Che, chips: 5
+Big Blind: Hegoenhi, chips: 10
+Folds: Che
+Pot size: 15
+Wins: Hegoenhi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Hegoenhi
+Small Blind: Hegoenhi, chips: 5
+Big Blind: Che, chips: 10
+Calls: Hegoenhi
+Checks: Che
+Flop: Js 9h Qh
+Checks: Che
+Checks: Hegoenhi
+Turn: 3h
+Checks: Che
+Checks: Hegoenhi
+River: 2h
+Checks: Che
+Checks: Hegoenhi
+Pot size: 20
+Showdown Reached
+Shows: Che, Kc 8d
+Combination: Che, High Card ( Kc Qh Js 9h 8d )
+Shows: Hegoenhi, 7s 2d
+Combination: Hegoenhi, Pair ( 2d 2h Qh Js 9h )
+Wins: Hegoenhi, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Che
+Small Blind: Che, chips: 5
+Big Blind: Hegoenhi, chips: 10
+Calls: Che
+Checks: Hegoenhi
+Flop: 8h 4d 7c
+Checks: Hegoenhi
+Checks: Che
+Turn: Js
+Checks: Hegoenhi
+Checks: Che
+River: Ah
+Checks: Hegoenhi
+Checks: Che
+Pot size: 20
+Showdown Reached
+Shows: Che, 2h 4h
+Combination: Che, Pair ( 4h 4d Ah Js 8h )
+Shows: Hegoenhi, 4s 5d
+Combination: Hegoenhi, Pair ( 4s 4d Ah Js 8h )
+Wins: Che, chips: 10
+Wins: Hegoenhi, chips: 10
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Hegoenhi
+Small Blind: Hegoenhi, chips: 5
+Big Blind: Che, chips: 10
+Calls: Hegoenhi
+Checks: Che
+Flop: 3c 9h 4d
+Checks: Che
+Checks: Hegoenhi
+Turn: Ac
+Checks: Che
+Checks: Hegoenhi
+River: Kc
+Checks: Che
+Checks: Hegoenhi
+Pot size: 20
+Showdown Reached
+Shows: Che, 6c 6d
+Combination: Che, Pair ( 6c 6d Ac Kc 9h )
+Shows: Hegoenhi, Qd 8c
+Combination: Hegoenhi, High Card ( Ac Kc Qd 9h 8c )
+Wins: Che, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Che
+Small Blind: Che, chips: 5
+Big Blind: Hegoenhi, chips: 10
+Calls: Che
+Checks: Hegoenhi
+Flop: 2s Kc 4d
+Checks: Hegoenhi
+Checks: Che
+Turn: 3s
+Checks: Hegoenhi
+Checks: Che
+River: Qd
+Checks: Hegoenhi
+Raises: Che, chips: 10
+Calls: Hegoenhi
+Pot size: 40
+Showdown Reached
+Shows: Che, 9d 9c
+Combination: Che, Pair ( 9d 9c Kc Qd 4d )
+Shows: Hegoenhi, 7c 5s
+Combination: Hegoenhi, High Card ( Kc Qd 7c 5s 4d )
+Wins: Che, chips: 40
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Hegoenhi
+Small Blind: Hegoenhi, chips: 5
+Big Blind: Che, chips: 10
+Calls: Hegoenhi
+Checks: Che
+Flop: 8h 5s 8d
+Raises: Che, chips: 10
+Calls: Hegoenhi
+Turn: 4c
+Raises: Che, chips: 6620
+Calls: Hegoenhi
+River: Jh
+Pot size: 7000
+Showdown Reached
+Shows: Che, 8s As
+Combination: Che, Three Of A Kind ( 8s 8h 8d As Jh )
+Shows: Hegoenhi, 9h 7d
+Combination: Hegoenhi, Pair ( 8h 8d Jh 9h 7d )
+Wins: Che, chips: 7000
+Quits: Hegoenhi, chips: 0
+Ranking: Che, Place: 1, Score: 6000
+Reveal AI: Che, AI: Smart
+Ranking: Hegoenhi, Place: 2, Score: -1000
+Reveal AI: Hegoenhi, AI: Call
+Ranking: Deeha, Place: 3, Score: -1000
+Reveal AI: Deeha, AI: Random
+Ranking: Vichiwreek, Place: 4, Score: -1000
+Reveal AI: Vichiwreek, AI: Call
+Ranking: Choedee, Place: 5, Score: -1000
+Reveal AI: Choedee, AI: Smart
+Ranking: Gehihom, Place: 6, Score: -1000
+Reveal AI: Gehihom, AI: AIMyBot1
+Ranking: Kufoetry, Place: 7, Score: -1000
+Reveal AI: Kufoetry, AI: Random
+
+Player Stats for Che, AI: Smart
+General: deals: 40, actions: 108, preflop actions: 43
+Rounds Seen: flops: 23, turns: 22, rivers: 21, showdowns: 21
+Wins: total: 13, showdown: 13, bluff: 0
+Chips: won: 16920, lost: 10920, bought: 1000, forced bets: 230
+Pre-Flop Stats: VP$IP: 0.3, PFR: 0.025, 3Bet: 0.025
+Post-Flop Stats: AF: 5.5, WSD: 0.913043, WSDW: 0.619048
+
+
+Player Stats for Choedee, AI: Smart
+General: deals: 6, actions: 15, preflop actions: 6
+Rounds Seen: flops: 33, turns: 33, rivers: 33, showdowns: 33
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 15
+Pre-Flop Stats: VP$IP: 0.5, PFR: 0.166667, 3Bet: 0.166667
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Deeha, AI: Random
+General: deals: 26, actions: 80, preflop actions: 27
+Rounds Seen: flops: 28, turns: 28, rivers: 28, showdowns: 28
+Wins: total: 7, showdown: 7, bluff: 0
+Chips: won: 2065, lost: 3925, bought: 1000, forced bets: 120
+Pre-Flop Stats: VP$IP: 0.615385, PFR: 0.384615, 3Bet: 0.230769
+Post-Flop Stats: AF: 4.66667, WSD: 1, WSDW: 0.25
+
+
+Player Stats for Gehihom, AI: AIMyBot1
+General: deals: 2, actions: 3, preflop actions: 3
+Rounds Seen: flops: 34, turns: 34, rivers: 34, showdowns: 34
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 0
+Pre-Flop Stats: VP$IP: 0.5, PFR: 0.5, 3Bet: 0.5
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Hegoenhi, AI: Call
+General: deals: 40, actions: 151, preflop actions: 45
+Rounds Seen: flops: 35, turns: 35, rivers: 35, showdowns: 35
+Wins: total: 21, showdown: 16, bluff: 5
+Chips: won: 6695, lost: 13985, bought: 1000, forced bets: 215
+Pre-Flop Stats: VP$IP: 0.7, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: 0, WSD: 1, WSDW: 0.457143
+
+
+Player Stats for Kufoetry, AI: Random
+General: deals: 2, actions: 4, preflop actions: 4
+Rounds Seen: flops: 34, turns: 34, rivers: 34, showdowns: 34
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 0
+Pre-Flop Stats: VP$IP: 0.5, PFR: 0.5, 3Bet: 0.5
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0
+
+
+Player Stats for Vichiwreek, AI: Call
+General: deals: 6, actions: 19, preflop actions: 7
+Rounds Seen: flops: 35, turns: 35, rivers: 35, showdowns: 35
+Wins: total: 3, showdown: 3, bluff: 0
+Chips: won: 115, lost: 2010, bought: 1000, forced bets: 20
+Pre-Flop Stats: VP$IP: 0.833333, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 1, WSDW: 0.0857143
+
+

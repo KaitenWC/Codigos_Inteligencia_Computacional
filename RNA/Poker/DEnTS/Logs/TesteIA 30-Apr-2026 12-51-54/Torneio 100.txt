@@ -1,0 +1,1398 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Joe: Smart
+Gilitee: AIMyBot1
+Rosir: Smart
+Hisitry: Call
+Geera: Random
+Raroewee: Call
+Guwas: Random
+
+Joins: Joe, chips: 1000
+Joins: Gilitee, chips: 1000
+Joins: Rosir, chips: 1000
+Joins: Hisitry, chips: 1000
+Joins: Geera, chips: 1000
+Joins: Raroewee, chips: 1000
+Joins: Guwas, chips: 1000
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Joe
+Small Blind: Gilitee, chips: 5
+Big Blind: Rosir, chips: 10
+Calls: Hisitry
+Raises: Geera, chips: 20
+Calls: Raroewee
+Folds: Guwas
+Calls: Joe
+Raises: Gilitee, chips: 90
+Calls: Rosir
+Calls: Hisitry
+Calls: Geera
+Calls: Raroewee
+Folds: Joe
+Flop: 4h 6d 2c
+Raises: Gilitee, chips: 180
+Folds: Rosir
+Calls: Hisitry
+Calls: Geera
+Calls: Raroewee
+Turn: 5h
+Raises: Gilitee, chips: 360
+Calls: Hisitry
+Raises: Geera, chips: 340
+Calls: Raroewee
+Calls: Gilitee
+Calls: Hisitry
+River: 9d
+Pot size: 4150
+Showdown Reached
+Shows: Gilitee, 2h 9c
+Combination: Gilitee, Two Pair ( 9c 9d 2h 2c 6d )
+Shows: Hisitry, Td Js
+Combination: Hisitry, High Card ( Js Td 9d 6d 5h )
+Shows: Geera, 3h 7c
+Combination: Geera, Straight ( 7c 6d 5h 4h 3h )
+Shows: Raroewee, Qs Jh
+Combination: Raroewee, High Card ( Qs Jh 9d 6d 5h )
+Wins: Geera, chips: 4150
+Quits: Gilitee, chips: 0
+Quits: Hisitry, chips: 0
+Quits: Raroewee, chips: 0
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Rosir
+Small Blind: Geera, chips: 5
+Big Blind: Guwas, chips: 10
+Folds: Joe
+Folds: Rosir
+Folds: Geera
+Pot size: 15
+Wins: Guwas, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Geera
+Small Blind: Guwas, chips: 5
+Big Blind: Joe, chips: 10
+Folds: Rosir
+Calls: Geera
+Raises: Guwas, chips: 15
+Folds: Joe
+Calls: Geera
+Flop: Jh 3d Th
+Checks: Guwas
+Checks: Geera
+Turn: Ks
+Checks: Guwas
+Checks: Geera
+River: Td
+Checks: Guwas
+Checks: Geera
+Pot size: 60
+Showdown Reached
+Shows: Geera, 6s 9d
+Combination: Geera, Pair ( Th Td Ks Jh 9d )
+Shows: Guwas, Kc 8s
+Combination: Guwas, Two Pair ( Kc Ks Th Td Jh )
+Wins: Guwas, chips: 60
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Guwas
+Small Blind: Joe, chips: 5
+Big Blind: Rosir, chips: 10
+Calls: Geera
+Calls: Guwas
+Folds: Joe
+Checks: Rosir
+Flop: 3s Jc 5c
+Checks: Rosir
+Checks: Geera
+Raises: Guwas, chips: 10
+Folds: Rosir
+Calls: Geera
+Turn: 7h
+Checks: Geera
+Checks: Guwas
+River: 6s
+Checks: Geera
+Raises: Guwas, chips: 10
+Calls: Geera
+Pot size: 75
+Showdown Reached
+Shows: Geera, 8h Qs
+Combination: Geera, High Card ( Qs Jc 8h 7h 6s )
+Shows: Guwas, As 2d
+Combination: Guwas, High Card ( As Jc 7h 6s 5c )
+Wins: Guwas, chips: 75
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Joe
+Small Blind: Rosir, chips: 5
+Big Blind: Geera, chips: 10
+Folds: Guwas
+Folds: Joe
+Folds: Rosir
+Pot size: 15
+Boasts: Guwas, 8d 9s
+Wins: Geera, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Rosir
+Small Blind: Geera, chips: 5
+Big Blind: Guwas, chips: 10
+Raises: Joe, chips: 20
+Folds: Rosir
+Calls: Geera
+Folds: Guwas
+Flop: Ts 7d 2s
+Checks: Geera
+Raises: Joe, chips: 30
+Raises: Geera, chips: 4035
+Calls: Joe
+Turn: Ah
+River: 5d
+Pot size: 5060
+Showdown Reached
+Shows: Joe, Js Jc
+Combination: Joe, Pair ( Js Jc Ah Ts 7d )
+Shows: Geera, Ad 8d
+Combination: Geera, Pair ( Ad Ah Ts 8d 7d )
+Boasts: Guwas, Ks 9d
+Wins: Geera, chips: 5060
+Quits: Joe, chips: 0
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Geera
+Small Blind: Guwas, chips: 5
+Big Blind: Rosir, chips: 10
+Calls: Geera
+Raises: Guwas, chips: 15
+Folds: Rosir
+Raises: Geera, chips: 30
+Calls: Guwas
+Flop: Jh 2c 5d
+Raises: Guwas, chips: 30
+Calls: Geera
+Turn: Jc
+Checks: Guwas
+Raises: Geera, chips: 30
+Raises: Guwas, chips: 60
+Raises: Geera, chips: 120
+Calls: Guwas
+River: 9d
+Checks: Guwas
+Checks: Geera
+Pot size: 600
+Showdown Reached
+Shows: Geera, 4s 8h
+Combination: Geera, Pair ( Jh Jc 9d 8h 5d )
+Shows: Guwas, Ts 6h
+Combination: Guwas, Pair ( Jh Jc Ts 9d 6h )
+Wins: Guwas, chips: 600
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Guwas
+Small Blind: Rosir, chips: 5
+Big Blind: Geera, chips: 10
+Folds: Guwas
+Folds: Rosir
+Pot size: 15
+Boasts: Geera, 3d 6d
+Wins: Geera, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Rosir
+Small Blind: Geera, chips: 5
+Big Blind: Guwas, chips: 10
+Calls: Rosir
+Calls: Geera
+Checks: Guwas
+Flop: 6d 4h Js
+Checks: Geera
+Checks: Guwas
+Checks: Rosir
+Turn: Ad
+Raises: Geera, chips: 10
+Calls: Guwas
+Raises: Rosir, chips: 10
+Calls: Geera
+Calls: Guwas
+River: 3d
+Checks: Geera
+Raises: Guwas, chips: 10
+Raises: Rosir, chips: 20
+Raises: Geera, chips: 50
+Folds: Guwas
+Calls: Rosir
+Pot size: 260
+Showdown Reached
+Shows: Rosir, Jc Qh
+Combination: Rosir, Pair ( Jc Js Ad Qh 6d )
+Shows: Geera, 7d 5s
+Combination: Geera, Straight ( 7d 6d 5s 4h 3d )
+Wins: Geera, chips: 260
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Geera
+Small Blind: Guwas, chips: 5
+Big Blind: Rosir, chips: 10
+Calls: Geera
+Raises: Guwas, chips: 15
+Folds: Rosir
+Calls: Geera
+Flop: Qc Ah Ad
+Checks: Guwas
+Raises: Geera, chips: 15
+Calls: Guwas
+Turn: 9h
+Checks: Guwas
+Checks: Geera
+River: Tc
+Raises: Guwas, chips: 15
+Folds: Geera
+Pot size: 105
+Boasts: Geera, 7h 5s
+Boasts: Guwas, 2s Ts
+Wins: Guwas, chips: 105
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Guwas
+Small Blind: Rosir, chips: 5
+Big Blind: Geera, chips: 10
+Folds: Guwas
+Folds: Rosir
+Pot size: 15
+Wins: Geera, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Rosir
+Small Blind: Geera, chips: 5
+Big Blind: Guwas, chips: 10
+Folds: Rosir
+Calls: Geera
+Checks: Guwas
+Flop: 9s 3d Kd
+Raises: Geera, chips: 10
+Folds: Guwas
+Pot size: 30
+Boasts: Guwas, 6s Jc
+Wins: Geera, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Geera
+Small Blind: Guwas, chips: 5
+Big Blind: Rosir, chips: 10
+Raises: Geera, chips: 20
+Folds: Guwas
+Folds: Rosir
+Pot size: 45
+Boasts: Guwas, 6h 3s
+Wins: Geera, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Guwas
+Small Blind: Rosir, chips: 5
+Big Blind: Geera, chips: 10
+Raises: Guwas, chips: 20
+Folds: Rosir
+Raises: Geera, chips: 40
+Folds: Guwas
+Pot size: 105
+Boasts: Geera, Kd Js
+Wins: Geera, chips: 105
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Rosir
+Small Blind: Geera, chips: 5
+Big Blind: Guwas, chips: 10
+Calls: Rosir
+Calls: Geera
+Checks: Guwas
+Flop: Jh 5h Td
+Checks: Geera
+Raises: Guwas, chips: 10
+Folds: Rosir
+Raises: Geera, chips: 20
+Calls: Guwas
+Turn: 6s
+Checks: Geera
+Raises: Guwas, chips: 20
+Folds: Geera
+Pot size: 110
+Wins: Guwas, chips: 110
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Geera
+Small Blind: Guwas, chips: 5
+Big Blind: Rosir, chips: 10
+Folds: Geera
+Calls: Guwas
+Checks: Rosir
+Flop: 4h Jc 3h
+Checks: Guwas
+Checks: Rosir
+Turn: 5h
+Checks: Guwas
+Checks: Rosir
+River: 2s
+Raises: Guwas, chips: 10
+Raises: Rosir, chips: 10
+Calls: Guwas
+Pot size: 60
+Showdown Reached
+Shows: Rosir, 6d Ac
+Combination: Rosir, Straight ( 6d 5h 4h 3h 2s )
+Boasts: Geera, 4c 6h
+Shows: Guwas, Th Qc
+Combination: Guwas, High Card ( Qc Jc Th 5h 4h )
+Wins: Rosir, chips: 60
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Guwas
+Small Blind: Rosir, chips: 5
+Big Blind: Geera, chips: 10
+Calls: Guwas
+Calls: Rosir
+Raises: Geera, chips: 10
+Calls: Guwas
+Folds: Rosir
+Flop: 3c 3d 8c
+Checks: Geera
+Raises: Guwas, chips: 10
+Folds: Geera
+Pot size: 60
+Boasts: Geera, Qc 5h
+Boasts: Guwas, 9d Td
+Wins: Guwas, chips: 60
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Rosir
+Small Blind: Geera, chips: 5
+Big Blind: Guwas, chips: 10
+Folds: Rosir
+Raises: Geera, chips: 4875
+Calls: Guwas
+Flop: 8d Kc 6d
+Turn: Td
+River: Ks
+Pot size: 6280
+Showdown Reached
+Shows: Geera, 7c 6c
+Combination: Geera, Two Pair ( Kc Ks 6c 6d Td )
+Shows: Guwas, 5h Jd
+Combination: Guwas, Pair ( Kc Ks Jd Td 8d )
+Wins: Geera, chips: 6280
+Quits: Guwas, chips: 0
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Geera
+Small Blind: Geera, chips: 5
+Big Blind: Rosir, chips: 10
+Raises: Geera, chips: 15
+Folds: Rosir
+Pot size: 35
+Wins: Geera, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Rosir
+Small Blind: Rosir, chips: 5
+Big Blind: Geera, chips: 10
+Calls: Rosir
+Checks: Geera
+Flop: 5h 7h 6c
+Checks: Geera
+Checks: Rosir
+Turn: Jh
+Checks: Geera
+Raises: Rosir, chips: 10
+Calls: Geera
+River: 3h
+Checks: Geera
+Raises: Rosir, chips: 690
+Calls: Geera
+Pot size: 1420
+Showdown Reached
+Shows: Rosir, 6h 4h
+Combination: Rosir, Straight Flush ( 7h 6h 5h 4h 3h )
+Shows: Geera, 9d 3d
+Combination: Geera, Pair ( 3d 3h Jh 9d 7h )
+Wins: Rosir, chips: 1420
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Geera
+Small Blind: Geera, chips: 5
+Big Blind: Rosir, chips: 10
+Raises: Geera, chips: 15
+Calls: Rosir
+Flop: 9h Jd Qc
+Checks: Rosir
+Checks: Geera
+Turn: Qd
+Checks: Rosir
+Checks: Geera
+River: 2d
+Checks: Rosir
+Raises: Geera, chips: 15
+Folds: Rosir
+Pot size: 65
+Boasts: Geera, 9c 9s
+Wins: Geera, chips: 65
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Rosir
+Small Blind: Rosir, chips: 5
+Big Blind: Geera, chips: 10
+Folds: Rosir
+Pot size: 15
+Wins: Geera, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Geera
+Small Blind: Geera, chips: 5
+Big Blind: Rosir, chips: 10
+Calls: Geera
+Checks: Rosir
+Flop: 3d Qh 4s
+Checks: Rosir
+Raises: Geera, chips: 10
+Calls: Rosir
+Turn: 8h
+Checks: Rosir
+Checks: Geera
+River: 3c
+Checks: Rosir
+Checks: Geera
+Pot size: 40
+Showdown Reached
+Shows: Rosir, Kc 5s
+Combination: Rosir, Pair ( 3d 3c Kc Qh 8h )
+Shows: Geera, 4c Tc
+Combination: Geera, Two Pair ( 4c 4s 3d 3c Qh )
+Wins: Geera, chips: 40
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Rosir
+Small Blind: Rosir, chips: 5
+Big Blind: Geera, chips: 10
+Folds: Rosir
+Pot size: 15
+Boasts: Geera, Tc Qs
+Wins: Geera, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Geera
+Small Blind: Geera, chips: 5
+Big Blind: Rosir, chips: 10
+Calls: Geera
+Checks: Rosir
+Flop: 6h Kh Qc
+Checks: Rosir
+Checks: Geera
+Turn: 5d
+Checks: Rosir
+Raises: Geera, chips: 10
+Folds: Rosir
+Pot size: 30
+Boasts: Geera, 9c 9s
+Wins: Geera, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Rosir
+Small Blind: Rosir, chips: 5
+Big Blind: Geera, chips: 10
+Folds: Rosir
+Pot size: 15
+Wins: Geera, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Geera
+Small Blind: Geera, chips: 5
+Big Blind: Rosir, chips: 10
+Calls: Geera
+Checks: Rosir
+Flop: Ks Qc Jc
+Raises: Rosir, chips: 10
+Calls: Geera
+Turn: 8h
+Raises: Rosir, chips: 1330
+Raises: Geera, chips: 1340
+River: 4c
+Pot size: 4040
+Showdown Reached
+Shows: Rosir, Tc 9c
+Combination: Rosir, Flush ( Qc Jc Tc 9c 4c )
+Shows: Geera, 9d 7s
+Combination: Geera, High Card ( Ks Qc Jc 9d 8h )
+Wins: Rosir, chips: 2700
+Wins: Geera, chips: 1340
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Rosir
+Small Blind: Rosir, chips: 5
+Big Blind: Geera, chips: 10
+Calls: Rosir
+Raises: Geera, chips: 10
+Raises: Rosir, chips: 10
+Folds: Geera
+Pot size: 50
+Boasts: Geera, 9d 2s
+Wins: Rosir, chips: 50
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Geera
+Small Blind: Geera, chips: 5
+Big Blind: Rosir, chips: 10
+Folds: Geera
+Pot size: 15
+Boasts: Geera, Ks As
+Wins: Rosir, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Rosir
+Small Blind: Rosir, chips: 5
+Big Blind: Geera, chips: 10
+Folds: Rosir
+Pot size: 15
+Boasts: Geera, 6h Js
+Wins: Geera, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Geera
+Small Blind: Geera, chips: 5
+Big Blind: Rosir, chips: 10
+Folds: Geera
+Pot size: 15
+Wins: Rosir, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Rosir
+Small Blind: Rosir, chips: 5
+Big Blind: Geera, chips: 10
+Folds: Rosir
+Pot size: 15
+Boasts: Geera, 8h 5d
+Wins: Geera, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Geera
+Small Blind: Geera, chips: 5
+Big Blind: Rosir, chips: 10
+Raises: Geera, chips: 15
+Folds: Rosir
+Pot size: 35
+Boasts: Geera, 9s 9c
+Wins: Geera, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Rosir
+Small Blind: Rosir, chips: 5
+Big Blind: Geera, chips: 10
+Calls: Rosir
+Checks: Geera
+Flop: 7c 2s Kh
+Raises: Geera, chips: 10
+Folds: Rosir
+Pot size: 30
+Wins: Geera, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Geera
+Small Blind: Geera, chips: 5
+Big Blind: Rosir, chips: 10
+Calls: Geera
+Checks: Rosir
+Flop: Jc 2d 4d
+Raises: Rosir, chips: 2690
+Raises: Geera, chips: 1600
+Turn: Ks
+River: 5c
+Pot size: 7000
+Showdown Reached
+Shows: Rosir, 2c 4h
+Combination: Rosir, Two Pair ( 4h 4d 2c 2d Ks )
+Shows: Geera, 6h 6s
+Combination: Geera, Pair ( 6h 6s Ks Jc 5c )
+Wins: Rosir, chips: 5400
+Wins: Geera, chips: 1600
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Rosir
+Small Blind: Rosir, chips: 5
+Big Blind: Geera, chips: 10
+Folds: Rosir
+Pot size: 15
+Wins: Geera, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Geera
+Small Blind: Geera, chips: 5
+Big Blind: Rosir, chips: 10
+Raises: Geera, chips: 15
+Folds: Rosir
+Pot size: 35
+Wins: Geera, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Rosir
+Small Blind: Rosir, chips: 5
+Big Blind: Geera, chips: 10
+Calls: Rosir
+Raises: Geera, chips: 10
+Calls: Rosir
+Flop: 9s 2d Td
+Checks: Geera
+Checks: Rosir
+Turn: 4h
+Checks: Geera
+Raises: Rosir, chips: 5365
+Calls: Geera
+River: 8s
+Pot size: 7000
+Showdown Reached
+Shows: Rosir, Th Jc
+Combination: Rosir, Pair ( Th Td Jc 9s 8s )
+Shows: Geera, 2s Kh
+Combination: Geera, Pair ( 2s 2d Kh Td 9s )
+Wins: Rosir, chips: 7000
+Quits: Geera, chips: 0
+Ranking: Rosir, Place: 1, Score: 6000
+Reveal AI: Rosir, AI: Smart
+Ranking: Geera, Place: 2, Score: -1000
+Reveal AI: Geera, AI: Random
+Ranking: Guwas, Place: 3, Score: -1000
+Reveal AI: Guwas, AI: Random
+Ranking: Joe, Place: 4, Score: -1000
+Reveal AI: Joe, AI: Smart
+Ranking: Raroewee, Place: 5, Score: -1000
+Reveal AI: Raroewee, AI: Call
+Ranking: Hisitry, Place: 6, Score: -1000
+Reveal AI: Hisitry, AI: Call
+Ranking: Gilitee, Place: 7, Score: -1000
+Reveal AI: Gilitee, AI: AIMyBot1
+
+Player Stats for Geera, AI: Random
+General: deals: 38, actions: 85, preflop actions: 34
+Rounds Seen: flops: 19, turns: 16, rivers: 14, showdowns: 12
+Wins: total: 25, showdown: 7, bluff: 18
+Chips: won: 19275, lost: 24045, bought: 1000, forced bets: 230
+Pre-Flop Stats: VP$IP: 0.605263, PFR: 0.315789, 3Bet: 0.236842
+Post-Flop Stats: AF: 1.66667, WSD: 0.631579, WSDW: 0.583333
+
+
+Player Stats for Gilitee, AI: AIMyBot1
+General: deals: 1, actions: 4, preflop actions: 1
+Rounds Seen: flops: 20, turns: 17, rivers: 15, showdowns: 13
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 5
+Pre-Flop Stats: VP$IP: 1, PFR: 1, 3Bet: 1
+Post-Flop Stats: AF: 2, WSD: 0.65, WSDW: 0
+
+
+Player Stats for Guwas, AI: Random
+General: deals: 18, actions: 49, preflop actions: 20
+Rounds Seen: flops: 18, turns: 15, rivers: 13, showdowns: 10
+Wins: total: 7, showdown: 3, bluff: 4
+Chips: won: 1025, lost: 5515, bought: 1000, forced bets: 85
+Pre-Flop Stats: VP$IP: 0.444444, PFR: 0.222222, 3Bet: 0.222222
+Post-Flop Stats: AF: 1.66667, WSD: 0.555556, WSDW: 0.3
+
+
+Player Stats for Hisitry, AI: Call
+General: deals: 1, actions: 5, preflop actions: 2
+Rounds Seen: flops: 20, turns: 17, rivers: 15, showdowns: 13
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 0
+Pre-Flop Stats: VP$IP: 1, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: 0, WSD: 0.65, WSDW: 0
+
+
+Player Stats for Joe, AI: Smart
+General: deals: 6, actions: 9, preflop actions: 7
+Rounds Seen: flops: 17, turns: 14, rivers: 12, showdowns: 10
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 4140, bought: 1000, forced bets: 15
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.166667, 3Bet: 0.166667
+Post-Flop Stats: AF: 1, WSD: 0.588235, WSDW: 0
+
+
+Player Stats for Raroewee, AI: Call
+General: deals: 1, actions: 4, preflop actions: 2
+Rounds Seen: flops: 20, turns: 17, rivers: 15, showdowns: 13
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 0
+Pre-Flop Stats: VP$IP: 1, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: 0, WSD: 0.65, WSDW: 0
+
+
+Player Stats for Rosir, AI: Smart
+General: deals: 38, actions: 70, preflop actions: 39
+Rounds Seen: flops: 13, turns: 9, rivers: 8, showdowns: 7
+Wins: total: 8, showdown: 5, bluff: 3
+Chips: won: 16660, lost: 10660, bought: 1000, forced bets: 235
+Pre-Flop Stats: VP$IP: 0.236842, PFR: 0.0263158, 3Bet: 0.0263158
+Post-Flop Stats: AF: 4.5, WSD: 0.538462, WSDW: 0.714286
+
+
+Date: 2026/04/30 12:58:02
+
+The game begins. The AI's of the players are: 
+Joe: Smart
+Gilitee: AIMyBot1
+Rosir: Smart
+Hisitry: Call
+Geera: Random
+Raroewee: Call
+Guwas: Random
+
+Joins: Joe, chips: 1000
+Joins: Gilitee, chips: 1000
+Joins: Rosir, chips: 1000
+Joins: Hisitry, chips: 1000
+Joins: Geera, chips: 1000
+Joins: Raroewee, chips: 1000
+Joins: Guwas, chips: 1000
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Joe
+Small Blind: Gilitee, chips: 5
+Big Blind: Rosir, chips: 10
+Calls: Hisitry
+Raises: Geera, chips: 20
+Calls: Raroewee
+Folds: Guwas
+Calls: Joe
+Raises: Gilitee, chips: 90
+Calls: Rosir
+Calls: Hisitry
+Calls: Geera
+Calls: Raroewee
+Folds: Joe
+Flop: 4h 6d 2c
+Raises: Gilitee, chips: 180
+Folds: Rosir
+Calls: Hisitry
+Calls: Geera
+Calls: Raroewee
+Turn: 5h
+Raises: Gilitee, chips: 360
+Calls: Hisitry
+Raises: Geera, chips: 340
+Calls: Raroewee
+Calls: Gilitee
+Calls: Hisitry
+River: 9d
+Pot size: 4150
+Showdown Reached
+Shows: Gilitee, 2h 9c
+Combination: Gilitee, Two Pair ( 9c 9d 2h 2c 6d )
+Shows: Hisitry, Td Js
+Combination: Hisitry, High Card ( Js Td 9d 6d 5h )
+Shows: Geera, 3h 7c
+Combination: Geera, Straight ( 7c 6d 5h 4h 3h )
+Shows: Raroewee, Qs Jh
+Combination: Raroewee, High Card ( Qs Jh 9d 6d 5h )
+Wins: Geera, chips: 4150
+Quits: Gilitee, chips: 0
+Quits: Hisitry, chips: 0
+Quits: Raroewee, chips: 0
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Rosir
+Small Blind: Geera, chips: 5
+Big Blind: Guwas, chips: 10
+Folds: Joe
+Folds: Rosir
+Folds: Geera
+Pot size: 15
+Wins: Guwas, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Geera
+Small Blind: Guwas, chips: 5
+Big Blind: Joe, chips: 10
+Folds: Rosir
+Calls: Geera
+Raises: Guwas, chips: 15
+Folds: Joe
+Calls: Geera
+Flop: Jh 3d Th
+Checks: Guwas
+Checks: Geera
+Turn: Ks
+Checks: Guwas
+Checks: Geera
+River: Td
+Checks: Guwas
+Checks: Geera
+Pot size: 60
+Showdown Reached
+Shows: Geera, 6s 9d
+Combination: Geera, Pair ( Th Td Ks Jh 9d )
+Shows: Guwas, Kc 8s
+Combination: Guwas, Two Pair ( Kc Ks Th Td Jh )
+Wins: Guwas, chips: 60
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Guwas
+Small Blind: Joe, chips: 5
+Big Blind: Rosir, chips: 10
+Calls: Geera
+Calls: Guwas
+Folds: Joe
+Checks: Rosir
+Flop: 3s Jc 5c
+Checks: Rosir
+Checks: Geera
+Raises: Guwas, chips: 10
+Folds: Rosir
+Calls: Geera
+Turn: 7h
+Checks: Geera
+Checks: Guwas
+River: 6s
+Checks: Geera
+Raises: Guwas, chips: 10
+Calls: Geera
+Pot size: 75
+Showdown Reached
+Shows: Geera, 8h Qs
+Combination: Geera, High Card ( Qs Jc 8h 7h 6s )
+Shows: Guwas, As 2d
+Combination: Guwas, High Card ( As Jc 7h 6s 5c )
+Wins: Guwas, chips: 75
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Joe
+Small Blind: Rosir, chips: 5
+Big Blind: Geera, chips: 10
+Folds: Guwas
+Folds: Joe
+Folds: Rosir
+Pot size: 15
+Boasts: Guwas, 8d 9s
+Wins: Geera, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Rosir
+Small Blind: Geera, chips: 5
+Big Blind: Guwas, chips: 10
+Raises: Joe, chips: 20
+Folds: Rosir
+Calls: Geera
+Folds: Guwas
+Flop: Ts 7d 2s
+Checks: Geera
+Raises: Joe, chips: 30
+Raises: Geera, chips: 4035
+Calls: Joe
+Turn: Ah
+River: 5d
+Pot size: 5060
+Showdown Reached
+Shows: Joe, Js Jc
+Combination: Joe, Pair ( Js Jc Ah Ts 7d )
+Shows: Geera, Ad 8d
+Combination: Geera, Pair ( Ad Ah Ts 8d 7d )
+Boasts: Guwas, Ks 9d
+Wins: Geera, chips: 5060
+Quits: Joe, chips: 0
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Geera
+Small Blind: Guwas, chips: 5
+Big Blind: Rosir, chips: 10
+Calls: Geera
+Raises: Guwas, chips: 15
+Folds: Rosir
+Raises: Geera, chips: 30
+Calls: Guwas
+Flop: Jh 2c 5d
+Raises: Guwas, chips: 30
+Calls: Geera
+Turn: Jc
+Checks: Guwas
+Raises: Geera, chips: 30
+Raises: Guwas, chips: 60
+Raises: Geera, chips: 120
+Calls: Guwas
+River: 9d
+Checks: Guwas
+Checks: Geera
+Pot size: 600
+Showdown Reached
+Shows: Geera, 4s 8h
+Combination: Geera, Pair ( Jh Jc 9d 8h 5d )
+Shows: Guwas, Ts 6h
+Combination: Guwas, Pair ( Jh Jc Ts 9d 6h )
+Wins: Guwas, chips: 600
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Guwas
+Small Blind: Rosir, chips: 5
+Big Blind: Geera, chips: 10
+Folds: Guwas
+Folds: Rosir
+Pot size: 15
+Boasts: Geera, 3d 6d
+Wins: Geera, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Rosir
+Small Blind: Geera, chips: 5
+Big Blind: Guwas, chips: 10
+Calls: Rosir
+Calls: Geera
+Checks: Guwas
+Flop: 6d 4h Js
+Checks: Geera
+Checks: Guwas
+Checks: Rosir
+Turn: Ad
+Raises: Geera, chips: 10
+Calls: Guwas
+Raises: Rosir, chips: 10
+Calls: Geera
+Calls: Guwas
+River: 3d
+Checks: Geera
+Raises: Guwas, chips: 10
+Raises: Rosir, chips: 20
+Raises: Geera, chips: 50
+Folds: Guwas
+Calls: Rosir
+Pot size: 260
+Showdown Reached
+Shows: Rosir, Jc Qh
+Combination: Rosir, Pair ( Jc Js Ad Qh 6d )
+Shows: Geera, 7d 5s
+Combination: Geera, Straight ( 7d 6d 5s 4h 3d )
+Wins: Geera, chips: 260
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Geera
+Small Blind: Guwas, chips: 5
+Big Blind: Rosir, chips: 10
+Calls: Geera
+Raises: Guwas, chips: 15
+Folds: Rosir
+Calls: Geera
+Flop: Qc Ah Ad
+Checks: Guwas
+Raises: Geera, chips: 15
+Calls: Guwas
+Turn: 9h
+Checks: Guwas
+Checks: Geera
+River: Tc
+Raises: Guwas, chips: 15
+Folds: Geera
+Pot size: 105
+Boasts: Geera, 7h 5s
+Boasts: Guwas, 2s Ts
+Wins: Guwas, chips: 105
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Guwas
+Small Blind: Rosir, chips: 5
+Big Blind: Geera, chips: 10
+Folds: Guwas
+Folds: Rosir
+Pot size: 15
+Wins: Geera, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Rosir
+Small Blind: Geera, chips: 5
+Big Blind: Guwas, chips: 10
+Folds: Rosir
+Calls: Geera
+Checks: Guwas
+Flop: 9s 3d Kd
+Raises: Geera, chips: 10
+Folds: Guwas
+Pot size: 30
+Boasts: Guwas, 6s Jc
+Wins: Geera, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Geera
+Small Blind: Guwas, chips: 5
+Big Blind: Rosir, chips: 10
+Raises: Geera, chips: 20
+Folds: Guwas
+Folds: Rosir
+Pot size: 45
+Boasts: Guwas, 6h 3s
+Wins: Geera, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Guwas
+Small Blind: Rosir, chips: 5
+Big Blind: Geera, chips: 10
+Raises: Guwas, chips: 20
+Folds: Rosir
+Raises: Geera, chips: 40
+Folds: Guwas
+Pot size: 105
+Boasts: Geera, Kd Js
+Wins: Geera, chips: 105
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Rosir
+Small Blind: Geera, chips: 5
+Big Blind: Guwas, chips: 10
+Calls: Rosir
+Calls: Geera
+Checks: Guwas
+Flop: Jh 5h Td
+Checks: Geera
+Raises: Guwas, chips: 10
+Folds: Rosir
+Raises: Geera, chips: 20
+Calls: Guwas
+Turn: 6s
+Checks: Geera
+Raises: Guwas, chips: 20
+Folds: Geera
+Pot size: 110
+Wins: Guwas, chips: 110
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Geera
+Small Blind: Guwas, chips: 5
+Big Blind: Rosir, chips: 10
+Folds: Geera
+Calls: Guwas
+Checks: Rosir
+Flop: 4h Jc 3h
+Checks: Guwas
+Checks: Rosir
+Turn: 5h
+Checks: Guwas
+Checks: Rosir
+River: 2s
+Raises: Guwas, chips: 10
+Raises: Rosir, chips: 10
+Calls: Guwas
+Pot size: 60
+Showdown Reached
+Shows: Rosir, 6d Ac
+Combination: Rosir, Straight ( 6d 5h 4h 3h 2s )
+Boasts: Geera, 4c 6h
+Shows: Guwas, Th Qc
+Combination: Guwas, High Card ( Qc Jc Th 5h 4h )
+Wins: Rosir, chips: 60
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Guwas
+Small Blind: Rosir, chips: 5
+Big Blind: Geera, chips: 10
+Calls: Guwas
+Calls: Rosir
+Raises: Geera, chips: 10
+Calls: Guwas
+Folds: Rosir
+Flop: 3c 3d 8c
+Checks: Geera
+Raises: Guwas, chips: 10
+Folds: Geera
+Pot size: 60
+Boasts: Geera, Qc 5h
+Boasts: Guwas, 9d Td
+Wins: Guwas, chips: 60
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Rosir
+Small Blind: Geera, chips: 5
+Big Blind: Guwas, chips: 10
+Folds: Rosir
+Raises: Geera, chips: 4875
+Calls: Guwas
+Flop: 8d Kc 6d
+Turn: Td
+River: Ks
+Pot size: 6280
+Showdown Reached
+Shows: Geera, 7c 6c
+Combination: Geera, Two Pair ( Kc Ks 6c 6d Td )
+Shows: Guwas, 5h Jd
+Combination: Guwas, Pair ( Kc Ks Jd Td 8d )
+Wins: Geera, chips: 6280
+Quits: Guwas, chips: 0
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Geera
+Small Blind: Geera, chips: 5
+Big Blind: Rosir, chips: 10
+Raises: Geera, chips: 15
+Folds: Rosir
+Pot size: 35
+Wins: Geera, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Rosir
+Small Blind: Rosir, chips: 5
+Big Blind: Geera, chips: 10
+Calls: Rosir
+Checks: Geera
+Flop: 5h 7h 6c
+Checks: Geera
+Checks: Rosir
+Turn: Jh
+Checks: Geera
+Raises: Rosir, chips: 10
+Calls: Geera
+River: 3h
+Checks: Geera
+Raises: Rosir, chips: 690
+Calls: Geera
+Pot size: 1420
+Showdown Reached
+Shows: Rosir, 6h 4h
+Combination: Rosir, Straight Flush ( 7h 6h 5h 4h 3h )
+Shows: Geera, 9d 3d
+Combination: Geera, Pair ( 3d 3h Jh 9d 7h )
+Wins: Rosir, chips: 1420
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Geera
+Small Blind: Geera, chips: 5
+Big Blind: Rosir, chips: 10
+Raises: Geera, chips: 15
+Calls: Rosir
+Flop: 9h Jd Qc
+Checks: Rosir
+Checks: Geera
+Turn: Qd
+Checks: Rosir
+Checks: Geera
+River: 2d
+Checks: Rosir
+Raises: Geera, chips: 15
+Folds: Rosir
+Pot size: 65
+Boasts: Geera, 9c 9s
+Wins: Geera, chips: 65
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Rosir
+Small Blind: Rosir, chips: 5
+Big Blind: Geera, chips: 10
+Folds: Rosir
+Pot size: 15
+Wins: Geera, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Geera
+Small Blind: Geera, chips: 5
+Big Blind: Rosir, chips: 10
+Calls: Geera
+Checks: Rosir
+Flop: 3d Qh 4s
+Checks: Rosir
+Raises: Geera, chips: 10
+Calls: Rosir
+Turn: 8h
+Checks: Rosir
+Checks: Geera
+River: 3c
+Checks: Rosir
+Checks: Geera
+Pot size: 40
+Showdown Reached
+Shows: Rosir, Kc 5s
+Combination: Rosir, Pair ( 3d 3c Kc Qh 8h )
+Shows: Geera, 4c Tc
+Combination: Geera, Two Pair ( 4c 4s 3d 3c Qh )
+Wins: Geera, chips: 40
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Rosir
+Small Blind: Rosir, chips: 5
+Big Blind: Geera, chips: 10
+Folds: Rosir
+Pot size: 15
+Boasts: Geera, Tc Qs
+Wins: Geera, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Geera
+Small Blind: Geera, chips: 5
+Big Blind: Rosir, chips: 10
+Calls: Geera
+Checks: Rosir
+Flop: 6h Kh Qc
+Checks: Rosir
+Checks: Geera
+Turn: 5d
+Checks: Rosir
+Raises: Geera, chips: 10
+Folds: Rosir
+Pot size: 30
+Boasts: Geera, 9c 9s
+Wins: Geera, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Rosir
+Small Blind: Rosir, chips: 5
+Big Blind: Geera, chips: 10
+Folds: Rosir
+Pot size: 15
+Wins: Geera, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Geera
+Small Blind: Geera, chips: 5
+Big Blind: Rosir, chips: 10
+Calls: Geera
+Checks: Rosir
+Flop: Ks Qc Jc
+Raises: Rosir, chips: 10
+Calls: Geera
+Turn: 8h
+Raises: Rosir, chips: 1330
+Raises: Geera, chips: 1340
+River: 4c
+Pot size: 4040
+Showdown Reached
+Shows: Rosir, Tc 9c
+Combination: Rosir, Flush ( Qc Jc Tc 9c 4c )
+Shows: Geera, 9d 7s
+Combination: Geera, High Card ( Ks Qc Jc 9d 8h )
+Wins: Rosir, chips: 2700
+Wins: Geera, chips: 1340
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Rosir
+Small Blind: Rosir, chips: 5
+Big Blind: Geera, chips: 10
+Calls: Rosir
+Raises: Geera, chips: 10
+Raises: Rosir, chips: 10
+Folds: Geera
+Pot size: 50
+Boasts: Geera, 9d 2s
+Wins: Rosir, chips: 50
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Geera
+Small Blind: Geera, chips: 5
+Big Blind: Rosir, chips: 10
+Folds: Geera
+Pot size: 15
+Boasts: Geera, Ks As
+Wins: Rosir, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Rosir
+Small Blind: Rosir, chips: 5
+Big Blind: Geera, chips: 10
+Folds: Rosir
+Pot size: 15
+Boasts: Geera, 6h Js
+Wins: Geera, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Geera
+Small Blind: Geera, chips: 5
+Big Blind: Rosir, chips: 10
+Folds: Geera
+Pot size: 15
+Wins: Rosir, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Rosir
+Small Blind: Rosir, chips: 5
+Big Blind: Geera, chips: 10
+Folds: Rosir
+Pot size: 15
+Boasts: Geera, 8h 5d
+Wins: Geera, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Geera
+Small Blind: Geera, chips: 5
+Big Blind: Rosir, chips: 10
+Raises: Geera, chips: 15
+Folds: Rosir
+Pot size: 35
+Boasts: Geera, 9s 9c
+Wins: Geera, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Rosir
+Small Blind: Rosir, chips: 5
+Big Blind: Geera, chips: 10
+Calls: Rosir
+Checks: Geera
+Flop: 7c 2s Kh
+Raises: Geera, chips: 10
+Folds: Rosir
+Pot size: 30
+Wins: Geera, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Geera
+Small Blind: Geera, chips: 5
+Big Blind: Rosir, chips: 10
+Calls: Geera
+Checks: Rosir
+Flop: Jc 2d 4d
+Raises: Rosir, chips: 2690
+Raises: Geera, chips: 1600
+Turn: Ks
+River: 5c
+Pot size: 7000
+Showdown Reached
+Shows: Rosir, 2c 4h
+Combination: Rosir, Two Pair ( 4h 4d 2c 2d Ks )
+Shows: Geera, 6h 6s
+Combination: Geera, Pair ( 6h 6s Ks Jc 5c )
+Wins: Rosir, chips: 5400
+Wins: Geera, chips: 1600
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Rosir
+Small Blind: Rosir, chips: 5
+Big Blind: Geera, chips: 10
+Folds: Rosir
+Pot size: 15
+Wins: Geera, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Geera
+Small Blind: Geera, chips: 5
+Big Blind: Rosir, chips: 10
+Raises: Geera, chips: 15
+Folds: Rosir
+Pot size: 35
+Wins: Geera, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Rosir
+Small Blind: Rosir, chips: 5
+Big Blind: Geera, chips: 10
+Calls: Rosir
+Raises: Geera, chips: 10
+Calls: Rosir
+Flop: 9s 2d Td
+Checks: Geera
+Checks: Rosir
+Turn: 4h
+Checks: Geera
+Raises: Rosir, chips: 5365
+Calls: Geera
+River: 8s
+Pot size: 7000
+Showdown Reached
+Shows: Rosir, Th Jc
+Combination: Rosir, Pair ( Th Td Jc 9s 8s )
+Shows: Geera, 2s Kh
+Combination: Geera, Pair ( 2s 2d Kh Td 9s )
+Wins: Rosir, chips: 7000
+Quits: Geera, chips: 0
+Ranking: Rosir, Place: 1, Score: 6000
+Reveal AI: Rosir, AI: Smart
+Ranking: Geera, Place: 2, Score: -1000
+Reveal AI: Geera, AI: Random
+Ranking: Guwas, Place: 3, Score: -1000
+Reveal AI: Guwas, AI: Random
+Ranking: Joe, Place: 4, Score: -1000
+Reveal AI: Joe, AI: Smart
+Ranking: Raroewee, Place: 5, Score: -1000
+Reveal AI: Raroewee, AI: Call
+Ranking: Hisitry, Place: 6, Score: -1000
+Reveal AI: Hisitry, AI: Call
+Ranking: Gilitee, Place: 7, Score: -1000
+Reveal AI: Gilitee, AI: AIMyBot1
+
+Player Stats for Geera, AI: Random
+General: deals: 38, actions: 85, preflop actions: 34
+Rounds Seen: flops: 19, turns: 16, rivers: 14, showdowns: 12
+Wins: total: 25, showdown: 7, bluff: 18
+Chips: won: 19275, lost: 24045, bought: 1000, forced bets: 230
+Pre-Flop Stats: VP$IP: 0.605263, PFR: 0.315789, 3Bet: 0.236842
+Post-Flop Stats: AF: 1.66667, WSD: 0.631579, WSDW: 0.583333
+
+
+Player Stats for Gilitee, AI: AIMyBot1
+General: deals: 1, actions: 4, preflop actions: 1
+Rounds Seen: flops: 20, turns: 17, rivers: 15, showdowns: 13
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 5
+Pre-Flop Stats: VP$IP: 1, PFR: 1, 3Bet: 1
+Post-Flop Stats: AF: 2, WSD: 0.65, WSDW: 0
+
+
+Player Stats for Guwas, AI: Random
+General: deals: 18, actions: 49, preflop actions: 20
+Rounds Seen: flops: 18, turns: 15, rivers: 13, showdowns: 10
+Wins: total: 7, showdown: 3, bluff: 4
+Chips: won: 1025, lost: 5515, bought: 1000, forced bets: 85
+Pre-Flop Stats: VP$IP: 0.444444, PFR: 0.222222, 3Bet: 0.222222
+Post-Flop Stats: AF: 1.66667, WSD: 0.555556, WSDW: 0.3
+
+
+Player Stats for Hisitry, AI: Call
+General: deals: 1, actions: 5, preflop actions: 2
+Rounds Seen: flops: 20, turns: 17, rivers: 15, showdowns: 13
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 0
+Pre-Flop Stats: VP$IP: 1, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: 0, WSD: 0.65, WSDW: 0
+
+
+Player Stats for Joe, AI: Smart
+General: deals: 6, actions: 9, preflop actions: 7
+Rounds Seen: flops: 17, turns: 14, rivers: 12, showdowns: 10
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 4140, bought: 1000, forced bets: 15
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.166667, 3Bet: 0.166667
+Post-Flop Stats: AF: 1, WSD: 0.588235, WSDW: 0
+
+
+Player Stats for Raroewee, AI: Call
+General: deals: 1, actions: 4, preflop actions: 2
+Rounds Seen: flops: 20, turns: 17, rivers: 15, showdowns: 13
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 0
+Pre-Flop Stats: VP$IP: 1, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: 0, WSD: 0.65, WSDW: 0
+
+
+Player Stats for Rosir, AI: Smart
+General: deals: 38, actions: 70, preflop actions: 39
+Rounds Seen: flops: 13, turns: 9, rivers: 8, showdowns: 7
+Wins: total: 8, showdown: 5, bluff: 3
+Chips: won: 16660, lost: 10660, bought: 1000, forced bets: 235
+Pre-Flop Stats: VP$IP: 0.236842, PFR: 0.0263158, 3Bet: 0.0263158
+Post-Flop Stats: AF: 4.5, WSD: 0.538462, WSDW: 0.714286
+
+

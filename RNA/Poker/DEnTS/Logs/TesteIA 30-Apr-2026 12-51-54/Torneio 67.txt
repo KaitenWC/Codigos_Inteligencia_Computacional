@@ -1,0 +1,8812 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Fohebol: Call
+Sugoe: Smart
+Dufee: Smart
+Lapuk: Call
+Leeno: Random
+Mumee: AIMyBot1
+Fo: Random
+
+Joins: Fohebol, chips: 1000
+Joins: Sugoe, chips: 1000
+Joins: Dufee, chips: 1000
+Joins: Lapuk, chips: 1000
+Joins: Leeno, chips: 1000
+Joins: Mumee, chips: 1000
+Joins: Fo, chips: 1000
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Fo, chips: 5
+Big Blind: Fohebol, chips: 10
+Raises: Sugoe, chips: 10
+Folds: Dufee
+Calls: Lapuk
+Calls: Leeno
+Folds: Mumee
+Folds: Fo
+Calls: Fohebol
+Flop: Ah Ks 5s
+Checks: Fohebol
+Checks: Sugoe
+Checks: Lapuk
+Checks: Leeno
+Turn: 8h
+Checks: Fohebol
+Raises: Sugoe, chips: 980
+Calls: Lapuk
+Calls: Leeno
+Calls: Fohebol
+River: 4h
+Pot size: 4005
+Showdown Reached
+Shows: Fohebol, Jd Th
+Combination: Fohebol, High Card ( Ah Ks Jd Th 8h )
+Shows: Sugoe, Kc Kd
+Combination: Sugoe, Three Of A Kind ( Kc Kd Ks Ah 8h )
+Shows: Lapuk, Ad 5c
+Combination: Lapuk, Two Pair ( Ad Ah 5c 5s Ks )
+Shows: Leeno, 9h 7h
+Combination: Leeno, Flush ( Ah 9h 8h 7h 4h )
+Wins: Leeno, chips: 4005
+Quits: Fohebol, chips: 0
+Quits: Sugoe, chips: 0
+Quits: Lapuk, chips: 0
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Fo
+Small Blind: Dufee, chips: 5
+Big Blind: Leeno, chips: 10
+Folds: Mumee
+Calls: Fo
+Folds: Dufee
+Raises: Leeno, chips: 10
+Calls: Fo
+Flop: 9d As Kh
+Checks: Leeno
+Raises: Fo, chips: 10
+Raises: Leeno, chips: 20
+Calls: Fo
+Turn: 3d
+Checks: Leeno
+Checks: Fo
+River: Tc
+Checks: Leeno
+Checks: Fo
+Pot size: 105
+Showdown Reached
+Shows: Leeno, 2d Th
+Combination: Leeno, Pair ( Th Tc As Kh 9d )
+Shows: Fo, Kd 8s
+Combination: Fo, Pair ( Kd Kh As Tc 9d )
+Wins: Fo, chips: 105
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Leeno, chips: 5
+Big Blind: Mumee, chips: 10
+Raises: Fo, chips: 20
+Folds: Dufee
+Raises: Leeno, chips: 45
+Folds: Mumee
+Calls: Fo
+Flop: 6s Kc 8s
+Raises: Leeno, chips: 45
+Folds: Fo
+Pot size: 205
+Boasts: Leeno, 3c 9c
+Wins: Leeno, chips: 205
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Leeno
+Small Blind: Mumee, chips: 5
+Big Blind: Fo, chips: 10
+Folds: Dufee
+Folds: Leeno
+Folds: Mumee
+Pot size: 15
+Boasts: Fo, Tc 6c
+Wins: Fo, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Fo, chips: 5
+Big Blind: Dufee, chips: 10
+Calls: Leeno
+Folds: Mumee
+Calls: Fo
+Checks: Dufee
+Flop: 8c Th 2s
+Checks: Fo
+Checks: Dufee
+Checks: Leeno
+Turn: 7c
+Checks: Fo
+Checks: Dufee
+Raises: Leeno, chips: 10
+Raises: Fo, chips: 20
+Calls: Dufee
+Raises: Leeno, chips: 40
+Raises: Fo, chips: 80
+Raises: Dufee, chips: 140
+Folds: Leeno
+Folds: Fo
+Pot size: 540
+Wins: Dufee, chips: 540
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Fo
+Small Blind: Dufee, chips: 5
+Big Blind: Leeno, chips: 10
+Folds: Mumee
+Raises: Fo, chips: 20
+Folds: Dufee
+Raises: Leeno, chips: 40
+Raises: Fo, chips: 80
+Raises: Leeno, chips: 160
+Calls: Fo
+Flop: Kc Js 5c
+Checks: Leeno
+Checks: Fo
+Turn: Ts
+Checks: Leeno
+Raises: Fo, chips: 160
+Folds: Leeno
+Pot size: 785
+Boasts: Leeno, 5s Td
+Wins: Fo, chips: 785
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Leeno, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Fo
+Calls: Dufee
+Calls: Leeno
+Checks: Mumee
+Flop: 6s Th 5s
+Raises: Leeno, chips: 10
+Folds: Mumee
+Calls: Fo
+Raises: Dufee, chips: 10
+Raises: Leeno, chips: 20
+Calls: Fo
+Raises: Dufee, chips: 1180
+Raises: Leeno, chips: 1200
+Calls: Fo
+Turn: 5h
+River: 9s
+Pot size: 4805
+Showdown Reached
+Shows: Dufee, Ts Td
+Combination: Dufee, Full House ( Ts Td Th 5s 5h )
+Shows: Leeno, 5c 7d
+Combination: Leeno, Three Of A Kind ( 5c 5s 5h Th 9s )
+Shows: Fo, Ah Ac
+Combination: Fo, Two Pair ( Ah Ac 5s 5h Th )
+Wins: Dufee, chips: 3605
+Wins: Leeno, chips: 1200
+Quits: Fo, chips: 0
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Leeno
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Raises: Leeno, chips: 20
+Folds: Mumee
+Folds: Dufee
+Pot size: 45
+Boasts: Leeno, As 6c
+Wins: Leeno, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Dufee, chips: 5
+Big Blind: Leeno, chips: 10
+Folds: Mumee
+Folds: Dufee
+Pot size: 15
+Wins: Leeno, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Leeno, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Folds: Leeno
+Pot size: 15
+Boasts: Leeno, Js Qs
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Leeno
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Calls: Leeno
+Folds: Mumee
+Checks: Dufee
+Flop: 5h 3s Qs
+Checks: Dufee
+Checks: Leeno
+Turn: Qc
+Checks: Dufee
+Checks: Leeno
+River: 2s
+Checks: Dufee
+Checks: Leeno
+Pot size: 25
+Showdown Reached
+Shows: Dufee, 2h 8c
+Combination: Dufee, Two Pair ( Qs Qc 2h 2s 8c )
+Shows: Leeno, Qd 4s
+Combination: Leeno, Three Of A Kind ( Qd Qs Qc 5h 4s )
+Wins: Leeno, chips: 25
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Dufee, chips: 5
+Big Blind: Leeno, chips: 10
+Folds: Mumee
+Folds: Dufee
+Pot size: 15
+Boasts: Leeno, Ts 5s
+Wins: Leeno, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Leeno, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Calls: Leeno
+Checks: Mumee
+Flop: 2h 6d 4c
+Checks: Leeno
+Checks: Mumee
+Checks: Dufee
+Turn: 7d
+Checks: Leeno
+Checks: Mumee
+Checks: Dufee
+River: 4h
+Checks: Leeno
+Checks: Mumee
+Checks: Dufee
+Pot size: 30
+Showdown Reached
+Shows: Dufee, Js 9h
+Combination: Dufee, Pair ( 4c 4h Js 9h 7d )
+Shows: Leeno, 2s Jh
+Combination: Leeno, Two Pair ( 4c 4h 2s 2h Jh )
+Shows: Mumee, 3h Ts
+Combination: Mumee, Pair ( 4c 4h Ts 7d 6d )
+Wins: Leeno, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Leeno
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Calls: Leeno
+Folds: Mumee
+Checks: Dufee
+Flop: Qh Ts 7h
+Checks: Dufee
+Checks: Leeno
+Turn: Jh
+Raises: Dufee, chips: 10
+Calls: Leeno
+River: 6h
+Checks: Dufee
+Checks: Leeno
+Pot size: 45
+Showdown Reached
+Shows: Dufee, Jc Kd
+Combination: Dufee, Pair ( Jc Jh Kd Qh Ts )
+Shows: Leeno, 6c Kh
+Combination: Leeno, Flush ( Kh Qh Jh 7h 6h )
+Wins: Leeno, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Dufee, chips: 5
+Big Blind: Leeno, chips: 10
+Folds: Mumee
+Folds: Dufee
+Pot size: 15
+Boasts: Leeno, Kd 9d
+Wins: Leeno, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Leeno, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Folds: Leeno
+Checks: Mumee
+Flop: 9d 9s 8h
+Checks: Mumee
+Raises: Dufee, chips: 10
+Folds: Mumee
+Pot size: 35
+Boasts: Leeno, 4s Ts
+Wins: Dufee, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Leeno
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Raises: Leeno, chips: 20
+Folds: Mumee
+Calls: Dufee
+Flop: Ad 2h Jh
+Checks: Dufee
+Raises: Leeno, chips: 20
+Calls: Dufee
+Turn: Ts
+Checks: Dufee
+Raises: Leeno, chips: 20
+Calls: Dufee
+River: 6h
+Checks: Dufee
+Checks: Leeno
+Pot size: 145
+Showdown Reached
+Shows: Dufee, Js 8s
+Combination: Dufee, Pair ( Js Jh Ad Ts 8s )
+Shows: Leeno, 4s 9c
+Combination: Leeno, High Card ( Ad Jh Ts 9c 6h )
+Wins: Dufee, chips: 145
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Dufee, chips: 5
+Big Blind: Leeno, chips: 10
+Folds: Mumee
+Folds: Dufee
+Pot size: 15
+Boasts: Leeno, 5d 4s
+Wins: Leeno, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Leeno, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Raises: Leeno, chips: 15
+Folds: Mumee
+Calls: Dufee
+Flop: 5d Ac 3h
+Checks: Leeno
+Raises: Dufee, chips: 20
+Raises: Leeno, chips: 40
+Calls: Dufee
+Turn: Jc
+Raises: Leeno, chips: 40
+Raises: Dufee, chips: 3500
+Calls: Leeno
+River: Ks
+Pot size: 6070
+Showdown Reached
+Shows: Dufee, Ad Th
+Combination: Dufee, Pair ( Ad Ac Ks Jc Th )
+Shows: Leeno, Kh 7s
+Combination: Leeno, Pair ( Kh Ks Ac Jc 7s )
+Wins: Dufee, chips: 6070
+Quits: Leeno, chips: 0
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: 6d 9s 2s
+Checks: Mumee
+Checks: Dufee
+Turn: Js
+Checks: Mumee
+Checks: Dufee
+River: Jd
+Checks: Mumee
+Checks: Dufee
+Pot size: 20
+Showdown Reached
+Shows: Dufee, As Qh
+Combination: Dufee, Pair ( Js Jd As Qh 9s )
+Shows: Mumee, 9h 4s
+Combination: Mumee, Two Pair ( Js Jd 9h 9s 6d )
+Wins: Mumee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: Ad 9d 7d
+Checks: Mumee
+Checks: Dufee
+Turn: 9c
+Checks: Mumee
+Checks: Dufee
+River: Jh
+Checks: Mumee
+Checks: Dufee
+Pot size: 20
+Showdown Reached
+Shows: Dufee, Kh Qh
+Combination: Dufee, Pair ( 9d 9c Ad Kh Qh )
+Shows: Mumee, 8c Js
+Combination: Mumee, Two Pair ( Js Jh 9d 9c Ad )
+Wins: Mumee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Raises: Dufee, chips: 6055
+Folds: Mumee
+Pot size: 6075
+Wins: Dufee, chips: 6075
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: 2s Jc Qh
+Checks: Mumee
+Checks: Dufee
+Turn: 5h
+Checks: Mumee
+Raises: Dufee, chips: 10
+Folds: Mumee
+Pot size: 30
+Wins: Dufee, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Raises: Dufee, chips: 6085
+Folds: Mumee
+Pot size: 6105
+Wins: Dufee, chips: 6105
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: 3h 2d 9d
+Checks: Mumee
+Checks: Dufee
+Turn: 5s
+Checks: Mumee
+Checks: Dufee
+River: Ah
+Checks: Mumee
+Checks: Dufee
+Pot size: 20
+Showdown Reached
+Shows: Dufee, Ad Ks
+Combination: Dufee, Pair ( Ad Ah Ks 9d 5s )
+Shows: Mumee, Qh 8s
+Combination: Mumee, High Card ( Ah Qh 9d 8s 5s )
+Wins: Dufee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: 2h 7c Th
+Checks: Mumee
+Checks: Dufee
+Turn: 8h
+Checks: Mumee
+Checks: Dufee
+River: Ks
+Checks: Mumee
+Checks: Dufee
+Pot size: 20
+Showdown Reached
+Shows: Dufee, 5d 3d
+Combination: Dufee, High Card ( Ks Th 8h 7c 5d )
+Shows: Mumee, Td Js
+Combination: Mumee, Pair ( Td Th Ks Js 8h )
+Wins: Mumee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: 9h 4c Kd
+Checks: Mumee
+Checks: Dufee
+Turn: Qs
+Checks: Mumee
+Checks: Dufee
+River: 3d
+Checks: Mumee
+Raises: Dufee, chips: 10
+Folds: Mumee
+Pot size: 30
+Wins: Dufee, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: 6c Th Qh
+Checks: Mumee
+Raises: Dufee, chips: 6125
+Folds: Mumee
+Pot size: 6145
+Wins: Dufee, chips: 6145
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: 4h 8h 5h
+Checks: Mumee
+Checks: Dufee
+Turn: Js
+Checks: Mumee
+Checks: Dufee
+River: Ac
+Checks: Mumee
+Raises: Dufee, chips: 10
+Folds: Mumee
+Pot size: 30
+Wins: Dufee, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: 4h 5d 9s
+Checks: Mumee
+Checks: Dufee
+Turn: Kd
+Checks: Mumee
+Raises: Dufee, chips: 10
+Folds: Mumee
+Pot size: 30
+Wins: Dufee, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: 2h Ks 2c
+Checks: Mumee
+Checks: Dufee
+Turn: 3h
+Checks: Mumee
+Checks: Dufee
+River: 6s
+Checks: Mumee
+Checks: Dufee
+Pot size: 20
+Showdown Reached
+Shows: Dufee, 7d Td
+Combination: Dufee, Pair ( 2h 2c Ks Td 7d )
+Shows: Mumee, Jh 5d
+Combination: Mumee, Pair ( 2h 2c Ks Jh 6s )
+Wins: Mumee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: 5h Jh 3d
+Checks: Mumee
+Checks: Dufee
+Turn: Ad
+Checks: Mumee
+Checks: Dufee
+River: 4s
+Checks: Mumee
+Checks: Dufee
+Pot size: 20
+Showdown Reached
+Shows: Dufee, Tc 9d
+Combination: Dufee, High Card ( Ad Jh Tc 9d 5h )
+Shows: Mumee, 6h Ks
+Combination: Mumee, High Card ( Ad Ks Jh 6h 5h )
+Wins: Mumee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: Tc 4d Kd
+Checks: Mumee
+Checks: Dufee
+Turn: Kc
+Checks: Mumee
+Checks: Dufee
+River: 3d
+Checks: Mumee
+Raises: Dufee, chips: 10
+Folds: Mumee
+Pot size: 30
+Wins: Dufee, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: Kd Qd 3s
+Checks: Mumee
+Raises: Dufee, chips: 10
+Folds: Mumee
+Pot size: 30
+Wins: Dufee, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Raises: Dufee, chips: 15
+Folds: Mumee
+Pot size: 35
+Wins: Dufee, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Raises: Dufee, chips: 15
+Folds: Mumee
+Pot size: 35
+Wins: Dufee, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: 5c 7s 4h
+Checks: Mumee
+Checks: Dufee
+Turn: Jc
+Checks: Mumee
+Raises: Dufee, chips: 10
+Folds: Mumee
+Pot size: 30
+Wins: Dufee, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Raises: Dufee, chips: 15
+Folds: Mumee
+Pot size: 35
+Wins: Dufee, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: 3c 6h Jh
+Checks: Mumee
+Checks: Dufee
+Turn: Ks
+Checks: Mumee
+Checks: Dufee
+River: Ac
+Checks: Mumee
+Checks: Dufee
+Pot size: 20
+Showdown Reached
+Shows: Dufee, As 5s
+Combination: Dufee, Pair ( As Ac Ks Jh 6h )
+Shows: Mumee, Tc 3d
+Combination: Mumee, Pair ( 3d 3c Ac Ks Jh )
+Wins: Dufee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: 5h 3d Jd
+Checks: Mumee
+Checks: Dufee
+Turn: Ks
+Checks: Mumee
+Checks: Dufee
+River: Js
+Checks: Mumee
+Checks: Dufee
+Pot size: 20
+Showdown Reached
+Shows: Dufee, 5d 7d
+Combination: Dufee, Two Pair ( Jd Js 5d 5h Ks )
+Shows: Mumee, 9d 7h
+Combination: Mumee, Pair ( Jd Js Ks 9d 7h )
+Wins: Dufee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: 9h Kh 3h
+Checks: Mumee
+Checks: Dufee
+Turn: 8h
+Checks: Mumee
+Raises: Dufee, chips: 6280
+Folds: Mumee
+Pot size: 6300
+Wins: Dufee, chips: 6300
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: Jh 2h 9c
+Checks: Mumee
+Raises: Dufee, chips: 10
+Folds: Mumee
+Pot size: 30
+Wins: Dufee, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: 5d 4d As
+Checks: Mumee
+Checks: Dufee
+Turn: 3c
+Checks: Mumee
+Checks: Dufee
+River: Td
+Checks: Mumee
+Checks: Dufee
+Pot size: 20
+Showdown Reached
+Shows: Dufee, Ac Qc
+Combination: Dufee, Pair ( Ac As Qc Td 5d )
+Shows: Mumee, 5c 2d
+Combination: Mumee, Straight ( 5c 4d 3c 2d As )
+Wins: Mumee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: 7h 4d 6h
+Checks: Mumee
+Checks: Dufee
+Turn: 2h
+Checks: Mumee
+Checks: Dufee
+River: 9h
+Checks: Mumee
+Checks: Dufee
+Pot size: 20
+Showdown Reached
+Shows: Dufee, Js Ac
+Combination: Dufee, High Card ( Ac Js 9h 7h 6h )
+Shows: Mumee, 5s Qc
+Combination: Mumee, High Card ( Qc 9h 7h 6h 5s )
+Wins: Dufee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: Ah 3s Jd
+Checks: Mumee
+Raises: Dufee, chips: 10
+Folds: Mumee
+Pot size: 30
+Wins: Dufee, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: 8s 2s Jc
+Checks: Mumee
+Checks: Dufee
+Turn: 2c
+Checks: Mumee
+Checks: Dufee
+River: 7c
+Checks: Mumee
+Raises: Dufee, chips: 10
+Folds: Mumee
+Pot size: 30
+Wins: Dufee, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: 2c 7s Qs
+Checks: Mumee
+Checks: Dufee
+Turn: Qc
+Checks: Mumee
+Checks: Dufee
+River: Qh
+Checks: Mumee
+Raises: Dufee, chips: 10
+Folds: Mumee
+Pot size: 30
+Wins: Dufee, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: Qs Tc 7c
+Checks: Mumee
+Checks: Dufee
+Turn: As
+Checks: Mumee
+Checks: Dufee
+River: 6s
+Checks: Mumee
+Checks: Dufee
+Pot size: 20
+Showdown Reached
+Shows: Dufee, 9s 9c
+Combination: Dufee, Pair ( 9s 9c As Qs Tc )
+Shows: Mumee, Th 9h
+Combination: Mumee, Pair ( Th Tc As Qs 9h )
+Wins: Mumee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: Jc 4s Ts
+Checks: Mumee
+Checks: Dufee
+Turn: 2h
+Checks: Mumee
+Raises: Dufee, chips: 10
+Folds: Mumee
+Pot size: 30
+Wins: Dufee, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Raises: Dufee, chips: 15
+Folds: Mumee
+Pot size: 35
+Wins: Dufee, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: 2h 9h 9s
+Checks: Mumee
+Checks: Dufee
+Turn: 4c
+Checks: Mumee
+Checks: Dufee
+River: 6s
+Checks: Mumee
+Checks: Dufee
+Pot size: 20
+Showdown Reached
+Shows: Dufee, Qc Js
+Combination: Dufee, Pair ( 9h 9s Qc Js 6s )
+Shows: Mumee, Kh 7h
+Combination: Mumee, Pair ( 9h 9s Kh 7h 6s )
+Wins: Mumee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: 6s 2c 4s
+Checks: Mumee
+Checks: Dufee
+Turn: 8c
+Checks: Mumee
+Checks: Dufee
+River: 3s
+Checks: Mumee
+Raises: Dufee, chips: 10
+Folds: Mumee
+Pot size: 30
+Wins: Dufee, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: 5c 3s 8s
+Checks: Mumee
+Checks: Dufee
+Turn: 7c
+Checks: Mumee
+Checks: Dufee
+River: 4d
+Checks: Mumee
+Checks: Dufee
+Pot size: 20
+Showdown Reached
+Shows: Dufee, Qd Jd
+Combination: Dufee, High Card ( Qd Jd 8s 7c 5c )
+Shows: Mumee, 3c 2d
+Combination: Mumee, Pair ( 3c 3s 8s 7c 5c )
+Wins: Mumee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: 2d 9d Th
+Checks: Mumee
+Checks: Dufee
+Turn: Kd
+Checks: Mumee
+Checks: Dufee
+River: 5c
+Checks: Mumee
+Checks: Dufee
+Pot size: 20
+Showdown Reached
+Shows: Dufee, Tc Jd
+Combination: Dufee, Pair ( Tc Th Kd Jd 9d )
+Shows: Mumee, 4d 4s
+Combination: Mumee, Pair ( 4d 4s Kd Th 9d )
+Wins: Dufee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: 7d 3d 6s
+Checks: Mumee
+Checks: Dufee
+Turn: 9c
+Checks: Mumee
+Checks: Dufee
+River: 9s
+Checks: Mumee
+Raises: Dufee, chips: 10
+Folds: Mumee
+Pot size: 30
+Wins: Dufee, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: 8s 9s As
+Checks: Mumee
+Raises: Dufee, chips: 10
+Folds: Mumee
+Pot size: 30
+Wins: Dufee, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: 9h Ks Jd
+Checks: Mumee
+Checks: Dufee
+Turn: As
+Checks: Mumee
+Checks: Dufee
+River: Ah
+Checks: Mumee
+Raises: Dufee, chips: 10
+Folds: Mumee
+Pot size: 30
+Wins: Dufee, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: As 4c 3d
+Checks: Mumee
+Checks: Dufee
+Turn: Jh
+Checks: Mumee
+Checks: Dufee
+River: Ah
+Checks: Mumee
+Checks: Dufee
+Pot size: 20
+Showdown Reached
+Shows: Dufee, Ts 9h
+Combination: Dufee, Pair ( As Ah Jh Ts 9h )
+Shows: Mumee, 9s Ad
+Combination: Mumee, Three Of A Kind ( Ad As Ah Jh 9s )
+Wins: Mumee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: 2d 6s 5c
+Checks: Mumee
+Checks: Dufee
+Turn: 7d
+Checks: Mumee
+Checks: Dufee
+River: 3h
+Checks: Mumee
+Checks: Dufee
+Pot size: 20
+Showdown Reached
+Shows: Dufee, Qd 9h
+Combination: Dufee, High Card ( Qd 9h 7d 6s 5c )
+Shows: Mumee, 3c 7c
+Combination: Mumee, Two Pair ( 7c 7d 3c 3h 6s )
+Wins: Mumee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: 7c 7h Jc
+Checks: Mumee
+Checks: Dufee
+Turn: 2c
+Checks: Mumee
+Checks: Dufee
+River: Qs
+Checks: Mumee
+Checks: Dufee
+Pot size: 20
+Showdown Reached
+Shows: Dufee, 5c 5d
+Combination: Dufee, Two Pair ( 7c 7h 5c 5d Qs )
+Shows: Mumee, Ks Jh
+Combination: Mumee, Two Pair ( Jh Jc 7c 7h Ks )
+Wins: Mumee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: Qd Kd 7s
+Checks: Mumee
+Raises: Dufee, chips: 10
+Folds: Mumee
+Pot size: 30
+Wins: Dufee, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: Ac 6h Qd
+Checks: Mumee
+Checks: Dufee
+Turn: 2h
+Checks: Mumee
+Checks: Dufee
+River: 2s
+Checks: Mumee
+Checks: Dufee
+Pot size: 20
+Showdown Reached
+Shows: Dufee, Tc 8h
+Combination: Dufee, Pair ( 2h 2s Ac Qd Tc )
+Shows: Mumee, 3h 9d
+Combination: Mumee, Pair ( 2h 2s Ac Qd 9d )
+Wins: Dufee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: 2c 2h 4s
+Checks: Mumee
+Checks: Dufee
+Turn: 6h
+Checks: Mumee
+Checks: Dufee
+River: 5d
+Checks: Mumee
+Checks: Dufee
+Pot size: 20
+Showdown Reached
+Shows: Dufee, Jd 7d
+Combination: Dufee, Pair ( 2c 2h Jd 7d 6h )
+Shows: Mumee, 3s Td
+Combination: Mumee, Straight ( 6h 5d 4s 3s 2c )
+Wins: Mumee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Raises: Dufee, chips: 15
+Folds: Mumee
+Pot size: 35
+Wins: Dufee, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: Qc 4h 8h
+Checks: Mumee
+Raises: Dufee, chips: 10
+Folds: Mumee
+Pot size: 30
+Wins: Dufee, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: Th 7s 5s
+Checks: Mumee
+Raises: Dufee, chips: 10
+Folds: Mumee
+Pot size: 30
+Wins: Dufee, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Raises: Dufee, chips: 15
+Folds: Mumee
+Pot size: 35
+Wins: Dufee, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: Kd As 5h
+Checks: Mumee
+Checks: Dufee
+Turn: Tc
+Checks: Mumee
+Checks: Dufee
+River: 9c
+Checks: Mumee
+Raises: Dufee, chips: 10
+Folds: Mumee
+Pot size: 30
+Wins: Dufee, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: 5s 3c 5d
+Checks: Mumee
+Checks: Dufee
+Turn: Ah
+Checks: Mumee
+Checks: Dufee
+River: 3h
+Checks: Mumee
+Checks: Dufee
+Pot size: 20
+Showdown Reached
+Shows: Dufee, 8c 9c
+Combination: Dufee, Two Pair ( 5s 5d 3c 3h Ah )
+Shows: Mumee, Kc Qh
+Combination: Mumee, Two Pair ( 5s 5d 3c 3h Ah )
+Wins: Dufee, chips: 10
+Wins: Mumee, chips: 10
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: Ah 9h Td
+Checks: Mumee
+Checks: Dufee
+Turn: 5h
+Checks: Mumee
+Checks: Dufee
+River: 5d
+Checks: Mumee
+Checks: Dufee
+Pot size: 20
+Showdown Reached
+Shows: Dufee, Qc Qs
+Combination: Dufee, Two Pair ( Qc Qs 5h 5d Ah )
+Shows: Mumee, 2c 6c
+Combination: Mumee, Pair ( 5h 5d Ah Td 9h )
+Wins: Dufee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: 9c 6s 4h
+Checks: Mumee
+Checks: Dufee
+Turn: Kd
+Checks: Mumee
+Raises: Dufee, chips: 10
+Folds: Mumee
+Pot size: 30
+Wins: Dufee, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: Qh 5c 2d
+Checks: Mumee
+Checks: Dufee
+Turn: 4h
+Checks: Mumee
+Checks: Dufee
+River: 2s
+Checks: Mumee
+Raises: Dufee, chips: 10
+Folds: Mumee
+Pot size: 30
+Wins: Dufee, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: Jc Ks Kc
+Checks: Mumee
+Checks: Dufee
+Turn: 6c
+Checks: Mumee
+Checks: Dufee
+River: 9d
+Checks: Mumee
+Checks: Dufee
+Pot size: 20
+Showdown Reached
+Shows: Dufee, 4h 5c
+Combination: Dufee, Pair ( Ks Kc Jc 9d 6c )
+Shows: Mumee, 2c 2d
+Combination: Mumee, Two Pair ( Ks Kc 2c 2d Jc )
+Wins: Mumee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: Td Kc Jh
+Checks: Mumee
+Checks: Dufee
+Turn: Ah
+Checks: Mumee
+Checks: Dufee
+River: Jd
+Checks: Mumee
+Checks: Dufee
+Pot size: 20
+Showdown Reached
+Shows: Dufee, 4d 4c
+Combination: Dufee, Two Pair ( Jh Jd 4d 4c Ah )
+Shows: Mumee, 5d 7c
+Combination: Mumee, Pair ( Jh Jd Ah Kc Td )
+Wins: Dufee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: 5c 3c 8s
+Checks: Mumee
+Checks: Dufee
+Turn: 7h
+Checks: Mumee
+Checks: Dufee
+River: 5h
+Checks: Mumee
+Raises: Dufee, chips: 6600
+Folds: Mumee
+Pot size: 6620
+Wins: Dufee, chips: 6620
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: Ks 9h Qh
+Checks: Mumee
+Checks: Dufee
+Turn: 6h
+Checks: Mumee
+Checks: Dufee
+River: 5s
+Checks: Mumee
+Checks: Dufee
+Pot size: 20
+Showdown Reached
+Shows: Dufee, 2s 2c
+Combination: Dufee, Pair ( 2s 2c Ks Qh 9h )
+Shows: Mumee, Ac Js
+Combination: Mumee, High Card ( Ac Ks Qh Js 9h )
+Wins: Dufee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: Jh 5d 3c
+Checks: Mumee
+Checks: Dufee
+Turn: 3d
+Checks: Mumee
+Checks: Dufee
+River: Kd
+Checks: Mumee
+Checks: Dufee
+Pot size: 20
+Showdown Reached
+Shows: Dufee, 9c 8h
+Combination: Dufee, Pair ( 3c 3d Kd Jh 9c )
+Shows: Mumee, 9s As
+Combination: Mumee, Pair ( 3c 3d As Kd Jh )
+Wins: Mumee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Raises: Dufee, chips: 15
+Folds: Mumee
+Pot size: 35
+Wins: Dufee, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: Qc 7d 3c
+Checks: Mumee
+Checks: Dufee
+Turn: Ah
+Checks: Mumee
+Raises: Dufee, chips: 10
+Folds: Mumee
+Pot size: 30
+Wins: Dufee, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: 4h 6d Js
+Checks: Mumee
+Checks: Dufee
+Turn: 4c
+Checks: Mumee
+Checks: Dufee
+River: Tc
+Checks: Mumee
+Checks: Dufee
+Pot size: 20
+Showdown Reached
+Shows: Dufee, 2s Ks
+Combination: Dufee, Pair ( 4h 4c Ks Js Tc )
+Shows: Mumee, 8c Ad
+Combination: Mumee, Pair ( 4h 4c Ad Js Tc )
+Wins: Mumee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: Ts 3c 5d
+Checks: Mumee
+Checks: Dufee
+Turn: 6h
+Checks: Mumee
+Checks: Dufee
+River: 8d
+Checks: Mumee
+Checks: Dufee
+Pot size: 20
+Showdown Reached
+Shows: Dufee, 9s 6s
+Combination: Dufee, Pair ( 6s 6h Ts 9s 8d )
+Shows: Mumee, Kc Td
+Combination: Mumee, Pair ( Td Ts Kc 8d 6h )
+Wins: Mumee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: 8d Ts 8h
+Checks: Mumee
+Checks: Dufee
+Turn: 7c
+Checks: Mumee
+Checks: Dufee
+River: 6c
+Checks: Mumee
+Checks: Dufee
+Pot size: 20
+Showdown Reached
+Shows: Dufee, As 9s
+Combination: Dufee, Straight ( Ts 9s 8d 7c 6c )
+Shows: Mumee, 7h Td
+Combination: Mumee, Two Pair ( Td Ts 8d 8h 7h )
+Wins: Dufee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: 9d 3s Qc
+Checks: Mumee
+Checks: Dufee
+Turn: Ts
+Checks: Mumee
+Raises: Dufee, chips: 10
+Folds: Mumee
+Pot size: 30
+Wins: Dufee, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: Qd 2d 8s
+Checks: Mumee
+Checks: Dufee
+Turn: 7h
+Checks: Mumee
+Checks: Dufee
+River: Qc
+Checks: Mumee
+Checks: Dufee
+Pot size: 20
+Showdown Reached
+Shows: Dufee, 5d 4c
+Combination: Dufee, Pair ( Qd Qc 8s 7h 5d )
+Shows: Mumee, 8d Ah
+Combination: Mumee, Two Pair ( Qd Qc 8d 8s Ah )
+Wins: Mumee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: 9s Kh 5s
+Checks: Mumee
+Raises: Dufee, chips: 10
+Folds: Mumee
+Pot size: 30
+Wins: Dufee, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: 9c 5h 4d
+Checks: Mumee
+Checks: Dufee
+Turn: 3h
+Checks: Mumee
+Checks: Dufee
+River: 6d
+Checks: Mumee
+Checks: Dufee
+Pot size: 20
+Showdown Reached
+Shows: Dufee, 9h 8d
+Combination: Dufee, Pair ( 9h 9c 8d 6d 5h )
+Shows: Mumee, Kc Tc
+Combination: Mumee, High Card ( Kc Tc 9c 6d 5h )
+Wins: Dufee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: Kh 3c 7s
+Checks: Mumee
+Checks: Dufee
+Turn: Js
+Checks: Mumee
+Raises: Dufee, chips: 6700
+Folds: Mumee
+Pot size: 6720
+Wins: Dufee, chips: 6720
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: Kc Jd Qc
+Checks: Mumee
+Raises: Dufee, chips: 6715
+Folds: Mumee
+Pot size: 6735
+Wins: Dufee, chips: 6735
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: Ts 2s 7d
+Checks: Mumee
+Checks: Dufee
+Turn: 6c
+Checks: Mumee
+Checks: Dufee
+River: 9h
+Checks: Mumee
+Checks: Dufee
+Pot size: 20
+Showdown Reached
+Shows: Dufee, 5s 5h
+Combination: Dufee, Pair ( 5s 5h Ts 9h 7d )
+Shows: Mumee, Td Jd
+Combination: Mumee, Pair ( Td Ts Jd 9h 7d )
+Wins: Mumee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: 8s 4d Jd
+Checks: Mumee
+Checks: Dufee
+Turn: Ad
+Checks: Mumee
+Checks: Dufee
+River: Qc
+Checks: Mumee
+Checks: Dufee
+Pot size: 20
+Showdown Reached
+Shows: Dufee, Qs Ts
+Combination: Dufee, Pair ( Qs Qc Ad Jd Ts )
+Shows: Mumee, 2d 9c
+Combination: Mumee, High Card ( Ad Qc Jd 9c 8s )
+Wins: Dufee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: Td Jc 4h
+Checks: Mumee
+Checks: Dufee
+Turn: Ac
+Checks: Mumee
+Checks: Dufee
+River: 8s
+Checks: Mumee
+Checks: Dufee
+Pot size: 20
+Showdown Reached
+Shows: Dufee, 2d 2c
+Combination: Dufee, Pair ( 2d 2c Ac Jc Td )
+Shows: Mumee, 6c 5c
+Combination: Mumee, High Card ( Ac Jc Td 8s 6c )
+Wins: Dufee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: 7d 5c Qd
+Checks: Mumee
+Checks: Dufee
+Turn: Ts
+Checks: Mumee
+Checks: Dufee
+River: Qh
+Checks: Mumee
+Raises: Dufee, chips: 10
+Folds: Mumee
+Pot size: 30
+Wins: Dufee, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: 9h 3d Ah
+Checks: Mumee
+Checks: Dufee
+Turn: 3h
+Checks: Mumee
+Checks: Dufee
+River: 3s
+Checks: Mumee
+Raises: Dufee, chips: 10
+Folds: Mumee
+Pot size: 30
+Wins: Dufee, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: Ts Jd Jh
+Checks: Mumee
+Checks: Dufee
+Turn: Td
+Checks: Mumee
+Checks: Dufee
+River: Qs
+Checks: Mumee
+Checks: Dufee
+Pot size: 20
+Showdown Reached
+Shows: Dufee, As 7s
+Combination: Dufee, Two Pair ( Jd Jh Ts Td As )
+Shows: Mumee, 9c 6d
+Combination: Mumee, Two Pair ( Jd Jh Ts Td Qs )
+Wins: Dufee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: 3c Jc Qc
+Checks: Mumee
+Checks: Dufee
+Turn: 2c
+Checks: Mumee
+Checks: Dufee
+River: 9h
+Checks: Mumee
+Checks: Dufee
+Pot size: 20
+Showdown Reached
+Shows: Dufee, 7s 7d
+Combination: Dufee, Pair ( 7s 7d Qc Jc 9h )
+Shows: Mumee, 4d Tc
+Combination: Mumee, Flush ( Qc Jc Tc 3c 2c )
+Wins: Mumee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: 4h Ts Qs
+Checks: Mumee
+Raises: Dufee, chips: 10
+Folds: Mumee
+Pot size: 30
+Wins: Dufee, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Raises: Dufee, chips: 15
+Folds: Mumee
+Pot size: 35
+Wins: Dufee, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: 2s 9h Kh
+Checks: Mumee
+Checks: Dufee
+Turn: Ah
+Checks: Mumee
+Checks: Dufee
+River: Jh
+Checks: Mumee
+Checks: Dufee
+Pot size: 20
+Showdown Reached
+Shows: Dufee, 8d 5d
+Combination: Dufee, High Card ( Ah Kh Jh 9h 8d )
+Shows: Mumee, 5c 3s
+Combination: Mumee, High Card ( Ah Kh Jh 9h 5c )
+Wins: Dufee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: Jc 7d Ts
+Checks: Mumee
+Checks: Dufee
+Turn: Ah
+Checks: Mumee
+Checks: Dufee
+River: Kc
+Checks: Mumee
+Checks: Dufee
+Pot size: 20
+Showdown Reached
+Shows: Dufee, 7h 8h
+Combination: Dufee, Pair ( 7h 7d Ah Kc Jc )
+Shows: Mumee, 6d 6c
+Combination: Mumee, Pair ( 6d 6c Ah Kc Jc )
+Wins: Dufee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: 6d 8c 4d
+Checks: Mumee
+Checks: Dufee
+Turn: Ts
+Checks: Mumee
+Checks: Dufee
+River: 3c
+Checks: Mumee
+Checks: Dufee
+Pot size: 20
+Showdown Reached
+Shows: Dufee, As 9c
+Combination: Dufee, High Card ( As Ts 9c 8c 6d )
+Shows: Mumee, 8h 4s
+Combination: Mumee, Two Pair ( 8h 8c 4s 4d Ts )
+Wins: Mumee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: 3c Kd 2s
+Checks: Mumee
+Checks: Dufee
+Turn: 3s
+Checks: Mumee
+Checks: Dufee
+River: Tc
+Checks: Mumee
+Checks: Dufee
+Pot size: 20
+Showdown Reached
+Shows: Dufee, Jc 9h
+Combination: Dufee, Pair ( 3c 3s Kd Jc Tc )
+Shows: Mumee, 8s 8c
+Combination: Mumee, Two Pair ( 8s 8c 3c 3s Kd )
+Wins: Mumee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: 2s Ks Ac
+Checks: Mumee
+Checks: Dufee
+Turn: Ts
+Checks: Mumee
+Checks: Dufee
+River: 9c
+Checks: Mumee
+Checks: Dufee
+Pot size: 20
+Showdown Reached
+Shows: Dufee, 6h 7d
+Combination: Dufee, High Card ( Ac Ks Ts 9c 7d )
+Shows: Mumee, 3s 5c
+Combination: Mumee, High Card ( Ac Ks Ts 9c 5c )
+Wins: Dufee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: 3h Ah 5c
+Checks: Mumee
+Raises: Dufee, chips: 10
+Folds: Mumee
+Pot size: 30
+Wins: Dufee, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Raises: Dufee, chips: 15
+Folds: Mumee
+Pot size: 35
+Wins: Dufee, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: 8h Ah 5h
+Checks: Mumee
+Checks: Dufee
+Turn: Qd
+Checks: Mumee
+Raises: Dufee, chips: 10
+Folds: Mumee
+Pot size: 30
+Wins: Dufee, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Raises: Dufee, chips: 15
+Folds: Mumee
+Pot size: 35
+Wins: Dufee, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: Jc 7s Jh
+Checks: Mumee
+Checks: Dufee
+Turn: Kh
+Checks: Mumee
+Raises: Dufee, chips: 6920
+Folds: Mumee
+Pot size: 6940
+Wins: Dufee, chips: 6940
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: Kh 6s 8h
+Checks: Mumee
+Checks: Dufee
+Turn: 8c
+Checks: Mumee
+Checks: Dufee
+River: 7d
+Checks: Mumee
+Raises: Dufee, chips: 10
+Folds: Mumee
+Pot size: 30
+Wins: Dufee, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Raises: Dufee, chips: 6950
+Folds: Mumee
+Pot size: 6970
+Wins: Dufee, chips: 6970
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: Jh Qc 5c
+Checks: Mumee
+Checks: Dufee
+Turn: 8s
+Checks: Mumee
+Raises: Dufee, chips: 10
+Folds: Mumee
+Pot size: 30
+Wins: Dufee, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Flop: 5h Jc Ac
+Turn: 6c
+River: 9c
+Pot size: 15
+Showdown Reached
+Shows: Dufee, 3d 5s
+Combination: Dufee, Pair ( 5s 5h Ac Jc 9c )
+Shows: Mumee, Ah 2s
+Combination: Mumee, Pair ( Ah Ac Jc 9c 6c )
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Flop: 8c Ac 7s
+Turn: Td
+River: 2c
+Pot size: 15
+Showdown Reached
+Shows: Dufee, 2s Th
+Combination: Dufee, Two Pair ( Th Td 2s 2c Ac )
+Shows: Mumee, Ks Tc
+Combination: Mumee, Pair ( Tc Td Ac Ks 8c )
+Wins: Dufee, chips: 10
+Wins: Mumee, chips: 5
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Flop: 4h 5s Ah
+Turn: 6d
+River: Kd
+Pot size: 15
+Showdown Reached
+Shows: Dufee, Qs 7h
+Combination: Dufee, High Card ( Ah Kd Qs 7h 6d )
+Shows: Mumee, 8s Js
+Combination: Mumee, High Card ( Ah Kd Js 8s 6d )
+Wins: Dufee, chips: 15
+Quits: Mumee, chips: 0
+Ranking: Dufee, Place: 1, Score: 6000
+Reveal AI: Dufee, AI: Smart
+Ranking: Mumee, Place: 2, Score: -1000
+Reveal AI: Mumee, AI: AIMyBot1
+Ranking: Leeno, Place: 3, Score: -1000
+Reveal AI: Leeno, AI: Random
+Ranking: Fo, Place: 4, Score: -1000
+Reveal AI: Fo, AI: Random
+Ranking: Lapuk, Place: 5, Score: -1000
+Reveal AI: Lapuk, AI: Call
+Ranking: Sugoe, Place: 6, Score: -1000
+Reveal AI: Sugoe, AI: Smart
+Ranking: Fohebol, Place: 7, Score: -1000
+Reveal AI: Fohebol, AI: Call
+
+Player Stats for Dufee, AI: Smart
+General: deals: 448, actions: 454, preflop actions: 232
+Rounds Seen: flops: 89, turns: 76, rivers: 63, showdowns: 49
+Wins: total: 290, showdown: 23, bluff: 267
+Chips: won: 73900, lost: 67900, bought: 1000, forced bets: 3300
+Pre-Flop Stats: VP$IP: 0.214286, PFR: 0.0290179, 3Bet: 0.0290179
+Post-Flop Stats: AF: 11.25, WSD: 0.550562, WSDW: 0.469388
+
+
+Player Stats for Fo, AI: Random
+General: deals: 7, actions: 25, preflop actions: 10
+Rounds Seen: flops: 92, turns: 78, rivers: 64, showdowns: 50
+Wins: total: 3, showdown: 1, bluff: 2
+Chips: won: 905, lost: 3200, bought: 1000, forced bets: 20
+Pre-Flop Stats: VP$IP: 0.714286, PFR: 0.285714, 3Bet: 0.285714
+Post-Flop Stats: AF: 1, WSD: 0.543478, WSDW: 0.02
+
+
+Player Stats for Fohebol, AI: Call
+General: deals: 1, actions: 4, preflop actions: 1
+Rounds Seen: flops: 93, turns: 79, rivers: 65, showdowns: 51
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 10
+Pre-Flop Stats: VP$IP: 1, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: 0, WSD: 0.548387, WSDW: 0
+
+
+Player Stats for Lapuk, AI: Call
+General: deals: 1, actions: 3, preflop actions: 1
+Rounds Seen: flops: 93, turns: 79, rivers: 65, showdowns: 51
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 0
+Pre-Flop Stats: VP$IP: 1, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: 0, WSD: 0.548387, WSDW: 0
+
+
+Player Stats for Leeno, AI: Random
+General: deals: 19, actions: 49, preflop actions: 16
+Rounds Seen: flops: 92, turns: 79, rivers: 65, showdowns: 51
+Wins: total: 11, showdown: 5, bluff: 6
+Chips: won: 5615, lost: 7805, bought: 1000, forced bets: 90
+Pre-Flop Stats: VP$IP: 0.631579, PFR: 0.315789, 3Bet: 0.263158
+Post-Flop Stats: AF: 3.66667, WSD: 0.554348, WSDW: 0.0980392
+
+
+Player Stats for Mumee, AI: AIMyBot1
+General: deals: 448, actions: 565, preflop actions: 323
+Rounds Seen: flops: 84, turns: 70, rivers: 58, showdowns: 44
+Wins: total: 147, showdown: 25, bluff: 122
+Chips: won: 2300, lost: 3300, bought: 1000, forced bets: 3300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 0.52381, WSDW: 0.568182
+
+
+Player Stats for Sugoe, AI: Smart
+General: deals: 1, actions: 3, preflop actions: 1
+Rounds Seen: flops: 93, turns: 79, rivers: 65, showdowns: 51
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 0
+Pre-Flop Stats: VP$IP: 1, PFR: 1, 3Bet: 1
+Post-Flop Stats: AF: 1.#INF, WSD: 0.548387, WSDW: 0
+
+
+Date: 2026/04/30 12:55:53
+
+The game begins. The AI's of the players are: 
+Fohebol: Call
+Sugoe: Smart
+Dufee: Smart
+Lapuk: Call
+Leeno: Random
+Mumee: AIMyBot1
+Fo: Random
+
+Joins: Fohebol, chips: 1000
+Joins: Sugoe, chips: 1000
+Joins: Dufee, chips: 1000
+Joins: Lapuk, chips: 1000
+Joins: Leeno, chips: 1000
+Joins: Mumee, chips: 1000
+Joins: Fo, chips: 1000
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Fo, chips: 5
+Big Blind: Fohebol, chips: 10
+Raises: Sugoe, chips: 10
+Folds: Dufee
+Calls: Lapuk
+Calls: Leeno
+Folds: Mumee
+Folds: Fo
+Calls: Fohebol
+Flop: Ah Ks 5s
+Checks: Fohebol
+Checks: Sugoe
+Checks: Lapuk
+Checks: Leeno
+Turn: 8h
+Checks: Fohebol
+Raises: Sugoe, chips: 980
+Calls: Lapuk
+Calls: Leeno
+Calls: Fohebol
+River: 4h
+Pot size: 4005
+Showdown Reached
+Shows: Fohebol, Jd Th
+Combination: Fohebol, High Card ( Ah Ks Jd Th 8h )
+Shows: Sugoe, Kc Kd
+Combination: Sugoe, Three Of A Kind ( Kc Kd Ks Ah 8h )
+Shows: Lapuk, Ad 5c
+Combination: Lapuk, Two Pair ( Ad Ah 5c 5s Ks )
+Shows: Leeno, 9h 7h
+Combination: Leeno, Flush ( Ah 9h 8h 7h 4h )
+Wins: Leeno, chips: 4005
+Quits: Fohebol, chips: 0
+Quits: Sugoe, chips: 0
+Quits: Lapuk, chips: 0
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Fo
+Small Blind: Dufee, chips: 5
+Big Blind: Leeno, chips: 10
+Folds: Mumee
+Calls: Fo
+Folds: Dufee
+Raises: Leeno, chips: 10
+Calls: Fo
+Flop: 9d As Kh
+Checks: Leeno
+Raises: Fo, chips: 10
+Raises: Leeno, chips: 20
+Calls: Fo
+Turn: 3d
+Checks: Leeno
+Checks: Fo
+River: Tc
+Checks: Leeno
+Checks: Fo
+Pot size: 105
+Showdown Reached
+Shows: Leeno, 2d Th
+Combination: Leeno, Pair ( Th Tc As Kh 9d )
+Shows: Fo, Kd 8s
+Combination: Fo, Pair ( Kd Kh As Tc 9d )
+Wins: Fo, chips: 105
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Leeno, chips: 5
+Big Blind: Mumee, chips: 10
+Raises: Fo, chips: 20
+Folds: Dufee
+Raises: Leeno, chips: 45
+Folds: Mumee
+Calls: Fo
+Flop: 6s Kc 8s
+Raises: Leeno, chips: 45
+Folds: Fo
+Pot size: 205
+Boasts: Leeno, 3c 9c
+Wins: Leeno, chips: 205
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Leeno
+Small Blind: Mumee, chips: 5
+Big Blind: Fo, chips: 10
+Folds: Dufee
+Folds: Leeno
+Folds: Mumee
+Pot size: 15
+Boasts: Fo, Tc 6c
+Wins: Fo, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Fo, chips: 5
+Big Blind: Dufee, chips: 10
+Calls: Leeno
+Folds: Mumee
+Calls: Fo
+Checks: Dufee
+Flop: 8c Th 2s
+Checks: Fo
+Checks: Dufee
+Checks: Leeno
+Turn: 7c
+Checks: Fo
+Checks: Dufee
+Raises: Leeno, chips: 10
+Raises: Fo, chips: 20
+Calls: Dufee
+Raises: Leeno, chips: 40
+Raises: Fo, chips: 80
+Raises: Dufee, chips: 140
+Folds: Leeno
+Folds: Fo
+Pot size: 540
+Wins: Dufee, chips: 540
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Fo
+Small Blind: Dufee, chips: 5
+Big Blind: Leeno, chips: 10
+Folds: Mumee
+Raises: Fo, chips: 20
+Folds: Dufee
+Raises: Leeno, chips: 40
+Raises: Fo, chips: 80
+Raises: Leeno, chips: 160
+Calls: Fo
+Flop: Kc Js 5c
+Checks: Leeno
+Checks: Fo
+Turn: Ts
+Checks: Leeno
+Raises: Fo, chips: 160
+Folds: Leeno
+Pot size: 785
+Boasts: Leeno, 5s Td
+Wins: Fo, chips: 785
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Leeno, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Fo
+Calls: Dufee
+Calls: Leeno
+Checks: Mumee
+Flop: 6s Th 5s
+Raises: Leeno, chips: 10
+Folds: Mumee
+Calls: Fo
+Raises: Dufee, chips: 10
+Raises: Leeno, chips: 20
+Calls: Fo
+Raises: Dufee, chips: 1180
+Raises: Leeno, chips: 1200
+Calls: Fo
+Turn: 5h
+River: 9s
+Pot size: 4805
+Showdown Reached
+Shows: Dufee, Ts Td
+Combination: Dufee, Full House ( Ts Td Th 5s 5h )
+Shows: Leeno, 5c 7d
+Combination: Leeno, Three Of A Kind ( 5c 5s 5h Th 9s )
+Shows: Fo, Ah Ac
+Combination: Fo, Two Pair ( Ah Ac 5s 5h Th )
+Wins: Dufee, chips: 3605
+Wins: Leeno, chips: 1200
+Quits: Fo, chips: 0
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Leeno
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Raises: Leeno, chips: 20
+Folds: Mumee
+Folds: Dufee
+Pot size: 45
+Boasts: Leeno, As 6c
+Wins: Leeno, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Dufee, chips: 5
+Big Blind: Leeno, chips: 10
+Folds: Mumee
+Folds: Dufee
+Pot size: 15
+Wins: Leeno, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Leeno, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Folds: Leeno
+Pot size: 15
+Boasts: Leeno, Js Qs
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Leeno
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Calls: Leeno
+Folds: Mumee
+Checks: Dufee
+Flop: 5h 3s Qs
+Checks: Dufee
+Checks: Leeno
+Turn: Qc
+Checks: Dufee
+Checks: Leeno
+River: 2s
+Checks: Dufee
+Checks: Leeno
+Pot size: 25
+Showdown Reached
+Shows: Dufee, 2h 8c
+Combination: Dufee, Two Pair ( Qs Qc 2h 2s 8c )
+Shows: Leeno, Qd 4s
+Combination: Leeno, Three Of A Kind ( Qd Qs Qc 5h 4s )
+Wins: Leeno, chips: 25
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Dufee, chips: 5
+Big Blind: Leeno, chips: 10
+Folds: Mumee
+Folds: Dufee
+Pot size: 15
+Boasts: Leeno, Ts 5s
+Wins: Leeno, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Leeno, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Calls: Leeno
+Checks: Mumee
+Flop: 2h 6d 4c
+Checks: Leeno
+Checks: Mumee
+Checks: Dufee
+Turn: 7d
+Checks: Leeno
+Checks: Mumee
+Checks: Dufee
+River: 4h
+Checks: Leeno
+Checks: Mumee
+Checks: Dufee
+Pot size: 30
+Showdown Reached
+Shows: Dufee, Js 9h
+Combination: Dufee, Pair ( 4c 4h Js 9h 7d )
+Shows: Leeno, 2s Jh
+Combination: Leeno, Two Pair ( 4c 4h 2s 2h Jh )
+Shows: Mumee, 3h Ts
+Combination: Mumee, Pair ( 4c 4h Ts 7d 6d )
+Wins: Leeno, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Leeno
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Calls: Leeno
+Folds: Mumee
+Checks: Dufee
+Flop: Qh Ts 7h
+Checks: Dufee
+Checks: Leeno
+Turn: Jh
+Raises: Dufee, chips: 10
+Calls: Leeno
+River: 6h
+Checks: Dufee
+Checks: Leeno
+Pot size: 45
+Showdown Reached
+Shows: Dufee, Jc Kd
+Combination: Dufee, Pair ( Jc Jh Kd Qh Ts )
+Shows: Leeno, 6c Kh
+Combination: Leeno, Flush ( Kh Qh Jh 7h 6h )
+Wins: Leeno, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Dufee, chips: 5
+Big Blind: Leeno, chips: 10
+Folds: Mumee
+Folds: Dufee
+Pot size: 15
+Boasts: Leeno, Kd 9d
+Wins: Leeno, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Leeno, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Folds: Leeno
+Checks: Mumee
+Flop: 9d 9s 8h
+Checks: Mumee
+Raises: Dufee, chips: 10
+Folds: Mumee
+Pot size: 35
+Boasts: Leeno, 4s Ts
+Wins: Dufee, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Leeno
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Raises: Leeno, chips: 20
+Folds: Mumee
+Calls: Dufee
+Flop: Ad 2h Jh
+Checks: Dufee
+Raises: Leeno, chips: 20
+Calls: Dufee
+Turn: Ts
+Checks: Dufee
+Raises: Leeno, chips: 20
+Calls: Dufee
+River: 6h
+Checks: Dufee
+Checks: Leeno
+Pot size: 145
+Showdown Reached
+Shows: Dufee, Js 8s
+Combination: Dufee, Pair ( Js Jh Ad Ts 8s )
+Shows: Leeno, 4s 9c
+Combination: Leeno, High Card ( Ad Jh Ts 9c 6h )
+Wins: Dufee, chips: 145
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Dufee, chips: 5
+Big Blind: Leeno, chips: 10
+Folds: Mumee
+Folds: Dufee
+Pot size: 15
+Boasts: Leeno, 5d 4s
+Wins: Leeno, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Leeno, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Raises: Leeno, chips: 15
+Folds: Mumee
+Calls: Dufee
+Flop: 5d Ac 3h
+Checks: Leeno
+Raises: Dufee, chips: 20
+Raises: Leeno, chips: 40
+Calls: Dufee
+Turn: Jc
+Raises: Leeno, chips: 40
+Raises: Dufee, chips: 3500
+Calls: Leeno
+River: Ks
+Pot size: 6070
+Showdown Reached
+Shows: Dufee, Ad Th
+Combination: Dufee, Pair ( Ad Ac Ks Jc Th )
+Shows: Leeno, Kh 7s
+Combination: Leeno, Pair ( Kh Ks Ac Jc 7s )
+Wins: Dufee, chips: 6070
+Quits: Leeno, chips: 0
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: 6d 9s 2s
+Checks: Mumee
+Checks: Dufee
+Turn: Js
+Checks: Mumee
+Checks: Dufee
+River: Jd
+Checks: Mumee
+Checks: Dufee
+Pot size: 20
+Showdown Reached
+Shows: Dufee, As Qh
+Combination: Dufee, Pair ( Js Jd As Qh 9s )
+Shows: Mumee, 9h 4s
+Combination: Mumee, Two Pair ( Js Jd 9h 9s 6d )
+Wins: Mumee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: Ad 9d 7d
+Checks: Mumee
+Checks: Dufee
+Turn: 9c
+Checks: Mumee
+Checks: Dufee
+River: Jh
+Checks: Mumee
+Checks: Dufee
+Pot size: 20
+Showdown Reached
+Shows: Dufee, Kh Qh
+Combination: Dufee, Pair ( 9d 9c Ad Kh Qh )
+Shows: Mumee, 8c Js
+Combination: Mumee, Two Pair ( Js Jh 9d 9c Ad )
+Wins: Mumee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Raises: Dufee, chips: 6055
+Folds: Mumee
+Pot size: 6075
+Wins: Dufee, chips: 6075
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: 2s Jc Qh
+Checks: Mumee
+Checks: Dufee
+Turn: 5h
+Checks: Mumee
+Raises: Dufee, chips: 10
+Folds: Mumee
+Pot size: 30
+Wins: Dufee, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Raises: Dufee, chips: 6085
+Folds: Mumee
+Pot size: 6105
+Wins: Dufee, chips: 6105
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: 3h 2d 9d
+Checks: Mumee
+Checks: Dufee
+Turn: 5s
+Checks: Mumee
+Checks: Dufee
+River: Ah
+Checks: Mumee
+Checks: Dufee
+Pot size: 20
+Showdown Reached
+Shows: Dufee, Ad Ks
+Combination: Dufee, Pair ( Ad Ah Ks 9d 5s )
+Shows: Mumee, Qh 8s
+Combination: Mumee, High Card ( Ah Qh 9d 8s 5s )
+Wins: Dufee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: 2h 7c Th
+Checks: Mumee
+Checks: Dufee
+Turn: 8h
+Checks: Mumee
+Checks: Dufee
+River: Ks
+Checks: Mumee
+Checks: Dufee
+Pot size: 20
+Showdown Reached
+Shows: Dufee, 5d 3d
+Combination: Dufee, High Card ( Ks Th 8h 7c 5d )
+Shows: Mumee, Td Js
+Combination: Mumee, Pair ( Td Th Ks Js 8h )
+Wins: Mumee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: 9h 4c Kd
+Checks: Mumee
+Checks: Dufee
+Turn: Qs
+Checks: Mumee
+Checks: Dufee
+River: 3d
+Checks: Mumee
+Raises: Dufee, chips: 10
+Folds: Mumee
+Pot size: 30
+Wins: Dufee, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: 6c Th Qh
+Checks: Mumee
+Raises: Dufee, chips: 6125
+Folds: Mumee
+Pot size: 6145
+Wins: Dufee, chips: 6145
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: 4h 8h 5h
+Checks: Mumee
+Checks: Dufee
+Turn: Js
+Checks: Mumee
+Checks: Dufee
+River: Ac
+Checks: Mumee
+Raises: Dufee, chips: 10
+Folds: Mumee
+Pot size: 30
+Wins: Dufee, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: 4h 5d 9s
+Checks: Mumee
+Checks: Dufee
+Turn: Kd
+Checks: Mumee
+Raises: Dufee, chips: 10
+Folds: Mumee
+Pot size: 30
+Wins: Dufee, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: 2h Ks 2c
+Checks: Mumee
+Checks: Dufee
+Turn: 3h
+Checks: Mumee
+Checks: Dufee
+River: 6s
+Checks: Mumee
+Checks: Dufee
+Pot size: 20
+Showdown Reached
+Shows: Dufee, 7d Td
+Combination: Dufee, Pair ( 2h 2c Ks Td 7d )
+Shows: Mumee, Jh 5d
+Combination: Mumee, Pair ( 2h 2c Ks Jh 6s )
+Wins: Mumee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: 5h Jh 3d
+Checks: Mumee
+Checks: Dufee
+Turn: Ad
+Checks: Mumee
+Checks: Dufee
+River: 4s
+Checks: Mumee
+Checks: Dufee
+Pot size: 20
+Showdown Reached
+Shows: Dufee, Tc 9d
+Combination: Dufee, High Card ( Ad Jh Tc 9d 5h )
+Shows: Mumee, 6h Ks
+Combination: Mumee, High Card ( Ad Ks Jh 6h 5h )
+Wins: Mumee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: Tc 4d Kd
+Checks: Mumee
+Checks: Dufee
+Turn: Kc
+Checks: Mumee
+Checks: Dufee
+River: 3d
+Checks: Mumee
+Raises: Dufee, chips: 10
+Folds: Mumee
+Pot size: 30
+Wins: Dufee, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: Kd Qd 3s
+Checks: Mumee
+Raises: Dufee, chips: 10
+Folds: Mumee
+Pot size: 30
+Wins: Dufee, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Raises: Dufee, chips: 15
+Folds: Mumee
+Pot size: 35
+Wins: Dufee, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Raises: Dufee, chips: 15
+Folds: Mumee
+Pot size: 35
+Wins: Dufee, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: 5c 7s 4h
+Checks: Mumee
+Checks: Dufee
+Turn: Jc
+Checks: Mumee
+Raises: Dufee, chips: 10
+Folds: Mumee
+Pot size: 30
+Wins: Dufee, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Raises: Dufee, chips: 15
+Folds: Mumee
+Pot size: 35
+Wins: Dufee, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: 3c 6h Jh
+Checks: Mumee
+Checks: Dufee
+Turn: Ks
+Checks: Mumee
+Checks: Dufee
+River: Ac
+Checks: Mumee
+Checks: Dufee
+Pot size: 20
+Showdown Reached
+Shows: Dufee, As 5s
+Combination: Dufee, Pair ( As Ac Ks Jh 6h )
+Shows: Mumee, Tc 3d
+Combination: Mumee, Pair ( 3d 3c Ac Ks Jh )
+Wins: Dufee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: 5h 3d Jd
+Checks: Mumee
+Checks: Dufee
+Turn: Ks
+Checks: Mumee
+Checks: Dufee
+River: Js
+Checks: Mumee
+Checks: Dufee
+Pot size: 20
+Showdown Reached
+Shows: Dufee, 5d 7d
+Combination: Dufee, Two Pair ( Jd Js 5d 5h Ks )
+Shows: Mumee, 9d 7h
+Combination: Mumee, Pair ( Jd Js Ks 9d 7h )
+Wins: Dufee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: 9h Kh 3h
+Checks: Mumee
+Checks: Dufee
+Turn: 8h
+Checks: Mumee
+Raises: Dufee, chips: 6280
+Folds: Mumee
+Pot size: 6300
+Wins: Dufee, chips: 6300
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: Jh 2h 9c
+Checks: Mumee
+Raises: Dufee, chips: 10
+Folds: Mumee
+Pot size: 30
+Wins: Dufee, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: 5d 4d As
+Checks: Mumee
+Checks: Dufee
+Turn: 3c
+Checks: Mumee
+Checks: Dufee
+River: Td
+Checks: Mumee
+Checks: Dufee
+Pot size: 20
+Showdown Reached
+Shows: Dufee, Ac Qc
+Combination: Dufee, Pair ( Ac As Qc Td 5d )
+Shows: Mumee, 5c 2d
+Combination: Mumee, Straight ( 5c 4d 3c 2d As )
+Wins: Mumee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: 7h 4d 6h
+Checks: Mumee
+Checks: Dufee
+Turn: 2h
+Checks: Mumee
+Checks: Dufee
+River: 9h
+Checks: Mumee
+Checks: Dufee
+Pot size: 20
+Showdown Reached
+Shows: Dufee, Js Ac
+Combination: Dufee, High Card ( Ac Js 9h 7h 6h )
+Shows: Mumee, 5s Qc
+Combination: Mumee, High Card ( Qc 9h 7h 6h 5s )
+Wins: Dufee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: Ah 3s Jd
+Checks: Mumee
+Raises: Dufee, chips: 10
+Folds: Mumee
+Pot size: 30
+Wins: Dufee, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: 8s 2s Jc
+Checks: Mumee
+Checks: Dufee
+Turn: 2c
+Checks: Mumee
+Checks: Dufee
+River: 7c
+Checks: Mumee
+Raises: Dufee, chips: 10
+Folds: Mumee
+Pot size: 30
+Wins: Dufee, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: 2c 7s Qs
+Checks: Mumee
+Checks: Dufee
+Turn: Qc
+Checks: Mumee
+Checks: Dufee
+River: Qh
+Checks: Mumee
+Raises: Dufee, chips: 10
+Folds: Mumee
+Pot size: 30
+Wins: Dufee, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: Qs Tc 7c
+Checks: Mumee
+Checks: Dufee
+Turn: As
+Checks: Mumee
+Checks: Dufee
+River: 6s
+Checks: Mumee
+Checks: Dufee
+Pot size: 20
+Showdown Reached
+Shows: Dufee, 9s 9c
+Combination: Dufee, Pair ( 9s 9c As Qs Tc )
+Shows: Mumee, Th 9h
+Combination: Mumee, Pair ( Th Tc As Qs 9h )
+Wins: Mumee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: Jc 4s Ts
+Checks: Mumee
+Checks: Dufee
+Turn: 2h
+Checks: Mumee
+Raises: Dufee, chips: 10
+Folds: Mumee
+Pot size: 30
+Wins: Dufee, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Raises: Dufee, chips: 15
+Folds: Mumee
+Pot size: 35
+Wins: Dufee, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: 2h 9h 9s
+Checks: Mumee
+Checks: Dufee
+Turn: 4c
+Checks: Mumee
+Checks: Dufee
+River: 6s
+Checks: Mumee
+Checks: Dufee
+Pot size: 20
+Showdown Reached
+Shows: Dufee, Qc Js
+Combination: Dufee, Pair ( 9h 9s Qc Js 6s )
+Shows: Mumee, Kh 7h
+Combination: Mumee, Pair ( 9h 9s Kh 7h 6s )
+Wins: Mumee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: 6s 2c 4s
+Checks: Mumee
+Checks: Dufee
+Turn: 8c
+Checks: Mumee
+Checks: Dufee
+River: 3s
+Checks: Mumee
+Raises: Dufee, chips: 10
+Folds: Mumee
+Pot size: 30
+Wins: Dufee, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: 5c 3s 8s
+Checks: Mumee
+Checks: Dufee
+Turn: 7c
+Checks: Mumee
+Checks: Dufee
+River: 4d
+Checks: Mumee
+Checks: Dufee
+Pot size: 20
+Showdown Reached
+Shows: Dufee, Qd Jd
+Combination: Dufee, High Card ( Qd Jd 8s 7c 5c )
+Shows: Mumee, 3c 2d
+Combination: Mumee, Pair ( 3c 3s 8s 7c 5c )
+Wins: Mumee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: 2d 9d Th
+Checks: Mumee
+Checks: Dufee
+Turn: Kd
+Checks: Mumee
+Checks: Dufee
+River: 5c
+Checks: Mumee
+Checks: Dufee
+Pot size: 20
+Showdown Reached
+Shows: Dufee, Tc Jd
+Combination: Dufee, Pair ( Tc Th Kd Jd 9d )
+Shows: Mumee, 4d 4s
+Combination: Mumee, Pair ( 4d 4s Kd Th 9d )
+Wins: Dufee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: 7d 3d 6s
+Checks: Mumee
+Checks: Dufee
+Turn: 9c
+Checks: Mumee
+Checks: Dufee
+River: 9s
+Checks: Mumee
+Raises: Dufee, chips: 10
+Folds: Mumee
+Pot size: 30
+Wins: Dufee, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: 8s 9s As
+Checks: Mumee
+Raises: Dufee, chips: 10
+Folds: Mumee
+Pot size: 30
+Wins: Dufee, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: 9h Ks Jd
+Checks: Mumee
+Checks: Dufee
+Turn: As
+Checks: Mumee
+Checks: Dufee
+River: Ah
+Checks: Mumee
+Raises: Dufee, chips: 10
+Folds: Mumee
+Pot size: 30
+Wins: Dufee, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: As 4c 3d
+Checks: Mumee
+Checks: Dufee
+Turn: Jh
+Checks: Mumee
+Checks: Dufee
+River: Ah
+Checks: Mumee
+Checks: Dufee
+Pot size: 20
+Showdown Reached
+Shows: Dufee, Ts 9h
+Combination: Dufee, Pair ( As Ah Jh Ts 9h )
+Shows: Mumee, 9s Ad
+Combination: Mumee, Three Of A Kind ( Ad As Ah Jh 9s )
+Wins: Mumee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: 2d 6s 5c
+Checks: Mumee
+Checks: Dufee
+Turn: 7d
+Checks: Mumee
+Checks: Dufee
+River: 3h
+Checks: Mumee
+Checks: Dufee
+Pot size: 20
+Showdown Reached
+Shows: Dufee, Qd 9h
+Combination: Dufee, High Card ( Qd 9h 7d 6s 5c )
+Shows: Mumee, 3c 7c
+Combination: Mumee, Two Pair ( 7c 7d 3c 3h 6s )
+Wins: Mumee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: 7c 7h Jc
+Checks: Mumee
+Checks: Dufee
+Turn: 2c
+Checks: Mumee
+Checks: Dufee
+River: Qs
+Checks: Mumee
+Checks: Dufee
+Pot size: 20
+Showdown Reached
+Shows: Dufee, 5c 5d
+Combination: Dufee, Two Pair ( 7c 7h 5c 5d Qs )
+Shows: Mumee, Ks Jh
+Combination: Mumee, Two Pair ( Jh Jc 7c 7h Ks )
+Wins: Mumee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: Qd Kd 7s
+Checks: Mumee
+Raises: Dufee, chips: 10
+Folds: Mumee
+Pot size: 30
+Wins: Dufee, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: Ac 6h Qd
+Checks: Mumee
+Checks: Dufee
+Turn: 2h
+Checks: Mumee
+Checks: Dufee
+River: 2s
+Checks: Mumee
+Checks: Dufee
+Pot size: 20
+Showdown Reached
+Shows: Dufee, Tc 8h
+Combination: Dufee, Pair ( 2h 2s Ac Qd Tc )
+Shows: Mumee, 3h 9d
+Combination: Mumee, Pair ( 2h 2s Ac Qd 9d )
+Wins: Dufee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: 2c 2h 4s
+Checks: Mumee
+Checks: Dufee
+Turn: 6h
+Checks: Mumee
+Checks: Dufee
+River: 5d
+Checks: Mumee
+Checks: Dufee
+Pot size: 20
+Showdown Reached
+Shows: Dufee, Jd 7d
+Combination: Dufee, Pair ( 2c 2h Jd 7d 6h )
+Shows: Mumee, 3s Td
+Combination: Mumee, Straight ( 6h 5d 4s 3s 2c )
+Wins: Mumee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Raises: Dufee, chips: 15
+Folds: Mumee
+Pot size: 35
+Wins: Dufee, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: Qc 4h 8h
+Checks: Mumee
+Raises: Dufee, chips: 10
+Folds: Mumee
+Pot size: 30
+Wins: Dufee, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: Th 7s 5s
+Checks: Mumee
+Raises: Dufee, chips: 10
+Folds: Mumee
+Pot size: 30
+Wins: Dufee, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Raises: Dufee, chips: 15
+Folds: Mumee
+Pot size: 35
+Wins: Dufee, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: Kd As 5h
+Checks: Mumee
+Checks: Dufee
+Turn: Tc
+Checks: Mumee
+Checks: Dufee
+River: 9c
+Checks: Mumee
+Raises: Dufee, chips: 10
+Folds: Mumee
+Pot size: 30
+Wins: Dufee, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: 5s 3c 5d
+Checks: Mumee
+Checks: Dufee
+Turn: Ah
+Checks: Mumee
+Checks: Dufee
+River: 3h
+Checks: Mumee
+Checks: Dufee
+Pot size: 20
+Showdown Reached
+Shows: Dufee, 8c 9c
+Combination: Dufee, Two Pair ( 5s 5d 3c 3h Ah )
+Shows: Mumee, Kc Qh
+Combination: Mumee, Two Pair ( 5s 5d 3c 3h Ah )
+Wins: Dufee, chips: 10
+Wins: Mumee, chips: 10
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: Ah 9h Td
+Checks: Mumee
+Checks: Dufee
+Turn: 5h
+Checks: Mumee
+Checks: Dufee
+River: 5d
+Checks: Mumee
+Checks: Dufee
+Pot size: 20
+Showdown Reached
+Shows: Dufee, Qc Qs
+Combination: Dufee, Two Pair ( Qc Qs 5h 5d Ah )
+Shows: Mumee, 2c 6c
+Combination: Mumee, Pair ( 5h 5d Ah Td 9h )
+Wins: Dufee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: 9c 6s 4h
+Checks: Mumee
+Checks: Dufee
+Turn: Kd
+Checks: Mumee
+Raises: Dufee, chips: 10
+Folds: Mumee
+Pot size: 30
+Wins: Dufee, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: Qh 5c 2d
+Checks: Mumee
+Checks: Dufee
+Turn: 4h
+Checks: Mumee
+Checks: Dufee
+River: 2s
+Checks: Mumee
+Raises: Dufee, chips: 10
+Folds: Mumee
+Pot size: 30
+Wins: Dufee, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: Jc Ks Kc
+Checks: Mumee
+Checks: Dufee
+Turn: 6c
+Checks: Mumee
+Checks: Dufee
+River: 9d
+Checks: Mumee
+Checks: Dufee
+Pot size: 20
+Showdown Reached
+Shows: Dufee, 4h 5c
+Combination: Dufee, Pair ( Ks Kc Jc 9d 6c )
+Shows: Mumee, 2c 2d
+Combination: Mumee, Two Pair ( Ks Kc 2c 2d Jc )
+Wins: Mumee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: Td Kc Jh
+Checks: Mumee
+Checks: Dufee
+Turn: Ah
+Checks: Mumee
+Checks: Dufee
+River: Jd
+Checks: Mumee
+Checks: Dufee
+Pot size: 20
+Showdown Reached
+Shows: Dufee, 4d 4c
+Combination: Dufee, Two Pair ( Jh Jd 4d 4c Ah )
+Shows: Mumee, 5d 7c
+Combination: Mumee, Pair ( Jh Jd Ah Kc Td )
+Wins: Dufee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: 5c 3c 8s
+Checks: Mumee
+Checks: Dufee
+Turn: 7h
+Checks: Mumee
+Checks: Dufee
+River: 5h
+Checks: Mumee
+Raises: Dufee, chips: 6600
+Folds: Mumee
+Pot size: 6620
+Wins: Dufee, chips: 6620
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: Ks 9h Qh
+Checks: Mumee
+Checks: Dufee
+Turn: 6h
+Checks: Mumee
+Checks: Dufee
+River: 5s
+Checks: Mumee
+Checks: Dufee
+Pot size: 20
+Showdown Reached
+Shows: Dufee, 2s 2c
+Combination: Dufee, Pair ( 2s 2c Ks Qh 9h )
+Shows: Mumee, Ac Js
+Combination: Mumee, High Card ( Ac Ks Qh Js 9h )
+Wins: Dufee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: Jh 5d 3c
+Checks: Mumee
+Checks: Dufee
+Turn: 3d
+Checks: Mumee
+Checks: Dufee
+River: Kd
+Checks: Mumee
+Checks: Dufee
+Pot size: 20
+Showdown Reached
+Shows: Dufee, 9c 8h
+Combination: Dufee, Pair ( 3c 3d Kd Jh 9c )
+Shows: Mumee, 9s As
+Combination: Mumee, Pair ( 3c 3d As Kd Jh )
+Wins: Mumee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Raises: Dufee, chips: 15
+Folds: Mumee
+Pot size: 35
+Wins: Dufee, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: Qc 7d 3c
+Checks: Mumee
+Checks: Dufee
+Turn: Ah
+Checks: Mumee
+Raises: Dufee, chips: 10
+Folds: Mumee
+Pot size: 30
+Wins: Dufee, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: 4h 6d Js
+Checks: Mumee
+Checks: Dufee
+Turn: 4c
+Checks: Mumee
+Checks: Dufee
+River: Tc
+Checks: Mumee
+Checks: Dufee
+Pot size: 20
+Showdown Reached
+Shows: Dufee, 2s Ks
+Combination: Dufee, Pair ( 4h 4c Ks Js Tc )
+Shows: Mumee, 8c Ad
+Combination: Mumee, Pair ( 4h 4c Ad Js Tc )
+Wins: Mumee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: Ts 3c 5d
+Checks: Mumee
+Checks: Dufee
+Turn: 6h
+Checks: Mumee
+Checks: Dufee
+River: 8d
+Checks: Mumee
+Checks: Dufee
+Pot size: 20
+Showdown Reached
+Shows: Dufee, 9s 6s
+Combination: Dufee, Pair ( 6s 6h Ts 9s 8d )
+Shows: Mumee, Kc Td
+Combination: Mumee, Pair ( Td Ts Kc 8d 6h )
+Wins: Mumee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: 8d Ts 8h
+Checks: Mumee
+Checks: Dufee
+Turn: 7c
+Checks: Mumee
+Checks: Dufee
+River: 6c
+Checks: Mumee
+Checks: Dufee
+Pot size: 20
+Showdown Reached
+Shows: Dufee, As 9s
+Combination: Dufee, Straight ( Ts 9s 8d 7c 6c )
+Shows: Mumee, 7h Td
+Combination: Mumee, Two Pair ( Td Ts 8d 8h 7h )
+Wins: Dufee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: 9d 3s Qc
+Checks: Mumee
+Checks: Dufee
+Turn: Ts
+Checks: Mumee
+Raises: Dufee, chips: 10
+Folds: Mumee
+Pot size: 30
+Wins: Dufee, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: Qd 2d 8s
+Checks: Mumee
+Checks: Dufee
+Turn: 7h
+Checks: Mumee
+Checks: Dufee
+River: Qc
+Checks: Mumee
+Checks: Dufee
+Pot size: 20
+Showdown Reached
+Shows: Dufee, 5d 4c
+Combination: Dufee, Pair ( Qd Qc 8s 7h 5d )
+Shows: Mumee, 8d Ah
+Combination: Mumee, Two Pair ( Qd Qc 8d 8s Ah )
+Wins: Mumee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: 9s Kh 5s
+Checks: Mumee
+Raises: Dufee, chips: 10
+Folds: Mumee
+Pot size: 30
+Wins: Dufee, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: 9c 5h 4d
+Checks: Mumee
+Checks: Dufee
+Turn: 3h
+Checks: Mumee
+Checks: Dufee
+River: 6d
+Checks: Mumee
+Checks: Dufee
+Pot size: 20
+Showdown Reached
+Shows: Dufee, 9h 8d
+Combination: Dufee, Pair ( 9h 9c 8d 6d 5h )
+Shows: Mumee, Kc Tc
+Combination: Mumee, High Card ( Kc Tc 9c 6d 5h )
+Wins: Dufee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: Kh 3c 7s
+Checks: Mumee
+Checks: Dufee
+Turn: Js
+Checks: Mumee
+Raises: Dufee, chips: 6700
+Folds: Mumee
+Pot size: 6720
+Wins: Dufee, chips: 6720
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: Kc Jd Qc
+Checks: Mumee
+Raises: Dufee, chips: 6715
+Folds: Mumee
+Pot size: 6735
+Wins: Dufee, chips: 6735
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: Ts 2s 7d
+Checks: Mumee
+Checks: Dufee
+Turn: 6c
+Checks: Mumee
+Checks: Dufee
+River: 9h
+Checks: Mumee
+Checks: Dufee
+Pot size: 20
+Showdown Reached
+Shows: Dufee, 5s 5h
+Combination: Dufee, Pair ( 5s 5h Ts 9h 7d )
+Shows: Mumee, Td Jd
+Combination: Mumee, Pair ( Td Ts Jd 9h 7d )
+Wins: Mumee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: 8s 4d Jd
+Checks: Mumee
+Checks: Dufee
+Turn: Ad
+Checks: Mumee
+Checks: Dufee
+River: Qc
+Checks: Mumee
+Checks: Dufee
+Pot size: 20
+Showdown Reached
+Shows: Dufee, Qs Ts
+Combination: Dufee, Pair ( Qs Qc Ad Jd Ts )
+Shows: Mumee, 2d 9c
+Combination: Mumee, High Card ( Ad Qc Jd 9c 8s )
+Wins: Dufee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: Td Jc 4h
+Checks: Mumee
+Checks: Dufee
+Turn: Ac
+Checks: Mumee
+Checks: Dufee
+River: 8s
+Checks: Mumee
+Checks: Dufee
+Pot size: 20
+Showdown Reached
+Shows: Dufee, 2d 2c
+Combination: Dufee, Pair ( 2d 2c Ac Jc Td )
+Shows: Mumee, 6c 5c
+Combination: Mumee, High Card ( Ac Jc Td 8s 6c )
+Wins: Dufee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: 7d 5c Qd
+Checks: Mumee
+Checks: Dufee
+Turn: Ts
+Checks: Mumee
+Checks: Dufee
+River: Qh
+Checks: Mumee
+Raises: Dufee, chips: 10
+Folds: Mumee
+Pot size: 30
+Wins: Dufee, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: 9h 3d Ah
+Checks: Mumee
+Checks: Dufee
+Turn: 3h
+Checks: Mumee
+Checks: Dufee
+River: 3s
+Checks: Mumee
+Raises: Dufee, chips: 10
+Folds: Mumee
+Pot size: 30
+Wins: Dufee, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: Ts Jd Jh
+Checks: Mumee
+Checks: Dufee
+Turn: Td
+Checks: Mumee
+Checks: Dufee
+River: Qs
+Checks: Mumee
+Checks: Dufee
+Pot size: 20
+Showdown Reached
+Shows: Dufee, As 7s
+Combination: Dufee, Two Pair ( Jd Jh Ts Td As )
+Shows: Mumee, 9c 6d
+Combination: Mumee, Two Pair ( Jd Jh Ts Td Qs )
+Wins: Dufee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: 3c Jc Qc
+Checks: Mumee
+Checks: Dufee
+Turn: 2c
+Checks: Mumee
+Checks: Dufee
+River: 9h
+Checks: Mumee
+Checks: Dufee
+Pot size: 20
+Showdown Reached
+Shows: Dufee, 7s 7d
+Combination: Dufee, Pair ( 7s 7d Qc Jc 9h )
+Shows: Mumee, 4d Tc
+Combination: Mumee, Flush ( Qc Jc Tc 3c 2c )
+Wins: Mumee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: 4h Ts Qs
+Checks: Mumee
+Raises: Dufee, chips: 10
+Folds: Mumee
+Pot size: 30
+Wins: Dufee, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Raises: Dufee, chips: 15
+Folds: Mumee
+Pot size: 35
+Wins: Dufee, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: 2s 9h Kh
+Checks: Mumee
+Checks: Dufee
+Turn: Ah
+Checks: Mumee
+Checks: Dufee
+River: Jh
+Checks: Mumee
+Checks: Dufee
+Pot size: 20
+Showdown Reached
+Shows: Dufee, 8d 5d
+Combination: Dufee, High Card ( Ah Kh Jh 9h 8d )
+Shows: Mumee, 5c 3s
+Combination: Mumee, High Card ( Ah Kh Jh 9h 5c )
+Wins: Dufee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: Jc 7d Ts
+Checks: Mumee
+Checks: Dufee
+Turn: Ah
+Checks: Mumee
+Checks: Dufee
+River: Kc
+Checks: Mumee
+Checks: Dufee
+Pot size: 20
+Showdown Reached
+Shows: Dufee, 7h 8h
+Combination: Dufee, Pair ( 7h 7d Ah Kc Jc )
+Shows: Mumee, 6d 6c
+Combination: Mumee, Pair ( 6d 6c Ah Kc Jc )
+Wins: Dufee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: 6d 8c 4d
+Checks: Mumee
+Checks: Dufee
+Turn: Ts
+Checks: Mumee
+Checks: Dufee
+River: 3c
+Checks: Mumee
+Checks: Dufee
+Pot size: 20
+Showdown Reached
+Shows: Dufee, As 9c
+Combination: Dufee, High Card ( As Ts 9c 8c 6d )
+Shows: Mumee, 8h 4s
+Combination: Mumee, Two Pair ( 8h 8c 4s 4d Ts )
+Wins: Mumee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: 3c Kd 2s
+Checks: Mumee
+Checks: Dufee
+Turn: 3s
+Checks: Mumee
+Checks: Dufee
+River: Tc
+Checks: Mumee
+Checks: Dufee
+Pot size: 20
+Showdown Reached
+Shows: Dufee, Jc 9h
+Combination: Dufee, Pair ( 3c 3s Kd Jc Tc )
+Shows: Mumee, 8s 8c
+Combination: Mumee, Two Pair ( 8s 8c 3c 3s Kd )
+Wins: Mumee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: 2s Ks Ac
+Checks: Mumee
+Checks: Dufee
+Turn: Ts
+Checks: Mumee
+Checks: Dufee
+River: 9c
+Checks: Mumee
+Checks: Dufee
+Pot size: 20
+Showdown Reached
+Shows: Dufee, 6h 7d
+Combination: Dufee, High Card ( Ac Ks Ts 9c 7d )
+Shows: Mumee, 3s 5c
+Combination: Mumee, High Card ( Ac Ks Ts 9c 5c )
+Wins: Dufee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: 3h Ah 5c
+Checks: Mumee
+Raises: Dufee, chips: 10
+Folds: Mumee
+Pot size: 30
+Wins: Dufee, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Raises: Dufee, chips: 15
+Folds: Mumee
+Pot size: 35
+Wins: Dufee, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: 8h Ah 5h
+Checks: Mumee
+Checks: Dufee
+Turn: Qd
+Checks: Mumee
+Raises: Dufee, chips: 10
+Folds: Mumee
+Pot size: 30
+Wins: Dufee, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Raises: Dufee, chips: 15
+Folds: Mumee
+Pot size: 35
+Wins: Dufee, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: Jc 7s Jh
+Checks: Mumee
+Checks: Dufee
+Turn: Kh
+Checks: Mumee
+Raises: Dufee, chips: 6920
+Folds: Mumee
+Pot size: 6940
+Wins: Dufee, chips: 6940
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: Kh 6s 8h
+Checks: Mumee
+Checks: Dufee
+Turn: 8c
+Checks: Mumee
+Checks: Dufee
+River: 7d
+Checks: Mumee
+Raises: Dufee, chips: 10
+Folds: Mumee
+Pot size: 30
+Wins: Dufee, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Raises: Dufee, chips: 6950
+Folds: Mumee
+Pot size: 6970
+Wins: Dufee, chips: 6970
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Folds: Dufee
+Pot size: 15
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Calls: Dufee
+Checks: Mumee
+Flop: Jh Qc 5c
+Checks: Mumee
+Checks: Dufee
+Turn: 8s
+Checks: Mumee
+Raises: Dufee, chips: 10
+Folds: Mumee
+Pot size: 30
+Wins: Dufee, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Flop: 5h Jc Ac
+Turn: 6c
+River: 9c
+Pot size: 15
+Showdown Reached
+Shows: Dufee, 3d 5s
+Combination: Dufee, Pair ( 5s 5h Ac Jc 9c )
+Shows: Mumee, Ah 2s
+Combination: Mumee, Pair ( Ah Ac Jc 9c 6c )
+Wins: Mumee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Folds: Mumee
+Pot size: 15
+Wins: Dufee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Dufee
+Small Blind: Dufee, chips: 5
+Big Blind: Mumee, chips: 10
+Flop: 8c Ac 7s
+Turn: Td
+River: 2c
+Pot size: 15
+Showdown Reached
+Shows: Dufee, 2s Th
+Combination: Dufee, Two Pair ( Th Td 2s 2c Ac )
+Shows: Mumee, Ks Tc
+Combination: Mumee, Pair ( Tc Td Ac Ks 8c )
+Wins: Dufee, chips: 10
+Wins: Mumee, chips: 5
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Mumee
+Small Blind: Mumee, chips: 5
+Big Blind: Dufee, chips: 10
+Flop: 4h 5s Ah
+Turn: 6d
+River: Kd
+Pot size: 15
+Showdown Reached
+Shows: Dufee, Qs 7h
+Combination: Dufee, High Card ( Ah Kd Qs 7h 6d )
+Shows: Mumee, 8s Js
+Combination: Mumee, High Card ( Ah Kd Js 8s 6d )
+Wins: Dufee, chips: 15
+Quits: Mumee, chips: 0
+Ranking: Dufee, Place: 1, Score: 6000
+Reveal AI: Dufee, AI: Smart
+Ranking: Mumee, Place: 2, Score: -1000
+Reveal AI: Mumee, AI: AIMyBot1
+Ranking: Leeno, Place: 3, Score: -1000
+Reveal AI: Leeno, AI: Random
+Ranking: Fo, Place: 4, Score: -1000
+Reveal AI: Fo, AI: Random
+Ranking: Lapuk, Place: 5, Score: -1000
+Reveal AI: Lapuk, AI: Call
+Ranking: Sugoe, Place: 6, Score: -1000
+Reveal AI: Sugoe, AI: Smart
+Ranking: Fohebol, Place: 7, Score: -1000
+Reveal AI: Fohebol, AI: Call
+
+Player Stats for Dufee, AI: Smart
+General: deals: 448, actions: 454, preflop actions: 232
+Rounds Seen: flops: 89, turns: 76, rivers: 63, showdowns: 49
+Wins: total: 290, showdown: 23, bluff: 267
+Chips: won: 73900, lost: 67900, bought: 1000, forced bets: 3300
+Pre-Flop Stats: VP$IP: 0.214286, PFR: 0.0290179, 3Bet: 0.0290179
+Post-Flop Stats: AF: 11.25, WSD: 0.550562, WSDW: 0.469388
+
+
+Player Stats for Fo, AI: Random
+General: deals: 7, actions: 25, preflop actions: 10
+Rounds Seen: flops: 92, turns: 78, rivers: 64, showdowns: 50
+Wins: total: 3, showdown: 1, bluff: 2
+Chips: won: 905, lost: 3200, bought: 1000, forced bets: 20
+Pre-Flop Stats: VP$IP: 0.714286, PFR: 0.285714, 3Bet: 0.285714
+Post-Flop Stats: AF: 1, WSD: 0.543478, WSDW: 0.02
+
+
+Player Stats for Fohebol, AI: Call
+General: deals: 1, actions: 4, preflop actions: 1
+Rounds Seen: flops: 93, turns: 79, rivers: 65, showdowns: 51
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 10
+Pre-Flop Stats: VP$IP: 1, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: 0, WSD: 0.548387, WSDW: 0
+
+
+Player Stats for Lapuk, AI: Call
+General: deals: 1, actions: 3, preflop actions: 1
+Rounds Seen: flops: 93, turns: 79, rivers: 65, showdowns: 51
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 0
+Pre-Flop Stats: VP$IP: 1, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: 0, WSD: 0.548387, WSDW: 0
+
+
+Player Stats for Leeno, AI: Random
+General: deals: 19, actions: 49, preflop actions: 16
+Rounds Seen: flops: 92, turns: 79, rivers: 65, showdowns: 51
+Wins: total: 11, showdown: 5, bluff: 6
+Chips: won: 5615, lost: 7805, bought: 1000, forced bets: 90
+Pre-Flop Stats: VP$IP: 0.631579, PFR: 0.315789, 3Bet: 0.263158
+Post-Flop Stats: AF: 3.66667, WSD: 0.554348, WSDW: 0.0980392
+
+
+Player Stats for Mumee, AI: AIMyBot1
+General: deals: 448, actions: 565, preflop actions: 323
+Rounds Seen: flops: 84, turns: 70, rivers: 58, showdowns: 44
+Wins: total: 147, showdown: 25, bluff: 122
+Chips: won: 2300, lost: 3300, bought: 1000, forced bets: 3300
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 0.52381, WSDW: 0.568182
+
+
+Player Stats for Sugoe, AI: Smart
+General: deals: 1, actions: 3, preflop actions: 1
+Rounds Seen: flops: 93, turns: 79, rivers: 65, showdowns: 51
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 0
+Pre-Flop Stats: VP$IP: 1, PFR: 1, 3Bet: 1
+Post-Flop Stats: AF: 1.#INF, WSD: 0.548387, WSDW: 0
+
+

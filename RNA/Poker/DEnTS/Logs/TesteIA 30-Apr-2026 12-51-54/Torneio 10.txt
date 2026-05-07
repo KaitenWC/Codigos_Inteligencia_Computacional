@@ -1,0 +1,4954 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Feenetry: Random
+Lukok: Random
+Tiwu: Smart
+Jofoel: AIMyBot1
+Nettee: Call
+Roerleegi: Smart
+Difoebo: Call
+
+Joins: Feenetry, chips: 1000
+Joins: Lukok, chips: 1000
+Joins: Tiwu, chips: 1000
+Joins: Jofoel, chips: 1000
+Joins: Nettee, chips: 1000
+Joins: Roerleegi, chips: 1000
+Joins: Difoebo, chips: 1000
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Tiwu, chips: 5
+Big Blind: Jofoel, chips: 10
+Calls: Nettee
+Calls: Roerleegi
+Calls: Difoebo
+Raises: Feenetry, chips: 20
+Raises: Lukok, chips: 50
+Folds: Tiwu
+Folds: Jofoel
+Calls: Nettee
+Folds: Roerleegi
+Calls: Difoebo
+Calls: Feenetry
+Flop: 7d Ad 9c
+Checks: Nettee
+Checks: Difoebo
+Raises: Feenetry, chips: 50
+Raises: Lukok, chips: 100
+Calls: Nettee
+Calls: Difoebo
+Raises: Feenetry, chips: 200
+Raises: Lukok, chips: 400
+Calls: Nettee
+Calls: Difoebo
+Calls: Feenetry
+Turn: Jc
+Checks: Nettee
+Checks: Difoebo
+Raises: Feenetry, chips: 170
+Calls: Lukok
+Calls: Nettee
+Calls: Difoebo
+River: Qh
+Pot size: 4025
+Showdown Reached
+Shows: Feenetry, As 2s
+Combination: Feenetry, Pair ( As Ad Qh Jc 9c )
+Shows: Lukok, Ah 2h
+Combination: Lukok, Pair ( Ah Ad Qh Jc 9c )
+Shows: Nettee, Jd 5d
+Combination: Nettee, Pair ( Jd Jc Ad Qh 9c )
+Shows: Difoebo, 7c 6s
+Combination: Difoebo, Pair ( 7c 7d Ad Qh Jc )
+Wins: Feenetry, chips: 2013
+Wins: Lukok, chips: 2012
+Quits: Nettee, chips: 0
+Quits: Difoebo, chips: 0
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Tiwu
+Small Blind: Jofoel, chips: 5
+Big Blind: Roerleegi, chips: 10
+Calls: Feenetry
+Raises: Lukok, chips: 20
+Raises: Tiwu, chips: 50
+Folds: Jofoel
+Raises: Roerleegi, chips: 90
+Calls: Feenetry
+Folds: Lukok
+Raises: Tiwu, chips: 825
+Calls: Roerleegi
+Calls: Feenetry
+Flop: 8c 6d 9h
+Turn: Td
+River: 9s
+Pot size: 3015
+Showdown Reached
+Shows: Feenetry, 7s 5s
+Combination: Feenetry, Straight ( Td 9h 8c 7s 6d )
+Shows: Tiwu, Kc Ac
+Combination: Tiwu, Pair ( 9h 9s Ac Kc Td )
+Shows: Roerleegi, Kh Qc
+Combination: Roerleegi, Pair ( 9h 9s Kh Qc Td )
+Wins: Feenetry, chips: 3015
+Quits: Tiwu, chips: 0
+Quits: Roerleegi, chips: 0
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Feenetry, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Raises: Feenetry, chips: 15
+Raises: Lukok, chips: 30
+Calls: Feenetry
+Flop: Ah Qs 2h
+Checks: Feenetry
+Checks: Lukok
+Turn: 8c
+Checks: Feenetry
+Checks: Lukok
+River: Qd
+Checks: Feenetry
+Checks: Lukok
+Pot size: 110
+Showdown Reached
+Shows: Feenetry, 3d 4h
+Combination: Feenetry, Pair ( Qs Qd Ah 8c 4h )
+Shows: Lukok, Ks 5c
+Combination: Lukok, Pair ( Qs Qd Ah Ks 8c )
+Wins: Lukok, chips: 110
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Feenetry
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Folds: Feenetry
+Folds: Lukok
+Pot size: 15
+Boasts: Lukok, 4c Ts
+Wins: Jofoel, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Jofoel, chips: 5
+Big Blind: Feenetry, chips: 10
+Raises: Lukok, chips: 20
+Folds: Jofoel
+Calls: Feenetry
+Flop: Qs 8c Qh
+Checks: Feenetry
+Checks: Lukok
+Turn: Kd
+Raises: Feenetry, chips: 20
+Calls: Lukok
+River: As
+Checks: Feenetry
+Checks: Lukok
+Pot size: 105
+Showdown Reached
+Shows: Feenetry, 3d Td
+Combination: Feenetry, Pair ( Qs Qh As Kd Td )
+Shows: Lukok, 6s Ad
+Combination: Lukok, Two Pair ( Ad As Qs Qh Kd )
+Wins: Lukok, chips: 105
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Feenetry, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Folds: Feenetry
+Pot size: 15
+Boasts: Feenetry, Jh 7h
+Boasts: Lukok, Ac Ah
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Feenetry
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Folds: Feenetry
+Calls: Lukok
+Checks: Jofoel
+Flop: 2h Td Js
+Raises: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 30
+Wins: Lukok, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Jofoel, chips: 5
+Big Blind: Feenetry, chips: 10
+Calls: Lukok
+Folds: Jofoel
+Checks: Feenetry
+Flop: 3s Ac Jd
+Checks: Feenetry
+Checks: Lukok
+Turn: Qc
+Raises: Feenetry, chips: 10
+Raises: Lukok, chips: 20
+Calls: Feenetry
+River: 8h
+Checks: Feenetry
+Checks: Lukok
+Pot size: 85
+Showdown Reached
+Shows: Feenetry, Ks 8c
+Combination: Feenetry, Pair ( 8c 8h Ac Ks Qc )
+Shows: Lukok, 9h 2s
+Combination: Lukok, High Card ( Ac Qc Jd 9h 8h )
+Wins: Feenetry, chips: 85
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Feenetry, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Raises: Feenetry, chips: 15
+Calls: Lukok
+Flop: 3c 5c 4s
+Checks: Feenetry
+Raises: Lukok, chips: 15
+Folds: Feenetry
+Pot size: 65
+Boasts: Lukok, Ah 7h
+Wins: Lukok, chips: 65
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Feenetry
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Folds: Feenetry
+Calls: Lukok
+Checks: Jofoel
+Flop: Qs 4d 6s
+Checks: Lukok
+Checks: Jofoel
+Turn: 4h
+Raises: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 30
+Boasts: Lukok, 6d 3s
+Wins: Lukok, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Jofoel, chips: 5
+Big Blind: Feenetry, chips: 10
+Raises: Lukok, chips: 20
+Folds: Jofoel
+Calls: Feenetry
+Flop: 6c Kh 3h
+Checks: Feenetry
+Checks: Lukok
+Turn: 2d
+Checks: Feenetry
+Checks: Lukok
+River: 2s
+Checks: Feenetry
+Checks: Lukok
+Pot size: 65
+Showdown Reached
+Shows: Feenetry, 8d 5s
+Combination: Feenetry, Pair ( 2d 2s Kh 8d 6c )
+Shows: Lukok, 4d As
+Combination: Lukok, Pair ( 2d 2s As Kh 6c )
+Wins: Lukok, chips: 65
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Feenetry, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Calls: Feenetry
+Checks: Lukok
+Flop: 9h 6d 9c
+Checks: Feenetry
+Checks: Lukok
+Turn: Kh
+Raises: Feenetry, chips: 10
+Calls: Lukok
+River: 5c
+Checks: Feenetry
+Checks: Lukok
+Pot size: 40
+Showdown Reached
+Shows: Feenetry, 6c 5h
+Combination: Feenetry, Two Pair ( 9h 9c 6c 6d Kh )
+Shows: Lukok, 3s As
+Combination: Lukok, Pair ( 9h 9c As Kh 6d )
+Wins: Feenetry, chips: 40
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Feenetry
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Calls: Feenetry
+Folds: Lukok
+Checks: Jofoel
+Flop: Jd Ts Ah
+Checks: Jofoel
+Checks: Feenetry
+Turn: Js
+Checks: Jofoel
+Checks: Feenetry
+River: As
+Checks: Jofoel
+Checks: Feenetry
+Pot size: 25
+Showdown Reached
+Shows: Feenetry, 2c Jc
+Combination: Feenetry, Full House ( Jc Jd Js Ah As )
+Shows: Jofoel, 3h 5d
+Combination: Jofoel, Two Pair ( Ah As Jd Js Ts )
+Wins: Feenetry, chips: 25
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Jofoel, chips: 5
+Big Blind: Feenetry, chips: 10
+Raises: Lukok, chips: 20
+Folds: Jofoel
+Raises: Feenetry, chips: 40
+Calls: Lukok
+Flop: Jd Jh 7c
+Raises: Feenetry, chips: 40
+Raises: Lukok, chips: 80
+Raises: Feenetry, chips: 160
+Raises: Lukok, chips: 320
+Calls: Feenetry
+Turn: 6h
+Checks: Feenetry
+Checks: Lukok
+River: 7d
+Raises: Feenetry, chips: 320
+Calls: Lukok
+Pot size: 1985
+Showdown Reached
+Shows: Feenetry, 3s 2s
+Combination: Feenetry, Two Pair ( Jd Jh 7c 7d 6h )
+Shows: Lukok, 9d 8c
+Combination: Lukok, Two Pair ( Jd Jh 7c 7d 9d )
+Wins: Lukok, chips: 1985
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Feenetry, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Raises: Feenetry, chips: 15
+Folds: Lukok
+Pot size: 35
+Wins: Feenetry, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Feenetry
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Folds: Feenetry
+Calls: Lukok
+Checks: Jofoel
+Flop: 5c 2d Ad
+Checks: Lukok
+Checks: Jofoel
+Turn: Kc
+Checks: Lukok
+Checks: Jofoel
+River: 6h
+Checks: Lukok
+Checks: Jofoel
+Pot size: 20
+Showdown Reached
+Boasts: Feenetry, 8d Jc
+Shows: Lukok, 8h Qs
+Combination: Lukok, High Card ( Ad Kc Qs 8h 6h )
+Shows: Jofoel, 2s Kd
+Combination: Jofoel, Two Pair ( Kd Kc 2s 2d Ad )
+Wins: Jofoel, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Jofoel, chips: 5
+Big Blind: Feenetry, chips: 10
+Calls: Lukok
+Folds: Jofoel
+Checks: Feenetry
+Flop: Ks Kd 5s
+Checks: Feenetry
+Raises: Lukok, chips: 10
+Raises: Feenetry, chips: 2948
+Calls: Lukok
+Turn: Jd
+River: 8d
+Pot size: 5941
+Showdown Reached
+Shows: Feenetry, 2h 9h
+Combination: Feenetry, Pair ( Ks Kd Jd 9h 8d )
+Shows: Lukok, Qc 5h
+Combination: Lukok, Two Pair ( Ks Kd 5h 5s Qc )
+Wins: Lukok, chips: 5941
+Quits: Feenetry, chips: 0
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Boasts: Lukok, Kc 9c
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Folds: Lukok
+Pot size: 15
+Boasts: Lukok, 2h 8s
+Wins: Jofoel, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Boasts: Lukok, 5c 9c
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Calls: Lukok
+Checks: Jofoel
+Flop: As Jc 8s
+Checks: Jofoel
+Checks: Lukok
+Turn: Ts
+Checks: Jofoel
+Checks: Lukok
+River: 6c
+Checks: Jofoel
+Checks: Lukok
+Pot size: 20
+Showdown Reached
+Shows: Lukok, 7d 5c
+Combination: Lukok, High Card ( As Jc Ts 8s 7d )
+Shows: Jofoel, Kd 5s
+Combination: Jofoel, High Card ( As Kd Jc Ts 8s )
+Wins: Jofoel, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Calls: Lukok
+Checks: Jofoel
+Flop: 6h Ah Td
+Checks: Jofoel
+Checks: Lukok
+Turn: 5s
+Checks: Jofoel
+Checks: Lukok
+River: Js
+Checks: Jofoel
+Checks: Lukok
+Pot size: 20
+Showdown Reached
+Shows: Lukok, Qs 4s
+Combination: Lukok, High Card ( Ah Qs Js Td 6h )
+Shows: Jofoel, Th 2h
+Combination: Jofoel, Pair ( Th Td Ah Js 6h )
+Wins: Jofoel, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Calls: Lukok
+Checks: Jofoel
+Flop: Js 9h Jc
+Checks: Jofoel
+Checks: Lukok
+Turn: Qs
+Checks: Jofoel
+Checks: Lukok
+River: 3c
+Checks: Jofoel
+Raises: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 30
+Boasts: Lukok, Th Ts
+Wins: Lukok, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Boasts: Lukok, 7d 4c
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Folds: Lukok
+Pot size: 15
+Wins: Jofoel, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Boasts: Lukok, Kh 9c
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Raises: Lukok, chips: 15
+Folds: Jofoel
+Pot size: 35
+Wins: Lukok, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Raises: Lukok, chips: 15
+Folds: Jofoel
+Pot size: 35
+Wins: Lukok, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Boasts: Lukok, 6h 6d
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Calls: Lukok
+Checks: Jofoel
+Flop: 2h Js 8h
+Checks: Jofoel
+Checks: Lukok
+Turn: Qh
+Checks: Jofoel
+Checks: Lukok
+River: 4h
+Checks: Jofoel
+Checks: Lukok
+Pot size: 20
+Showdown Reached
+Shows: Lukok, 3h Kh
+Combination: Lukok, Flush ( Kh Qh 8h 4h 3h )
+Shows: Jofoel, 8d 3d
+Combination: Jofoel, Pair ( 8d 8h Qh Js 4h )
+Wins: Lukok, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Boasts: Lukok, Jd 5h
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Calls: Lukok
+Checks: Jofoel
+Flop: 9d Tc Td
+Checks: Jofoel
+Raises: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 30
+Wins: Lukok, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Boasts: Lukok, Ah 6c
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Raises: Lukok, chips: 15
+Folds: Jofoel
+Pot size: 35
+Boasts: Lukok, 7d Td
+Wins: Lukok, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Calls: Lukok
+Checks: Jofoel
+Flop: 9d 4h Td
+Checks: Jofoel
+Checks: Lukok
+Turn: 7d
+Checks: Jofoel
+Raises: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 30
+Boasts: Lukok, Ah 4c
+Wins: Lukok, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Boasts: Lukok, 6s Ad
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Calls: Lukok
+Checks: Jofoel
+Flop: 3c 6d 5s
+Checks: Jofoel
+Checks: Lukok
+Turn: 7h
+Checks: Jofoel
+Raises: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 30
+Boasts: Lukok, Qc 9s
+Wins: Lukok, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Raises: Lukok, chips: 15
+Folds: Jofoel
+Pot size: 35
+Boasts: Lukok, 3s 8s
+Wins: Lukok, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Boasts: Lukok, Tc 3c
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Raises: Lukok, chips: 15
+Folds: Jofoel
+Pot size: 35
+Wins: Lukok, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Boasts: Lukok, Ac 2s
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Calls: Lukok
+Checks: Jofoel
+Flop: 3d Jh Ks
+Checks: Jofoel
+Checks: Lukok
+Turn: 4h
+Checks: Jofoel
+Checks: Lukok
+River: 8s
+Checks: Jofoel
+Checks: Lukok
+Pot size: 20
+Showdown Reached
+Shows: Lukok, 6s Qs
+Combination: Lukok, High Card ( Ks Qs Jh 8s 6s )
+Shows: Jofoel, 3c Ts
+Combination: Jofoel, Pair ( 3c 3d Ks Jh Ts )
+Wins: Jofoel, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Raises: Lukok, chips: 15
+Folds: Jofoel
+Pot size: 35
+Wins: Lukok, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Boasts: Lukok, Ad 3s
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Raises: Lukok, chips: 15
+Folds: Jofoel
+Pot size: 35
+Boasts: Lukok, Ah 5h
+Wins: Lukok, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Folds: Lukok
+Pot size: 15
+Wins: Jofoel, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Calls: Lukok
+Checks: Jofoel
+Flop: 5h 3s 2d
+Checks: Jofoel
+Checks: Lukok
+Turn: Kc
+Checks: Jofoel
+Checks: Lukok
+River: Qh
+Checks: Jofoel
+Raises: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 30
+Wins: Lukok, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Raises: Lukok, chips: 15
+Folds: Jofoel
+Pot size: 35
+Wins: Lukok, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Boasts: Lukok, Ah 8c
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Raises: Lukok, chips: 15
+Folds: Jofoel
+Pot size: 35
+Wins: Lukok, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Folds: Lukok
+Pot size: 15
+Wins: Jofoel, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Raises: Lukok, chips: 15
+Folds: Jofoel
+Pot size: 35
+Wins: Lukok, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Calls: Lukok
+Checks: Jofoel
+Flop: 4s Th Ks
+Checks: Jofoel
+Checks: Lukok
+Turn: 4d
+Checks: Jofoel
+Checks: Lukok
+River: 3c
+Checks: Jofoel
+Raises: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 30
+Boasts: Lukok, 3d Jd
+Wins: Lukok, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Boasts: Lukok, 9s 2c
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Raises: Lukok, chips: 15
+Folds: Jofoel
+Pot size: 35
+Wins: Lukok, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Raises: Lukok, chips: 15
+Folds: Jofoel
+Pot size: 35
+Boasts: Lukok, 4h 8c
+Wins: Lukok, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Calls: Lukok
+Checks: Jofoel
+Flop: 2d 7d 8s
+Checks: Jofoel
+Checks: Lukok
+Turn: 3h
+Checks: Jofoel
+Raises: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 30
+Boasts: Lukok, Th 9s
+Wins: Lukok, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Calls: Lukok
+Checks: Jofoel
+Flop: 8s 4d Ac
+Checks: Jofoel
+Checks: Lukok
+Turn: Tc
+Checks: Jofoel
+Raises: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 30
+Wins: Lukok, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Boasts: Lukok, 4h 8c
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Calls: Lukok
+Checks: Jofoel
+Flop: Qd 7d 2h
+Checks: Jofoel
+Raises: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 30
+Boasts: Lukok, Js 4s
+Wins: Lukok, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Raises: Lukok, chips: 15
+Folds: Jofoel
+Pot size: 35
+Boasts: Lukok, 4s Qc
+Wins: Lukok, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Boasts: Lukok, 5c Ad
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Calls: Lukok
+Checks: Jofoel
+Flop: 9s Th 7c
+Checks: Jofoel
+Checks: Lukok
+Turn: Qd
+Checks: Jofoel
+Checks: Lukok
+River: Kc
+Checks: Jofoel
+Checks: Lukok
+Pot size: 20
+Showdown Reached
+Shows: Lukok, 3c 3h
+Combination: Lukok, Pair ( 3c 3h Kc Qd Th )
+Shows: Jofoel, 2d 8s
+Combination: Jofoel, High Card ( Kc Qd Th 9s 8s )
+Wins: Lukok, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Boasts: Lukok, 8h 5h
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Raises: Lukok, chips: 15
+Folds: Jofoel
+Pot size: 35
+Wins: Lukok, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Boasts: Lukok, Qs Jh
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Calls: Lukok
+Checks: Jofoel
+Flop: Td Ks Qh
+Checks: Jofoel
+Checks: Lukok
+Turn: 6h
+Checks: Jofoel
+Raises: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 30
+Wins: Lukok, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Boasts: Lukok, 6h Ah
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Raises: Lukok, chips: 15
+Folds: Jofoel
+Pot size: 35
+Boasts: Lukok, 4h 6s
+Wins: Lukok, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Boasts: Lukok, 4c Qh
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Folds: Lukok
+Pot size: 15
+Wins: Jofoel, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Calls: Lukok
+Checks: Jofoel
+Flop: 7h 4d 6c
+Checks: Jofoel
+Checks: Lukok
+Turn: 3c
+Checks: Jofoel
+Checks: Lukok
+River: 3d
+Checks: Jofoel
+Checks: Lukok
+Pot size: 20
+Showdown Reached
+Shows: Lukok, 6d 7d
+Combination: Lukok, Two Pair ( 7d 7h 6d 6c 4d )
+Shows: Jofoel, Js Qc
+Combination: Jofoel, Pair ( 3c 3d Qc Js 7h )
+Wins: Lukok, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Boasts: Lukok, Ts 4s
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Calls: Lukok
+Checks: Jofoel
+Flop: 5s Qs 5h
+Checks: Jofoel
+Raises: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 30
+Boasts: Lukok, 2h Jh
+Wins: Lukok, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Calls: Lukok
+Checks: Jofoel
+Flop: Ac 8d Ad
+Checks: Jofoel
+Checks: Lukok
+Turn: Ah
+Checks: Jofoel
+Checks: Lukok
+River: 5h
+Checks: Jofoel
+Checks: Lukok
+Pot size: 20
+Showdown Reached
+Shows: Lukok, 9s 7c
+Combination: Lukok, Three Of A Kind ( Ac Ad Ah 9s 8d )
+Shows: Jofoel, 7h 5c
+Combination: Jofoel, Full House ( Ac Ad Ah 5c 5h )
+Wins: Jofoel, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Calls: Lukok
+Checks: Jofoel
+Flop: 4s 6h Kc
+Checks: Jofoel
+Raises: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 30
+Wins: Lukok, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Raises: Lukok, chips: 15
+Folds: Jofoel
+Pot size: 35
+Boasts: Lukok, 3s 8s
+Wins: Lukok, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Folds: Lukok
+Pot size: 15
+Wins: Jofoel, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Folds: Lukok
+Pot size: 15
+Boasts: Lukok, 9d 5h
+Wins: Jofoel, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Folds: Lukok
+Pot size: 15
+Boasts: Lukok, 9h 5c
+Wins: Jofoel, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Boasts: Lukok, 3h 8c
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Calls: Lukok
+Checks: Jofoel
+Flop: 5s 4s Kh
+Checks: Jofoel
+Checks: Lukok
+Turn: 2c
+Checks: Jofoel
+Raises: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 30
+Wins: Lukok, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Calls: Lukok
+Checks: Jofoel
+Flop: 4d Jd Kc
+Checks: Jofoel
+Raises: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 30
+Wins: Lukok, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Folds: Lukok
+Pot size: 15
+Wins: Jofoel, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Boasts: Lukok, Ts 2h
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Raises: Lukok, chips: 15
+Folds: Jofoel
+Pot size: 35
+Wins: Lukok, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Calls: Lukok
+Checks: Jofoel
+Flop: 5h 3h 8h
+Checks: Jofoel
+Raises: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 30
+Boasts: Lukok, 7h 4h
+Wins: Lukok, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Boasts: Lukok, Ad 3d
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Raises: Lukok, chips: 15
+Folds: Jofoel
+Pot size: 35
+Wins: Lukok, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Boasts: Lukok, Ah 8d
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Raises: Lukok, chips: 15
+Folds: Jofoel
+Pot size: 35
+Boasts: Lukok, 7d 6h
+Wins: Lukok, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Calls: Lukok
+Checks: Jofoel
+Flop: Tc 7d Jc
+Checks: Jofoel
+Raises: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 30
+Boasts: Lukok, Js 7c
+Wins: Lukok, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Calls: Lukok
+Checks: Jofoel
+Flop: 9h 8h 5h
+Checks: Jofoel
+Checks: Lukok
+Turn: 3s
+Checks: Jofoel
+Checks: Lukok
+River: Jd
+Checks: Jofoel
+Checks: Lukok
+Pot size: 20
+Showdown Reached
+Shows: Lukok, 9d 9c
+Combination: Lukok, Three Of A Kind ( 9d 9c 9h Jd 8h )
+Shows: Jofoel, 7s 2h
+Combination: Jofoel, High Card ( Jd 9h 8h 7s 5h )
+Wins: Lukok, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Folds: Lukok
+Pot size: 15
+Wins: Jofoel, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Calls: Lukok
+Checks: Jofoel
+Flop: 9c 8c As
+Checks: Jofoel
+Checks: Lukok
+Turn: 3c
+Checks: Jofoel
+Raises: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 30
+Boasts: Lukok, 6d Qc
+Wins: Lukok, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Raises: Lukok, chips: 15
+Folds: Jofoel
+Pot size: 35
+Boasts: Lukok, Jc 6h
+Wins: Lukok, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Boasts: Lukok, 6c Jd
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Raises: Lukok, chips: 15
+Folds: Jofoel
+Pot size: 35
+Wins: Lukok, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Raises: Lukok, chips: 15
+Folds: Jofoel
+Pot size: 35
+Boasts: Lukok, 9d 3s
+Wins: Lukok, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Calls: Lukok
+Checks: Jofoel
+Flop: Ah 7h 8s
+Checks: Jofoel
+Checks: Lukok
+Turn: 8c
+Checks: Jofoel
+Raises: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 30
+Wins: Lukok, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Boasts: Lukok, 6h 5c
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Folds: Lukok
+Pot size: 15
+Boasts: Lukok, Ad 2h
+Wins: Jofoel, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Calls: Lukok
+Checks: Jofoel
+Flop: 7h 7c 7s
+Checks: Jofoel
+Checks: Lukok
+Turn: 8h
+Checks: Jofoel
+Checks: Lukok
+River: 4c
+Checks: Jofoel
+Raises: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 30
+Wins: Lukok, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Calls: Lukok
+Checks: Jofoel
+Flop: 9d Qd Ks
+Checks: Jofoel
+Checks: Lukok
+Turn: 2c
+Checks: Jofoel
+Checks: Lukok
+River: 3s
+Checks: Jofoel
+Checks: Lukok
+Pot size: 20
+Showdown Reached
+Shows: Lukok, 8h 3h
+Combination: Lukok, Pair ( 3h 3s Ks Qd 9d )
+Shows: Jofoel, 4h Td
+Combination: Jofoel, High Card ( Ks Qd Td 9d 4h )
+Wins: Lukok, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Boasts: Lukok, Th Kc
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Calls: Lukok
+Checks: Jofoel
+Flop: Kd Qd 3d
+Checks: Jofoel
+Checks: Lukok
+Turn: 7c
+Checks: Jofoel
+Checks: Lukok
+River: Kh
+Checks: Jofoel
+Raises: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 30
+Boasts: Lukok, 4d 2c
+Wins: Lukok, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Boasts: Lukok, Kh 9h
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Raises: Lukok, chips: 15
+Folds: Jofoel
+Pot size: 35
+Boasts: Lukok, 9s 2s
+Wins: Lukok, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Boasts: Lukok, Ts 7d
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Folds: Lukok
+Pot size: 15
+Wins: Jofoel, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Boasts: Lukok, 3h 9c
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Raises: Lukok, chips: 15
+Folds: Jofoel
+Pot size: 35
+Boasts: Lukok, Ac Qd
+Wins: Lukok, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Boasts: Lukok, Ad Ts
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Calls: Lukok
+Checks: Jofoel
+Flop: 9s 3h 4h
+Checks: Jofoel
+Raises: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 30
+Boasts: Lukok, Qc 9c
+Wins: Lukok, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Raises: Lukok, chips: 15
+Folds: Jofoel
+Pot size: 35
+Wins: Lukok, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Calls: Lukok
+Checks: Jofoel
+Flop: 9h 6h Jd
+Checks: Jofoel
+Checks: Lukok
+Turn: 2s
+Checks: Jofoel
+Raises: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 30
+Wins: Lukok, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Boasts: Lukok, 7s Qs
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Raises: Lukok, chips: 15
+Folds: Jofoel
+Pot size: 35
+Boasts: Lukok, Ah 8h
+Wins: Lukok, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Boasts: Lukok, Ac 9c
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Calls: Lukok
+Checks: Jofoel
+Flop: 3h 6c Td
+Checks: Jofoel
+Checks: Lukok
+Turn: Kh
+Checks: Jofoel
+Checks: Lukok
+River: Kc
+Checks: Jofoel
+Checks: Lukok
+Pot size: 20
+Showdown Reached
+Shows: Lukok, Qc 9s
+Combination: Lukok, Pair ( Kh Kc Qc Td 9s )
+Shows: Jofoel, 3s 7d
+Combination: Jofoel, Two Pair ( Kh Kc 3s 3h Td )
+Wins: Jofoel, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Calls: Lukok
+Checks: Jofoel
+Flop: Ac 7h Ad
+Checks: Jofoel
+Raises: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 30
+Boasts: Lukok, 7c 7s
+Wins: Lukok, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Boasts: Lukok, 9c 5s
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Raises: Lukok, chips: 15
+Folds: Jofoel
+Pot size: 35
+Boasts: Lukok, 6d 5s
+Wins: Lukok, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Raises: Lukok, chips: 15
+Folds: Jofoel
+Pot size: 35
+Wins: Lukok, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Boasts: Lukok, 2s 7h
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Raises: Lukok, chips: 15
+Folds: Jofoel
+Pot size: 35
+Wins: Lukok, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Boasts: Lukok, 7h 7s
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Calls: Lukok
+Checks: Jofoel
+Flop: 4h 6c 6h
+Checks: Jofoel
+Checks: Lukok
+Turn: 7s
+Checks: Jofoel
+Raises: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 30
+Wins: Lukok, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Calls: Lukok
+Checks: Jofoel
+Flop: Ks 9c Ad
+Checks: Jofoel
+Checks: Lukok
+Turn: 7h
+Checks: Jofoel
+Raises: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 30
+Wins: Lukok, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Folds: Lukok
+Pot size: 15
+Wins: Jofoel, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Boasts: Lukok, 4c 7s
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Raises: Lukok, chips: 15
+Folds: Jofoel
+Pot size: 35
+Boasts: Lukok, 8h 7h
+Wins: Lukok, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Boasts: Lukok, 5d As
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Raises: Lukok, chips: 15
+Folds: Jofoel
+Pot size: 35
+Wins: Lukok, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Calls: Lukok
+Checks: Jofoel
+Flop: 7h 3c 9s
+Checks: Jofoel
+Checks: Lukok
+Turn: 5s
+Checks: Jofoel
+Checks: Lukok
+River: 3h
+Checks: Jofoel
+Checks: Lukok
+Pot size: 20
+Showdown Reached
+Shows: Lukok, 3s Ah
+Combination: Lukok, Three Of A Kind ( 3s 3c 3h Ah 9s )
+Shows: Jofoel, 5h Qc
+Combination: Jofoel, Two Pair ( 5h 5s 3c 3h Qc )
+Wins: Lukok, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Calls: Lukok
+Checks: Jofoel
+Flop: 7d 8s 3d
+Checks: Jofoel
+Checks: Lukok
+Turn: 9d
+Checks: Jofoel
+Checks: Lukok
+River: Ks
+Checks: Jofoel
+Checks: Lukok
+Pot size: 20
+Showdown Reached
+Shows: Lukok, Kd Qc
+Combination: Lukok, Pair ( Kd Ks Qc 9d 8s )
+Shows: Jofoel, Js 4h
+Combination: Jofoel, High Card ( Ks Js 9d 8s 7d )
+Wins: Lukok, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Folds: Lukok
+Pot size: 15
+Wins: Jofoel, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Boasts: Lukok, 6d 5d
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Folds: Lukok
+Pot size: 15
+Boasts: Lukok, Jd Ts
+Wins: Jofoel, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Calls: Lukok
+Checks: Jofoel
+Flop: 5d 7s 4h
+Checks: Jofoel
+Checks: Lukok
+Turn: Qd
+Checks: Jofoel
+Checks: Lukok
+River: 9c
+Checks: Jofoel
+Checks: Lukok
+Pot size: 20
+Showdown Reached
+Shows: Lukok, Kh 2s
+Combination: Lukok, High Card ( Kh Qd 9c 7s 5d )
+Shows: Jofoel, 7h Ks
+Combination: Jofoel, Pair ( 7h 7s Ks Qd 9c )
+Wins: Jofoel, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Boasts: Lukok, Ah Jc
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Raises: Lukok, chips: 15
+Folds: Jofoel
+Pot size: 35
+Wins: Lukok, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Boasts: Lukok, 2h Td
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Flop: 8d Tc 9h
+Turn: 8c
+River: 2s
+Pot size: 15
+Showdown Reached
+Shows: Lukok, Qs 3c
+Combination: Lukok, Pair ( 8d 8c Qs Tc 9h )
+Shows: Jofoel, 4h 4s
+Combination: Jofoel, Two Pair ( 8d 8c 4h 4s Tc )
+Wins: Jofoel, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Flop: 3h 5c 5d
+Turn: 7s
+River: 4s
+Pot size: 15
+Showdown Reached
+Shows: Lukok, 7c 9c
+Combination: Lukok, Two Pair ( 7c 7s 5c 5d 9c )
+Shows: Jofoel, 8d 4h
+Combination: Jofoel, Two Pair ( 5c 5d 4h 4s 8d )
+Wins: Lukok, chips: 10
+Wins: Jofoel, chips: 5
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Flop: Kc Tc 4c
+Turn: 3c
+River: Ad
+Pot size: 15
+Showdown Reached
+Shows: Lukok, Qd 2s
+Combination: Lukok, High Card ( Ad Kc Qd Tc 4c )
+Shows: Jofoel, 5h 3s
+Combination: Jofoel, Pair ( 3s 3c Ad Kc Tc )
+Wins: Lukok, chips: 5
+Wins: Jofoel, chips: 10
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Flop: 8s 5d 9d
+Turn: 2c
+River: Ac
+Pot size: 15
+Showdown Reached
+Shows: Lukok, 8c 3c
+Combination: Lukok, Pair ( 8c 8s Ac 9d 5d )
+Shows: Jofoel, Qc 3s
+Combination: Jofoel, High Card ( Ac Qc 9d 8s 5d )
+Wins: Lukok, chips: 10
+Wins: Jofoel, chips: 5
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Flop: Kc Qc 2h
+Turn: 8s
+River: Jc
+Pot size: 15
+Showdown Reached
+Shows: Lukok, 4d 2s
+Combination: Lukok, Pair ( 2s 2h Kc Qc Jc )
+Shows: Jofoel, Kh 6s
+Combination: Jofoel, Pair ( Kh Kc Qc Jc 8s )
+Wins: Lukok, chips: 5
+Wins: Jofoel, chips: 10
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Flop: Qc Ad 9h
+Turn: 8h
+River: 9d
+Pot size: 15
+Showdown Reached
+Shows: Lukok, 9s Jd
+Combination: Lukok, Three Of A Kind ( 9s 9h 9d Ad Qc )
+Shows: Jofoel, 2c Tc
+Combination: Jofoel, Pair ( 9h 9d Ad Qc Tc )
+Wins: Lukok, chips: 10
+Wins: Jofoel, chips: 5
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Flop: 4d Ah Td
+Turn: As
+River: 9s
+Pot size: 15
+Showdown Reached
+Shows: Lukok, 3c 6s
+Combination: Lukok, Pair ( Ah As Td 9s 6s )
+Shows: Jofoel, 2c 9c
+Combination: Jofoel, Two Pair ( Ah As 9c 9s Td )
+Wins: Lukok, chips: 5
+Wins: Jofoel, chips: 10
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Flop: 4s Kc 6c
+Turn: 3h
+River: Ts
+Pot size: 15
+Showdown Reached
+Shows: Lukok, Td 6d
+Combination: Lukok, Two Pair ( Td Ts 6d 6c Kc )
+Shows: Jofoel, 9d 2c
+Combination: Jofoel, High Card ( Kc Ts 9d 6c 4s )
+Wins: Lukok, chips: 10
+Wins: Jofoel, chips: 5
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Flop: 6s 5c 8h
+Turn: Qc
+River: 4s
+Pot size: 15
+Showdown Reached
+Shows: Lukok, Js 9s
+Combination: Lukok, High Card ( Qc Js 9s 8h 6s )
+Shows: Jofoel, Ks Ts
+Combination: Jofoel, High Card ( Ks Qc Ts 8h 6s )
+Wins: Lukok, chips: 5
+Wins: Jofoel, chips: 10
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Flop: Qh Ad 2s
+Turn: 3s
+River: Tc
+Pot size: 15
+Showdown Reached
+Shows: Lukok, 3h Qs
+Combination: Lukok, Two Pair ( Qs Qh 3h 3s Ad )
+Shows: Jofoel, Qd 6h
+Combination: Jofoel, Pair ( Qd Qh Ad Tc 6h )
+Wins: Lukok, chips: 10
+Wins: Jofoel, chips: 5
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Flop: 8d 3h 9d
+Turn: Tc
+River: 4d
+Pot size: 15
+Showdown Reached
+Shows: Lukok, 3c 5s
+Combination: Lukok, Pair ( 3c 3h Tc 9d 8d )
+Shows: Jofoel, 9h 3s
+Combination: Jofoel, Two Pair ( 9h 9d 3s 3h Tc )
+Wins: Lukok, chips: 5
+Wins: Jofoel, chips: 10
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Flop: 8d 7d Qd
+Turn: 6s
+River: 2d
+Pot size: 15
+Showdown Reached
+Shows: Lukok, 9c 5c
+Combination: Lukok, Straight ( 9c 8d 7d 6s 5c )
+Shows: Jofoel, 3s 8c
+Combination: Jofoel, Pair ( 8c 8d Qd 7d 6s )
+Wins: Lukok, chips: 10
+Wins: Jofoel, chips: 5
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Flop: Qs 3d Qd
+Turn: 3c
+River: Ts
+Pot size: 15
+Showdown Reached
+Shows: Lukok, Ks 4s
+Combination: Lukok, Two Pair ( Qs Qd 3d 3c Ks )
+Shows: Jofoel, Tc 4h
+Combination: Jofoel, Two Pair ( Qs Qd Tc Ts 4h )
+Wins: Lukok, chips: 5
+Wins: Jofoel, chips: 10
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Flop: 2d 6h 3d
+Turn: Ks
+River: Ts
+Pot size: 15
+Showdown Reached
+Shows: Lukok, Kc As
+Combination: Lukok, Pair ( Kc Ks As Ts 6h )
+Shows: Jofoel, 9h 5c
+Combination: Jofoel, High Card ( Ks Ts 9h 6h 5c )
+Wins: Lukok, chips: 10
+Wins: Jofoel, chips: 5
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Flop: 5c Qh Qs
+Turn: 2s
+River: 6c
+Pot size: 15
+Showdown Reached
+Shows: Lukok, Kd 7d
+Combination: Lukok, Pair ( Qh Qs Kd 7d 6c )
+Shows: Jofoel, 2d 3s
+Combination: Jofoel, Two Pair ( Qh Qs 2d 2s 6c )
+Wins: Lukok, chips: 5
+Wins: Jofoel, chips: 10
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Flop: 7c 8h Th
+Turn: 7s
+River: Qh
+Pot size: 15
+Showdown Reached
+Shows: Lukok, 9h Kc
+Combination: Lukok, Pair ( 7c 7s Kc Qh Th )
+Shows: Jofoel, 3s 3d
+Combination: Jofoel, Two Pair ( 7c 7s 3s 3d Qh )
+Wins: Jofoel, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Boasts: Lukok, Ad Jc
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Flop: Jh 9d 3s
+Turn: 2d
+River: 6s
+Pot size: 15
+Showdown Reached
+Shows: Lukok, 5d 7d
+Combination: Lukok, High Card ( Jh 9d 7d 6s 5d )
+Shows: Jofoel, 2h Tc
+Combination: Jofoel, Pair ( 2h 2d Jh Tc 9d )
+Wins: Jofoel, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Flop: 2h Jd 7c
+Turn: Jh
+River: 6h
+Pot size: 15
+Showdown Reached
+Shows: Lukok, 8h 8d
+Combination: Lukok, Two Pair ( Jd Jh 8h 8d 7c )
+Shows: Jofoel, 5c 5d
+Combination: Jofoel, Two Pair ( Jd Jh 5c 5d 7c )
+Wins: Lukok, chips: 10
+Wins: Jofoel, chips: 5
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Flop: 7d 9h Ks
+Turn: 9c
+River: 2d
+Pot size: 15
+Showdown Reached
+Shows: Lukok, 8h Qc
+Combination: Lukok, Pair ( 9h 9c Ks Qc 8h )
+Shows: Jofoel, Ah Qs
+Combination: Jofoel, Pair ( 9h 9c Ah Ks Qs )
+Wins: Lukok, chips: 5
+Wins: Jofoel, chips: 10
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Flop: 3d Jh Ks
+Turn: 3h
+River: 6h
+Pot size: 15
+Showdown Reached
+Shows: Lukok, 9s 6s
+Combination: Lukok, Two Pair ( 6s 6h 3d 3h Ks )
+Shows: Jofoel, 8h 9d
+Combination: Jofoel, Pair ( 3d 3h Ks Jh 9d )
+Wins: Lukok, chips: 10
+Wins: Jofoel, chips: 5
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Flop: 4c 7c 5c
+Turn: Td
+River: 8c
+Pot size: 15
+Showdown Reached
+Shows: Lukok, Tc 8s
+Combination: Lukok, Flush ( Tc 8c 7c 5c 4c )
+Shows: Jofoel, 9h Jh
+Combination: Jofoel, Straight ( Jh Td 9h 8c 7c )
+Wins: Lukok, chips: 15
+Quits: Jofoel, chips: 0
+Ranking: Lukok, Place: 1, Score: 6000
+Reveal AI: Lukok, AI: Random
+Ranking: Jofoel, Place: 2, Score: -1000
+Reveal AI: Jofoel, AI: AIMyBot1
+Ranking: Feenetry, Place: 3, Score: -1000
+Reveal AI: Feenetry, AI: Random
+Ranking: Roerleegi, Place: 4, Score: -1000
+Reveal AI: Roerleegi, AI: Smart
+Ranking: Tiwu, Place: 5, Score: -1000
+Reveal AI: Tiwu, AI: Smart
+Ranking: Difoebo, Place: 6, Score: -1000
+Reveal AI: Difoebo, AI: Call
+Ranking: Nettee, Place: 7, Score: -1000
+Reveal AI: Nettee, AI: Call
+
+Player Stats for Difoebo, AI: Call
+General: deals: 1, actions: 7, preflop actions: 2
+Rounds Seen: flops: 73, turns: 62, rivers: 50, showdowns: 45
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 0
+Pre-Flop Stats: VP$IP: 1, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: 0, WSD: 0.616438, WSDW: 0
+
+
+Player Stats for Feenetry, AI: Random
+General: deals: 17, actions: 53, preflop actions: 21
+Rounds Seen: flops: 70, turns: 60, rivers: 49, showdowns: 44
+Wins: total: 6, showdown: 5, bluff: 1
+Chips: won: 5213, lost: 6213, bought: 1000, forced bets: 75
+Pre-Flop Stats: VP$IP: 0.588235, PFR: 0.294118, 3Bet: 0.294118
+Post-Flop Stats: AF: 3.33333, WSD: 0.628571, WSDW: 0.113636
+
+
+Player Stats for Jofoel, AI: AIMyBot1
+General: deals: 212, actions: 294, preflop actions: 175
+Rounds Seen: flops: 63, turns: 53, rivers: 41, showdowns: 36
+Wins: total: 43, showdown: 27, bluff: 16
+Chips: won: 550, lost: 1550, bought: 1000, forced bets: 1550
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 0.571429, WSDW: 0.75
+
+
+Player Stats for Lukok, AI: Random
+General: deals: 212, actions: 219, preflop actions: 103
+Rounds Seen: flops: 71, turns: 60, rivers: 48, showdowns: 43
+Wins: total: 181, showdown: 31, bluff: 150
+Chips: won: 13848, lost: 7848, bought: 1000, forced bets: 1540
+Pre-Flop Stats: VP$IP: 0.386792, PFR: 0.179245, 3Bet: 0.179245
+Post-Flop Stats: AF: 6.8, WSD: 0.605634, WSDW: 0.72093
+
+
+Player Stats for Nettee, AI: Call
+General: deals: 1, actions: 7, preflop actions: 2
+Rounds Seen: flops: 73, turns: 62, rivers: 50, showdowns: 45
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 0
+Pre-Flop Stats: VP$IP: 1, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: 0, WSD: 0.616438, WSDW: 0
+
+
+Player Stats for Roerleegi, AI: Smart
+General: deals: 2, actions: 4, preflop actions: 4
+Rounds Seen: flops: 72, turns: 61, rivers: 49, showdowns: 44
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1005, bought: 1000, forced bets: 10
+Pre-Flop Stats: VP$IP: 1, PFR: 0.5, 3Bet: 0.5
+Post-Flop Stats: AF: -1.#IND, WSD: 0.611111, WSDW: 0
+
+
+Player Stats for Tiwu, AI: Smart
+General: deals: 2, actions: 3, preflop actions: 3
+Rounds Seen: flops: 72, turns: 61, rivers: 49, showdowns: 44
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 5
+Pre-Flop Stats: VP$IP: 0.5, PFR: 0.5, 3Bet: 0.5
+Post-Flop Stats: AF: -1.#IND, WSD: 0.611111, WSDW: 0
+
+
+Date: 2026/04/30 12:52:19
+
+The game begins. The AI's of the players are: 
+Feenetry: Random
+Lukok: Random
+Tiwu: Smart
+Jofoel: AIMyBot1
+Nettee: Call
+Roerleegi: Smart
+Difoebo: Call
+
+Joins: Feenetry, chips: 1000
+Joins: Lukok, chips: 1000
+Joins: Tiwu, chips: 1000
+Joins: Jofoel, chips: 1000
+Joins: Nettee, chips: 1000
+Joins: Roerleegi, chips: 1000
+Joins: Difoebo, chips: 1000
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Tiwu, chips: 5
+Big Blind: Jofoel, chips: 10
+Calls: Nettee
+Calls: Roerleegi
+Calls: Difoebo
+Raises: Feenetry, chips: 20
+Raises: Lukok, chips: 50
+Folds: Tiwu
+Folds: Jofoel
+Calls: Nettee
+Folds: Roerleegi
+Calls: Difoebo
+Calls: Feenetry
+Flop: 7d Ad 9c
+Checks: Nettee
+Checks: Difoebo
+Raises: Feenetry, chips: 50
+Raises: Lukok, chips: 100
+Calls: Nettee
+Calls: Difoebo
+Raises: Feenetry, chips: 200
+Raises: Lukok, chips: 400
+Calls: Nettee
+Calls: Difoebo
+Calls: Feenetry
+Turn: Jc
+Checks: Nettee
+Checks: Difoebo
+Raises: Feenetry, chips: 170
+Calls: Lukok
+Calls: Nettee
+Calls: Difoebo
+River: Qh
+Pot size: 4025
+Showdown Reached
+Shows: Feenetry, As 2s
+Combination: Feenetry, Pair ( As Ad Qh Jc 9c )
+Shows: Lukok, Ah 2h
+Combination: Lukok, Pair ( Ah Ad Qh Jc 9c )
+Shows: Nettee, Jd 5d
+Combination: Nettee, Pair ( Jd Jc Ad Qh 9c )
+Shows: Difoebo, 7c 6s
+Combination: Difoebo, Pair ( 7c 7d Ad Qh Jc )
+Wins: Feenetry, chips: 2013
+Wins: Lukok, chips: 2012
+Quits: Nettee, chips: 0
+Quits: Difoebo, chips: 0
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Tiwu
+Small Blind: Jofoel, chips: 5
+Big Blind: Roerleegi, chips: 10
+Calls: Feenetry
+Raises: Lukok, chips: 20
+Raises: Tiwu, chips: 50
+Folds: Jofoel
+Raises: Roerleegi, chips: 90
+Calls: Feenetry
+Folds: Lukok
+Raises: Tiwu, chips: 825
+Calls: Roerleegi
+Calls: Feenetry
+Flop: 8c 6d 9h
+Turn: Td
+River: 9s
+Pot size: 3015
+Showdown Reached
+Shows: Feenetry, 7s 5s
+Combination: Feenetry, Straight ( Td 9h 8c 7s 6d )
+Shows: Tiwu, Kc Ac
+Combination: Tiwu, Pair ( 9h 9s Ac Kc Td )
+Shows: Roerleegi, Kh Qc
+Combination: Roerleegi, Pair ( 9h 9s Kh Qc Td )
+Wins: Feenetry, chips: 3015
+Quits: Tiwu, chips: 0
+Quits: Roerleegi, chips: 0
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Feenetry, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Raises: Feenetry, chips: 15
+Raises: Lukok, chips: 30
+Calls: Feenetry
+Flop: Ah Qs 2h
+Checks: Feenetry
+Checks: Lukok
+Turn: 8c
+Checks: Feenetry
+Checks: Lukok
+River: Qd
+Checks: Feenetry
+Checks: Lukok
+Pot size: 110
+Showdown Reached
+Shows: Feenetry, 3d 4h
+Combination: Feenetry, Pair ( Qs Qd Ah 8c 4h )
+Shows: Lukok, Ks 5c
+Combination: Lukok, Pair ( Qs Qd Ah Ks 8c )
+Wins: Lukok, chips: 110
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Feenetry
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Folds: Feenetry
+Folds: Lukok
+Pot size: 15
+Boasts: Lukok, 4c Ts
+Wins: Jofoel, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Jofoel, chips: 5
+Big Blind: Feenetry, chips: 10
+Raises: Lukok, chips: 20
+Folds: Jofoel
+Calls: Feenetry
+Flop: Qs 8c Qh
+Checks: Feenetry
+Checks: Lukok
+Turn: Kd
+Raises: Feenetry, chips: 20
+Calls: Lukok
+River: As
+Checks: Feenetry
+Checks: Lukok
+Pot size: 105
+Showdown Reached
+Shows: Feenetry, 3d Td
+Combination: Feenetry, Pair ( Qs Qh As Kd Td )
+Shows: Lukok, 6s Ad
+Combination: Lukok, Two Pair ( Ad As Qs Qh Kd )
+Wins: Lukok, chips: 105
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Feenetry, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Folds: Feenetry
+Pot size: 15
+Boasts: Feenetry, Jh 7h
+Boasts: Lukok, Ac Ah
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Feenetry
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Folds: Feenetry
+Calls: Lukok
+Checks: Jofoel
+Flop: 2h Td Js
+Raises: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 30
+Wins: Lukok, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Jofoel, chips: 5
+Big Blind: Feenetry, chips: 10
+Calls: Lukok
+Folds: Jofoel
+Checks: Feenetry
+Flop: 3s Ac Jd
+Checks: Feenetry
+Checks: Lukok
+Turn: Qc
+Raises: Feenetry, chips: 10
+Raises: Lukok, chips: 20
+Calls: Feenetry
+River: 8h
+Checks: Feenetry
+Checks: Lukok
+Pot size: 85
+Showdown Reached
+Shows: Feenetry, Ks 8c
+Combination: Feenetry, Pair ( 8c 8h Ac Ks Qc )
+Shows: Lukok, 9h 2s
+Combination: Lukok, High Card ( Ac Qc Jd 9h 8h )
+Wins: Feenetry, chips: 85
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Feenetry, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Raises: Feenetry, chips: 15
+Calls: Lukok
+Flop: 3c 5c 4s
+Checks: Feenetry
+Raises: Lukok, chips: 15
+Folds: Feenetry
+Pot size: 65
+Boasts: Lukok, Ah 7h
+Wins: Lukok, chips: 65
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Feenetry
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Folds: Feenetry
+Calls: Lukok
+Checks: Jofoel
+Flop: Qs 4d 6s
+Checks: Lukok
+Checks: Jofoel
+Turn: 4h
+Raises: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 30
+Boasts: Lukok, 6d 3s
+Wins: Lukok, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Jofoel, chips: 5
+Big Blind: Feenetry, chips: 10
+Raises: Lukok, chips: 20
+Folds: Jofoel
+Calls: Feenetry
+Flop: 6c Kh 3h
+Checks: Feenetry
+Checks: Lukok
+Turn: 2d
+Checks: Feenetry
+Checks: Lukok
+River: 2s
+Checks: Feenetry
+Checks: Lukok
+Pot size: 65
+Showdown Reached
+Shows: Feenetry, 8d 5s
+Combination: Feenetry, Pair ( 2d 2s Kh 8d 6c )
+Shows: Lukok, 4d As
+Combination: Lukok, Pair ( 2d 2s As Kh 6c )
+Wins: Lukok, chips: 65
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Feenetry, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Calls: Feenetry
+Checks: Lukok
+Flop: 9h 6d 9c
+Checks: Feenetry
+Checks: Lukok
+Turn: Kh
+Raises: Feenetry, chips: 10
+Calls: Lukok
+River: 5c
+Checks: Feenetry
+Checks: Lukok
+Pot size: 40
+Showdown Reached
+Shows: Feenetry, 6c 5h
+Combination: Feenetry, Two Pair ( 9h 9c 6c 6d Kh )
+Shows: Lukok, 3s As
+Combination: Lukok, Pair ( 9h 9c As Kh 6d )
+Wins: Feenetry, chips: 40
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Feenetry
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Calls: Feenetry
+Folds: Lukok
+Checks: Jofoel
+Flop: Jd Ts Ah
+Checks: Jofoel
+Checks: Feenetry
+Turn: Js
+Checks: Jofoel
+Checks: Feenetry
+River: As
+Checks: Jofoel
+Checks: Feenetry
+Pot size: 25
+Showdown Reached
+Shows: Feenetry, 2c Jc
+Combination: Feenetry, Full House ( Jc Jd Js Ah As )
+Shows: Jofoel, 3h 5d
+Combination: Jofoel, Two Pair ( Ah As Jd Js Ts )
+Wins: Feenetry, chips: 25
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Jofoel, chips: 5
+Big Blind: Feenetry, chips: 10
+Raises: Lukok, chips: 20
+Folds: Jofoel
+Raises: Feenetry, chips: 40
+Calls: Lukok
+Flop: Jd Jh 7c
+Raises: Feenetry, chips: 40
+Raises: Lukok, chips: 80
+Raises: Feenetry, chips: 160
+Raises: Lukok, chips: 320
+Calls: Feenetry
+Turn: 6h
+Checks: Feenetry
+Checks: Lukok
+River: 7d
+Raises: Feenetry, chips: 320
+Calls: Lukok
+Pot size: 1985
+Showdown Reached
+Shows: Feenetry, 3s 2s
+Combination: Feenetry, Two Pair ( Jd Jh 7c 7d 6h )
+Shows: Lukok, 9d 8c
+Combination: Lukok, Two Pair ( Jd Jh 7c 7d 9d )
+Wins: Lukok, chips: 1985
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Feenetry, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Raises: Feenetry, chips: 15
+Folds: Lukok
+Pot size: 35
+Wins: Feenetry, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Feenetry
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Folds: Feenetry
+Calls: Lukok
+Checks: Jofoel
+Flop: 5c 2d Ad
+Checks: Lukok
+Checks: Jofoel
+Turn: Kc
+Checks: Lukok
+Checks: Jofoel
+River: 6h
+Checks: Lukok
+Checks: Jofoel
+Pot size: 20
+Showdown Reached
+Boasts: Feenetry, 8d Jc
+Shows: Lukok, 8h Qs
+Combination: Lukok, High Card ( Ad Kc Qs 8h 6h )
+Shows: Jofoel, 2s Kd
+Combination: Jofoel, Two Pair ( Kd Kc 2s 2d Ad )
+Wins: Jofoel, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Jofoel, chips: 5
+Big Blind: Feenetry, chips: 10
+Calls: Lukok
+Folds: Jofoel
+Checks: Feenetry
+Flop: Ks Kd 5s
+Checks: Feenetry
+Raises: Lukok, chips: 10
+Raises: Feenetry, chips: 2948
+Calls: Lukok
+Turn: Jd
+River: 8d
+Pot size: 5941
+Showdown Reached
+Shows: Feenetry, 2h 9h
+Combination: Feenetry, Pair ( Ks Kd Jd 9h 8d )
+Shows: Lukok, Qc 5h
+Combination: Lukok, Two Pair ( Ks Kd 5h 5s Qc )
+Wins: Lukok, chips: 5941
+Quits: Feenetry, chips: 0
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Boasts: Lukok, Kc 9c
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Folds: Lukok
+Pot size: 15
+Boasts: Lukok, 2h 8s
+Wins: Jofoel, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Boasts: Lukok, 5c 9c
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Calls: Lukok
+Checks: Jofoel
+Flop: As Jc 8s
+Checks: Jofoel
+Checks: Lukok
+Turn: Ts
+Checks: Jofoel
+Checks: Lukok
+River: 6c
+Checks: Jofoel
+Checks: Lukok
+Pot size: 20
+Showdown Reached
+Shows: Lukok, 7d 5c
+Combination: Lukok, High Card ( As Jc Ts 8s 7d )
+Shows: Jofoel, Kd 5s
+Combination: Jofoel, High Card ( As Kd Jc Ts 8s )
+Wins: Jofoel, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Calls: Lukok
+Checks: Jofoel
+Flop: 6h Ah Td
+Checks: Jofoel
+Checks: Lukok
+Turn: 5s
+Checks: Jofoel
+Checks: Lukok
+River: Js
+Checks: Jofoel
+Checks: Lukok
+Pot size: 20
+Showdown Reached
+Shows: Lukok, Qs 4s
+Combination: Lukok, High Card ( Ah Qs Js Td 6h )
+Shows: Jofoel, Th 2h
+Combination: Jofoel, Pair ( Th Td Ah Js 6h )
+Wins: Jofoel, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Calls: Lukok
+Checks: Jofoel
+Flop: Js 9h Jc
+Checks: Jofoel
+Checks: Lukok
+Turn: Qs
+Checks: Jofoel
+Checks: Lukok
+River: 3c
+Checks: Jofoel
+Raises: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 30
+Boasts: Lukok, Th Ts
+Wins: Lukok, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Boasts: Lukok, 7d 4c
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Folds: Lukok
+Pot size: 15
+Wins: Jofoel, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Boasts: Lukok, Kh 9c
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Raises: Lukok, chips: 15
+Folds: Jofoel
+Pot size: 35
+Wins: Lukok, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Raises: Lukok, chips: 15
+Folds: Jofoel
+Pot size: 35
+Wins: Lukok, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Boasts: Lukok, 6h 6d
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Calls: Lukok
+Checks: Jofoel
+Flop: 2h Js 8h
+Checks: Jofoel
+Checks: Lukok
+Turn: Qh
+Checks: Jofoel
+Checks: Lukok
+River: 4h
+Checks: Jofoel
+Checks: Lukok
+Pot size: 20
+Showdown Reached
+Shows: Lukok, 3h Kh
+Combination: Lukok, Flush ( Kh Qh 8h 4h 3h )
+Shows: Jofoel, 8d 3d
+Combination: Jofoel, Pair ( 8d 8h Qh Js 4h )
+Wins: Lukok, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Boasts: Lukok, Jd 5h
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Calls: Lukok
+Checks: Jofoel
+Flop: 9d Tc Td
+Checks: Jofoel
+Raises: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 30
+Wins: Lukok, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Boasts: Lukok, Ah 6c
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Raises: Lukok, chips: 15
+Folds: Jofoel
+Pot size: 35
+Boasts: Lukok, 7d Td
+Wins: Lukok, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Calls: Lukok
+Checks: Jofoel
+Flop: 9d 4h Td
+Checks: Jofoel
+Checks: Lukok
+Turn: 7d
+Checks: Jofoel
+Raises: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 30
+Boasts: Lukok, Ah 4c
+Wins: Lukok, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Boasts: Lukok, 6s Ad
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Calls: Lukok
+Checks: Jofoel
+Flop: 3c 6d 5s
+Checks: Jofoel
+Checks: Lukok
+Turn: 7h
+Checks: Jofoel
+Raises: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 30
+Boasts: Lukok, Qc 9s
+Wins: Lukok, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Raises: Lukok, chips: 15
+Folds: Jofoel
+Pot size: 35
+Boasts: Lukok, 3s 8s
+Wins: Lukok, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Boasts: Lukok, Tc 3c
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Raises: Lukok, chips: 15
+Folds: Jofoel
+Pot size: 35
+Wins: Lukok, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Boasts: Lukok, Ac 2s
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Calls: Lukok
+Checks: Jofoel
+Flop: 3d Jh Ks
+Checks: Jofoel
+Checks: Lukok
+Turn: 4h
+Checks: Jofoel
+Checks: Lukok
+River: 8s
+Checks: Jofoel
+Checks: Lukok
+Pot size: 20
+Showdown Reached
+Shows: Lukok, 6s Qs
+Combination: Lukok, High Card ( Ks Qs Jh 8s 6s )
+Shows: Jofoel, 3c Ts
+Combination: Jofoel, Pair ( 3c 3d Ks Jh Ts )
+Wins: Jofoel, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Raises: Lukok, chips: 15
+Folds: Jofoel
+Pot size: 35
+Wins: Lukok, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Boasts: Lukok, Ad 3s
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Raises: Lukok, chips: 15
+Folds: Jofoel
+Pot size: 35
+Boasts: Lukok, Ah 5h
+Wins: Lukok, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Folds: Lukok
+Pot size: 15
+Wins: Jofoel, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Calls: Lukok
+Checks: Jofoel
+Flop: 5h 3s 2d
+Checks: Jofoel
+Checks: Lukok
+Turn: Kc
+Checks: Jofoel
+Checks: Lukok
+River: Qh
+Checks: Jofoel
+Raises: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 30
+Wins: Lukok, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Raises: Lukok, chips: 15
+Folds: Jofoel
+Pot size: 35
+Wins: Lukok, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Boasts: Lukok, Ah 8c
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Raises: Lukok, chips: 15
+Folds: Jofoel
+Pot size: 35
+Wins: Lukok, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Folds: Lukok
+Pot size: 15
+Wins: Jofoel, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Raises: Lukok, chips: 15
+Folds: Jofoel
+Pot size: 35
+Wins: Lukok, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Calls: Lukok
+Checks: Jofoel
+Flop: 4s Th Ks
+Checks: Jofoel
+Checks: Lukok
+Turn: 4d
+Checks: Jofoel
+Checks: Lukok
+River: 3c
+Checks: Jofoel
+Raises: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 30
+Boasts: Lukok, 3d Jd
+Wins: Lukok, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Boasts: Lukok, 9s 2c
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Raises: Lukok, chips: 15
+Folds: Jofoel
+Pot size: 35
+Wins: Lukok, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Raises: Lukok, chips: 15
+Folds: Jofoel
+Pot size: 35
+Boasts: Lukok, 4h 8c
+Wins: Lukok, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Calls: Lukok
+Checks: Jofoel
+Flop: 2d 7d 8s
+Checks: Jofoel
+Checks: Lukok
+Turn: 3h
+Checks: Jofoel
+Raises: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 30
+Boasts: Lukok, Th 9s
+Wins: Lukok, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Calls: Lukok
+Checks: Jofoel
+Flop: 8s 4d Ac
+Checks: Jofoel
+Checks: Lukok
+Turn: Tc
+Checks: Jofoel
+Raises: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 30
+Wins: Lukok, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Boasts: Lukok, 4h 8c
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Calls: Lukok
+Checks: Jofoel
+Flop: Qd 7d 2h
+Checks: Jofoel
+Raises: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 30
+Boasts: Lukok, Js 4s
+Wins: Lukok, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Raises: Lukok, chips: 15
+Folds: Jofoel
+Pot size: 35
+Boasts: Lukok, 4s Qc
+Wins: Lukok, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Boasts: Lukok, 5c Ad
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Calls: Lukok
+Checks: Jofoel
+Flop: 9s Th 7c
+Checks: Jofoel
+Checks: Lukok
+Turn: Qd
+Checks: Jofoel
+Checks: Lukok
+River: Kc
+Checks: Jofoel
+Checks: Lukok
+Pot size: 20
+Showdown Reached
+Shows: Lukok, 3c 3h
+Combination: Lukok, Pair ( 3c 3h Kc Qd Th )
+Shows: Jofoel, 2d 8s
+Combination: Jofoel, High Card ( Kc Qd Th 9s 8s )
+Wins: Lukok, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Boasts: Lukok, 8h 5h
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Raises: Lukok, chips: 15
+Folds: Jofoel
+Pot size: 35
+Wins: Lukok, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Boasts: Lukok, Qs Jh
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Calls: Lukok
+Checks: Jofoel
+Flop: Td Ks Qh
+Checks: Jofoel
+Checks: Lukok
+Turn: 6h
+Checks: Jofoel
+Raises: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 30
+Wins: Lukok, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Boasts: Lukok, 6h Ah
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Raises: Lukok, chips: 15
+Folds: Jofoel
+Pot size: 35
+Boasts: Lukok, 4h 6s
+Wins: Lukok, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Boasts: Lukok, 4c Qh
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Folds: Lukok
+Pot size: 15
+Wins: Jofoel, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Calls: Lukok
+Checks: Jofoel
+Flop: 7h 4d 6c
+Checks: Jofoel
+Checks: Lukok
+Turn: 3c
+Checks: Jofoel
+Checks: Lukok
+River: 3d
+Checks: Jofoel
+Checks: Lukok
+Pot size: 20
+Showdown Reached
+Shows: Lukok, 6d 7d
+Combination: Lukok, Two Pair ( 7d 7h 6d 6c 4d )
+Shows: Jofoel, Js Qc
+Combination: Jofoel, Pair ( 3c 3d Qc Js 7h )
+Wins: Lukok, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Boasts: Lukok, Ts 4s
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Calls: Lukok
+Checks: Jofoel
+Flop: 5s Qs 5h
+Checks: Jofoel
+Raises: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 30
+Boasts: Lukok, 2h Jh
+Wins: Lukok, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Calls: Lukok
+Checks: Jofoel
+Flop: Ac 8d Ad
+Checks: Jofoel
+Checks: Lukok
+Turn: Ah
+Checks: Jofoel
+Checks: Lukok
+River: 5h
+Checks: Jofoel
+Checks: Lukok
+Pot size: 20
+Showdown Reached
+Shows: Lukok, 9s 7c
+Combination: Lukok, Three Of A Kind ( Ac Ad Ah 9s 8d )
+Shows: Jofoel, 7h 5c
+Combination: Jofoel, Full House ( Ac Ad Ah 5c 5h )
+Wins: Jofoel, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Calls: Lukok
+Checks: Jofoel
+Flop: 4s 6h Kc
+Checks: Jofoel
+Raises: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 30
+Wins: Lukok, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Raises: Lukok, chips: 15
+Folds: Jofoel
+Pot size: 35
+Boasts: Lukok, 3s 8s
+Wins: Lukok, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Folds: Lukok
+Pot size: 15
+Wins: Jofoel, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Folds: Lukok
+Pot size: 15
+Boasts: Lukok, 9d 5h
+Wins: Jofoel, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Folds: Lukok
+Pot size: 15
+Boasts: Lukok, 9h 5c
+Wins: Jofoel, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Boasts: Lukok, 3h 8c
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Calls: Lukok
+Checks: Jofoel
+Flop: 5s 4s Kh
+Checks: Jofoel
+Checks: Lukok
+Turn: 2c
+Checks: Jofoel
+Raises: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 30
+Wins: Lukok, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Calls: Lukok
+Checks: Jofoel
+Flop: 4d Jd Kc
+Checks: Jofoel
+Raises: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 30
+Wins: Lukok, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Folds: Lukok
+Pot size: 15
+Wins: Jofoel, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Boasts: Lukok, Ts 2h
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Raises: Lukok, chips: 15
+Folds: Jofoel
+Pot size: 35
+Wins: Lukok, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Calls: Lukok
+Checks: Jofoel
+Flop: 5h 3h 8h
+Checks: Jofoel
+Raises: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 30
+Boasts: Lukok, 7h 4h
+Wins: Lukok, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Boasts: Lukok, Ad 3d
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Raises: Lukok, chips: 15
+Folds: Jofoel
+Pot size: 35
+Wins: Lukok, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Boasts: Lukok, Ah 8d
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Raises: Lukok, chips: 15
+Folds: Jofoel
+Pot size: 35
+Boasts: Lukok, 7d 6h
+Wins: Lukok, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Calls: Lukok
+Checks: Jofoel
+Flop: Tc 7d Jc
+Checks: Jofoel
+Raises: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 30
+Boasts: Lukok, Js 7c
+Wins: Lukok, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Calls: Lukok
+Checks: Jofoel
+Flop: 9h 8h 5h
+Checks: Jofoel
+Checks: Lukok
+Turn: 3s
+Checks: Jofoel
+Checks: Lukok
+River: Jd
+Checks: Jofoel
+Checks: Lukok
+Pot size: 20
+Showdown Reached
+Shows: Lukok, 9d 9c
+Combination: Lukok, Three Of A Kind ( 9d 9c 9h Jd 8h )
+Shows: Jofoel, 7s 2h
+Combination: Jofoel, High Card ( Jd 9h 8h 7s 5h )
+Wins: Lukok, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Folds: Lukok
+Pot size: 15
+Wins: Jofoel, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Calls: Lukok
+Checks: Jofoel
+Flop: 9c 8c As
+Checks: Jofoel
+Checks: Lukok
+Turn: 3c
+Checks: Jofoel
+Raises: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 30
+Boasts: Lukok, 6d Qc
+Wins: Lukok, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Raises: Lukok, chips: 15
+Folds: Jofoel
+Pot size: 35
+Boasts: Lukok, Jc 6h
+Wins: Lukok, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Boasts: Lukok, 6c Jd
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Raises: Lukok, chips: 15
+Folds: Jofoel
+Pot size: 35
+Wins: Lukok, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Raises: Lukok, chips: 15
+Folds: Jofoel
+Pot size: 35
+Boasts: Lukok, 9d 3s
+Wins: Lukok, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Calls: Lukok
+Checks: Jofoel
+Flop: Ah 7h 8s
+Checks: Jofoel
+Checks: Lukok
+Turn: 8c
+Checks: Jofoel
+Raises: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 30
+Wins: Lukok, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Boasts: Lukok, 6h 5c
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Folds: Lukok
+Pot size: 15
+Boasts: Lukok, Ad 2h
+Wins: Jofoel, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Calls: Lukok
+Checks: Jofoel
+Flop: 7h 7c 7s
+Checks: Jofoel
+Checks: Lukok
+Turn: 8h
+Checks: Jofoel
+Checks: Lukok
+River: 4c
+Checks: Jofoel
+Raises: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 30
+Wins: Lukok, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Calls: Lukok
+Checks: Jofoel
+Flop: 9d Qd Ks
+Checks: Jofoel
+Checks: Lukok
+Turn: 2c
+Checks: Jofoel
+Checks: Lukok
+River: 3s
+Checks: Jofoel
+Checks: Lukok
+Pot size: 20
+Showdown Reached
+Shows: Lukok, 8h 3h
+Combination: Lukok, Pair ( 3h 3s Ks Qd 9d )
+Shows: Jofoel, 4h Td
+Combination: Jofoel, High Card ( Ks Qd Td 9d 4h )
+Wins: Lukok, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Boasts: Lukok, Th Kc
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Calls: Lukok
+Checks: Jofoel
+Flop: Kd Qd 3d
+Checks: Jofoel
+Checks: Lukok
+Turn: 7c
+Checks: Jofoel
+Checks: Lukok
+River: Kh
+Checks: Jofoel
+Raises: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 30
+Boasts: Lukok, 4d 2c
+Wins: Lukok, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Boasts: Lukok, Kh 9h
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Raises: Lukok, chips: 15
+Folds: Jofoel
+Pot size: 35
+Boasts: Lukok, 9s 2s
+Wins: Lukok, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Boasts: Lukok, Ts 7d
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Folds: Lukok
+Pot size: 15
+Wins: Jofoel, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Boasts: Lukok, 3h 9c
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Raises: Lukok, chips: 15
+Folds: Jofoel
+Pot size: 35
+Boasts: Lukok, Ac Qd
+Wins: Lukok, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Boasts: Lukok, Ad Ts
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Calls: Lukok
+Checks: Jofoel
+Flop: 9s 3h 4h
+Checks: Jofoel
+Raises: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 30
+Boasts: Lukok, Qc 9c
+Wins: Lukok, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Raises: Lukok, chips: 15
+Folds: Jofoel
+Pot size: 35
+Wins: Lukok, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Calls: Lukok
+Checks: Jofoel
+Flop: 9h 6h Jd
+Checks: Jofoel
+Checks: Lukok
+Turn: 2s
+Checks: Jofoel
+Raises: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 30
+Wins: Lukok, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Boasts: Lukok, 7s Qs
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Raises: Lukok, chips: 15
+Folds: Jofoel
+Pot size: 35
+Boasts: Lukok, Ah 8h
+Wins: Lukok, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Boasts: Lukok, Ac 9c
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Calls: Lukok
+Checks: Jofoel
+Flop: 3h 6c Td
+Checks: Jofoel
+Checks: Lukok
+Turn: Kh
+Checks: Jofoel
+Checks: Lukok
+River: Kc
+Checks: Jofoel
+Checks: Lukok
+Pot size: 20
+Showdown Reached
+Shows: Lukok, Qc 9s
+Combination: Lukok, Pair ( Kh Kc Qc Td 9s )
+Shows: Jofoel, 3s 7d
+Combination: Jofoel, Two Pair ( Kh Kc 3s 3h Td )
+Wins: Jofoel, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Calls: Lukok
+Checks: Jofoel
+Flop: Ac 7h Ad
+Checks: Jofoel
+Raises: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 30
+Boasts: Lukok, 7c 7s
+Wins: Lukok, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Boasts: Lukok, 9c 5s
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Raises: Lukok, chips: 15
+Folds: Jofoel
+Pot size: 35
+Boasts: Lukok, 6d 5s
+Wins: Lukok, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Raises: Lukok, chips: 15
+Folds: Jofoel
+Pot size: 35
+Wins: Lukok, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Boasts: Lukok, 2s 7h
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Raises: Lukok, chips: 15
+Folds: Jofoel
+Pot size: 35
+Wins: Lukok, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Boasts: Lukok, 7h 7s
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Calls: Lukok
+Checks: Jofoel
+Flop: 4h 6c 6h
+Checks: Jofoel
+Checks: Lukok
+Turn: 7s
+Checks: Jofoel
+Raises: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 30
+Wins: Lukok, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Calls: Lukok
+Checks: Jofoel
+Flop: Ks 9c Ad
+Checks: Jofoel
+Checks: Lukok
+Turn: 7h
+Checks: Jofoel
+Raises: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 30
+Wins: Lukok, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Folds: Lukok
+Pot size: 15
+Wins: Jofoel, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Boasts: Lukok, 4c 7s
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Raises: Lukok, chips: 15
+Folds: Jofoel
+Pot size: 35
+Boasts: Lukok, 8h 7h
+Wins: Lukok, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Boasts: Lukok, 5d As
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Raises: Lukok, chips: 15
+Folds: Jofoel
+Pot size: 35
+Wins: Lukok, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Calls: Lukok
+Checks: Jofoel
+Flop: 7h 3c 9s
+Checks: Jofoel
+Checks: Lukok
+Turn: 5s
+Checks: Jofoel
+Checks: Lukok
+River: 3h
+Checks: Jofoel
+Checks: Lukok
+Pot size: 20
+Showdown Reached
+Shows: Lukok, 3s Ah
+Combination: Lukok, Three Of A Kind ( 3s 3c 3h Ah 9s )
+Shows: Jofoel, 5h Qc
+Combination: Jofoel, Two Pair ( 5h 5s 3c 3h Qc )
+Wins: Lukok, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Calls: Lukok
+Checks: Jofoel
+Flop: 7d 8s 3d
+Checks: Jofoel
+Checks: Lukok
+Turn: 9d
+Checks: Jofoel
+Checks: Lukok
+River: Ks
+Checks: Jofoel
+Checks: Lukok
+Pot size: 20
+Showdown Reached
+Shows: Lukok, Kd Qc
+Combination: Lukok, Pair ( Kd Ks Qc 9d 8s )
+Shows: Jofoel, Js 4h
+Combination: Jofoel, High Card ( Ks Js 9d 8s 7d )
+Wins: Lukok, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Folds: Lukok
+Pot size: 15
+Wins: Jofoel, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Boasts: Lukok, 6d 5d
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Folds: Lukok
+Pot size: 15
+Boasts: Lukok, Jd Ts
+Wins: Jofoel, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Calls: Lukok
+Checks: Jofoel
+Flop: 5d 7s 4h
+Checks: Jofoel
+Checks: Lukok
+Turn: Qd
+Checks: Jofoel
+Checks: Lukok
+River: 9c
+Checks: Jofoel
+Checks: Lukok
+Pot size: 20
+Showdown Reached
+Shows: Lukok, Kh 2s
+Combination: Lukok, High Card ( Kh Qd 9c 7s 5d )
+Shows: Jofoel, 7h Ks
+Combination: Jofoel, Pair ( 7h 7s Ks Qd 9c )
+Wins: Jofoel, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Boasts: Lukok, Ah Jc
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Raises: Lukok, chips: 15
+Folds: Jofoel
+Pot size: 35
+Wins: Lukok, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Boasts: Lukok, 2h Td
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Flop: 8d Tc 9h
+Turn: 8c
+River: 2s
+Pot size: 15
+Showdown Reached
+Shows: Lukok, Qs 3c
+Combination: Lukok, Pair ( 8d 8c Qs Tc 9h )
+Shows: Jofoel, 4h 4s
+Combination: Jofoel, Two Pair ( 8d 8c 4h 4s Tc )
+Wins: Jofoel, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Flop: 3h 5c 5d
+Turn: 7s
+River: 4s
+Pot size: 15
+Showdown Reached
+Shows: Lukok, 7c 9c
+Combination: Lukok, Two Pair ( 7c 7s 5c 5d 9c )
+Shows: Jofoel, 8d 4h
+Combination: Jofoel, Two Pair ( 5c 5d 4h 4s 8d )
+Wins: Lukok, chips: 10
+Wins: Jofoel, chips: 5
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Flop: Kc Tc 4c
+Turn: 3c
+River: Ad
+Pot size: 15
+Showdown Reached
+Shows: Lukok, Qd 2s
+Combination: Lukok, High Card ( Ad Kc Qd Tc 4c )
+Shows: Jofoel, 5h 3s
+Combination: Jofoel, Pair ( 3s 3c Ad Kc Tc )
+Wins: Lukok, chips: 5
+Wins: Jofoel, chips: 10
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Flop: 8s 5d 9d
+Turn: 2c
+River: Ac
+Pot size: 15
+Showdown Reached
+Shows: Lukok, 8c 3c
+Combination: Lukok, Pair ( 8c 8s Ac 9d 5d )
+Shows: Jofoel, Qc 3s
+Combination: Jofoel, High Card ( Ac Qc 9d 8s 5d )
+Wins: Lukok, chips: 10
+Wins: Jofoel, chips: 5
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Flop: Kc Qc 2h
+Turn: 8s
+River: Jc
+Pot size: 15
+Showdown Reached
+Shows: Lukok, 4d 2s
+Combination: Lukok, Pair ( 2s 2h Kc Qc Jc )
+Shows: Jofoel, Kh 6s
+Combination: Jofoel, Pair ( Kh Kc Qc Jc 8s )
+Wins: Lukok, chips: 5
+Wins: Jofoel, chips: 10
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Flop: Qc Ad 9h
+Turn: 8h
+River: 9d
+Pot size: 15
+Showdown Reached
+Shows: Lukok, 9s Jd
+Combination: Lukok, Three Of A Kind ( 9s 9h 9d Ad Qc )
+Shows: Jofoel, 2c Tc
+Combination: Jofoel, Pair ( 9h 9d Ad Qc Tc )
+Wins: Lukok, chips: 10
+Wins: Jofoel, chips: 5
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Flop: 4d Ah Td
+Turn: As
+River: 9s
+Pot size: 15
+Showdown Reached
+Shows: Lukok, 3c 6s
+Combination: Lukok, Pair ( Ah As Td 9s 6s )
+Shows: Jofoel, 2c 9c
+Combination: Jofoel, Two Pair ( Ah As 9c 9s Td )
+Wins: Lukok, chips: 5
+Wins: Jofoel, chips: 10
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Flop: 4s Kc 6c
+Turn: 3h
+River: Ts
+Pot size: 15
+Showdown Reached
+Shows: Lukok, Td 6d
+Combination: Lukok, Two Pair ( Td Ts 6d 6c Kc )
+Shows: Jofoel, 9d 2c
+Combination: Jofoel, High Card ( Kc Ts 9d 6c 4s )
+Wins: Lukok, chips: 10
+Wins: Jofoel, chips: 5
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Flop: 6s 5c 8h
+Turn: Qc
+River: 4s
+Pot size: 15
+Showdown Reached
+Shows: Lukok, Js 9s
+Combination: Lukok, High Card ( Qc Js 9s 8h 6s )
+Shows: Jofoel, Ks Ts
+Combination: Jofoel, High Card ( Ks Qc Ts 8h 6s )
+Wins: Lukok, chips: 5
+Wins: Jofoel, chips: 10
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Flop: Qh Ad 2s
+Turn: 3s
+River: Tc
+Pot size: 15
+Showdown Reached
+Shows: Lukok, 3h Qs
+Combination: Lukok, Two Pair ( Qs Qh 3h 3s Ad )
+Shows: Jofoel, Qd 6h
+Combination: Jofoel, Pair ( Qd Qh Ad Tc 6h )
+Wins: Lukok, chips: 10
+Wins: Jofoel, chips: 5
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Flop: 8d 3h 9d
+Turn: Tc
+River: 4d
+Pot size: 15
+Showdown Reached
+Shows: Lukok, 3c 5s
+Combination: Lukok, Pair ( 3c 3h Tc 9d 8d )
+Shows: Jofoel, 9h 3s
+Combination: Jofoel, Two Pair ( 9h 9d 3s 3h Tc )
+Wins: Lukok, chips: 5
+Wins: Jofoel, chips: 10
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Flop: 8d 7d Qd
+Turn: 6s
+River: 2d
+Pot size: 15
+Showdown Reached
+Shows: Lukok, 9c 5c
+Combination: Lukok, Straight ( 9c 8d 7d 6s 5c )
+Shows: Jofoel, 3s 8c
+Combination: Jofoel, Pair ( 8c 8d Qd 7d 6s )
+Wins: Lukok, chips: 10
+Wins: Jofoel, chips: 5
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Flop: Qs 3d Qd
+Turn: 3c
+River: Ts
+Pot size: 15
+Showdown Reached
+Shows: Lukok, Ks 4s
+Combination: Lukok, Two Pair ( Qs Qd 3d 3c Ks )
+Shows: Jofoel, Tc 4h
+Combination: Jofoel, Two Pair ( Qs Qd Tc Ts 4h )
+Wins: Lukok, chips: 5
+Wins: Jofoel, chips: 10
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Flop: 2d 6h 3d
+Turn: Ks
+River: Ts
+Pot size: 15
+Showdown Reached
+Shows: Lukok, Kc As
+Combination: Lukok, Pair ( Kc Ks As Ts 6h )
+Shows: Jofoel, 9h 5c
+Combination: Jofoel, High Card ( Ks Ts 9h 6h 5c )
+Wins: Lukok, chips: 10
+Wins: Jofoel, chips: 5
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Flop: 5c Qh Qs
+Turn: 2s
+River: 6c
+Pot size: 15
+Showdown Reached
+Shows: Lukok, Kd 7d
+Combination: Lukok, Pair ( Qh Qs Kd 7d 6c )
+Shows: Jofoel, 2d 3s
+Combination: Jofoel, Two Pair ( Qh Qs 2d 2s 6c )
+Wins: Lukok, chips: 5
+Wins: Jofoel, chips: 10
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Flop: 7c 8h Th
+Turn: 7s
+River: Qh
+Pot size: 15
+Showdown Reached
+Shows: Lukok, 9h Kc
+Combination: Lukok, Pair ( 7c 7s Kc Qh Th )
+Shows: Jofoel, 3s 3d
+Combination: Jofoel, Two Pair ( 7c 7s 3s 3d Qh )
+Wins: Jofoel, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Boasts: Lukok, Ad Jc
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Flop: Jh 9d 3s
+Turn: 2d
+River: 6s
+Pot size: 15
+Showdown Reached
+Shows: Lukok, 5d 7d
+Combination: Lukok, High Card ( Jh 9d 7d 6s 5d )
+Shows: Jofoel, 2h Tc
+Combination: Jofoel, Pair ( 2h 2d Jh Tc 9d )
+Wins: Jofoel, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Folds: Jofoel
+Pot size: 15
+Wins: Lukok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Flop: 2h Jd 7c
+Turn: Jh
+River: 6h
+Pot size: 15
+Showdown Reached
+Shows: Lukok, 8h 8d
+Combination: Lukok, Two Pair ( Jd Jh 8h 8d 7c )
+Shows: Jofoel, 5c 5d
+Combination: Jofoel, Two Pair ( Jd Jh 5c 5d 7c )
+Wins: Lukok, chips: 10
+Wins: Jofoel, chips: 5
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Flop: 7d 9h Ks
+Turn: 9c
+River: 2d
+Pot size: 15
+Showdown Reached
+Shows: Lukok, 8h Qc
+Combination: Lukok, Pair ( 9h 9c Ks Qc 8h )
+Shows: Jofoel, Ah Qs
+Combination: Jofoel, Pair ( 9h 9c Ah Ks Qs )
+Wins: Lukok, chips: 5
+Wins: Jofoel, chips: 10
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lukok
+Small Blind: Lukok, chips: 5
+Big Blind: Jofoel, chips: 10
+Flop: 3d Jh Ks
+Turn: 3h
+River: 6h
+Pot size: 15
+Showdown Reached
+Shows: Lukok, 9s 6s
+Combination: Lukok, Two Pair ( 6s 6h 3d 3h Ks )
+Shows: Jofoel, 8h 9d
+Combination: Jofoel, Pair ( 3d 3h Ks Jh 9d )
+Wins: Lukok, chips: 10
+Wins: Jofoel, chips: 5
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Jofoel
+Small Blind: Jofoel, chips: 5
+Big Blind: Lukok, chips: 10
+Flop: 4c 7c 5c
+Turn: Td
+River: 8c
+Pot size: 15
+Showdown Reached
+Shows: Lukok, Tc 8s
+Combination: Lukok, Flush ( Tc 8c 7c 5c 4c )
+Shows: Jofoel, 9h Jh
+Combination: Jofoel, Straight ( Jh Td 9h 8c 7c )
+Wins: Lukok, chips: 15
+Quits: Jofoel, chips: 0
+Ranking: Lukok, Place: 1, Score: 6000
+Reveal AI: Lukok, AI: Random
+Ranking: Jofoel, Place: 2, Score: -1000
+Reveal AI: Jofoel, AI: AIMyBot1
+Ranking: Feenetry, Place: 3, Score: -1000
+Reveal AI: Feenetry, AI: Random
+Ranking: Roerleegi, Place: 4, Score: -1000
+Reveal AI: Roerleegi, AI: Smart
+Ranking: Tiwu, Place: 5, Score: -1000
+Reveal AI: Tiwu, AI: Smart
+Ranking: Difoebo, Place: 6, Score: -1000
+Reveal AI: Difoebo, AI: Call
+Ranking: Nettee, Place: 7, Score: -1000
+Reveal AI: Nettee, AI: Call
+
+Player Stats for Difoebo, AI: Call
+General: deals: 1, actions: 7, preflop actions: 2
+Rounds Seen: flops: 73, turns: 62, rivers: 50, showdowns: 45
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 0
+Pre-Flop Stats: VP$IP: 1, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: 0, WSD: 0.616438, WSDW: 0
+
+
+Player Stats for Feenetry, AI: Random
+General: deals: 17, actions: 53, preflop actions: 21
+Rounds Seen: flops: 70, turns: 60, rivers: 49, showdowns: 44
+Wins: total: 6, showdown: 5, bluff: 1
+Chips: won: 5213, lost: 6213, bought: 1000, forced bets: 75
+Pre-Flop Stats: VP$IP: 0.588235, PFR: 0.294118, 3Bet: 0.294118
+Post-Flop Stats: AF: 3.33333, WSD: 0.628571, WSDW: 0.113636
+
+
+Player Stats for Jofoel, AI: AIMyBot1
+General: deals: 212, actions: 294, preflop actions: 175
+Rounds Seen: flops: 63, turns: 53, rivers: 41, showdowns: 36
+Wins: total: 43, showdown: 27, bluff: 16
+Chips: won: 550, lost: 1550, bought: 1000, forced bets: 1550
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 0.571429, WSDW: 0.75
+
+
+Player Stats for Lukok, AI: Random
+General: deals: 212, actions: 219, preflop actions: 103
+Rounds Seen: flops: 71, turns: 60, rivers: 48, showdowns: 43
+Wins: total: 181, showdown: 31, bluff: 150
+Chips: won: 13848, lost: 7848, bought: 1000, forced bets: 1540
+Pre-Flop Stats: VP$IP: 0.386792, PFR: 0.179245, 3Bet: 0.179245
+Post-Flop Stats: AF: 6.8, WSD: 0.605634, WSDW: 0.72093
+
+
+Player Stats for Nettee, AI: Call
+General: deals: 1, actions: 7, preflop actions: 2
+Rounds Seen: flops: 73, turns: 62, rivers: 50, showdowns: 45
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 0
+Pre-Flop Stats: VP$IP: 1, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: 0, WSD: 0.616438, WSDW: 0
+
+
+Player Stats for Roerleegi, AI: Smart
+General: deals: 2, actions: 4, preflop actions: 4
+Rounds Seen: flops: 72, turns: 61, rivers: 49, showdowns: 44
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1005, bought: 1000, forced bets: 10
+Pre-Flop Stats: VP$IP: 1, PFR: 0.5, 3Bet: 0.5
+Post-Flop Stats: AF: -1.#IND, WSD: 0.611111, WSDW: 0
+
+
+Player Stats for Tiwu, AI: Smart
+General: deals: 2, actions: 3, preflop actions: 3
+Rounds Seen: flops: 72, turns: 61, rivers: 49, showdowns: 44
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 5
+Pre-Flop Stats: VP$IP: 0.5, PFR: 0.5, 3Bet: 0.5
+Post-Flop Stats: AF: -1.#IND, WSD: 0.611111, WSDW: 0
+
+

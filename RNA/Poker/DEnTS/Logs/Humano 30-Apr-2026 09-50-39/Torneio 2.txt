@@ -1,0 +1,4306 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+No: Smart
+Wefotoep: Human
+Ru: Smart
+Suwrowro: Random
+Jobe: Call
+Meehi: Smart
+Bu: Random
+Voelap: Call
+Ruge: Smart
+
+Joins: No, chips: 1000
+Joins: Wefotoep, chips: 1000
+Joins: Ru, chips: 1000
+Joins: Suwrowro, chips: 1000
+Joins: Jobe, chips: 1000
+Joins: Meehi, chips: 1000
+Joins: Bu, chips: 1000
+Joins: Voelap, chips: 1000
+Joins: Ruge, chips: 1000
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Bu
+Small Blind: Voelap, chips: 10
+Big Blind: Ruge, chips: 20
+Folds: No
+Folds: Wefotoep
+Folds: Ru
+Raises: Suwrowro, chips: 40
+Calls: Jobe
+Folds: Meehi
+Calls: Bu
+Calls: Voelap
+Folds: Ruge
+Flop: 3c Qh Ac
+Checks: Voelap
+Checks: Suwrowro
+Checks: Jobe
+Checks: Bu
+Turn: 3h
+Checks: Voelap
+Raises: Suwrowro, chips: 40
+Calls: Jobe
+Calls: Bu
+Calls: Voelap
+River: 6s
+Checks: Voelap
+Checks: Suwrowro
+Checks: Jobe
+Checks: Bu
+Pot size: 420
+Showdown Reached
+Shows: Suwrowro, Ts Tc
+Combination: Suwrowro, Two Pair ( Ts Tc 3c 3h Ac )
+Shows: Jobe, 5c 7c
+Combination: Jobe, Pair ( 3c 3h Ac Qh 7c )
+Shows: Bu, 2c As
+Combination: Bu, Two Pair ( As Ac 3c 3h Qh )
+Shows: Voelap, 2s 8c
+Combination: Voelap, Pair ( 3c 3h Ac Qh 8c )
+Wins: Bu, chips: 420
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Voelap
+Small Blind: Ruge, chips: 10
+Big Blind: No, chips: 20
+Folds: Wefotoep
+Raises: Ru, chips: 40
+Calls: Suwrowro
+Calls: Jobe
+Folds: Meehi
+Folds: Bu
+Calls: Voelap
+Folds: Ruge
+Folds: No
+Flop: Ts 4c 2h
+Checks: Ru
+Raises: Suwrowro, chips: 40
+Calls: Jobe
+Calls: Voelap
+Raises: Ru, chips: 80
+Folds: Suwrowro
+Calls: Jobe
+Calls: Voelap
+Turn: Jd
+Raises: Ru, chips: 100
+Calls: Jobe
+Calls: Voelap
+River: Kc
+Raises: Ru, chips: 720
+Calls: Jobe
+Calls: Voelap
+Pot size: 2930
+Showdown Reached
+Shows: Ru, Js Tc
+Combination: Ru, Two Pair ( Js Jd Tc Ts Kc )
+Boasts: Suwrowro, Kh 3s
+Shows: Jobe, 9h 7d
+Combination: Jobe, High Card ( Kc Jd Ts 9h 7d )
+Shows: Voelap, Kd 8c
+Combination: Voelap, Pair ( Kd Kc Jd Ts 8c )
+Wins: Ru, chips: 2930
+Quits: Jobe, chips: 0
+Quits: Voelap, chips: 0
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ruge
+Small Blind: No, chips: 10
+Big Blind: Wefotoep, chips: 20
+Raises: Ru, chips: 40
+Folds: Suwrowro
+Folds: Meehi
+Raises: Bu, chips: 100
+Raises: Ruge, chips: 220
+Folds: No
+Calls: Wefotoep
+Calls: Ru
+Raises: Bu, chips: 440
+Calls: Ruge
+Raises: Wefotoep, chips: 180
+Raises: Ru, chips: 660
+Calls: Bu
+Calls: Ruge
+Flop: Kc 4h 5h
+Turn: 3h
+River: Qd
+Pot size: 4960
+Showdown Reached
+Shows: Wefotoep, Kh 7d
+Combination: Wefotoep, Pair ( Kh Kc Qd 7d 5h )
+Shows: Ru, Jd Ah
+Combination: Ru, High Card ( Ah Kc Qd Jd 5h )
+Shows: Bu, 9c 8h
+Combination: Bu, High Card ( Kc Qd 9c 8h 5h )
+Shows: Ruge, Jc Ad
+Combination: Ruge, High Card ( Ad Kc Qd Jc 5h )
+Wins: Wefotoep, chips: 3980
+Wins: Ru, chips: 980
+Quits: Bu, chips: 0
+Quits: Ruge, chips: 0
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: No
+Small Blind: Wefotoep, chips: 10
+Big Blind: Ru, chips: 20
+Raises: Suwrowro, chips: 40
+Folds: Meehi
+Folds: No
+Calls: Wefotoep
+Folds: Ru
+Flop: Jd 6c As
+Raises: Wefotoep, chips: 80
+Raises: Suwrowro, chips: 160
+Calls: Wefotoep
+Turn: 6h
+Raises: Wefotoep, chips: 160
+Folds: Suwrowro
+Pot size: 780
+Wins: Wefotoep, chips: 780
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Wefotoep
+Small Blind: Ru, chips: 10
+Big Blind: Suwrowro, chips: 20
+Raises: Meehi, chips: 20
+Folds: No
+Calls: Wefotoep
+Folds: Ru
+Calls: Suwrowro
+Flop: 5s Th Qd
+Raises: Suwrowro, chips: 20
+Calls: Meehi
+Calls: Wefotoep
+Turn: 6c
+Checks: Suwrowro
+Checks: Meehi
+Checks: Wefotoep
+River: Kd
+Checks: Suwrowro
+Checks: Meehi
+Checks: Wefotoep
+Pot size: 190
+Showdown Reached
+Shows: Wefotoep, 9s 8d
+Combination: Wefotoep, High Card ( Kd Qd Th 9s 8d )
+Shows: Suwrowro, 6d 3d
+Combination: Suwrowro, Pair ( 6d 6c Kd Qd Th )
+Shows: Meehi, Ac Jd
+Combination: Meehi, Straight ( Ac Kd Qd Jd Th )
+Wins: Meehi, chips: 190
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ru
+Small Blind: Suwrowro, chips: 10
+Big Blind: Meehi, chips: 20
+Calls: No
+Raises: Wefotoep, chips: 120
+Folds: Ru
+Calls: Suwrowro
+Folds: Meehi
+Folds: No
+Flop: 8d Td 3c
+Checks: Suwrowro
+Raises: Wefotoep, chips: 360
+Folds: Suwrowro
+Pot size: 680
+Boasts: Suwrowro, 7s 8s
+Wins: Wefotoep, chips: 680
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Suwrowro
+Small Blind: Meehi, chips: 10
+Big Blind: No, chips: 20
+Calls: Wefotoep
+Folds: Ru
+Calls: Suwrowro
+Calls: Meehi
+Checks: No
+Flop: 5d 7d 4h
+Checks: Meehi
+Checks: No
+Raises: Wefotoep, chips: 60
+Folds: Suwrowro
+Folds: Meehi
+Calls: No
+Turn: 8s
+Checks: No
+Raises: Wefotoep, chips: 180
+Calls: No
+River: 3s
+Checks: No
+Raises: Wefotoep, chips: 540
+Calls: No
+Pot size: 1640
+Showdown Reached
+Shows: No, 6h 5s
+Combination: No, Straight ( 8s 7d 6h 5s 4h )
+Shows: Wefotoep, As Kd
+Combination: Wefotoep, High Card ( As Kd 8s 7d 5d )
+Boasts: Suwrowro, Kc 7c
+Wins: No, chips: 1640
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Meehi
+Small Blind: No, chips: 10
+Big Blind: Wefotoep, chips: 20
+Folds: Ru
+Calls: Suwrowro
+Folds: Meehi
+Calls: No
+Raises: Wefotoep, chips: 60
+Raises: Suwrowro, chips: 120
+Folds: No
+Raises: Wefotoep, chips: 480
+Calls: Suwrowro
+Flop: 3d Td 3c
+Turn: 5c
+River: Jd
+Pot size: 980
+Showdown Reached
+Shows: Wefotoep, 7d As
+Combination: Wefotoep, Pair ( 3d 3c As Jd Td )
+Shows: Suwrowro, Qs 9c
+Combination: Suwrowro, Pair ( 3d 3c Qs Jd Td )
+Wins: Wefotoep, chips: 980
+Quits: Suwrowro, chips: 0
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: No
+Small Blind: Wefotoep, chips: 10
+Big Blind: Ru, chips: 20
+Folds: Meehi
+Folds: No
+Raises: Wefotoep, chips: 60
+Calls: Ru
+Flop: 8d 7c 2s
+Raises: Wefotoep, chips: 60
+Calls: Ru
+Turn: As
+Raises: Wefotoep, chips: 180
+Raises: Ru, chips: 280
+Raises: Wefotoep, chips: 1120
+Folds: Ru
+Pot size: 2320
+Wins: Wefotoep, chips: 2320
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Wefotoep
+Small Blind: Ru, chips: 10
+Big Blind: Meehi, chips: 20
+Folds: No
+Folds: Wefotoep
+Folds: Ru
+Pot size: 30
+Wins: Meehi, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ru
+Small Blind: Meehi, chips: 10
+Big Blind: No, chips: 20
+Folds: Wefotoep
+Folds: Ru
+Calls: Meehi
+Checks: No
+Flop: 6h 3s Ts
+Checks: Meehi
+Checks: No
+Turn: Qd
+Checks: Meehi
+Raises: No, chips: 20
+Calls: Meehi
+River: 7d
+Checks: Meehi
+Checks: No
+Pot size: 80
+Showdown Reached
+Shows: No, Ks 3h
+Combination: No, Pair ( 3h 3s Ks Qd Ts )
+Shows: Meehi, Kc Js
+Combination: Meehi, High Card ( Kc Qd Js Ts 7d )
+Wins: No, chips: 80
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Meehi
+Small Blind: No, chips: 10
+Big Blind: Wefotoep, chips: 20
+Calls: Ru
+Folds: Meehi
+Folds: No
+Raises: Wefotoep, chips: 60
+Calls: Ru
+Flop: Kh 4h 9h
+Raises: Wefotoep, chips: 120
+Raises: Ru, chips: 280
+Raises: Wefotoep, chips: 560
+Folds: Ru
+Pot size: 1530
+Wins: Wefotoep, chips: 1530
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: No
+Small Blind: Wefotoep, chips: 10
+Big Blind: Ru, chips: 20
+Folds: Meehi
+Calls: No
+Raises: Wefotoep, chips: 90
+Folds: Ru
+Folds: No
+Pot size: 150
+Wins: Wefotoep, chips: 150
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Wefotoep
+Small Blind: Ru, chips: 10
+Big Blind: Meehi, chips: 20
+Calls: No
+Calls: Wefotoep
+Folds: Ru
+Checks: Meehi
+Flop: 9s Qs 8d
+Checks: Meehi
+Checks: No
+Checks: Wefotoep
+Turn: 6s
+Checks: Meehi
+Checks: No
+Checks: Wefotoep
+River: Jh
+Checks: Meehi
+Checks: No
+Checks: Wefotoep
+Pot size: 70
+Showdown Reached
+Shows: No, Qh Td
+Combination: No, Straight ( Qh Jh Td 9s 8d )
+Shows: Wefotoep, 4c 7c
+Combination: Wefotoep, High Card ( Qs Jh 9s 8d 7c )
+Shows: Meehi, 4s 5h
+Combination: Meehi, High Card ( Qs Jh 9s 8d 6s )
+Wins: No, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ru
+Small Blind: Meehi, chips: 10
+Big Blind: No, chips: 20
+Folds: Wefotoep
+Folds: Ru
+Calls: Meehi
+Checks: No
+Flop: 6s 6d Ac
+Checks: Meehi
+Checks: No
+Turn: 5h
+Checks: Meehi
+Checks: No
+River: Jh
+Raises: Meehi, chips: 20
+Folds: No
+Pot size: 60
+Wins: Meehi, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Meehi
+Small Blind: No, chips: 10
+Big Blind: Wefotoep, chips: 20
+Raises: Ru, chips: 20
+Calls: Meehi
+Folds: No
+Raises: Wefotoep, chips: 120
+Folds: Ru
+Folds: Meehi
+Pot size: 250
+Wins: Wefotoep, chips: 250
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: No
+Small Blind: Wefotoep, chips: 10
+Big Blind: Ru, chips: 20
+Folds: Meehi
+Raises: No, chips: 20
+Calls: Wefotoep
+Folds: Ru
+Flop: 5s Qd 7s
+Raises: Wefotoep, chips: 20
+Raises: No, chips: 40
+Raises: Wefotoep, chips: 160
+Raises: No, chips: 260
+Raises: Wefotoep, chips: 1560
+Calls: No
+Turn: 4s
+River: 8s
+Pot size: 3900
+Showdown Reached
+Shows: No, Ks Qc
+Combination: No, Flush ( Ks 8s 7s 5s 4s )
+Shows: Wefotoep, Tc 7c
+Combination: Wefotoep, Pair ( 7c 7s Qd Tc 8s )
+Wins: No, chips: 3620
+Wins: Wefotoep, chips: 280
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Wefotoep
+Small Blind: Ru, chips: 10
+Big Blind: Meehi, chips: 20
+Folds: No
+Folds: Wefotoep
+Folds: Ru
+Pot size: 30
+Wins: Meehi, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ru
+Small Blind: Meehi, chips: 10
+Big Blind: No, chips: 20
+Folds: Wefotoep
+Calls: Ru
+Calls: Meehi
+Checks: No
+Flop: 2h Js 6c
+Raises: Meehi, chips: 1010
+Raises: No, chips: 790
+Folds: Ru
+Turn: Td
+River: Qs
+Pot size: 2870
+Showdown Reached
+Shows: No, 6d 7c
+Combination: No, Pair ( 6d 6c Qs Js Td )
+Shows: Meehi, 2c 2s
+Combination: Meehi, Three Of A Kind ( 2c 2s 2h Qs Js )
+Wins: No, chips: 790
+Wins: Meehi, chips: 2080
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Meehi
+Small Blind: No, chips: 10
+Big Blind: Wefotoep, chips: 20
+Calls: Ru
+Folds: Meehi
+Folds: No
+Raises: Wefotoep, chips: 60
+Raises: Ru, chips: 60
+Raises: Wefotoep, chips: 240
+Calls: Ru
+Flop: 3d 6h Kd
+Raises: Wefotoep, chips: 480
+Folds: Ru
+Pot size: 1250
+Wins: Wefotoep, chips: 1250
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: No
+Small Blind: Wefotoep, chips: 10
+Big Blind: Ru, chips: 20
+Folds: Meehi
+Calls: No
+Raises: Wefotoep, chips: 30
+Calls: Ru
+Calls: No
+Flop: 7h Ac As
+Raises: Wefotoep, chips: 90
+Calls: Ru
+Raises: No, chips: 190
+Calls: Wefotoep
+Folds: Ru
+Turn: Qh
+Raises: Wefotoep, chips: 380
+Raises: No, chips: 1870
+Folds: Wefotoep
+Pot size: 3430
+Wins: No, chips: 3430
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Wefotoep
+Small Blind: Ru, chips: 10
+Big Blind: Meehi, chips: 20
+Folds: No
+Calls: Wefotoep
+Raises: Ru, chips: 30
+Folds: Meehi
+Raises: Wefotoep, chips: 120
+Folds: Ru
+Pot size: 240
+Wins: Wefotoep, chips: 240
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ru
+Small Blind: Meehi, chips: 10
+Big Blind: No, chips: 20
+Folds: Wefotoep
+Folds: Ru
+Folds: Meehi
+Pot size: 30
+Wins: No, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Meehi
+Small Blind: No, chips: 10
+Big Blind: Wefotoep, chips: 20
+Folds: Ru
+Folds: Meehi
+Folds: No
+Pot size: 30
+Wins: Wefotoep, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: No
+Small Blind: Wefotoep, chips: 10
+Big Blind: Ru, chips: 20
+Folds: Meehi
+Calls: No
+Raises: Wefotoep, chips: 60
+Folds: Ru
+Raises: No, chips: 3350
+Calls: Wefotoep
+Flop: 8h Ts 8s
+Turn: 8d
+River: Kc
+Pot size: 6530
+Showdown Reached
+Shows: No, Ks Ad
+Combination: No, Full House ( 8h 8s 8d Ks Kc )
+Shows: Wefotoep, 6d Qc
+Combination: Wefotoep, Three Of A Kind ( 8h 8s 8d Kc Qc )
+Wins: No, chips: 6530
+Quits: Wefotoep, chips: 0
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ru
+Small Blind: Meehi, chips: 10
+Big Blind: No, chips: 20
+Folds: Ru
+Calls: Meehi
+Checks: No
+Flop: 4c Td Jc
+Checks: Meehi
+Checks: No
+Turn: 3s
+Raises: Meehi, chips: 20
+Calls: No
+River: 5c
+Checks: Meehi
+Checks: No
+Pot size: 80
+Showdown Reached
+Shows: No, Kc 9h
+Combination: No, High Card ( Kc Jc Td 9h 5c )
+Shows: Meehi, 4h 2h
+Combination: Meehi, Pair ( 4h 4c Jc Td 5c )
+Wins: Meehi, chips: 80
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Meehi
+Small Blind: No, chips: 10
+Big Blind: Ru, chips: 20
+Calls: Meehi
+Folds: No
+Checks: Ru
+Flop: 3d 6s 4h
+Checks: Ru
+Checks: Meehi
+Turn: Jh
+Checks: Ru
+Checks: Meehi
+River: As
+Checks: Ru
+Checks: Meehi
+Pot size: 50
+Showdown Reached
+Shows: Ru, 5c 6c
+Combination: Ru, Pair ( 6c 6s As Jh 5c )
+Shows: Meehi, Kh 5h
+Combination: Meehi, High Card ( As Kh Jh 6s 5h )
+Wins: Ru, chips: 50
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: No
+Small Blind: Ru, chips: 10
+Big Blind: Meehi, chips: 20
+Folds: No
+Folds: Ru
+Pot size: 30
+Wins: Meehi, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ru
+Small Blind: Meehi, chips: 10
+Big Blind: No, chips: 20
+Folds: Ru
+Calls: Meehi
+Checks: No
+Flop: 5d Qc As
+Checks: Meehi
+Checks: No
+Turn: 2d
+Checks: Meehi
+Checks: No
+River: Qh
+Raises: Meehi, chips: 20
+Raises: No, chips: 40
+Calls: Meehi
+Pot size: 160
+Showdown Reached
+Shows: No, Kh 9d
+Combination: No, Pair ( Qc Qh As Kh 9d )
+Shows: Meehi, 6d 6h
+Combination: Meehi, Two Pair ( Qc Qh 6d 6h As )
+Wins: Meehi, chips: 160
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Meehi
+Small Blind: No, chips: 10
+Big Blind: Ru, chips: 20
+Folds: Meehi
+Folds: No
+Pot size: 30
+Wins: Ru, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: No
+Small Blind: Ru, chips: 10
+Big Blind: Meehi, chips: 20
+Folds: No
+Folds: Ru
+Pot size: 30
+Wins: Meehi, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ru
+Small Blind: Meehi, chips: 10
+Big Blind: No, chips: 20
+Folds: Ru
+Calls: Meehi
+Raises: No, chips: 20
+Calls: Meehi
+Flop: 9s 9c 2d
+Raises: Meehi, chips: 20
+Calls: No
+Turn: Qh
+Checks: Meehi
+Checks: No
+River: 4c
+Checks: Meehi
+Checks: No
+Pot size: 120
+Showdown Reached
+Shows: No, Js Ad
+Combination: No, Pair ( 9s 9c Ad Qh Js )
+Shows: Meehi, Ac 5c
+Combination: Meehi, Pair ( 9s 9c Ac Qh 5c )
+Wins: No, chips: 120
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Meehi
+Small Blind: No, chips: 10
+Big Blind: Ru, chips: 20
+Folds: Meehi
+Calls: No
+Checks: Ru
+Flop: Jd 8h Qd
+Checks: No
+Raises: Ru, chips: 20
+Folds: No
+Pot size: 60
+Wins: Ru, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: No
+Small Blind: Ru, chips: 10
+Big Blind: Meehi, chips: 20
+Folds: No
+Folds: Ru
+Pot size: 30
+Wins: Meehi, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ru
+Small Blind: Meehi, chips: 10
+Big Blind: No, chips: 20
+Folds: Ru
+Folds: Meehi
+Pot size: 30
+Wins: No, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Meehi
+Small Blind: No, chips: 10
+Big Blind: Ru, chips: 20
+Raises: Meehi, chips: 2090
+Folds: No
+Folds: Ru
+Pot size: 2140
+Wins: Meehi, chips: 2140
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: No
+Small Blind: Ru, chips: 10
+Big Blind: Meehi, chips: 20
+Folds: No
+Folds: Ru
+Pot size: 30
+Wins: Meehi, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ru
+Small Blind: Meehi, chips: 10
+Big Blind: No, chips: 20
+Raises: Ru, chips: 40
+Folds: Meehi
+Raises: No, chips: 40
+Folds: Ru
+Pot size: 170
+Wins: No, chips: 170
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Meehi
+Small Blind: No, chips: 10
+Big Blind: Ru, chips: 20
+Calls: Meehi
+Calls: No
+Raises: Ru, chips: 340
+Folds: Meehi
+Folds: No
+Pot size: 400
+Wins: Ru, chips: 400
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: No
+Small Blind: Ru, chips: 10
+Big Blind: Meehi, chips: 20
+Folds: No
+Folds: Ru
+Pot size: 30
+Wins: Meehi, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ru
+Small Blind: Meehi, chips: 10
+Big Blind: No, chips: 20
+Folds: Ru
+Calls: Meehi
+Checks: No
+Flop: 8h Jc 4c
+Raises: Meehi, chips: 20
+Calls: No
+Turn: Kh
+Raises: Meehi, chips: 20
+Calls: No
+River: 7c
+Raises: Meehi, chips: 20
+Calls: No
+Pot size: 160
+Showdown Reached
+Shows: No, 5s 8d
+Combination: No, Pair ( 8d 8h Kh Jc 7c )
+Shows: Meehi, Ac 9c
+Combination: Meehi, Flush ( Ac Jc 9c 7c 4c )
+Wins: Meehi, chips: 160
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Meehi
+Small Blind: No, chips: 10
+Big Blind: Ru, chips: 20
+Calls: Meehi
+Calls: No
+Checks: Ru
+Flop: 6h 4s Kd
+Checks: No
+Checks: Ru
+Checks: Meehi
+Turn: 3s
+Checks: No
+Checks: Ru
+Checks: Meehi
+River: 3d
+Checks: No
+Checks: Ru
+Checks: Meehi
+Pot size: 60
+Showdown Reached
+Shows: No, 5h 4h
+Combination: No, Two Pair ( 4h 4s 3s 3d Kd )
+Shows: Ru, Jd As
+Combination: Ru, Pair ( 3s 3d As Kd Jd )
+Shows: Meehi, 9h Ac
+Combination: Meehi, Pair ( 3s 3d Ac Kd 9h )
+Wins: No, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: No
+Small Blind: Ru, chips: 10
+Big Blind: Meehi, chips: 20
+Calls: No
+Folds: Ru
+Checks: Meehi
+Flop: 3d Kc 7s
+Checks: Meehi
+Checks: No
+Turn: 5s
+Checks: Meehi
+Checks: No
+River: 2c
+Checks: Meehi
+Checks: No
+Pot size: 50
+Showdown Reached
+Shows: No, 4h 5c
+Combination: No, Pair ( 5c 5s Kc 7s 4h )
+Shows: Meehi, 7c 6c
+Combination: Meehi, Pair ( 7c 7s Kc 6c 5s )
+Wins: Meehi, chips: 50
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ru
+Small Blind: Meehi, chips: 10
+Big Blind: No, chips: 20
+Folds: Ru
+Folds: Meehi
+Pot size: 30
+Wins: No, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Meehi
+Small Blind: No, chips: 10
+Big Blind: Ru, chips: 20
+Calls: Meehi
+Calls: No
+Checks: Ru
+Flop: Ac 8h Jd
+Checks: No
+Raises: Ru, chips: 340
+Calls: Meehi
+Calls: No
+Turn: Qc
+Checks: No
+Checks: Meehi
+River: 7c
+Checks: No
+Checks: Meehi
+Pot size: 1080
+Showdown Reached
+Shows: No, As Th
+Combination: No, Pair ( As Ac Qc Jd Th )
+Shows: Ru, 8s Ad
+Combination: Ru, Two Pair ( Ad Ac 8s 8h Qc )
+Shows: Meehi, 9s 9h
+Combination: Meehi, Pair ( 9s 9h Ac Qc Jd )
+Wins: Ru, chips: 1080
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: No
+Small Blind: Ru, chips: 10
+Big Blind: Meehi, chips: 20
+Raises: No, chips: 40
+Calls: Ru
+Folds: Meehi
+Flop: 3c Qc 5d
+Checks: Ru
+Raises: No, chips: 6010
+Folds: Ru
+Pot size: 6150
+Wins: No, chips: 6150
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ru
+Small Blind: Meehi, chips: 10
+Big Blind: No, chips: 20
+Calls: Ru
+Folds: Meehi
+Checks: No
+Flop: 7c 5h Td
+Raises: No, chips: 20
+Raises: Ru, chips: 40
+Calls: No
+Turn: Kc
+Checks: No
+Checks: Ru
+River: 4d
+Checks: No
+Checks: Ru
+Pot size: 170
+Showdown Reached
+Shows: No, 9c 8h
+Combination: No, High Card ( Kc Td 9c 8h 7c )
+Shows: Ru, 9s Jh
+Combination: Ru, High Card ( Kc Jh Td 9s 7c )
+Wins: Ru, chips: 170
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Meehi
+Small Blind: No, chips: 10
+Big Blind: Ru, chips: 20
+Calls: Meehi
+Folds: No
+Raises: Ru, chips: 20
+Folds: Meehi
+Pot size: 70
+Wins: Ru, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: No
+Small Blind: Ru, chips: 10
+Big Blind: Meehi, chips: 20
+Folds: No
+Calls: Ru
+Checks: Meehi
+Flop: 5d 6c Jh
+Checks: Ru
+Checks: Meehi
+Turn: Tc
+Checks: Ru
+Checks: Meehi
+River: Kc
+Checks: Ru
+Checks: Meehi
+Pot size: 40
+Showdown Reached
+Shows: Ru, Ad 7d
+Combination: Ru, High Card ( Ad Kc Jh Tc 7d )
+Shows: Meehi, Jd 2s
+Combination: Meehi, Pair ( Jd Jh Kc Tc 6c )
+Wins: Meehi, chips: 40
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ru
+Small Blind: Meehi, chips: 10
+Big Blind: No, chips: 20
+Folds: Ru
+Folds: Meehi
+Pot size: 30
+Wins: No, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Meehi
+Small Blind: No, chips: 10
+Big Blind: Ru, chips: 20
+Calls: Meehi
+Folds: No
+Checks: Ru
+Flop: 5s 4c Qh
+Checks: Ru
+Checks: Meehi
+Turn: Jh
+Raises: Ru, chips: 20
+Folds: Meehi
+Pot size: 70
+Wins: Ru, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: No
+Small Blind: Ru, chips: 10
+Big Blind: Meehi, chips: 20
+Folds: No
+Folds: Ru
+Pot size: 30
+Wins: Meehi, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ru
+Small Blind: Meehi, chips: 10
+Big Blind: No, chips: 20
+Calls: Ru
+Calls: Meehi
+Checks: No
+Flop: 9s 3h As
+Checks: Meehi
+Checks: No
+Checks: Ru
+Turn: Tc
+Checks: Meehi
+Checks: No
+Checks: Ru
+River: 9c
+Checks: Meehi
+Checks: No
+Checks: Ru
+Pot size: 60
+Showdown Reached
+Shows: No, Ks 8s
+Combination: No, Pair ( 9s 9c As Ks Tc )
+Shows: Ru, 4h 2h
+Combination: Ru, Pair ( 9s 9c As Tc 4h )
+Shows: Meehi, 5c Ac
+Combination: Meehi, Two Pair ( Ac As 9s 9c Tc )
+Wins: Meehi, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Meehi
+Small Blind: No, chips: 10
+Big Blind: Ru, chips: 20
+Folds: Meehi
+Calls: No
+Raises: Ru, chips: 20
+Folds: No
+Pot size: 60
+Wins: Ru, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: No
+Small Blind: Ru, chips: 10
+Big Blind: Meehi, chips: 20
+Folds: No
+Folds: Ru
+Pot size: 30
+Wins: Meehi, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ru
+Small Blind: Meehi, chips: 10
+Big Blind: No, chips: 20
+Folds: Ru
+Calls: Meehi
+Checks: No
+Flop: As Js 5s
+Checks: Meehi
+Checks: No
+Turn: Ah
+Checks: Meehi
+Checks: No
+River: 8c
+Checks: Meehi
+Checks: No
+Pot size: 40
+Showdown Reached
+Shows: No, 7d 6h
+Combination: No, Pair ( As Ah Js 8c 7d )
+Shows: Meehi, Td Qc
+Combination: Meehi, Pair ( As Ah Qc Js Td )
+Wins: Meehi, chips: 40
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Meehi
+Small Blind: No, chips: 10
+Big Blind: Ru, chips: 20
+Calls: Meehi
+Folds: No
+Checks: Ru
+Flop: 3s 4h 8h
+Checks: Ru
+Checks: Meehi
+Turn: 9d
+Checks: Ru
+Raises: Meehi, chips: 1850
+Folds: Ru
+Pot size: 1900
+Wins: Meehi, chips: 1900
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: No
+Small Blind: Ru, chips: 10
+Big Blind: Meehi, chips: 20
+Calls: No
+Calls: Ru
+Checks: Meehi
+Flop: 8s 3c 7s
+Checks: Ru
+Checks: Meehi
+Raises: No, chips: 20
+Folds: Ru
+Folds: Meehi
+Pot size: 80
+Wins: No, chips: 80
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ru
+Small Blind: Meehi, chips: 10
+Big Blind: No, chips: 20
+Folds: Ru
+Folds: Meehi
+Pot size: 30
+Wins: No, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Meehi
+Small Blind: No, chips: 10
+Big Blind: Ru, chips: 20
+Folds: Meehi
+Calls: No
+Checks: Ru
+Flop: 4c 6s 8h
+Checks: No
+Checks: Ru
+Turn: 8c
+Checks: No
+Checks: Ru
+River: Jc
+Checks: No
+Raises: Ru, chips: 20
+Folds: No
+Pot size: 60
+Wins: Ru, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: No
+Small Blind: Ru, chips: 10
+Big Blind: Meehi, chips: 20
+Folds: No
+Folds: Ru
+Pot size: 30
+Wins: Meehi, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ru
+Small Blind: Meehi, chips: 10
+Big Blind: No, chips: 20
+Folds: Ru
+Folds: Meehi
+Pot size: 30
+Wins: No, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Meehi
+Small Blind: No, chips: 10
+Big Blind: Ru, chips: 20
+Folds: Meehi
+Calls: No
+Checks: Ru
+Flop: Kd 2s Qc
+Checks: No
+Checks: Ru
+Turn: 4c
+Raises: No, chips: 20
+Folds: Ru
+Pot size: 60
+Wins: No, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: No
+Small Blind: Ru, chips: 10
+Big Blind: Meehi, chips: 20
+Folds: No
+Folds: Ru
+Pot size: 30
+Wins: Meehi, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ru
+Small Blind: Meehi, chips: 10
+Big Blind: No, chips: 20
+Folds: Ru
+Calls: Meehi
+Checks: No
+Flop: 3c 9h Ts
+Checks: Meehi
+Checks: No
+Turn: Ad
+Checks: Meehi
+Checks: No
+River: 4s
+Checks: Meehi
+Checks: No
+Pot size: 40
+Showdown Reached
+Shows: No, 5h 4c
+Combination: No, Pair ( 4c 4s Ad Ts 9h )
+Shows: Meehi, 8d 8s
+Combination: Meehi, Pair ( 8d 8s Ad Ts 9h )
+Wins: Meehi, chips: 40
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Meehi
+Small Blind: No, chips: 10
+Big Blind: Ru, chips: 20
+Calls: Meehi
+Folds: No
+Checks: Ru
+Flop: Ad Kh 8s
+Checks: Ru
+Checks: Meehi
+Turn: 4h
+Checks: Ru
+Raises: Meehi, chips: 20
+Folds: Ru
+Pot size: 70
+Wins: Meehi, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: No
+Small Blind: Ru, chips: 10
+Big Blind: Meehi, chips: 20
+Raises: No, chips: 40
+Folds: Ru
+Calls: Meehi
+Flop: 9h 7c Qc
+Raises: Meehi, chips: 60
+Calls: No
+Turn: 3s
+Raises: Meehi, chips: 60
+Calls: No
+River: 2c
+Raises: Meehi, chips: 1750
+Folds: No
+Pot size: 2120
+Wins: Meehi, chips: 2120
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ru
+Small Blind: Meehi, chips: 10
+Big Blind: No, chips: 20
+Calls: Ru
+Folds: Meehi
+Checks: No
+Flop: 5d Ac Kh
+Raises: No, chips: 20
+Folds: Ru
+Pot size: 70
+Wins: No, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Meehi
+Small Blind: No, chips: 10
+Big Blind: Ru, chips: 20
+Folds: Meehi
+Folds: No
+Pot size: 30
+Wins: Ru, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: No
+Small Blind: Ru, chips: 10
+Big Blind: Meehi, chips: 20
+Folds: No
+Calls: Ru
+Raises: Meehi, chips: 2090
+Folds: Ru
+Pot size: 2130
+Wins: Meehi, chips: 2130
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ru
+Small Blind: Meehi, chips: 10
+Big Blind: No, chips: 20
+Folds: Ru
+Folds: Meehi
+Pot size: 30
+Wins: No, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Meehi
+Small Blind: No, chips: 10
+Big Blind: Ru, chips: 20
+Folds: Meehi
+Folds: No
+Pot size: 30
+Wins: Ru, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: No
+Small Blind: Ru, chips: 10
+Big Blind: Meehi, chips: 20
+Folds: No
+Folds: Ru
+Pot size: 30
+Wins: Meehi, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ru
+Small Blind: Meehi, chips: 10
+Big Blind: No, chips: 20
+Calls: Ru
+Calls: Meehi
+Checks: No
+Flop: 9h Tc 3c
+Checks: Meehi
+Checks: No
+Checks: Ru
+Turn: 5d
+Checks: Meehi
+Checks: No
+Checks: Ru
+River: 5h
+Checks: Meehi
+Checks: No
+Checks: Ru
+Pot size: 60
+Showdown Reached
+Shows: No, 4h Qd
+Combination: No, Pair ( 5d 5h Qd Tc 9h )
+Shows: Ru, Th Kd
+Combination: Ru, Two Pair ( Th Tc 5d 5h Kd )
+Shows: Meehi, 2s 3s
+Combination: Meehi, Two Pair ( 5d 5h 3s 3c Tc )
+Wins: Ru, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Meehi
+Small Blind: No, chips: 10
+Big Blind: Ru, chips: 20
+Folds: Meehi
+Calls: No
+Checks: Ru
+Flop: Kd Js 3s
+Raises: No, chips: 20
+Folds: Ru
+Pot size: 60
+Wins: No, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: No
+Small Blind: Ru, chips: 10
+Big Blind: Meehi, chips: 20
+Calls: No
+Folds: Ru
+Checks: Meehi
+Flop: 8s 2h 4c
+Checks: Meehi
+Checks: No
+Turn: 4d
+Checks: Meehi
+Checks: No
+River: 6h
+Checks: Meehi
+Raises: No, chips: 20
+Folds: Meehi
+Pot size: 70
+Wins: No, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ru
+Small Blind: Meehi, chips: 10
+Big Blind: No, chips: 20
+Folds: Ru
+Folds: Meehi
+Pot size: 30
+Wins: No, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Meehi
+Small Blind: No, chips: 10
+Big Blind: Ru, chips: 20
+Calls: Meehi
+Folds: No
+Checks: Ru
+Flop: Kd 3c 9h
+Checks: Ru
+Checks: Meehi
+Turn: 2h
+Checks: Ru
+Checks: Meehi
+River: 4h
+Checks: Ru
+Checks: Meehi
+Pot size: 50
+Showdown Reached
+Shows: Ru, Js Qs
+Combination: Ru, High Card ( Kd Qs Js 9h 4h )
+Shows: Meehi, 5s 4d
+Combination: Meehi, Pair ( 4d 4h Kd 9h 5s )
+Wins: Meehi, chips: 50
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: No
+Small Blind: Ru, chips: 10
+Big Blind: Meehi, chips: 20
+Folds: No
+Raises: Ru, chips: 30
+Folds: Meehi
+Pot size: 70
+Wins: Ru, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ru
+Small Blind: Meehi, chips: 10
+Big Blind: No, chips: 20
+Calls: Ru
+Folds: Meehi
+Checks: No
+Flop: 5s Qs 3s
+Checks: No
+Checks: Ru
+Turn: 6d
+Checks: No
+Checks: Ru
+River: Js
+Checks: No
+Checks: Ru
+Pot size: 50
+Showdown Reached
+Shows: No, Qd 7h
+Combination: No, Pair ( Qd Qs Js 7h 6d )
+Shows: Ru, 9s 9c
+Combination: Ru, Flush ( Qs Js 9s 5s 3s )
+Wins: Ru, chips: 50
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Meehi
+Small Blind: No, chips: 10
+Big Blind: Ru, chips: 20
+Folds: Meehi
+Raises: No, chips: 30
+Folds: Ru
+Pot size: 70
+Wins: No, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: No
+Small Blind: Ru, chips: 10
+Big Blind: Meehi, chips: 20
+Folds: No
+Folds: Ru
+Pot size: 30
+Wins: Meehi, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ru
+Small Blind: Meehi, chips: 10
+Big Blind: No, chips: 20
+Folds: Ru
+Calls: Meehi
+Checks: No
+Flop: Jc 3d Th
+Checks: Meehi
+Checks: No
+Turn: Td
+Checks: Meehi
+Checks: No
+River: Ah
+Checks: Meehi
+Checks: No
+Pot size: 40
+Showdown Reached
+Shows: No, 9h Jd
+Combination: No, Two Pair ( Jd Jc Th Td Ah )
+Shows: Meehi, 8h 5h
+Combination: Meehi, Pair ( Th Td Ah Jc 8h )
+Wins: No, chips: 40
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Meehi
+Small Blind: No, chips: 10
+Big Blind: Ru, chips: 20
+Folds: Meehi
+Folds: No
+Pot size: 30
+Wins: Ru, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: No
+Small Blind: Ru, chips: 10
+Big Blind: Meehi, chips: 20
+Folds: No
+Calls: Ru
+Checks: Meehi
+Flop: 9h 7s 4c
+Checks: Ru
+Checks: Meehi
+Turn: 8s
+Checks: Ru
+Checks: Meehi
+River: 3h
+Checks: Ru
+Checks: Meehi
+Pot size: 40
+Showdown Reached
+Shows: Ru, Ks 5s
+Combination: Ru, High Card ( Ks 9h 8s 7s 5s )
+Shows: Meehi, Qh 6c
+Combination: Meehi, High Card ( Qh 9h 8s 7s 6c )
+Wins: Ru, chips: 40
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ru
+Small Blind: Meehi, chips: 10
+Big Blind: No, chips: 20
+Folds: Ru
+Folds: Meehi
+Pot size: 30
+Wins: No, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Meehi
+Small Blind: No, chips: 10
+Big Blind: Ru, chips: 20
+Raises: Meehi, chips: 20
+Folds: No
+Folds: Ru
+Pot size: 70
+Wins: Meehi, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: No
+Small Blind: Ru, chips: 10
+Big Blind: Meehi, chips: 20
+Folds: No
+Folds: Ru
+Pot size: 30
+Wins: Meehi, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ru
+Small Blind: Meehi, chips: 10
+Big Blind: No, chips: 20
+Raises: Ru, chips: 40
+Folds: Meehi
+Folds: No
+Pot size: 90
+Wins: Ru, chips: 90
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Meehi
+Small Blind: No, chips: 10
+Big Blind: Ru, chips: 20
+Folds: Meehi
+Folds: No
+Pot size: 30
+Wins: Ru, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: No
+Small Blind: Ru, chips: 10
+Big Blind: Meehi, chips: 20
+Calls: No
+Folds: Ru
+Checks: Meehi
+Flop: Jc Kh 6d
+Checks: Meehi
+Checks: No
+Turn: Td
+Checks: Meehi
+Checks: No
+River: 7c
+Checks: Meehi
+Checks: No
+Pot size: 50
+Showdown Reached
+Shows: No, 5h 7h
+Combination: No, Pair ( 7h 7c Kh Jc Td )
+Shows: Meehi, Ad 9d
+Combination: Meehi, High Card ( Ad Kh Jc Td 9d )
+Wins: No, chips: 50
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ru
+Small Blind: Meehi, chips: 10
+Big Blind: No, chips: 20
+Folds: Ru
+Folds: Meehi
+Pot size: 30
+Wins: No, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Meehi
+Small Blind: No, chips: 10
+Big Blind: Ru, chips: 20
+Folds: Meehi
+Folds: No
+Pot size: 30
+Wins: Ru, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: No
+Small Blind: Ru, chips: 10
+Big Blind: Meehi, chips: 20
+Folds: No
+Folds: Ru
+Pot size: 30
+Wins: Meehi, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ru
+Small Blind: Meehi, chips: 10
+Big Blind: No, chips: 20
+Folds: Ru
+Calls: Meehi
+Checks: No
+Flop: 6h 3d 2s
+Checks: Meehi
+Checks: No
+Turn: Jh
+Raises: Meehi, chips: 20
+Folds: No
+Pot size: 60
+Wins: Meehi, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Meehi
+Small Blind: No, chips: 10
+Big Blind: Ru, chips: 20
+Folds: Meehi
+Folds: No
+Pot size: 30
+Wins: Ru, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: No
+Small Blind: Ru, chips: 10
+Big Blind: Meehi, chips: 20
+Folds: No
+Folds: Ru
+Pot size: 30
+Wins: Meehi, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ru
+Small Blind: Meehi, chips: 10
+Big Blind: No, chips: 20
+Calls: Ru
+Raises: Meehi, chips: 30
+Folds: No
+Folds: Ru
+Pot size: 90
+Wins: Meehi, chips: 90
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Meehi
+Small Blind: No, chips: 10
+Big Blind: Ru, chips: 20
+Folds: Meehi
+Folds: No
+Pot size: 30
+Wins: Ru, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: No
+Small Blind: Ru, chips: 10
+Big Blind: Meehi, chips: 20
+Folds: No
+Folds: Ru
+Pot size: 30
+Wins: Meehi, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ru
+Small Blind: Meehi, chips: 10
+Big Blind: No, chips: 20
+Folds: Ru
+Calls: Meehi
+Checks: No
+Flop: 4h Kd 2h
+Checks: Meehi
+Checks: No
+Turn: Ts
+Raises: Meehi, chips: 20
+Raises: No, chips: 40
+Calls: Meehi
+River: 6h
+Raises: Meehi, chips: 60
+Calls: No
+Pot size: 280
+Showdown Reached
+Shows: No, 2c 8s
+Combination: No, Pair ( 2c 2h Kd Ts 8s )
+Shows: Meehi, 8h Kh
+Combination: Meehi, Flush ( Kh 8h 6h 4h 2h )
+Wins: Meehi, chips: 280
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Meehi
+Small Blind: No, chips: 10
+Big Blind: Ru, chips: 20
+Raises: Meehi, chips: 40
+Calls: No
+Folds: Ru
+Flop: Tc 8s 6s
+Raises: No, chips: 60
+Raises: Meehi, chips: 80
+Calls: No
+Turn: 2s
+Checks: No
+Checks: Meehi
+River: 5d
+Checks: No
+Checks: Meehi
+Pot size: 420
+Showdown Reached
+Shows: No, Jh Jc
+Combination: No, Pair ( Jh Jc Tc 8s 6s )
+Shows: Meehi, Qh Ad
+Combination: Meehi, High Card ( Ad Qh Tc 8s 6s )
+Wins: No, chips: 420
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: No
+Small Blind: Ru, chips: 10
+Big Blind: Meehi, chips: 20
+Folds: No
+Calls: Ru
+Checks: Meehi
+Flop: Qs 5h 7d
+Checks: Ru
+Checks: Meehi
+Turn: Ad
+Raises: Ru, chips: 20
+Folds: Meehi
+Pot size: 60
+Wins: Ru, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ru
+Small Blind: Meehi, chips: 10
+Big Blind: No, chips: 20
+Calls: Ru
+Folds: Meehi
+Checks: No
+Flop: Ac 6c Kh
+Checks: No
+Checks: Ru
+Turn: Td
+Raises: No, chips: 5900
+Folds: Ru
+Pot size: 5950
+Wins: No, chips: 5950
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Meehi
+Small Blind: No, chips: 10
+Big Blind: Ru, chips: 20
+Raises: Meehi, chips: 20
+Folds: No
+Calls: Ru
+Flop: Qc 9d 7s
+Checks: Ru
+Checks: Meehi
+Turn: 7c
+Checks: Ru
+Checks: Meehi
+River: 8d
+Checks: Ru
+Checks: Meehi
+Pot size: 90
+Showdown Reached
+Shows: Ru, 4h Ah
+Combination: Ru, Pair ( 7s 7c Ah Qc 9d )
+Shows: Meehi, As Ks
+Combination: Meehi, Pair ( 7s 7c As Ks Qc )
+Wins: Meehi, chips: 90
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: No
+Small Blind: Ru, chips: 10
+Big Blind: Meehi, chips: 20
+Folds: No
+Folds: Ru
+Pot size: 30
+Wins: Meehi, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ru
+Small Blind: Meehi, chips: 10
+Big Blind: No, chips: 20
+Calls: Ru
+Calls: Meehi
+Checks: No
+Flop: 4d As Qh
+Raises: Meehi, chips: 20
+Folds: No
+Folds: Ru
+Pot size: 80
+Wins: Meehi, chips: 80
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Meehi
+Small Blind: No, chips: 10
+Big Blind: Ru, chips: 20
+Raises: Meehi, chips: 2120
+Folds: No
+Calls: Ru
+Flop: 3h 7c 8s
+Turn: 8d
+River: 7d
+Pot size: 3090
+Showdown Reached
+Shows: Ru, Qd Ad
+Combination: Ru, Two Pair ( 8s 8d 7c 7d Ad )
+Shows: Meehi, Qc Kc
+Combination: Meehi, Two Pair ( 8s 8d 7c 7d Kc )
+Wins: Ru, chips: 1890
+Wins: Meehi, chips: 1200
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: No
+Small Blind: Ru, chips: 10
+Big Blind: Meehi, chips: 20
+Folds: No
+Folds: Ru
+Pot size: 30
+Wins: Meehi, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ru
+Small Blind: Meehi, chips: 10
+Big Blind: No, chips: 20
+Calls: Ru
+Calls: Meehi
+Checks: No
+Flop: 9h Kh 8c
+Checks: Meehi
+Checks: No
+Checks: Ru
+Turn: Qh
+Checks: Meehi
+Checks: No
+Checks: Ru
+River: 6d
+Checks: Meehi
+Checks: No
+Raises: Ru, chips: 1860
+Folds: Meehi
+Calls: No
+Pot size: 3780
+Showdown Reached
+Shows: No, 9c 3s
+Combination: No, Pair ( 9c 9h Kh Qh 8c )
+Shows: Ru, Ts 7s
+Combination: Ru, Straight ( Ts 9h 8c 7s 6d )
+Wins: Ru, chips: 3780
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Meehi
+Small Blind: No, chips: 10
+Big Blind: Ru, chips: 20
+Raises: Meehi, chips: 40
+Folds: No
+Folds: Ru
+Pot size: 90
+Wins: Meehi, chips: 90
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: No
+Small Blind: Ru, chips: 10
+Big Blind: Meehi, chips: 20
+Calls: No
+Folds: Ru
+Checks: Meehi
+Flop: Kc Jh 5s
+Checks: Meehi
+Checks: No
+Turn: 3c
+Checks: Meehi
+Checks: No
+River: 3d
+Raises: Meehi, chips: 20
+Folds: No
+Pot size: 70
+Wins: Meehi, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ru
+Small Blind: Meehi, chips: 10
+Big Blind: No, chips: 20
+Raises: Ru, chips: 20
+Folds: Meehi
+Folds: No
+Pot size: 70
+Wins: Ru, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Meehi
+Small Blind: No, chips: 10
+Big Blind: Ru, chips: 20
+Calls: Meehi
+Folds: No
+Raises: Ru, chips: 20
+Folds: Meehi
+Pot size: 70
+Wins: Ru, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: No
+Small Blind: Ru, chips: 10
+Big Blind: Meehi, chips: 20
+Folds: No
+Calls: Ru
+Checks: Meehi
+Flop: 8s 5s Qh
+Raises: Ru, chips: 20
+Folds: Meehi
+Pot size: 60
+Wins: Ru, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ru
+Small Blind: Meehi, chips: 10
+Big Blind: No, chips: 20
+Calls: Ru
+Folds: Meehi
+Checks: No
+Flop: Qc 3c 4s
+Checks: No
+Checks: Ru
+Turn: 8h
+Checks: No
+Checks: Ru
+River: Ad
+Checks: No
+Raises: Ru, chips: 20
+Folds: No
+Pot size: 70
+Wins: Ru, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Meehi
+Small Blind: No, chips: 10
+Big Blind: Ru, chips: 20
+Folds: Meehi
+Calls: No
+Raises: Ru, chips: 20
+Calls: No
+Flop: 3h Kh 4h
+Checks: No
+Checks: Ru
+Turn: 9h
+Checks: No
+Checks: Ru
+River: As
+Checks: No
+Checks: Ru
+Pot size: 80
+Showdown Reached
+Shows: No, Qd Jc
+Combination: No, High Card ( As Kh Qd Jc 9h )
+Shows: Ru, Ts Jd
+Combination: Ru, High Card ( As Kh Jd Ts 9h )
+Wins: No, chips: 80
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: No
+Small Blind: Ru, chips: 10
+Big Blind: Meehi, chips: 20
+Calls: No
+Raises: Ru, chips: 30
+Calls: Meehi
+Raises: No, chips: 70
+Calls: Ru
+Folds: Meehi
+Flop: Js 7c 5h
+Raises: Ru, chips: 3700
+Folds: No
+Pot size: 3990
+Wins: Ru, chips: 3990
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ru
+Small Blind: Meehi, chips: 10
+Big Blind: No, chips: 20
+Folds: Ru
+Folds: Meehi
+Pot size: 30
+Wins: No, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Meehi
+Small Blind: No, chips: 10
+Big Blind: Ru, chips: 20
+Folds: Meehi
+Folds: No
+Pot size: 30
+Wins: Ru, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: No
+Small Blind: Ru, chips: 10
+Big Blind: Meehi, chips: 20
+Folds: No
+Folds: Ru
+Pot size: 30
+Wins: Meehi, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ru
+Small Blind: Meehi, chips: 10
+Big Blind: No, chips: 20
+Folds: Ru
+Folds: Meehi
+Pot size: 30
+Wins: No, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Meehi
+Small Blind: No, chips: 10
+Big Blind: Ru, chips: 20
+Calls: Meehi
+Calls: No
+Checks: Ru
+Flop: 2c Td Ah
+Checks: No
+Checks: Ru
+Checks: Meehi
+Turn: Kh
+Checks: No
+Checks: Ru
+Checks: Meehi
+River: Th
+Raises: No, chips: 3860
+Folds: Ru
+Folds: Meehi
+Pot size: 3920
+Wins: No, chips: 3920
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: No
+Small Blind: Ru, chips: 10
+Big Blind: Meehi, chips: 20
+Folds: No
+Calls: Ru
+Checks: Meehi
+Flop: 3d 3c 5d
+Checks: Ru
+Checks: Meehi
+Turn: 9s
+Checks: Ru
+Checks: Meehi
+River: 4h
+Checks: Ru
+Checks: Meehi
+Pot size: 40
+Showdown Reached
+Shows: Ru, Ts 9d
+Combination: Ru, Two Pair ( 9d 9s 3d 3c Ts )
+Shows: Meehi, Ac 7c
+Combination: Meehi, Pair ( 3d 3c Ac 9s 7c )
+Wins: Ru, chips: 40
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ru
+Small Blind: Meehi, chips: 10
+Big Blind: No, chips: 20
+Folds: Ru
+Folds: Meehi
+Pot size: 30
+Wins: No, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Meehi
+Small Blind: No, chips: 10
+Big Blind: Ru, chips: 20
+Folds: Meehi
+Folds: No
+Pot size: 30
+Wins: Ru, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: No
+Small Blind: Ru, chips: 10
+Big Blind: Meehi, chips: 20
+Raises: No, chips: 40
+Folds: Ru
+Calls: Meehi
+Flop: 3d 7h Js
+Raises: Meehi, chips: 40
+Raises: No, chips: 3820
+Calls: Meehi
+Turn: 6d
+River: 4h
+Pot size: 5010
+Showdown Reached
+Shows: No, Qd Qh
+Combination: No, Pair ( Qd Qh Js 7h 6d )
+Shows: Meehi, Jc Qc
+Combination: Meehi, Pair ( Jc Js Qc 7h 6d )
+Wins: No, chips: 5010
+Quits: Meehi, chips: 0
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ru
+Small Blind: Ru, chips: 10
+Big Blind: No, chips: 20
+Calls: Ru
+Checks: No
+Flop: Kd 4h Qc
+Checks: No
+Checks: Ru
+Turn: 7h
+Checks: No
+Checks: Ru
+River: 9c
+Checks: No
+Checks: Ru
+Pot size: 40
+Showdown Reached
+Shows: No, 3s Ad
+Combination: No, High Card ( Ad Kd Qc 9c 7h )
+Shows: Ru, 8c 7s
+Combination: Ru, Pair ( 7s 7h Kd Qc 9c )
+Wins: Ru, chips: 40
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: No
+Small Blind: No, chips: 10
+Big Blind: Ru, chips: 20
+Folds: No
+Pot size: 30
+Wins: Ru, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ru
+Small Blind: Ru, chips: 10
+Big Blind: No, chips: 20
+Calls: Ru
+Checks: No
+Flop: Qs 7s 2s
+Checks: No
+Checks: Ru
+Turn: Jd
+Checks: No
+Raises: Ru, chips: 20
+Calls: No
+River: 8s
+Checks: No
+Checks: Ru
+Pot size: 80
+Showdown Reached
+Shows: No, 4c 2d
+Combination: No, Pair ( 2d 2s Qs Jd 8s )
+Shows: Ru, Kd Qd
+Combination: Ru, Pair ( Qd Qs Kd Jd 8s )
+Wins: Ru, chips: 80
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: No
+Small Blind: No, chips: 10
+Big Blind: Ru, chips: 20
+Calls: No
+Checks: Ru
+Flop: 2h 7h 9d
+Checks: Ru
+Raises: No, chips: 20
+Folds: Ru
+Pot size: 60
+Wins: No, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ru
+Small Blind: Ru, chips: 10
+Big Blind: No, chips: 20
+Calls: Ru
+Checks: No
+Flop: Js 6h Td
+Checks: No
+Checks: Ru
+Turn: 5c
+Raises: No, chips: 4940
+Calls: Ru
+River: Kh
+Pot size: 9000
+Showdown Reached
+Shows: No, Tc 5s
+Combination: No, Two Pair ( Tc Td 5s 5c Kh )
+Shows: Ru, 8c Jd
+Combination: Ru, Pair ( Jd Js Kh Td 8c )
+Wins: No, chips: 9000
+Quits: Ru, chips: 0
+Ranking: No, Place: 1, Score: 8000
+Reveal AI: No, AI: Smart
+Ranking: Ru, Place: 2, Score: -1000
+Reveal AI: Ru, AI: Smart
+Ranking: Meehi, Place: 3, Score: -1000
+Reveal AI: Meehi, AI: Smart
+Ranking: Wefotoep, Place: 4, Score: -1000
+Reveal AI: Wefotoep, AI: Human
+Ranking: Suwrowro, Place: 5, Score: -1000
+Reveal AI: Suwrowro, AI: Random
+Ranking: Ruge, Place: 6, Score: -1000
+Reveal AI: Ruge, AI: Smart
+Ranking: Bu, Place: 7, Score: -1000
+Reveal AI: Bu, AI: Random
+Ranking: Voelap, Place: 8, Score: -1000
+Reveal AI: Voelap, AI: Call
+Ranking: Jobe, Place: 9, Score: -1000
+Reveal AI: Jobe, AI: Call
+
+Player Stats for Bu, AI: Random
+General: deals: 3, actions: 8, preflop actions: 5
+Rounds Seen: flops: 69, turns: 57, rivers: 47, showdowns: 40
+Wins: total: 1, showdown: 1, bluff: 0
+Chips: won: 420, lost: 1760, bought: 1000, forced bets: 0
+Pre-Flop Stats: VP$IP: 0.666667, PFR: 0.333333, 3Bet: 0.333333
+Post-Flop Stats: AF: 0, WSD: 0.57971, WSDW: 0.025
+
+
+Player Stats for Jobe, AI: Call
+General: deals: 2, actions: 9, preflop actions: 2
+Rounds Seen: flops: 70, turns: 58, rivers: 48, showdowns: 41
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1100, bought: 1000, forced bets: 0
+Pre-Flop Stats: VP$IP: 1, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: 0, WSD: 0.585714, WSDW: 0
+
+
+Player Stats for Meehi, AI: Smart
+General: deals: 127, actions: 227, preflop actions: 113
+Rounds Seen: flops: 46, turns: 41, rivers: 36, showdowns: 30
+Wins: total: 46, showdown: 14, bluff: 32
+Chips: won: 14000, lost: 17840, bought: 1000, forced bets: 1170
+Pre-Flop Stats: VP$IP: 0.322835, PFR: 0.0708661, 3Bet: 0.0629921
+Post-Flop Stats: AF: 3.33333, WSD: 0.652174, WSDW: 0.466667
+
+
+Player Stats for No, AI: Smart
+General: deals: 132, actions: 255, preflop actions: 128
+Rounds Seen: flops: 48, turns: 40, rivers: 36, showdowns: 29
+Wins: total: 39, showdown: 14, bluff: 25
+Chips: won: 47990, lost: 40270, bought: 1000, forced bets: 1280
+Pre-Flop Stats: VP$IP: 0.234848, PFR: 0.0681818, 3Bet: 0.0606061
+Post-Flop Stats: AF: 1.23529, WSD: 0.604167, WSDW: 0.482759
+
+
+Player Stats for Ru, AI: Smart
+General: deals: 132, actions: 228, preflop actions: 132
+Rounds Seen: flops: 43, turns: 30, rivers: 23, showdowns: 20
+Wins: total: 38, showdown: 13, bluff: 25
+Chips: won: 16720, lost: 19840, bought: 1000, forced bets: 1260
+Pre-Flop Stats: VP$IP: 0.318182, PFR: 0.113636, 3Bet: 0.0757576
+Post-Flop Stats: AF: 5.33333, WSD: 0.465116, WSDW: 0.65
+
+
+Player Stats for Ruge, AI: Smart
+General: deals: 3, actions: 5, preflop actions: 5
+Rounds Seen: flops: 68, turns: 56, rivers: 46, showdowns: 39
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1690, bought: 1000, forced bets: 30
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.333333, 3Bet: 0.333333
+Post-Flop Stats: AF: -1.#IND, WSD: 0.573529, WSDW: 0
+
+
+Player Stats for Suwrowro, AI: Random
+General: deals: 8, actions: 23, preflop actions: 10
+Rounds Seen: flops: 69, turns: 55, rivers: 45, showdowns: 38
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1400, bought: 1000, forced bets: 30
+Pre-Flop Stats: VP$IP: 0.875, PFR: 0.375, 3Bet: 0.375
+Post-Flop Stats: AF: 1.#INF, WSD: 0.550725, WSDW: 0
+
+
+Player Stats for Voelap, AI: Call
+General: deals: 2, actions: 10, preflop actions: 2
+Rounds Seen: flops: 70, turns: 58, rivers: 48, showdowns: 41
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1100, bought: 1000, forced bets: 10
+Pre-Flop Stats: VP$IP: 1, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: 0, WSD: 0.585714, WSDW: 0
+
+
+Player Stats for Wefotoep, AI: Human
+General: deals: 25, actions: 55, preflop actions: 29
+Rounds Seen: flops: 65, turns: 53, rivers: 43, showdowns: 37
+Wins: total: 12, showdown: 3, bluff: 9
+Chips: won: 12470, lost: 13820, bought: 1000, forced bets: 180
+Pre-Flop Stats: VP$IP: 0.64, PFR: 0.44, 3Bet: 0.4
+Post-Flop Stats: AF: 5.66667, WSD: 0.569231, WSDW: 0.0810811
+
+
+Date: 2026/04/30 09:51:32
+
+The game begins. The AI's of the players are: 
+No: Smart
+Wefotoep: Human
+Ru: Smart
+Suwrowro: Random
+Jobe: Call
+Meehi: Smart
+Bu: Random
+Voelap: Call
+Ruge: Smart
+
+Joins: No, chips: 1000
+Joins: Wefotoep, chips: 1000
+Joins: Ru, chips: 1000
+Joins: Suwrowro, chips: 1000
+Joins: Jobe, chips: 1000
+Joins: Meehi, chips: 1000
+Joins: Bu, chips: 1000
+Joins: Voelap, chips: 1000
+Joins: Ruge, chips: 1000
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Bu
+Small Blind: Voelap, chips: 10
+Big Blind: Ruge, chips: 20
+Folds: No
+Folds: Wefotoep
+Folds: Ru
+Raises: Suwrowro, chips: 40
+Calls: Jobe
+Folds: Meehi
+Calls: Bu
+Calls: Voelap
+Folds: Ruge
+Flop: 3c Qh Ac
+Checks: Voelap
+Checks: Suwrowro
+Checks: Jobe
+Checks: Bu
+Turn: 3h
+Checks: Voelap
+Raises: Suwrowro, chips: 40
+Calls: Jobe
+Calls: Bu
+Calls: Voelap
+River: 6s
+Checks: Voelap
+Checks: Suwrowro
+Checks: Jobe
+Checks: Bu
+Pot size: 420
+Showdown Reached
+Shows: Suwrowro, Ts Tc
+Combination: Suwrowro, Two Pair ( Ts Tc 3c 3h Ac )
+Shows: Jobe, 5c 7c
+Combination: Jobe, Pair ( 3c 3h Ac Qh 7c )
+Shows: Bu, 2c As
+Combination: Bu, Two Pair ( As Ac 3c 3h Qh )
+Shows: Voelap, 2s 8c
+Combination: Voelap, Pair ( 3c 3h Ac Qh 8c )
+Wins: Bu, chips: 420
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Voelap
+Small Blind: Ruge, chips: 10
+Big Blind: No, chips: 20
+Folds: Wefotoep
+Raises: Ru, chips: 40
+Calls: Suwrowro
+Calls: Jobe
+Folds: Meehi
+Folds: Bu
+Calls: Voelap
+Folds: Ruge
+Folds: No
+Flop: Ts 4c 2h
+Checks: Ru
+Raises: Suwrowro, chips: 40
+Calls: Jobe
+Calls: Voelap
+Raises: Ru, chips: 80
+Folds: Suwrowro
+Calls: Jobe
+Calls: Voelap
+Turn: Jd
+Raises: Ru, chips: 100
+Calls: Jobe
+Calls: Voelap
+River: Kc
+Raises: Ru, chips: 720
+Calls: Jobe
+Calls: Voelap
+Pot size: 2930
+Showdown Reached
+Shows: Ru, Js Tc
+Combination: Ru, Two Pair ( Js Jd Tc Ts Kc )
+Boasts: Suwrowro, Kh 3s
+Shows: Jobe, 9h 7d
+Combination: Jobe, High Card ( Kc Jd Ts 9h 7d )
+Shows: Voelap, Kd 8c
+Combination: Voelap, Pair ( Kd Kc Jd Ts 8c )
+Wins: Ru, chips: 2930
+Quits: Jobe, chips: 0
+Quits: Voelap, chips: 0
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ruge
+Small Blind: No, chips: 10
+Big Blind: Wefotoep, chips: 20
+Raises: Ru, chips: 40
+Folds: Suwrowro
+Folds: Meehi
+Raises: Bu, chips: 100
+Raises: Ruge, chips: 220
+Folds: No
+Calls: Wefotoep
+Calls: Ru
+Raises: Bu, chips: 440
+Calls: Ruge
+Raises: Wefotoep, chips: 180
+Raises: Ru, chips: 660
+Calls: Bu
+Calls: Ruge
+Flop: Kc 4h 5h
+Turn: 3h
+River: Qd
+Pot size: 4960
+Showdown Reached
+Shows: Wefotoep, Kh 7d
+Combination: Wefotoep, Pair ( Kh Kc Qd 7d 5h )
+Shows: Ru, Jd Ah
+Combination: Ru, High Card ( Ah Kc Qd Jd 5h )
+Shows: Bu, 9c 8h
+Combination: Bu, High Card ( Kc Qd 9c 8h 5h )
+Shows: Ruge, Jc Ad
+Combination: Ruge, High Card ( Ad Kc Qd Jc 5h )
+Wins: Wefotoep, chips: 3980
+Wins: Ru, chips: 980
+Quits: Bu, chips: 0
+Quits: Ruge, chips: 0
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: No
+Small Blind: Wefotoep, chips: 10
+Big Blind: Ru, chips: 20
+Raises: Suwrowro, chips: 40
+Folds: Meehi
+Folds: No
+Calls: Wefotoep
+Folds: Ru
+Flop: Jd 6c As
+Raises: Wefotoep, chips: 80
+Raises: Suwrowro, chips: 160
+Calls: Wefotoep
+Turn: 6h
+Raises: Wefotoep, chips: 160
+Folds: Suwrowro
+Pot size: 780
+Wins: Wefotoep, chips: 780
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Wefotoep
+Small Blind: Ru, chips: 10
+Big Blind: Suwrowro, chips: 20
+Raises: Meehi, chips: 20
+Folds: No
+Calls: Wefotoep
+Folds: Ru
+Calls: Suwrowro
+Flop: 5s Th Qd
+Raises: Suwrowro, chips: 20
+Calls: Meehi
+Calls: Wefotoep
+Turn: 6c
+Checks: Suwrowro
+Checks: Meehi
+Checks: Wefotoep
+River: Kd
+Checks: Suwrowro
+Checks: Meehi
+Checks: Wefotoep
+Pot size: 190
+Showdown Reached
+Shows: Wefotoep, 9s 8d
+Combination: Wefotoep, High Card ( Kd Qd Th 9s 8d )
+Shows: Suwrowro, 6d 3d
+Combination: Suwrowro, Pair ( 6d 6c Kd Qd Th )
+Shows: Meehi, Ac Jd
+Combination: Meehi, Straight ( Ac Kd Qd Jd Th )
+Wins: Meehi, chips: 190
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ru
+Small Blind: Suwrowro, chips: 10
+Big Blind: Meehi, chips: 20
+Calls: No
+Raises: Wefotoep, chips: 120
+Folds: Ru
+Calls: Suwrowro
+Folds: Meehi
+Folds: No
+Flop: 8d Td 3c
+Checks: Suwrowro
+Raises: Wefotoep, chips: 360
+Folds: Suwrowro
+Pot size: 680
+Boasts: Suwrowro, 7s 8s
+Wins: Wefotoep, chips: 680
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Suwrowro
+Small Blind: Meehi, chips: 10
+Big Blind: No, chips: 20
+Calls: Wefotoep
+Folds: Ru
+Calls: Suwrowro
+Calls: Meehi
+Checks: No
+Flop: 5d 7d 4h
+Checks: Meehi
+Checks: No
+Raises: Wefotoep, chips: 60
+Folds: Suwrowro
+Folds: Meehi
+Calls: No
+Turn: 8s
+Checks: No
+Raises: Wefotoep, chips: 180
+Calls: No
+River: 3s
+Checks: No
+Raises: Wefotoep, chips: 540
+Calls: No
+Pot size: 1640
+Showdown Reached
+Shows: No, 6h 5s
+Combination: No, Straight ( 8s 7d 6h 5s 4h )
+Shows: Wefotoep, As Kd
+Combination: Wefotoep, High Card ( As Kd 8s 7d 5d )
+Boasts: Suwrowro, Kc 7c
+Wins: No, chips: 1640
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Meehi
+Small Blind: No, chips: 10
+Big Blind: Wefotoep, chips: 20
+Folds: Ru
+Calls: Suwrowro
+Folds: Meehi
+Calls: No
+Raises: Wefotoep, chips: 60
+Raises: Suwrowro, chips: 120
+Folds: No
+Raises: Wefotoep, chips: 480
+Calls: Suwrowro
+Flop: 3d Td 3c
+Turn: 5c
+River: Jd
+Pot size: 980
+Showdown Reached
+Shows: Wefotoep, 7d As
+Combination: Wefotoep, Pair ( 3d 3c As Jd Td )
+Shows: Suwrowro, Qs 9c
+Combination: Suwrowro, Pair ( 3d 3c Qs Jd Td )
+Wins: Wefotoep, chips: 980
+Quits: Suwrowro, chips: 0
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: No
+Small Blind: Wefotoep, chips: 10
+Big Blind: Ru, chips: 20
+Folds: Meehi
+Folds: No
+Raises: Wefotoep, chips: 60
+Calls: Ru
+Flop: 8d 7c 2s
+Raises: Wefotoep, chips: 60
+Calls: Ru
+Turn: As
+Raises: Wefotoep, chips: 180
+Raises: Ru, chips: 280
+Raises: Wefotoep, chips: 1120
+Folds: Ru
+Pot size: 2320
+Wins: Wefotoep, chips: 2320
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Wefotoep
+Small Blind: Ru, chips: 10
+Big Blind: Meehi, chips: 20
+Folds: No
+Folds: Wefotoep
+Folds: Ru
+Pot size: 30
+Wins: Meehi, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ru
+Small Blind: Meehi, chips: 10
+Big Blind: No, chips: 20
+Folds: Wefotoep
+Folds: Ru
+Calls: Meehi
+Checks: No
+Flop: 6h 3s Ts
+Checks: Meehi
+Checks: No
+Turn: Qd
+Checks: Meehi
+Raises: No, chips: 20
+Calls: Meehi
+River: 7d
+Checks: Meehi
+Checks: No
+Pot size: 80
+Showdown Reached
+Shows: No, Ks 3h
+Combination: No, Pair ( 3h 3s Ks Qd Ts )
+Shows: Meehi, Kc Js
+Combination: Meehi, High Card ( Kc Qd Js Ts 7d )
+Wins: No, chips: 80
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Meehi
+Small Blind: No, chips: 10
+Big Blind: Wefotoep, chips: 20
+Calls: Ru
+Folds: Meehi
+Folds: No
+Raises: Wefotoep, chips: 60
+Calls: Ru
+Flop: Kh 4h 9h
+Raises: Wefotoep, chips: 120
+Raises: Ru, chips: 280
+Raises: Wefotoep, chips: 560
+Folds: Ru
+Pot size: 1530
+Wins: Wefotoep, chips: 1530
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: No
+Small Blind: Wefotoep, chips: 10
+Big Blind: Ru, chips: 20
+Folds: Meehi
+Calls: No
+Raises: Wefotoep, chips: 90
+Folds: Ru
+Folds: No
+Pot size: 150
+Wins: Wefotoep, chips: 150
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Wefotoep
+Small Blind: Ru, chips: 10
+Big Blind: Meehi, chips: 20
+Calls: No
+Calls: Wefotoep
+Folds: Ru
+Checks: Meehi
+Flop: 9s Qs 8d
+Checks: Meehi
+Checks: No
+Checks: Wefotoep
+Turn: 6s
+Checks: Meehi
+Checks: No
+Checks: Wefotoep
+River: Jh
+Checks: Meehi
+Checks: No
+Checks: Wefotoep
+Pot size: 70
+Showdown Reached
+Shows: No, Qh Td
+Combination: No, Straight ( Qh Jh Td 9s 8d )
+Shows: Wefotoep, 4c 7c
+Combination: Wefotoep, High Card ( Qs Jh 9s 8d 7c )
+Shows: Meehi, 4s 5h
+Combination: Meehi, High Card ( Qs Jh 9s 8d 6s )
+Wins: No, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ru
+Small Blind: Meehi, chips: 10
+Big Blind: No, chips: 20
+Folds: Wefotoep
+Folds: Ru
+Calls: Meehi
+Checks: No
+Flop: 6s 6d Ac
+Checks: Meehi
+Checks: No
+Turn: 5h
+Checks: Meehi
+Checks: No
+River: Jh
+Raises: Meehi, chips: 20
+Folds: No
+Pot size: 60
+Wins: Meehi, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Meehi
+Small Blind: No, chips: 10
+Big Blind: Wefotoep, chips: 20
+Raises: Ru, chips: 20
+Calls: Meehi
+Folds: No
+Raises: Wefotoep, chips: 120
+Folds: Ru
+Folds: Meehi
+Pot size: 250
+Wins: Wefotoep, chips: 250
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: No
+Small Blind: Wefotoep, chips: 10
+Big Blind: Ru, chips: 20
+Folds: Meehi
+Raises: No, chips: 20
+Calls: Wefotoep
+Folds: Ru
+Flop: 5s Qd 7s
+Raises: Wefotoep, chips: 20
+Raises: No, chips: 40
+Raises: Wefotoep, chips: 160
+Raises: No, chips: 260
+Raises: Wefotoep, chips: 1560
+Calls: No
+Turn: 4s
+River: 8s
+Pot size: 3900
+Showdown Reached
+Shows: No, Ks Qc
+Combination: No, Flush ( Ks 8s 7s 5s 4s )
+Shows: Wefotoep, Tc 7c
+Combination: Wefotoep, Pair ( 7c 7s Qd Tc 8s )
+Wins: No, chips: 3620
+Wins: Wefotoep, chips: 280
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Wefotoep
+Small Blind: Ru, chips: 10
+Big Blind: Meehi, chips: 20
+Folds: No
+Folds: Wefotoep
+Folds: Ru
+Pot size: 30
+Wins: Meehi, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ru
+Small Blind: Meehi, chips: 10
+Big Blind: No, chips: 20
+Folds: Wefotoep
+Calls: Ru
+Calls: Meehi
+Checks: No
+Flop: 2h Js 6c
+Raises: Meehi, chips: 1010
+Raises: No, chips: 790
+Folds: Ru
+Turn: Td
+River: Qs
+Pot size: 2870
+Showdown Reached
+Shows: No, 6d 7c
+Combination: No, Pair ( 6d 6c Qs Js Td )
+Shows: Meehi, 2c 2s
+Combination: Meehi, Three Of A Kind ( 2c 2s 2h Qs Js )
+Wins: No, chips: 790
+Wins: Meehi, chips: 2080
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Meehi
+Small Blind: No, chips: 10
+Big Blind: Wefotoep, chips: 20
+Calls: Ru
+Folds: Meehi
+Folds: No
+Raises: Wefotoep, chips: 60
+Raises: Ru, chips: 60
+Raises: Wefotoep, chips: 240
+Calls: Ru
+Flop: 3d 6h Kd
+Raises: Wefotoep, chips: 480
+Folds: Ru
+Pot size: 1250
+Wins: Wefotoep, chips: 1250
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: No
+Small Blind: Wefotoep, chips: 10
+Big Blind: Ru, chips: 20
+Folds: Meehi
+Calls: No
+Raises: Wefotoep, chips: 30
+Calls: Ru
+Calls: No
+Flop: 7h Ac As
+Raises: Wefotoep, chips: 90
+Calls: Ru
+Raises: No, chips: 190
+Calls: Wefotoep
+Folds: Ru
+Turn: Qh
+Raises: Wefotoep, chips: 380
+Raises: No, chips: 1870
+Folds: Wefotoep
+Pot size: 3430
+Wins: No, chips: 3430
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Wefotoep
+Small Blind: Ru, chips: 10
+Big Blind: Meehi, chips: 20
+Folds: No
+Calls: Wefotoep
+Raises: Ru, chips: 30
+Folds: Meehi
+Raises: Wefotoep, chips: 120
+Folds: Ru
+Pot size: 240
+Wins: Wefotoep, chips: 240
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ru
+Small Blind: Meehi, chips: 10
+Big Blind: No, chips: 20
+Folds: Wefotoep
+Folds: Ru
+Folds: Meehi
+Pot size: 30
+Wins: No, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Meehi
+Small Blind: No, chips: 10
+Big Blind: Wefotoep, chips: 20
+Folds: Ru
+Folds: Meehi
+Folds: No
+Pot size: 30
+Wins: Wefotoep, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: No
+Small Blind: Wefotoep, chips: 10
+Big Blind: Ru, chips: 20
+Folds: Meehi
+Calls: No
+Raises: Wefotoep, chips: 60
+Folds: Ru
+Raises: No, chips: 3350
+Calls: Wefotoep
+Flop: 8h Ts 8s
+Turn: 8d
+River: Kc
+Pot size: 6530
+Showdown Reached
+Shows: No, Ks Ad
+Combination: No, Full House ( 8h 8s 8d Ks Kc )
+Shows: Wefotoep, 6d Qc
+Combination: Wefotoep, Three Of A Kind ( 8h 8s 8d Kc Qc )
+Wins: No, chips: 6530
+Quits: Wefotoep, chips: 0
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ru
+Small Blind: Meehi, chips: 10
+Big Blind: No, chips: 20
+Folds: Ru
+Calls: Meehi
+Checks: No
+Flop: 4c Td Jc
+Checks: Meehi
+Checks: No
+Turn: 3s
+Raises: Meehi, chips: 20
+Calls: No
+River: 5c
+Checks: Meehi
+Checks: No
+Pot size: 80
+Showdown Reached
+Shows: No, Kc 9h
+Combination: No, High Card ( Kc Jc Td 9h 5c )
+Shows: Meehi, 4h 2h
+Combination: Meehi, Pair ( 4h 4c Jc Td 5c )
+Wins: Meehi, chips: 80
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Meehi
+Small Blind: No, chips: 10
+Big Blind: Ru, chips: 20
+Calls: Meehi
+Folds: No
+Checks: Ru
+Flop: 3d 6s 4h
+Checks: Ru
+Checks: Meehi
+Turn: Jh
+Checks: Ru
+Checks: Meehi
+River: As
+Checks: Ru
+Checks: Meehi
+Pot size: 50
+Showdown Reached
+Shows: Ru, 5c 6c
+Combination: Ru, Pair ( 6c 6s As Jh 5c )
+Shows: Meehi, Kh 5h
+Combination: Meehi, High Card ( As Kh Jh 6s 5h )
+Wins: Ru, chips: 50
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: No
+Small Blind: Ru, chips: 10
+Big Blind: Meehi, chips: 20
+Folds: No
+Folds: Ru
+Pot size: 30
+Wins: Meehi, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ru
+Small Blind: Meehi, chips: 10
+Big Blind: No, chips: 20
+Folds: Ru
+Calls: Meehi
+Checks: No
+Flop: 5d Qc As
+Checks: Meehi
+Checks: No
+Turn: 2d
+Checks: Meehi
+Checks: No
+River: Qh
+Raises: Meehi, chips: 20
+Raises: No, chips: 40
+Calls: Meehi
+Pot size: 160
+Showdown Reached
+Shows: No, Kh 9d
+Combination: No, Pair ( Qc Qh As Kh 9d )
+Shows: Meehi, 6d 6h
+Combination: Meehi, Two Pair ( Qc Qh 6d 6h As )
+Wins: Meehi, chips: 160
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Meehi
+Small Blind: No, chips: 10
+Big Blind: Ru, chips: 20
+Folds: Meehi
+Folds: No
+Pot size: 30
+Wins: Ru, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: No
+Small Blind: Ru, chips: 10
+Big Blind: Meehi, chips: 20
+Folds: No
+Folds: Ru
+Pot size: 30
+Wins: Meehi, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ru
+Small Blind: Meehi, chips: 10
+Big Blind: No, chips: 20
+Folds: Ru
+Calls: Meehi
+Raises: No, chips: 20
+Calls: Meehi
+Flop: 9s 9c 2d
+Raises: Meehi, chips: 20
+Calls: No
+Turn: Qh
+Checks: Meehi
+Checks: No
+River: 4c
+Checks: Meehi
+Checks: No
+Pot size: 120
+Showdown Reached
+Shows: No, Js Ad
+Combination: No, Pair ( 9s 9c Ad Qh Js )
+Shows: Meehi, Ac 5c
+Combination: Meehi, Pair ( 9s 9c Ac Qh 5c )
+Wins: No, chips: 120
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Meehi
+Small Blind: No, chips: 10
+Big Blind: Ru, chips: 20
+Folds: Meehi
+Calls: No
+Checks: Ru
+Flop: Jd 8h Qd
+Checks: No
+Raises: Ru, chips: 20
+Folds: No
+Pot size: 60
+Wins: Ru, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: No
+Small Blind: Ru, chips: 10
+Big Blind: Meehi, chips: 20
+Folds: No
+Folds: Ru
+Pot size: 30
+Wins: Meehi, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ru
+Small Blind: Meehi, chips: 10
+Big Blind: No, chips: 20
+Folds: Ru
+Folds: Meehi
+Pot size: 30
+Wins: No, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Meehi
+Small Blind: No, chips: 10
+Big Blind: Ru, chips: 20
+Raises: Meehi, chips: 2090
+Folds: No
+Folds: Ru
+Pot size: 2140
+Wins: Meehi, chips: 2140
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: No
+Small Blind: Ru, chips: 10
+Big Blind: Meehi, chips: 20
+Folds: No
+Folds: Ru
+Pot size: 30
+Wins: Meehi, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ru
+Small Blind: Meehi, chips: 10
+Big Blind: No, chips: 20
+Raises: Ru, chips: 40
+Folds: Meehi
+Raises: No, chips: 40
+Folds: Ru
+Pot size: 170
+Wins: No, chips: 170
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Meehi
+Small Blind: No, chips: 10
+Big Blind: Ru, chips: 20
+Calls: Meehi
+Calls: No
+Raises: Ru, chips: 340
+Folds: Meehi
+Folds: No
+Pot size: 400
+Wins: Ru, chips: 400
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: No
+Small Blind: Ru, chips: 10
+Big Blind: Meehi, chips: 20
+Folds: No
+Folds: Ru
+Pot size: 30
+Wins: Meehi, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ru
+Small Blind: Meehi, chips: 10
+Big Blind: No, chips: 20
+Folds: Ru
+Calls: Meehi
+Checks: No
+Flop: 8h Jc 4c
+Raises: Meehi, chips: 20
+Calls: No
+Turn: Kh
+Raises: Meehi, chips: 20
+Calls: No
+River: 7c
+Raises: Meehi, chips: 20
+Calls: No
+Pot size: 160
+Showdown Reached
+Shows: No, 5s 8d
+Combination: No, Pair ( 8d 8h Kh Jc 7c )
+Shows: Meehi, Ac 9c
+Combination: Meehi, Flush ( Ac Jc 9c 7c 4c )
+Wins: Meehi, chips: 160
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Meehi
+Small Blind: No, chips: 10
+Big Blind: Ru, chips: 20
+Calls: Meehi
+Calls: No
+Checks: Ru
+Flop: 6h 4s Kd
+Checks: No
+Checks: Ru
+Checks: Meehi
+Turn: 3s
+Checks: No
+Checks: Ru
+Checks: Meehi
+River: 3d
+Checks: No
+Checks: Ru
+Checks: Meehi
+Pot size: 60
+Showdown Reached
+Shows: No, 5h 4h
+Combination: No, Two Pair ( 4h 4s 3s 3d Kd )
+Shows: Ru, Jd As
+Combination: Ru, Pair ( 3s 3d As Kd Jd )
+Shows: Meehi, 9h Ac
+Combination: Meehi, Pair ( 3s 3d Ac Kd 9h )
+Wins: No, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: No
+Small Blind: Ru, chips: 10
+Big Blind: Meehi, chips: 20
+Calls: No
+Folds: Ru
+Checks: Meehi
+Flop: 3d Kc 7s
+Checks: Meehi
+Checks: No
+Turn: 5s
+Checks: Meehi
+Checks: No
+River: 2c
+Checks: Meehi
+Checks: No
+Pot size: 50
+Showdown Reached
+Shows: No, 4h 5c
+Combination: No, Pair ( 5c 5s Kc 7s 4h )
+Shows: Meehi, 7c 6c
+Combination: Meehi, Pair ( 7c 7s Kc 6c 5s )
+Wins: Meehi, chips: 50
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ru
+Small Blind: Meehi, chips: 10
+Big Blind: No, chips: 20
+Folds: Ru
+Folds: Meehi
+Pot size: 30
+Wins: No, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Meehi
+Small Blind: No, chips: 10
+Big Blind: Ru, chips: 20
+Calls: Meehi
+Calls: No
+Checks: Ru
+Flop: Ac 8h Jd
+Checks: No
+Raises: Ru, chips: 340
+Calls: Meehi
+Calls: No
+Turn: Qc
+Checks: No
+Checks: Meehi
+River: 7c
+Checks: No
+Checks: Meehi
+Pot size: 1080
+Showdown Reached
+Shows: No, As Th
+Combination: No, Pair ( As Ac Qc Jd Th )
+Shows: Ru, 8s Ad
+Combination: Ru, Two Pair ( Ad Ac 8s 8h Qc )
+Shows: Meehi, 9s 9h
+Combination: Meehi, Pair ( 9s 9h Ac Qc Jd )
+Wins: Ru, chips: 1080
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: No
+Small Blind: Ru, chips: 10
+Big Blind: Meehi, chips: 20
+Raises: No, chips: 40
+Calls: Ru
+Folds: Meehi
+Flop: 3c Qc 5d
+Checks: Ru
+Raises: No, chips: 6010
+Folds: Ru
+Pot size: 6150
+Wins: No, chips: 6150
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ru
+Small Blind: Meehi, chips: 10
+Big Blind: No, chips: 20
+Calls: Ru
+Folds: Meehi
+Checks: No
+Flop: 7c 5h Td
+Raises: No, chips: 20
+Raises: Ru, chips: 40
+Calls: No
+Turn: Kc
+Checks: No
+Checks: Ru
+River: 4d
+Checks: No
+Checks: Ru
+Pot size: 170
+Showdown Reached
+Shows: No, 9c 8h
+Combination: No, High Card ( Kc Td 9c 8h 7c )
+Shows: Ru, 9s Jh
+Combination: Ru, High Card ( Kc Jh Td 9s 7c )
+Wins: Ru, chips: 170
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Meehi
+Small Blind: No, chips: 10
+Big Blind: Ru, chips: 20
+Calls: Meehi
+Folds: No
+Raises: Ru, chips: 20
+Folds: Meehi
+Pot size: 70
+Wins: Ru, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: No
+Small Blind: Ru, chips: 10
+Big Blind: Meehi, chips: 20
+Folds: No
+Calls: Ru
+Checks: Meehi
+Flop: 5d 6c Jh
+Checks: Ru
+Checks: Meehi
+Turn: Tc
+Checks: Ru
+Checks: Meehi
+River: Kc
+Checks: Ru
+Checks: Meehi
+Pot size: 40
+Showdown Reached
+Shows: Ru, Ad 7d
+Combination: Ru, High Card ( Ad Kc Jh Tc 7d )
+Shows: Meehi, Jd 2s
+Combination: Meehi, Pair ( Jd Jh Kc Tc 6c )
+Wins: Meehi, chips: 40
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ru
+Small Blind: Meehi, chips: 10
+Big Blind: No, chips: 20
+Folds: Ru
+Folds: Meehi
+Pot size: 30
+Wins: No, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Meehi
+Small Blind: No, chips: 10
+Big Blind: Ru, chips: 20
+Calls: Meehi
+Folds: No
+Checks: Ru
+Flop: 5s 4c Qh
+Checks: Ru
+Checks: Meehi
+Turn: Jh
+Raises: Ru, chips: 20
+Folds: Meehi
+Pot size: 70
+Wins: Ru, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: No
+Small Blind: Ru, chips: 10
+Big Blind: Meehi, chips: 20
+Folds: No
+Folds: Ru
+Pot size: 30
+Wins: Meehi, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ru
+Small Blind: Meehi, chips: 10
+Big Blind: No, chips: 20
+Calls: Ru
+Calls: Meehi
+Checks: No
+Flop: 9s 3h As
+Checks: Meehi
+Checks: No
+Checks: Ru
+Turn: Tc
+Checks: Meehi
+Checks: No
+Checks: Ru
+River: 9c
+Checks: Meehi
+Checks: No
+Checks: Ru
+Pot size: 60
+Showdown Reached
+Shows: No, Ks 8s
+Combination: No, Pair ( 9s 9c As Ks Tc )
+Shows: Ru, 4h 2h
+Combination: Ru, Pair ( 9s 9c As Tc 4h )
+Shows: Meehi, 5c Ac
+Combination: Meehi, Two Pair ( Ac As 9s 9c Tc )
+Wins: Meehi, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Meehi
+Small Blind: No, chips: 10
+Big Blind: Ru, chips: 20
+Folds: Meehi
+Calls: No
+Raises: Ru, chips: 20
+Folds: No
+Pot size: 60
+Wins: Ru, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: No
+Small Blind: Ru, chips: 10
+Big Blind: Meehi, chips: 20
+Folds: No
+Folds: Ru
+Pot size: 30
+Wins: Meehi, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ru
+Small Blind: Meehi, chips: 10
+Big Blind: No, chips: 20
+Folds: Ru
+Calls: Meehi
+Checks: No
+Flop: As Js 5s
+Checks: Meehi
+Checks: No
+Turn: Ah
+Checks: Meehi
+Checks: No
+River: 8c
+Checks: Meehi
+Checks: No
+Pot size: 40
+Showdown Reached
+Shows: No, 7d 6h
+Combination: No, Pair ( As Ah Js 8c 7d )
+Shows: Meehi, Td Qc
+Combination: Meehi, Pair ( As Ah Qc Js Td )
+Wins: Meehi, chips: 40
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Meehi
+Small Blind: No, chips: 10
+Big Blind: Ru, chips: 20
+Calls: Meehi
+Folds: No
+Checks: Ru
+Flop: 3s 4h 8h
+Checks: Ru
+Checks: Meehi
+Turn: 9d
+Checks: Ru
+Raises: Meehi, chips: 1850
+Folds: Ru
+Pot size: 1900
+Wins: Meehi, chips: 1900
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: No
+Small Blind: Ru, chips: 10
+Big Blind: Meehi, chips: 20
+Calls: No
+Calls: Ru
+Checks: Meehi
+Flop: 8s 3c 7s
+Checks: Ru
+Checks: Meehi
+Raises: No, chips: 20
+Folds: Ru
+Folds: Meehi
+Pot size: 80
+Wins: No, chips: 80
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ru
+Small Blind: Meehi, chips: 10
+Big Blind: No, chips: 20
+Folds: Ru
+Folds: Meehi
+Pot size: 30
+Wins: No, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Meehi
+Small Blind: No, chips: 10
+Big Blind: Ru, chips: 20
+Folds: Meehi
+Calls: No
+Checks: Ru
+Flop: 4c 6s 8h
+Checks: No
+Checks: Ru
+Turn: 8c
+Checks: No
+Checks: Ru
+River: Jc
+Checks: No
+Raises: Ru, chips: 20
+Folds: No
+Pot size: 60
+Wins: Ru, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: No
+Small Blind: Ru, chips: 10
+Big Blind: Meehi, chips: 20
+Folds: No
+Folds: Ru
+Pot size: 30
+Wins: Meehi, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ru
+Small Blind: Meehi, chips: 10
+Big Blind: No, chips: 20
+Folds: Ru
+Folds: Meehi
+Pot size: 30
+Wins: No, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Meehi
+Small Blind: No, chips: 10
+Big Blind: Ru, chips: 20
+Folds: Meehi
+Calls: No
+Checks: Ru
+Flop: Kd 2s Qc
+Checks: No
+Checks: Ru
+Turn: 4c
+Raises: No, chips: 20
+Folds: Ru
+Pot size: 60
+Wins: No, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: No
+Small Blind: Ru, chips: 10
+Big Blind: Meehi, chips: 20
+Folds: No
+Folds: Ru
+Pot size: 30
+Wins: Meehi, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ru
+Small Blind: Meehi, chips: 10
+Big Blind: No, chips: 20
+Folds: Ru
+Calls: Meehi
+Checks: No
+Flop: 3c 9h Ts
+Checks: Meehi
+Checks: No
+Turn: Ad
+Checks: Meehi
+Checks: No
+River: 4s
+Checks: Meehi
+Checks: No
+Pot size: 40
+Showdown Reached
+Shows: No, 5h 4c
+Combination: No, Pair ( 4c 4s Ad Ts 9h )
+Shows: Meehi, 8d 8s
+Combination: Meehi, Pair ( 8d 8s Ad Ts 9h )
+Wins: Meehi, chips: 40
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Meehi
+Small Blind: No, chips: 10
+Big Blind: Ru, chips: 20
+Calls: Meehi
+Folds: No
+Checks: Ru
+Flop: Ad Kh 8s
+Checks: Ru
+Checks: Meehi
+Turn: 4h
+Checks: Ru
+Raises: Meehi, chips: 20
+Folds: Ru
+Pot size: 70
+Wins: Meehi, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: No
+Small Blind: Ru, chips: 10
+Big Blind: Meehi, chips: 20
+Raises: No, chips: 40
+Folds: Ru
+Calls: Meehi
+Flop: 9h 7c Qc
+Raises: Meehi, chips: 60
+Calls: No
+Turn: 3s
+Raises: Meehi, chips: 60
+Calls: No
+River: 2c
+Raises: Meehi, chips: 1750
+Folds: No
+Pot size: 2120
+Wins: Meehi, chips: 2120
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ru
+Small Blind: Meehi, chips: 10
+Big Blind: No, chips: 20
+Calls: Ru
+Folds: Meehi
+Checks: No
+Flop: 5d Ac Kh
+Raises: No, chips: 20
+Folds: Ru
+Pot size: 70
+Wins: No, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Meehi
+Small Blind: No, chips: 10
+Big Blind: Ru, chips: 20
+Folds: Meehi
+Folds: No
+Pot size: 30
+Wins: Ru, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: No
+Small Blind: Ru, chips: 10
+Big Blind: Meehi, chips: 20
+Folds: No
+Calls: Ru
+Raises: Meehi, chips: 2090
+Folds: Ru
+Pot size: 2130
+Wins: Meehi, chips: 2130
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ru
+Small Blind: Meehi, chips: 10
+Big Blind: No, chips: 20
+Folds: Ru
+Folds: Meehi
+Pot size: 30
+Wins: No, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Meehi
+Small Blind: No, chips: 10
+Big Blind: Ru, chips: 20
+Folds: Meehi
+Folds: No
+Pot size: 30
+Wins: Ru, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: No
+Small Blind: Ru, chips: 10
+Big Blind: Meehi, chips: 20
+Folds: No
+Folds: Ru
+Pot size: 30
+Wins: Meehi, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ru
+Small Blind: Meehi, chips: 10
+Big Blind: No, chips: 20
+Calls: Ru
+Calls: Meehi
+Checks: No
+Flop: 9h Tc 3c
+Checks: Meehi
+Checks: No
+Checks: Ru
+Turn: 5d
+Checks: Meehi
+Checks: No
+Checks: Ru
+River: 5h
+Checks: Meehi
+Checks: No
+Checks: Ru
+Pot size: 60
+Showdown Reached
+Shows: No, 4h Qd
+Combination: No, Pair ( 5d 5h Qd Tc 9h )
+Shows: Ru, Th Kd
+Combination: Ru, Two Pair ( Th Tc 5d 5h Kd )
+Shows: Meehi, 2s 3s
+Combination: Meehi, Two Pair ( 5d 5h 3s 3c Tc )
+Wins: Ru, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Meehi
+Small Blind: No, chips: 10
+Big Blind: Ru, chips: 20
+Folds: Meehi
+Calls: No
+Checks: Ru
+Flop: Kd Js 3s
+Raises: No, chips: 20
+Folds: Ru
+Pot size: 60
+Wins: No, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: No
+Small Blind: Ru, chips: 10
+Big Blind: Meehi, chips: 20
+Calls: No
+Folds: Ru
+Checks: Meehi
+Flop: 8s 2h 4c
+Checks: Meehi
+Checks: No
+Turn: 4d
+Checks: Meehi
+Checks: No
+River: 6h
+Checks: Meehi
+Raises: No, chips: 20
+Folds: Meehi
+Pot size: 70
+Wins: No, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ru
+Small Blind: Meehi, chips: 10
+Big Blind: No, chips: 20
+Folds: Ru
+Folds: Meehi
+Pot size: 30
+Wins: No, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Meehi
+Small Blind: No, chips: 10
+Big Blind: Ru, chips: 20
+Calls: Meehi
+Folds: No
+Checks: Ru
+Flop: Kd 3c 9h
+Checks: Ru
+Checks: Meehi
+Turn: 2h
+Checks: Ru
+Checks: Meehi
+River: 4h
+Checks: Ru
+Checks: Meehi
+Pot size: 50
+Showdown Reached
+Shows: Ru, Js Qs
+Combination: Ru, High Card ( Kd Qs Js 9h 4h )
+Shows: Meehi, 5s 4d
+Combination: Meehi, Pair ( 4d 4h Kd 9h 5s )
+Wins: Meehi, chips: 50
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: No
+Small Blind: Ru, chips: 10
+Big Blind: Meehi, chips: 20
+Folds: No
+Raises: Ru, chips: 30
+Folds: Meehi
+Pot size: 70
+Wins: Ru, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ru
+Small Blind: Meehi, chips: 10
+Big Blind: No, chips: 20
+Calls: Ru
+Folds: Meehi
+Checks: No
+Flop: 5s Qs 3s
+Checks: No
+Checks: Ru
+Turn: 6d
+Checks: No
+Checks: Ru
+River: Js
+Checks: No
+Checks: Ru
+Pot size: 50
+Showdown Reached
+Shows: No, Qd 7h
+Combination: No, Pair ( Qd Qs Js 7h 6d )
+Shows: Ru, 9s 9c
+Combination: Ru, Flush ( Qs Js 9s 5s 3s )
+Wins: Ru, chips: 50
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Meehi
+Small Blind: No, chips: 10
+Big Blind: Ru, chips: 20
+Folds: Meehi
+Raises: No, chips: 30
+Folds: Ru
+Pot size: 70
+Wins: No, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: No
+Small Blind: Ru, chips: 10
+Big Blind: Meehi, chips: 20
+Folds: No
+Folds: Ru
+Pot size: 30
+Wins: Meehi, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ru
+Small Blind: Meehi, chips: 10
+Big Blind: No, chips: 20
+Folds: Ru
+Calls: Meehi
+Checks: No
+Flop: Jc 3d Th
+Checks: Meehi
+Checks: No
+Turn: Td
+Checks: Meehi
+Checks: No
+River: Ah
+Checks: Meehi
+Checks: No
+Pot size: 40
+Showdown Reached
+Shows: No, 9h Jd
+Combination: No, Two Pair ( Jd Jc Th Td Ah )
+Shows: Meehi, 8h 5h
+Combination: Meehi, Pair ( Th Td Ah Jc 8h )
+Wins: No, chips: 40
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Meehi
+Small Blind: No, chips: 10
+Big Blind: Ru, chips: 20
+Folds: Meehi
+Folds: No
+Pot size: 30
+Wins: Ru, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: No
+Small Blind: Ru, chips: 10
+Big Blind: Meehi, chips: 20
+Folds: No
+Calls: Ru
+Checks: Meehi
+Flop: 9h 7s 4c
+Checks: Ru
+Checks: Meehi
+Turn: 8s
+Checks: Ru
+Checks: Meehi
+River: 3h
+Checks: Ru
+Checks: Meehi
+Pot size: 40
+Showdown Reached
+Shows: Ru, Ks 5s
+Combination: Ru, High Card ( Ks 9h 8s 7s 5s )
+Shows: Meehi, Qh 6c
+Combination: Meehi, High Card ( Qh 9h 8s 7s 6c )
+Wins: Ru, chips: 40
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ru
+Small Blind: Meehi, chips: 10
+Big Blind: No, chips: 20
+Folds: Ru
+Folds: Meehi
+Pot size: 30
+Wins: No, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Meehi
+Small Blind: No, chips: 10
+Big Blind: Ru, chips: 20
+Raises: Meehi, chips: 20
+Folds: No
+Folds: Ru
+Pot size: 70
+Wins: Meehi, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: No
+Small Blind: Ru, chips: 10
+Big Blind: Meehi, chips: 20
+Folds: No
+Folds: Ru
+Pot size: 30
+Wins: Meehi, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ru
+Small Blind: Meehi, chips: 10
+Big Blind: No, chips: 20
+Raises: Ru, chips: 40
+Folds: Meehi
+Folds: No
+Pot size: 90
+Wins: Ru, chips: 90
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Meehi
+Small Blind: No, chips: 10
+Big Blind: Ru, chips: 20
+Folds: Meehi
+Folds: No
+Pot size: 30
+Wins: Ru, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: No
+Small Blind: Ru, chips: 10
+Big Blind: Meehi, chips: 20
+Calls: No
+Folds: Ru
+Checks: Meehi
+Flop: Jc Kh 6d
+Checks: Meehi
+Checks: No
+Turn: Td
+Checks: Meehi
+Checks: No
+River: 7c
+Checks: Meehi
+Checks: No
+Pot size: 50
+Showdown Reached
+Shows: No, 5h 7h
+Combination: No, Pair ( 7h 7c Kh Jc Td )
+Shows: Meehi, Ad 9d
+Combination: Meehi, High Card ( Ad Kh Jc Td 9d )
+Wins: No, chips: 50
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ru
+Small Blind: Meehi, chips: 10
+Big Blind: No, chips: 20
+Folds: Ru
+Folds: Meehi
+Pot size: 30
+Wins: No, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Meehi
+Small Blind: No, chips: 10
+Big Blind: Ru, chips: 20
+Folds: Meehi
+Folds: No
+Pot size: 30
+Wins: Ru, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: No
+Small Blind: Ru, chips: 10
+Big Blind: Meehi, chips: 20
+Folds: No
+Folds: Ru
+Pot size: 30
+Wins: Meehi, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ru
+Small Blind: Meehi, chips: 10
+Big Blind: No, chips: 20
+Folds: Ru
+Calls: Meehi
+Checks: No
+Flop: 6h 3d 2s
+Checks: Meehi
+Checks: No
+Turn: Jh
+Raises: Meehi, chips: 20
+Folds: No
+Pot size: 60
+Wins: Meehi, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Meehi
+Small Blind: No, chips: 10
+Big Blind: Ru, chips: 20
+Folds: Meehi
+Folds: No
+Pot size: 30
+Wins: Ru, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: No
+Small Blind: Ru, chips: 10
+Big Blind: Meehi, chips: 20
+Folds: No
+Folds: Ru
+Pot size: 30
+Wins: Meehi, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ru
+Small Blind: Meehi, chips: 10
+Big Blind: No, chips: 20
+Calls: Ru
+Raises: Meehi, chips: 30
+Folds: No
+Folds: Ru
+Pot size: 90
+Wins: Meehi, chips: 90
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Meehi
+Small Blind: No, chips: 10
+Big Blind: Ru, chips: 20
+Folds: Meehi
+Folds: No
+Pot size: 30
+Wins: Ru, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: No
+Small Blind: Ru, chips: 10
+Big Blind: Meehi, chips: 20
+Folds: No
+Folds: Ru
+Pot size: 30
+Wins: Meehi, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ru
+Small Blind: Meehi, chips: 10
+Big Blind: No, chips: 20
+Folds: Ru
+Calls: Meehi
+Checks: No
+Flop: 4h Kd 2h
+Checks: Meehi
+Checks: No
+Turn: Ts
+Raises: Meehi, chips: 20
+Raises: No, chips: 40
+Calls: Meehi
+River: 6h
+Raises: Meehi, chips: 60
+Calls: No
+Pot size: 280
+Showdown Reached
+Shows: No, 2c 8s
+Combination: No, Pair ( 2c 2h Kd Ts 8s )
+Shows: Meehi, 8h Kh
+Combination: Meehi, Flush ( Kh 8h 6h 4h 2h )
+Wins: Meehi, chips: 280
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Meehi
+Small Blind: No, chips: 10
+Big Blind: Ru, chips: 20
+Raises: Meehi, chips: 40
+Calls: No
+Folds: Ru
+Flop: Tc 8s 6s
+Raises: No, chips: 60
+Raises: Meehi, chips: 80
+Calls: No
+Turn: 2s
+Checks: No
+Checks: Meehi
+River: 5d
+Checks: No
+Checks: Meehi
+Pot size: 420
+Showdown Reached
+Shows: No, Jh Jc
+Combination: No, Pair ( Jh Jc Tc 8s 6s )
+Shows: Meehi, Qh Ad
+Combination: Meehi, High Card ( Ad Qh Tc 8s 6s )
+Wins: No, chips: 420
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: No
+Small Blind: Ru, chips: 10
+Big Blind: Meehi, chips: 20
+Folds: No
+Calls: Ru
+Checks: Meehi
+Flop: Qs 5h 7d
+Checks: Ru
+Checks: Meehi
+Turn: Ad
+Raises: Ru, chips: 20
+Folds: Meehi
+Pot size: 60
+Wins: Ru, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ru
+Small Blind: Meehi, chips: 10
+Big Blind: No, chips: 20
+Calls: Ru
+Folds: Meehi
+Checks: No
+Flop: Ac 6c Kh
+Checks: No
+Checks: Ru
+Turn: Td
+Raises: No, chips: 5900
+Folds: Ru
+Pot size: 5950
+Wins: No, chips: 5950
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Meehi
+Small Blind: No, chips: 10
+Big Blind: Ru, chips: 20
+Raises: Meehi, chips: 20
+Folds: No
+Calls: Ru
+Flop: Qc 9d 7s
+Checks: Ru
+Checks: Meehi
+Turn: 7c
+Checks: Ru
+Checks: Meehi
+River: 8d
+Checks: Ru
+Checks: Meehi
+Pot size: 90
+Showdown Reached
+Shows: Ru, 4h Ah
+Combination: Ru, Pair ( 7s 7c Ah Qc 9d )
+Shows: Meehi, As Ks
+Combination: Meehi, Pair ( 7s 7c As Ks Qc )
+Wins: Meehi, chips: 90
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: No
+Small Blind: Ru, chips: 10
+Big Blind: Meehi, chips: 20
+Folds: No
+Folds: Ru
+Pot size: 30
+Wins: Meehi, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ru
+Small Blind: Meehi, chips: 10
+Big Blind: No, chips: 20
+Calls: Ru
+Calls: Meehi
+Checks: No
+Flop: 4d As Qh
+Raises: Meehi, chips: 20
+Folds: No
+Folds: Ru
+Pot size: 80
+Wins: Meehi, chips: 80
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Meehi
+Small Blind: No, chips: 10
+Big Blind: Ru, chips: 20
+Raises: Meehi, chips: 2120
+Folds: No
+Calls: Ru
+Flop: 3h 7c 8s
+Turn: 8d
+River: 7d
+Pot size: 3090
+Showdown Reached
+Shows: Ru, Qd Ad
+Combination: Ru, Two Pair ( 8s 8d 7c 7d Ad )
+Shows: Meehi, Qc Kc
+Combination: Meehi, Two Pair ( 8s 8d 7c 7d Kc )
+Wins: Ru, chips: 1890
+Wins: Meehi, chips: 1200
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: No
+Small Blind: Ru, chips: 10
+Big Blind: Meehi, chips: 20
+Folds: No
+Folds: Ru
+Pot size: 30
+Wins: Meehi, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ru
+Small Blind: Meehi, chips: 10
+Big Blind: No, chips: 20
+Calls: Ru
+Calls: Meehi
+Checks: No
+Flop: 9h Kh 8c
+Checks: Meehi
+Checks: No
+Checks: Ru
+Turn: Qh
+Checks: Meehi
+Checks: No
+Checks: Ru
+River: 6d
+Checks: Meehi
+Checks: No
+Raises: Ru, chips: 1860
+Folds: Meehi
+Calls: No
+Pot size: 3780
+Showdown Reached
+Shows: No, 9c 3s
+Combination: No, Pair ( 9c 9h Kh Qh 8c )
+Shows: Ru, Ts 7s
+Combination: Ru, Straight ( Ts 9h 8c 7s 6d )
+Wins: Ru, chips: 3780
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Meehi
+Small Blind: No, chips: 10
+Big Blind: Ru, chips: 20
+Raises: Meehi, chips: 40
+Folds: No
+Folds: Ru
+Pot size: 90
+Wins: Meehi, chips: 90
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: No
+Small Blind: Ru, chips: 10
+Big Blind: Meehi, chips: 20
+Calls: No
+Folds: Ru
+Checks: Meehi
+Flop: Kc Jh 5s
+Checks: Meehi
+Checks: No
+Turn: 3c
+Checks: Meehi
+Checks: No
+River: 3d
+Raises: Meehi, chips: 20
+Folds: No
+Pot size: 70
+Wins: Meehi, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ru
+Small Blind: Meehi, chips: 10
+Big Blind: No, chips: 20
+Raises: Ru, chips: 20
+Folds: Meehi
+Folds: No
+Pot size: 70
+Wins: Ru, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Meehi
+Small Blind: No, chips: 10
+Big Blind: Ru, chips: 20
+Calls: Meehi
+Folds: No
+Raises: Ru, chips: 20
+Folds: Meehi
+Pot size: 70
+Wins: Ru, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: No
+Small Blind: Ru, chips: 10
+Big Blind: Meehi, chips: 20
+Folds: No
+Calls: Ru
+Checks: Meehi
+Flop: 8s 5s Qh
+Raises: Ru, chips: 20
+Folds: Meehi
+Pot size: 60
+Wins: Ru, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ru
+Small Blind: Meehi, chips: 10
+Big Blind: No, chips: 20
+Calls: Ru
+Folds: Meehi
+Checks: No
+Flop: Qc 3c 4s
+Checks: No
+Checks: Ru
+Turn: 8h
+Checks: No
+Checks: Ru
+River: Ad
+Checks: No
+Raises: Ru, chips: 20
+Folds: No
+Pot size: 70
+Wins: Ru, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Meehi
+Small Blind: No, chips: 10
+Big Blind: Ru, chips: 20
+Folds: Meehi
+Calls: No
+Raises: Ru, chips: 20
+Calls: No
+Flop: 3h Kh 4h
+Checks: No
+Checks: Ru
+Turn: 9h
+Checks: No
+Checks: Ru
+River: As
+Checks: No
+Checks: Ru
+Pot size: 80
+Showdown Reached
+Shows: No, Qd Jc
+Combination: No, High Card ( As Kh Qd Jc 9h )
+Shows: Ru, Ts Jd
+Combination: Ru, High Card ( As Kh Jd Ts 9h )
+Wins: No, chips: 80
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: No
+Small Blind: Ru, chips: 10
+Big Blind: Meehi, chips: 20
+Calls: No
+Raises: Ru, chips: 30
+Calls: Meehi
+Raises: No, chips: 70
+Calls: Ru
+Folds: Meehi
+Flop: Js 7c 5h
+Raises: Ru, chips: 3700
+Folds: No
+Pot size: 3990
+Wins: Ru, chips: 3990
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ru
+Small Blind: Meehi, chips: 10
+Big Blind: No, chips: 20
+Folds: Ru
+Folds: Meehi
+Pot size: 30
+Wins: No, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Meehi
+Small Blind: No, chips: 10
+Big Blind: Ru, chips: 20
+Folds: Meehi
+Folds: No
+Pot size: 30
+Wins: Ru, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: No
+Small Blind: Ru, chips: 10
+Big Blind: Meehi, chips: 20
+Folds: No
+Folds: Ru
+Pot size: 30
+Wins: Meehi, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ru
+Small Blind: Meehi, chips: 10
+Big Blind: No, chips: 20
+Folds: Ru
+Folds: Meehi
+Pot size: 30
+Wins: No, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Meehi
+Small Blind: No, chips: 10
+Big Blind: Ru, chips: 20
+Calls: Meehi
+Calls: No
+Checks: Ru
+Flop: 2c Td Ah
+Checks: No
+Checks: Ru
+Checks: Meehi
+Turn: Kh
+Checks: No
+Checks: Ru
+Checks: Meehi
+River: Th
+Raises: No, chips: 3860
+Folds: Ru
+Folds: Meehi
+Pot size: 3920
+Wins: No, chips: 3920
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: No
+Small Blind: Ru, chips: 10
+Big Blind: Meehi, chips: 20
+Folds: No
+Calls: Ru
+Checks: Meehi
+Flop: 3d 3c 5d
+Checks: Ru
+Checks: Meehi
+Turn: 9s
+Checks: Ru
+Checks: Meehi
+River: 4h
+Checks: Ru
+Checks: Meehi
+Pot size: 40
+Showdown Reached
+Shows: Ru, Ts 9d
+Combination: Ru, Two Pair ( 9d 9s 3d 3c Ts )
+Shows: Meehi, Ac 7c
+Combination: Meehi, Pair ( 3d 3c Ac 9s 7c )
+Wins: Ru, chips: 40
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ru
+Small Blind: Meehi, chips: 10
+Big Blind: No, chips: 20
+Folds: Ru
+Folds: Meehi
+Pot size: 30
+Wins: No, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Meehi
+Small Blind: No, chips: 10
+Big Blind: Ru, chips: 20
+Folds: Meehi
+Folds: No
+Pot size: 30
+Wins: Ru, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: No
+Small Blind: Ru, chips: 10
+Big Blind: Meehi, chips: 20
+Raises: No, chips: 40
+Folds: Ru
+Calls: Meehi
+Flop: 3d 7h Js
+Raises: Meehi, chips: 40
+Raises: No, chips: 3820
+Calls: Meehi
+Turn: 6d
+River: 4h
+Pot size: 5010
+Showdown Reached
+Shows: No, Qd Qh
+Combination: No, Pair ( Qd Qh Js 7h 6d )
+Shows: Meehi, Jc Qc
+Combination: Meehi, Pair ( Jc Js Qc 7h 6d )
+Wins: No, chips: 5010
+Quits: Meehi, chips: 0
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ru
+Small Blind: Ru, chips: 10
+Big Blind: No, chips: 20
+Calls: Ru
+Checks: No
+Flop: Kd 4h Qc
+Checks: No
+Checks: Ru
+Turn: 7h
+Checks: No
+Checks: Ru
+River: 9c
+Checks: No
+Checks: Ru
+Pot size: 40
+Showdown Reached
+Shows: No, 3s Ad
+Combination: No, High Card ( Ad Kd Qc 9c 7h )
+Shows: Ru, 8c 7s
+Combination: Ru, Pair ( 7s 7h Kd Qc 9c )
+Wins: Ru, chips: 40
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: No
+Small Blind: No, chips: 10
+Big Blind: Ru, chips: 20
+Folds: No
+Pot size: 30
+Wins: Ru, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ru
+Small Blind: Ru, chips: 10
+Big Blind: No, chips: 20
+Calls: Ru
+Checks: No
+Flop: Qs 7s 2s
+Checks: No
+Checks: Ru
+Turn: Jd
+Checks: No
+Raises: Ru, chips: 20
+Calls: No
+River: 8s
+Checks: No
+Checks: Ru
+Pot size: 80
+Showdown Reached
+Shows: No, 4c 2d
+Combination: No, Pair ( 2d 2s Qs Jd 8s )
+Shows: Ru, Kd Qd
+Combination: Ru, Pair ( Qd Qs Kd Jd 8s )
+Wins: Ru, chips: 80
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: No
+Small Blind: No, chips: 10
+Big Blind: Ru, chips: 20
+Calls: No
+Checks: Ru
+Flop: 2h 7h 9d
+Checks: Ru
+Raises: No, chips: 20
+Folds: Ru
+Pot size: 60
+Wins: No, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ru
+Small Blind: Ru, chips: 10
+Big Blind: No, chips: 20
+Calls: Ru
+Checks: No
+Flop: Js 6h Td
+Checks: No
+Checks: Ru
+Turn: 5c
+Raises: No, chips: 4940
+Calls: Ru
+River: Kh
+Pot size: 9000
+Showdown Reached
+Shows: No, Tc 5s
+Combination: No, Two Pair ( Tc Td 5s 5c Kh )
+Shows: Ru, 8c Jd
+Combination: Ru, Pair ( Jd Js Kh Td 8c )
+Wins: No, chips: 9000
+Quits: Ru, chips: 0
+Ranking: No, Place: 1, Score: 8000
+Reveal AI: No, AI: Smart
+Ranking: Ru, Place: 2, Score: -1000
+Reveal AI: Ru, AI: Smart
+Ranking: Meehi, Place: 3, Score: -1000
+Reveal AI: Meehi, AI: Smart
+Ranking: Wefotoep, Place: 4, Score: -1000
+Reveal AI: Wefotoep, AI: Human
+Ranking: Suwrowro, Place: 5, Score: -1000
+Reveal AI: Suwrowro, AI: Random
+Ranking: Ruge, Place: 6, Score: -1000
+Reveal AI: Ruge, AI: Smart
+Ranking: Bu, Place: 7, Score: -1000
+Reveal AI: Bu, AI: Random
+Ranking: Voelap, Place: 8, Score: -1000
+Reveal AI: Voelap, AI: Call
+Ranking: Jobe, Place: 9, Score: -1000
+Reveal AI: Jobe, AI: Call
+
+Player Stats for Bu, AI: Random
+General: deals: 3, actions: 8, preflop actions: 5
+Rounds Seen: flops: 69, turns: 57, rivers: 47, showdowns: 40
+Wins: total: 1, showdown: 1, bluff: 0
+Chips: won: 420, lost: 1760, bought: 1000, forced bets: 0
+Pre-Flop Stats: VP$IP: 0.666667, PFR: 0.333333, 3Bet: 0.333333
+Post-Flop Stats: AF: 0, WSD: 0.57971, WSDW: 0.025
+
+
+Player Stats for Jobe, AI: Call
+General: deals: 2, actions: 9, preflop actions: 2
+Rounds Seen: flops: 70, turns: 58, rivers: 48, showdowns: 41
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1100, bought: 1000, forced bets: 0
+Pre-Flop Stats: VP$IP: 1, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: 0, WSD: 0.585714, WSDW: 0
+
+
+Player Stats for Meehi, AI: Smart
+General: deals: 127, actions: 227, preflop actions: 113
+Rounds Seen: flops: 46, turns: 41, rivers: 36, showdowns: 30
+Wins: total: 46, showdown: 14, bluff: 32
+Chips: won: 14000, lost: 17840, bought: 1000, forced bets: 1170
+Pre-Flop Stats: VP$IP: 0.322835, PFR: 0.0708661, 3Bet: 0.0629921
+Post-Flop Stats: AF: 3.33333, WSD: 0.652174, WSDW: 0.466667
+
+
+Player Stats for No, AI: Smart
+General: deals: 132, actions: 255, preflop actions: 128
+Rounds Seen: flops: 48, turns: 40, rivers: 36, showdowns: 29
+Wins: total: 39, showdown: 14, bluff: 25
+Chips: won: 47990, lost: 40270, bought: 1000, forced bets: 1280
+Pre-Flop Stats: VP$IP: 0.234848, PFR: 0.0681818, 3Bet: 0.0606061
+Post-Flop Stats: AF: 1.23529, WSD: 0.604167, WSDW: 0.482759
+
+
+Player Stats for Ru, AI: Smart
+General: deals: 132, actions: 228, preflop actions: 132
+Rounds Seen: flops: 43, turns: 30, rivers: 23, showdowns: 20
+Wins: total: 38, showdown: 13, bluff: 25
+Chips: won: 16720, lost: 19840, bought: 1000, forced bets: 1260
+Pre-Flop Stats: VP$IP: 0.318182, PFR: 0.113636, 3Bet: 0.0757576
+Post-Flop Stats: AF: 5.33333, WSD: 0.465116, WSDW: 0.65
+
+
+Player Stats for Ruge, AI: Smart
+General: deals: 3, actions: 5, preflop actions: 5
+Rounds Seen: flops: 68, turns: 56, rivers: 46, showdowns: 39
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1690, bought: 1000, forced bets: 30
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.333333, 3Bet: 0.333333
+Post-Flop Stats: AF: -1.#IND, WSD: 0.573529, WSDW: 0
+
+
+Player Stats for Suwrowro, AI: Random
+General: deals: 8, actions: 23, preflop actions: 10
+Rounds Seen: flops: 69, turns: 55, rivers: 45, showdowns: 38
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1400, bought: 1000, forced bets: 30
+Pre-Flop Stats: VP$IP: 0.875, PFR: 0.375, 3Bet: 0.375
+Post-Flop Stats: AF: 1.#INF, WSD: 0.550725, WSDW: 0
+
+
+Player Stats for Voelap, AI: Call
+General: deals: 2, actions: 10, preflop actions: 2
+Rounds Seen: flops: 70, turns: 58, rivers: 48, showdowns: 41
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1100, bought: 1000, forced bets: 10
+Pre-Flop Stats: VP$IP: 1, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: 0, WSD: 0.585714, WSDW: 0
+
+
+Player Stats for Wefotoep, AI: Human
+General: deals: 25, actions: 55, preflop actions: 29
+Rounds Seen: flops: 65, turns: 53, rivers: 43, showdowns: 37
+Wins: total: 12, showdown: 3, bluff: 9
+Chips: won: 12470, lost: 13820, bought: 1000, forced bets: 180
+Pre-Flop Stats: VP$IP: 0.64, PFR: 0.44, 3Bet: 0.4
+Post-Flop Stats: AF: 5.66667, WSD: 0.569231, WSDW: 0.0810811
+
+

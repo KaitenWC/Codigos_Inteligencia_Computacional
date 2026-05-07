@@ -1,0 +1,6498 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Katevo: Smart
+Kakem: Human
+Loeveecha: Smart
+Nehe: Random
+Voe: Call
+Moema: Smart
+Senutry: Random
+Woebap: Call
+Jegibinny: Smart
+
+Joins: Katevo, chips: 1000
+Joins: Kakem, chips: 1000
+Joins: Loeveecha, chips: 1000
+Joins: Nehe, chips: 1000
+Joins: Voe, chips: 1000
+Joins: Moema, chips: 1000
+Joins: Senutry, chips: 1000
+Joins: Woebap, chips: 1000
+Joins: Jegibinny, chips: 1000
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Jegibinny
+Small Blind: Katevo, chips: 10
+Big Blind: Kakem, chips: 20
+Raises: Loeveecha, chips: 20
+Folds: Nehe
+Calls: Voe
+Calls: Moema
+Calls: Senutry
+Calls: Woebap
+Folds: Jegibinny
+Folds: Katevo
+Raises: Kakem, chips: 80
+Calls: Loeveecha
+Calls: Voe
+Calls: Moema
+Calls: Senutry
+Calls: Woebap
+Flop: 5d 7c 8s
+Raises: Kakem, chips: 80
+Folds: Loeveecha
+Calls: Voe
+Folds: Moema
+Folds: Senutry
+Calls: Woebap
+Turn: As
+Raises: Kakem, chips: 80
+Calls: Voe
+Calls: Woebap
+River: 4c
+Raises: Kakem, chips: 160
+Calls: Voe
+Calls: Woebap
+Pot size: 1690
+Showdown Reached
+Shows: Kakem, Js 8d
+Combination: Kakem, Pair ( 8d 8s As Js 7c )
+Boasts: Nehe, 7s 9c
+Shows: Voe, 5s 3s
+Combination: Voe, Pair ( 5s 5d As 8s 7c )
+Shows: Woebap, 8c Ad
+Combination: Woebap, Two Pair ( Ad As 8c 8s 7c )
+Wins: Woebap, chips: 1690
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Kakem, chips: 10
+Big Blind: Loeveecha, chips: 20
+Calls: Nehe
+Calls: Voe
+Calls: Moema
+Calls: Senutry
+Calls: Woebap
+Calls: Jegibinny
+Calls: Katevo
+Calls: Kakem
+Checks: Loeveecha
+Flop: Jh 3s 4h
+Checks: Kakem
+Checks: Loeveecha
+Checks: Nehe
+Checks: Voe
+Checks: Moema
+Checks: Senutry
+Checks: Woebap
+Checks: Jegibinny
+Checks: Katevo
+Turn: Tc
+Checks: Kakem
+Checks: Loeveecha
+Checks: Nehe
+Checks: Voe
+Checks: Moema
+Checks: Senutry
+Checks: Woebap
+Checks: Jegibinny
+Checks: Katevo
+River: Jd
+Checks: Kakem
+Checks: Loeveecha
+Checks: Nehe
+Checks: Voe
+Checks: Moema
+Raises: Senutry, chips: 20
+Calls: Woebap
+Folds: Jegibinny
+Folds: Katevo
+Calls: Kakem
+Folds: Loeveecha
+Raises: Nehe, chips: 40
+Calls: Voe
+Calls: Moema
+Folds: Senutry
+Calls: Woebap
+Raises: Kakem, chips: 160
+Raises: Nehe, chips: 320
+Calls: Voe
+Folds: Moema
+Calls: Woebap
+Calls: Kakem
+Pot size: 2420
+Showdown Reached
+Shows: Kakem, 3h Ks
+Combination: Kakem, Two Pair ( Jh Jd 3h 3s Ks )
+Shows: Nehe, 7h 2d
+Combination: Nehe, Pair ( Jh Jd Tc 7h 4h )
+Shows: Voe, 6h 8h
+Combination: Voe, Pair ( Jh Jd Tc 8h 6h )
+Shows: Woebap, 5h 4c
+Combination: Woebap, Two Pair ( Jh Jd 4c 4h Tc )
+Wins: Woebap, chips: 2420
+Quits: Kakem, chips: 0
+Quits: Voe, chips: 0
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Nehe, chips: 10
+Big Blind: Moema, chips: 20
+Calls: Senutry
+Calls: Woebap
+Calls: Jegibinny
+Folds: Katevo
+Calls: Loeveecha
+Raises: Nehe, chips: 30
+Folds: Moema
+Folds: Senutry
+Calls: Woebap
+Calls: Jegibinny
+Calls: Loeveecha
+Flop: 9h 3h 7h
+Checks: Nehe
+Checks: Woebap
+Checks: Jegibinny
+Checks: Loeveecha
+Turn: 5d
+Raises: Nehe, chips: 30
+Calls: Woebap
+Folds: Jegibinny
+Calls: Loeveecha
+River: 6s
+Raises: Nehe, chips: 30
+Calls: Woebap
+Calls: Loeveecha
+Pot size: 420
+Showdown Reached
+Shows: Loeveecha, 7c 7d
+Combination: Loeveecha, Three Of A Kind ( 7c 7d 7h 9h 6s )
+Shows: Nehe, 9c 5s
+Combination: Nehe, Two Pair ( 9c 9h 5s 5d 7h )
+Boasts: Senutry, Js 8s
+Shows: Woebap, Th Kc
+Combination: Woebap, High Card ( Kc Th 9h 7h 6s )
+Wins: Loeveecha, chips: 420
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Nehe
+Small Blind: Moema, chips: 10
+Big Blind: Senutry, chips: 20
+Calls: Woebap
+Calls: Jegibinny
+Calls: Katevo
+Folds: Loeveecha
+Calls: Nehe
+Folds: Moema
+Checks: Senutry
+Flop: Tc 7h Jh
+Raises: Senutry, chips: 20
+Calls: Woebap
+Folds: Jegibinny
+Folds: Katevo
+Folds: Nehe
+Turn: Kd
+Raises: Senutry, chips: 780
+Calls: Woebap
+River: 2h
+Pot size: 1710
+Showdown Reached
+Shows: Senutry, 9s Jc
+Combination: Senutry, Pair ( Jc Jh Kd Tc 9s )
+Shows: Woebap, Qc 4c
+Combination: Woebap, High Card ( Kd Qc Jh Tc 7h )
+Wins: Senutry, chips: 1710
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Moema
+Small Blind: Senutry, chips: 10
+Big Blind: Woebap, chips: 20
+Folds: Jegibinny
+Folds: Katevo
+Folds: Loeveecha
+Folds: Nehe
+Raises: Moema, chips: 20
+Calls: Senutry
+Calls: Woebap
+Flop: 5d 9c 7c
+Checks: Senutry
+Checks: Woebap
+Checks: Moema
+Turn: 5h
+Raises: Senutry, chips: 20
+Calls: Woebap
+Folds: Moema
+River: Th
+Checks: Senutry
+Checks: Woebap
+Pot size: 160
+Showdown Reached
+Boasts: Nehe, Jh 4d
+Shows: Senutry, 9s Jd
+Combination: Senutry, Two Pair ( 9s 9c 5d 5h Jd )
+Shows: Woebap, 6h 5s
+Combination: Woebap, Three Of A Kind ( 5s 5d 5h Th 9c )
+Wins: Woebap, chips: 160
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Senutry
+Small Blind: Woebap, chips: 10
+Big Blind: Jegibinny, chips: 20
+Folds: Katevo
+Calls: Loeveecha
+Calls: Nehe
+Raises: Moema, chips: 20
+Calls: Senutry
+Calls: Woebap
+Folds: Jegibinny
+Folds: Loeveecha
+Calls: Nehe
+Flop: 3c 3h 8d
+Checks: Woebap
+Checks: Nehe
+Checks: Moema
+Checks: Senutry
+Turn: Qd
+Checks: Woebap
+Checks: Nehe
+Checks: Moema
+Checks: Senutry
+River: Jh
+Checks: Woebap
+Checks: Nehe
+Checks: Moema
+Raises: Senutry, chips: 20
+Calls: Woebap
+Calls: Nehe
+Folds: Moema
+Pot size: 260
+Showdown Reached
+Shows: Nehe, 6h Qs
+Combination: Nehe, Two Pair ( Qs Qd 3c 3h Jh )
+Shows: Senutry, 4d Ks
+Combination: Senutry, Pair ( 3c 3h Ks Qd Jh )
+Shows: Woebap, Qh Ac
+Combination: Woebap, Two Pair ( Qh Qd 3c 3h Ac )
+Wins: Woebap, chips: 260
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Woebap
+Small Blind: Jegibinny, chips: 10
+Big Blind: Katevo, chips: 20
+Calls: Loeveecha
+Calls: Nehe
+Folds: Moema
+Calls: Senutry
+Calls: Woebap
+Folds: Jegibinny
+Checks: Katevo
+Flop: 3c 8h 4h
+Checks: Katevo
+Checks: Loeveecha
+Checks: Nehe
+Checks: Senutry
+Checks: Woebap
+Turn: 8s
+Checks: Katevo
+Checks: Loeveecha
+Raises: Nehe, chips: 20
+Raises: Senutry, chips: 40
+Calls: Woebap
+Folds: Katevo
+Folds: Loeveecha
+Calls: Nehe
+River: 2h
+Checks: Nehe
+Checks: Senutry
+Checks: Woebap
+Pot size: 290
+Showdown Reached
+Shows: Nehe, Jd 5h
+Combination: Nehe, Pair ( 8h 8s Jd 5h 4h )
+Shows: Senutry, 7s Ad
+Combination: Senutry, Pair ( 8h 8s Ad 7s 4h )
+Shows: Woebap, 8d Th
+Combination: Woebap, Three Of A Kind ( 8d 8h 8s Th 4h )
+Wins: Woebap, chips: 290
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Jegibinny
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Folds: Nehe
+Folds: Moema
+Folds: Senutry
+Calls: Woebap
+Folds: Jegibinny
+Raises: Katevo, chips: 30
+Folds: Loeveecha
+Calls: Woebap
+Flop: 9h 4s As
+Checks: Katevo
+Checks: Woebap
+Turn: 2d
+Raises: Katevo, chips: 40
+Calls: Woebap
+River: 5s
+Checks: Katevo
+Checks: Woebap
+Pot size: 200
+Showdown Reached
+Shows: Katevo, Ah Qh
+Combination: Katevo, Pair ( Ah As Qh 9h 5s )
+Boasts: Nehe, Ks Ac
+Shows: Woebap, 5d 5h
+Combination: Woebap, Three Of A Kind ( 5d 5h 5s As 9h )
+Wins: Woebap, chips: 200
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Loeveecha, chips: 10
+Big Blind: Nehe, chips: 20
+Folds: Moema
+Calls: Senutry
+Calls: Woebap
+Folds: Jegibinny
+Calls: Katevo
+Calls: Loeveecha
+Raises: Nehe, chips: 20
+Calls: Senutry
+Calls: Woebap
+Folds: Katevo
+Calls: Loeveecha
+Flop: Kc 6d Jc
+Checks: Loeveecha
+Checks: Nehe
+Checks: Senutry
+Checks: Woebap
+Turn: 3c
+Checks: Loeveecha
+Checks: Nehe
+Checks: Senutry
+Checks: Woebap
+River: Ts
+Checks: Loeveecha
+Checks: Nehe
+Checks: Senutry
+Checks: Woebap
+Pot size: 180
+Showdown Reached
+Shows: Loeveecha, Tc Qh
+Combination: Loeveecha, Pair ( Tc Ts Kc Qh Jc )
+Shows: Nehe, 7d 7s
+Combination: Nehe, Pair ( 7d 7s Kc Jc Ts )
+Shows: Senutry, Ks 6c
+Combination: Senutry, Two Pair ( Ks Kc 6c 6d Jc )
+Shows: Woebap, As 2c
+Combination: Woebap, High Card ( As Kc Jc Ts 6d )
+Wins: Senutry, chips: 180
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Nehe, chips: 10
+Big Blind: Moema, chips: 20
+Folds: Senutry
+Calls: Woebap
+Calls: Jegibinny
+Raises: Katevo, chips: 800
+Folds: Loeveecha
+Calls: Nehe
+Folds: Moema
+Calls: Woebap
+Folds: Jegibinny
+Flop: 5c Tc 2h
+Turn: Jc
+River: Td
+Pot size: 1810
+Showdown Reached
+Shows: Katevo, Ah As
+Combination: Katevo, Two Pair ( Ah As Tc Td Jc )
+Shows: Nehe, 8d Ts
+Combination: Nehe, Three Of A Kind ( Ts Tc Td Jc 8d )
+Shows: Woebap, 4s Kd
+Combination: Woebap, Pair ( Tc Td Kd Jc 5c )
+Wins: Katevo, chips: 1380
+Wins: Nehe, chips: 430
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Nehe
+Small Blind: Moema, chips: 10
+Big Blind: Senutry, chips: 20
+Calls: Woebap
+Raises: Jegibinny, chips: 840
+Folds: Katevo
+Folds: Loeveecha
+Calls: Nehe
+Folds: Moema
+Raises: Senutry, chips: 790
+Calls: Woebap
+Flop: 6d 6c Th
+Turn: 7d
+River: 7c
+Pot size: 4600
+Showdown Reached
+Shows: Nehe, Js 4h
+Combination: Nehe, Two Pair ( 7d 7c 6d 6c Js )
+Shows: Senutry, 9d 8c
+Combination: Senutry, Straight ( Th 9d 8c 7d 6d )
+Shows: Woebap, Ad Kc
+Combination: Woebap, Two Pair ( 7d 7c 6d 6c Ad )
+Shows: Jegibinny, As Kh
+Combination: Jegibinny, Two Pair ( 7d 7c 6d 6c As )
+Wins: Senutry, chips: 4600
+Quits: Nehe, chips: 0
+Quits: Jegibinny, chips: 0
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Moema
+Small Blind: Senutry, chips: 10
+Big Blind: Woebap, chips: 20
+Raises: Katevo, chips: 40
+Folds: Loeveecha
+Folds: Moema
+Calls: Senutry
+Calls: Woebap
+Flop: Qd 6d Jd
+Checks: Senutry
+Checks: Woebap
+Checks: Katevo
+Turn: Kd
+Checks: Senutry
+Checks: Woebap
+Checks: Katevo
+River: 7d
+Raises: Senutry, chips: 40
+Calls: Woebap
+Folds: Katevo
+Pot size: 260
+Showdown Reached
+Shows: Senutry, Js Ac
+Combination: Senutry, Flush ( Kd Qd Jd 7d 6d )
+Shows: Woebap, 8h Ts
+Combination: Woebap, Flush ( Kd Qd Jd 7d 6d )
+Wins: Senutry, chips: 130
+Wins: Woebap, chips: 130
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Senutry
+Small Blind: Woebap, chips: 10
+Big Blind: Katevo, chips: 20
+Folds: Loeveecha
+Calls: Moema
+Folds: Senutry
+Calls: Woebap
+Checks: Katevo
+Flop: Ac 3h Jh
+Checks: Woebap
+Checks: Katevo
+Checks: Moema
+Turn: 8c
+Checks: Woebap
+Checks: Katevo
+Checks: Moema
+River: 3s
+Checks: Woebap
+Checks: Katevo
+Checks: Moema
+Pot size: 60
+Showdown Reached
+Shows: Katevo, 8h 6h
+Combination: Katevo, Two Pair ( 8h 8c 3h 3s Ac )
+Shows: Moema, Qd Qh
+Combination: Moema, Two Pair ( Qd Qh 3h 3s Ac )
+Shows: Woebap, Th Qs
+Combination: Woebap, Pair ( 3h 3s Ac Qs Jh )
+Wins: Moema, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Woebap
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Folds: Moema
+Calls: Senutry
+Calls: Woebap
+Raises: Katevo, chips: 1280
+Folds: Loeveecha
+Raises: Senutry, chips: 1300
+Calls: Woebap
+Flop: 5h 2c Jc
+Turn: As
+River: 3c
+Pot size: 5220
+Showdown Reached
+Shows: Katevo, Ks Ad
+Combination: Katevo, Pair ( Ad As Ks Jc 5h )
+Shows: Senutry, 3s 7s
+Combination: Senutry, Pair ( 3s 3c As Jc 7s )
+Shows: Woebap, 7c 7h
+Combination: Woebap, Pair ( 7c 7h As Jc 5h )
+Wins: Katevo, chips: 3920
+Wins: Senutry, chips: 1300
+Quits: Woebap, chips: 0
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Loeveecha, chips: 10
+Big Blind: Moema, chips: 20
+Calls: Senutry
+Calls: Katevo
+Folds: Loeveecha
+Checks: Moema
+Flop: 9d Tc Td
+Checks: Moema
+Checks: Senutry
+Checks: Katevo
+Turn: Th
+Checks: Moema
+Checks: Senutry
+Raises: Katevo, chips: 20
+Folds: Moema
+Raises: Senutry, chips: 40
+Calls: Katevo
+River: 7h
+Checks: Senutry
+Raises: Katevo, chips: 40
+Calls: Senutry
+Pot size: 270
+Showdown Reached
+Shows: Katevo, Js 9s
+Combination: Katevo, Full House ( Tc Td Th 9s 9d )
+Shows: Senutry, 6c 3c
+Combination: Senutry, Three Of A Kind ( Tc Td Th 9d 7h )
+Wins: Katevo, chips: 270
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Moema, chips: 10
+Big Blind: Senutry, chips: 20
+Folds: Katevo
+Folds: Loeveecha
+Calls: Moema
+Checks: Senutry
+Flop: Ad Qc 8h
+Checks: Moema
+Raises: Senutry, chips: 20
+Calls: Moema
+Turn: Jh
+Raises: Moema, chips: 20
+Raises: Senutry, chips: 40
+Raises: Moema, chips: 60
+Folds: Senutry
+Pot size: 260
+Boasts: Senutry, Ks 5d
+Wins: Moema, chips: 260
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Moema
+Small Blind: Senutry, chips: 10
+Big Blind: Katevo, chips: 20
+Calls: Loeveecha
+Raises: Moema, chips: 20
+Folds: Senutry
+Folds: Katevo
+Raises: Loeveecha, chips: 20
+Raises: Moema, chips: 20
+Calls: Loeveecha
+Flop: 3h 5s 5c
+Checks: Loeveecha
+Raises: Moema, chips: 20
+Raises: Loeveecha, chips: 40
+Calls: Moema
+Turn: Ac
+Checks: Loeveecha
+Raises: Moema, chips: 60
+Folds: Loeveecha
+Pot size: 370
+Boasts: Senutry, 2s 6s
+Wins: Moema, chips: 370
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Senutry
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Calls: Moema
+Raises: Senutry, chips: 40
+Calls: Katevo
+Folds: Loeveecha
+Raises: Moema, chips: 40
+Raises: Senutry, chips: 80
+Folds: Katevo
+Raises: Moema, chips: 160
+Calls: Senutry
+Flop: Ac Qd 2h
+Raises: Moema, chips: 200
+Folds: Senutry
+Pot size: 960
+Wins: Moema, chips: 960
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Loeveecha, chips: 10
+Big Blind: Moema, chips: 20
+Folds: Senutry
+Folds: Katevo
+Folds: Loeveecha
+Pot size: 30
+Boasts: Senutry, 8s 4h
+Wins: Moema, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Moema, chips: 10
+Big Blind: Senutry, chips: 20
+Calls: Katevo
+Calls: Loeveecha
+Folds: Moema
+Checks: Senutry
+Flop: Ad 4h Ac
+Checks: Senutry
+Checks: Katevo
+Checks: Loeveecha
+Turn: Jd
+Checks: Senutry
+Checks: Katevo
+Checks: Loeveecha
+River: 5s
+Checks: Senutry
+Checks: Katevo
+Checks: Loeveecha
+Pot size: 70
+Showdown Reached
+Shows: Katevo, Jh Qd
+Combination: Katevo, Two Pair ( Ad Ac Jh Jd Qd )
+Shows: Loeveecha, Th 9d
+Combination: Loeveecha, Pair ( Ad Ac Jd Th 9d )
+Shows: Senutry, Jc Kd
+Combination: Senutry, Two Pair ( Ad Ac Jc Jd Kd )
+Wins: Senutry, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Moema
+Small Blind: Senutry, chips: 10
+Big Blind: Katevo, chips: 20
+Folds: Loeveecha
+Folds: Moema
+Raises: Senutry, chips: 30
+Folds: Katevo
+Pot size: 70
+Wins: Senutry, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Senutry
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Folds: Moema
+Calls: Senutry
+Folds: Katevo
+Checks: Loeveecha
+Flop: Jd Qd 5c
+Checks: Loeveecha
+Checks: Senutry
+Turn: 8d
+Checks: Loeveecha
+Checks: Senutry
+River: 7c
+Raises: Loeveecha, chips: 20
+Folds: Senutry
+Pot size: 70
+Wins: Loeveecha, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Loeveecha, chips: 10
+Big Blind: Moema, chips: 20
+Calls: Senutry
+Calls: Katevo
+Folds: Loeveecha
+Checks: Moema
+Flop: 9d Qd Kh
+Checks: Moema
+Checks: Senutry
+Checks: Katevo
+Turn: 8d
+Raises: Moema, chips: 20
+Calls: Senutry
+Folds: Katevo
+River: 4s
+Checks: Moema
+Checks: Senutry
+Pot size: 110
+Showdown Reached
+Shows: Moema, 8s Ad
+Combination: Moema, Pair ( 8s 8d Ad Kh Qd )
+Shows: Senutry, Qs 5c
+Combination: Senutry, Pair ( Qs Qd Kh 9d 8d )
+Wins: Senutry, chips: 110
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Moema, chips: 10
+Big Blind: Senutry, chips: 20
+Folds: Katevo
+Folds: Loeveecha
+Calls: Moema
+Checks: Senutry
+Flop: Jd 3h Ts
+Checks: Moema
+Checks: Senutry
+Turn: 9h
+Checks: Moema
+Checks: Senutry
+River: 9c
+Checks: Moema
+Checks: Senutry
+Pot size: 40
+Showdown Reached
+Shows: Moema, 6c 6s
+Combination: Moema, Two Pair ( 9h 9c 6c 6s Jd )
+Shows: Senutry, 7h Js
+Combination: Senutry, Two Pair ( Js Jd 9h 9c Ts )
+Wins: Senutry, chips: 40
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Moema
+Small Blind: Senutry, chips: 10
+Big Blind: Katevo, chips: 20
+Calls: Loeveecha
+Calls: Moema
+Calls: Senutry
+Checks: Katevo
+Flop: Td 8s 4d
+Checks: Senutry
+Checks: Katevo
+Checks: Loeveecha
+Checks: Moema
+Turn: 3s
+Checks: Senutry
+Checks: Katevo
+Checks: Loeveecha
+Checks: Moema
+River: Ks
+Checks: Senutry
+Checks: Katevo
+Raises: Loeveecha, chips: 850
+Folds: Moema
+Raises: Senutry, chips: 870
+Folds: Katevo
+Pot size: 2650
+Showdown Reached
+Shows: Loeveecha, Kd Th
+Combination: Loeveecha, Two Pair ( Kd Ks Th Td 8s )
+Shows: Senutry, 5c 6s
+Combination: Senutry, High Card ( Ks Td 8s 6s 5c )
+Wins: Loeveecha, chips: 1780
+Wins: Senutry, chips: 870
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Senutry
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Folds: Moema
+Calls: Senutry
+Folds: Katevo
+Checks: Loeveecha
+Flop: 5c 7h 4c
+Checks: Loeveecha
+Raises: Senutry, chips: 20
+Raises: Loeveecha, chips: 40
+Folds: Senutry
+Pot size: 130
+Wins: Loeveecha, chips: 130
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Loeveecha, chips: 10
+Big Blind: Moema, chips: 20
+Folds: Senutry
+Raises: Katevo, chips: 3870
+Folds: Loeveecha
+Folds: Moema
+Pot size: 3920
+Wins: Katevo, chips: 3920
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Moema, chips: 10
+Big Blind: Senutry, chips: 20
+Folds: Katevo
+Folds: Loeveecha
+Folds: Moema
+Pot size: 30
+Wins: Senutry, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Moema
+Small Blind: Senutry, chips: 10
+Big Blind: Katevo, chips: 20
+Folds: Loeveecha
+Folds: Moema
+Calls: Senutry
+Checks: Katevo
+Flop: 2c 2s Kd
+Raises: Senutry, chips: 20
+Calls: Katevo
+Turn: 4h
+Checks: Senutry
+Checks: Katevo
+River: 7s
+Checks: Senutry
+Checks: Katevo
+Pot size: 80
+Showdown Reached
+Shows: Katevo, 8c Qd
+Combination: Katevo, Pair ( 2c 2s Kd Qd 8c )
+Shows: Senutry, Th 9c
+Combination: Senutry, Pair ( 2c 2s Kd Th 9c )
+Wins: Katevo, chips: 80
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Senutry
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Folds: Moema
+Calls: Senutry
+Folds: Katevo
+Checks: Loeveecha
+Flop: Js Ks 7d
+Checks: Loeveecha
+Raises: Senutry, chips: 20
+Folds: Loeveecha
+Pot size: 70
+Wins: Senutry, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Loeveecha, chips: 10
+Big Blind: Moema, chips: 20
+Calls: Senutry
+Folds: Katevo
+Raises: Loeveecha, chips: 30
+Folds: Moema
+Raises: Senutry, chips: 60
+Raises: Loeveecha, chips: 160
+Calls: Senutry
+Flop: 3s 2h 3c
+Checks: Loeveecha
+Checks: Senutry
+Turn: 6c
+Checks: Loeveecha
+Raises: Senutry, chips: 160
+Calls: Loeveecha
+River: Ts
+Checks: Loeveecha
+Checks: Senutry
+Pot size: 880
+Showdown Reached
+Shows: Loeveecha, 9s 9d
+Combination: Loeveecha, Two Pair ( 9s 9d 3s 3c Ts )
+Shows: Senutry, Js 7c
+Combination: Senutry, Pair ( 3s 3c Js Ts 7c )
+Wins: Loeveecha, chips: 880
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Moema, chips: 10
+Big Blind: Senutry, chips: 20
+Folds: Katevo
+Folds: Loeveecha
+Raises: Moema, chips: 1220
+Raises: Senutry, chips: 320
+Flop: 7c Td 6s
+Turn: 7d
+River: 2c
+Pot size: 2800
+Showdown Reached
+Shows: Moema, Qh Kh
+Combination: Moema, Pair ( 7c 7d Kh Qh Td )
+Shows: Senutry, 8c 9h
+Combination: Senutry, Straight ( Td 9h 8c 7c 6s )
+Wins: Senutry, chips: 2800
+Quits: Moema, chips: 0
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Senutry
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Calls: Senutry
+Calls: Katevo
+Raises: Loeveecha, chips: 20
+Folds: Senutry
+Calls: Katevo
+Flop: As 8s Ts
+Raises: Katevo, chips: 20
+Calls: Loeveecha
+Turn: 4s
+Checks: Katevo
+Checks: Loeveecha
+River: 5c
+Checks: Katevo
+Checks: Loeveecha
+Pot size: 140
+Showdown Reached
+Shows: Katevo, Qd Ac
+Combination: Katevo, Pair ( Ac As Qd Ts 8s )
+Shows: Loeveecha, Qc Tc
+Combination: Loeveecha, Pair ( Tc Ts As Qc 8s )
+Wins: Katevo, chips: 140
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Loeveecha, chips: 10
+Big Blind: Senutry, chips: 20
+Folds: Katevo
+Folds: Loeveecha
+Pot size: 30
+Wins: Senutry, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Senutry, chips: 10
+Big Blind: Katevo, chips: 20
+Folds: Loeveecha
+Raises: Senutry, chips: 30
+Folds: Katevo
+Pot size: 70
+Wins: Senutry, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Senutry
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Folds: Senutry
+Folds: Katevo
+Pot size: 30
+Wins: Loeveecha, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Loeveecha, chips: 10
+Big Blind: Senutry, chips: 20
+Calls: Katevo
+Folds: Loeveecha
+Checks: Senutry
+Flop: Jc 5h 7h
+Checks: Senutry
+Raises: Katevo, chips: 20
+Calls: Senutry
+Turn: Kd
+Checks: Senutry
+Raises: Katevo, chips: 20
+Folds: Senutry
+Pot size: 110
+Wins: Katevo, chips: 110
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Senutry, chips: 10
+Big Blind: Katevo, chips: 20
+Calls: Loeveecha
+Raises: Senutry, chips: 30
+Calls: Katevo
+Calls: Loeveecha
+Flop: 2s 6s Kh
+Raises: Senutry, chips: 30
+Folds: Katevo
+Calls: Loeveecha
+Turn: Qh
+Checks: Senutry
+Checks: Loeveecha
+River: Jc
+Checks: Senutry
+Checks: Loeveecha
+Pot size: 210
+Showdown Reached
+Shows: Loeveecha, Ah 2h
+Combination: Loeveecha, Pair ( 2h 2s Ah Kh Qh )
+Shows: Senutry, Qc 5d
+Combination: Senutry, Pair ( Qc Qh Kh Jc 6s )
+Wins: Senutry, chips: 210
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Senutry
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Calls: Senutry
+Calls: Katevo
+Checks: Loeveecha
+Flop: 8h 9d 3s
+Checks: Katevo
+Checks: Loeveecha
+Checks: Senutry
+Turn: Ks
+Checks: Katevo
+Checks: Loeveecha
+Checks: Senutry
+River: Qc
+Checks: Katevo
+Checks: Loeveecha
+Checks: Senutry
+Pot size: 60
+Showdown Reached
+Shows: Katevo, 4h 3h
+Combination: Katevo, Pair ( 3h 3s Ks Qc 9d )
+Shows: Loeveecha, Kh 6s
+Combination: Loeveecha, Pair ( Kh Ks Qc 9d 8h )
+Shows: Senutry, 5d Qs
+Combination: Senutry, Pair ( Qs Qc Ks 9d 8h )
+Wins: Loeveecha, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Loeveecha, chips: 10
+Big Blind: Senutry, chips: 20
+Folds: Katevo
+Calls: Loeveecha
+Raises: Senutry, chips: 20
+Folds: Loeveecha
+Pot size: 60
+Boasts: Senutry, 4c Ad
+Wins: Senutry, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Senutry, chips: 10
+Big Blind: Katevo, chips: 20
+Folds: Loeveecha
+Calls: Senutry
+Checks: Katevo
+Flop: 3h 8d 4d
+Checks: Senutry
+Checks: Katevo
+Turn: Jh
+Checks: Senutry
+Checks: Katevo
+River: Qc
+Checks: Senutry
+Raises: Katevo, chips: 20
+Calls: Senutry
+Pot size: 80
+Showdown Reached
+Shows: Katevo, Qh 9c
+Combination: Katevo, Pair ( Qh Qc Jh 9c 8d )
+Shows: Senutry, 2d 3s
+Combination: Senutry, Pair ( 3s 3h Qc Jh 8d )
+Wins: Katevo, chips: 80
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Senutry
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Folds: Senutry
+Folds: Katevo
+Pot size: 30
+Boasts: Senutry, Qc 4h
+Wins: Loeveecha, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Loeveecha, chips: 10
+Big Blind: Senutry, chips: 20
+Raises: Katevo, chips: 3990
+Folds: Loeveecha
+Calls: Senutry
+Flop: 4s Kc Jd
+Turn: Ad
+River: Js
+Pot size: 6880
+Showdown Reached
+Shows: Katevo, Tc Td
+Combination: Katevo, Two Pair ( Jd Js Tc Td Ad )
+Shows: Senutry, 9c 5s
+Combination: Senutry, Pair ( Jd Js Ad Kc 9c )
+Wins: Katevo, chips: 6880
+Quits: Senutry, chips: 0
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Calls: Loeveecha
+Checks: Katevo
+Flop: 7h 9d 3c
+Checks: Katevo
+Raises: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 60
+Wins: Loeveecha, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Calls: Katevo
+Raises: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 60
+Wins: Loeveecha, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Folds: Loeveecha
+Pot size: 30
+Wins: Katevo, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 30
+Wins: Loeveecha, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Folds: Loeveecha
+Pot size: 30
+Wins: Katevo, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Calls: Katevo
+Checks: Loeveecha
+Flop: Ts Th 9h
+Checks: Loeveecha
+Checks: Katevo
+Turn: 7d
+Checks: Loeveecha
+Checks: Katevo
+River: 3s
+Checks: Loeveecha
+Checks: Katevo
+Pot size: 40
+Showdown Reached
+Shows: Katevo, 7s 6s
+Combination: Katevo, Two Pair ( Ts Th 7s 7d 9h )
+Shows: Loeveecha, Kh Jd
+Combination: Loeveecha, Pair ( Ts Th Kh Jd 9h )
+Wins: Katevo, chips: 40
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Calls: Loeveecha
+Checks: Katevo
+Flop: Qs 2s 8d
+Checks: Katevo
+Checks: Loeveecha
+Turn: 6c
+Raises: Katevo, chips: 6850
+Folds: Loeveecha
+Pot size: 6890
+Wins: Katevo, chips: 6890
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Calls: Katevo
+Checks: Loeveecha
+Flop: Jh Kh Jc
+Raises: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 60
+Wins: Loeveecha, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Folds: Loeveecha
+Pot size: 30
+Wins: Katevo, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 30
+Wins: Loeveecha, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Folds: Loeveecha
+Pot size: 30
+Wins: Katevo, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 30
+Wins: Loeveecha, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Calls: Loeveecha
+Checks: Katevo
+Flop: Jd Jc Js
+Raises: Katevo, chips: 20
+Raises: Loeveecha, chips: 20
+Calls: Katevo
+Turn: 7d
+Checks: Katevo
+Checks: Loeveecha
+River: 7c
+Checks: Katevo
+Checks: Loeveecha
+Pot size: 120
+Showdown Reached
+Shows: Katevo, 2s Qs
+Combination: Katevo, Full House ( Jd Jc Js 7d 7c )
+Shows: Loeveecha, 6h 6c
+Combination: Loeveecha, Full House ( Jd Jc Js 7d 7c )
+Wins: Katevo, chips: 60
+Wins: Loeveecha, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 30
+Wins: Loeveecha, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Folds: Loeveecha
+Pot size: 30
+Wins: Katevo, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Calls: Katevo
+Checks: Loeveecha
+Flop: Jd Ah 7h
+Checks: Loeveecha
+Raises: Katevo, chips: 6850
+Folds: Loeveecha
+Pot size: 6890
+Wins: Katevo, chips: 6890
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Folds: Loeveecha
+Pot size: 30
+Wins: Katevo, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Calls: Katevo
+Checks: Loeveecha
+Flop: 4s Kh 8c
+Checks: Loeveecha
+Checks: Katevo
+Turn: 3s
+Checks: Loeveecha
+Checks: Katevo
+River: 6s
+Checks: Loeveecha
+Checks: Katevo
+Pot size: 40
+Showdown Reached
+Shows: Katevo, Qc Jh
+Combination: Katevo, High Card ( Kh Qc Jh 8c 6s )
+Shows: Loeveecha, 2c 7d
+Combination: Loeveecha, High Card ( Kh 8c 7d 6s 4s )
+Wins: Katevo, chips: 40
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Calls: Loeveecha
+Checks: Katevo
+Flop: 5c Kh 4s
+Checks: Katevo
+Raises: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 60
+Wins: Loeveecha, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 30
+Wins: Loeveecha, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Calls: Loeveecha
+Checks: Katevo
+Flop: 2s Qc 6h
+Checks: Katevo
+Checks: Loeveecha
+Turn: 7d
+Checks: Katevo
+Checks: Loeveecha
+River: Qh
+Checks: Katevo
+Checks: Loeveecha
+Pot size: 40
+Showdown Reached
+Shows: Katevo, Kd 9s
+Combination: Katevo, Pair ( Qc Qh Kd 9s 7d )
+Shows: Loeveecha, Tc Ks
+Combination: Loeveecha, Pair ( Qc Qh Ks Tc 7d )
+Wins: Loeveecha, chips: 40
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 30
+Wins: Loeveecha, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Calls: Loeveecha
+Raises: Katevo, chips: 20
+Folds: Loeveecha
+Pot size: 60
+Wins: Katevo, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 30
+Wins: Loeveecha, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Calls: Loeveecha
+Checks: Katevo
+Flop: 9d Ks 3s
+Checks: Katevo
+Checks: Loeveecha
+Turn: 6h
+Checks: Katevo
+Checks: Loeveecha
+River: Qs
+Checks: Katevo
+Raises: Loeveecha, chips: 2110
+Calls: Katevo
+Pot size: 4260
+Showdown Reached
+Shows: Katevo, Jd 6d
+Combination: Katevo, Pair ( 6d 6h Ks Qs Jd )
+Shows: Loeveecha, 9c Qc
+Combination: Loeveecha, Two Pair ( Qc Qs 9c 9d Ks )
+Wins: Loeveecha, chips: 4260
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Calls: Katevo
+Checks: Loeveecha
+Flop: 4d 6d 8d
+Raises: Loeveecha, chips: 20
+Calls: Katevo
+Turn: Qc
+Raises: Loeveecha, chips: 20
+Calls: Katevo
+River: 2d
+Checks: Loeveecha
+Checks: Katevo
+Pot size: 120
+Showdown Reached
+Shows: Katevo, 5h 8h
+Combination: Katevo, Pair ( 8h 8d Qc 6d 5h )
+Shows: Loeveecha, 8s 3c
+Combination: Loeveecha, Pair ( 8s 8d Qc 6d 4d )
+Wins: Katevo, chips: 120
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Calls: Loeveecha
+Checks: Katevo
+Flop: 2h 7d Ks
+Checks: Katevo
+Checks: Loeveecha
+Turn: Jc
+Checks: Katevo
+Checks: Loeveecha
+River: 4h
+Checks: Katevo
+Checks: Loeveecha
+Pot size: 40
+Showdown Reached
+Shows: Katevo, 5h Jh
+Combination: Katevo, Pair ( Jh Jc Ks 7d 5h )
+Shows: Loeveecha, 9s Td
+Combination: Loeveecha, High Card ( Ks Jc Td 9s 7d )
+Wins: Katevo, chips: 40
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 30
+Wins: Loeveecha, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Folds: Loeveecha
+Pot size: 30
+Wins: Katevo, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Calls: Katevo
+Checks: Loeveecha
+Flop: 2s 2d 4s
+Checks: Loeveecha
+Checks: Katevo
+Turn: Tc
+Checks: Loeveecha
+Raises: Katevo, chips: 20
+Raises: Loeveecha, chips: 20
+Raises: Katevo, chips: 40
+Calls: Loeveecha
+River: Ks
+Raises: Loeveecha, chips: 40
+Folds: Katevo
+Pot size: 240
+Wins: Loeveecha, chips: 240
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Folds: Loeveecha
+Pot size: 30
+Wins: Katevo, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 30
+Wins: Loeveecha, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Folds: Loeveecha
+Pot size: 30
+Wins: Katevo, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Raises: Katevo, chips: 4710
+Folds: Loeveecha
+Pot size: 4750
+Wins: Katevo, chips: 4750
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Calls: Loeveecha
+Checks: Katevo
+Flop: Jd 6h 3h
+Checks: Katevo
+Checks: Loeveecha
+Turn: Qh
+Checks: Katevo
+Checks: Loeveecha
+River: Th
+Checks: Katevo
+Checks: Loeveecha
+Pot size: 40
+Showdown Reached
+Shows: Katevo, 4s 5d
+Combination: Katevo, High Card ( Qh Jd Th 6h 5d )
+Shows: Loeveecha, Kh As
+Combination: Loeveecha, Flush ( Kh Qh Th 6h 3h )
+Wins: Loeveecha, chips: 40
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Calls: Katevo
+Checks: Loeveecha
+Flop: 9c 8h Qd
+Checks: Loeveecha
+Raises: Katevo, chips: 20
+Folds: Loeveecha
+Pot size: 60
+Wins: Katevo, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Folds: Loeveecha
+Pot size: 30
+Wins: Katevo, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Calls: Katevo
+Checks: Loeveecha
+Flop: Qd Tc 8s
+Checks: Loeveecha
+Checks: Katevo
+Turn: 2d
+Checks: Loeveecha
+Checks: Katevo
+River: 4h
+Checks: Loeveecha
+Checks: Katevo
+Pot size: 40
+Showdown Reached
+Shows: Katevo, 7c 8d
+Combination: Katevo, Pair ( 8d 8s Qd Tc 7c )
+Shows: Loeveecha, 2h Ts
+Combination: Loeveecha, Two Pair ( Ts Tc 2h 2d Qd )
+Wins: Loeveecha, chips: 40
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Calls: Loeveecha
+Checks: Katevo
+Flop: 5s 6d Kc
+Checks: Katevo
+Checks: Loeveecha
+Turn: 9c
+Checks: Katevo
+Raises: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 60
+Wins: Loeveecha, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 30
+Wins: Loeveecha, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Folds: Loeveecha
+Pot size: 30
+Wins: Katevo, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 30
+Wins: Loeveecha, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Calls: Loeveecha
+Raises: Katevo, chips: 4690
+Folds: Loeveecha
+Pot size: 4730
+Wins: Katevo, chips: 4730
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 30
+Wins: Loeveecha, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Calls: Loeveecha
+Checks: Katevo
+Flop: 9c 5h Ah
+Checks: Katevo
+Checks: Loeveecha
+Turn: 9s
+Checks: Katevo
+Checks: Loeveecha
+River: 5c
+Checks: Katevo
+Checks: Loeveecha
+Pot size: 40
+Showdown Reached
+Shows: Katevo, 3h Kh
+Combination: Katevo, Two Pair ( 9c 9s 5h 5c Ah )
+Shows: Loeveecha, Kc 3c
+Combination: Loeveecha, Two Pair ( 9c 9s 5h 5c Ah )
+Wins: Katevo, chips: 20
+Wins: Loeveecha, chips: 20
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 30
+Wins: Loeveecha, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Folds: Loeveecha
+Pot size: 30
+Wins: Katevo, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Calls: Katevo
+Checks: Loeveecha
+Flop: 9s 5h Td
+Checks: Loeveecha
+Checks: Katevo
+Turn: 2c
+Checks: Loeveecha
+Checks: Katevo
+River: 4h
+Checks: Loeveecha
+Checks: Katevo
+Pot size: 40
+Showdown Reached
+Shows: Katevo, 7s 8d
+Combination: Katevo, High Card ( Td 9s 8d 7s 5h )
+Shows: Loeveecha, Kd 6c
+Combination: Loeveecha, High Card ( Kd Td 9s 6c 5h )
+Wins: Loeveecha, chips: 40
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Folds: Loeveecha
+Pot size: 30
+Wins: Katevo, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 30
+Wins: Loeveecha, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Folds: Loeveecha
+Pot size: 30
+Wins: Katevo, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Calls: Katevo
+Checks: Loeveecha
+Flop: Kh Ks 6h
+Checks: Loeveecha
+Checks: Katevo
+Turn: 8c
+Checks: Loeveecha
+Checks: Katevo
+River: 4d
+Checks: Loeveecha
+Checks: Katevo
+Pot size: 40
+Showdown Reached
+Shows: Katevo, Tc 7c
+Combination: Katevo, Pair ( Kh Ks Tc 8c 7c )
+Shows: Loeveecha, Qh 9d
+Combination: Loeveecha, Pair ( Kh Ks Qh 9d 8c )
+Wins: Loeveecha, chips: 40
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Folds: Loeveecha
+Pot size: 30
+Wins: Katevo, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Raises: Katevo, chips: 4680
+Folds: Loeveecha
+Pot size: 4720
+Wins: Katevo, chips: 4720
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Folds: Loeveecha
+Pot size: 30
+Wins: Katevo, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 30
+Wins: Loeveecha, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Calls: Loeveecha
+Checks: Katevo
+Flop: 2c Td Qh
+Checks: Katevo
+Checks: Loeveecha
+Turn: 2h
+Checks: Katevo
+Raises: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 60
+Wins: Loeveecha, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 30
+Wins: Loeveecha, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Folds: Loeveecha
+Pot size: 30
+Wins: Katevo, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 30
+Wins: Loeveecha, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Folds: Loeveecha
+Pot size: 30
+Wins: Katevo, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Calls: Katevo
+Checks: Loeveecha
+Flop: 5d 2d 7h
+Checks: Loeveecha
+Checks: Katevo
+Turn: Ah
+Checks: Loeveecha
+Checks: Katevo
+River: Jc
+Checks: Loeveecha
+Checks: Katevo
+Pot size: 40
+Showdown Reached
+Shows: Katevo, 8s 9h
+Combination: Katevo, High Card ( Ah Jc 9h 8s 7h )
+Shows: Loeveecha, Qd Ts
+Combination: Loeveecha, High Card ( Ah Qd Jc Ts 7h )
+Wins: Loeveecha, chips: 40
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Folds: Loeveecha
+Pot size: 30
+Wins: Katevo, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 30
+Wins: Loeveecha, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Calls: Loeveecha
+Checks: Katevo
+Flop: Ad Qh 3d
+Raises: Katevo, chips: 20
+Folds: Loeveecha
+Pot size: 60
+Wins: Katevo, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 30
+Wins: Loeveecha, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Folds: Loeveecha
+Pot size: 30
+Wins: Katevo, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 30
+Wins: Loeveecha, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Calls: Loeveecha
+Checks: Katevo
+Flop: Ah Kc Kh
+Checks: Katevo
+Checks: Loeveecha
+Turn: 3d
+Checks: Katevo
+Checks: Loeveecha
+River: 3s
+Checks: Katevo
+Checks: Loeveecha
+Pot size: 40
+Showdown Reached
+Shows: Katevo, 7s 9c
+Combination: Katevo, Two Pair ( Kc Kh 3d 3s Ah )
+Shows: Loeveecha, 8d Td
+Combination: Loeveecha, Two Pair ( Kc Kh 3d 3s Ah )
+Wins: Katevo, chips: 20
+Wins: Loeveecha, chips: 20
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 30
+Wins: Loeveecha, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Folds: Loeveecha
+Pot size: 30
+Wins: Katevo, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 30
+Wins: Loeveecha, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Calls: Loeveecha
+Checks: Katevo
+Flop: 4h As 5h
+Checks: Katevo
+Raises: Loeveecha, chips: 4300
+Folds: Katevo
+Pot size: 4340
+Wins: Loeveecha, chips: 4340
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Calls: Katevo
+Checks: Loeveecha
+Flop: Qs 8h Js
+Checks: Loeveecha
+Checks: Katevo
+Turn: 5s
+Raises: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 60
+Wins: Loeveecha, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Folds: Loeveecha
+Pot size: 30
+Wins: Katevo, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Calls: Katevo
+Checks: Loeveecha
+Flop: 4h Qh 5d
+Checks: Loeveecha
+Checks: Katevo
+Turn: 7c
+Checks: Loeveecha
+Checks: Katevo
+River: Kh
+Checks: Loeveecha
+Checks: Katevo
+Pot size: 40
+Showdown Reached
+Shows: Katevo, Qc Jc
+Combination: Katevo, Pair ( Qc Qh Kh Jc 7c )
+Shows: Loeveecha, 9c 6h
+Combination: Loeveecha, High Card ( Kh Qh 9c 7c 6h )
+Wins: Katevo, chips: 40
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Folds: Loeveecha
+Pot size: 30
+Wins: Katevo, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Calls: Katevo
+Checks: Loeveecha
+Flop: 3s 7d Qs
+Checks: Loeveecha
+Checks: Katevo
+Turn: 9s
+Checks: Loeveecha
+Checks: Katevo
+River: 5c
+Checks: Loeveecha
+Checks: Katevo
+Pot size: 40
+Showdown Reached
+Shows: Katevo, Js Th
+Combination: Katevo, High Card ( Qs Js Th 9s 7d )
+Shows: Loeveecha, 9h Ac
+Combination: Loeveecha, Pair ( 9h 9s Ac Qs 7d )
+Wins: Loeveecha, chips: 40
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Folds: Loeveecha
+Pot size: 30
+Wins: Katevo, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Raises: Katevo, chips: 30
+Folds: Loeveecha
+Pot size: 70
+Wins: Katevo, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Folds: Loeveecha
+Pot size: 30
+Wins: Katevo, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 30
+Wins: Loeveecha, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Folds: Loeveecha
+Pot size: 30
+Wins: Katevo, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Calls: Katevo
+Checks: Loeveecha
+Flop: 6s 7s 2d
+Checks: Loeveecha
+Checks: Katevo
+Turn: 5s
+Checks: Loeveecha
+Checks: Katevo
+River: 7d
+Raises: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 60
+Wins: Loeveecha, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Calls: Loeveecha
+Checks: Katevo
+Flop: 5s 5c Kh
+Raises: Katevo, chips: 20
+Raises: Loeveecha, chips: 20
+Calls: Katevo
+Turn: 9h
+Raises: Katevo, chips: 20
+Calls: Loeveecha
+River: 6d
+Raises: Katevo, chips: 20
+Calls: Loeveecha
+Pot size: 200
+Showdown Reached
+Shows: Katevo, 5h Ah
+Combination: Katevo, Three Of A Kind ( 5h 5s 5c Ah Kh )
+Shows: Loeveecha, 9s Qd
+Combination: Loeveecha, Two Pair ( 9s 9h 5s 5c Kh )
+Wins: Katevo, chips: 200
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 30
+Wins: Loeveecha, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Folds: Loeveecha
+Pot size: 30
+Wins: Katevo, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 30
+Wins: Loeveecha, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Raises: Loeveecha, chips: 30
+Folds: Katevo
+Pot size: 70
+Wins: Loeveecha, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Calls: Katevo
+Checks: Loeveecha
+Flop: 7c 6h 3h
+Checks: Loeveecha
+Checks: Katevo
+Turn: 6c
+Raises: Loeveecha, chips: 20
+Calls: Katevo
+River: 7s
+Checks: Loeveecha
+Checks: Katevo
+Pot size: 80
+Showdown Reached
+Shows: Katevo, 9d Ks
+Combination: Katevo, Two Pair ( 7c 7s 6h 6c Ks )
+Shows: Loeveecha, 4c 6d
+Combination: Loeveecha, Full House ( 6d 6h 6c 7c 7s )
+Wins: Loeveecha, chips: 80
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Raises: Loeveecha, chips: 30
+Folds: Katevo
+Pot size: 70
+Wins: Loeveecha, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 30
+Wins: Loeveecha, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Calls: Loeveecha
+Checks: Katevo
+Flop: Qh 4s As
+Checks: Katevo
+Raises: Loeveecha, chips: 20
+Calls: Katevo
+Turn: 4d
+Raises: Katevo, chips: 20
+Calls: Loeveecha
+River: Jh
+Checks: Katevo
+Raises: Loeveecha, chips: 20
+Calls: Katevo
+Pot size: 160
+Showdown Reached
+Shows: Katevo, 2c Qd
+Combination: Katevo, Two Pair ( Qd Qh 4s 4d As )
+Shows: Loeveecha, Ad 9h
+Combination: Loeveecha, Two Pair ( Ad As 4s 4d Qh )
+Wins: Loeveecha, chips: 160
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 30
+Wins: Loeveecha, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Folds: Loeveecha
+Pot size: 30
+Wins: Katevo, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 30
+Wins: Loeveecha, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Folds: Loeveecha
+Pot size: 30
+Wins: Katevo, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Calls: Katevo
+Checks: Loeveecha
+Flop: 9s 3h 7c
+Checks: Loeveecha
+Checks: Katevo
+Turn: Kd
+Raises: Loeveecha, chips: 20
+Calls: Katevo
+River: 2c
+Raises: Loeveecha, chips: 20
+Raises: Katevo, chips: 20
+Raises: Loeveecha, chips: 20
+Raises: Katevo, chips: 20
+Raises: Loeveecha, chips: 20
+Calls: Katevo
+Pot size: 280
+Showdown Reached
+Shows: Katevo, 2d 2h
+Combination: Katevo, Three Of A Kind ( 2d 2h 2c Kd 9s )
+Shows: Loeveecha, Kh 6h
+Combination: Loeveecha, Pair ( Kh Kd 9s 7c 6h )
+Wins: Katevo, chips: 280
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Folds: Loeveecha
+Pot size: 30
+Wins: Katevo, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 30
+Wins: Loeveecha, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Calls: Loeveecha
+Checks: Katevo
+Flop: Tc 6d 3c
+Checks: Katevo
+Checks: Loeveecha
+Turn: 5s
+Raises: Katevo, chips: 20
+Calls: Loeveecha
+River: Ah
+Checks: Katevo
+Raises: Loeveecha, chips: 20
+Calls: Katevo
+Pot size: 120
+Showdown Reached
+Shows: Katevo, Kd 3s
+Combination: Katevo, Pair ( 3s 3c Ah Kd Tc )
+Shows: Loeveecha, Ts Jh
+Combination: Loeveecha, Pair ( Ts Tc Ah Jh 6d )
+Wins: Loeveecha, chips: 120
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Calls: Katevo
+Checks: Loeveecha
+Flop: Kd Qd 4d
+Checks: Loeveecha
+Checks: Katevo
+Turn: 6d
+Checks: Loeveecha
+Checks: Katevo
+River: 5d
+Checks: Loeveecha
+Checks: Katevo
+Pot size: 40
+Showdown Reached
+Shows: Katevo, Jh 8c
+Combination: Katevo, Flush ( Kd Qd 6d 5d 4d )
+Shows: Loeveecha, 3d 5c
+Combination: Loeveecha, Flush ( Kd Qd 6d 5d 4d )
+Wins: Katevo, chips: 20
+Wins: Loeveecha, chips: 20
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Folds: Loeveecha
+Pot size: 30
+Wins: Katevo, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Calls: Katevo
+Checks: Loeveecha
+Flop: Ah Qd 9h
+Checks: Loeveecha
+Checks: Katevo
+Turn: 9s
+Checks: Loeveecha
+Raises: Katevo, chips: 20
+Calls: Loeveecha
+River: 2d
+Checks: Loeveecha
+Raises: Katevo, chips: 20
+Calls: Loeveecha
+Pot size: 120
+Showdown Reached
+Shows: Katevo, 9c 6c
+Combination: Katevo, Three Of A Kind ( 9c 9h 9s Ah Qd )
+Shows: Loeveecha, 3d Kh
+Combination: Loeveecha, Pair ( 9h 9s Ah Kh Qd )
+Wins: Katevo, chips: 120
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Folds: Loeveecha
+Pot size: 30
+Wins: Katevo, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Calls: Katevo
+Raises: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 60
+Wins: Loeveecha, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Calls: Loeveecha
+Checks: Katevo
+Flop: 6s 2c 8s
+Checks: Katevo
+Raises: Loeveecha, chips: 20
+Raises: Katevo, chips: 40
+Calls: Loeveecha
+Turn: Ts
+Checks: Katevo
+Checks: Loeveecha
+River: 7c
+Raises: Katevo, chips: 60
+Folds: Loeveecha
+Pot size: 220
+Wins: Katevo, chips: 220
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Calls: Katevo
+Checks: Loeveecha
+Flop: Ts 5h Kd
+Checks: Loeveecha
+Checks: Katevo
+Turn: 2c
+Checks: Loeveecha
+Checks: Katevo
+River: 6d
+Checks: Loeveecha
+Checks: Katevo
+Pot size: 40
+Showdown Reached
+Shows: Katevo, 9d Jh
+Combination: Katevo, High Card ( Kd Jh Ts 9d 6d )
+Shows: Loeveecha, 3s Ad
+Combination: Loeveecha, High Card ( Ad Kd Ts 6d 5h )
+Wins: Loeveecha, chips: 40
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Folds: Loeveecha
+Pot size: 30
+Wins: Katevo, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Calls: Katevo
+Checks: Loeveecha
+Flop: 2c 6s Qc
+Raises: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 60
+Wins: Loeveecha, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Folds: Loeveecha
+Pot size: 30
+Wins: Katevo, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 30
+Wins: Loeveecha, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Raises: Loeveecha, chips: 30
+Folds: Katevo
+Pot size: 70
+Wins: Loeveecha, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 30
+Wins: Loeveecha, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Calls: Loeveecha
+Checks: Katevo
+Flop: 8s 5d 8h
+Checks: Katevo
+Raises: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 60
+Wins: Loeveecha, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 30
+Wins: Loeveecha, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Calls: Loeveecha
+Checks: Katevo
+Flop: Qc 9c Js
+Checks: Katevo
+Checks: Loeveecha
+Turn: Ts
+Checks: Katevo
+Checks: Loeveecha
+River: 4h
+Checks: Katevo
+Checks: Loeveecha
+Pot size: 40
+Showdown Reached
+Shows: Katevo, 2d 8s
+Combination: Katevo, Straight ( Qc Js Ts 9c 8s )
+Shows: Loeveecha, Ad Tc
+Combination: Loeveecha, Pair ( Tc Ts Ad Qc Js )
+Wins: Katevo, chips: 40
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Calls: Katevo
+Checks: Loeveecha
+Flop: 9h 3s 2c
+Checks: Loeveecha
+Checks: Katevo
+Turn: 9d
+Checks: Loeveecha
+Raises: Katevo, chips: 20
+Folds: Loeveecha
+Pot size: 60
+Wins: Katevo, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Folds: Loeveecha
+Pot size: 30
+Wins: Katevo, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Calls: Katevo
+Checks: Loeveecha
+Flop: Qc Ad Ks
+Checks: Loeveecha
+Checks: Katevo
+Turn: 6s
+Raises: Loeveecha, chips: 4200
+Folds: Katevo
+Pot size: 4240
+Wins: Loeveecha, chips: 4240
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Folds: Loeveecha
+Pot size: 30
+Wins: Katevo, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 30
+Wins: Loeveecha, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Calls: Loeveecha
+Checks: Katevo
+Flop: 4s Kc 2s
+Checks: Katevo
+Checks: Loeveecha
+Turn: Jc
+Checks: Katevo
+Checks: Loeveecha
+River: 9s
+Checks: Katevo
+Checks: Loeveecha
+Pot size: 40
+Showdown Reached
+Shows: Katevo, Jh Tc
+Combination: Katevo, Pair ( Jh Jc Kc Tc 9s )
+Shows: Loeveecha, 8c Ac
+Combination: Loeveecha, High Card ( Ac Kc Jc 9s 8c )
+Wins: Katevo, chips: 40
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 30
+Wins: Loeveecha, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Folds: Loeveecha
+Pot size: 30
+Wins: Katevo, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Calls: Katevo
+Checks: Loeveecha
+Flop: 2c 8h 9s
+Checks: Loeveecha
+Raises: Katevo, chips: 20
+Raises: Loeveecha, chips: 20
+Calls: Katevo
+Turn: 2d
+Checks: Loeveecha
+Checks: Katevo
+River: 2h
+Raises: Loeveecha, chips: 20
+Raises: Katevo, chips: 40
+Calls: Loeveecha
+Pot size: 240
+Showdown Reached
+Shows: Katevo, As Qs
+Combination: Katevo, Three Of A Kind ( 2c 2d 2h As Qs )
+Shows: Loeveecha, 4h 4c
+Combination: Loeveecha, Full House ( 2c 2d 2h 4h 4c )
+Wins: Loeveecha, chips: 240
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Folds: Loeveecha
+Pot size: 30
+Wins: Katevo, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 30
+Wins: Loeveecha, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Calls: Loeveecha
+Raises: Katevo, chips: 20
+Folds: Loeveecha
+Pot size: 60
+Wins: Katevo, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Calls: Katevo
+Checks: Loeveecha
+Flop: 7c 4h Tc
+Raises: Loeveecha, chips: 20
+Calls: Katevo
+Turn: 6s
+Checks: Loeveecha
+Checks: Katevo
+River: 2c
+Raises: Loeveecha, chips: 4280
+Raises: Katevo, chips: 360
+Pot size: 9000
+Showdown Reached
+Shows: Katevo, 7d 6c
+Combination: Katevo, Two Pair ( 7d 7c 6c 6s Tc )
+Shows: Loeveecha, 7s Ts
+Combination: Loeveecha, Two Pair ( Ts Tc 7s 7c 6s )
+Wins: Katevo, chips: 360
+Wins: Loeveecha, chips: 8640
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Folds: Loeveecha
+Pot size: 30
+Wins: Katevo, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Calls: Katevo
+Checks: Loeveecha
+Flop: Qh 5h Kd
+Checks: Loeveecha
+Checks: Katevo
+Turn: Jd
+Checks: Loeveecha
+Checks: Katevo
+River: Ts
+Checks: Loeveecha
+Checks: Katevo
+Pot size: 40
+Showdown Reached
+Shows: Katevo, 8c 7c
+Combination: Katevo, High Card ( Kd Qh Jd Ts 8c )
+Shows: Loeveecha, 5d 2h
+Combination: Loeveecha, Pair ( 5d 5h Kd Qh Jd )
+Wins: Loeveecha, chips: 40
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Folds: Loeveecha
+Pot size: 30
+Wins: Katevo, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 30
+Wins: Loeveecha, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Folds: Loeveecha
+Pot size: 30
+Wins: Katevo, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 30
+Wins: Loeveecha, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Folds: Loeveecha
+Pot size: 30
+Wins: Katevo, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 30
+Wins: Loeveecha, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Calls: Loeveecha
+Checks: Katevo
+Flop: 2s Qd 9c
+Checks: Katevo
+Checks: Loeveecha
+Turn: 9d
+Checks: Katevo
+Checks: Loeveecha
+River: Qs
+Checks: Katevo
+Raises: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 60
+Wins: Loeveecha, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Raises: Katevo, chips: 30
+Folds: Loeveecha
+Pot size: 70
+Wins: Katevo, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Calls: Loeveecha
+Checks: Katevo
+Flop: 6h 9d 2d
+Checks: Katevo
+Checks: Loeveecha
+Turn: Ts
+Checks: Katevo
+Raises: Loeveecha, chips: 20
+Calls: Katevo
+River: Jc
+Checks: Katevo
+Raises: Loeveecha, chips: 20
+Raises: Katevo, chips: 20
+Raises: Loeveecha, chips: 20
+Calls: Katevo
+Pot size: 200
+Showdown Reached
+Shows: Katevo, 6d 3h
+Combination: Katevo, Pair ( 6d 6h Jc Ts 9d )
+Shows: Loeveecha, Kh Kd
+Combination: Loeveecha, Pair ( Kh Kd Jc Ts 9d )
+Wins: Loeveecha, chips: 200
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 30
+Wins: Loeveecha, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Calls: Loeveecha
+Checks: Katevo
+Flop: As Jd Kd
+Checks: Katevo
+Checks: Loeveecha
+Turn: 7c
+Checks: Katevo
+Checks: Loeveecha
+River: 6h
+Checks: Katevo
+Checks: Loeveecha
+Pot size: 40
+Showdown Reached
+Shows: Katevo, 4d 6s
+Combination: Katevo, Pair ( 6s 6h As Kd Jd )
+Shows: Loeveecha, 4h 4s
+Combination: Loeveecha, Pair ( 4h 4s As Kd Jd )
+Wins: Katevo, chips: 40
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Calls: Katevo
+Checks: Loeveecha
+Flop: 2s 6s 5c
+Checks: Loeveecha
+Checks: Katevo
+Turn: Th
+Checks: Loeveecha
+Checks: Katevo
+River: 9c
+Checks: Loeveecha
+Raises: Katevo, chips: 20
+Folds: Loeveecha
+Pot size: 60
+Wins: Katevo, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Folds: Loeveecha
+Pot size: 30
+Wins: Katevo, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 30
+Wins: Loeveecha, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Calls: Loeveecha
+Checks: Katevo
+Flop: 6h 8c Qc
+Raises: Katevo, chips: 20
+Calls: Loeveecha
+Turn: 2s
+Raises: Katevo, chips: 20
+Raises: Loeveecha, chips: 40
+Raises: Katevo, chips: 180
+Calls: Loeveecha
+River: 5s
+Pot size: 560
+Showdown Reached
+Shows: Katevo, 8s Qh
+Combination: Katevo, Two Pair ( Qh Qc 8s 8c 6h )
+Shows: Loeveecha, 8h 9s
+Combination: Loeveecha, Pair ( 8h 8c Qc 9s 6h )
+Wins: Katevo, chips: 560
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Raises: Katevo, chips: 30
+Folds: Loeveecha
+Pot size: 70
+Wins: Katevo, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Calls: Loeveecha
+Checks: Katevo
+Flop: 6c 4d Jc
+Checks: Katevo
+Raises: Loeveecha, chips: 20
+Raises: Katevo, chips: 20
+Calls: Loeveecha
+Turn: 8h
+Raises: Katevo, chips: 20
+Calls: Loeveecha
+River: 4h
+Checks: Katevo
+Raises: Loeveecha, chips: 20
+Calls: Katevo
+Pot size: 200
+Showdown Reached
+Shows: Katevo, 8c Ks
+Combination: Katevo, Two Pair ( 8c 8h 4d 4h Ks )
+Shows: Loeveecha, As Td
+Combination: Loeveecha, Pair ( 4d 4h As Jc Td )
+Wins: Katevo, chips: 200
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Calls: Katevo
+Raises: Loeveecha, chips: 20
+Raises: Katevo, chips: 20
+Calls: Loeveecha
+Flop: 9c 4h Ks
+Checks: Loeveecha
+Checks: Katevo
+Turn: 8c
+Checks: Loeveecha
+Checks: Katevo
+River: 7c
+Checks: Loeveecha
+Checks: Katevo
+Pot size: 120
+Showdown Reached
+Shows: Katevo, Jh Qh
+Combination: Katevo, High Card ( Ks Qh Jh 9c 8c )
+Shows: Loeveecha, 7h Ah
+Combination: Loeveecha, Pair ( 7h 7c Ah Ks 9c )
+Wins: Loeveecha, chips: 120
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Calls: Loeveecha
+Checks: Katevo
+Flop: As 4c 3s
+Checks: Katevo
+Checks: Loeveecha
+Turn: 4s
+Checks: Katevo
+Checks: Loeveecha
+River: 6s
+Checks: Katevo
+Raises: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 60
+Wins: Loeveecha, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 30
+Wins: Loeveecha, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Folds: Loeveecha
+Pot size: 30
+Wins: Katevo, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Calls: Katevo
+Checks: Loeveecha
+Flop: 6h Kh Qc
+Checks: Loeveecha
+Checks: Katevo
+Turn: Ac
+Checks: Loeveecha
+Checks: Katevo
+River: 2c
+Checks: Loeveecha
+Checks: Katevo
+Pot size: 40
+Showdown Reached
+Shows: Katevo, 6s 8s
+Combination: Katevo, Pair ( 6s 6h Ac Kh Qc )
+Shows: Loeveecha, 7d 2s
+Combination: Loeveecha, Pair ( 2s 2c Ac Kh Qc )
+Wins: Katevo, chips: 40
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Raises: Loeveecha, chips: 30
+Folds: Katevo
+Pot size: 70
+Wins: Loeveecha, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Raises: Katevo, chips: 30
+Folds: Loeveecha
+Pot size: 70
+Wins: Katevo, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Calls: Loeveecha
+Checks: Katevo
+Flop: Qs 2h 9c
+Checks: Katevo
+Raises: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 60
+Wins: Loeveecha, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Calls: Katevo
+Checks: Loeveecha
+Flop: 7h 8c Ah
+Checks: Loeveecha
+Checks: Katevo
+Turn: 9s
+Checks: Loeveecha
+Raises: Katevo, chips: 20
+Folds: Loeveecha
+Pot size: 60
+Wins: Katevo, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Calls: Loeveecha
+Checks: Katevo
+Flop: 9c 5s 6h
+Checks: Katevo
+Checks: Loeveecha
+Turn: 9s
+Checks: Katevo
+Checks: Loeveecha
+River: 7c
+Raises: Katevo, chips: 600
+Calls: Loeveecha
+Pot size: 1240
+Showdown Reached
+Shows: Katevo, 8d Qd
+Combination: Katevo, Straight ( 9c 8d 7c 6h 5s )
+Shows: Loeveecha, 3s 4s
+Combination: Loeveecha, Straight ( 7c 6h 5s 4s 3s )
+Wins: Katevo, chips: 1240
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Calls: Katevo
+Raises: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 60
+Wins: Loeveecha, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Calls: Loeveecha
+Checks: Katevo
+Flop: Kh 8s 3d
+Checks: Katevo
+Checks: Loeveecha
+Turn: 2d
+Checks: Katevo
+Checks: Loeveecha
+River: Qh
+Raises: Katevo, chips: 20
+Calls: Loeveecha
+Pot size: 80
+Showdown Reached
+Shows: Katevo, Kd 5s
+Combination: Katevo, Pair ( Kd Kh Qh 8s 5s )
+Shows: Loeveecha, 4c 2c
+Combination: Loeveecha, Pair ( 2c 2d Kh Qh 8s )
+Wins: Katevo, chips: 80
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 30
+Wins: Loeveecha, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Folds: Loeveecha
+Pot size: 30
+Wins: Katevo, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Calls: Katevo
+Checks: Loeveecha
+Flop: 6c 8d 2s
+Checks: Loeveecha
+Checks: Katevo
+Turn: Ah
+Checks: Loeveecha
+Checks: Katevo
+River: Js
+Raises: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 60
+Wins: Loeveecha, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Folds: Loeveecha
+Pot size: 30
+Wins: Katevo, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Calls: Katevo
+Checks: Loeveecha
+Flop: Qc Qs 5c
+Checks: Loeveecha
+Checks: Katevo
+Turn: Jc
+Raises: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 60
+Wins: Loeveecha, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Folds: Loeveecha
+Pot size: 30
+Wins: Katevo, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Calls: Katevo
+Checks: Loeveecha
+Flop: Kh 5c Qs
+Checks: Loeveecha
+Checks: Katevo
+Turn: 7d
+Checks: Loeveecha
+Checks: Katevo
+River: 8d
+Raises: Loeveecha, chips: 7740
+Folds: Katevo
+Pot size: 7780
+Wins: Loeveecha, chips: 7780
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Folds: Loeveecha
+Pot size: 30
+Wins: Katevo, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 30
+Wins: Loeveecha, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Folds: Loeveecha
+Pot size: 30
+Wins: Katevo, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 30
+Wins: Loeveecha, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Calls: Loeveecha
+Checks: Katevo
+Flop: Ah Td Kc
+Checks: Katevo
+Checks: Loeveecha
+Turn: 4h
+Checks: Katevo
+Checks: Loeveecha
+River: 6d
+Checks: Katevo
+Checks: Loeveecha
+Pot size: 40
+Showdown Reached
+Shows: Katevo, 3h 2s
+Combination: Katevo, High Card ( Ah Kc Td 6d 4h )
+Shows: Loeveecha, 5d 5h
+Combination: Loeveecha, Pair ( 5d 5h Ah Kc Td )
+Wins: Loeveecha, chips: 40
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 30
+Wins: Loeveecha, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Folds: Loeveecha
+Pot size: 30
+Wins: Katevo, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 30
+Wins: Loeveecha, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Calls: Loeveecha
+Raises: Katevo, chips: 1170
+Folds: Loeveecha
+Pot size: 1210
+Wins: Katevo, chips: 1210
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 30
+Wins: Loeveecha, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Calls: Loeveecha
+Checks: Katevo
+Flop: 5s 9h 7c
+Checks: Katevo
+Checks: Loeveecha
+Turn: 9c
+Checks: Katevo
+Checks: Loeveecha
+River: Js
+Raises: Katevo, chips: 1180
+Raises: Loeveecha, chips: 1100
+Pot size: 3500
+Showdown Reached
+Shows: Katevo, 9s Tc
+Combination: Katevo, Three Of A Kind ( 9s 9h 9c Js Tc )
+Shows: Loeveecha, Th 8h
+Combination: Loeveecha, Straight ( Js Th 9h 8h 7c )
+Wins: Loeveecha, chips: 3500
+Quits: Katevo, chips: 0
+Ranking: Loeveecha, Place: 1, Score: 8000
+Reveal AI: Loeveecha, AI: Smart
+Ranking: Katevo, Place: 2, Score: -1000
+Reveal AI: Katevo, AI: Smart
+Ranking: Senutry, Place: 3, Score: -1000
+Reveal AI: Senutry, AI: Random
+Ranking: Moema, Place: 4, Score: -1000
+Reveal AI: Moema, AI: Smart
+Ranking: Woebap, Place: 5, Score: -1000
+Reveal AI: Woebap, AI: Call
+Ranking: Jegibinny, Place: 6, Score: -1000
+Reveal AI: Jegibinny, AI: Smart
+Ranking: Nehe, Place: 7, Score: -1000
+Reveal AI: Nehe, AI: Random
+Ranking: Voe, Place: 8, Score: -1000
+Reveal AI: Voe, AI: Call
+Ranking: Kakem, Place: 9, Score: -1000
+Reveal AI: Kakem, AI: Human
+
+Player Stats for Jegibinny, AI: Smart
+General: deals: 11, actions: 19, preflop actions: 13
+Rounds Seen: flops: 92, turns: 78, rivers: 66, showdowns: 56
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 30
+Pre-Flop Stats: VP$IP: 0.454545, PFR: 0.0909091, 3Bet: 0.0909091
+Post-Flop Stats: AF: -1.#IND, WSD: 0.608696, WSDW: 0
+
+
+Player Stats for Kakem, AI: Human
+General: deals: 2, actions: 11, preflop actions: 2
+Rounds Seen: flops: 99, turns: 86, rivers: 75, showdowns: 66
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 30
+Pre-Flop Stats: VP$IP: 1, PFR: 0.5, 3Bet: 0.5
+Post-Flop Stats: AF: 2, WSD: 0.666667, WSDW: 0
+
+
+Player Stats for Katevo, AI: Smart
+General: deals: 222, actions: 415, preflop actions: 179
+Rounds Seen: flops: 84, turns: 72, rivers: 61, showdowns: 50
+Wins: total: 98, showdown: 28, bluff: 70
+Chips: won: 51990, lost: 52990, bought: 1000, forced bets: 2980
+Pre-Flop Stats: VP$IP: 0.283784, PFR: 0.0765766, 3Bet: 0.0585586
+Post-Flop Stats: AF: 2.22222, WSD: 0.595238, WSDW: 0.56
+
+
+Player Stats for Loeveecha, AI: Smart
+General: deals: 222, actions: 414, preflop actions: 187
+Rounds Seen: flops: 80, turns: 67, rivers: 57, showdowns: 47
+Wins: total: 103, showdown: 27, bluff: 76
+Chips: won: 40550, lost: 32550, bought: 1000, forced bets: 3000
+Pre-Flop Stats: VP$IP: 0.252252, PFR: 0.0540541, 3Bet: 0.0315315
+Post-Flop Stats: AF: 2.4, WSD: 0.5875, WSDW: 0.574468
+
+
+Player Stats for Moema, AI: Smart
+General: deals: 32, actions: 70, preflop actions: 35
+Rounds Seen: flops: 84, turns: 72, rivers: 59, showdowns: 48
+Wins: total: 5, showdown: 1, bluff: 4
+Chips: won: 1680, lost: 2680, bought: 1000, forced bets: 210
+Pre-Flop Stats: VP$IP: 0.34375, PFR: 0.15625, 3Bet: 0.15625
+Post-Flop Stats: AF: 2, WSD: 0.571429, WSDW: 0.0208333
+
+
+Player Stats for Nehe, AI: Random
+General: deals: 11, actions: 32, preflop actions: 12
+Rounds Seen: flops: 96, turns: 82, rivers: 71, showdowns: 62
+Wins: total: 1, showdown: 1, bluff: 0
+Chips: won: 430, lost: 2550, bought: 1000, forced bets: 40
+Pre-Flop Stats: VP$IP: 0.727273, PFR: 0.181818, 3Bet: 0.0909091
+Post-Flop Stats: AF: 2.5, WSD: 0.645833, WSDW: 0.016129
+
+
+Player Stats for Senutry, AI: Random
+General: deals: 43, actions: 120, preflop actions: 50
+Rounds Seen: flops: 93, turns: 79, rivers: 69, showdowns: 59
+Wins: total: 17, showdown: 11, bluff: 6
+Chips: won: 12350, lost: 14500, bought: 1000, forced bets: 310
+Pre-Flop Stats: VP$IP: 0.651163, PFR: 0.209302, 3Bet: 0.186047
+Post-Flop Stats: AF: 4, WSD: 0.634409, WSDW: 0.186441
+
+
+Player Stats for Voe, AI: Call
+General: deals: 2, actions: 11, preflop actions: 3
+Rounds Seen: flops: 99, turns: 86, rivers: 75, showdowns: 66
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 0
+Pre-Flop Stats: VP$IP: 1, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: 0, WSD: 0.666667, WSDW: 0
+
+
+Player Stats for Woebap, AI: Call
+General: deals: 14, actions: 56, preflop actions: 21
+Rounds Seen: flops: 99, turns: 86, rivers: 75, showdowns: 66
+Wins: total: 7, showdown: 7, bluff: 0
+Chips: won: 5150, lost: 7450, bought: 1000, forced bets: 60
+Pre-Flop Stats: VP$IP: 1, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: 0, WSD: 0.666667, WSDW: 0.106061
+
+
+Date: 2026/04/30 09:50:39
+
+The game begins. The AI's of the players are: 
+Katevo: Smart
+Kakem: Human
+Loeveecha: Smart
+Nehe: Random
+Voe: Call
+Moema: Smart
+Senutry: Random
+Woebap: Call
+Jegibinny: Smart
+
+Joins: Katevo, chips: 1000
+Joins: Kakem, chips: 1000
+Joins: Loeveecha, chips: 1000
+Joins: Nehe, chips: 1000
+Joins: Voe, chips: 1000
+Joins: Moema, chips: 1000
+Joins: Senutry, chips: 1000
+Joins: Woebap, chips: 1000
+Joins: Jegibinny, chips: 1000
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Jegibinny
+Small Blind: Katevo, chips: 10
+Big Blind: Kakem, chips: 20
+Raises: Loeveecha, chips: 20
+Folds: Nehe
+Calls: Voe
+Calls: Moema
+Calls: Senutry
+Calls: Woebap
+Folds: Jegibinny
+Folds: Katevo
+Raises: Kakem, chips: 80
+Calls: Loeveecha
+Calls: Voe
+Calls: Moema
+Calls: Senutry
+Calls: Woebap
+Flop: 5d 7c 8s
+Raises: Kakem, chips: 80
+Folds: Loeveecha
+Calls: Voe
+Folds: Moema
+Folds: Senutry
+Calls: Woebap
+Turn: As
+Raises: Kakem, chips: 80
+Calls: Voe
+Calls: Woebap
+River: 4c
+Raises: Kakem, chips: 160
+Calls: Voe
+Calls: Woebap
+Pot size: 1690
+Showdown Reached
+Shows: Kakem, Js 8d
+Combination: Kakem, Pair ( 8d 8s As Js 7c )
+Boasts: Nehe, 7s 9c
+Shows: Voe, 5s 3s
+Combination: Voe, Pair ( 5s 5d As 8s 7c )
+Shows: Woebap, 8c Ad
+Combination: Woebap, Two Pair ( Ad As 8c 8s 7c )
+Wins: Woebap, chips: 1690
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Kakem, chips: 10
+Big Blind: Loeveecha, chips: 20
+Calls: Nehe
+Calls: Voe
+Calls: Moema
+Calls: Senutry
+Calls: Woebap
+Calls: Jegibinny
+Calls: Katevo
+Calls: Kakem
+Checks: Loeveecha
+Flop: Jh 3s 4h
+Checks: Kakem
+Checks: Loeveecha
+Checks: Nehe
+Checks: Voe
+Checks: Moema
+Checks: Senutry
+Checks: Woebap
+Checks: Jegibinny
+Checks: Katevo
+Turn: Tc
+Checks: Kakem
+Checks: Loeveecha
+Checks: Nehe
+Checks: Voe
+Checks: Moema
+Checks: Senutry
+Checks: Woebap
+Checks: Jegibinny
+Checks: Katevo
+River: Jd
+Checks: Kakem
+Checks: Loeveecha
+Checks: Nehe
+Checks: Voe
+Checks: Moema
+Raises: Senutry, chips: 20
+Calls: Woebap
+Folds: Jegibinny
+Folds: Katevo
+Calls: Kakem
+Folds: Loeveecha
+Raises: Nehe, chips: 40
+Calls: Voe
+Calls: Moema
+Folds: Senutry
+Calls: Woebap
+Raises: Kakem, chips: 160
+Raises: Nehe, chips: 320
+Calls: Voe
+Folds: Moema
+Calls: Woebap
+Calls: Kakem
+Pot size: 2420
+Showdown Reached
+Shows: Kakem, 3h Ks
+Combination: Kakem, Two Pair ( Jh Jd 3h 3s Ks )
+Shows: Nehe, 7h 2d
+Combination: Nehe, Pair ( Jh Jd Tc 7h 4h )
+Shows: Voe, 6h 8h
+Combination: Voe, Pair ( Jh Jd Tc 8h 6h )
+Shows: Woebap, 5h 4c
+Combination: Woebap, Two Pair ( Jh Jd 4c 4h Tc )
+Wins: Woebap, chips: 2420
+Quits: Kakem, chips: 0
+Quits: Voe, chips: 0
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Nehe, chips: 10
+Big Blind: Moema, chips: 20
+Calls: Senutry
+Calls: Woebap
+Calls: Jegibinny
+Folds: Katevo
+Calls: Loeveecha
+Raises: Nehe, chips: 30
+Folds: Moema
+Folds: Senutry
+Calls: Woebap
+Calls: Jegibinny
+Calls: Loeveecha
+Flop: 9h 3h 7h
+Checks: Nehe
+Checks: Woebap
+Checks: Jegibinny
+Checks: Loeveecha
+Turn: 5d
+Raises: Nehe, chips: 30
+Calls: Woebap
+Folds: Jegibinny
+Calls: Loeveecha
+River: 6s
+Raises: Nehe, chips: 30
+Calls: Woebap
+Calls: Loeveecha
+Pot size: 420
+Showdown Reached
+Shows: Loeveecha, 7c 7d
+Combination: Loeveecha, Three Of A Kind ( 7c 7d 7h 9h 6s )
+Shows: Nehe, 9c 5s
+Combination: Nehe, Two Pair ( 9c 9h 5s 5d 7h )
+Boasts: Senutry, Js 8s
+Shows: Woebap, Th Kc
+Combination: Woebap, High Card ( Kc Th 9h 7h 6s )
+Wins: Loeveecha, chips: 420
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Nehe
+Small Blind: Moema, chips: 10
+Big Blind: Senutry, chips: 20
+Calls: Woebap
+Calls: Jegibinny
+Calls: Katevo
+Folds: Loeveecha
+Calls: Nehe
+Folds: Moema
+Checks: Senutry
+Flop: Tc 7h Jh
+Raises: Senutry, chips: 20
+Calls: Woebap
+Folds: Jegibinny
+Folds: Katevo
+Folds: Nehe
+Turn: Kd
+Raises: Senutry, chips: 780
+Calls: Woebap
+River: 2h
+Pot size: 1710
+Showdown Reached
+Shows: Senutry, 9s Jc
+Combination: Senutry, Pair ( Jc Jh Kd Tc 9s )
+Shows: Woebap, Qc 4c
+Combination: Woebap, High Card ( Kd Qc Jh Tc 7h )
+Wins: Senutry, chips: 1710
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Moema
+Small Blind: Senutry, chips: 10
+Big Blind: Woebap, chips: 20
+Folds: Jegibinny
+Folds: Katevo
+Folds: Loeveecha
+Folds: Nehe
+Raises: Moema, chips: 20
+Calls: Senutry
+Calls: Woebap
+Flop: 5d 9c 7c
+Checks: Senutry
+Checks: Woebap
+Checks: Moema
+Turn: 5h
+Raises: Senutry, chips: 20
+Calls: Woebap
+Folds: Moema
+River: Th
+Checks: Senutry
+Checks: Woebap
+Pot size: 160
+Showdown Reached
+Boasts: Nehe, Jh 4d
+Shows: Senutry, 9s Jd
+Combination: Senutry, Two Pair ( 9s 9c 5d 5h Jd )
+Shows: Woebap, 6h 5s
+Combination: Woebap, Three Of A Kind ( 5s 5d 5h Th 9c )
+Wins: Woebap, chips: 160
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Senutry
+Small Blind: Woebap, chips: 10
+Big Blind: Jegibinny, chips: 20
+Folds: Katevo
+Calls: Loeveecha
+Calls: Nehe
+Raises: Moema, chips: 20
+Calls: Senutry
+Calls: Woebap
+Folds: Jegibinny
+Folds: Loeveecha
+Calls: Nehe
+Flop: 3c 3h 8d
+Checks: Woebap
+Checks: Nehe
+Checks: Moema
+Checks: Senutry
+Turn: Qd
+Checks: Woebap
+Checks: Nehe
+Checks: Moema
+Checks: Senutry
+River: Jh
+Checks: Woebap
+Checks: Nehe
+Checks: Moema
+Raises: Senutry, chips: 20
+Calls: Woebap
+Calls: Nehe
+Folds: Moema
+Pot size: 260
+Showdown Reached
+Shows: Nehe, 6h Qs
+Combination: Nehe, Two Pair ( Qs Qd 3c 3h Jh )
+Shows: Senutry, 4d Ks
+Combination: Senutry, Pair ( 3c 3h Ks Qd Jh )
+Shows: Woebap, Qh Ac
+Combination: Woebap, Two Pair ( Qh Qd 3c 3h Ac )
+Wins: Woebap, chips: 260
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Woebap
+Small Blind: Jegibinny, chips: 10
+Big Blind: Katevo, chips: 20
+Calls: Loeveecha
+Calls: Nehe
+Folds: Moema
+Calls: Senutry
+Calls: Woebap
+Folds: Jegibinny
+Checks: Katevo
+Flop: 3c 8h 4h
+Checks: Katevo
+Checks: Loeveecha
+Checks: Nehe
+Checks: Senutry
+Checks: Woebap
+Turn: 8s
+Checks: Katevo
+Checks: Loeveecha
+Raises: Nehe, chips: 20
+Raises: Senutry, chips: 40
+Calls: Woebap
+Folds: Katevo
+Folds: Loeveecha
+Calls: Nehe
+River: 2h
+Checks: Nehe
+Checks: Senutry
+Checks: Woebap
+Pot size: 290
+Showdown Reached
+Shows: Nehe, Jd 5h
+Combination: Nehe, Pair ( 8h 8s Jd 5h 4h )
+Shows: Senutry, 7s Ad
+Combination: Senutry, Pair ( 8h 8s Ad 7s 4h )
+Shows: Woebap, 8d Th
+Combination: Woebap, Three Of A Kind ( 8d 8h 8s Th 4h )
+Wins: Woebap, chips: 290
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Jegibinny
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Folds: Nehe
+Folds: Moema
+Folds: Senutry
+Calls: Woebap
+Folds: Jegibinny
+Raises: Katevo, chips: 30
+Folds: Loeveecha
+Calls: Woebap
+Flop: 9h 4s As
+Checks: Katevo
+Checks: Woebap
+Turn: 2d
+Raises: Katevo, chips: 40
+Calls: Woebap
+River: 5s
+Checks: Katevo
+Checks: Woebap
+Pot size: 200
+Showdown Reached
+Shows: Katevo, Ah Qh
+Combination: Katevo, Pair ( Ah As Qh 9h 5s )
+Boasts: Nehe, Ks Ac
+Shows: Woebap, 5d 5h
+Combination: Woebap, Three Of A Kind ( 5d 5h 5s As 9h )
+Wins: Woebap, chips: 200
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Loeveecha, chips: 10
+Big Blind: Nehe, chips: 20
+Folds: Moema
+Calls: Senutry
+Calls: Woebap
+Folds: Jegibinny
+Calls: Katevo
+Calls: Loeveecha
+Raises: Nehe, chips: 20
+Calls: Senutry
+Calls: Woebap
+Folds: Katevo
+Calls: Loeveecha
+Flop: Kc 6d Jc
+Checks: Loeveecha
+Checks: Nehe
+Checks: Senutry
+Checks: Woebap
+Turn: 3c
+Checks: Loeveecha
+Checks: Nehe
+Checks: Senutry
+Checks: Woebap
+River: Ts
+Checks: Loeveecha
+Checks: Nehe
+Checks: Senutry
+Checks: Woebap
+Pot size: 180
+Showdown Reached
+Shows: Loeveecha, Tc Qh
+Combination: Loeveecha, Pair ( Tc Ts Kc Qh Jc )
+Shows: Nehe, 7d 7s
+Combination: Nehe, Pair ( 7d 7s Kc Jc Ts )
+Shows: Senutry, Ks 6c
+Combination: Senutry, Two Pair ( Ks Kc 6c 6d Jc )
+Shows: Woebap, As 2c
+Combination: Woebap, High Card ( As Kc Jc Ts 6d )
+Wins: Senutry, chips: 180
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Nehe, chips: 10
+Big Blind: Moema, chips: 20
+Folds: Senutry
+Calls: Woebap
+Calls: Jegibinny
+Raises: Katevo, chips: 800
+Folds: Loeveecha
+Calls: Nehe
+Folds: Moema
+Calls: Woebap
+Folds: Jegibinny
+Flop: 5c Tc 2h
+Turn: Jc
+River: Td
+Pot size: 1810
+Showdown Reached
+Shows: Katevo, Ah As
+Combination: Katevo, Two Pair ( Ah As Tc Td Jc )
+Shows: Nehe, 8d Ts
+Combination: Nehe, Three Of A Kind ( Ts Tc Td Jc 8d )
+Shows: Woebap, 4s Kd
+Combination: Woebap, Pair ( Tc Td Kd Jc 5c )
+Wins: Katevo, chips: 1380
+Wins: Nehe, chips: 430
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Nehe
+Small Blind: Moema, chips: 10
+Big Blind: Senutry, chips: 20
+Calls: Woebap
+Raises: Jegibinny, chips: 840
+Folds: Katevo
+Folds: Loeveecha
+Calls: Nehe
+Folds: Moema
+Raises: Senutry, chips: 790
+Calls: Woebap
+Flop: 6d 6c Th
+Turn: 7d
+River: 7c
+Pot size: 4600
+Showdown Reached
+Shows: Nehe, Js 4h
+Combination: Nehe, Two Pair ( 7d 7c 6d 6c Js )
+Shows: Senutry, 9d 8c
+Combination: Senutry, Straight ( Th 9d 8c 7d 6d )
+Shows: Woebap, Ad Kc
+Combination: Woebap, Two Pair ( 7d 7c 6d 6c Ad )
+Shows: Jegibinny, As Kh
+Combination: Jegibinny, Two Pair ( 7d 7c 6d 6c As )
+Wins: Senutry, chips: 4600
+Quits: Nehe, chips: 0
+Quits: Jegibinny, chips: 0
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Moema
+Small Blind: Senutry, chips: 10
+Big Blind: Woebap, chips: 20
+Raises: Katevo, chips: 40
+Folds: Loeveecha
+Folds: Moema
+Calls: Senutry
+Calls: Woebap
+Flop: Qd 6d Jd
+Checks: Senutry
+Checks: Woebap
+Checks: Katevo
+Turn: Kd
+Checks: Senutry
+Checks: Woebap
+Checks: Katevo
+River: 7d
+Raises: Senutry, chips: 40
+Calls: Woebap
+Folds: Katevo
+Pot size: 260
+Showdown Reached
+Shows: Senutry, Js Ac
+Combination: Senutry, Flush ( Kd Qd Jd 7d 6d )
+Shows: Woebap, 8h Ts
+Combination: Woebap, Flush ( Kd Qd Jd 7d 6d )
+Wins: Senutry, chips: 130
+Wins: Woebap, chips: 130
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Senutry
+Small Blind: Woebap, chips: 10
+Big Blind: Katevo, chips: 20
+Folds: Loeveecha
+Calls: Moema
+Folds: Senutry
+Calls: Woebap
+Checks: Katevo
+Flop: Ac 3h Jh
+Checks: Woebap
+Checks: Katevo
+Checks: Moema
+Turn: 8c
+Checks: Woebap
+Checks: Katevo
+Checks: Moema
+River: 3s
+Checks: Woebap
+Checks: Katevo
+Checks: Moema
+Pot size: 60
+Showdown Reached
+Shows: Katevo, 8h 6h
+Combination: Katevo, Two Pair ( 8h 8c 3h 3s Ac )
+Shows: Moema, Qd Qh
+Combination: Moema, Two Pair ( Qd Qh 3h 3s Ac )
+Shows: Woebap, Th Qs
+Combination: Woebap, Pair ( 3h 3s Ac Qs Jh )
+Wins: Moema, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Woebap
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Folds: Moema
+Calls: Senutry
+Calls: Woebap
+Raises: Katevo, chips: 1280
+Folds: Loeveecha
+Raises: Senutry, chips: 1300
+Calls: Woebap
+Flop: 5h 2c Jc
+Turn: As
+River: 3c
+Pot size: 5220
+Showdown Reached
+Shows: Katevo, Ks Ad
+Combination: Katevo, Pair ( Ad As Ks Jc 5h )
+Shows: Senutry, 3s 7s
+Combination: Senutry, Pair ( 3s 3c As Jc 7s )
+Shows: Woebap, 7c 7h
+Combination: Woebap, Pair ( 7c 7h As Jc 5h )
+Wins: Katevo, chips: 3920
+Wins: Senutry, chips: 1300
+Quits: Woebap, chips: 0
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Loeveecha, chips: 10
+Big Blind: Moema, chips: 20
+Calls: Senutry
+Calls: Katevo
+Folds: Loeveecha
+Checks: Moema
+Flop: 9d Tc Td
+Checks: Moema
+Checks: Senutry
+Checks: Katevo
+Turn: Th
+Checks: Moema
+Checks: Senutry
+Raises: Katevo, chips: 20
+Folds: Moema
+Raises: Senutry, chips: 40
+Calls: Katevo
+River: 7h
+Checks: Senutry
+Raises: Katevo, chips: 40
+Calls: Senutry
+Pot size: 270
+Showdown Reached
+Shows: Katevo, Js 9s
+Combination: Katevo, Full House ( Tc Td Th 9s 9d )
+Shows: Senutry, 6c 3c
+Combination: Senutry, Three Of A Kind ( Tc Td Th 9d 7h )
+Wins: Katevo, chips: 270
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Moema, chips: 10
+Big Blind: Senutry, chips: 20
+Folds: Katevo
+Folds: Loeveecha
+Calls: Moema
+Checks: Senutry
+Flop: Ad Qc 8h
+Checks: Moema
+Raises: Senutry, chips: 20
+Calls: Moema
+Turn: Jh
+Raises: Moema, chips: 20
+Raises: Senutry, chips: 40
+Raises: Moema, chips: 60
+Folds: Senutry
+Pot size: 260
+Boasts: Senutry, Ks 5d
+Wins: Moema, chips: 260
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Moema
+Small Blind: Senutry, chips: 10
+Big Blind: Katevo, chips: 20
+Calls: Loeveecha
+Raises: Moema, chips: 20
+Folds: Senutry
+Folds: Katevo
+Raises: Loeveecha, chips: 20
+Raises: Moema, chips: 20
+Calls: Loeveecha
+Flop: 3h 5s 5c
+Checks: Loeveecha
+Raises: Moema, chips: 20
+Raises: Loeveecha, chips: 40
+Calls: Moema
+Turn: Ac
+Checks: Loeveecha
+Raises: Moema, chips: 60
+Folds: Loeveecha
+Pot size: 370
+Boasts: Senutry, 2s 6s
+Wins: Moema, chips: 370
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Senutry
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Calls: Moema
+Raises: Senutry, chips: 40
+Calls: Katevo
+Folds: Loeveecha
+Raises: Moema, chips: 40
+Raises: Senutry, chips: 80
+Folds: Katevo
+Raises: Moema, chips: 160
+Calls: Senutry
+Flop: Ac Qd 2h
+Raises: Moema, chips: 200
+Folds: Senutry
+Pot size: 960
+Wins: Moema, chips: 960
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Loeveecha, chips: 10
+Big Blind: Moema, chips: 20
+Folds: Senutry
+Folds: Katevo
+Folds: Loeveecha
+Pot size: 30
+Boasts: Senutry, 8s 4h
+Wins: Moema, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Moema, chips: 10
+Big Blind: Senutry, chips: 20
+Calls: Katevo
+Calls: Loeveecha
+Folds: Moema
+Checks: Senutry
+Flop: Ad 4h Ac
+Checks: Senutry
+Checks: Katevo
+Checks: Loeveecha
+Turn: Jd
+Checks: Senutry
+Checks: Katevo
+Checks: Loeveecha
+River: 5s
+Checks: Senutry
+Checks: Katevo
+Checks: Loeveecha
+Pot size: 70
+Showdown Reached
+Shows: Katevo, Jh Qd
+Combination: Katevo, Two Pair ( Ad Ac Jh Jd Qd )
+Shows: Loeveecha, Th 9d
+Combination: Loeveecha, Pair ( Ad Ac Jd Th 9d )
+Shows: Senutry, Jc Kd
+Combination: Senutry, Two Pair ( Ad Ac Jc Jd Kd )
+Wins: Senutry, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Moema
+Small Blind: Senutry, chips: 10
+Big Blind: Katevo, chips: 20
+Folds: Loeveecha
+Folds: Moema
+Raises: Senutry, chips: 30
+Folds: Katevo
+Pot size: 70
+Wins: Senutry, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Senutry
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Folds: Moema
+Calls: Senutry
+Folds: Katevo
+Checks: Loeveecha
+Flop: Jd Qd 5c
+Checks: Loeveecha
+Checks: Senutry
+Turn: 8d
+Checks: Loeveecha
+Checks: Senutry
+River: 7c
+Raises: Loeveecha, chips: 20
+Folds: Senutry
+Pot size: 70
+Wins: Loeveecha, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Loeveecha, chips: 10
+Big Blind: Moema, chips: 20
+Calls: Senutry
+Calls: Katevo
+Folds: Loeveecha
+Checks: Moema
+Flop: 9d Qd Kh
+Checks: Moema
+Checks: Senutry
+Checks: Katevo
+Turn: 8d
+Raises: Moema, chips: 20
+Calls: Senutry
+Folds: Katevo
+River: 4s
+Checks: Moema
+Checks: Senutry
+Pot size: 110
+Showdown Reached
+Shows: Moema, 8s Ad
+Combination: Moema, Pair ( 8s 8d Ad Kh Qd )
+Shows: Senutry, Qs 5c
+Combination: Senutry, Pair ( Qs Qd Kh 9d 8d )
+Wins: Senutry, chips: 110
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Moema, chips: 10
+Big Blind: Senutry, chips: 20
+Folds: Katevo
+Folds: Loeveecha
+Calls: Moema
+Checks: Senutry
+Flop: Jd 3h Ts
+Checks: Moema
+Checks: Senutry
+Turn: 9h
+Checks: Moema
+Checks: Senutry
+River: 9c
+Checks: Moema
+Checks: Senutry
+Pot size: 40
+Showdown Reached
+Shows: Moema, 6c 6s
+Combination: Moema, Two Pair ( 9h 9c 6c 6s Jd )
+Shows: Senutry, 7h Js
+Combination: Senutry, Two Pair ( Js Jd 9h 9c Ts )
+Wins: Senutry, chips: 40
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Moema
+Small Blind: Senutry, chips: 10
+Big Blind: Katevo, chips: 20
+Calls: Loeveecha
+Calls: Moema
+Calls: Senutry
+Checks: Katevo
+Flop: Td 8s 4d
+Checks: Senutry
+Checks: Katevo
+Checks: Loeveecha
+Checks: Moema
+Turn: 3s
+Checks: Senutry
+Checks: Katevo
+Checks: Loeveecha
+Checks: Moema
+River: Ks
+Checks: Senutry
+Checks: Katevo
+Raises: Loeveecha, chips: 850
+Folds: Moema
+Raises: Senutry, chips: 870
+Folds: Katevo
+Pot size: 2650
+Showdown Reached
+Shows: Loeveecha, Kd Th
+Combination: Loeveecha, Two Pair ( Kd Ks Th Td 8s )
+Shows: Senutry, 5c 6s
+Combination: Senutry, High Card ( Ks Td 8s 6s 5c )
+Wins: Loeveecha, chips: 1780
+Wins: Senutry, chips: 870
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Senutry
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Folds: Moema
+Calls: Senutry
+Folds: Katevo
+Checks: Loeveecha
+Flop: 5c 7h 4c
+Checks: Loeveecha
+Raises: Senutry, chips: 20
+Raises: Loeveecha, chips: 40
+Folds: Senutry
+Pot size: 130
+Wins: Loeveecha, chips: 130
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Loeveecha, chips: 10
+Big Blind: Moema, chips: 20
+Folds: Senutry
+Raises: Katevo, chips: 3870
+Folds: Loeveecha
+Folds: Moema
+Pot size: 3920
+Wins: Katevo, chips: 3920
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Moema, chips: 10
+Big Blind: Senutry, chips: 20
+Folds: Katevo
+Folds: Loeveecha
+Folds: Moema
+Pot size: 30
+Wins: Senutry, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Moema
+Small Blind: Senutry, chips: 10
+Big Blind: Katevo, chips: 20
+Folds: Loeveecha
+Folds: Moema
+Calls: Senutry
+Checks: Katevo
+Flop: 2c 2s Kd
+Raises: Senutry, chips: 20
+Calls: Katevo
+Turn: 4h
+Checks: Senutry
+Checks: Katevo
+River: 7s
+Checks: Senutry
+Checks: Katevo
+Pot size: 80
+Showdown Reached
+Shows: Katevo, 8c Qd
+Combination: Katevo, Pair ( 2c 2s Kd Qd 8c )
+Shows: Senutry, Th 9c
+Combination: Senutry, Pair ( 2c 2s Kd Th 9c )
+Wins: Katevo, chips: 80
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Senutry
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Folds: Moema
+Calls: Senutry
+Folds: Katevo
+Checks: Loeveecha
+Flop: Js Ks 7d
+Checks: Loeveecha
+Raises: Senutry, chips: 20
+Folds: Loeveecha
+Pot size: 70
+Wins: Senutry, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Loeveecha, chips: 10
+Big Blind: Moema, chips: 20
+Calls: Senutry
+Folds: Katevo
+Raises: Loeveecha, chips: 30
+Folds: Moema
+Raises: Senutry, chips: 60
+Raises: Loeveecha, chips: 160
+Calls: Senutry
+Flop: 3s 2h 3c
+Checks: Loeveecha
+Checks: Senutry
+Turn: 6c
+Checks: Loeveecha
+Raises: Senutry, chips: 160
+Calls: Loeveecha
+River: Ts
+Checks: Loeveecha
+Checks: Senutry
+Pot size: 880
+Showdown Reached
+Shows: Loeveecha, 9s 9d
+Combination: Loeveecha, Two Pair ( 9s 9d 3s 3c Ts )
+Shows: Senutry, Js 7c
+Combination: Senutry, Pair ( 3s 3c Js Ts 7c )
+Wins: Loeveecha, chips: 880
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Moema, chips: 10
+Big Blind: Senutry, chips: 20
+Folds: Katevo
+Folds: Loeveecha
+Raises: Moema, chips: 1220
+Raises: Senutry, chips: 320
+Flop: 7c Td 6s
+Turn: 7d
+River: 2c
+Pot size: 2800
+Showdown Reached
+Shows: Moema, Qh Kh
+Combination: Moema, Pair ( 7c 7d Kh Qh Td )
+Shows: Senutry, 8c 9h
+Combination: Senutry, Straight ( Td 9h 8c 7c 6s )
+Wins: Senutry, chips: 2800
+Quits: Moema, chips: 0
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Senutry
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Calls: Senutry
+Calls: Katevo
+Raises: Loeveecha, chips: 20
+Folds: Senutry
+Calls: Katevo
+Flop: As 8s Ts
+Raises: Katevo, chips: 20
+Calls: Loeveecha
+Turn: 4s
+Checks: Katevo
+Checks: Loeveecha
+River: 5c
+Checks: Katevo
+Checks: Loeveecha
+Pot size: 140
+Showdown Reached
+Shows: Katevo, Qd Ac
+Combination: Katevo, Pair ( Ac As Qd Ts 8s )
+Shows: Loeveecha, Qc Tc
+Combination: Loeveecha, Pair ( Tc Ts As Qc 8s )
+Wins: Katevo, chips: 140
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Loeveecha, chips: 10
+Big Blind: Senutry, chips: 20
+Folds: Katevo
+Folds: Loeveecha
+Pot size: 30
+Wins: Senutry, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Senutry, chips: 10
+Big Blind: Katevo, chips: 20
+Folds: Loeveecha
+Raises: Senutry, chips: 30
+Folds: Katevo
+Pot size: 70
+Wins: Senutry, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Senutry
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Folds: Senutry
+Folds: Katevo
+Pot size: 30
+Wins: Loeveecha, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Loeveecha, chips: 10
+Big Blind: Senutry, chips: 20
+Calls: Katevo
+Folds: Loeveecha
+Checks: Senutry
+Flop: Jc 5h 7h
+Checks: Senutry
+Raises: Katevo, chips: 20
+Calls: Senutry
+Turn: Kd
+Checks: Senutry
+Raises: Katevo, chips: 20
+Folds: Senutry
+Pot size: 110
+Wins: Katevo, chips: 110
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Senutry, chips: 10
+Big Blind: Katevo, chips: 20
+Calls: Loeveecha
+Raises: Senutry, chips: 30
+Calls: Katevo
+Calls: Loeveecha
+Flop: 2s 6s Kh
+Raises: Senutry, chips: 30
+Folds: Katevo
+Calls: Loeveecha
+Turn: Qh
+Checks: Senutry
+Checks: Loeveecha
+River: Jc
+Checks: Senutry
+Checks: Loeveecha
+Pot size: 210
+Showdown Reached
+Shows: Loeveecha, Ah 2h
+Combination: Loeveecha, Pair ( 2h 2s Ah Kh Qh )
+Shows: Senutry, Qc 5d
+Combination: Senutry, Pair ( Qc Qh Kh Jc 6s )
+Wins: Senutry, chips: 210
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Senutry
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Calls: Senutry
+Calls: Katevo
+Checks: Loeveecha
+Flop: 8h 9d 3s
+Checks: Katevo
+Checks: Loeveecha
+Checks: Senutry
+Turn: Ks
+Checks: Katevo
+Checks: Loeveecha
+Checks: Senutry
+River: Qc
+Checks: Katevo
+Checks: Loeveecha
+Checks: Senutry
+Pot size: 60
+Showdown Reached
+Shows: Katevo, 4h 3h
+Combination: Katevo, Pair ( 3h 3s Ks Qc 9d )
+Shows: Loeveecha, Kh 6s
+Combination: Loeveecha, Pair ( Kh Ks Qc 9d 8h )
+Shows: Senutry, 5d Qs
+Combination: Senutry, Pair ( Qs Qc Ks 9d 8h )
+Wins: Loeveecha, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Loeveecha, chips: 10
+Big Blind: Senutry, chips: 20
+Folds: Katevo
+Calls: Loeveecha
+Raises: Senutry, chips: 20
+Folds: Loeveecha
+Pot size: 60
+Boasts: Senutry, 4c Ad
+Wins: Senutry, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Senutry, chips: 10
+Big Blind: Katevo, chips: 20
+Folds: Loeveecha
+Calls: Senutry
+Checks: Katevo
+Flop: 3h 8d 4d
+Checks: Senutry
+Checks: Katevo
+Turn: Jh
+Checks: Senutry
+Checks: Katevo
+River: Qc
+Checks: Senutry
+Raises: Katevo, chips: 20
+Calls: Senutry
+Pot size: 80
+Showdown Reached
+Shows: Katevo, Qh 9c
+Combination: Katevo, Pair ( Qh Qc Jh 9c 8d )
+Shows: Senutry, 2d 3s
+Combination: Senutry, Pair ( 3s 3h Qc Jh 8d )
+Wins: Katevo, chips: 80
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Senutry
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Folds: Senutry
+Folds: Katevo
+Pot size: 30
+Boasts: Senutry, Qc 4h
+Wins: Loeveecha, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Loeveecha, chips: 10
+Big Blind: Senutry, chips: 20
+Raises: Katevo, chips: 3990
+Folds: Loeveecha
+Calls: Senutry
+Flop: 4s Kc Jd
+Turn: Ad
+River: Js
+Pot size: 6880
+Showdown Reached
+Shows: Katevo, Tc Td
+Combination: Katevo, Two Pair ( Jd Js Tc Td Ad )
+Shows: Senutry, 9c 5s
+Combination: Senutry, Pair ( Jd Js Ad Kc 9c )
+Wins: Katevo, chips: 6880
+Quits: Senutry, chips: 0
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Calls: Loeveecha
+Checks: Katevo
+Flop: 7h 9d 3c
+Checks: Katevo
+Raises: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 60
+Wins: Loeveecha, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Calls: Katevo
+Raises: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 60
+Wins: Loeveecha, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Folds: Loeveecha
+Pot size: 30
+Wins: Katevo, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 30
+Wins: Loeveecha, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Folds: Loeveecha
+Pot size: 30
+Wins: Katevo, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Calls: Katevo
+Checks: Loeveecha
+Flop: Ts Th 9h
+Checks: Loeveecha
+Checks: Katevo
+Turn: 7d
+Checks: Loeveecha
+Checks: Katevo
+River: 3s
+Checks: Loeveecha
+Checks: Katevo
+Pot size: 40
+Showdown Reached
+Shows: Katevo, 7s 6s
+Combination: Katevo, Two Pair ( Ts Th 7s 7d 9h )
+Shows: Loeveecha, Kh Jd
+Combination: Loeveecha, Pair ( Ts Th Kh Jd 9h )
+Wins: Katevo, chips: 40
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Calls: Loeveecha
+Checks: Katevo
+Flop: Qs 2s 8d
+Checks: Katevo
+Checks: Loeveecha
+Turn: 6c
+Raises: Katevo, chips: 6850
+Folds: Loeveecha
+Pot size: 6890
+Wins: Katevo, chips: 6890
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Calls: Katevo
+Checks: Loeveecha
+Flop: Jh Kh Jc
+Raises: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 60
+Wins: Loeveecha, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Folds: Loeveecha
+Pot size: 30
+Wins: Katevo, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 30
+Wins: Loeveecha, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Folds: Loeveecha
+Pot size: 30
+Wins: Katevo, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 30
+Wins: Loeveecha, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Calls: Loeveecha
+Checks: Katevo
+Flop: Jd Jc Js
+Raises: Katevo, chips: 20
+Raises: Loeveecha, chips: 20
+Calls: Katevo
+Turn: 7d
+Checks: Katevo
+Checks: Loeveecha
+River: 7c
+Checks: Katevo
+Checks: Loeveecha
+Pot size: 120
+Showdown Reached
+Shows: Katevo, 2s Qs
+Combination: Katevo, Full House ( Jd Jc Js 7d 7c )
+Shows: Loeveecha, 6h 6c
+Combination: Loeveecha, Full House ( Jd Jc Js 7d 7c )
+Wins: Katevo, chips: 60
+Wins: Loeveecha, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 30
+Wins: Loeveecha, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Folds: Loeveecha
+Pot size: 30
+Wins: Katevo, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Calls: Katevo
+Checks: Loeveecha
+Flop: Jd Ah 7h
+Checks: Loeveecha
+Raises: Katevo, chips: 6850
+Folds: Loeveecha
+Pot size: 6890
+Wins: Katevo, chips: 6890
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Folds: Loeveecha
+Pot size: 30
+Wins: Katevo, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Calls: Katevo
+Checks: Loeveecha
+Flop: 4s Kh 8c
+Checks: Loeveecha
+Checks: Katevo
+Turn: 3s
+Checks: Loeveecha
+Checks: Katevo
+River: 6s
+Checks: Loeveecha
+Checks: Katevo
+Pot size: 40
+Showdown Reached
+Shows: Katevo, Qc Jh
+Combination: Katevo, High Card ( Kh Qc Jh 8c 6s )
+Shows: Loeveecha, 2c 7d
+Combination: Loeveecha, High Card ( Kh 8c 7d 6s 4s )
+Wins: Katevo, chips: 40
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Calls: Loeveecha
+Checks: Katevo
+Flop: 5c Kh 4s
+Checks: Katevo
+Raises: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 60
+Wins: Loeveecha, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 30
+Wins: Loeveecha, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Calls: Loeveecha
+Checks: Katevo
+Flop: 2s Qc 6h
+Checks: Katevo
+Checks: Loeveecha
+Turn: 7d
+Checks: Katevo
+Checks: Loeveecha
+River: Qh
+Checks: Katevo
+Checks: Loeveecha
+Pot size: 40
+Showdown Reached
+Shows: Katevo, Kd 9s
+Combination: Katevo, Pair ( Qc Qh Kd 9s 7d )
+Shows: Loeveecha, Tc Ks
+Combination: Loeveecha, Pair ( Qc Qh Ks Tc 7d )
+Wins: Loeveecha, chips: 40
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 30
+Wins: Loeveecha, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Calls: Loeveecha
+Raises: Katevo, chips: 20
+Folds: Loeveecha
+Pot size: 60
+Wins: Katevo, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 30
+Wins: Loeveecha, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Calls: Loeveecha
+Checks: Katevo
+Flop: 9d Ks 3s
+Checks: Katevo
+Checks: Loeveecha
+Turn: 6h
+Checks: Katevo
+Checks: Loeveecha
+River: Qs
+Checks: Katevo
+Raises: Loeveecha, chips: 2110
+Calls: Katevo
+Pot size: 4260
+Showdown Reached
+Shows: Katevo, Jd 6d
+Combination: Katevo, Pair ( 6d 6h Ks Qs Jd )
+Shows: Loeveecha, 9c Qc
+Combination: Loeveecha, Two Pair ( Qc Qs 9c 9d Ks )
+Wins: Loeveecha, chips: 4260
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Calls: Katevo
+Checks: Loeveecha
+Flop: 4d 6d 8d
+Raises: Loeveecha, chips: 20
+Calls: Katevo
+Turn: Qc
+Raises: Loeveecha, chips: 20
+Calls: Katevo
+River: 2d
+Checks: Loeveecha
+Checks: Katevo
+Pot size: 120
+Showdown Reached
+Shows: Katevo, 5h 8h
+Combination: Katevo, Pair ( 8h 8d Qc 6d 5h )
+Shows: Loeveecha, 8s 3c
+Combination: Loeveecha, Pair ( 8s 8d Qc 6d 4d )
+Wins: Katevo, chips: 120
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Calls: Loeveecha
+Checks: Katevo
+Flop: 2h 7d Ks
+Checks: Katevo
+Checks: Loeveecha
+Turn: Jc
+Checks: Katevo
+Checks: Loeveecha
+River: 4h
+Checks: Katevo
+Checks: Loeveecha
+Pot size: 40
+Showdown Reached
+Shows: Katevo, 5h Jh
+Combination: Katevo, Pair ( Jh Jc Ks 7d 5h )
+Shows: Loeveecha, 9s Td
+Combination: Loeveecha, High Card ( Ks Jc Td 9s 7d )
+Wins: Katevo, chips: 40
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 30
+Wins: Loeveecha, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Folds: Loeveecha
+Pot size: 30
+Wins: Katevo, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Calls: Katevo
+Checks: Loeveecha
+Flop: 2s 2d 4s
+Checks: Loeveecha
+Checks: Katevo
+Turn: Tc
+Checks: Loeveecha
+Raises: Katevo, chips: 20
+Raises: Loeveecha, chips: 20
+Raises: Katevo, chips: 40
+Calls: Loeveecha
+River: Ks
+Raises: Loeveecha, chips: 40
+Folds: Katevo
+Pot size: 240
+Wins: Loeveecha, chips: 240
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Folds: Loeveecha
+Pot size: 30
+Wins: Katevo, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 30
+Wins: Loeveecha, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Folds: Loeveecha
+Pot size: 30
+Wins: Katevo, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Raises: Katevo, chips: 4710
+Folds: Loeveecha
+Pot size: 4750
+Wins: Katevo, chips: 4750
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Calls: Loeveecha
+Checks: Katevo
+Flop: Jd 6h 3h
+Checks: Katevo
+Checks: Loeveecha
+Turn: Qh
+Checks: Katevo
+Checks: Loeveecha
+River: Th
+Checks: Katevo
+Checks: Loeveecha
+Pot size: 40
+Showdown Reached
+Shows: Katevo, 4s 5d
+Combination: Katevo, High Card ( Qh Jd Th 6h 5d )
+Shows: Loeveecha, Kh As
+Combination: Loeveecha, Flush ( Kh Qh Th 6h 3h )
+Wins: Loeveecha, chips: 40
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Calls: Katevo
+Checks: Loeveecha
+Flop: 9c 8h Qd
+Checks: Loeveecha
+Raises: Katevo, chips: 20
+Folds: Loeveecha
+Pot size: 60
+Wins: Katevo, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Folds: Loeveecha
+Pot size: 30
+Wins: Katevo, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Calls: Katevo
+Checks: Loeveecha
+Flop: Qd Tc 8s
+Checks: Loeveecha
+Checks: Katevo
+Turn: 2d
+Checks: Loeveecha
+Checks: Katevo
+River: 4h
+Checks: Loeveecha
+Checks: Katevo
+Pot size: 40
+Showdown Reached
+Shows: Katevo, 7c 8d
+Combination: Katevo, Pair ( 8d 8s Qd Tc 7c )
+Shows: Loeveecha, 2h Ts
+Combination: Loeveecha, Two Pair ( Ts Tc 2h 2d Qd )
+Wins: Loeveecha, chips: 40
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Calls: Loeveecha
+Checks: Katevo
+Flop: 5s 6d Kc
+Checks: Katevo
+Checks: Loeveecha
+Turn: 9c
+Checks: Katevo
+Raises: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 60
+Wins: Loeveecha, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 30
+Wins: Loeveecha, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Folds: Loeveecha
+Pot size: 30
+Wins: Katevo, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 30
+Wins: Loeveecha, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Calls: Loeveecha
+Raises: Katevo, chips: 4690
+Folds: Loeveecha
+Pot size: 4730
+Wins: Katevo, chips: 4730
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 30
+Wins: Loeveecha, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Calls: Loeveecha
+Checks: Katevo
+Flop: 9c 5h Ah
+Checks: Katevo
+Checks: Loeveecha
+Turn: 9s
+Checks: Katevo
+Checks: Loeveecha
+River: 5c
+Checks: Katevo
+Checks: Loeveecha
+Pot size: 40
+Showdown Reached
+Shows: Katevo, 3h Kh
+Combination: Katevo, Two Pair ( 9c 9s 5h 5c Ah )
+Shows: Loeveecha, Kc 3c
+Combination: Loeveecha, Two Pair ( 9c 9s 5h 5c Ah )
+Wins: Katevo, chips: 20
+Wins: Loeveecha, chips: 20
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 30
+Wins: Loeveecha, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Folds: Loeveecha
+Pot size: 30
+Wins: Katevo, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Calls: Katevo
+Checks: Loeveecha
+Flop: 9s 5h Td
+Checks: Loeveecha
+Checks: Katevo
+Turn: 2c
+Checks: Loeveecha
+Checks: Katevo
+River: 4h
+Checks: Loeveecha
+Checks: Katevo
+Pot size: 40
+Showdown Reached
+Shows: Katevo, 7s 8d
+Combination: Katevo, High Card ( Td 9s 8d 7s 5h )
+Shows: Loeveecha, Kd 6c
+Combination: Loeveecha, High Card ( Kd Td 9s 6c 5h )
+Wins: Loeveecha, chips: 40
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Folds: Loeveecha
+Pot size: 30
+Wins: Katevo, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 30
+Wins: Loeveecha, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Folds: Loeveecha
+Pot size: 30
+Wins: Katevo, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Calls: Katevo
+Checks: Loeveecha
+Flop: Kh Ks 6h
+Checks: Loeveecha
+Checks: Katevo
+Turn: 8c
+Checks: Loeveecha
+Checks: Katevo
+River: 4d
+Checks: Loeveecha
+Checks: Katevo
+Pot size: 40
+Showdown Reached
+Shows: Katevo, Tc 7c
+Combination: Katevo, Pair ( Kh Ks Tc 8c 7c )
+Shows: Loeveecha, Qh 9d
+Combination: Loeveecha, Pair ( Kh Ks Qh 9d 8c )
+Wins: Loeveecha, chips: 40
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Folds: Loeveecha
+Pot size: 30
+Wins: Katevo, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Raises: Katevo, chips: 4680
+Folds: Loeveecha
+Pot size: 4720
+Wins: Katevo, chips: 4720
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Folds: Loeveecha
+Pot size: 30
+Wins: Katevo, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 30
+Wins: Loeveecha, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Calls: Loeveecha
+Checks: Katevo
+Flop: 2c Td Qh
+Checks: Katevo
+Checks: Loeveecha
+Turn: 2h
+Checks: Katevo
+Raises: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 60
+Wins: Loeveecha, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 30
+Wins: Loeveecha, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Folds: Loeveecha
+Pot size: 30
+Wins: Katevo, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 30
+Wins: Loeveecha, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Folds: Loeveecha
+Pot size: 30
+Wins: Katevo, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Calls: Katevo
+Checks: Loeveecha
+Flop: 5d 2d 7h
+Checks: Loeveecha
+Checks: Katevo
+Turn: Ah
+Checks: Loeveecha
+Checks: Katevo
+River: Jc
+Checks: Loeveecha
+Checks: Katevo
+Pot size: 40
+Showdown Reached
+Shows: Katevo, 8s 9h
+Combination: Katevo, High Card ( Ah Jc 9h 8s 7h )
+Shows: Loeveecha, Qd Ts
+Combination: Loeveecha, High Card ( Ah Qd Jc Ts 7h )
+Wins: Loeveecha, chips: 40
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Folds: Loeveecha
+Pot size: 30
+Wins: Katevo, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 30
+Wins: Loeveecha, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Calls: Loeveecha
+Checks: Katevo
+Flop: Ad Qh 3d
+Raises: Katevo, chips: 20
+Folds: Loeveecha
+Pot size: 60
+Wins: Katevo, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 30
+Wins: Loeveecha, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Folds: Loeveecha
+Pot size: 30
+Wins: Katevo, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 30
+Wins: Loeveecha, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Calls: Loeveecha
+Checks: Katevo
+Flop: Ah Kc Kh
+Checks: Katevo
+Checks: Loeveecha
+Turn: 3d
+Checks: Katevo
+Checks: Loeveecha
+River: 3s
+Checks: Katevo
+Checks: Loeveecha
+Pot size: 40
+Showdown Reached
+Shows: Katevo, 7s 9c
+Combination: Katevo, Two Pair ( Kc Kh 3d 3s Ah )
+Shows: Loeveecha, 8d Td
+Combination: Loeveecha, Two Pair ( Kc Kh 3d 3s Ah )
+Wins: Katevo, chips: 20
+Wins: Loeveecha, chips: 20
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 30
+Wins: Loeveecha, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Folds: Loeveecha
+Pot size: 30
+Wins: Katevo, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 30
+Wins: Loeveecha, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Calls: Loeveecha
+Checks: Katevo
+Flop: 4h As 5h
+Checks: Katevo
+Raises: Loeveecha, chips: 4300
+Folds: Katevo
+Pot size: 4340
+Wins: Loeveecha, chips: 4340
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Calls: Katevo
+Checks: Loeveecha
+Flop: Qs 8h Js
+Checks: Loeveecha
+Checks: Katevo
+Turn: 5s
+Raises: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 60
+Wins: Loeveecha, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Folds: Loeveecha
+Pot size: 30
+Wins: Katevo, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Calls: Katevo
+Checks: Loeveecha
+Flop: 4h Qh 5d
+Checks: Loeveecha
+Checks: Katevo
+Turn: 7c
+Checks: Loeveecha
+Checks: Katevo
+River: Kh
+Checks: Loeveecha
+Checks: Katevo
+Pot size: 40
+Showdown Reached
+Shows: Katevo, Qc Jc
+Combination: Katevo, Pair ( Qc Qh Kh Jc 7c )
+Shows: Loeveecha, 9c 6h
+Combination: Loeveecha, High Card ( Kh Qh 9c 7c 6h )
+Wins: Katevo, chips: 40
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Folds: Loeveecha
+Pot size: 30
+Wins: Katevo, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Calls: Katevo
+Checks: Loeveecha
+Flop: 3s 7d Qs
+Checks: Loeveecha
+Checks: Katevo
+Turn: 9s
+Checks: Loeveecha
+Checks: Katevo
+River: 5c
+Checks: Loeveecha
+Checks: Katevo
+Pot size: 40
+Showdown Reached
+Shows: Katevo, Js Th
+Combination: Katevo, High Card ( Qs Js Th 9s 7d )
+Shows: Loeveecha, 9h Ac
+Combination: Loeveecha, Pair ( 9h 9s Ac Qs 7d )
+Wins: Loeveecha, chips: 40
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Folds: Loeveecha
+Pot size: 30
+Wins: Katevo, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Raises: Katevo, chips: 30
+Folds: Loeveecha
+Pot size: 70
+Wins: Katevo, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Folds: Loeveecha
+Pot size: 30
+Wins: Katevo, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 30
+Wins: Loeveecha, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Folds: Loeveecha
+Pot size: 30
+Wins: Katevo, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Calls: Katevo
+Checks: Loeveecha
+Flop: 6s 7s 2d
+Checks: Loeveecha
+Checks: Katevo
+Turn: 5s
+Checks: Loeveecha
+Checks: Katevo
+River: 7d
+Raises: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 60
+Wins: Loeveecha, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Calls: Loeveecha
+Checks: Katevo
+Flop: 5s 5c Kh
+Raises: Katevo, chips: 20
+Raises: Loeveecha, chips: 20
+Calls: Katevo
+Turn: 9h
+Raises: Katevo, chips: 20
+Calls: Loeveecha
+River: 6d
+Raises: Katevo, chips: 20
+Calls: Loeveecha
+Pot size: 200
+Showdown Reached
+Shows: Katevo, 5h Ah
+Combination: Katevo, Three Of A Kind ( 5h 5s 5c Ah Kh )
+Shows: Loeveecha, 9s Qd
+Combination: Loeveecha, Two Pair ( 9s 9h 5s 5c Kh )
+Wins: Katevo, chips: 200
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 30
+Wins: Loeveecha, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Folds: Loeveecha
+Pot size: 30
+Wins: Katevo, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 30
+Wins: Loeveecha, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Raises: Loeveecha, chips: 30
+Folds: Katevo
+Pot size: 70
+Wins: Loeveecha, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Calls: Katevo
+Checks: Loeveecha
+Flop: 7c 6h 3h
+Checks: Loeveecha
+Checks: Katevo
+Turn: 6c
+Raises: Loeveecha, chips: 20
+Calls: Katevo
+River: 7s
+Checks: Loeveecha
+Checks: Katevo
+Pot size: 80
+Showdown Reached
+Shows: Katevo, 9d Ks
+Combination: Katevo, Two Pair ( 7c 7s 6h 6c Ks )
+Shows: Loeveecha, 4c 6d
+Combination: Loeveecha, Full House ( 6d 6h 6c 7c 7s )
+Wins: Loeveecha, chips: 80
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Raises: Loeveecha, chips: 30
+Folds: Katevo
+Pot size: 70
+Wins: Loeveecha, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 30
+Wins: Loeveecha, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Calls: Loeveecha
+Checks: Katevo
+Flop: Qh 4s As
+Checks: Katevo
+Raises: Loeveecha, chips: 20
+Calls: Katevo
+Turn: 4d
+Raises: Katevo, chips: 20
+Calls: Loeveecha
+River: Jh
+Checks: Katevo
+Raises: Loeveecha, chips: 20
+Calls: Katevo
+Pot size: 160
+Showdown Reached
+Shows: Katevo, 2c Qd
+Combination: Katevo, Two Pair ( Qd Qh 4s 4d As )
+Shows: Loeveecha, Ad 9h
+Combination: Loeveecha, Two Pair ( Ad As 4s 4d Qh )
+Wins: Loeveecha, chips: 160
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 30
+Wins: Loeveecha, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Folds: Loeveecha
+Pot size: 30
+Wins: Katevo, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 30
+Wins: Loeveecha, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Folds: Loeveecha
+Pot size: 30
+Wins: Katevo, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Calls: Katevo
+Checks: Loeveecha
+Flop: 9s 3h 7c
+Checks: Loeveecha
+Checks: Katevo
+Turn: Kd
+Raises: Loeveecha, chips: 20
+Calls: Katevo
+River: 2c
+Raises: Loeveecha, chips: 20
+Raises: Katevo, chips: 20
+Raises: Loeveecha, chips: 20
+Raises: Katevo, chips: 20
+Raises: Loeveecha, chips: 20
+Calls: Katevo
+Pot size: 280
+Showdown Reached
+Shows: Katevo, 2d 2h
+Combination: Katevo, Three Of A Kind ( 2d 2h 2c Kd 9s )
+Shows: Loeveecha, Kh 6h
+Combination: Loeveecha, Pair ( Kh Kd 9s 7c 6h )
+Wins: Katevo, chips: 280
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Folds: Loeveecha
+Pot size: 30
+Wins: Katevo, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 30
+Wins: Loeveecha, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Calls: Loeveecha
+Checks: Katevo
+Flop: Tc 6d 3c
+Checks: Katevo
+Checks: Loeveecha
+Turn: 5s
+Raises: Katevo, chips: 20
+Calls: Loeveecha
+River: Ah
+Checks: Katevo
+Raises: Loeveecha, chips: 20
+Calls: Katevo
+Pot size: 120
+Showdown Reached
+Shows: Katevo, Kd 3s
+Combination: Katevo, Pair ( 3s 3c Ah Kd Tc )
+Shows: Loeveecha, Ts Jh
+Combination: Loeveecha, Pair ( Ts Tc Ah Jh 6d )
+Wins: Loeveecha, chips: 120
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Calls: Katevo
+Checks: Loeveecha
+Flop: Kd Qd 4d
+Checks: Loeveecha
+Checks: Katevo
+Turn: 6d
+Checks: Loeveecha
+Checks: Katevo
+River: 5d
+Checks: Loeveecha
+Checks: Katevo
+Pot size: 40
+Showdown Reached
+Shows: Katevo, Jh 8c
+Combination: Katevo, Flush ( Kd Qd 6d 5d 4d )
+Shows: Loeveecha, 3d 5c
+Combination: Loeveecha, Flush ( Kd Qd 6d 5d 4d )
+Wins: Katevo, chips: 20
+Wins: Loeveecha, chips: 20
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Folds: Loeveecha
+Pot size: 30
+Wins: Katevo, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Calls: Katevo
+Checks: Loeveecha
+Flop: Ah Qd 9h
+Checks: Loeveecha
+Checks: Katevo
+Turn: 9s
+Checks: Loeveecha
+Raises: Katevo, chips: 20
+Calls: Loeveecha
+River: 2d
+Checks: Loeveecha
+Raises: Katevo, chips: 20
+Calls: Loeveecha
+Pot size: 120
+Showdown Reached
+Shows: Katevo, 9c 6c
+Combination: Katevo, Three Of A Kind ( 9c 9h 9s Ah Qd )
+Shows: Loeveecha, 3d Kh
+Combination: Loeveecha, Pair ( 9h 9s Ah Kh Qd )
+Wins: Katevo, chips: 120
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Folds: Loeveecha
+Pot size: 30
+Wins: Katevo, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Calls: Katevo
+Raises: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 60
+Wins: Loeveecha, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Calls: Loeveecha
+Checks: Katevo
+Flop: 6s 2c 8s
+Checks: Katevo
+Raises: Loeveecha, chips: 20
+Raises: Katevo, chips: 40
+Calls: Loeveecha
+Turn: Ts
+Checks: Katevo
+Checks: Loeveecha
+River: 7c
+Raises: Katevo, chips: 60
+Folds: Loeveecha
+Pot size: 220
+Wins: Katevo, chips: 220
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Calls: Katevo
+Checks: Loeveecha
+Flop: Ts 5h Kd
+Checks: Loeveecha
+Checks: Katevo
+Turn: 2c
+Checks: Loeveecha
+Checks: Katevo
+River: 6d
+Checks: Loeveecha
+Checks: Katevo
+Pot size: 40
+Showdown Reached
+Shows: Katevo, 9d Jh
+Combination: Katevo, High Card ( Kd Jh Ts 9d 6d )
+Shows: Loeveecha, 3s Ad
+Combination: Loeveecha, High Card ( Ad Kd Ts 6d 5h )
+Wins: Loeveecha, chips: 40
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Folds: Loeveecha
+Pot size: 30
+Wins: Katevo, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Calls: Katevo
+Checks: Loeveecha
+Flop: 2c 6s Qc
+Raises: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 60
+Wins: Loeveecha, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Folds: Loeveecha
+Pot size: 30
+Wins: Katevo, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 30
+Wins: Loeveecha, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Raises: Loeveecha, chips: 30
+Folds: Katevo
+Pot size: 70
+Wins: Loeveecha, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 30
+Wins: Loeveecha, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Calls: Loeveecha
+Checks: Katevo
+Flop: 8s 5d 8h
+Checks: Katevo
+Raises: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 60
+Wins: Loeveecha, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 30
+Wins: Loeveecha, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Calls: Loeveecha
+Checks: Katevo
+Flop: Qc 9c Js
+Checks: Katevo
+Checks: Loeveecha
+Turn: Ts
+Checks: Katevo
+Checks: Loeveecha
+River: 4h
+Checks: Katevo
+Checks: Loeveecha
+Pot size: 40
+Showdown Reached
+Shows: Katevo, 2d 8s
+Combination: Katevo, Straight ( Qc Js Ts 9c 8s )
+Shows: Loeveecha, Ad Tc
+Combination: Loeveecha, Pair ( Tc Ts Ad Qc Js )
+Wins: Katevo, chips: 40
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Calls: Katevo
+Checks: Loeveecha
+Flop: 9h 3s 2c
+Checks: Loeveecha
+Checks: Katevo
+Turn: 9d
+Checks: Loeveecha
+Raises: Katevo, chips: 20
+Folds: Loeveecha
+Pot size: 60
+Wins: Katevo, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Folds: Loeveecha
+Pot size: 30
+Wins: Katevo, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Calls: Katevo
+Checks: Loeveecha
+Flop: Qc Ad Ks
+Checks: Loeveecha
+Checks: Katevo
+Turn: 6s
+Raises: Loeveecha, chips: 4200
+Folds: Katevo
+Pot size: 4240
+Wins: Loeveecha, chips: 4240
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Folds: Loeveecha
+Pot size: 30
+Wins: Katevo, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 30
+Wins: Loeveecha, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Calls: Loeveecha
+Checks: Katevo
+Flop: 4s Kc 2s
+Checks: Katevo
+Checks: Loeveecha
+Turn: Jc
+Checks: Katevo
+Checks: Loeveecha
+River: 9s
+Checks: Katevo
+Checks: Loeveecha
+Pot size: 40
+Showdown Reached
+Shows: Katevo, Jh Tc
+Combination: Katevo, Pair ( Jh Jc Kc Tc 9s )
+Shows: Loeveecha, 8c Ac
+Combination: Loeveecha, High Card ( Ac Kc Jc 9s 8c )
+Wins: Katevo, chips: 40
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 30
+Wins: Loeveecha, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Folds: Loeveecha
+Pot size: 30
+Wins: Katevo, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Calls: Katevo
+Checks: Loeveecha
+Flop: 2c 8h 9s
+Checks: Loeveecha
+Raises: Katevo, chips: 20
+Raises: Loeveecha, chips: 20
+Calls: Katevo
+Turn: 2d
+Checks: Loeveecha
+Checks: Katevo
+River: 2h
+Raises: Loeveecha, chips: 20
+Raises: Katevo, chips: 40
+Calls: Loeveecha
+Pot size: 240
+Showdown Reached
+Shows: Katevo, As Qs
+Combination: Katevo, Three Of A Kind ( 2c 2d 2h As Qs )
+Shows: Loeveecha, 4h 4c
+Combination: Loeveecha, Full House ( 2c 2d 2h 4h 4c )
+Wins: Loeveecha, chips: 240
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Folds: Loeveecha
+Pot size: 30
+Wins: Katevo, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 30
+Wins: Loeveecha, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Calls: Loeveecha
+Raises: Katevo, chips: 20
+Folds: Loeveecha
+Pot size: 60
+Wins: Katevo, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Calls: Katevo
+Checks: Loeveecha
+Flop: 7c 4h Tc
+Raises: Loeveecha, chips: 20
+Calls: Katevo
+Turn: 6s
+Checks: Loeveecha
+Checks: Katevo
+River: 2c
+Raises: Loeveecha, chips: 4280
+Raises: Katevo, chips: 360
+Pot size: 9000
+Showdown Reached
+Shows: Katevo, 7d 6c
+Combination: Katevo, Two Pair ( 7d 7c 6c 6s Tc )
+Shows: Loeveecha, 7s Ts
+Combination: Loeveecha, Two Pair ( Ts Tc 7s 7c 6s )
+Wins: Katevo, chips: 360
+Wins: Loeveecha, chips: 8640
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Folds: Loeveecha
+Pot size: 30
+Wins: Katevo, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Calls: Katevo
+Checks: Loeveecha
+Flop: Qh 5h Kd
+Checks: Loeveecha
+Checks: Katevo
+Turn: Jd
+Checks: Loeveecha
+Checks: Katevo
+River: Ts
+Checks: Loeveecha
+Checks: Katevo
+Pot size: 40
+Showdown Reached
+Shows: Katevo, 8c 7c
+Combination: Katevo, High Card ( Kd Qh Jd Ts 8c )
+Shows: Loeveecha, 5d 2h
+Combination: Loeveecha, Pair ( 5d 5h Kd Qh Jd )
+Wins: Loeveecha, chips: 40
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Folds: Loeveecha
+Pot size: 30
+Wins: Katevo, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 30
+Wins: Loeveecha, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Folds: Loeveecha
+Pot size: 30
+Wins: Katevo, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 30
+Wins: Loeveecha, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Folds: Loeveecha
+Pot size: 30
+Wins: Katevo, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 30
+Wins: Loeveecha, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Calls: Loeveecha
+Checks: Katevo
+Flop: 2s Qd 9c
+Checks: Katevo
+Checks: Loeveecha
+Turn: 9d
+Checks: Katevo
+Checks: Loeveecha
+River: Qs
+Checks: Katevo
+Raises: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 60
+Wins: Loeveecha, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Raises: Katevo, chips: 30
+Folds: Loeveecha
+Pot size: 70
+Wins: Katevo, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Calls: Loeveecha
+Checks: Katevo
+Flop: 6h 9d 2d
+Checks: Katevo
+Checks: Loeveecha
+Turn: Ts
+Checks: Katevo
+Raises: Loeveecha, chips: 20
+Calls: Katevo
+River: Jc
+Checks: Katevo
+Raises: Loeveecha, chips: 20
+Raises: Katevo, chips: 20
+Raises: Loeveecha, chips: 20
+Calls: Katevo
+Pot size: 200
+Showdown Reached
+Shows: Katevo, 6d 3h
+Combination: Katevo, Pair ( 6d 6h Jc Ts 9d )
+Shows: Loeveecha, Kh Kd
+Combination: Loeveecha, Pair ( Kh Kd Jc Ts 9d )
+Wins: Loeveecha, chips: 200
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 30
+Wins: Loeveecha, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Calls: Loeveecha
+Checks: Katevo
+Flop: As Jd Kd
+Checks: Katevo
+Checks: Loeveecha
+Turn: 7c
+Checks: Katevo
+Checks: Loeveecha
+River: 6h
+Checks: Katevo
+Checks: Loeveecha
+Pot size: 40
+Showdown Reached
+Shows: Katevo, 4d 6s
+Combination: Katevo, Pair ( 6s 6h As Kd Jd )
+Shows: Loeveecha, 4h 4s
+Combination: Loeveecha, Pair ( 4h 4s As Kd Jd )
+Wins: Katevo, chips: 40
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Calls: Katevo
+Checks: Loeveecha
+Flop: 2s 6s 5c
+Checks: Loeveecha
+Checks: Katevo
+Turn: Th
+Checks: Loeveecha
+Checks: Katevo
+River: 9c
+Checks: Loeveecha
+Raises: Katevo, chips: 20
+Folds: Loeveecha
+Pot size: 60
+Wins: Katevo, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Folds: Loeveecha
+Pot size: 30
+Wins: Katevo, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 30
+Wins: Loeveecha, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Calls: Loeveecha
+Checks: Katevo
+Flop: 6h 8c Qc
+Raises: Katevo, chips: 20
+Calls: Loeveecha
+Turn: 2s
+Raises: Katevo, chips: 20
+Raises: Loeveecha, chips: 40
+Raises: Katevo, chips: 180
+Calls: Loeveecha
+River: 5s
+Pot size: 560
+Showdown Reached
+Shows: Katevo, 8s Qh
+Combination: Katevo, Two Pair ( Qh Qc 8s 8c 6h )
+Shows: Loeveecha, 8h 9s
+Combination: Loeveecha, Pair ( 8h 8c Qc 9s 6h )
+Wins: Katevo, chips: 560
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Raises: Katevo, chips: 30
+Folds: Loeveecha
+Pot size: 70
+Wins: Katevo, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Calls: Loeveecha
+Checks: Katevo
+Flop: 6c 4d Jc
+Checks: Katevo
+Raises: Loeveecha, chips: 20
+Raises: Katevo, chips: 20
+Calls: Loeveecha
+Turn: 8h
+Raises: Katevo, chips: 20
+Calls: Loeveecha
+River: 4h
+Checks: Katevo
+Raises: Loeveecha, chips: 20
+Calls: Katevo
+Pot size: 200
+Showdown Reached
+Shows: Katevo, 8c Ks
+Combination: Katevo, Two Pair ( 8c 8h 4d 4h Ks )
+Shows: Loeveecha, As Td
+Combination: Loeveecha, Pair ( 4d 4h As Jc Td )
+Wins: Katevo, chips: 200
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Calls: Katevo
+Raises: Loeveecha, chips: 20
+Raises: Katevo, chips: 20
+Calls: Loeveecha
+Flop: 9c 4h Ks
+Checks: Loeveecha
+Checks: Katevo
+Turn: 8c
+Checks: Loeveecha
+Checks: Katevo
+River: 7c
+Checks: Loeveecha
+Checks: Katevo
+Pot size: 120
+Showdown Reached
+Shows: Katevo, Jh Qh
+Combination: Katevo, High Card ( Ks Qh Jh 9c 8c )
+Shows: Loeveecha, 7h Ah
+Combination: Loeveecha, Pair ( 7h 7c Ah Ks 9c )
+Wins: Loeveecha, chips: 120
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Calls: Loeveecha
+Checks: Katevo
+Flop: As 4c 3s
+Checks: Katevo
+Checks: Loeveecha
+Turn: 4s
+Checks: Katevo
+Checks: Loeveecha
+River: 6s
+Checks: Katevo
+Raises: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 60
+Wins: Loeveecha, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 30
+Wins: Loeveecha, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Folds: Loeveecha
+Pot size: 30
+Wins: Katevo, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Calls: Katevo
+Checks: Loeveecha
+Flop: 6h Kh Qc
+Checks: Loeveecha
+Checks: Katevo
+Turn: Ac
+Checks: Loeveecha
+Checks: Katevo
+River: 2c
+Checks: Loeveecha
+Checks: Katevo
+Pot size: 40
+Showdown Reached
+Shows: Katevo, 6s 8s
+Combination: Katevo, Pair ( 6s 6h Ac Kh Qc )
+Shows: Loeveecha, 7d 2s
+Combination: Loeveecha, Pair ( 2s 2c Ac Kh Qc )
+Wins: Katevo, chips: 40
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Raises: Loeveecha, chips: 30
+Folds: Katevo
+Pot size: 70
+Wins: Loeveecha, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Raises: Katevo, chips: 30
+Folds: Loeveecha
+Pot size: 70
+Wins: Katevo, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Calls: Loeveecha
+Checks: Katevo
+Flop: Qs 2h 9c
+Checks: Katevo
+Raises: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 60
+Wins: Loeveecha, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Calls: Katevo
+Checks: Loeveecha
+Flop: 7h 8c Ah
+Checks: Loeveecha
+Checks: Katevo
+Turn: 9s
+Checks: Loeveecha
+Raises: Katevo, chips: 20
+Folds: Loeveecha
+Pot size: 60
+Wins: Katevo, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Calls: Loeveecha
+Checks: Katevo
+Flop: 9c 5s 6h
+Checks: Katevo
+Checks: Loeveecha
+Turn: 9s
+Checks: Katevo
+Checks: Loeveecha
+River: 7c
+Raises: Katevo, chips: 600
+Calls: Loeveecha
+Pot size: 1240
+Showdown Reached
+Shows: Katevo, 8d Qd
+Combination: Katevo, Straight ( 9c 8d 7c 6h 5s )
+Shows: Loeveecha, 3s 4s
+Combination: Loeveecha, Straight ( 7c 6h 5s 4s 3s )
+Wins: Katevo, chips: 1240
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Calls: Katevo
+Raises: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 60
+Wins: Loeveecha, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Calls: Loeveecha
+Checks: Katevo
+Flop: Kh 8s 3d
+Checks: Katevo
+Checks: Loeveecha
+Turn: 2d
+Checks: Katevo
+Checks: Loeveecha
+River: Qh
+Raises: Katevo, chips: 20
+Calls: Loeveecha
+Pot size: 80
+Showdown Reached
+Shows: Katevo, Kd 5s
+Combination: Katevo, Pair ( Kd Kh Qh 8s 5s )
+Shows: Loeveecha, 4c 2c
+Combination: Loeveecha, Pair ( 2c 2d Kh Qh 8s )
+Wins: Katevo, chips: 80
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 30
+Wins: Loeveecha, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Folds: Loeveecha
+Pot size: 30
+Wins: Katevo, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Calls: Katevo
+Checks: Loeveecha
+Flop: 6c 8d 2s
+Checks: Loeveecha
+Checks: Katevo
+Turn: Ah
+Checks: Loeveecha
+Checks: Katevo
+River: Js
+Raises: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 60
+Wins: Loeveecha, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Folds: Loeveecha
+Pot size: 30
+Wins: Katevo, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Calls: Katevo
+Checks: Loeveecha
+Flop: Qc Qs 5c
+Checks: Loeveecha
+Checks: Katevo
+Turn: Jc
+Raises: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 60
+Wins: Loeveecha, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Folds: Loeveecha
+Pot size: 30
+Wins: Katevo, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Calls: Katevo
+Checks: Loeveecha
+Flop: Kh 5c Qs
+Checks: Loeveecha
+Checks: Katevo
+Turn: 7d
+Checks: Loeveecha
+Checks: Katevo
+River: 8d
+Raises: Loeveecha, chips: 7740
+Folds: Katevo
+Pot size: 7780
+Wins: Loeveecha, chips: 7780
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Folds: Loeveecha
+Pot size: 30
+Wins: Katevo, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 30
+Wins: Loeveecha, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Folds: Loeveecha
+Pot size: 30
+Wins: Katevo, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 30
+Wins: Loeveecha, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Calls: Loeveecha
+Checks: Katevo
+Flop: Ah Td Kc
+Checks: Katevo
+Checks: Loeveecha
+Turn: 4h
+Checks: Katevo
+Checks: Loeveecha
+River: 6d
+Checks: Katevo
+Checks: Loeveecha
+Pot size: 40
+Showdown Reached
+Shows: Katevo, 3h 2s
+Combination: Katevo, High Card ( Ah Kc Td 6d 4h )
+Shows: Loeveecha, 5d 5h
+Combination: Loeveecha, Pair ( 5d 5h Ah Kc Td )
+Wins: Loeveecha, chips: 40
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 30
+Wins: Loeveecha, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Folds: Loeveecha
+Pot size: 30
+Wins: Katevo, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 30
+Wins: Loeveecha, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Calls: Loeveecha
+Raises: Katevo, chips: 1170
+Folds: Loeveecha
+Pot size: 1210
+Wins: Katevo, chips: 1210
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Katevo
+Small Blind: Katevo, chips: 10
+Big Blind: Loeveecha, chips: 20
+Folds: Katevo
+Pot size: 30
+Wins: Loeveecha, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Loeveecha
+Small Blind: Loeveecha, chips: 10
+Big Blind: Katevo, chips: 20
+Calls: Loeveecha
+Checks: Katevo
+Flop: 5s 9h 7c
+Checks: Katevo
+Checks: Loeveecha
+Turn: 9c
+Checks: Katevo
+Checks: Loeveecha
+River: Js
+Raises: Katevo, chips: 1180
+Raises: Loeveecha, chips: 1100
+Pot size: 3500
+Showdown Reached
+Shows: Katevo, 9s Tc
+Combination: Katevo, Three Of A Kind ( 9s 9h 9c Js Tc )
+Shows: Loeveecha, Th 8h
+Combination: Loeveecha, Straight ( Js Th 9h 8h 7c )
+Wins: Loeveecha, chips: 3500
+Quits: Katevo, chips: 0
+Ranking: Loeveecha, Place: 1, Score: 8000
+Reveal AI: Loeveecha, AI: Smart
+Ranking: Katevo, Place: 2, Score: -1000
+Reveal AI: Katevo, AI: Smart
+Ranking: Senutry, Place: 3, Score: -1000
+Reveal AI: Senutry, AI: Random
+Ranking: Moema, Place: 4, Score: -1000
+Reveal AI: Moema, AI: Smart
+Ranking: Woebap, Place: 5, Score: -1000
+Reveal AI: Woebap, AI: Call
+Ranking: Jegibinny, Place: 6, Score: -1000
+Reveal AI: Jegibinny, AI: Smart
+Ranking: Nehe, Place: 7, Score: -1000
+Reveal AI: Nehe, AI: Random
+Ranking: Voe, Place: 8, Score: -1000
+Reveal AI: Voe, AI: Call
+Ranking: Kakem, Place: 9, Score: -1000
+Reveal AI: Kakem, AI: Human
+
+Player Stats for Jegibinny, AI: Smart
+General: deals: 11, actions: 19, preflop actions: 13
+Rounds Seen: flops: 92, turns: 78, rivers: 66, showdowns: 56
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 30
+Pre-Flop Stats: VP$IP: 0.454545, PFR: 0.0909091, 3Bet: 0.0909091
+Post-Flop Stats: AF: -1.#IND, WSD: 0.608696, WSDW: 0
+
+
+Player Stats for Kakem, AI: Human
+General: deals: 2, actions: 11, preflop actions: 2
+Rounds Seen: flops: 99, turns: 86, rivers: 75, showdowns: 66
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 30
+Pre-Flop Stats: VP$IP: 1, PFR: 0.5, 3Bet: 0.5
+Post-Flop Stats: AF: 2, WSD: 0.666667, WSDW: 0
+
+
+Player Stats for Katevo, AI: Smart
+General: deals: 222, actions: 415, preflop actions: 179
+Rounds Seen: flops: 84, turns: 72, rivers: 61, showdowns: 50
+Wins: total: 98, showdown: 28, bluff: 70
+Chips: won: 51990, lost: 52990, bought: 1000, forced bets: 2980
+Pre-Flop Stats: VP$IP: 0.283784, PFR: 0.0765766, 3Bet: 0.0585586
+Post-Flop Stats: AF: 2.22222, WSD: 0.595238, WSDW: 0.56
+
+
+Player Stats for Loeveecha, AI: Smart
+General: deals: 222, actions: 414, preflop actions: 187
+Rounds Seen: flops: 80, turns: 67, rivers: 57, showdowns: 47
+Wins: total: 103, showdown: 27, bluff: 76
+Chips: won: 40550, lost: 32550, bought: 1000, forced bets: 3000
+Pre-Flop Stats: VP$IP: 0.252252, PFR: 0.0540541, 3Bet: 0.0315315
+Post-Flop Stats: AF: 2.4, WSD: 0.5875, WSDW: 0.574468
+
+
+Player Stats for Moema, AI: Smart
+General: deals: 32, actions: 70, preflop actions: 35
+Rounds Seen: flops: 84, turns: 72, rivers: 59, showdowns: 48
+Wins: total: 5, showdown: 1, bluff: 4
+Chips: won: 1680, lost: 2680, bought: 1000, forced bets: 210
+Pre-Flop Stats: VP$IP: 0.34375, PFR: 0.15625, 3Bet: 0.15625
+Post-Flop Stats: AF: 2, WSD: 0.571429, WSDW: 0.0208333
+
+
+Player Stats for Nehe, AI: Random
+General: deals: 11, actions: 32, preflop actions: 12
+Rounds Seen: flops: 96, turns: 82, rivers: 71, showdowns: 62
+Wins: total: 1, showdown: 1, bluff: 0
+Chips: won: 430, lost: 2550, bought: 1000, forced bets: 40
+Pre-Flop Stats: VP$IP: 0.727273, PFR: 0.181818, 3Bet: 0.0909091
+Post-Flop Stats: AF: 2.5, WSD: 0.645833, WSDW: 0.016129
+
+
+Player Stats for Senutry, AI: Random
+General: deals: 43, actions: 120, preflop actions: 50
+Rounds Seen: flops: 93, turns: 79, rivers: 69, showdowns: 59
+Wins: total: 17, showdown: 11, bluff: 6
+Chips: won: 12350, lost: 14500, bought: 1000, forced bets: 310
+Pre-Flop Stats: VP$IP: 0.651163, PFR: 0.209302, 3Bet: 0.186047
+Post-Flop Stats: AF: 4, WSD: 0.634409, WSDW: 0.186441
+
+
+Player Stats for Voe, AI: Call
+General: deals: 2, actions: 11, preflop actions: 3
+Rounds Seen: flops: 99, turns: 86, rivers: 75, showdowns: 66
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 0
+Pre-Flop Stats: VP$IP: 1, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: 0, WSD: 0.666667, WSDW: 0
+
+
+Player Stats for Woebap, AI: Call
+General: deals: 14, actions: 56, preflop actions: 21
+Rounds Seen: flops: 99, turns: 86, rivers: 75, showdowns: 66
+Wins: total: 7, showdown: 7, bluff: 0
+Chips: won: 5150, lost: 7450, bought: 1000, forced bets: 60
+Pre-Flop Stats: VP$IP: 1, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: 0, WSD: 0.666667, WSDW: 0.106061
+
+

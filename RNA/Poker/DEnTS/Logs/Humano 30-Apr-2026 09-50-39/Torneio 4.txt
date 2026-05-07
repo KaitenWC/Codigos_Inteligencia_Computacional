@@ -1,0 +1,8296 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Batte: Smart
+Pibonny: Human
+Fevikuv: Smart
+Noros: Random
+Hobek: Call
+Puba: Smart
+Fiso: Random
+Deehawil: Call
+Cheleep: Smart
+
+Joins: Batte, chips: 1000
+Joins: Pibonny, chips: 1000
+Joins: Fevikuv, chips: 1000
+Joins: Noros, chips: 1000
+Joins: Hobek, chips: 1000
+Joins: Puba, chips: 1000
+Joins: Fiso, chips: 1000
+Joins: Deehawil, chips: 1000
+Joins: Cheleep, chips: 1000
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Hobek
+Small Blind: Puba, chips: 10
+Big Blind: Fiso, chips: 20
+Calls: Deehawil
+Folds: Cheleep
+Calls: Batte
+Calls: Pibonny
+Calls: Fevikuv
+Raises: Noros, chips: 40
+Calls: Hobek
+Folds: Puba
+Calls: Fiso
+Calls: Deehawil
+Raises: Batte, chips: 60
+Calls: Pibonny
+Raises: Fevikuv, chips: 80
+Folds: Noros
+Calls: Hobek
+Folds: Fiso
+Calls: Deehawil
+Raises: Batte, chips: 200
+Calls: Pibonny
+Calls: Fevikuv
+Calls: Hobek
+Calls: Deehawil
+Flop: 7d 3c Kc
+Checks: Deehawil
+Checks: Batte
+Raises: Pibonny, chips: 200
+Folds: Fevikuv
+Calls: Hobek
+Calls: Deehawil
+Folds: Batte
+Turn: Jc
+Checks: Deehawil
+Raises: Pibonny, chips: 400
+Calls: Hobek
+Calls: Deehawil
+River: 4c
+Pot size: 3930
+Showdown Reached
+Shows: Pibonny, 3d Kh
+Combination: Pibonny, Two Pair ( Kh Kc 3d 3c Jc )
+Boasts: Noros, Th 2d
+Shows: Hobek, Tc Ah
+Combination: Hobek, Flush ( Kc Jc Tc 4c 3c )
+Boasts: Fiso, Js 9d
+Shows: Deehawil, 2c 6s
+Combination: Deehawil, Flush ( Kc Jc 4c 3c 2c )
+Wins: Hobek, chips: 3930
+Quits: Pibonny, chips: 0
+Quits: Deehawil, chips: 0
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Puba
+Small Blind: Fiso, chips: 10
+Big Blind: Cheleep, chips: 20
+Folds: Batte
+Folds: Fevikuv
+Calls: Noros
+Calls: Hobek
+Folds: Puba
+Raises: Fiso, chips: 30
+Folds: Cheleep
+Calls: Noros
+Calls: Hobek
+Flop: Ad 9c 5c
+Raises: Fiso, chips: 30
+Folds: Noros
+Calls: Hobek
+Turn: Kh
+Raises: Fiso, chips: 30
+Calls: Hobek
+River: Td
+Checks: Fiso
+Checks: Hobek
+Pot size: 290
+Showdown Reached
+Boasts: Noros, 6d 5h
+Shows: Hobek, As 3h
+Combination: Hobek, Pair ( As Ad Kh Td 9c )
+Shows: Fiso, Th Ac
+Combination: Fiso, Two Pair ( Ac Ad Th Td Kh )
+Wins: Fiso, chips: 290
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fiso
+Small Blind: Cheleep, chips: 10
+Big Blind: Batte, chips: 20
+Calls: Fevikuv
+Raises: Noros, chips: 40
+Calls: Hobek
+Folds: Puba
+Raises: Fiso, chips: 100
+Folds: Cheleep
+Folds: Batte
+Folds: Fevikuv
+Raises: Noros, chips: 200
+Calls: Hobek
+Calls: Fiso
+Flop: 6s Th 9d
+Raises: Noros, chips: 200
+Calls: Hobek
+Raises: Fiso, chips: 400
+Calls: Noros
+Calls: Hobek
+Turn: 7h
+Checks: Hobek
+Raises: Fiso, chips: 160
+Calls: Hobek
+River: 2d
+Pot size: 3180
+Showdown Reached
+Shows: Noros, Ac 3h
+Combination: Noros, High Card ( Ac Th 9d 7h 6s )
+Shows: Hobek, 2c Jh
+Combination: Hobek, Pair ( 2c 2d Jh Th 9d )
+Shows: Fiso, 3c Qh
+Combination: Fiso, High Card ( Qh Th 9d 7h 6s )
+Wins: Hobek, chips: 3180
+Quits: Noros, chips: 0
+Quits: Fiso, chips: 0
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheleep
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Calls: Hobek
+Folds: Puba
+Raises: Cheleep, chips: 40
+Raises: Batte, chips: 110
+Folds: Fevikuv
+Calls: Hobek
+Calls: Cheleep
+Flop: 8d Qh 7h
+Checks: Batte
+Checks: Hobek
+Checks: Cheleep
+Turn: 4c
+Checks: Batte
+Checks: Hobek
+Checks: Cheleep
+River: 6d
+Checks: Batte
+Checks: Hobek
+Checks: Cheleep
+Pot size: 530
+Showdown Reached
+Shows: Batte, As Js
+Combination: Batte, High Card ( As Qh Js 8d 7h )
+Shows: Hobek, 7d 8c
+Combination: Hobek, Two Pair ( 8c 8d 7d 7h Qh )
+Shows: Cheleep, Ts Qs
+Combination: Cheleep, Pair ( Qs Qh Ts 8d 7h )
+Wins: Hobek, chips: 530
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Fevikuv, chips: 10
+Big Blind: Hobek, chips: 20
+Calls: Puba
+Calls: Cheleep
+Calls: Batte
+Folds: Fevikuv
+Checks: Hobek
+Flop: 9s 4h 5h
+Checks: Hobek
+Checks: Puba
+Checks: Cheleep
+Checks: Batte
+Turn: 6h
+Checks: Hobek
+Checks: Puba
+Checks: Cheleep
+Checks: Batte
+River: Kh
+Checks: Hobek
+Checks: Puba
+Checks: Cheleep
+Checks: Batte
+Pot size: 90
+Showdown Reached
+Shows: Batte, Kd Qh
+Combination: Batte, Flush ( Kh Qh 6h 5h 4h )
+Shows: Hobek, Qd Ks
+Combination: Hobek, Pair ( Ks Kh Qd 9s 6h )
+Shows: Puba, 3h 3d
+Combination: Puba, Flush ( Kh 6h 5h 4h 3h )
+Shows: Cheleep, 6s As
+Combination: Cheleep, Pair ( 6s 6h As Kh 9s )
+Wins: Batte, chips: 90
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Hobek, chips: 10
+Big Blind: Puba, chips: 20
+Calls: Cheleep
+Calls: Batte
+Calls: Fevikuv
+Calls: Hobek
+Checks: Puba
+Flop: Tc Td 5d
+Checks: Hobek
+Checks: Puba
+Checks: Cheleep
+Checks: Batte
+Checks: Fevikuv
+Turn: 8s
+Checks: Hobek
+Checks: Puba
+Checks: Cheleep
+Checks: Batte
+Checks: Fevikuv
+River: Qd
+Checks: Hobek
+Checks: Puba
+Checks: Cheleep
+Raises: Batte, chips: 20
+Folds: Fevikuv
+Calls: Hobek
+Folds: Puba
+Raises: Cheleep, chips: 740
+Calls: Batte
+Calls: Hobek
+Pot size: 2080
+Showdown Reached
+Shows: Batte, 9h Js
+Combination: Batte, Straight ( Qd Js Tc 9h 8s )
+Shows: Hobek, Qc 3s
+Combination: Hobek, Two Pair ( Qc Qd Tc Td 8s )
+Shows: Cheleep, Kh Th
+Combination: Cheleep, Three Of A Kind ( Th Tc Td Kh Qd )
+Wins: Batte, chips: 1480
+Wins: Cheleep, chips: 600
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Hobek
+Small Blind: Puba, chips: 10
+Big Blind: Cheleep, chips: 20
+Folds: Batte
+Folds: Fevikuv
+Calls: Hobek
+Folds: Puba
+Raises: Cheleep, chips: 580
+Calls: Hobek
+Flop: 7s 3c 6d
+Turn: Kd
+River: 7h
+Pot size: 1210
+Showdown Reached
+Shows: Hobek, 9s Kh
+Combination: Hobek, Two Pair ( Kh Kd 7s 7h 9s )
+Shows: Cheleep, Qd Kc
+Combination: Cheleep, Two Pair ( Kc Kd 7s 7h Qd )
+Wins: Cheleep, chips: 1210
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Puba
+Small Blind: Cheleep, chips: 10
+Big Blind: Batte, chips: 20
+Folds: Fevikuv
+Calls: Hobek
+Folds: Puba
+Calls: Cheleep
+Checks: Batte
+Flop: 9h 9d 7h
+Checks: Cheleep
+Checks: Batte
+Checks: Hobek
+Turn: Jc
+Checks: Cheleep
+Checks: Batte
+Checks: Hobek
+River: Qc
+Checks: Cheleep
+Checks: Batte
+Checks: Hobek
+Pot size: 60
+Showdown Reached
+Shows: Batte, 6c Th
+Combination: Batte, Pair ( 9h 9d Qc Jc Th )
+Shows: Hobek, 5h 3c
+Combination: Hobek, Pair ( 9h 9d Qc Jc 7h )
+Shows: Cheleep, Tc Ad
+Combination: Cheleep, Pair ( 9h 9d Ad Qc Jc )
+Wins: Cheleep, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheleep
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Calls: Hobek
+Folds: Puba
+Folds: Cheleep
+Folds: Batte
+Checks: Fevikuv
+Flop: 4c 7h Td
+Checks: Fevikuv
+Checks: Hobek
+Turn: 3c
+Checks: Fevikuv
+Checks: Hobek
+River: 5d
+Checks: Fevikuv
+Checks: Hobek
+Pot size: 50
+Showdown Reached
+Shows: Fevikuv, Ks 4d
+Combination: Fevikuv, Pair ( 4d 4c Ks Td 7h )
+Shows: Hobek, Ad Tc
+Combination: Hobek, Pair ( Tc Td Ad 7h 5d )
+Wins: Hobek, chips: 50
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Fevikuv, chips: 10
+Big Blind: Hobek, chips: 20
+Folds: Puba
+Folds: Cheleep
+Folds: Batte
+Folds: Fevikuv
+Pot size: 30
+Wins: Hobek, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Hobek, chips: 10
+Big Blind: Puba, chips: 20
+Folds: Cheleep
+Folds: Batte
+Folds: Fevikuv
+Calls: Hobek
+Checks: Puba
+Flop: 6c 6s 5h
+Checks: Hobek
+Checks: Puba
+Turn: 4s
+Checks: Hobek
+Checks: Puba
+River: Qc
+Checks: Hobek
+Checks: Puba
+Pot size: 40
+Showdown Reached
+Shows: Hobek, Ah Jc
+Combination: Hobek, Pair ( 6c 6s Ah Qc Jc )
+Shows: Puba, 9h 2s
+Combination: Puba, Pair ( 6c 6s Qc 9h 5h )
+Wins: Hobek, chips: 40
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Hobek
+Small Blind: Puba, chips: 10
+Big Blind: Cheleep, chips: 20
+Calls: Batte
+Folds: Fevikuv
+Calls: Hobek
+Folds: Puba
+Checks: Cheleep
+Flop: Qd 4h Kc
+Checks: Cheleep
+Raises: Batte, chips: 20
+Calls: Hobek
+Folds: Cheleep
+Turn: 2d
+Checks: Batte
+Checks: Hobek
+River: 9h
+Raises: Batte, chips: 1410
+Calls: Hobek
+Pot size: 2930
+Showdown Reached
+Shows: Batte, 9c Kd
+Combination: Batte, Two Pair ( Kd Kc 9c 9h Qd )
+Shows: Hobek, 3h Js
+Combination: Hobek, High Card ( Kc Qd Js 9h 4h )
+Wins: Batte, chips: 2930
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Puba
+Small Blind: Cheleep, chips: 10
+Big Blind: Batte, chips: 20
+Raises: Fevikuv, chips: 20
+Calls: Hobek
+Folds: Puba
+Raises: Cheleep, chips: 30
+Folds: Batte
+Raises: Fevikuv, chips: 30
+Calls: Hobek
+Raises: Cheleep, chips: 50
+Calls: Fevikuv
+Calls: Hobek
+Flop: Ac 6d 2s
+Checks: Cheleep
+Checks: Fevikuv
+Checks: Hobek
+Turn: As
+Checks: Cheleep
+Checks: Fevikuv
+Checks: Hobek
+River: 4d
+Checks: Cheleep
+Checks: Fevikuv
+Checks: Hobek
+Pot size: 470
+Showdown Reached
+Shows: Fevikuv, Jh Th
+Combination: Fevikuv, Pair ( Ac As Jh Th 6d )
+Shows: Hobek, 5d 8d
+Combination: Hobek, Pair ( Ac As 8d 6d 5d )
+Shows: Cheleep, Ts Qs
+Combination: Cheleep, Pair ( Ac As Qs Ts 6d )
+Wins: Cheleep, chips: 470
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheleep
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Calls: Hobek
+Calls: Puba
+Calls: Cheleep
+Calls: Batte
+Checks: Fevikuv
+Flop: 2d Kd 5d
+Checks: Batte
+Checks: Fevikuv
+Checks: Hobek
+Checks: Puba
+Checks: Cheleep
+Turn: 2h
+Raises: Batte, chips: 20
+Folds: Fevikuv
+Calls: Hobek
+Raises: Puba, chips: 40
+Folds: Cheleep
+Calls: Batte
+Calls: Hobek
+River: 9c
+Raises: Batte, chips: 60
+Calls: Hobek
+Raises: Puba, chips: 140
+Raises: Batte, chips: 2630
+Calls: Hobek
+Calls: Puba
+Pot size: 6770
+Showdown Reached
+Shows: Batte, 7d 8d
+Combination: Batte, Flush ( Kd 8d 7d 5d 2d )
+Shows: Hobek, 3c Td
+Combination: Hobek, Pair ( 2d 2h Kd Td 9c )
+Shows: Puba, 3d 4d
+Combination: Puba, Flush ( Kd 5d 4d 3d 2d )
+Wins: Batte, chips: 6770
+Quits: Puba, chips: 0
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Fevikuv, chips: 10
+Big Blind: Hobek, chips: 20
+Calls: Cheleep
+Folds: Batte
+Calls: Fevikuv
+Checks: Hobek
+Flop: 2h Tc 3s
+Checks: Fevikuv
+Checks: Hobek
+Checks: Cheleep
+Turn: Ts
+Checks: Fevikuv
+Checks: Hobek
+Raises: Cheleep, chips: 20
+Folds: Fevikuv
+Calls: Hobek
+River: Ah
+Checks: Hobek
+Checks: Cheleep
+Pot size: 100
+Showdown Reached
+Shows: Hobek, 4c 5d
+Combination: Hobek, Straight ( 5d 4c 3s 2h Ah )
+Shows: Cheleep, 8s Th
+Combination: Cheleep, Three Of A Kind ( Th Tc Ts Ah 8s )
+Wins: Hobek, chips: 100
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Hobek, chips: 10
+Big Blind: Cheleep, chips: 20
+Folds: Batte
+Folds: Fevikuv
+Calls: Hobek
+Checks: Cheleep
+Flop: 9d Jd 5s
+Checks: Hobek
+Checks: Cheleep
+Turn: Ts
+Checks: Hobek
+Checks: Cheleep
+River: 6d
+Checks: Hobek
+Checks: Cheleep
+Pot size: 40
+Showdown Reached
+Shows: Hobek, 7c 6c
+Combination: Hobek, Pair ( 6c 6d Jd Ts 9d )
+Shows: Cheleep, 9c 2c
+Combination: Cheleep, Pair ( 9c 9d Jd Ts 6d )
+Wins: Cheleep, chips: 40
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Hobek
+Small Blind: Cheleep, chips: 10
+Big Blind: Batte, chips: 20
+Calls: Fevikuv
+Calls: Hobek
+Calls: Cheleep
+Checks: Batte
+Flop: 6d Td 4s
+Checks: Cheleep
+Checks: Batte
+Checks: Fevikuv
+Checks: Hobek
+Turn: 7h
+Checks: Cheleep
+Checks: Batte
+Checks: Fevikuv
+Checks: Hobek
+River: 5c
+Checks: Cheleep
+Checks: Batte
+Checks: Fevikuv
+Checks: Hobek
+Pot size: 80
+Showdown Reached
+Shows: Batte, Ks Ad
+Combination: Batte, High Card ( Ad Ks Td 7h 6d )
+Shows: Fevikuv, 4h 5h
+Combination: Fevikuv, Two Pair ( 5h 5c 4h 4s Td )
+Shows: Hobek, 7c Qh
+Combination: Hobek, Pair ( 7c 7h Qh Td 6d )
+Shows: Cheleep, 8h Th
+Combination: Cheleep, Straight ( 8h 7h 6d 5c 4s )
+Wins: Cheleep, chips: 80
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheleep
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Calls: Hobek
+Raises: Cheleep, chips: 20
+Folds: Batte
+Folds: Fevikuv
+Calls: Hobek
+Flop: 7d 4d Qd
+Checks: Hobek
+Checks: Cheleep
+Turn: 6h
+Checks: Hobek
+Checks: Cheleep
+River: Ah
+Checks: Hobek
+Checks: Cheleep
+Pot size: 110
+Showdown Reached
+Shows: Hobek, 6s Ad
+Combination: Hobek, Two Pair ( Ad Ah 6s 6h Qd )
+Shows: Cheleep, Ac 5c
+Combination: Cheleep, Pair ( Ac Ah Qd 7d 6h )
+Wins: Hobek, chips: 110
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Fevikuv, chips: 10
+Big Blind: Hobek, chips: 20
+Folds: Cheleep
+Calls: Batte
+Folds: Fevikuv
+Checks: Hobek
+Flop: Td Ac Jh
+Checks: Hobek
+Raises: Batte, chips: 20
+Calls: Hobek
+Turn: 5c
+Checks: Hobek
+Checks: Batte
+River: 8h
+Checks: Hobek
+Checks: Batte
+Pot size: 90
+Showdown Reached
+Shows: Batte, 2s As
+Combination: Batte, Pair ( As Ac Jh Td 8h )
+Shows: Hobek, Jc Tc
+Combination: Hobek, Two Pair ( Jc Jh Tc Td Ac )
+Wins: Hobek, chips: 90
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Hobek, chips: 10
+Big Blind: Cheleep, chips: 20
+Folds: Batte
+Folds: Fevikuv
+Calls: Hobek
+Checks: Cheleep
+Flop: Qc 9h Tc
+Checks: Hobek
+Checks: Cheleep
+Turn: 2s
+Checks: Hobek
+Checks: Cheleep
+River: Ah
+Checks: Hobek
+Checks: Cheleep
+Pot size: 40
+Showdown Reached
+Shows: Hobek, 6s 2h
+Combination: Hobek, Pair ( 2h 2s Ah Qc Tc )
+Shows: Cheleep, 8d 4h
+Combination: Cheleep, High Card ( Ah Qc Tc 9h 8d )
+Wins: Hobek, chips: 40
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Hobek
+Small Blind: Cheleep, chips: 10
+Big Blind: Batte, chips: 20
+Calls: Fevikuv
+Calls: Hobek
+Calls: Cheleep
+Checks: Batte
+Flop: Ks Qh 5c
+Raises: Cheleep, chips: 20
+Folds: Batte
+Folds: Fevikuv
+Calls: Hobek
+Turn: Ah
+Checks: Cheleep
+Checks: Hobek
+River: 6c
+Checks: Cheleep
+Checks: Hobek
+Pot size: 120
+Showdown Reached
+Shows: Hobek, 2h Jc
+Combination: Hobek, High Card ( Ah Ks Qh Jc 6c )
+Shows: Cheleep, Ts Kh
+Combination: Cheleep, Pair ( Kh Ks Ah Qh Ts )
+Wins: Cheleep, chips: 120
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheleep
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Calls: Hobek
+Folds: Cheleep
+Folds: Batte
+Checks: Fevikuv
+Flop: Jc Jh 3h
+Checks: Fevikuv
+Checks: Hobek
+Turn: 3d
+Checks: Fevikuv
+Checks: Hobek
+River: 6d
+Checks: Fevikuv
+Checks: Hobek
+Pot size: 50
+Showdown Reached
+Shows: Fevikuv, 7s 9c
+Combination: Fevikuv, Two Pair ( Jc Jh 3h 3d 9c )
+Shows: Hobek, 7d 7h
+Combination: Hobek, Two Pair ( Jc Jh 7d 7h 6d )
+Wins: Hobek, chips: 50
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Fevikuv, chips: 10
+Big Blind: Hobek, chips: 20
+Raises: Cheleep, chips: 20
+Folds: Batte
+Folds: Fevikuv
+Calls: Hobek
+Flop: 3h 7d 4c
+Checks: Hobek
+Checks: Cheleep
+Turn: Qs
+Checks: Hobek
+Raises: Cheleep, chips: 20
+Calls: Hobek
+River: 5c
+Checks: Hobek
+Checks: Cheleep
+Pot size: 130
+Showdown Reached
+Shows: Hobek, 8s Ts
+Combination: Hobek, High Card ( Qs Ts 8s 7d 5c )
+Shows: Cheleep, Ad Jc
+Combination: Cheleep, High Card ( Ad Qs Jc 7d 5c )
+Wins: Cheleep, chips: 130
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Hobek, chips: 10
+Big Blind: Cheleep, chips: 20
+Calls: Batte
+Calls: Fevikuv
+Calls: Hobek
+Checks: Cheleep
+Flop: Qs 7s 2c
+Checks: Hobek
+Checks: Cheleep
+Checks: Batte
+Checks: Fevikuv
+Turn: 6c
+Checks: Hobek
+Checks: Cheleep
+Checks: Batte
+Checks: Fevikuv
+River: As
+Checks: Hobek
+Checks: Cheleep
+Checks: Batte
+Checks: Fevikuv
+Pot size: 80
+Showdown Reached
+Shows: Batte, 5c 6d
+Combination: Batte, Pair ( 6d 6c As Qs 7s )
+Shows: Fevikuv, Ad Jd
+Combination: Fevikuv, Pair ( Ad As Qs Jd 7s )
+Shows: Hobek, 7d 7h
+Combination: Hobek, Three Of A Kind ( 7d 7h 7s As Qs )
+Shows: Cheleep, 9s Kc
+Combination: Cheleep, High Card ( As Kc Qs 9s 7s )
+Wins: Hobek, chips: 80
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Hobek
+Small Blind: Cheleep, chips: 10
+Big Blind: Batte, chips: 20
+Calls: Fevikuv
+Calls: Hobek
+Calls: Cheleep
+Raises: Batte, chips: 20
+Folds: Fevikuv
+Calls: Hobek
+Calls: Cheleep
+Flop: 3c Ad 5c
+Checks: Cheleep
+Checks: Batte
+Checks: Hobek
+Turn: Jc
+Checks: Cheleep
+Checks: Batte
+Checks: Hobek
+River: Jh
+Checks: Cheleep
+Raises: Batte, chips: 20
+Calls: Hobek
+Folds: Cheleep
+Pot size: 180
+Showdown Reached
+Shows: Batte, Kh Ah
+Combination: Batte, Two Pair ( Ah Ad Jc Jh Kh )
+Shows: Hobek, Qh 8c
+Combination: Hobek, Pair ( Jc Jh Ad Qh 8c )
+Wins: Batte, chips: 180
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheleep
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Calls: Hobek
+Raises: Cheleep, chips: 40
+Calls: Batte
+Folds: Fevikuv
+Calls: Hobek
+Flop: Jc Jd 4c
+Checks: Batte
+Checks: Hobek
+Checks: Cheleep
+Turn: 6d
+Checks: Batte
+Checks: Hobek
+Raises: Cheleep, chips: 40
+Folds: Batte
+Calls: Hobek
+River: 6h
+Checks: Hobek
+Raises: Cheleep, chips: 60
+Calls: Hobek
+Pot size: 400
+Showdown Reached
+Shows: Hobek, 4s 5c
+Combination: Hobek, Two Pair ( Jc Jd 6d 6h 5c )
+Shows: Cheleep, Jh 9h
+Combination: Cheleep, Full House ( Jh Jc Jd 6d 6h )
+Wins: Cheleep, chips: 400
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Fevikuv, chips: 10
+Big Blind: Hobek, chips: 20
+Folds: Cheleep
+Folds: Batte
+Calls: Fevikuv
+Checks: Hobek
+Flop: 7c Th 7h
+Checks: Fevikuv
+Checks: Hobek
+Turn: 9d
+Checks: Fevikuv
+Checks: Hobek
+River: 6c
+Checks: Fevikuv
+Checks: Hobek
+Pot size: 40
+Showdown Reached
+Shows: Fevikuv, Kc Jc
+Combination: Fevikuv, Pair ( 7c 7h Kc Jc Th )
+Shows: Hobek, Ac 2s
+Combination: Hobek, Pair ( 7c 7h Ac Th 9d )
+Wins: Hobek, chips: 40
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Hobek, chips: 10
+Big Blind: Cheleep, chips: 20
+Calls: Batte
+Raises: Fevikuv, chips: 20
+Calls: Hobek
+Folds: Cheleep
+Raises: Batte, chips: 20
+Raises: Fevikuv, chips: 40
+Calls: Hobek
+Folds: Batte
+Flop: 8d 3d Kh
+Checks: Hobek
+Raises: Fevikuv, chips: 30
+Calls: Hobek
+Turn: Tc
+River: Jc
+Pot size: 340
+Showdown Reached
+Shows: Fevikuv, Ad As
+Combination: Fevikuv, Pair ( Ad As Kh Jc Tc )
+Shows: Hobek, Ts 7s
+Combination: Hobek, Pair ( Ts Tc Kh Jc 8d )
+Wins: Fevikuv, chips: 340
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Hobek
+Small Blind: Cheleep, chips: 10
+Big Blind: Batte, chips: 20
+Folds: Fevikuv
+Calls: Hobek
+Folds: Cheleep
+Checks: Batte
+Flop: 6h Qh Kd
+Checks: Batte
+Checks: Hobek
+Turn: 2h
+Checks: Batte
+Checks: Hobek
+River: Jc
+Checks: Batte
+Checks: Hobek
+Pot size: 50
+Showdown Reached
+Shows: Batte, 9h 8c
+Combination: Batte, High Card ( Kd Qh Jc 9h 8c )
+Shows: Hobek, 2d Ts
+Combination: Hobek, Pair ( 2d 2h Kd Qh Jc )
+Wins: Hobek, chips: 50
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheleep
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Calls: Hobek
+Folds: Cheleep
+Calls: Batte
+Checks: Fevikuv
+Flop: Ah 7c Ad
+Raises: Batte, chips: 6610
+Folds: Fevikuv
+Calls: Hobek
+Turn: Qs
+River: Td
+Pot size: 6870
+Showdown Reached
+Shows: Batte, As Jc
+Combination: Batte, Three Of A Kind ( As Ah Ad Qs Jc )
+Shows: Hobek, 4s Kh
+Combination: Hobek, Pair ( Ah Ad Kh Qs Td )
+Wins: Batte, chips: 6870
+Quits: Hobek, chips: 0
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Fevikuv, chips: 10
+Big Blind: Cheleep, chips: 20
+Folds: Batte
+Calls: Fevikuv
+Raises: Cheleep, chips: 20
+Calls: Fevikuv
+Flop: 5s Qd Js
+Raises: Fevikuv, chips: 280
+Calls: Cheleep
+Turn: Th
+River: 4c
+Pot size: 640
+Showdown Reached
+Shows: Fevikuv, Ad Ah
+Combination: Fevikuv, Pair ( Ad Ah Qd Js Th )
+Shows: Cheleep, Kh Qh
+Combination: Cheleep, Pair ( Qh Qd Kh Js Th )
+Wins: Fevikuv, chips: 640
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Cheleep, chips: 10
+Big Blind: Batte, chips: 20
+Folds: Fevikuv
+Folds: Cheleep
+Pot size: 30
+Wins: Batte, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheleep
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Calls: Cheleep
+Folds: Batte
+Checks: Fevikuv
+Flop: 3d 8s Qd
+Checks: Fevikuv
+Checks: Cheleep
+Turn: Td
+Checks: Fevikuv
+Checks: Cheleep
+River: Jh
+Checks: Fevikuv
+Checks: Cheleep
+Pot size: 50
+Showdown Reached
+Shows: Fevikuv, 2d 6c
+Combination: Fevikuv, High Card ( Qd Jh Td 8s 6c )
+Shows: Cheleep, Jc Ad
+Combination: Cheleep, Pair ( Jc Jh Ad Qd Td )
+Wins: Cheleep, chips: 50
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Fevikuv, chips: 10
+Big Blind: Cheleep, chips: 20
+Folds: Batte
+Calls: Fevikuv
+Checks: Cheleep
+Flop: Qh Tc 3c
+Raises: Fevikuv, chips: 20
+Calls: Cheleep
+Turn: 8s
+Raises: Fevikuv, chips: 20
+Calls: Cheleep
+River: 6d
+Raises: Fevikuv, chips: 560
+Folds: Cheleep
+Pot size: 680
+Wins: Fevikuv, chips: 680
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Cheleep, chips: 10
+Big Blind: Batte, chips: 20
+Folds: Fevikuv
+Folds: Cheleep
+Pot size: 30
+Wins: Batte, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheleep
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Calls: Cheleep
+Calls: Batte
+Checks: Fevikuv
+Flop: 9s Qc 4d
+Checks: Batte
+Checks: Fevikuv
+Checks: Cheleep
+Turn: Qs
+Checks: Batte
+Checks: Fevikuv
+Checks: Cheleep
+River: Tc
+Checks: Batte
+Checks: Fevikuv
+Checks: Cheleep
+Pot size: 60
+Showdown Reached
+Shows: Batte, 7s 7d
+Combination: Batte, Two Pair ( Qc Qs 7s 7d Tc )
+Shows: Fevikuv, 7c 4c
+Combination: Fevikuv, Two Pair ( Qc Qs 4c 4d Tc )
+Shows: Cheleep, 7h 8c
+Combination: Cheleep, Pair ( Qc Qs Tc 9s 8c )
+Wins: Batte, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Fevikuv, chips: 10
+Big Blind: Cheleep, chips: 20
+Folds: Batte
+Folds: Fevikuv
+Pot size: 30
+Wins: Cheleep, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Cheleep, chips: 10
+Big Blind: Batte, chips: 20
+Folds: Fevikuv
+Calls: Cheleep
+Checks: Batte
+Flop: Qd Tc Jh
+Raises: Cheleep, chips: 20
+Calls: Batte
+Turn: 7h
+Raises: Cheleep, chips: 20
+Calls: Batte
+River: 6s
+Checks: Cheleep
+Raises: Batte, chips: 20
+Raises: Cheleep, chips: 40
+Raises: Batte, chips: 80
+Calls: Cheleep
+Pot size: 400
+Showdown Reached
+Shows: Batte, 6c Td
+Combination: Batte, Two Pair ( Td Tc 6c 6s Qd )
+Shows: Cheleep, As Kc
+Combination: Cheleep, Straight ( As Kc Qd Jh Tc )
+Wins: Cheleep, chips: 400
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheleep
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Calls: Cheleep
+Folds: Batte
+Checks: Fevikuv
+Flop: Qh Td 6d
+Checks: Fevikuv
+Checks: Cheleep
+Turn: 5s
+Checks: Fevikuv
+Raises: Cheleep, chips: 20
+Folds: Fevikuv
+Pot size: 70
+Wins: Cheleep, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Fevikuv, chips: 10
+Big Blind: Cheleep, chips: 20
+Calls: Batte
+Calls: Fevikuv
+Checks: Cheleep
+Flop: 9h 7s Jh
+Checks: Fevikuv
+Checks: Cheleep
+Checks: Batte
+Turn: 9s
+Checks: Fevikuv
+Checks: Cheleep
+Checks: Batte
+River: Td
+Checks: Fevikuv
+Checks: Cheleep
+Checks: Batte
+Pot size: 60
+Showdown Reached
+Shows: Batte, Ks 6s
+Combination: Batte, Pair ( 9h 9s Ks Jh Td )
+Shows: Fevikuv, 3c 3d
+Combination: Fevikuv, Two Pair ( 9h 9s 3c 3d Jh )
+Shows: Cheleep, 3s 6c
+Combination: Cheleep, Pair ( 9h 9s Jh Td 7s )
+Wins: Fevikuv, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Cheleep, chips: 10
+Big Blind: Batte, chips: 20
+Folds: Fevikuv
+Calls: Cheleep
+Checks: Batte
+Flop: 3h 6s As
+Checks: Cheleep
+Checks: Batte
+Turn: Ac
+Checks: Cheleep
+Raises: Batte, chips: 20
+Calls: Cheleep
+River: 5s
+Checks: Cheleep
+Checks: Batte
+Pot size: 80
+Showdown Reached
+Shows: Batte, 6d 5c
+Combination: Batte, Two Pair ( As Ac 6d 6s 5c )
+Shows: Cheleep, Kc Th
+Combination: Cheleep, Pair ( As Ac Kc Th 6s )
+Wins: Batte, chips: 80
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheleep
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Calls: Cheleep
+Folds: Batte
+Checks: Fevikuv
+Flop: 8h Kd Qd
+Checks: Fevikuv
+Checks: Cheleep
+Turn: 4h
+Checks: Fevikuv
+Raises: Cheleep, chips: 20
+Raises: Fevikuv, chips: 40
+Calls: Cheleep
+River: 4c
+Raises: Fevikuv, chips: 590
+Folds: Cheleep
+Pot size: 760
+Wins: Fevikuv, chips: 760
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Fevikuv, chips: 10
+Big Blind: Cheleep, chips: 20
+Calls: Batte
+Folds: Fevikuv
+Checks: Cheleep
+Flop: 6s 4h 9c
+Checks: Cheleep
+Checks: Batte
+Turn: 7c
+Checks: Cheleep
+Checks: Batte
+River: Qs
+Checks: Cheleep
+Raises: Batte, chips: 6700
+Folds: Cheleep
+Pot size: 6750
+Wins: Batte, chips: 6750
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Cheleep, chips: 10
+Big Blind: Batte, chips: 20
+Folds: Fevikuv
+Folds: Cheleep
+Pot size: 30
+Wins: Batte, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheleep
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Folds: Cheleep
+Calls: Batte
+Raises: Fevikuv, chips: 20
+Folds: Batte
+Pot size: 60
+Wins: Fevikuv, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Fevikuv, chips: 10
+Big Blind: Cheleep, chips: 20
+Folds: Batte
+Calls: Fevikuv
+Checks: Cheleep
+Flop: 4c Qc 9d
+Checks: Fevikuv
+Checks: Cheleep
+Turn: 7s
+Checks: Fevikuv
+Checks: Cheleep
+River: 5h
+Checks: Fevikuv
+Checks: Cheleep
+Pot size: 40
+Showdown Reached
+Shows: Fevikuv, Th Td
+Combination: Fevikuv, Pair ( Th Td Qc 9d 7s )
+Shows: Cheleep, Ts 3s
+Combination: Cheleep, High Card ( Qc Ts 9d 7s 5h )
+Wins: Fevikuv, chips: 40
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Cheleep, chips: 10
+Big Blind: Batte, chips: 20
+Calls: Fevikuv
+Folds: Cheleep
+Checks: Batte
+Flop: 2h 2d Qs
+Checks: Batte
+Raises: Fevikuv, chips: 20
+Folds: Batte
+Pot size: 70
+Wins: Fevikuv, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheleep
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Folds: Cheleep
+Calls: Batte
+Raises: Fevikuv, chips: 20
+Calls: Batte
+Flop: 9s 6d 2h
+Checks: Batte
+Checks: Fevikuv
+Turn: 3h
+Checks: Batte
+Raises: Fevikuv, chips: 20
+Folds: Batte
+Pot size: 100
+Wins: Fevikuv, chips: 100
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Fevikuv, chips: 10
+Big Blind: Cheleep, chips: 20
+Folds: Batte
+Folds: Fevikuv
+Pot size: 30
+Wins: Cheleep, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Cheleep, chips: 10
+Big Blind: Batte, chips: 20
+Calls: Fevikuv
+Folds: Cheleep
+Checks: Batte
+Flop: Kd Tc 7c
+Raises: Batte, chips: 20
+Raises: Fevikuv, chips: 810
+Calls: Batte
+Turn: 5c
+River: 2d
+Pot size: 1710
+Showdown Reached
+Shows: Batte, 7d 4s
+Combination: Batte, Pair ( 7d 7c Kd Tc 5c )
+Shows: Fevikuv, Kh Ac
+Combination: Fevikuv, Pair ( Kh Kd Ac Tc 7c )
+Wins: Fevikuv, chips: 1710
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheleep
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Folds: Cheleep
+Folds: Batte
+Pot size: 30
+Wins: Fevikuv, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Fevikuv, chips: 10
+Big Blind: Cheleep, chips: 20
+Calls: Batte
+Calls: Fevikuv
+Checks: Cheleep
+Flop: 5d Td 3s
+Checks: Fevikuv
+Checks: Cheleep
+Checks: Batte
+Turn: 9d
+Checks: Fevikuv
+Checks: Cheleep
+Checks: Batte
+River: 4d
+Checks: Fevikuv
+Checks: Cheleep
+Raises: Batte, chips: 20
+Folds: Fevikuv
+Folds: Cheleep
+Pot size: 80
+Wins: Batte, chips: 80
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Cheleep, chips: 10
+Big Blind: Batte, chips: 20
+Folds: Fevikuv
+Folds: Cheleep
+Pot size: 30
+Wins: Batte, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheleep
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Folds: Cheleep
+Folds: Batte
+Pot size: 30
+Wins: Fevikuv, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Fevikuv, chips: 10
+Big Blind: Cheleep, chips: 20
+Folds: Batte
+Folds: Fevikuv
+Pot size: 30
+Wins: Cheleep, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Cheleep, chips: 10
+Big Blind: Batte, chips: 20
+Folds: Fevikuv
+Folds: Cheleep
+Pot size: 30
+Wins: Batte, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheleep
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Calls: Cheleep
+Folds: Batte
+Checks: Fevikuv
+Flop: Js Jh 9s
+Checks: Fevikuv
+Checks: Cheleep
+Turn: 2d
+Checks: Fevikuv
+Checks: Cheleep
+River: 5s
+Checks: Fevikuv
+Raises: Cheleep, chips: 1410
+Folds: Fevikuv
+Pot size: 1460
+Wins: Cheleep, chips: 1460
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Fevikuv, chips: 10
+Big Blind: Cheleep, chips: 20
+Calls: Batte
+Folds: Fevikuv
+Checks: Cheleep
+Flop: Js 6h 5c
+Checks: Cheleep
+Checks: Batte
+Turn: 8d
+Checks: Cheleep
+Checks: Batte
+River: Td
+Checks: Cheleep
+Checks: Batte
+Pot size: 50
+Showdown Reached
+Shows: Batte, 2d 2h
+Combination: Batte, Pair ( 2d 2h Js Td 8d )
+Shows: Cheleep, 4d Jh
+Combination: Cheleep, Pair ( Jh Js Td 8d 6h )
+Wins: Cheleep, chips: 50
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Cheleep, chips: 10
+Big Blind: Batte, chips: 20
+Raises: Fevikuv, chips: 20
+Folds: Cheleep
+Folds: Batte
+Pot size: 70
+Wins: Fevikuv, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheleep
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Calls: Cheleep
+Calls: Batte
+Checks: Fevikuv
+Flop: 8c 9h Th
+Checks: Batte
+Raises: Fevikuv, chips: 20
+Folds: Cheleep
+Calls: Batte
+Turn: 6h
+Checks: Batte
+Checks: Fevikuv
+River: 8s
+Raises: Batte, chips: 20
+Raises: Fevikuv, chips: 20
+Calls: Batte
+Pot size: 180
+Showdown Reached
+Shows: Batte, 9c Kd
+Combination: Batte, Two Pair ( 9c 9h 8c 8s Kd )
+Shows: Fevikuv, Jh 7h
+Combination: Fevikuv, Flush ( Jh Th 9h 7h 6h )
+Wins: Fevikuv, chips: 180
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Fevikuv, chips: 10
+Big Blind: Cheleep, chips: 20
+Folds: Batte
+Calls: Fevikuv
+Checks: Cheleep
+Flop: 9s 6c Td
+Checks: Fevikuv
+Checks: Cheleep
+Turn: Qh
+Raises: Fevikuv, chips: 20
+Calls: Cheleep
+River: Ah
+Checks: Fevikuv
+Checks: Cheleep
+Pot size: 80
+Showdown Reached
+Shows: Fevikuv, 8d 8s
+Combination: Fevikuv, Pair ( 8d 8s Ah Qh Td )
+Shows: Cheleep, Qd 4d
+Combination: Cheleep, Pair ( Qd Qh Ah Td 9s )
+Wins: Cheleep, chips: 80
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Cheleep, chips: 10
+Big Blind: Batte, chips: 20
+Raises: Fevikuv, chips: 20
+Folds: Cheleep
+Folds: Batte
+Pot size: 70
+Wins: Fevikuv, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheleep
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Folds: Cheleep
+Folds: Batte
+Pot size: 30
+Wins: Fevikuv, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Fevikuv, chips: 10
+Big Blind: Cheleep, chips: 20
+Folds: Batte
+Calls: Fevikuv
+Checks: Cheleep
+Flop: Tc Kd 7d
+Checks: Fevikuv
+Checks: Cheleep
+Turn: Js
+Raises: Fevikuv, chips: 20
+Calls: Cheleep
+River: Th
+Checks: Fevikuv
+Raises: Cheleep, chips: 20
+Raises: Fevikuv, chips: 20
+Raises: Cheleep, chips: 20
+Raises: Fevikuv, chips: 20
+Raises: Cheleep, chips: 40
+Calls: Fevikuv
+Pot size: 320
+Showdown Reached
+Shows: Fevikuv, 8c Td
+Combination: Fevikuv, Three Of A Kind ( Td Tc Th Kd Js )
+Shows: Cheleep, Jc 4d
+Combination: Cheleep, Two Pair ( Jc Js Tc Th Kd )
+Wins: Fevikuv, chips: 320
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Cheleep, chips: 10
+Big Blind: Batte, chips: 20
+Calls: Fevikuv
+Raises: Cheleep, chips: 30
+Folds: Batte
+Folds: Fevikuv
+Pot size: 90
+Wins: Cheleep, chips: 90
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheleep
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Folds: Cheleep
+Folds: Batte
+Pot size: 30
+Wins: Fevikuv, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Fevikuv, chips: 10
+Big Blind: Cheleep, chips: 20
+Folds: Batte
+Calls: Fevikuv
+Raises: Cheleep, chips: 20
+Folds: Fevikuv
+Pot size: 60
+Wins: Cheleep, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Cheleep, chips: 10
+Big Blind: Batte, chips: 20
+Calls: Fevikuv
+Calls: Cheleep
+Checks: Batte
+Flop: 6h 5c Td
+Checks: Cheleep
+Checks: Batte
+Checks: Fevikuv
+Turn: Jc
+Checks: Cheleep
+Checks: Batte
+Checks: Fevikuv
+River: 6s
+Checks: Cheleep
+Raises: Batte, chips: 5660
+Folds: Fevikuv
+Folds: Cheleep
+Pot size: 5720
+Wins: Batte, chips: 5720
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheleep
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Folds: Cheleep
+Folds: Batte
+Pot size: 30
+Wins: Fevikuv, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Fevikuv, chips: 10
+Big Blind: Cheleep, chips: 20
+Folds: Batte
+Raises: Fevikuv, chips: 30
+Folds: Cheleep
+Pot size: 70
+Wins: Fevikuv, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Cheleep, chips: 10
+Big Blind: Batte, chips: 20
+Folds: Fevikuv
+Folds: Cheleep
+Pot size: 30
+Wins: Batte, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheleep
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Calls: Cheleep
+Folds: Batte
+Checks: Fevikuv
+Flop: 3d As 7h
+Checks: Fevikuv
+Checks: Cheleep
+Turn: 2h
+Checks: Fevikuv
+Checks: Cheleep
+River: 7s
+Checks: Fevikuv
+Raises: Cheleep, chips: 1320
+Folds: Fevikuv
+Pot size: 1370
+Wins: Cheleep, chips: 1370
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Fevikuv, chips: 10
+Big Blind: Cheleep, chips: 20
+Folds: Batte
+Folds: Fevikuv
+Pot size: 30
+Wins: Cheleep, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Cheleep, chips: 10
+Big Blind: Batte, chips: 20
+Calls: Fevikuv
+Calls: Cheleep
+Checks: Batte
+Flop: Js 8s Qs
+Checks: Cheleep
+Checks: Batte
+Checks: Fevikuv
+Turn: Kd
+Raises: Cheleep, chips: 20
+Calls: Batte
+Calls: Fevikuv
+River: Kh
+Raises: Cheleep, chips: 20
+Raises: Batte, chips: 20
+Calls: Fevikuv
+Calls: Cheleep
+Pot size: 240
+Showdown Reached
+Shows: Batte, As Jd
+Combination: Batte, Two Pair ( Kd Kh Jd Js As )
+Shows: Fevikuv, Ad Jh
+Combination: Fevikuv, Two Pair ( Kd Kh Jh Js Ad )
+Shows: Cheleep, Qh Qc
+Combination: Cheleep, Full House ( Qh Qc Qs Kd Kh )
+Wins: Cheleep, chips: 240
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheleep
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Calls: Cheleep
+Folds: Batte
+Checks: Fevikuv
+Flop: Kd 2c Jc
+Checks: Fevikuv
+Checks: Cheleep
+Turn: 5d
+Checks: Fevikuv
+Checks: Cheleep
+River: 3c
+Checks: Fevikuv
+Checks: Cheleep
+Pot size: 50
+Showdown Reached
+Shows: Fevikuv, 8c Td
+Combination: Fevikuv, High Card ( Kd Jc Td 8c 5d )
+Shows: Cheleep, 8h 7d
+Combination: Cheleep, High Card ( Kd Jc 8h 7d 5d )
+Wins: Fevikuv, chips: 50
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Fevikuv, chips: 10
+Big Blind: Cheleep, chips: 20
+Calls: Batte
+Calls: Fevikuv
+Checks: Cheleep
+Flop: As Ks Ah
+Checks: Fevikuv
+Checks: Cheleep
+Raises: Batte, chips: 5600
+Folds: Fevikuv
+Folds: Cheleep
+Pot size: 5660
+Wins: Batte, chips: 5660
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Cheleep, chips: 10
+Big Blind: Batte, chips: 20
+Folds: Fevikuv
+Folds: Cheleep
+Pot size: 30
+Wins: Batte, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheleep
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Calls: Cheleep
+Folds: Batte
+Checks: Fevikuv
+Flop: 4s Kc 7d
+Raises: Fevikuv, chips: 20
+Folds: Cheleep
+Pot size: 70
+Wins: Fevikuv, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Fevikuv, chips: 10
+Big Blind: Cheleep, chips: 20
+Folds: Batte
+Calls: Fevikuv
+Checks: Cheleep
+Flop: Tc 8s Jc
+Checks: Fevikuv
+Checks: Cheleep
+Turn: 8c
+Checks: Fevikuv
+Checks: Cheleep
+River: 4c
+Checks: Fevikuv
+Checks: Cheleep
+Pot size: 40
+Showdown Reached
+Shows: Fevikuv, Ad Kh
+Combination: Fevikuv, Pair ( 8s 8c Ad Kh Jc )
+Shows: Cheleep, 2s Ah
+Combination: Cheleep, Pair ( 8s 8c Ah Jc Tc )
+Wins: Fevikuv, chips: 40
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Cheleep, chips: 10
+Big Blind: Batte, chips: 20
+Calls: Fevikuv
+Folds: Cheleep
+Checks: Batte
+Flop: Qc Ks Jh
+Checks: Batte
+Raises: Fevikuv, chips: 20
+Folds: Batte
+Pot size: 70
+Wins: Fevikuv, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheleep
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Calls: Cheleep
+Folds: Batte
+Checks: Fevikuv
+Flop: 3h 3c 7c
+Checks: Fevikuv
+Checks: Cheleep
+Turn: Tc
+Checks: Fevikuv
+Raises: Cheleep, chips: 20
+Folds: Fevikuv
+Pot size: 70
+Wins: Cheleep, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Fevikuv, chips: 10
+Big Blind: Cheleep, chips: 20
+Folds: Batte
+Folds: Fevikuv
+Pot size: 30
+Wins: Cheleep, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Cheleep, chips: 10
+Big Blind: Batte, chips: 20
+Folds: Fevikuv
+Folds: Cheleep
+Pot size: 30
+Wins: Batte, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheleep
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Folds: Cheleep
+Folds: Batte
+Pot size: 30
+Wins: Fevikuv, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Fevikuv, chips: 10
+Big Blind: Cheleep, chips: 20
+Folds: Batte
+Folds: Fevikuv
+Pot size: 30
+Wins: Cheleep, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Cheleep, chips: 10
+Big Blind: Batte, chips: 20
+Folds: Fevikuv
+Calls: Cheleep
+Checks: Batte
+Flop: 6d 8h Qd
+Checks: Cheleep
+Checks: Batte
+Turn: 4c
+Checks: Cheleep
+Checks: Batte
+River: 3h
+Checks: Cheleep
+Checks: Batte
+Pot size: 40
+Showdown Reached
+Shows: Batte, 7c 8s
+Combination: Batte, Pair ( 8s 8h Qd 7c 6d )
+Shows: Cheleep, Th Jc
+Combination: Cheleep, High Card ( Qd Jc Th 8h 6d )
+Wins: Batte, chips: 40
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheleep
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Calls: Cheleep
+Folds: Batte
+Checks: Fevikuv
+Flop: Kd 4d 2d
+Raises: Fevikuv, chips: 20
+Folds: Cheleep
+Pot size: 70
+Wins: Fevikuv, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Fevikuv, chips: 10
+Big Blind: Cheleep, chips: 20
+Folds: Batte
+Folds: Fevikuv
+Pot size: 30
+Wins: Cheleep, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Cheleep, chips: 10
+Big Blind: Batte, chips: 20
+Raises: Fevikuv, chips: 40
+Folds: Cheleep
+Folds: Batte
+Pot size: 90
+Wins: Fevikuv, chips: 90
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheleep
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Folds: Cheleep
+Folds: Batte
+Pot size: 30
+Wins: Fevikuv, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Fevikuv, chips: 10
+Big Blind: Cheleep, chips: 20
+Folds: Batte
+Folds: Fevikuv
+Pot size: 30
+Wins: Cheleep, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Cheleep, chips: 10
+Big Blind: Batte, chips: 20
+Raises: Fevikuv, chips: 20
+Folds: Cheleep
+Folds: Batte
+Pot size: 70
+Wins: Fevikuv, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheleep
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Folds: Cheleep
+Folds: Batte
+Pot size: 30
+Wins: Fevikuv, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Fevikuv, chips: 10
+Big Blind: Cheleep, chips: 20
+Calls: Batte
+Folds: Fevikuv
+Checks: Cheleep
+Flop: 2c Jc Qc
+Checks: Cheleep
+Checks: Batte
+Turn: 6d
+Checks: Cheleep
+Checks: Batte
+River: 8s
+Checks: Cheleep
+Raises: Batte, chips: 5560
+Folds: Cheleep
+Pot size: 5610
+Wins: Batte, chips: 5610
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Cheleep, chips: 10
+Big Blind: Batte, chips: 20
+Calls: Fevikuv
+Raises: Cheleep, chips: 30
+Calls: Batte
+Folds: Fevikuv
+Flop: 2d 9d 2h
+Checks: Cheleep
+DEBUG MESSAGE: INVALID ACTION FROM Batte (2 0)
+Folds: Batte
+Pot size: 120
+Wins: Cheleep, chips: 120
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheleep
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Folds: Cheleep
+Folds: Batte
+Pot size: 30
+Wins: Fevikuv, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Fevikuv, chips: 10
+Big Blind: Cheleep, chips: 20
+Calls: Batte
+Folds: Fevikuv
+Checks: Cheleep
+Flop: 4s 2s 5c
+Checks: Cheleep
+Checks: Batte
+Turn: 8s
+Checks: Cheleep
+Raises: Batte, chips: 20
+Calls: Cheleep
+River: Jd
+Checks: Cheleep
+Checks: Batte
+Pot size: 90
+Showdown Reached
+Shows: Batte, 7s As
+Combination: Batte, Flush ( As 8s 7s 4s 2s )
+Shows: Cheleep, 4h 3h
+Combination: Cheleep, Pair ( 4h 4s Jd 8s 5c )
+Wins: Batte, chips: 90
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Cheleep, chips: 10
+Big Blind: Batte, chips: 20
+Raises: Fevikuv, chips: 20
+Folds: Cheleep
+Folds: Batte
+Pot size: 70
+Wins: Fevikuv, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheleep
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Folds: Cheleep
+Folds: Batte
+Pot size: 30
+Wins: Fevikuv, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Fevikuv, chips: 10
+Big Blind: Cheleep, chips: 20
+Folds: Batte
+Calls: Fevikuv
+Checks: Cheleep
+Flop: 3s 3c Ac
+Checks: Fevikuv
+Checks: Cheleep
+Turn: Jd
+Checks: Fevikuv
+Checks: Cheleep
+River: 7d
+Checks: Fevikuv
+Checks: Cheleep
+Pot size: 40
+Showdown Reached
+Shows: Fevikuv, 9s Js
+Combination: Fevikuv, Two Pair ( Js Jd 3s 3c Ac )
+Shows: Cheleep, Qs Th
+Combination: Cheleep, Pair ( 3s 3c Ac Qs Jd )
+Wins: Fevikuv, chips: 40
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Cheleep, chips: 10
+Big Blind: Batte, chips: 20
+Calls: Fevikuv
+Calls: Cheleep
+Checks: Batte
+Flop: Th Td 4h
+Checks: Cheleep
+Checks: Batte
+Checks: Fevikuv
+Turn: Kc
+Checks: Cheleep
+Checks: Batte
+Checks: Fevikuv
+River: 7h
+Checks: Cheleep
+Checks: Batte
+Checks: Fevikuv
+Pot size: 60
+Showdown Reached
+Shows: Batte, Ks 9c
+Combination: Batte, Two Pair ( Ks Kc Th Td 9c )
+Shows: Fevikuv, Kh Qd
+Combination: Fevikuv, Two Pair ( Kh Kc Th Td Qd )
+Shows: Cheleep, 6s 6h
+Combination: Cheleep, Two Pair ( Th Td 6s 6h Kc )
+Wins: Fevikuv, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheleep
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Folds: Cheleep
+Calls: Batte
+Checks: Fevikuv
+Flop: 6h Ac 4s
+Checks: Batte
+Checks: Fevikuv
+Turn: Jh
+Checks: Batte
+Checks: Fevikuv
+River: Kd
+Raises: Batte, chips: 20
+Calls: Fevikuv
+Pot size: 80
+Showdown Reached
+Shows: Batte, 9c As
+Combination: Batte, Pair ( As Ac Kd Jh 9c )
+Shows: Fevikuv, Qc 6s
+Combination: Fevikuv, Pair ( 6s 6h Ac Kd Qc )
+Wins: Batte, chips: 80
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Fevikuv, chips: 10
+Big Blind: Cheleep, chips: 20
+Calls: Batte
+Folds: Fevikuv
+Checks: Cheleep
+Flop: 5c Qh 2s
+Checks: Cheleep
+Checks: Batte
+Turn: 7c
+Checks: Cheleep
+Checks: Batte
+River: 3h
+Checks: Cheleep
+Checks: Batte
+Pot size: 50
+Showdown Reached
+Shows: Batte, Kh Ah
+Combination: Batte, High Card ( Ah Kh Qh 7c 5c )
+Shows: Cheleep, Kd 2d
+Combination: Cheleep, Pair ( 2d 2s Kd Qh 7c )
+Wins: Cheleep, chips: 50
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Cheleep, chips: 10
+Big Blind: Batte, chips: 20
+Calls: Fevikuv
+Folds: Cheleep
+Checks: Batte
+Flop: Jd Jc 3s
+Checks: Batte
+Raises: Fevikuv, chips: 20
+Folds: Batte
+Pot size: 70
+Wins: Fevikuv, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheleep
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Calls: Cheleep
+Folds: Batte
+Checks: Fevikuv
+Flop: 5h 9d 2c
+Checks: Fevikuv
+Checks: Cheleep
+Turn: Th
+Checks: Fevikuv
+Raises: Cheleep, chips: 20
+Calls: Fevikuv
+River: Qh
+Raises: Fevikuv, chips: 20
+Raises: Cheleep, chips: 40
+Calls: Fevikuv
+Pot size: 210
+Showdown Reached
+Shows: Fevikuv, Ah 8h
+Combination: Fevikuv, Flush ( Ah Qh Th 8h 5h )
+Shows: Cheleep, Ad Td
+Combination: Cheleep, Pair ( Td Th Ad Qh 9d )
+Wins: Fevikuv, chips: 210
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Fevikuv, chips: 10
+Big Blind: Cheleep, chips: 20
+Folds: Batte
+Folds: Fevikuv
+Pot size: 30
+Wins: Cheleep, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Cheleep, chips: 10
+Big Blind: Batte, chips: 20
+Calls: Fevikuv
+Calls: Cheleep
+Checks: Batte
+Flop: 8c 5c Ad
+Checks: Cheleep
+Checks: Batte
+Checks: Fevikuv
+Turn: Js
+Raises: Cheleep, chips: 20
+Calls: Batte
+Folds: Fevikuv
+River: 7d
+Raises: Cheleep, chips: 20
+Raises: Batte, chips: 5480
+Folds: Cheleep
+Pot size: 5620
+Wins: Batte, chips: 5620
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheleep
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Folds: Cheleep
+Folds: Batte
+Pot size: 30
+Wins: Fevikuv, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Fevikuv, chips: 10
+Big Blind: Cheleep, chips: 20
+Calls: Batte
+Folds: Fevikuv
+Raises: Cheleep, chips: 20
+Folds: Batte
+Pot size: 70
+Wins: Cheleep, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Cheleep, chips: 10
+Big Blind: Batte, chips: 20
+Calls: Fevikuv
+Folds: Cheleep
+Checks: Batte
+Flop: 4d 4h Jd
+Checks: Batte
+Checks: Fevikuv
+Turn: 2h
+Checks: Batte
+Checks: Fevikuv
+River: 7c
+Raises: Batte, chips: 20
+Calls: Fevikuv
+Pot size: 90
+Showdown Reached
+Shows: Batte, Ts 7s
+Combination: Batte, Two Pair ( 7s 7c 4d 4h Jd )
+Shows: Fevikuv, Ad Td
+Combination: Fevikuv, Pair ( 4d 4h Ad Jd Td )
+Wins: Batte, chips: 90
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheleep
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Folds: Cheleep
+Raises: Batte, chips: 30
+Folds: Fevikuv
+Pot size: 70
+Wins: Batte, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Fevikuv, chips: 10
+Big Blind: Cheleep, chips: 20
+Calls: Batte
+Folds: Fevikuv
+Checks: Cheleep
+Flop: 2d 4h 8d
+Checks: Cheleep
+Checks: Batte
+Turn: Ac
+Checks: Cheleep
+Checks: Batte
+River: 3c
+Checks: Cheleep
+Checks: Batte
+Pot size: 50
+Showdown Reached
+Shows: Batte, 9c Js
+Combination: Batte, High Card ( Ac Js 9c 8d 4h )
+Shows: Cheleep, Kh 7d
+Combination: Cheleep, High Card ( Ac Kh 8d 7d 4h )
+Wins: Cheleep, chips: 50
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Cheleep, chips: 10
+Big Blind: Batte, chips: 20
+Folds: Fevikuv
+Folds: Cheleep
+Pot size: 30
+Wins: Batte, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheleep
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Calls: Cheleep
+Folds: Batte
+Checks: Fevikuv
+Flop: 8h 2d Kh
+Raises: Fevikuv, chips: 2020
+Folds: Cheleep
+Pot size: 2070
+Wins: Fevikuv, chips: 2070
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Fevikuv, chips: 10
+Big Blind: Cheleep, chips: 20
+Folds: Batte
+Raises: Fevikuv, chips: 30
+Folds: Cheleep
+Pot size: 70
+Wins: Fevikuv, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Cheleep, chips: 10
+Big Blind: Batte, chips: 20
+Folds: Fevikuv
+Calls: Cheleep
+Checks: Batte
+Flop: 9h 6h 7s
+Checks: Cheleep
+Checks: Batte
+Turn: Kd
+Checks: Cheleep
+Checks: Batte
+River: 8h
+Checks: Cheleep
+Raises: Batte, chips: 20
+Raises: Cheleep, chips: 20
+Raises: Batte, chips: 20
+Raises: Cheleep, chips: 20
+Calls: Batte
+Pot size: 200
+Showdown Reached
+Shows: Batte, 8s 6c
+Combination: Batte, Two Pair ( 8s 8h 6c 6h Kd )
+Shows: Cheleep, Jh Kc
+Combination: Cheleep, Pair ( Kc Kd Jh 9h 8h )
+Wins: Batte, chips: 200
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheleep
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Folds: Cheleep
+Folds: Batte
+Pot size: 30
+Wins: Fevikuv, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Fevikuv, chips: 10
+Big Blind: Cheleep, chips: 20
+Calls: Batte
+Calls: Fevikuv
+Checks: Cheleep
+Flop: Ah Kc 3d
+Checks: Fevikuv
+Checks: Cheleep
+Checks: Batte
+Turn: 7s
+Checks: Fevikuv
+Checks: Cheleep
+Raises: Batte, chips: 20
+Calls: Fevikuv
+Folds: Cheleep
+River: 5d
+Checks: Fevikuv
+Checks: Batte
+Pot size: 100
+Showdown Reached
+Shows: Batte, Ts Kd
+Combination: Batte, Pair ( Kd Kc Ah Ts 7s )
+Shows: Fevikuv, Js Jd
+Combination: Fevikuv, Pair ( Js Jd Ah Kc 7s )
+Wins: Batte, chips: 100
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Cheleep, chips: 10
+Big Blind: Batte, chips: 20
+Folds: Fevikuv
+Folds: Cheleep
+Pot size: 30
+Wins: Batte, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheleep
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Calls: Cheleep
+Folds: Batte
+Checks: Fevikuv
+Flop: Ah 5h Qd
+Raises: Fevikuv, chips: 20
+Calls: Cheleep
+Turn: Kc
+Raises: Fevikuv, chips: 20
+Calls: Cheleep
+River: 6d
+Raises: Fevikuv, chips: 20
+Calls: Cheleep
+Pot size: 170
+Showdown Reached
+Shows: Fevikuv, 5c Qc
+Combination: Fevikuv, Two Pair ( Qc Qd 5c 5h Ah )
+Shows: Cheleep, Kh Jd
+Combination: Cheleep, Pair ( Kh Kc Ah Qd Jd )
+Wins: Fevikuv, chips: 170
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Fevikuv, chips: 10
+Big Blind: Cheleep, chips: 20
+Folds: Batte
+Calls: Fevikuv
+Checks: Cheleep
+Flop: Jd Ac 8s
+Checks: Fevikuv
+Raises: Cheleep, chips: 20
+Calls: Fevikuv
+Turn: Jh
+Checks: Fevikuv
+Raises: Cheleep, chips: 20
+Calls: Fevikuv
+River: 6c
+Checks: Fevikuv
+Checks: Cheleep
+Pot size: 120
+Showdown Reached
+Shows: Fevikuv, 7d 8c
+Combination: Fevikuv, Two Pair ( Jd Jh 8c 8s Ac )
+Shows: Cheleep, Js Tc
+Combination: Cheleep, Three Of A Kind ( Js Jd Jh Ac Tc )
+Wins: Cheleep, chips: 120
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Cheleep, chips: 10
+Big Blind: Batte, chips: 20
+Raises: Fevikuv, chips: 20
+Folds: Cheleep
+Folds: Batte
+Pot size: 70
+Wins: Fevikuv, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheleep
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Calls: Cheleep
+Folds: Batte
+Checks: Fevikuv
+Flop: Qd 2c 3h
+Checks: Fevikuv
+Checks: Cheleep
+Turn: 9c
+Checks: Fevikuv
+Checks: Cheleep
+River: 7c
+Checks: Fevikuv
+Checks: Cheleep
+Pot size: 50
+Showdown Reached
+Shows: Fevikuv, 7s Td
+Combination: Fevikuv, Pair ( 7s 7c Qd Td 9c )
+Shows: Cheleep, 8s Ks
+Combination: Cheleep, High Card ( Ks Qd 9c 8s 7c )
+Wins: Fevikuv, chips: 50
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Fevikuv, chips: 10
+Big Blind: Cheleep, chips: 20
+Calls: Batte
+Calls: Fevikuv
+Checks: Cheleep
+Flop: 2s 7h 8s
+Checks: Fevikuv
+Checks: Cheleep
+Checks: Batte
+Turn: 7d
+Checks: Fevikuv
+Checks: Cheleep
+Checks: Batte
+River: 6h
+Checks: Fevikuv
+Checks: Cheleep
+Raises: Batte, chips: 20
+Folds: Fevikuv
+Folds: Cheleep
+Pot size: 80
+Wins: Batte, chips: 80
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Cheleep, chips: 10
+Big Blind: Batte, chips: 20
+Folds: Fevikuv
+Calls: Cheleep
+Checks: Batte
+Flop: 9d 4c Js
+Checks: Cheleep
+Checks: Batte
+Turn: 4d
+Checks: Cheleep
+Checks: Batte
+River: Qh
+Checks: Cheleep
+Checks: Batte
+Pot size: 40
+Showdown Reached
+Shows: Batte, 8d 3d
+Combination: Batte, Pair ( 4c 4d Qh Js 9d )
+Shows: Cheleep, Ad 9c
+Combination: Cheleep, Two Pair ( 9c 9d 4c 4d Ad )
+Wins: Cheleep, chips: 40
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheleep
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Folds: Cheleep
+Calls: Batte
+Checks: Fevikuv
+Flop: 3h Qh 7h
+Checks: Batte
+Checks: Fevikuv
+Turn: 3s
+Checks: Batte
+Checks: Fevikuv
+River: 4s
+Checks: Batte
+Checks: Fevikuv
+Pot size: 40
+Showdown Reached
+Shows: Batte, Jc Ac
+Combination: Batte, Pair ( 3h 3s Ac Qh Jc )
+Shows: Fevikuv, 9d 2d
+Combination: Fevikuv, Pair ( 3h 3s Qh 9d 7h )
+Wins: Batte, chips: 40
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Fevikuv, chips: 10
+Big Blind: Cheleep, chips: 20
+Folds: Batte
+Folds: Fevikuv
+Pot size: 30
+Wins: Cheleep, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Cheleep, chips: 10
+Big Blind: Batte, chips: 20
+Folds: Fevikuv
+Calls: Cheleep
+Checks: Batte
+Flop: 7s Tc 5d
+Checks: Cheleep
+Checks: Batte
+Turn: 5h
+Checks: Cheleep
+Checks: Batte
+River: Ac
+Checks: Cheleep
+Checks: Batte
+Pot size: 40
+Showdown Reached
+Shows: Batte, 7d Qd
+Combination: Batte, Two Pair ( 7d 7s 5d 5h Ac )
+Shows: Cheleep, 7h 8d
+Combination: Cheleep, Two Pair ( 7h 7s 5d 5h Ac )
+Wins: Batte, chips: 20
+Wins: Cheleep, chips: 20
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheleep
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Calls: Cheleep
+Calls: Batte
+Checks: Fevikuv
+Flop: Jc 9s 3d
+Checks: Batte
+Checks: Fevikuv
+Checks: Cheleep
+Turn: 7h
+Checks: Batte
+Checks: Fevikuv
+Checks: Cheleep
+River: Qc
+Raises: Batte, chips: 5780
+Folds: Fevikuv
+Folds: Cheleep
+Pot size: 5840
+Wins: Batte, chips: 5840
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Fevikuv, chips: 10
+Big Blind: Cheleep, chips: 20
+Folds: Batte
+Folds: Fevikuv
+Pot size: 30
+Wins: Cheleep, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Cheleep, chips: 10
+Big Blind: Batte, chips: 20
+Calls: Fevikuv
+Folds: Cheleep
+Checks: Batte
+Flop: 2d 8s Tc
+Checks: Batte
+Checks: Fevikuv
+Turn: 6d
+Checks: Batte
+Checks: Fevikuv
+River: Qs
+Checks: Batte
+Checks: Fevikuv
+Pot size: 50
+Showdown Reached
+Shows: Batte, 6s Kd
+Combination: Batte, Pair ( 6s 6d Kd Qs Tc )
+Shows: Fevikuv, 4h 4d
+Combination: Fevikuv, Pair ( 4h 4d Qs Tc 8s )
+Wins: Batte, chips: 50
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheleep
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Calls: Cheleep
+Folds: Batte
+Checks: Fevikuv
+Flop: Td 7h Tc
+Checks: Fevikuv
+Checks: Cheleep
+Turn: 9c
+Checks: Fevikuv
+Checks: Cheleep
+River: Ks
+Checks: Fevikuv
+Checks: Cheleep
+Pot size: 50
+Showdown Reached
+Shows: Fevikuv, Jc 6h
+Combination: Fevikuv, Pair ( Td Tc Ks Jc 9c )
+Shows: Cheleep, 9s Kd
+Combination: Cheleep, Two Pair ( Kd Ks Td Tc 9s )
+Wins: Cheleep, chips: 50
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Fevikuv, chips: 10
+Big Blind: Cheleep, chips: 20
+Folds: Batte
+Folds: Fevikuv
+Pot size: 30
+Wins: Cheleep, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Cheleep, chips: 10
+Big Blind: Batte, chips: 20
+Calls: Fevikuv
+Folds: Cheleep
+Checks: Batte
+Flop: 6c 7d Jc
+Raises: Batte, chips: 20
+Calls: Fevikuv
+Turn: 4h
+Raises: Batte, chips: 20
+Folds: Fevikuv
+Pot size: 110
+Wins: Batte, chips: 110
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheleep
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Raises: Cheleep, chips: 40
+Folds: Batte
+Calls: Fevikuv
+Flop: 7h 3h 4c
+Checks: Fevikuv
+Checks: Cheleep
+Turn: 3d
+Checks: Fevikuv
+Checks: Cheleep
+River: Qs
+Checks: Fevikuv
+Raises: Cheleep, chips: 1050
+Folds: Fevikuv
+Pot size: 1180
+Wins: Cheleep, chips: 1180
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Fevikuv, chips: 10
+Big Blind: Cheleep, chips: 20
+Calls: Batte
+Calls: Fevikuv
+Checks: Cheleep
+Flop: 3d 7s 2d
+Checks: Fevikuv
+Checks: Cheleep
+Checks: Batte
+Turn: Qh
+Checks: Fevikuv
+Checks: Cheleep
+Checks: Batte
+River: 8d
+Checks: Fevikuv
+Checks: Cheleep
+Checks: Batte
+Pot size: 60
+Showdown Reached
+Shows: Batte, Ks 8s
+Combination: Batte, Pair ( 8s 8d Ks Qh 7s )
+Shows: Fevikuv, 6h 5s
+Combination: Fevikuv, High Card ( Qh 8d 7s 6h 5s )
+Shows: Cheleep, As 9h
+Combination: Cheleep, High Card ( As Qh 9h 8d 7s )
+Wins: Batte, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Cheleep, chips: 10
+Big Blind: Batte, chips: 20
+Folds: Fevikuv
+Folds: Cheleep
+Pot size: 30
+Wins: Batte, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheleep
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Calls: Cheleep
+Folds: Batte
+Checks: Fevikuv
+Flop: 2d 4c 4d
+Raises: Fevikuv, chips: 20
+Calls: Cheleep
+Turn: 9s
+Raises: Fevikuv, chips: 1860
+Folds: Cheleep
+Pot size: 1950
+Wins: Fevikuv, chips: 1950
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Fevikuv, chips: 10
+Big Blind: Cheleep, chips: 20
+Calls: Batte
+Folds: Fevikuv
+Raises: Cheleep, chips: 20
+Raises: Batte, chips: 20
+Calls: Cheleep
+Flop: 5h 8d 8c
+Raises: Cheleep, chips: 1050
+Calls: Batte
+Turn: 7d
+River: Td
+Pot size: 2230
+Showdown Reached
+Shows: Batte, Ah As
+Combination: Batte, Two Pair ( Ah As 8d 8c Td )
+Shows: Cheleep, Jh Js
+Combination: Cheleep, Two Pair ( Jh Js 8d 8c Td )
+Wins: Batte, chips: 2230
+Quits: Cheleep, chips: 0
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Calls: Fevikuv
+Checks: Batte
+Flop: 8c 6c 3s
+Checks: Batte
+Checks: Fevikuv
+Turn: 9c
+Checks: Batte
+Checks: Fevikuv
+River: Qh
+Checks: Batte
+Checks: Fevikuv
+Pot size: 40
+Showdown Reached
+Shows: Batte, 6h 7d
+Combination: Batte, Pair ( 6h 6c Qh 9c 8c )
+Shows: Fevikuv, 6s 5d
+Combination: Fevikuv, Pair ( 6s 6c Qh 9c 8c )
+Wins: Batte, chips: 20
+Wins: Fevikuv, chips: 20
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Folds: Batte
+Pot size: 30
+Wins: Fevikuv, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Folds: Fevikuv
+Pot size: 30
+Wins: Batte, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Folds: Batte
+Pot size: 30
+Wins: Fevikuv, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Folds: Fevikuv
+Pot size: 30
+Wins: Batte, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Folds: Batte
+Pot size: 30
+Wins: Fevikuv, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Folds: Fevikuv
+Pot size: 30
+Wins: Batte, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Folds: Batte
+Pot size: 30
+Wins: Fevikuv, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Folds: Fevikuv
+Pot size: 30
+Wins: Batte, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Folds: Batte
+Pot size: 30
+Wins: Fevikuv, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Calls: Fevikuv
+Checks: Batte
+Flop: Ac 9d 7c
+Checks: Batte
+Checks: Fevikuv
+Turn: 6h
+Checks: Batte
+Checks: Fevikuv
+River: 8d
+Checks: Batte
+Checks: Fevikuv
+Pot size: 40
+Showdown Reached
+Shows: Batte, Ks 9c
+Combination: Batte, Pair ( 9c 9d Ac Ks 8d )
+Shows: Fevikuv, 2c 2d
+Combination: Fevikuv, Pair ( 2c 2d Ac 9d 8d )
+Wins: Batte, chips: 40
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Folds: Batte
+Pot size: 30
+Wins: Fevikuv, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Folds: Fevikuv
+Pot size: 30
+Wins: Batte, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Raises: Batte, chips: 30
+Folds: Fevikuv
+Pot size: 70
+Wins: Batte, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Folds: Fevikuv
+Pot size: 30
+Wins: Batte, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Folds: Batte
+Pot size: 30
+Wins: Fevikuv, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Calls: Fevikuv
+Checks: Batte
+Flop: 4h 4c Ah
+Raises: Batte, chips: 20
+Calls: Fevikuv
+Turn: 5d
+Raises: Batte, chips: 7050
+Folds: Fevikuv
+Pot size: 7130
+Wins: Batte, chips: 7130
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Calls: Batte
+Raises: Fevikuv, chips: 1850
+Folds: Batte
+Pot size: 1890
+Wins: Fevikuv, chips: 1890
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Folds: Fevikuv
+Pot size: 30
+Wins: Batte, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Folds: Batte
+Pot size: 30
+Wins: Fevikuv, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Calls: Fevikuv
+Checks: Batte
+Flop: Jc 6s 8c
+Checks: Batte
+Checks: Fevikuv
+Turn: Ks
+Checks: Batte
+Checks: Fevikuv
+River: 4h
+Checks: Batte
+Checks: Fevikuv
+Pot size: 40
+Showdown Reached
+Shows: Batte, 4s Ts
+Combination: Batte, Pair ( 4s 4h Ks Jc Ts )
+Shows: Fevikuv, 9d 7d
+Combination: Fevikuv, High Card ( Ks Jc 9d 8c 7d )
+Wins: Batte, chips: 40
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Calls: Batte
+Checks: Fevikuv
+Flop: 7s 4h Qs
+Checks: Fevikuv
+Checks: Batte
+Turn: 5c
+Checks: Fevikuv
+Checks: Batte
+River: 8s
+Raises: Fevikuv, chips: 20
+Calls: Batte
+Pot size: 80
+Showdown Reached
+Shows: Batte, 8d 7c
+Combination: Batte, Two Pair ( 8d 8s 7c 7s Qs )
+Shows: Fevikuv, Jh 6s
+Combination: Fevikuv, Straight ( 8s 7s 6s 5c 4h )
+Wins: Fevikuv, chips: 80
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Calls: Fevikuv
+Raises: Batte, chips: 20
+Folds: Fevikuv
+Pot size: 60
+Wins: Batte, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Folds: Batte
+Pot size: 30
+Wins: Fevikuv, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Calls: Fevikuv
+Checks: Batte
+Flop: 2c 8d 8s
+Checks: Batte
+Checks: Fevikuv
+Turn: 8h
+Checks: Batte
+Raises: Fevikuv, chips: 20
+Calls: Batte
+River: 4c
+Checks: Batte
+Checks: Fevikuv
+Pot size: 80
+Showdown Reached
+Shows: Batte, Ah 4d
+Combination: Batte, Full House ( 8d 8s 8h 4d 4c )
+Shows: Fevikuv, Kc 7c
+Combination: Fevikuv, Three Of A Kind ( 8d 8s 8h Kc 7c )
+Wins: Batte, chips: 80
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Folds: Batte
+Pot size: 30
+Wins: Fevikuv, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Raises: Fevikuv, chips: 30
+Folds: Batte
+Pot size: 70
+Wins: Fevikuv, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Calls: Batte
+Checks: Fevikuv
+Flop: 7c 6h Qh
+Checks: Fevikuv
+Checks: Batte
+Turn: 2d
+Raises: Fevikuv, chips: 20
+Raises: Batte, chips: 20
+Calls: Fevikuv
+River: Ks
+Checks: Fevikuv
+Checks: Batte
+Pot size: 120
+Showdown Reached
+Shows: Batte, 6c 5d
+Combination: Batte, Pair ( 6c 6h Ks Qh 7c )
+Shows: Fevikuv, 5c 2c
+Combination: Fevikuv, Pair ( 2c 2d Ks Qh 7c )
+Wins: Batte, chips: 120
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Calls: Fevikuv
+Checks: Batte
+Flop: 5d 5h 4d
+Checks: Batte
+Checks: Fevikuv
+Turn: 7d
+Checks: Batte
+Checks: Fevikuv
+River: 4h
+Checks: Batte
+Checks: Fevikuv
+Pot size: 40
+Showdown Reached
+Shows: Batte, Kh 6h
+Combination: Batte, Two Pair ( 5d 5h 4d 4h Kh )
+Shows: Fevikuv, Qh Jc
+Combination: Fevikuv, Two Pair ( 5d 5h 4d 4h Qh )
+Wins: Batte, chips: 40
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Calls: Batte
+Checks: Fevikuv
+Flop: 8h 8s 5c
+Checks: Fevikuv
+Raises: Batte, chips: 20
+Folds: Fevikuv
+Pot size: 60
+Wins: Batte, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Folds: Fevikuv
+Pot size: 30
+Wins: Batte, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Folds: Batte
+Pot size: 30
+Wins: Fevikuv, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Folds: Fevikuv
+Pot size: 30
+Wins: Batte, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Folds: Batte
+Pot size: 30
+Wins: Fevikuv, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Calls: Fevikuv
+Checks: Batte
+Flop: 7s Ah Qs
+Checks: Batte
+Checks: Fevikuv
+Turn: Jc
+Raises: Batte, chips: 20
+Raises: Fevikuv, chips: 40
+Calls: Batte
+River: 9h
+Checks: Batte
+Checks: Fevikuv
+Pot size: 160
+Showdown Reached
+Shows: Batte, 4s 7c
+Combination: Batte, Pair ( 7c 7s Ah Qs Jc )
+Shows: Fevikuv, Kh 5h
+Combination: Fevikuv, High Card ( Ah Kh Qs Jc 9h )
+Wins: Batte, chips: 160
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Raises: Batte, chips: 30
+Folds: Fevikuv
+Pot size: 70
+Wins: Batte, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Folds: Fevikuv
+Pot size: 30
+Wins: Batte, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Calls: Batte
+Checks: Fevikuv
+Flop: 2c As 2h
+Raises: Fevikuv, chips: 20
+Raises: Batte, chips: 40
+Raises: Fevikuv, chips: 100
+Raises: Batte, chips: 240
+Raises: Fevikuv, chips: 300
+Raises: Batte, chips: 800
+Raises: Fevikuv, chips: 160
+Calls: Batte
+Turn: 2s
+River: 7h
+Pot size: 3360
+Showdown Reached
+Shows: Batte, Kc 9d
+Combination: Batte, Three Of A Kind ( 2c 2h 2s As Kc )
+Shows: Fevikuv, Tc Ah
+Combination: Fevikuv, Full House ( 2c 2h 2s Ah As )
+Wins: Fevikuv, chips: 3360
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Folds: Fevikuv
+Pot size: 30
+Wins: Batte, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Calls: Batte
+Checks: Fevikuv
+Flop: 3s Tc Ad
+Checks: Fevikuv
+Checks: Batte
+Turn: Ah
+Checks: Fevikuv
+Checks: Batte
+River: 4h
+Checks: Fevikuv
+Raises: Batte, chips: 20
+Folds: Fevikuv
+Pot size: 60
+Wins: Batte, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Raises: Fevikuv, chips: 3310
+Folds: Batte
+Pot size: 3350
+Wins: Fevikuv, chips: 3350
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Calls: Batte
+Checks: Fevikuv
+Flop: Qc 5d 7s
+Checks: Fevikuv
+Checks: Batte
+Turn: 6d
+Checks: Fevikuv
+Raises: Batte, chips: 20
+Calls: Fevikuv
+River: 8s
+Checks: Fevikuv
+Checks: Batte
+Pot size: 80
+Showdown Reached
+Shows: Batte, 9h 9d
+Combination: Batte, Straight ( 9h 8s 7s 6d 5d )
+Shows: Fevikuv, Ad 4s
+Combination: Fevikuv, Straight ( 8s 7s 6d 5d 4s )
+Wins: Batte, chips: 80
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Calls: Fevikuv
+Checks: Batte
+Flop: Ts 2d Tc
+Raises: Batte, chips: 20
+Calls: Fevikuv
+Turn: Kh
+Checks: Batte
+Checks: Fevikuv
+River: 5h
+Checks: Batte
+Checks: Fevikuv
+Pot size: 80
+Showdown Reached
+Shows: Batte, Jc Td
+Combination: Batte, Three Of A Kind ( Td Ts Tc Kh Jc )
+Shows: Fevikuv, Qd Jh
+Combination: Fevikuv, Pair ( Ts Tc Kh Qd Jh )
+Wins: Batte, chips: 80
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Calls: Batte
+Checks: Fevikuv
+Flop: 3h Ad Ks
+Checks: Fevikuv
+Raises: Batte, chips: 20
+Folds: Fevikuv
+Pot size: 60
+Wins: Batte, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Folds: Fevikuv
+Pot size: 30
+Wins: Batte, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Folds: Batte
+Pot size: 30
+Wins: Fevikuv, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Folds: Fevikuv
+Pot size: 30
+Wins: Batte, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Folds: Batte
+Pot size: 30
+Wins: Fevikuv, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Folds: Fevikuv
+Pot size: 30
+Wins: Batte, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Folds: Batte
+Pot size: 30
+Wins: Fevikuv, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Calls: Fevikuv
+Checks: Batte
+Flop: Ks 7d 9d
+Checks: Batte
+Raises: Fevikuv, chips: 20
+Folds: Batte
+Pot size: 60
+Wins: Fevikuv, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Folds: Batte
+Pot size: 30
+Wins: Fevikuv, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Calls: Fevikuv
+Checks: Batte
+Flop: 8d 6s Jh
+Checks: Batte
+Checks: Fevikuv
+Turn: 4d
+Checks: Batte
+Checks: Fevikuv
+River: 3d
+Checks: Batte
+Checks: Fevikuv
+Pot size: 40
+Showdown Reached
+Shows: Batte, 7d 6c
+Combination: Batte, Pair ( 6c 6s Jh 8d 7d )
+Shows: Fevikuv, Kc 7c
+Combination: Fevikuv, High Card ( Kc Jh 8d 7c 6s )
+Wins: Batte, chips: 40
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Folds: Batte
+Pot size: 30
+Wins: Fevikuv, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Folds: Fevikuv
+Pot size: 30
+Wins: Batte, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Folds: Batte
+Pot size: 30
+Wins: Fevikuv, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Calls: Fevikuv
+Checks: Batte
+Flop: Ac 8s Tc
+Checks: Batte
+Raises: Fevikuv, chips: 20
+Raises: Batte, chips: 40
+Calls: Fevikuv
+Turn: Kd
+Raises: Batte, chips: 40
+Folds: Fevikuv
+Pot size: 200
+Wins: Batte, chips: 200
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Calls: Batte
+Checks: Fevikuv
+Flop: As 2h Jc
+Checks: Fevikuv
+Checks: Batte
+Turn: Ac
+Checks: Fevikuv
+Checks: Batte
+River: 8h
+Checks: Fevikuv
+Checks: Batte
+Pot size: 40
+Showdown Reached
+Shows: Batte, 8s 8c
+Combination: Batte, Full House ( 8s 8c 8h As Ac )
+Shows: Fevikuv, 5d Td
+Combination: Fevikuv, Pair ( As Ac Jc Td 8h )
+Wins: Batte, chips: 40
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Folds: Fevikuv
+Pot size: 30
+Wins: Batte, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Folds: Batte
+Pot size: 30
+Wins: Fevikuv, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Calls: Fevikuv
+Checks: Batte
+Flop: Qd 4s Ks
+Checks: Batte
+Raises: Fevikuv, chips: 20
+Raises: Batte, chips: 20
+Calls: Fevikuv
+Turn: 9s
+Checks: Batte
+Checks: Fevikuv
+River: 6c
+Checks: Batte
+Checks: Fevikuv
+Pot size: 120
+Showdown Reached
+Shows: Batte, Td Qc
+Combination: Batte, Pair ( Qc Qd Ks Td 9s )
+Shows: Fevikuv, 4d Ad
+Combination: Fevikuv, Pair ( 4d 4s Ad Ks Qd )
+Wins: Batte, chips: 120
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Calls: Batte
+Checks: Fevikuv
+Flop: Ah 9s Qc
+Checks: Fevikuv
+Checks: Batte
+Turn: Td
+Checks: Fevikuv
+Checks: Batte
+River: Ad
+Checks: Fevikuv
+Checks: Batte
+Pot size: 40
+Showdown Reached
+Shows: Batte, 7d 6c
+Combination: Batte, Pair ( Ah Ad Qc Td 9s )
+Shows: Fevikuv, As 2d
+Combination: Fevikuv, Three Of A Kind ( As Ah Ad Qc Td )
+Wins: Fevikuv, chips: 40
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Folds: Fevikuv
+Pot size: 30
+Wins: Batte, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Folds: Batte
+Pot size: 30
+Wins: Fevikuv, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Calls: Fevikuv
+Checks: Batte
+Flop: 4d 3d Ts
+Checks: Batte
+Raises: Fevikuv, chips: 20
+Calls: Batte
+Turn: 3h
+Checks: Batte
+Checks: Fevikuv
+River: 5s
+Checks: Batte
+Checks: Fevikuv
+Pot size: 80
+Showdown Reached
+Shows: Batte, 4h 9h
+Combination: Batte, Two Pair ( 4h 4d 3d 3h Ts )
+Shows: Fevikuv, Qc Ah
+Combination: Fevikuv, Pair ( 3d 3h Ah Qc Ts )
+Wins: Batte, chips: 80
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Folds: Batte
+Pot size: 30
+Wins: Fevikuv, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Calls: Fevikuv
+Checks: Batte
+Flop: Ad Jc 8c
+Raises: Batte, chips: 20
+Raises: Fevikuv, chips: 3060
+Folds: Batte
+Pot size: 3140
+Wins: Fevikuv, chips: 3140
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Calls: Batte
+Checks: Fevikuv
+Flop: 2c 7s 7h
+Checks: Fevikuv
+Checks: Batte
+Turn: 8c
+Checks: Fevikuv
+Checks: Batte
+River: 5h
+Checks: Fevikuv
+Checks: Batte
+Pot size: 40
+Showdown Reached
+Shows: Batte, Jd 9h
+Combination: Batte, Pair ( 7s 7h Jd 9h 8c )
+Shows: Fevikuv, Ah 5s
+Combination: Fevikuv, Two Pair ( 7s 7h 5s 5h Ah )
+Wins: Fevikuv, chips: 40
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Folds: Fevikuv
+Pot size: 30
+Wins: Batte, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Calls: Batte
+Checks: Fevikuv
+Flop: 4s As 5c
+Checks: Fevikuv
+Checks: Batte
+Turn: Ts
+Checks: Fevikuv
+Checks: Batte
+River: Tc
+Checks: Fevikuv
+Checks: Batte
+Pot size: 40
+Showdown Reached
+Shows: Batte, Qh Qd
+Combination: Batte, Two Pair ( Qh Qd Ts Tc As )
+Shows: Fevikuv, 8d 7h
+Combination: Fevikuv, Pair ( Ts Tc As 8d 7h )
+Wins: Batte, chips: 40
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Folds: Fevikuv
+Pot size: 30
+Wins: Batte, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Calls: Batte
+Checks: Fevikuv
+Flop: 5h Kd 8h
+Raises: Fevikuv, chips: 20
+Calls: Batte
+Turn: 3d
+Checks: Fevikuv
+Checks: Batte
+River: Jh
+Checks: Fevikuv
+Raises: Batte, chips: 20
+Folds: Fevikuv
+Pot size: 100
+Wins: Batte, chips: 100
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Folds: Fevikuv
+Pot size: 30
+Wins: Batte, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Folds: Batte
+Pot size: 30
+Wins: Fevikuv, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Folds: Fevikuv
+Pot size: 30
+Wins: Batte, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Folds: Batte
+Pot size: 30
+Wins: Fevikuv, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Calls: Fevikuv
+Checks: Batte
+Flop: 9h 9c 6c
+Checks: Batte
+Checks: Fevikuv
+Turn: Js
+Checks: Batte
+Checks: Fevikuv
+River: Ac
+Checks: Batte
+Checks: Fevikuv
+Pot size: 40
+Showdown Reached
+Shows: Batte, As 8d
+Combination: Batte, Two Pair ( As Ac 9h 9c Js )
+Shows: Fevikuv, 8h 7h
+Combination: Fevikuv, Pair ( 9h 9c Ac Js 8h )
+Wins: Batte, chips: 40
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Calls: Batte
+Checks: Fevikuv
+Flop: As 4h Jd
+Raises: Fevikuv, chips: 20
+Calls: Batte
+Turn: 7h
+Raises: Fevikuv, chips: 3020
+Folds: Batte
+Pot size: 3100
+Wins: Fevikuv, chips: 3100
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Calls: Fevikuv
+Checks: Batte
+Flop: 8s 6h 3h
+Checks: Batte
+Checks: Fevikuv
+Turn: 7h
+Checks: Batte
+Checks: Fevikuv
+River: 9d
+Raises: Batte, chips: 5880
+Folds: Fevikuv
+Pot size: 5920
+Wins: Batte, chips: 5920
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Folds: Batte
+Pot size: 30
+Wins: Fevikuv, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Folds: Fevikuv
+Pot size: 30
+Wins: Batte, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Calls: Batte
+Checks: Fevikuv
+Flop: 8c 4d 4h
+Checks: Fevikuv
+Checks: Batte
+Turn: 9h
+Checks: Fevikuv
+Checks: Batte
+River: Ac
+Checks: Fevikuv
+Checks: Batte
+Pot size: 40
+Showdown Reached
+Shows: Batte, 6h 7c
+Combination: Batte, Pair ( 4d 4h Ac 9h 8c )
+Shows: Fevikuv, Js 6s
+Combination: Fevikuv, Pair ( 4d 4h Ac Js 9h )
+Wins: Fevikuv, chips: 40
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Folds: Fevikuv
+Pot size: 30
+Wins: Batte, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Folds: Batte
+Pot size: 30
+Wins: Fevikuv, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Folds: Fevikuv
+Pot size: 30
+Wins: Batte, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Folds: Batte
+Pot size: 30
+Wins: Fevikuv, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Raises: Fevikuv, chips: 30
+Folds: Batte
+Pot size: 70
+Wins: Fevikuv, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Folds: Batte
+Pot size: 30
+Wins: Fevikuv, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Calls: Fevikuv
+Checks: Batte
+Flop: 4c 2s 9c
+Checks: Batte
+Checks: Fevikuv
+Turn: Ac
+Checks: Batte
+Checks: Fevikuv
+River: 7s
+Checks: Batte
+Checks: Fevikuv
+Pot size: 40
+Showdown Reached
+Shows: Batte, 8d 6c
+Combination: Batte, High Card ( Ac 9c 8d 7s 6c )
+Shows: Fevikuv, 2d Kd
+Combination: Fevikuv, Pair ( 2d 2s Ac Kd 9c )
+Wins: Fevikuv, chips: 40
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Folds: Batte
+Pot size: 30
+Wins: Fevikuv, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Calls: Fevikuv
+Raises: Batte, chips: 20
+Folds: Fevikuv
+Pot size: 60
+Wins: Batte, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Folds: Batte
+Pot size: 30
+Wins: Fevikuv, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Folds: Fevikuv
+Pot size: 30
+Wins: Batte, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Folds: Batte
+Pot size: 30
+Wins: Fevikuv, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Calls: Fevikuv
+Raises: Batte, chips: 20
+Folds: Fevikuv
+Pot size: 60
+Wins: Batte, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Folds: Batte
+Pot size: 30
+Wins: Fevikuv, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Calls: Fevikuv
+Checks: Batte
+Flop: 7s 3d 6c
+Checks: Batte
+Checks: Fevikuv
+Turn: Kd
+Checks: Batte
+Checks: Fevikuv
+River: 9s
+Raises: Batte, chips: 20
+Raises: Fevikuv, chips: 20
+Calls: Batte
+Pot size: 120
+Showdown Reached
+Shows: Batte, 5h Kh
+Combination: Batte, Pair ( Kh Kd 9s 7s 6c )
+Shows: Fevikuv, 9d 8c
+Combination: Fevikuv, Pair ( 9d 9s Kd 8c 7s )
+Wins: Batte, chips: 120
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Calls: Batte
+Checks: Fevikuv
+Flop: 9s 3s 5s
+Checks: Fevikuv
+Checks: Batte
+Turn: 7c
+Raises: Fevikuv, chips: 20
+Raises: Batte, chips: 20
+Raises: Fevikuv, chips: 3020
+Folds: Batte
+Pot size: 3140
+Wins: Fevikuv, chips: 3140
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Calls: Fevikuv
+Checks: Batte
+Flop: 9c Qs 8h
+Checks: Batte
+Checks: Fevikuv
+Turn: Kd
+Checks: Batte
+Checks: Fevikuv
+River: 8s
+Checks: Batte
+Raises: Fevikuv, chips: 20
+Calls: Batte
+Pot size: 80
+Showdown Reached
+Shows: Batte, Ac 3h
+Combination: Batte, Pair ( 8h 8s Ac Kd Qs )
+Shows: Fevikuv, 4h 4s
+Combination: Fevikuv, Two Pair ( 8h 8s 4h 4s Kd )
+Wins: Fevikuv, chips: 80
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Folds: Batte
+Pot size: 30
+Wins: Fevikuv, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Calls: Fevikuv
+Checks: Batte
+Flop: Kc 9d 7d
+Checks: Batte
+Checks: Fevikuv
+Turn: Qc
+Checks: Batte
+Raises: Fevikuv, chips: 3170
+Folds: Batte
+Pot size: 3210
+Wins: Fevikuv, chips: 3210
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Calls: Batte
+Raises: Fevikuv, chips: 20
+Calls: Batte
+Flop: 3d 7d 8h
+Checks: Fevikuv
+Checks: Batte
+Turn: Tc
+Checks: Fevikuv
+Checks: Batte
+River: 2d
+Raises: Fevikuv, chips: 20
+Folds: Batte
+Pot size: 100
+Wins: Fevikuv, chips: 100
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Raises: Fevikuv, chips: 30
+Folds: Batte
+Pot size: 70
+Wins: Fevikuv, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Folds: Batte
+Pot size: 30
+Wins: Fevikuv, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Folds: Fevikuv
+Pot size: 30
+Wins: Batte, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Folds: Batte
+Pot size: 30
+Wins: Fevikuv, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Folds: Fevikuv
+Pot size: 30
+Wins: Batte, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Calls: Batte
+Checks: Fevikuv
+Flop: 5c 4h 3s
+Checks: Fevikuv
+Checks: Batte
+Turn: Ah
+Checks: Fevikuv
+Checks: Batte
+River: 6c
+Checks: Fevikuv
+Checks: Batte
+Pot size: 40
+Showdown Reached
+Shows: Batte, Js 8h
+Combination: Batte, High Card ( Ah Js 8h 6c 5c )
+Shows: Fevikuv, 2s 8d
+Combination: Fevikuv, Straight ( 6c 5c 4h 3s 2s )
+Wins: Fevikuv, chips: 40
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Folds: Fevikuv
+Pot size: 30
+Wins: Batte, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Folds: Batte
+Pot size: 30
+Wins: Fevikuv, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Folds: Fevikuv
+Pot size: 30
+Wins: Batte, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Folds: Batte
+Pot size: 30
+Wins: Fevikuv, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Calls: Fevikuv
+Checks: Batte
+Flop: Ts Jc Ah
+Checks: Batte
+Raises: Fevikuv, chips: 3270
+Folds: Batte
+Pot size: 3310
+Wins: Fevikuv, chips: 3310
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Raises: Batte, chips: 30
+Folds: Fevikuv
+Pot size: 70
+Wins: Batte, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Folds: Fevikuv
+Pot size: 30
+Wins: Batte, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Calls: Batte
+Checks: Fevikuv
+Flop: 6d Qh 4s
+Checks: Fevikuv
+Raises: Batte, chips: 5700
+Folds: Fevikuv
+Pot size: 5740
+Wins: Batte, chips: 5740
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Folds: Fevikuv
+Pot size: 30
+Wins: Batte, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Folds: Batte
+Pot size: 30
+Wins: Fevikuv, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Folds: Fevikuv
+Pot size: 30
+Wins: Batte, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Calls: Batte
+Checks: Fevikuv
+Flop: 2c 3h 9s
+Raises: Fevikuv, chips: 3230
+Folds: Batte
+Pot size: 3270
+Wins: Fevikuv, chips: 3270
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Calls: Fevikuv
+Checks: Batte
+Flop: 3s Ah 5d
+Checks: Batte
+Checks: Fevikuv
+Turn: 6c
+Raises: Batte, chips: 20
+Folds: Fevikuv
+Pot size: 60
+Wins: Batte, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Folds: Batte
+Pot size: 30
+Wins: Fevikuv, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Calls: Fevikuv
+Checks: Batte
+Flop: Td 3h Qd
+Raises: Batte, chips: 20
+Folds: Fevikuv
+Pot size: 60
+Wins: Batte, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Folds: Batte
+Pot size: 30
+Wins: Fevikuv, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Folds: Fevikuv
+Pot size: 30
+Wins: Batte, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Folds: Batte
+Pot size: 30
+Wins: Fevikuv, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Folds: Fevikuv
+Pot size: 30
+Wins: Batte, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Folds: Batte
+Pot size: 30
+Wins: Fevikuv, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Folds: Fevikuv
+Pot size: 30
+Wins: Batte, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Raises: Batte, chips: 30
+Folds: Fevikuv
+Pot size: 70
+Wins: Batte, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Calls: Fevikuv
+Checks: Batte
+Flop: 4c 7d Kh
+Raises: Batte, chips: 20
+Folds: Fevikuv
+Pot size: 60
+Wins: Batte, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Raises: Batte, chips: 30
+Raises: Fevikuv, chips: 30
+Calls: Batte
+Flop: Js 4h Ks
+Checks: Fevikuv
+Raises: Batte, chips: 5720
+Calls: Fevikuv
+Turn: Ac
+River: 2s
+Pot size: 9000
+Showdown Reached
+Shows: Batte, Jh Jd
+Combination: Batte, Three Of A Kind ( Jh Jd Js Ac Ks )
+Shows: Fevikuv, Kh Qd
+Combination: Fevikuv, Pair ( Kh Ks Ac Qd Js )
+Wins: Batte, chips: 9000
+Quits: Fevikuv, chips: 0
+Ranking: Batte, Place: 1, Score: 8000
+Reveal AI: Batte, AI: Smart
+Ranking: Fevikuv, Place: 2, Score: -1000
+Reveal AI: Fevikuv, AI: Smart
+Ranking: Cheleep, Place: 3, Score: -1000
+Reveal AI: Cheleep, AI: Smart
+Ranking: Hobek, Place: 4, Score: -1000
+Reveal AI: Hobek, AI: Call
+Ranking: Puba, Place: 5, Score: -1000
+Reveal AI: Puba, AI: Smart
+Ranking: Fiso, Place: 6, Score: -1000
+Reveal AI: Fiso, AI: Random
+Ranking: Noros, Place: 7, Score: -1000
+Reveal AI: Noros, AI: Random
+Ranking: Deehawil, Place: 8, Score: -1000
+Reveal AI: Deehawil, AI: Call
+Ranking: Pibonny, Place: 9, Score: -1000
+Reveal AI: Pibonny, AI: Human
+
+Player Stats for Batte, AI: Smart
+General: deals: 271, actions: 503, preflop actions: 236
+Rounds Seen: flops: 96, turns: 80, rivers: 71, showdowns: 60
+Wins: total: 110, showdown: 36, bluff: 74
+Chips: won: 88430, lost: 80730, bought: 1000, forced bets: 3270
+Pre-Flop Stats: VP$IP: 0.232472, PFR: 0.0516605, 3Bet: 0.0369004
+Post-Flop Stats: AF: 2.8, WSD: 0.625, WSDW: 0.6
+
+
+Player Stats for Cheleep, AI: Smart
+General: deals: 139, actions: 333, preflop actions: 131
+Rounds Seen: flops: 113, turns: 97, rivers: 86, showdowns: 69
+Wins: total: 41, showdown: 20, bluff: 21
+Chips: won: 9110, lost: 10110, bought: 1000, forced bets: 1310
+Pre-Flop Stats: VP$IP: 0.352518, PFR: 0.0935252, 3Bet: 0.057554
+Post-Flop Stats: AF: 2.07143, WSD: 0.610619, WSDW: 0.289855
+
+
+Player Stats for Deehawil, AI: Call
+General: deals: 1, actions: 8, preflop actions: 4
+Rounds Seen: flops: 134, turns: 117, rivers: 106, showdowns: 90
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 0
+Pre-Flop Stats: VP$IP: 1, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: 0, WSD: 0.671642, WSDW: 0
+
+
+Player Stats for Fevikuv, AI: Smart
+General: deals: 271, actions: 514, preflop actions: 232
+Rounds Seen: flops: 104, turns: 85, rivers: 71, showdowns: 57
+Wins: total: 108, showdown: 23, bluff: 85
+Chips: won: 40570, lost: 44170, bought: 1000, forced bets: 3270
+Pre-Flop Stats: VP$IP: 0.309963, PFR: 0.0738007, 3Bet: 0.0590406
+Post-Flop Stats: AF: 2.83333, WSD: 0.548077, WSDW: 0.403509
+
+
+Player Stats for Fiso, AI: Random
+General: deals: 3, actions: 10, preflop actions: 5
+Rounds Seen: flops: 133, turns: 116, rivers: 105, showdowns: 89
+Wins: total: 1, showdown: 1, bluff: 0
+Chips: won: 290, lost: 1290, bought: 1000, forced bets: 30
+Pre-Flop Stats: VP$IP: 1, PFR: 0.666667, 3Bet: 0.666667
+Post-Flop Stats: AF: 1.#INF, WSD: 0.669173, WSDW: 0.011236
+
+
+Player Stats for Hobek, AI: Call
+General: deals: 30, actions: 131, preflop actions: 41
+Rounds Seen: flops: 134, turns: 117, rivers: 106, showdowns: 90
+Wins: total: 14, showdown: 13, bluff: 1
+Chips: won: 8320, lost: 15730, bought: 1000, forced bets: 180
+Pre-Flop Stats: VP$IP: 0.833333, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: 0, WSD: 0.671642, WSDW: 0.144444
+
+
+Player Stats for Noros, AI: Random
+General: deals: 3, actions: 9, preflop actions: 6
+Rounds Seen: flops: 133, turns: 115, rivers: 104, showdowns: 88
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1070, bought: 1000, forced bets: 0
+Pre-Flop Stats: VP$IP: 1, PFR: 0.666667, 3Bet: 0.666667
+Post-Flop Stats: AF: 1, WSD: 0.661654, WSDW: 0
+
+
+Player Stats for Pibonny, AI: Human
+General: deals: 1, actions: 5, preflop actions: 3
+Rounds Seen: flops: 134, turns: 117, rivers: 106, showdowns: 90
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 0
+Pre-Flop Stats: VP$IP: 1, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: 1.#INF, WSD: 0.671642, WSDW: 0
+
+
+Player Stats for Puba, AI: Smart
+General: deals: 14, actions: 28, preflop actions: 14
+Rounds Seen: flops: 125, turns: 108, rivers: 97, showdowns: 80
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 3000, bought: 1000, forced bets: 70
+Pre-Flop Stats: VP$IP: 0.142857, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: 2, WSD: 0.64, WSDW: 0
+
+
+Date: 2026/04/30 10:10:25
+
+The game begins. The AI's of the players are: 
+Batte: Smart
+Pibonny: Human
+Fevikuv: Smart
+Noros: Random
+Hobek: Call
+Puba: Smart
+Fiso: Random
+Deehawil: Call
+Cheleep: Smart
+
+Joins: Batte, chips: 1000
+Joins: Pibonny, chips: 1000
+Joins: Fevikuv, chips: 1000
+Joins: Noros, chips: 1000
+Joins: Hobek, chips: 1000
+Joins: Puba, chips: 1000
+Joins: Fiso, chips: 1000
+Joins: Deehawil, chips: 1000
+Joins: Cheleep, chips: 1000
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Hobek
+Small Blind: Puba, chips: 10
+Big Blind: Fiso, chips: 20
+Calls: Deehawil
+Folds: Cheleep
+Calls: Batte
+Calls: Pibonny
+Calls: Fevikuv
+Raises: Noros, chips: 40
+Calls: Hobek
+Folds: Puba
+Calls: Fiso
+Calls: Deehawil
+Raises: Batte, chips: 60
+Calls: Pibonny
+Raises: Fevikuv, chips: 80
+Folds: Noros
+Calls: Hobek
+Folds: Fiso
+Calls: Deehawil
+Raises: Batte, chips: 200
+Calls: Pibonny
+Calls: Fevikuv
+Calls: Hobek
+Calls: Deehawil
+Flop: 7d 3c Kc
+Checks: Deehawil
+Checks: Batte
+Raises: Pibonny, chips: 200
+Folds: Fevikuv
+Calls: Hobek
+Calls: Deehawil
+Folds: Batte
+Turn: Jc
+Checks: Deehawil
+Raises: Pibonny, chips: 400
+Calls: Hobek
+Calls: Deehawil
+River: 4c
+Pot size: 3930
+Showdown Reached
+Shows: Pibonny, 3d Kh
+Combination: Pibonny, Two Pair ( Kh Kc 3d 3c Jc )
+Boasts: Noros, Th 2d
+Shows: Hobek, Tc Ah
+Combination: Hobek, Flush ( Kc Jc Tc 4c 3c )
+Boasts: Fiso, Js 9d
+Shows: Deehawil, 2c 6s
+Combination: Deehawil, Flush ( Kc Jc 4c 3c 2c )
+Wins: Hobek, chips: 3930
+Quits: Pibonny, chips: 0
+Quits: Deehawil, chips: 0
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Puba
+Small Blind: Fiso, chips: 10
+Big Blind: Cheleep, chips: 20
+Folds: Batte
+Folds: Fevikuv
+Calls: Noros
+Calls: Hobek
+Folds: Puba
+Raises: Fiso, chips: 30
+Folds: Cheleep
+Calls: Noros
+Calls: Hobek
+Flop: Ad 9c 5c
+Raises: Fiso, chips: 30
+Folds: Noros
+Calls: Hobek
+Turn: Kh
+Raises: Fiso, chips: 30
+Calls: Hobek
+River: Td
+Checks: Fiso
+Checks: Hobek
+Pot size: 290
+Showdown Reached
+Boasts: Noros, 6d 5h
+Shows: Hobek, As 3h
+Combination: Hobek, Pair ( As Ad Kh Td 9c )
+Shows: Fiso, Th Ac
+Combination: Fiso, Two Pair ( Ac Ad Th Td Kh )
+Wins: Fiso, chips: 290
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fiso
+Small Blind: Cheleep, chips: 10
+Big Blind: Batte, chips: 20
+Calls: Fevikuv
+Raises: Noros, chips: 40
+Calls: Hobek
+Folds: Puba
+Raises: Fiso, chips: 100
+Folds: Cheleep
+Folds: Batte
+Folds: Fevikuv
+Raises: Noros, chips: 200
+Calls: Hobek
+Calls: Fiso
+Flop: 6s Th 9d
+Raises: Noros, chips: 200
+Calls: Hobek
+Raises: Fiso, chips: 400
+Calls: Noros
+Calls: Hobek
+Turn: 7h
+Checks: Hobek
+Raises: Fiso, chips: 160
+Calls: Hobek
+River: 2d
+Pot size: 3180
+Showdown Reached
+Shows: Noros, Ac 3h
+Combination: Noros, High Card ( Ac Th 9d 7h 6s )
+Shows: Hobek, 2c Jh
+Combination: Hobek, Pair ( 2c 2d Jh Th 9d )
+Shows: Fiso, 3c Qh
+Combination: Fiso, High Card ( Qh Th 9d 7h 6s )
+Wins: Hobek, chips: 3180
+Quits: Noros, chips: 0
+Quits: Fiso, chips: 0
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheleep
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Calls: Hobek
+Folds: Puba
+Raises: Cheleep, chips: 40
+Raises: Batte, chips: 110
+Folds: Fevikuv
+Calls: Hobek
+Calls: Cheleep
+Flop: 8d Qh 7h
+Checks: Batte
+Checks: Hobek
+Checks: Cheleep
+Turn: 4c
+Checks: Batte
+Checks: Hobek
+Checks: Cheleep
+River: 6d
+Checks: Batte
+Checks: Hobek
+Checks: Cheleep
+Pot size: 530
+Showdown Reached
+Shows: Batte, As Js
+Combination: Batte, High Card ( As Qh Js 8d 7h )
+Shows: Hobek, 7d 8c
+Combination: Hobek, Two Pair ( 8c 8d 7d 7h Qh )
+Shows: Cheleep, Ts Qs
+Combination: Cheleep, Pair ( Qs Qh Ts 8d 7h )
+Wins: Hobek, chips: 530
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Fevikuv, chips: 10
+Big Blind: Hobek, chips: 20
+Calls: Puba
+Calls: Cheleep
+Calls: Batte
+Folds: Fevikuv
+Checks: Hobek
+Flop: 9s 4h 5h
+Checks: Hobek
+Checks: Puba
+Checks: Cheleep
+Checks: Batte
+Turn: 6h
+Checks: Hobek
+Checks: Puba
+Checks: Cheleep
+Checks: Batte
+River: Kh
+Checks: Hobek
+Checks: Puba
+Checks: Cheleep
+Checks: Batte
+Pot size: 90
+Showdown Reached
+Shows: Batte, Kd Qh
+Combination: Batte, Flush ( Kh Qh 6h 5h 4h )
+Shows: Hobek, Qd Ks
+Combination: Hobek, Pair ( Ks Kh Qd 9s 6h )
+Shows: Puba, 3h 3d
+Combination: Puba, Flush ( Kh 6h 5h 4h 3h )
+Shows: Cheleep, 6s As
+Combination: Cheleep, Pair ( 6s 6h As Kh 9s )
+Wins: Batte, chips: 90
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Hobek, chips: 10
+Big Blind: Puba, chips: 20
+Calls: Cheleep
+Calls: Batte
+Calls: Fevikuv
+Calls: Hobek
+Checks: Puba
+Flop: Tc Td 5d
+Checks: Hobek
+Checks: Puba
+Checks: Cheleep
+Checks: Batte
+Checks: Fevikuv
+Turn: 8s
+Checks: Hobek
+Checks: Puba
+Checks: Cheleep
+Checks: Batte
+Checks: Fevikuv
+River: Qd
+Checks: Hobek
+Checks: Puba
+Checks: Cheleep
+Raises: Batte, chips: 20
+Folds: Fevikuv
+Calls: Hobek
+Folds: Puba
+Raises: Cheleep, chips: 740
+Calls: Batte
+Calls: Hobek
+Pot size: 2080
+Showdown Reached
+Shows: Batte, 9h Js
+Combination: Batte, Straight ( Qd Js Tc 9h 8s )
+Shows: Hobek, Qc 3s
+Combination: Hobek, Two Pair ( Qc Qd Tc Td 8s )
+Shows: Cheleep, Kh Th
+Combination: Cheleep, Three Of A Kind ( Th Tc Td Kh Qd )
+Wins: Batte, chips: 1480
+Wins: Cheleep, chips: 600
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Hobek
+Small Blind: Puba, chips: 10
+Big Blind: Cheleep, chips: 20
+Folds: Batte
+Folds: Fevikuv
+Calls: Hobek
+Folds: Puba
+Raises: Cheleep, chips: 580
+Calls: Hobek
+Flop: 7s 3c 6d
+Turn: Kd
+River: 7h
+Pot size: 1210
+Showdown Reached
+Shows: Hobek, 9s Kh
+Combination: Hobek, Two Pair ( Kh Kd 7s 7h 9s )
+Shows: Cheleep, Qd Kc
+Combination: Cheleep, Two Pair ( Kc Kd 7s 7h Qd )
+Wins: Cheleep, chips: 1210
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Puba
+Small Blind: Cheleep, chips: 10
+Big Blind: Batte, chips: 20
+Folds: Fevikuv
+Calls: Hobek
+Folds: Puba
+Calls: Cheleep
+Checks: Batte
+Flop: 9h 9d 7h
+Checks: Cheleep
+Checks: Batte
+Checks: Hobek
+Turn: Jc
+Checks: Cheleep
+Checks: Batte
+Checks: Hobek
+River: Qc
+Checks: Cheleep
+Checks: Batte
+Checks: Hobek
+Pot size: 60
+Showdown Reached
+Shows: Batte, 6c Th
+Combination: Batte, Pair ( 9h 9d Qc Jc Th )
+Shows: Hobek, 5h 3c
+Combination: Hobek, Pair ( 9h 9d Qc Jc 7h )
+Shows: Cheleep, Tc Ad
+Combination: Cheleep, Pair ( 9h 9d Ad Qc Jc )
+Wins: Cheleep, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheleep
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Calls: Hobek
+Folds: Puba
+Folds: Cheleep
+Folds: Batte
+Checks: Fevikuv
+Flop: 4c 7h Td
+Checks: Fevikuv
+Checks: Hobek
+Turn: 3c
+Checks: Fevikuv
+Checks: Hobek
+River: 5d
+Checks: Fevikuv
+Checks: Hobek
+Pot size: 50
+Showdown Reached
+Shows: Fevikuv, Ks 4d
+Combination: Fevikuv, Pair ( 4d 4c Ks Td 7h )
+Shows: Hobek, Ad Tc
+Combination: Hobek, Pair ( Tc Td Ad 7h 5d )
+Wins: Hobek, chips: 50
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Fevikuv, chips: 10
+Big Blind: Hobek, chips: 20
+Folds: Puba
+Folds: Cheleep
+Folds: Batte
+Folds: Fevikuv
+Pot size: 30
+Wins: Hobek, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Hobek, chips: 10
+Big Blind: Puba, chips: 20
+Folds: Cheleep
+Folds: Batte
+Folds: Fevikuv
+Calls: Hobek
+Checks: Puba
+Flop: 6c 6s 5h
+Checks: Hobek
+Checks: Puba
+Turn: 4s
+Checks: Hobek
+Checks: Puba
+River: Qc
+Checks: Hobek
+Checks: Puba
+Pot size: 40
+Showdown Reached
+Shows: Hobek, Ah Jc
+Combination: Hobek, Pair ( 6c 6s Ah Qc Jc )
+Shows: Puba, 9h 2s
+Combination: Puba, Pair ( 6c 6s Qc 9h 5h )
+Wins: Hobek, chips: 40
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Hobek
+Small Blind: Puba, chips: 10
+Big Blind: Cheleep, chips: 20
+Calls: Batte
+Folds: Fevikuv
+Calls: Hobek
+Folds: Puba
+Checks: Cheleep
+Flop: Qd 4h Kc
+Checks: Cheleep
+Raises: Batte, chips: 20
+Calls: Hobek
+Folds: Cheleep
+Turn: 2d
+Checks: Batte
+Checks: Hobek
+River: 9h
+Raises: Batte, chips: 1410
+Calls: Hobek
+Pot size: 2930
+Showdown Reached
+Shows: Batte, 9c Kd
+Combination: Batte, Two Pair ( Kd Kc 9c 9h Qd )
+Shows: Hobek, 3h Js
+Combination: Hobek, High Card ( Kc Qd Js 9h 4h )
+Wins: Batte, chips: 2930
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Puba
+Small Blind: Cheleep, chips: 10
+Big Blind: Batte, chips: 20
+Raises: Fevikuv, chips: 20
+Calls: Hobek
+Folds: Puba
+Raises: Cheleep, chips: 30
+Folds: Batte
+Raises: Fevikuv, chips: 30
+Calls: Hobek
+Raises: Cheleep, chips: 50
+Calls: Fevikuv
+Calls: Hobek
+Flop: Ac 6d 2s
+Checks: Cheleep
+Checks: Fevikuv
+Checks: Hobek
+Turn: As
+Checks: Cheleep
+Checks: Fevikuv
+Checks: Hobek
+River: 4d
+Checks: Cheleep
+Checks: Fevikuv
+Checks: Hobek
+Pot size: 470
+Showdown Reached
+Shows: Fevikuv, Jh Th
+Combination: Fevikuv, Pair ( Ac As Jh Th 6d )
+Shows: Hobek, 5d 8d
+Combination: Hobek, Pair ( Ac As 8d 6d 5d )
+Shows: Cheleep, Ts Qs
+Combination: Cheleep, Pair ( Ac As Qs Ts 6d )
+Wins: Cheleep, chips: 470
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheleep
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Calls: Hobek
+Calls: Puba
+Calls: Cheleep
+Calls: Batte
+Checks: Fevikuv
+Flop: 2d Kd 5d
+Checks: Batte
+Checks: Fevikuv
+Checks: Hobek
+Checks: Puba
+Checks: Cheleep
+Turn: 2h
+Raises: Batte, chips: 20
+Folds: Fevikuv
+Calls: Hobek
+Raises: Puba, chips: 40
+Folds: Cheleep
+Calls: Batte
+Calls: Hobek
+River: 9c
+Raises: Batte, chips: 60
+Calls: Hobek
+Raises: Puba, chips: 140
+Raises: Batte, chips: 2630
+Calls: Hobek
+Calls: Puba
+Pot size: 6770
+Showdown Reached
+Shows: Batte, 7d 8d
+Combination: Batte, Flush ( Kd 8d 7d 5d 2d )
+Shows: Hobek, 3c Td
+Combination: Hobek, Pair ( 2d 2h Kd Td 9c )
+Shows: Puba, 3d 4d
+Combination: Puba, Flush ( Kd 5d 4d 3d 2d )
+Wins: Batte, chips: 6770
+Quits: Puba, chips: 0
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Fevikuv, chips: 10
+Big Blind: Hobek, chips: 20
+Calls: Cheleep
+Folds: Batte
+Calls: Fevikuv
+Checks: Hobek
+Flop: 2h Tc 3s
+Checks: Fevikuv
+Checks: Hobek
+Checks: Cheleep
+Turn: Ts
+Checks: Fevikuv
+Checks: Hobek
+Raises: Cheleep, chips: 20
+Folds: Fevikuv
+Calls: Hobek
+River: Ah
+Checks: Hobek
+Checks: Cheleep
+Pot size: 100
+Showdown Reached
+Shows: Hobek, 4c 5d
+Combination: Hobek, Straight ( 5d 4c 3s 2h Ah )
+Shows: Cheleep, 8s Th
+Combination: Cheleep, Three Of A Kind ( Th Tc Ts Ah 8s )
+Wins: Hobek, chips: 100
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Hobek, chips: 10
+Big Blind: Cheleep, chips: 20
+Folds: Batte
+Folds: Fevikuv
+Calls: Hobek
+Checks: Cheleep
+Flop: 9d Jd 5s
+Checks: Hobek
+Checks: Cheleep
+Turn: Ts
+Checks: Hobek
+Checks: Cheleep
+River: 6d
+Checks: Hobek
+Checks: Cheleep
+Pot size: 40
+Showdown Reached
+Shows: Hobek, 7c 6c
+Combination: Hobek, Pair ( 6c 6d Jd Ts 9d )
+Shows: Cheleep, 9c 2c
+Combination: Cheleep, Pair ( 9c 9d Jd Ts 6d )
+Wins: Cheleep, chips: 40
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Hobek
+Small Blind: Cheleep, chips: 10
+Big Blind: Batte, chips: 20
+Calls: Fevikuv
+Calls: Hobek
+Calls: Cheleep
+Checks: Batte
+Flop: 6d Td 4s
+Checks: Cheleep
+Checks: Batte
+Checks: Fevikuv
+Checks: Hobek
+Turn: 7h
+Checks: Cheleep
+Checks: Batte
+Checks: Fevikuv
+Checks: Hobek
+River: 5c
+Checks: Cheleep
+Checks: Batte
+Checks: Fevikuv
+Checks: Hobek
+Pot size: 80
+Showdown Reached
+Shows: Batte, Ks Ad
+Combination: Batte, High Card ( Ad Ks Td 7h 6d )
+Shows: Fevikuv, 4h 5h
+Combination: Fevikuv, Two Pair ( 5h 5c 4h 4s Td )
+Shows: Hobek, 7c Qh
+Combination: Hobek, Pair ( 7c 7h Qh Td 6d )
+Shows: Cheleep, 8h Th
+Combination: Cheleep, Straight ( 8h 7h 6d 5c 4s )
+Wins: Cheleep, chips: 80
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheleep
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Calls: Hobek
+Raises: Cheleep, chips: 20
+Folds: Batte
+Folds: Fevikuv
+Calls: Hobek
+Flop: 7d 4d Qd
+Checks: Hobek
+Checks: Cheleep
+Turn: 6h
+Checks: Hobek
+Checks: Cheleep
+River: Ah
+Checks: Hobek
+Checks: Cheleep
+Pot size: 110
+Showdown Reached
+Shows: Hobek, 6s Ad
+Combination: Hobek, Two Pair ( Ad Ah 6s 6h Qd )
+Shows: Cheleep, Ac 5c
+Combination: Cheleep, Pair ( Ac Ah Qd 7d 6h )
+Wins: Hobek, chips: 110
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Fevikuv, chips: 10
+Big Blind: Hobek, chips: 20
+Folds: Cheleep
+Calls: Batte
+Folds: Fevikuv
+Checks: Hobek
+Flop: Td Ac Jh
+Checks: Hobek
+Raises: Batte, chips: 20
+Calls: Hobek
+Turn: 5c
+Checks: Hobek
+Checks: Batte
+River: 8h
+Checks: Hobek
+Checks: Batte
+Pot size: 90
+Showdown Reached
+Shows: Batte, 2s As
+Combination: Batte, Pair ( As Ac Jh Td 8h )
+Shows: Hobek, Jc Tc
+Combination: Hobek, Two Pair ( Jc Jh Tc Td Ac )
+Wins: Hobek, chips: 90
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Hobek, chips: 10
+Big Blind: Cheleep, chips: 20
+Folds: Batte
+Folds: Fevikuv
+Calls: Hobek
+Checks: Cheleep
+Flop: Qc 9h Tc
+Checks: Hobek
+Checks: Cheleep
+Turn: 2s
+Checks: Hobek
+Checks: Cheleep
+River: Ah
+Checks: Hobek
+Checks: Cheleep
+Pot size: 40
+Showdown Reached
+Shows: Hobek, 6s 2h
+Combination: Hobek, Pair ( 2h 2s Ah Qc Tc )
+Shows: Cheleep, 8d 4h
+Combination: Cheleep, High Card ( Ah Qc Tc 9h 8d )
+Wins: Hobek, chips: 40
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Hobek
+Small Blind: Cheleep, chips: 10
+Big Blind: Batte, chips: 20
+Calls: Fevikuv
+Calls: Hobek
+Calls: Cheleep
+Checks: Batte
+Flop: Ks Qh 5c
+Raises: Cheleep, chips: 20
+Folds: Batte
+Folds: Fevikuv
+Calls: Hobek
+Turn: Ah
+Checks: Cheleep
+Checks: Hobek
+River: 6c
+Checks: Cheleep
+Checks: Hobek
+Pot size: 120
+Showdown Reached
+Shows: Hobek, 2h Jc
+Combination: Hobek, High Card ( Ah Ks Qh Jc 6c )
+Shows: Cheleep, Ts Kh
+Combination: Cheleep, Pair ( Kh Ks Ah Qh Ts )
+Wins: Cheleep, chips: 120
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheleep
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Calls: Hobek
+Folds: Cheleep
+Folds: Batte
+Checks: Fevikuv
+Flop: Jc Jh 3h
+Checks: Fevikuv
+Checks: Hobek
+Turn: 3d
+Checks: Fevikuv
+Checks: Hobek
+River: 6d
+Checks: Fevikuv
+Checks: Hobek
+Pot size: 50
+Showdown Reached
+Shows: Fevikuv, 7s 9c
+Combination: Fevikuv, Two Pair ( Jc Jh 3h 3d 9c )
+Shows: Hobek, 7d 7h
+Combination: Hobek, Two Pair ( Jc Jh 7d 7h 6d )
+Wins: Hobek, chips: 50
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Fevikuv, chips: 10
+Big Blind: Hobek, chips: 20
+Raises: Cheleep, chips: 20
+Folds: Batte
+Folds: Fevikuv
+Calls: Hobek
+Flop: 3h 7d 4c
+Checks: Hobek
+Checks: Cheleep
+Turn: Qs
+Checks: Hobek
+Raises: Cheleep, chips: 20
+Calls: Hobek
+River: 5c
+Checks: Hobek
+Checks: Cheleep
+Pot size: 130
+Showdown Reached
+Shows: Hobek, 8s Ts
+Combination: Hobek, High Card ( Qs Ts 8s 7d 5c )
+Shows: Cheleep, Ad Jc
+Combination: Cheleep, High Card ( Ad Qs Jc 7d 5c )
+Wins: Cheleep, chips: 130
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Hobek, chips: 10
+Big Blind: Cheleep, chips: 20
+Calls: Batte
+Calls: Fevikuv
+Calls: Hobek
+Checks: Cheleep
+Flop: Qs 7s 2c
+Checks: Hobek
+Checks: Cheleep
+Checks: Batte
+Checks: Fevikuv
+Turn: 6c
+Checks: Hobek
+Checks: Cheleep
+Checks: Batte
+Checks: Fevikuv
+River: As
+Checks: Hobek
+Checks: Cheleep
+Checks: Batte
+Checks: Fevikuv
+Pot size: 80
+Showdown Reached
+Shows: Batte, 5c 6d
+Combination: Batte, Pair ( 6d 6c As Qs 7s )
+Shows: Fevikuv, Ad Jd
+Combination: Fevikuv, Pair ( Ad As Qs Jd 7s )
+Shows: Hobek, 7d 7h
+Combination: Hobek, Three Of A Kind ( 7d 7h 7s As Qs )
+Shows: Cheleep, 9s Kc
+Combination: Cheleep, High Card ( As Kc Qs 9s 7s )
+Wins: Hobek, chips: 80
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Hobek
+Small Blind: Cheleep, chips: 10
+Big Blind: Batte, chips: 20
+Calls: Fevikuv
+Calls: Hobek
+Calls: Cheleep
+Raises: Batte, chips: 20
+Folds: Fevikuv
+Calls: Hobek
+Calls: Cheleep
+Flop: 3c Ad 5c
+Checks: Cheleep
+Checks: Batte
+Checks: Hobek
+Turn: Jc
+Checks: Cheleep
+Checks: Batte
+Checks: Hobek
+River: Jh
+Checks: Cheleep
+Raises: Batte, chips: 20
+Calls: Hobek
+Folds: Cheleep
+Pot size: 180
+Showdown Reached
+Shows: Batte, Kh Ah
+Combination: Batte, Two Pair ( Ah Ad Jc Jh Kh )
+Shows: Hobek, Qh 8c
+Combination: Hobek, Pair ( Jc Jh Ad Qh 8c )
+Wins: Batte, chips: 180
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheleep
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Calls: Hobek
+Raises: Cheleep, chips: 40
+Calls: Batte
+Folds: Fevikuv
+Calls: Hobek
+Flop: Jc Jd 4c
+Checks: Batte
+Checks: Hobek
+Checks: Cheleep
+Turn: 6d
+Checks: Batte
+Checks: Hobek
+Raises: Cheleep, chips: 40
+Folds: Batte
+Calls: Hobek
+River: 6h
+Checks: Hobek
+Raises: Cheleep, chips: 60
+Calls: Hobek
+Pot size: 400
+Showdown Reached
+Shows: Hobek, 4s 5c
+Combination: Hobek, Two Pair ( Jc Jd 6d 6h 5c )
+Shows: Cheleep, Jh 9h
+Combination: Cheleep, Full House ( Jh Jc Jd 6d 6h )
+Wins: Cheleep, chips: 400
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Fevikuv, chips: 10
+Big Blind: Hobek, chips: 20
+Folds: Cheleep
+Folds: Batte
+Calls: Fevikuv
+Checks: Hobek
+Flop: 7c Th 7h
+Checks: Fevikuv
+Checks: Hobek
+Turn: 9d
+Checks: Fevikuv
+Checks: Hobek
+River: 6c
+Checks: Fevikuv
+Checks: Hobek
+Pot size: 40
+Showdown Reached
+Shows: Fevikuv, Kc Jc
+Combination: Fevikuv, Pair ( 7c 7h Kc Jc Th )
+Shows: Hobek, Ac 2s
+Combination: Hobek, Pair ( 7c 7h Ac Th 9d )
+Wins: Hobek, chips: 40
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Hobek, chips: 10
+Big Blind: Cheleep, chips: 20
+Calls: Batte
+Raises: Fevikuv, chips: 20
+Calls: Hobek
+Folds: Cheleep
+Raises: Batte, chips: 20
+Raises: Fevikuv, chips: 40
+Calls: Hobek
+Folds: Batte
+Flop: 8d 3d Kh
+Checks: Hobek
+Raises: Fevikuv, chips: 30
+Calls: Hobek
+Turn: Tc
+River: Jc
+Pot size: 340
+Showdown Reached
+Shows: Fevikuv, Ad As
+Combination: Fevikuv, Pair ( Ad As Kh Jc Tc )
+Shows: Hobek, Ts 7s
+Combination: Hobek, Pair ( Ts Tc Kh Jc 8d )
+Wins: Fevikuv, chips: 340
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Hobek
+Small Blind: Cheleep, chips: 10
+Big Blind: Batte, chips: 20
+Folds: Fevikuv
+Calls: Hobek
+Folds: Cheleep
+Checks: Batte
+Flop: 6h Qh Kd
+Checks: Batte
+Checks: Hobek
+Turn: 2h
+Checks: Batte
+Checks: Hobek
+River: Jc
+Checks: Batte
+Checks: Hobek
+Pot size: 50
+Showdown Reached
+Shows: Batte, 9h 8c
+Combination: Batte, High Card ( Kd Qh Jc 9h 8c )
+Shows: Hobek, 2d Ts
+Combination: Hobek, Pair ( 2d 2h Kd Qh Jc )
+Wins: Hobek, chips: 50
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheleep
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Calls: Hobek
+Folds: Cheleep
+Calls: Batte
+Checks: Fevikuv
+Flop: Ah 7c Ad
+Raises: Batte, chips: 6610
+Folds: Fevikuv
+Calls: Hobek
+Turn: Qs
+River: Td
+Pot size: 6870
+Showdown Reached
+Shows: Batte, As Jc
+Combination: Batte, Three Of A Kind ( As Ah Ad Qs Jc )
+Shows: Hobek, 4s Kh
+Combination: Hobek, Pair ( Ah Ad Kh Qs Td )
+Wins: Batte, chips: 6870
+Quits: Hobek, chips: 0
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Fevikuv, chips: 10
+Big Blind: Cheleep, chips: 20
+Folds: Batte
+Calls: Fevikuv
+Raises: Cheleep, chips: 20
+Calls: Fevikuv
+Flop: 5s Qd Js
+Raises: Fevikuv, chips: 280
+Calls: Cheleep
+Turn: Th
+River: 4c
+Pot size: 640
+Showdown Reached
+Shows: Fevikuv, Ad Ah
+Combination: Fevikuv, Pair ( Ad Ah Qd Js Th )
+Shows: Cheleep, Kh Qh
+Combination: Cheleep, Pair ( Qh Qd Kh Js Th )
+Wins: Fevikuv, chips: 640
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Cheleep, chips: 10
+Big Blind: Batte, chips: 20
+Folds: Fevikuv
+Folds: Cheleep
+Pot size: 30
+Wins: Batte, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheleep
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Calls: Cheleep
+Folds: Batte
+Checks: Fevikuv
+Flop: 3d 8s Qd
+Checks: Fevikuv
+Checks: Cheleep
+Turn: Td
+Checks: Fevikuv
+Checks: Cheleep
+River: Jh
+Checks: Fevikuv
+Checks: Cheleep
+Pot size: 50
+Showdown Reached
+Shows: Fevikuv, 2d 6c
+Combination: Fevikuv, High Card ( Qd Jh Td 8s 6c )
+Shows: Cheleep, Jc Ad
+Combination: Cheleep, Pair ( Jc Jh Ad Qd Td )
+Wins: Cheleep, chips: 50
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Fevikuv, chips: 10
+Big Blind: Cheleep, chips: 20
+Folds: Batte
+Calls: Fevikuv
+Checks: Cheleep
+Flop: Qh Tc 3c
+Raises: Fevikuv, chips: 20
+Calls: Cheleep
+Turn: 8s
+Raises: Fevikuv, chips: 20
+Calls: Cheleep
+River: 6d
+Raises: Fevikuv, chips: 560
+Folds: Cheleep
+Pot size: 680
+Wins: Fevikuv, chips: 680
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Cheleep, chips: 10
+Big Blind: Batte, chips: 20
+Folds: Fevikuv
+Folds: Cheleep
+Pot size: 30
+Wins: Batte, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheleep
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Calls: Cheleep
+Calls: Batte
+Checks: Fevikuv
+Flop: 9s Qc 4d
+Checks: Batte
+Checks: Fevikuv
+Checks: Cheleep
+Turn: Qs
+Checks: Batte
+Checks: Fevikuv
+Checks: Cheleep
+River: Tc
+Checks: Batte
+Checks: Fevikuv
+Checks: Cheleep
+Pot size: 60
+Showdown Reached
+Shows: Batte, 7s 7d
+Combination: Batte, Two Pair ( Qc Qs 7s 7d Tc )
+Shows: Fevikuv, 7c 4c
+Combination: Fevikuv, Two Pair ( Qc Qs 4c 4d Tc )
+Shows: Cheleep, 7h 8c
+Combination: Cheleep, Pair ( Qc Qs Tc 9s 8c )
+Wins: Batte, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Fevikuv, chips: 10
+Big Blind: Cheleep, chips: 20
+Folds: Batte
+Folds: Fevikuv
+Pot size: 30
+Wins: Cheleep, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Cheleep, chips: 10
+Big Blind: Batte, chips: 20
+Folds: Fevikuv
+Calls: Cheleep
+Checks: Batte
+Flop: Qd Tc Jh
+Raises: Cheleep, chips: 20
+Calls: Batte
+Turn: 7h
+Raises: Cheleep, chips: 20
+Calls: Batte
+River: 6s
+Checks: Cheleep
+Raises: Batte, chips: 20
+Raises: Cheleep, chips: 40
+Raises: Batte, chips: 80
+Calls: Cheleep
+Pot size: 400
+Showdown Reached
+Shows: Batte, 6c Td
+Combination: Batte, Two Pair ( Td Tc 6c 6s Qd )
+Shows: Cheleep, As Kc
+Combination: Cheleep, Straight ( As Kc Qd Jh Tc )
+Wins: Cheleep, chips: 400
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheleep
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Calls: Cheleep
+Folds: Batte
+Checks: Fevikuv
+Flop: Qh Td 6d
+Checks: Fevikuv
+Checks: Cheleep
+Turn: 5s
+Checks: Fevikuv
+Raises: Cheleep, chips: 20
+Folds: Fevikuv
+Pot size: 70
+Wins: Cheleep, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Fevikuv, chips: 10
+Big Blind: Cheleep, chips: 20
+Calls: Batte
+Calls: Fevikuv
+Checks: Cheleep
+Flop: 9h 7s Jh
+Checks: Fevikuv
+Checks: Cheleep
+Checks: Batte
+Turn: 9s
+Checks: Fevikuv
+Checks: Cheleep
+Checks: Batte
+River: Td
+Checks: Fevikuv
+Checks: Cheleep
+Checks: Batte
+Pot size: 60
+Showdown Reached
+Shows: Batte, Ks 6s
+Combination: Batte, Pair ( 9h 9s Ks Jh Td )
+Shows: Fevikuv, 3c 3d
+Combination: Fevikuv, Two Pair ( 9h 9s 3c 3d Jh )
+Shows: Cheleep, 3s 6c
+Combination: Cheleep, Pair ( 9h 9s Jh Td 7s )
+Wins: Fevikuv, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Cheleep, chips: 10
+Big Blind: Batte, chips: 20
+Folds: Fevikuv
+Calls: Cheleep
+Checks: Batte
+Flop: 3h 6s As
+Checks: Cheleep
+Checks: Batte
+Turn: Ac
+Checks: Cheleep
+Raises: Batte, chips: 20
+Calls: Cheleep
+River: 5s
+Checks: Cheleep
+Checks: Batte
+Pot size: 80
+Showdown Reached
+Shows: Batte, 6d 5c
+Combination: Batte, Two Pair ( As Ac 6d 6s 5c )
+Shows: Cheleep, Kc Th
+Combination: Cheleep, Pair ( As Ac Kc Th 6s )
+Wins: Batte, chips: 80
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheleep
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Calls: Cheleep
+Folds: Batte
+Checks: Fevikuv
+Flop: 8h Kd Qd
+Checks: Fevikuv
+Checks: Cheleep
+Turn: 4h
+Checks: Fevikuv
+Raises: Cheleep, chips: 20
+Raises: Fevikuv, chips: 40
+Calls: Cheleep
+River: 4c
+Raises: Fevikuv, chips: 590
+Folds: Cheleep
+Pot size: 760
+Wins: Fevikuv, chips: 760
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Fevikuv, chips: 10
+Big Blind: Cheleep, chips: 20
+Calls: Batte
+Folds: Fevikuv
+Checks: Cheleep
+Flop: 6s 4h 9c
+Checks: Cheleep
+Checks: Batte
+Turn: 7c
+Checks: Cheleep
+Checks: Batte
+River: Qs
+Checks: Cheleep
+Raises: Batte, chips: 6700
+Folds: Cheleep
+Pot size: 6750
+Wins: Batte, chips: 6750
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Cheleep, chips: 10
+Big Blind: Batte, chips: 20
+Folds: Fevikuv
+Folds: Cheleep
+Pot size: 30
+Wins: Batte, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheleep
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Folds: Cheleep
+Calls: Batte
+Raises: Fevikuv, chips: 20
+Folds: Batte
+Pot size: 60
+Wins: Fevikuv, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Fevikuv, chips: 10
+Big Blind: Cheleep, chips: 20
+Folds: Batte
+Calls: Fevikuv
+Checks: Cheleep
+Flop: 4c Qc 9d
+Checks: Fevikuv
+Checks: Cheleep
+Turn: 7s
+Checks: Fevikuv
+Checks: Cheleep
+River: 5h
+Checks: Fevikuv
+Checks: Cheleep
+Pot size: 40
+Showdown Reached
+Shows: Fevikuv, Th Td
+Combination: Fevikuv, Pair ( Th Td Qc 9d 7s )
+Shows: Cheleep, Ts 3s
+Combination: Cheleep, High Card ( Qc Ts 9d 7s 5h )
+Wins: Fevikuv, chips: 40
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Cheleep, chips: 10
+Big Blind: Batte, chips: 20
+Calls: Fevikuv
+Folds: Cheleep
+Checks: Batte
+Flop: 2h 2d Qs
+Checks: Batte
+Raises: Fevikuv, chips: 20
+Folds: Batte
+Pot size: 70
+Wins: Fevikuv, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheleep
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Folds: Cheleep
+Calls: Batte
+Raises: Fevikuv, chips: 20
+Calls: Batte
+Flop: 9s 6d 2h
+Checks: Batte
+Checks: Fevikuv
+Turn: 3h
+Checks: Batte
+Raises: Fevikuv, chips: 20
+Folds: Batte
+Pot size: 100
+Wins: Fevikuv, chips: 100
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Fevikuv, chips: 10
+Big Blind: Cheleep, chips: 20
+Folds: Batte
+Folds: Fevikuv
+Pot size: 30
+Wins: Cheleep, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Cheleep, chips: 10
+Big Blind: Batte, chips: 20
+Calls: Fevikuv
+Folds: Cheleep
+Checks: Batte
+Flop: Kd Tc 7c
+Raises: Batte, chips: 20
+Raises: Fevikuv, chips: 810
+Calls: Batte
+Turn: 5c
+River: 2d
+Pot size: 1710
+Showdown Reached
+Shows: Batte, 7d 4s
+Combination: Batte, Pair ( 7d 7c Kd Tc 5c )
+Shows: Fevikuv, Kh Ac
+Combination: Fevikuv, Pair ( Kh Kd Ac Tc 7c )
+Wins: Fevikuv, chips: 1710
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheleep
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Folds: Cheleep
+Folds: Batte
+Pot size: 30
+Wins: Fevikuv, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Fevikuv, chips: 10
+Big Blind: Cheleep, chips: 20
+Calls: Batte
+Calls: Fevikuv
+Checks: Cheleep
+Flop: 5d Td 3s
+Checks: Fevikuv
+Checks: Cheleep
+Checks: Batte
+Turn: 9d
+Checks: Fevikuv
+Checks: Cheleep
+Checks: Batte
+River: 4d
+Checks: Fevikuv
+Checks: Cheleep
+Raises: Batte, chips: 20
+Folds: Fevikuv
+Folds: Cheleep
+Pot size: 80
+Wins: Batte, chips: 80
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Cheleep, chips: 10
+Big Blind: Batte, chips: 20
+Folds: Fevikuv
+Folds: Cheleep
+Pot size: 30
+Wins: Batte, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheleep
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Folds: Cheleep
+Folds: Batte
+Pot size: 30
+Wins: Fevikuv, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Fevikuv, chips: 10
+Big Blind: Cheleep, chips: 20
+Folds: Batte
+Folds: Fevikuv
+Pot size: 30
+Wins: Cheleep, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Cheleep, chips: 10
+Big Blind: Batte, chips: 20
+Folds: Fevikuv
+Folds: Cheleep
+Pot size: 30
+Wins: Batte, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheleep
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Calls: Cheleep
+Folds: Batte
+Checks: Fevikuv
+Flop: Js Jh 9s
+Checks: Fevikuv
+Checks: Cheleep
+Turn: 2d
+Checks: Fevikuv
+Checks: Cheleep
+River: 5s
+Checks: Fevikuv
+Raises: Cheleep, chips: 1410
+Folds: Fevikuv
+Pot size: 1460
+Wins: Cheleep, chips: 1460
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Fevikuv, chips: 10
+Big Blind: Cheleep, chips: 20
+Calls: Batte
+Folds: Fevikuv
+Checks: Cheleep
+Flop: Js 6h 5c
+Checks: Cheleep
+Checks: Batte
+Turn: 8d
+Checks: Cheleep
+Checks: Batte
+River: Td
+Checks: Cheleep
+Checks: Batte
+Pot size: 50
+Showdown Reached
+Shows: Batte, 2d 2h
+Combination: Batte, Pair ( 2d 2h Js Td 8d )
+Shows: Cheleep, 4d Jh
+Combination: Cheleep, Pair ( Jh Js Td 8d 6h )
+Wins: Cheleep, chips: 50
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Cheleep, chips: 10
+Big Blind: Batte, chips: 20
+Raises: Fevikuv, chips: 20
+Folds: Cheleep
+Folds: Batte
+Pot size: 70
+Wins: Fevikuv, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheleep
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Calls: Cheleep
+Calls: Batte
+Checks: Fevikuv
+Flop: 8c 9h Th
+Checks: Batte
+Raises: Fevikuv, chips: 20
+Folds: Cheleep
+Calls: Batte
+Turn: 6h
+Checks: Batte
+Checks: Fevikuv
+River: 8s
+Raises: Batte, chips: 20
+Raises: Fevikuv, chips: 20
+Calls: Batte
+Pot size: 180
+Showdown Reached
+Shows: Batte, 9c Kd
+Combination: Batte, Two Pair ( 9c 9h 8c 8s Kd )
+Shows: Fevikuv, Jh 7h
+Combination: Fevikuv, Flush ( Jh Th 9h 7h 6h )
+Wins: Fevikuv, chips: 180
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Fevikuv, chips: 10
+Big Blind: Cheleep, chips: 20
+Folds: Batte
+Calls: Fevikuv
+Checks: Cheleep
+Flop: 9s 6c Td
+Checks: Fevikuv
+Checks: Cheleep
+Turn: Qh
+Raises: Fevikuv, chips: 20
+Calls: Cheleep
+River: Ah
+Checks: Fevikuv
+Checks: Cheleep
+Pot size: 80
+Showdown Reached
+Shows: Fevikuv, 8d 8s
+Combination: Fevikuv, Pair ( 8d 8s Ah Qh Td )
+Shows: Cheleep, Qd 4d
+Combination: Cheleep, Pair ( Qd Qh Ah Td 9s )
+Wins: Cheleep, chips: 80
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Cheleep, chips: 10
+Big Blind: Batte, chips: 20
+Raises: Fevikuv, chips: 20
+Folds: Cheleep
+Folds: Batte
+Pot size: 70
+Wins: Fevikuv, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheleep
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Folds: Cheleep
+Folds: Batte
+Pot size: 30
+Wins: Fevikuv, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Fevikuv, chips: 10
+Big Blind: Cheleep, chips: 20
+Folds: Batte
+Calls: Fevikuv
+Checks: Cheleep
+Flop: Tc Kd 7d
+Checks: Fevikuv
+Checks: Cheleep
+Turn: Js
+Raises: Fevikuv, chips: 20
+Calls: Cheleep
+River: Th
+Checks: Fevikuv
+Raises: Cheleep, chips: 20
+Raises: Fevikuv, chips: 20
+Raises: Cheleep, chips: 20
+Raises: Fevikuv, chips: 20
+Raises: Cheleep, chips: 40
+Calls: Fevikuv
+Pot size: 320
+Showdown Reached
+Shows: Fevikuv, 8c Td
+Combination: Fevikuv, Three Of A Kind ( Td Tc Th Kd Js )
+Shows: Cheleep, Jc 4d
+Combination: Cheleep, Two Pair ( Jc Js Tc Th Kd )
+Wins: Fevikuv, chips: 320
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Cheleep, chips: 10
+Big Blind: Batte, chips: 20
+Calls: Fevikuv
+Raises: Cheleep, chips: 30
+Folds: Batte
+Folds: Fevikuv
+Pot size: 90
+Wins: Cheleep, chips: 90
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheleep
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Folds: Cheleep
+Folds: Batte
+Pot size: 30
+Wins: Fevikuv, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Fevikuv, chips: 10
+Big Blind: Cheleep, chips: 20
+Folds: Batte
+Calls: Fevikuv
+Raises: Cheleep, chips: 20
+Folds: Fevikuv
+Pot size: 60
+Wins: Cheleep, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Cheleep, chips: 10
+Big Blind: Batte, chips: 20
+Calls: Fevikuv
+Calls: Cheleep
+Checks: Batte
+Flop: 6h 5c Td
+Checks: Cheleep
+Checks: Batte
+Checks: Fevikuv
+Turn: Jc
+Checks: Cheleep
+Checks: Batte
+Checks: Fevikuv
+River: 6s
+Checks: Cheleep
+Raises: Batte, chips: 5660
+Folds: Fevikuv
+Folds: Cheleep
+Pot size: 5720
+Wins: Batte, chips: 5720
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheleep
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Folds: Cheleep
+Folds: Batte
+Pot size: 30
+Wins: Fevikuv, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Fevikuv, chips: 10
+Big Blind: Cheleep, chips: 20
+Folds: Batte
+Raises: Fevikuv, chips: 30
+Folds: Cheleep
+Pot size: 70
+Wins: Fevikuv, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Cheleep, chips: 10
+Big Blind: Batte, chips: 20
+Folds: Fevikuv
+Folds: Cheleep
+Pot size: 30
+Wins: Batte, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheleep
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Calls: Cheleep
+Folds: Batte
+Checks: Fevikuv
+Flop: 3d As 7h
+Checks: Fevikuv
+Checks: Cheleep
+Turn: 2h
+Checks: Fevikuv
+Checks: Cheleep
+River: 7s
+Checks: Fevikuv
+Raises: Cheleep, chips: 1320
+Folds: Fevikuv
+Pot size: 1370
+Wins: Cheleep, chips: 1370
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Fevikuv, chips: 10
+Big Blind: Cheleep, chips: 20
+Folds: Batte
+Folds: Fevikuv
+Pot size: 30
+Wins: Cheleep, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Cheleep, chips: 10
+Big Blind: Batte, chips: 20
+Calls: Fevikuv
+Calls: Cheleep
+Checks: Batte
+Flop: Js 8s Qs
+Checks: Cheleep
+Checks: Batte
+Checks: Fevikuv
+Turn: Kd
+Raises: Cheleep, chips: 20
+Calls: Batte
+Calls: Fevikuv
+River: Kh
+Raises: Cheleep, chips: 20
+Raises: Batte, chips: 20
+Calls: Fevikuv
+Calls: Cheleep
+Pot size: 240
+Showdown Reached
+Shows: Batte, As Jd
+Combination: Batte, Two Pair ( Kd Kh Jd Js As )
+Shows: Fevikuv, Ad Jh
+Combination: Fevikuv, Two Pair ( Kd Kh Jh Js Ad )
+Shows: Cheleep, Qh Qc
+Combination: Cheleep, Full House ( Qh Qc Qs Kd Kh )
+Wins: Cheleep, chips: 240
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheleep
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Calls: Cheleep
+Folds: Batte
+Checks: Fevikuv
+Flop: Kd 2c Jc
+Checks: Fevikuv
+Checks: Cheleep
+Turn: 5d
+Checks: Fevikuv
+Checks: Cheleep
+River: 3c
+Checks: Fevikuv
+Checks: Cheleep
+Pot size: 50
+Showdown Reached
+Shows: Fevikuv, 8c Td
+Combination: Fevikuv, High Card ( Kd Jc Td 8c 5d )
+Shows: Cheleep, 8h 7d
+Combination: Cheleep, High Card ( Kd Jc 8h 7d 5d )
+Wins: Fevikuv, chips: 50
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Fevikuv, chips: 10
+Big Blind: Cheleep, chips: 20
+Calls: Batte
+Calls: Fevikuv
+Checks: Cheleep
+Flop: As Ks Ah
+Checks: Fevikuv
+Checks: Cheleep
+Raises: Batte, chips: 5600
+Folds: Fevikuv
+Folds: Cheleep
+Pot size: 5660
+Wins: Batte, chips: 5660
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Cheleep, chips: 10
+Big Blind: Batte, chips: 20
+Folds: Fevikuv
+Folds: Cheleep
+Pot size: 30
+Wins: Batte, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheleep
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Calls: Cheleep
+Folds: Batte
+Checks: Fevikuv
+Flop: 4s Kc 7d
+Raises: Fevikuv, chips: 20
+Folds: Cheleep
+Pot size: 70
+Wins: Fevikuv, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Fevikuv, chips: 10
+Big Blind: Cheleep, chips: 20
+Folds: Batte
+Calls: Fevikuv
+Checks: Cheleep
+Flop: Tc 8s Jc
+Checks: Fevikuv
+Checks: Cheleep
+Turn: 8c
+Checks: Fevikuv
+Checks: Cheleep
+River: 4c
+Checks: Fevikuv
+Checks: Cheleep
+Pot size: 40
+Showdown Reached
+Shows: Fevikuv, Ad Kh
+Combination: Fevikuv, Pair ( 8s 8c Ad Kh Jc )
+Shows: Cheleep, 2s Ah
+Combination: Cheleep, Pair ( 8s 8c Ah Jc Tc )
+Wins: Fevikuv, chips: 40
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Cheleep, chips: 10
+Big Blind: Batte, chips: 20
+Calls: Fevikuv
+Folds: Cheleep
+Checks: Batte
+Flop: Qc Ks Jh
+Checks: Batte
+Raises: Fevikuv, chips: 20
+Folds: Batte
+Pot size: 70
+Wins: Fevikuv, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheleep
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Calls: Cheleep
+Folds: Batte
+Checks: Fevikuv
+Flop: 3h 3c 7c
+Checks: Fevikuv
+Checks: Cheleep
+Turn: Tc
+Checks: Fevikuv
+Raises: Cheleep, chips: 20
+Folds: Fevikuv
+Pot size: 70
+Wins: Cheleep, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Fevikuv, chips: 10
+Big Blind: Cheleep, chips: 20
+Folds: Batte
+Folds: Fevikuv
+Pot size: 30
+Wins: Cheleep, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Cheleep, chips: 10
+Big Blind: Batte, chips: 20
+Folds: Fevikuv
+Folds: Cheleep
+Pot size: 30
+Wins: Batte, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheleep
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Folds: Cheleep
+Folds: Batte
+Pot size: 30
+Wins: Fevikuv, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Fevikuv, chips: 10
+Big Blind: Cheleep, chips: 20
+Folds: Batte
+Folds: Fevikuv
+Pot size: 30
+Wins: Cheleep, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Cheleep, chips: 10
+Big Blind: Batte, chips: 20
+Folds: Fevikuv
+Calls: Cheleep
+Checks: Batte
+Flop: 6d 8h Qd
+Checks: Cheleep
+Checks: Batte
+Turn: 4c
+Checks: Cheleep
+Checks: Batte
+River: 3h
+Checks: Cheleep
+Checks: Batte
+Pot size: 40
+Showdown Reached
+Shows: Batte, 7c 8s
+Combination: Batte, Pair ( 8s 8h Qd 7c 6d )
+Shows: Cheleep, Th Jc
+Combination: Cheleep, High Card ( Qd Jc Th 8h 6d )
+Wins: Batte, chips: 40
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheleep
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Calls: Cheleep
+Folds: Batte
+Checks: Fevikuv
+Flop: Kd 4d 2d
+Raises: Fevikuv, chips: 20
+Folds: Cheleep
+Pot size: 70
+Wins: Fevikuv, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Fevikuv, chips: 10
+Big Blind: Cheleep, chips: 20
+Folds: Batte
+Folds: Fevikuv
+Pot size: 30
+Wins: Cheleep, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Cheleep, chips: 10
+Big Blind: Batte, chips: 20
+Raises: Fevikuv, chips: 40
+Folds: Cheleep
+Folds: Batte
+Pot size: 90
+Wins: Fevikuv, chips: 90
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheleep
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Folds: Cheleep
+Folds: Batte
+Pot size: 30
+Wins: Fevikuv, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Fevikuv, chips: 10
+Big Blind: Cheleep, chips: 20
+Folds: Batte
+Folds: Fevikuv
+Pot size: 30
+Wins: Cheleep, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Cheleep, chips: 10
+Big Blind: Batte, chips: 20
+Raises: Fevikuv, chips: 20
+Folds: Cheleep
+Folds: Batte
+Pot size: 70
+Wins: Fevikuv, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheleep
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Folds: Cheleep
+Folds: Batte
+Pot size: 30
+Wins: Fevikuv, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Fevikuv, chips: 10
+Big Blind: Cheleep, chips: 20
+Calls: Batte
+Folds: Fevikuv
+Checks: Cheleep
+Flop: 2c Jc Qc
+Checks: Cheleep
+Checks: Batte
+Turn: 6d
+Checks: Cheleep
+Checks: Batte
+River: 8s
+Checks: Cheleep
+Raises: Batte, chips: 5560
+Folds: Cheleep
+Pot size: 5610
+Wins: Batte, chips: 5610
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Cheleep, chips: 10
+Big Blind: Batte, chips: 20
+Calls: Fevikuv
+Raises: Cheleep, chips: 30
+Calls: Batte
+Folds: Fevikuv
+Flop: 2d 9d 2h
+Checks: Cheleep
+DEBUG MESSAGE: INVALID ACTION FROM Batte (2 0)
+Folds: Batte
+Pot size: 120
+Wins: Cheleep, chips: 120
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheleep
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Folds: Cheleep
+Folds: Batte
+Pot size: 30
+Wins: Fevikuv, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Fevikuv, chips: 10
+Big Blind: Cheleep, chips: 20
+Calls: Batte
+Folds: Fevikuv
+Checks: Cheleep
+Flop: 4s 2s 5c
+Checks: Cheleep
+Checks: Batte
+Turn: 8s
+Checks: Cheleep
+Raises: Batte, chips: 20
+Calls: Cheleep
+River: Jd
+Checks: Cheleep
+Checks: Batte
+Pot size: 90
+Showdown Reached
+Shows: Batte, 7s As
+Combination: Batte, Flush ( As 8s 7s 4s 2s )
+Shows: Cheleep, 4h 3h
+Combination: Cheleep, Pair ( 4h 4s Jd 8s 5c )
+Wins: Batte, chips: 90
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Cheleep, chips: 10
+Big Blind: Batte, chips: 20
+Raises: Fevikuv, chips: 20
+Folds: Cheleep
+Folds: Batte
+Pot size: 70
+Wins: Fevikuv, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheleep
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Folds: Cheleep
+Folds: Batte
+Pot size: 30
+Wins: Fevikuv, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Fevikuv, chips: 10
+Big Blind: Cheleep, chips: 20
+Folds: Batte
+Calls: Fevikuv
+Checks: Cheleep
+Flop: 3s 3c Ac
+Checks: Fevikuv
+Checks: Cheleep
+Turn: Jd
+Checks: Fevikuv
+Checks: Cheleep
+River: 7d
+Checks: Fevikuv
+Checks: Cheleep
+Pot size: 40
+Showdown Reached
+Shows: Fevikuv, 9s Js
+Combination: Fevikuv, Two Pair ( Js Jd 3s 3c Ac )
+Shows: Cheleep, Qs Th
+Combination: Cheleep, Pair ( 3s 3c Ac Qs Jd )
+Wins: Fevikuv, chips: 40
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Cheleep, chips: 10
+Big Blind: Batte, chips: 20
+Calls: Fevikuv
+Calls: Cheleep
+Checks: Batte
+Flop: Th Td 4h
+Checks: Cheleep
+Checks: Batte
+Checks: Fevikuv
+Turn: Kc
+Checks: Cheleep
+Checks: Batte
+Checks: Fevikuv
+River: 7h
+Checks: Cheleep
+Checks: Batte
+Checks: Fevikuv
+Pot size: 60
+Showdown Reached
+Shows: Batte, Ks 9c
+Combination: Batte, Two Pair ( Ks Kc Th Td 9c )
+Shows: Fevikuv, Kh Qd
+Combination: Fevikuv, Two Pair ( Kh Kc Th Td Qd )
+Shows: Cheleep, 6s 6h
+Combination: Cheleep, Two Pair ( Th Td 6s 6h Kc )
+Wins: Fevikuv, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheleep
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Folds: Cheleep
+Calls: Batte
+Checks: Fevikuv
+Flop: 6h Ac 4s
+Checks: Batte
+Checks: Fevikuv
+Turn: Jh
+Checks: Batte
+Checks: Fevikuv
+River: Kd
+Raises: Batte, chips: 20
+Calls: Fevikuv
+Pot size: 80
+Showdown Reached
+Shows: Batte, 9c As
+Combination: Batte, Pair ( As Ac Kd Jh 9c )
+Shows: Fevikuv, Qc 6s
+Combination: Fevikuv, Pair ( 6s 6h Ac Kd Qc )
+Wins: Batte, chips: 80
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Fevikuv, chips: 10
+Big Blind: Cheleep, chips: 20
+Calls: Batte
+Folds: Fevikuv
+Checks: Cheleep
+Flop: 5c Qh 2s
+Checks: Cheleep
+Checks: Batte
+Turn: 7c
+Checks: Cheleep
+Checks: Batte
+River: 3h
+Checks: Cheleep
+Checks: Batte
+Pot size: 50
+Showdown Reached
+Shows: Batte, Kh Ah
+Combination: Batte, High Card ( Ah Kh Qh 7c 5c )
+Shows: Cheleep, Kd 2d
+Combination: Cheleep, Pair ( 2d 2s Kd Qh 7c )
+Wins: Cheleep, chips: 50
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Cheleep, chips: 10
+Big Blind: Batte, chips: 20
+Calls: Fevikuv
+Folds: Cheleep
+Checks: Batte
+Flop: Jd Jc 3s
+Checks: Batte
+Raises: Fevikuv, chips: 20
+Folds: Batte
+Pot size: 70
+Wins: Fevikuv, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheleep
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Calls: Cheleep
+Folds: Batte
+Checks: Fevikuv
+Flop: 5h 9d 2c
+Checks: Fevikuv
+Checks: Cheleep
+Turn: Th
+Checks: Fevikuv
+Raises: Cheleep, chips: 20
+Calls: Fevikuv
+River: Qh
+Raises: Fevikuv, chips: 20
+Raises: Cheleep, chips: 40
+Calls: Fevikuv
+Pot size: 210
+Showdown Reached
+Shows: Fevikuv, Ah 8h
+Combination: Fevikuv, Flush ( Ah Qh Th 8h 5h )
+Shows: Cheleep, Ad Td
+Combination: Cheleep, Pair ( Td Th Ad Qh 9d )
+Wins: Fevikuv, chips: 210
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Fevikuv, chips: 10
+Big Blind: Cheleep, chips: 20
+Folds: Batte
+Folds: Fevikuv
+Pot size: 30
+Wins: Cheleep, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Cheleep, chips: 10
+Big Blind: Batte, chips: 20
+Calls: Fevikuv
+Calls: Cheleep
+Checks: Batte
+Flop: 8c 5c Ad
+Checks: Cheleep
+Checks: Batte
+Checks: Fevikuv
+Turn: Js
+Raises: Cheleep, chips: 20
+Calls: Batte
+Folds: Fevikuv
+River: 7d
+Raises: Cheleep, chips: 20
+Raises: Batte, chips: 5480
+Folds: Cheleep
+Pot size: 5620
+Wins: Batte, chips: 5620
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheleep
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Folds: Cheleep
+Folds: Batte
+Pot size: 30
+Wins: Fevikuv, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Fevikuv, chips: 10
+Big Blind: Cheleep, chips: 20
+Calls: Batte
+Folds: Fevikuv
+Raises: Cheleep, chips: 20
+Folds: Batte
+Pot size: 70
+Wins: Cheleep, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Cheleep, chips: 10
+Big Blind: Batte, chips: 20
+Calls: Fevikuv
+Folds: Cheleep
+Checks: Batte
+Flop: 4d 4h Jd
+Checks: Batte
+Checks: Fevikuv
+Turn: 2h
+Checks: Batte
+Checks: Fevikuv
+River: 7c
+Raises: Batte, chips: 20
+Calls: Fevikuv
+Pot size: 90
+Showdown Reached
+Shows: Batte, Ts 7s
+Combination: Batte, Two Pair ( 7s 7c 4d 4h Jd )
+Shows: Fevikuv, Ad Td
+Combination: Fevikuv, Pair ( 4d 4h Ad Jd Td )
+Wins: Batte, chips: 90
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheleep
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Folds: Cheleep
+Raises: Batte, chips: 30
+Folds: Fevikuv
+Pot size: 70
+Wins: Batte, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Fevikuv, chips: 10
+Big Blind: Cheleep, chips: 20
+Calls: Batte
+Folds: Fevikuv
+Checks: Cheleep
+Flop: 2d 4h 8d
+Checks: Cheleep
+Checks: Batte
+Turn: Ac
+Checks: Cheleep
+Checks: Batte
+River: 3c
+Checks: Cheleep
+Checks: Batte
+Pot size: 50
+Showdown Reached
+Shows: Batte, 9c Js
+Combination: Batte, High Card ( Ac Js 9c 8d 4h )
+Shows: Cheleep, Kh 7d
+Combination: Cheleep, High Card ( Ac Kh 8d 7d 4h )
+Wins: Cheleep, chips: 50
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Cheleep, chips: 10
+Big Blind: Batte, chips: 20
+Folds: Fevikuv
+Folds: Cheleep
+Pot size: 30
+Wins: Batte, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheleep
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Calls: Cheleep
+Folds: Batte
+Checks: Fevikuv
+Flop: 8h 2d Kh
+Raises: Fevikuv, chips: 2020
+Folds: Cheleep
+Pot size: 2070
+Wins: Fevikuv, chips: 2070
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Fevikuv, chips: 10
+Big Blind: Cheleep, chips: 20
+Folds: Batte
+Raises: Fevikuv, chips: 30
+Folds: Cheleep
+Pot size: 70
+Wins: Fevikuv, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Cheleep, chips: 10
+Big Blind: Batte, chips: 20
+Folds: Fevikuv
+Calls: Cheleep
+Checks: Batte
+Flop: 9h 6h 7s
+Checks: Cheleep
+Checks: Batte
+Turn: Kd
+Checks: Cheleep
+Checks: Batte
+River: 8h
+Checks: Cheleep
+Raises: Batte, chips: 20
+Raises: Cheleep, chips: 20
+Raises: Batte, chips: 20
+Raises: Cheleep, chips: 20
+Calls: Batte
+Pot size: 200
+Showdown Reached
+Shows: Batte, 8s 6c
+Combination: Batte, Two Pair ( 8s 8h 6c 6h Kd )
+Shows: Cheleep, Jh Kc
+Combination: Cheleep, Pair ( Kc Kd Jh 9h 8h )
+Wins: Batte, chips: 200
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheleep
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Folds: Cheleep
+Folds: Batte
+Pot size: 30
+Wins: Fevikuv, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Fevikuv, chips: 10
+Big Blind: Cheleep, chips: 20
+Calls: Batte
+Calls: Fevikuv
+Checks: Cheleep
+Flop: Ah Kc 3d
+Checks: Fevikuv
+Checks: Cheleep
+Checks: Batte
+Turn: 7s
+Checks: Fevikuv
+Checks: Cheleep
+Raises: Batte, chips: 20
+Calls: Fevikuv
+Folds: Cheleep
+River: 5d
+Checks: Fevikuv
+Checks: Batte
+Pot size: 100
+Showdown Reached
+Shows: Batte, Ts Kd
+Combination: Batte, Pair ( Kd Kc Ah Ts 7s )
+Shows: Fevikuv, Js Jd
+Combination: Fevikuv, Pair ( Js Jd Ah Kc 7s )
+Wins: Batte, chips: 100
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Cheleep, chips: 10
+Big Blind: Batte, chips: 20
+Folds: Fevikuv
+Folds: Cheleep
+Pot size: 30
+Wins: Batte, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheleep
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Calls: Cheleep
+Folds: Batte
+Checks: Fevikuv
+Flop: Ah 5h Qd
+Raises: Fevikuv, chips: 20
+Calls: Cheleep
+Turn: Kc
+Raises: Fevikuv, chips: 20
+Calls: Cheleep
+River: 6d
+Raises: Fevikuv, chips: 20
+Calls: Cheleep
+Pot size: 170
+Showdown Reached
+Shows: Fevikuv, 5c Qc
+Combination: Fevikuv, Two Pair ( Qc Qd 5c 5h Ah )
+Shows: Cheleep, Kh Jd
+Combination: Cheleep, Pair ( Kh Kc Ah Qd Jd )
+Wins: Fevikuv, chips: 170
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Fevikuv, chips: 10
+Big Blind: Cheleep, chips: 20
+Folds: Batte
+Calls: Fevikuv
+Checks: Cheleep
+Flop: Jd Ac 8s
+Checks: Fevikuv
+Raises: Cheleep, chips: 20
+Calls: Fevikuv
+Turn: Jh
+Checks: Fevikuv
+Raises: Cheleep, chips: 20
+Calls: Fevikuv
+River: 6c
+Checks: Fevikuv
+Checks: Cheleep
+Pot size: 120
+Showdown Reached
+Shows: Fevikuv, 7d 8c
+Combination: Fevikuv, Two Pair ( Jd Jh 8c 8s Ac )
+Shows: Cheleep, Js Tc
+Combination: Cheleep, Three Of A Kind ( Js Jd Jh Ac Tc )
+Wins: Cheleep, chips: 120
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Cheleep, chips: 10
+Big Blind: Batte, chips: 20
+Raises: Fevikuv, chips: 20
+Folds: Cheleep
+Folds: Batte
+Pot size: 70
+Wins: Fevikuv, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheleep
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Calls: Cheleep
+Folds: Batte
+Checks: Fevikuv
+Flop: Qd 2c 3h
+Checks: Fevikuv
+Checks: Cheleep
+Turn: 9c
+Checks: Fevikuv
+Checks: Cheleep
+River: 7c
+Checks: Fevikuv
+Checks: Cheleep
+Pot size: 50
+Showdown Reached
+Shows: Fevikuv, 7s Td
+Combination: Fevikuv, Pair ( 7s 7c Qd Td 9c )
+Shows: Cheleep, 8s Ks
+Combination: Cheleep, High Card ( Ks Qd 9c 8s 7c )
+Wins: Fevikuv, chips: 50
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Fevikuv, chips: 10
+Big Blind: Cheleep, chips: 20
+Calls: Batte
+Calls: Fevikuv
+Checks: Cheleep
+Flop: 2s 7h 8s
+Checks: Fevikuv
+Checks: Cheleep
+Checks: Batte
+Turn: 7d
+Checks: Fevikuv
+Checks: Cheleep
+Checks: Batte
+River: 6h
+Checks: Fevikuv
+Checks: Cheleep
+Raises: Batte, chips: 20
+Folds: Fevikuv
+Folds: Cheleep
+Pot size: 80
+Wins: Batte, chips: 80
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Cheleep, chips: 10
+Big Blind: Batte, chips: 20
+Folds: Fevikuv
+Calls: Cheleep
+Checks: Batte
+Flop: 9d 4c Js
+Checks: Cheleep
+Checks: Batte
+Turn: 4d
+Checks: Cheleep
+Checks: Batte
+River: Qh
+Checks: Cheleep
+Checks: Batte
+Pot size: 40
+Showdown Reached
+Shows: Batte, 8d 3d
+Combination: Batte, Pair ( 4c 4d Qh Js 9d )
+Shows: Cheleep, Ad 9c
+Combination: Cheleep, Two Pair ( 9c 9d 4c 4d Ad )
+Wins: Cheleep, chips: 40
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheleep
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Folds: Cheleep
+Calls: Batte
+Checks: Fevikuv
+Flop: 3h Qh 7h
+Checks: Batte
+Checks: Fevikuv
+Turn: 3s
+Checks: Batte
+Checks: Fevikuv
+River: 4s
+Checks: Batte
+Checks: Fevikuv
+Pot size: 40
+Showdown Reached
+Shows: Batte, Jc Ac
+Combination: Batte, Pair ( 3h 3s Ac Qh Jc )
+Shows: Fevikuv, 9d 2d
+Combination: Fevikuv, Pair ( 3h 3s Qh 9d 7h )
+Wins: Batte, chips: 40
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Fevikuv, chips: 10
+Big Blind: Cheleep, chips: 20
+Folds: Batte
+Folds: Fevikuv
+Pot size: 30
+Wins: Cheleep, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Cheleep, chips: 10
+Big Blind: Batte, chips: 20
+Folds: Fevikuv
+Calls: Cheleep
+Checks: Batte
+Flop: 7s Tc 5d
+Checks: Cheleep
+Checks: Batte
+Turn: 5h
+Checks: Cheleep
+Checks: Batte
+River: Ac
+Checks: Cheleep
+Checks: Batte
+Pot size: 40
+Showdown Reached
+Shows: Batte, 7d Qd
+Combination: Batte, Two Pair ( 7d 7s 5d 5h Ac )
+Shows: Cheleep, 7h 8d
+Combination: Cheleep, Two Pair ( 7h 7s 5d 5h Ac )
+Wins: Batte, chips: 20
+Wins: Cheleep, chips: 20
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheleep
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Calls: Cheleep
+Calls: Batte
+Checks: Fevikuv
+Flop: Jc 9s 3d
+Checks: Batte
+Checks: Fevikuv
+Checks: Cheleep
+Turn: 7h
+Checks: Batte
+Checks: Fevikuv
+Checks: Cheleep
+River: Qc
+Raises: Batte, chips: 5780
+Folds: Fevikuv
+Folds: Cheleep
+Pot size: 5840
+Wins: Batte, chips: 5840
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Fevikuv, chips: 10
+Big Blind: Cheleep, chips: 20
+Folds: Batte
+Folds: Fevikuv
+Pot size: 30
+Wins: Cheleep, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Cheleep, chips: 10
+Big Blind: Batte, chips: 20
+Calls: Fevikuv
+Folds: Cheleep
+Checks: Batte
+Flop: 2d 8s Tc
+Checks: Batte
+Checks: Fevikuv
+Turn: 6d
+Checks: Batte
+Checks: Fevikuv
+River: Qs
+Checks: Batte
+Checks: Fevikuv
+Pot size: 50
+Showdown Reached
+Shows: Batte, 6s Kd
+Combination: Batte, Pair ( 6s 6d Kd Qs Tc )
+Shows: Fevikuv, 4h 4d
+Combination: Fevikuv, Pair ( 4h 4d Qs Tc 8s )
+Wins: Batte, chips: 50
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheleep
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Calls: Cheleep
+Folds: Batte
+Checks: Fevikuv
+Flop: Td 7h Tc
+Checks: Fevikuv
+Checks: Cheleep
+Turn: 9c
+Checks: Fevikuv
+Checks: Cheleep
+River: Ks
+Checks: Fevikuv
+Checks: Cheleep
+Pot size: 50
+Showdown Reached
+Shows: Fevikuv, Jc 6h
+Combination: Fevikuv, Pair ( Td Tc Ks Jc 9c )
+Shows: Cheleep, 9s Kd
+Combination: Cheleep, Two Pair ( Kd Ks Td Tc 9s )
+Wins: Cheleep, chips: 50
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Fevikuv, chips: 10
+Big Blind: Cheleep, chips: 20
+Folds: Batte
+Folds: Fevikuv
+Pot size: 30
+Wins: Cheleep, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Cheleep, chips: 10
+Big Blind: Batte, chips: 20
+Calls: Fevikuv
+Folds: Cheleep
+Checks: Batte
+Flop: 6c 7d Jc
+Raises: Batte, chips: 20
+Calls: Fevikuv
+Turn: 4h
+Raises: Batte, chips: 20
+Folds: Fevikuv
+Pot size: 110
+Wins: Batte, chips: 110
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheleep
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Raises: Cheleep, chips: 40
+Folds: Batte
+Calls: Fevikuv
+Flop: 7h 3h 4c
+Checks: Fevikuv
+Checks: Cheleep
+Turn: 3d
+Checks: Fevikuv
+Checks: Cheleep
+River: Qs
+Checks: Fevikuv
+Raises: Cheleep, chips: 1050
+Folds: Fevikuv
+Pot size: 1180
+Wins: Cheleep, chips: 1180
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Fevikuv, chips: 10
+Big Blind: Cheleep, chips: 20
+Calls: Batte
+Calls: Fevikuv
+Checks: Cheleep
+Flop: 3d 7s 2d
+Checks: Fevikuv
+Checks: Cheleep
+Checks: Batte
+Turn: Qh
+Checks: Fevikuv
+Checks: Cheleep
+Checks: Batte
+River: 8d
+Checks: Fevikuv
+Checks: Cheleep
+Checks: Batte
+Pot size: 60
+Showdown Reached
+Shows: Batte, Ks 8s
+Combination: Batte, Pair ( 8s 8d Ks Qh 7s )
+Shows: Fevikuv, 6h 5s
+Combination: Fevikuv, High Card ( Qh 8d 7s 6h 5s )
+Shows: Cheleep, As 9h
+Combination: Cheleep, High Card ( As Qh 9h 8d 7s )
+Wins: Batte, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Cheleep, chips: 10
+Big Blind: Batte, chips: 20
+Folds: Fevikuv
+Folds: Cheleep
+Pot size: 30
+Wins: Batte, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheleep
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Calls: Cheleep
+Folds: Batte
+Checks: Fevikuv
+Flop: 2d 4c 4d
+Raises: Fevikuv, chips: 20
+Calls: Cheleep
+Turn: 9s
+Raises: Fevikuv, chips: 1860
+Folds: Cheleep
+Pot size: 1950
+Wins: Fevikuv, chips: 1950
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Fevikuv, chips: 10
+Big Blind: Cheleep, chips: 20
+Calls: Batte
+Folds: Fevikuv
+Raises: Cheleep, chips: 20
+Raises: Batte, chips: 20
+Calls: Cheleep
+Flop: 5h 8d 8c
+Raises: Cheleep, chips: 1050
+Calls: Batte
+Turn: 7d
+River: Td
+Pot size: 2230
+Showdown Reached
+Shows: Batte, Ah As
+Combination: Batte, Two Pair ( Ah As 8d 8c Td )
+Shows: Cheleep, Jh Js
+Combination: Cheleep, Two Pair ( Jh Js 8d 8c Td )
+Wins: Batte, chips: 2230
+Quits: Cheleep, chips: 0
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Calls: Fevikuv
+Checks: Batte
+Flop: 8c 6c 3s
+Checks: Batte
+Checks: Fevikuv
+Turn: 9c
+Checks: Batte
+Checks: Fevikuv
+River: Qh
+Checks: Batte
+Checks: Fevikuv
+Pot size: 40
+Showdown Reached
+Shows: Batte, 6h 7d
+Combination: Batte, Pair ( 6h 6c Qh 9c 8c )
+Shows: Fevikuv, 6s 5d
+Combination: Fevikuv, Pair ( 6s 6c Qh 9c 8c )
+Wins: Batte, chips: 20
+Wins: Fevikuv, chips: 20
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Folds: Batte
+Pot size: 30
+Wins: Fevikuv, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Folds: Fevikuv
+Pot size: 30
+Wins: Batte, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Folds: Batte
+Pot size: 30
+Wins: Fevikuv, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Folds: Fevikuv
+Pot size: 30
+Wins: Batte, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Folds: Batte
+Pot size: 30
+Wins: Fevikuv, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Folds: Fevikuv
+Pot size: 30
+Wins: Batte, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Folds: Batte
+Pot size: 30
+Wins: Fevikuv, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Folds: Fevikuv
+Pot size: 30
+Wins: Batte, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Folds: Batte
+Pot size: 30
+Wins: Fevikuv, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Calls: Fevikuv
+Checks: Batte
+Flop: Ac 9d 7c
+Checks: Batte
+Checks: Fevikuv
+Turn: 6h
+Checks: Batte
+Checks: Fevikuv
+River: 8d
+Checks: Batte
+Checks: Fevikuv
+Pot size: 40
+Showdown Reached
+Shows: Batte, Ks 9c
+Combination: Batte, Pair ( 9c 9d Ac Ks 8d )
+Shows: Fevikuv, 2c 2d
+Combination: Fevikuv, Pair ( 2c 2d Ac 9d 8d )
+Wins: Batte, chips: 40
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Folds: Batte
+Pot size: 30
+Wins: Fevikuv, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Folds: Fevikuv
+Pot size: 30
+Wins: Batte, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Raises: Batte, chips: 30
+Folds: Fevikuv
+Pot size: 70
+Wins: Batte, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Folds: Fevikuv
+Pot size: 30
+Wins: Batte, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Folds: Batte
+Pot size: 30
+Wins: Fevikuv, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Calls: Fevikuv
+Checks: Batte
+Flop: 4h 4c Ah
+Raises: Batte, chips: 20
+Calls: Fevikuv
+Turn: 5d
+Raises: Batte, chips: 7050
+Folds: Fevikuv
+Pot size: 7130
+Wins: Batte, chips: 7130
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Calls: Batte
+Raises: Fevikuv, chips: 1850
+Folds: Batte
+Pot size: 1890
+Wins: Fevikuv, chips: 1890
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Folds: Fevikuv
+Pot size: 30
+Wins: Batte, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Folds: Batte
+Pot size: 30
+Wins: Fevikuv, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Calls: Fevikuv
+Checks: Batte
+Flop: Jc 6s 8c
+Checks: Batte
+Checks: Fevikuv
+Turn: Ks
+Checks: Batte
+Checks: Fevikuv
+River: 4h
+Checks: Batte
+Checks: Fevikuv
+Pot size: 40
+Showdown Reached
+Shows: Batte, 4s Ts
+Combination: Batte, Pair ( 4s 4h Ks Jc Ts )
+Shows: Fevikuv, 9d 7d
+Combination: Fevikuv, High Card ( Ks Jc 9d 8c 7d )
+Wins: Batte, chips: 40
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Calls: Batte
+Checks: Fevikuv
+Flop: 7s 4h Qs
+Checks: Fevikuv
+Checks: Batte
+Turn: 5c
+Checks: Fevikuv
+Checks: Batte
+River: 8s
+Raises: Fevikuv, chips: 20
+Calls: Batte
+Pot size: 80
+Showdown Reached
+Shows: Batte, 8d 7c
+Combination: Batte, Two Pair ( 8d 8s 7c 7s Qs )
+Shows: Fevikuv, Jh 6s
+Combination: Fevikuv, Straight ( 8s 7s 6s 5c 4h )
+Wins: Fevikuv, chips: 80
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Calls: Fevikuv
+Raises: Batte, chips: 20
+Folds: Fevikuv
+Pot size: 60
+Wins: Batte, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Folds: Batte
+Pot size: 30
+Wins: Fevikuv, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Calls: Fevikuv
+Checks: Batte
+Flop: 2c 8d 8s
+Checks: Batte
+Checks: Fevikuv
+Turn: 8h
+Checks: Batte
+Raises: Fevikuv, chips: 20
+Calls: Batte
+River: 4c
+Checks: Batte
+Checks: Fevikuv
+Pot size: 80
+Showdown Reached
+Shows: Batte, Ah 4d
+Combination: Batte, Full House ( 8d 8s 8h 4d 4c )
+Shows: Fevikuv, Kc 7c
+Combination: Fevikuv, Three Of A Kind ( 8d 8s 8h Kc 7c )
+Wins: Batte, chips: 80
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Folds: Batte
+Pot size: 30
+Wins: Fevikuv, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Raises: Fevikuv, chips: 30
+Folds: Batte
+Pot size: 70
+Wins: Fevikuv, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Calls: Batte
+Checks: Fevikuv
+Flop: 7c 6h Qh
+Checks: Fevikuv
+Checks: Batte
+Turn: 2d
+Raises: Fevikuv, chips: 20
+Raises: Batte, chips: 20
+Calls: Fevikuv
+River: Ks
+Checks: Fevikuv
+Checks: Batte
+Pot size: 120
+Showdown Reached
+Shows: Batte, 6c 5d
+Combination: Batte, Pair ( 6c 6h Ks Qh 7c )
+Shows: Fevikuv, 5c 2c
+Combination: Fevikuv, Pair ( 2c 2d Ks Qh 7c )
+Wins: Batte, chips: 120
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Calls: Fevikuv
+Checks: Batte
+Flop: 5d 5h 4d
+Checks: Batte
+Checks: Fevikuv
+Turn: 7d
+Checks: Batte
+Checks: Fevikuv
+River: 4h
+Checks: Batte
+Checks: Fevikuv
+Pot size: 40
+Showdown Reached
+Shows: Batte, Kh 6h
+Combination: Batte, Two Pair ( 5d 5h 4d 4h Kh )
+Shows: Fevikuv, Qh Jc
+Combination: Fevikuv, Two Pair ( 5d 5h 4d 4h Qh )
+Wins: Batte, chips: 40
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Calls: Batte
+Checks: Fevikuv
+Flop: 8h 8s 5c
+Checks: Fevikuv
+Raises: Batte, chips: 20
+Folds: Fevikuv
+Pot size: 60
+Wins: Batte, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Folds: Fevikuv
+Pot size: 30
+Wins: Batte, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Folds: Batte
+Pot size: 30
+Wins: Fevikuv, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Folds: Fevikuv
+Pot size: 30
+Wins: Batte, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Folds: Batte
+Pot size: 30
+Wins: Fevikuv, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Calls: Fevikuv
+Checks: Batte
+Flop: 7s Ah Qs
+Checks: Batte
+Checks: Fevikuv
+Turn: Jc
+Raises: Batte, chips: 20
+Raises: Fevikuv, chips: 40
+Calls: Batte
+River: 9h
+Checks: Batte
+Checks: Fevikuv
+Pot size: 160
+Showdown Reached
+Shows: Batte, 4s 7c
+Combination: Batte, Pair ( 7c 7s Ah Qs Jc )
+Shows: Fevikuv, Kh 5h
+Combination: Fevikuv, High Card ( Ah Kh Qs Jc 9h )
+Wins: Batte, chips: 160
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Raises: Batte, chips: 30
+Folds: Fevikuv
+Pot size: 70
+Wins: Batte, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Folds: Fevikuv
+Pot size: 30
+Wins: Batte, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Calls: Batte
+Checks: Fevikuv
+Flop: 2c As 2h
+Raises: Fevikuv, chips: 20
+Raises: Batte, chips: 40
+Raises: Fevikuv, chips: 100
+Raises: Batte, chips: 240
+Raises: Fevikuv, chips: 300
+Raises: Batte, chips: 800
+Raises: Fevikuv, chips: 160
+Calls: Batte
+Turn: 2s
+River: 7h
+Pot size: 3360
+Showdown Reached
+Shows: Batte, Kc 9d
+Combination: Batte, Three Of A Kind ( 2c 2h 2s As Kc )
+Shows: Fevikuv, Tc Ah
+Combination: Fevikuv, Full House ( 2c 2h 2s Ah As )
+Wins: Fevikuv, chips: 3360
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Folds: Fevikuv
+Pot size: 30
+Wins: Batte, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Calls: Batte
+Checks: Fevikuv
+Flop: 3s Tc Ad
+Checks: Fevikuv
+Checks: Batte
+Turn: Ah
+Checks: Fevikuv
+Checks: Batte
+River: 4h
+Checks: Fevikuv
+Raises: Batte, chips: 20
+Folds: Fevikuv
+Pot size: 60
+Wins: Batte, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Raises: Fevikuv, chips: 3310
+Folds: Batte
+Pot size: 3350
+Wins: Fevikuv, chips: 3350
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Calls: Batte
+Checks: Fevikuv
+Flop: Qc 5d 7s
+Checks: Fevikuv
+Checks: Batte
+Turn: 6d
+Checks: Fevikuv
+Raises: Batte, chips: 20
+Calls: Fevikuv
+River: 8s
+Checks: Fevikuv
+Checks: Batte
+Pot size: 80
+Showdown Reached
+Shows: Batte, 9h 9d
+Combination: Batte, Straight ( 9h 8s 7s 6d 5d )
+Shows: Fevikuv, Ad 4s
+Combination: Fevikuv, Straight ( 8s 7s 6d 5d 4s )
+Wins: Batte, chips: 80
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Calls: Fevikuv
+Checks: Batte
+Flop: Ts 2d Tc
+Raises: Batte, chips: 20
+Calls: Fevikuv
+Turn: Kh
+Checks: Batte
+Checks: Fevikuv
+River: 5h
+Checks: Batte
+Checks: Fevikuv
+Pot size: 80
+Showdown Reached
+Shows: Batte, Jc Td
+Combination: Batte, Three Of A Kind ( Td Ts Tc Kh Jc )
+Shows: Fevikuv, Qd Jh
+Combination: Fevikuv, Pair ( Ts Tc Kh Qd Jh )
+Wins: Batte, chips: 80
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Calls: Batte
+Checks: Fevikuv
+Flop: 3h Ad Ks
+Checks: Fevikuv
+Raises: Batte, chips: 20
+Folds: Fevikuv
+Pot size: 60
+Wins: Batte, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Folds: Fevikuv
+Pot size: 30
+Wins: Batte, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Folds: Batte
+Pot size: 30
+Wins: Fevikuv, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Folds: Fevikuv
+Pot size: 30
+Wins: Batte, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Folds: Batte
+Pot size: 30
+Wins: Fevikuv, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Folds: Fevikuv
+Pot size: 30
+Wins: Batte, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Folds: Batte
+Pot size: 30
+Wins: Fevikuv, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Calls: Fevikuv
+Checks: Batte
+Flop: Ks 7d 9d
+Checks: Batte
+Raises: Fevikuv, chips: 20
+Folds: Batte
+Pot size: 60
+Wins: Fevikuv, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Folds: Batte
+Pot size: 30
+Wins: Fevikuv, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Calls: Fevikuv
+Checks: Batte
+Flop: 8d 6s Jh
+Checks: Batte
+Checks: Fevikuv
+Turn: 4d
+Checks: Batte
+Checks: Fevikuv
+River: 3d
+Checks: Batte
+Checks: Fevikuv
+Pot size: 40
+Showdown Reached
+Shows: Batte, 7d 6c
+Combination: Batte, Pair ( 6c 6s Jh 8d 7d )
+Shows: Fevikuv, Kc 7c
+Combination: Fevikuv, High Card ( Kc Jh 8d 7c 6s )
+Wins: Batte, chips: 40
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Folds: Batte
+Pot size: 30
+Wins: Fevikuv, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Folds: Fevikuv
+Pot size: 30
+Wins: Batte, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Folds: Batte
+Pot size: 30
+Wins: Fevikuv, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Calls: Fevikuv
+Checks: Batte
+Flop: Ac 8s Tc
+Checks: Batte
+Raises: Fevikuv, chips: 20
+Raises: Batte, chips: 40
+Calls: Fevikuv
+Turn: Kd
+Raises: Batte, chips: 40
+Folds: Fevikuv
+Pot size: 200
+Wins: Batte, chips: 200
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Calls: Batte
+Checks: Fevikuv
+Flop: As 2h Jc
+Checks: Fevikuv
+Checks: Batte
+Turn: Ac
+Checks: Fevikuv
+Checks: Batte
+River: 8h
+Checks: Fevikuv
+Checks: Batte
+Pot size: 40
+Showdown Reached
+Shows: Batte, 8s 8c
+Combination: Batte, Full House ( 8s 8c 8h As Ac )
+Shows: Fevikuv, 5d Td
+Combination: Fevikuv, Pair ( As Ac Jc Td 8h )
+Wins: Batte, chips: 40
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Folds: Fevikuv
+Pot size: 30
+Wins: Batte, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Folds: Batte
+Pot size: 30
+Wins: Fevikuv, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Calls: Fevikuv
+Checks: Batte
+Flop: Qd 4s Ks
+Checks: Batte
+Raises: Fevikuv, chips: 20
+Raises: Batte, chips: 20
+Calls: Fevikuv
+Turn: 9s
+Checks: Batte
+Checks: Fevikuv
+River: 6c
+Checks: Batte
+Checks: Fevikuv
+Pot size: 120
+Showdown Reached
+Shows: Batte, Td Qc
+Combination: Batte, Pair ( Qc Qd Ks Td 9s )
+Shows: Fevikuv, 4d Ad
+Combination: Fevikuv, Pair ( 4d 4s Ad Ks Qd )
+Wins: Batte, chips: 120
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Calls: Batte
+Checks: Fevikuv
+Flop: Ah 9s Qc
+Checks: Fevikuv
+Checks: Batte
+Turn: Td
+Checks: Fevikuv
+Checks: Batte
+River: Ad
+Checks: Fevikuv
+Checks: Batte
+Pot size: 40
+Showdown Reached
+Shows: Batte, 7d 6c
+Combination: Batte, Pair ( Ah Ad Qc Td 9s )
+Shows: Fevikuv, As 2d
+Combination: Fevikuv, Three Of A Kind ( As Ah Ad Qc Td )
+Wins: Fevikuv, chips: 40
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Folds: Fevikuv
+Pot size: 30
+Wins: Batte, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Folds: Batte
+Pot size: 30
+Wins: Fevikuv, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Calls: Fevikuv
+Checks: Batte
+Flop: 4d 3d Ts
+Checks: Batte
+Raises: Fevikuv, chips: 20
+Calls: Batte
+Turn: 3h
+Checks: Batte
+Checks: Fevikuv
+River: 5s
+Checks: Batte
+Checks: Fevikuv
+Pot size: 80
+Showdown Reached
+Shows: Batte, 4h 9h
+Combination: Batte, Two Pair ( 4h 4d 3d 3h Ts )
+Shows: Fevikuv, Qc Ah
+Combination: Fevikuv, Pair ( 3d 3h Ah Qc Ts )
+Wins: Batte, chips: 80
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Folds: Batte
+Pot size: 30
+Wins: Fevikuv, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Calls: Fevikuv
+Checks: Batte
+Flop: Ad Jc 8c
+Raises: Batte, chips: 20
+Raises: Fevikuv, chips: 3060
+Folds: Batte
+Pot size: 3140
+Wins: Fevikuv, chips: 3140
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Calls: Batte
+Checks: Fevikuv
+Flop: 2c 7s 7h
+Checks: Fevikuv
+Checks: Batte
+Turn: 8c
+Checks: Fevikuv
+Checks: Batte
+River: 5h
+Checks: Fevikuv
+Checks: Batte
+Pot size: 40
+Showdown Reached
+Shows: Batte, Jd 9h
+Combination: Batte, Pair ( 7s 7h Jd 9h 8c )
+Shows: Fevikuv, Ah 5s
+Combination: Fevikuv, Two Pair ( 7s 7h 5s 5h Ah )
+Wins: Fevikuv, chips: 40
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Folds: Fevikuv
+Pot size: 30
+Wins: Batte, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Calls: Batte
+Checks: Fevikuv
+Flop: 4s As 5c
+Checks: Fevikuv
+Checks: Batte
+Turn: Ts
+Checks: Fevikuv
+Checks: Batte
+River: Tc
+Checks: Fevikuv
+Checks: Batte
+Pot size: 40
+Showdown Reached
+Shows: Batte, Qh Qd
+Combination: Batte, Two Pair ( Qh Qd Ts Tc As )
+Shows: Fevikuv, 8d 7h
+Combination: Fevikuv, Pair ( Ts Tc As 8d 7h )
+Wins: Batte, chips: 40
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Folds: Fevikuv
+Pot size: 30
+Wins: Batte, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Calls: Batte
+Checks: Fevikuv
+Flop: 5h Kd 8h
+Raises: Fevikuv, chips: 20
+Calls: Batte
+Turn: 3d
+Checks: Fevikuv
+Checks: Batte
+River: Jh
+Checks: Fevikuv
+Raises: Batte, chips: 20
+Folds: Fevikuv
+Pot size: 100
+Wins: Batte, chips: 100
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Folds: Fevikuv
+Pot size: 30
+Wins: Batte, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Folds: Batte
+Pot size: 30
+Wins: Fevikuv, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Folds: Fevikuv
+Pot size: 30
+Wins: Batte, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Folds: Batte
+Pot size: 30
+Wins: Fevikuv, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Calls: Fevikuv
+Checks: Batte
+Flop: 9h 9c 6c
+Checks: Batte
+Checks: Fevikuv
+Turn: Js
+Checks: Batte
+Checks: Fevikuv
+River: Ac
+Checks: Batte
+Checks: Fevikuv
+Pot size: 40
+Showdown Reached
+Shows: Batte, As 8d
+Combination: Batte, Two Pair ( As Ac 9h 9c Js )
+Shows: Fevikuv, 8h 7h
+Combination: Fevikuv, Pair ( 9h 9c Ac Js 8h )
+Wins: Batte, chips: 40
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Calls: Batte
+Checks: Fevikuv
+Flop: As 4h Jd
+Raises: Fevikuv, chips: 20
+Calls: Batte
+Turn: 7h
+Raises: Fevikuv, chips: 3020
+Folds: Batte
+Pot size: 3100
+Wins: Fevikuv, chips: 3100
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Calls: Fevikuv
+Checks: Batte
+Flop: 8s 6h 3h
+Checks: Batte
+Checks: Fevikuv
+Turn: 7h
+Checks: Batte
+Checks: Fevikuv
+River: 9d
+Raises: Batte, chips: 5880
+Folds: Fevikuv
+Pot size: 5920
+Wins: Batte, chips: 5920
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Folds: Batte
+Pot size: 30
+Wins: Fevikuv, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Folds: Fevikuv
+Pot size: 30
+Wins: Batte, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Calls: Batte
+Checks: Fevikuv
+Flop: 8c 4d 4h
+Checks: Fevikuv
+Checks: Batte
+Turn: 9h
+Checks: Fevikuv
+Checks: Batte
+River: Ac
+Checks: Fevikuv
+Checks: Batte
+Pot size: 40
+Showdown Reached
+Shows: Batte, 6h 7c
+Combination: Batte, Pair ( 4d 4h Ac 9h 8c )
+Shows: Fevikuv, Js 6s
+Combination: Fevikuv, Pair ( 4d 4h Ac Js 9h )
+Wins: Fevikuv, chips: 40
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Folds: Fevikuv
+Pot size: 30
+Wins: Batte, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Folds: Batte
+Pot size: 30
+Wins: Fevikuv, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Folds: Fevikuv
+Pot size: 30
+Wins: Batte, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Folds: Batte
+Pot size: 30
+Wins: Fevikuv, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Raises: Fevikuv, chips: 30
+Folds: Batte
+Pot size: 70
+Wins: Fevikuv, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Folds: Batte
+Pot size: 30
+Wins: Fevikuv, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Calls: Fevikuv
+Checks: Batte
+Flop: 4c 2s 9c
+Checks: Batte
+Checks: Fevikuv
+Turn: Ac
+Checks: Batte
+Checks: Fevikuv
+River: 7s
+Checks: Batte
+Checks: Fevikuv
+Pot size: 40
+Showdown Reached
+Shows: Batte, 8d 6c
+Combination: Batte, High Card ( Ac 9c 8d 7s 6c )
+Shows: Fevikuv, 2d Kd
+Combination: Fevikuv, Pair ( 2d 2s Ac Kd 9c )
+Wins: Fevikuv, chips: 40
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Folds: Batte
+Pot size: 30
+Wins: Fevikuv, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Calls: Fevikuv
+Raises: Batte, chips: 20
+Folds: Fevikuv
+Pot size: 60
+Wins: Batte, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Folds: Batte
+Pot size: 30
+Wins: Fevikuv, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Folds: Fevikuv
+Pot size: 30
+Wins: Batte, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Folds: Batte
+Pot size: 30
+Wins: Fevikuv, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Calls: Fevikuv
+Raises: Batte, chips: 20
+Folds: Fevikuv
+Pot size: 60
+Wins: Batte, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Folds: Batte
+Pot size: 30
+Wins: Fevikuv, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Calls: Fevikuv
+Checks: Batte
+Flop: 7s 3d 6c
+Checks: Batte
+Checks: Fevikuv
+Turn: Kd
+Checks: Batte
+Checks: Fevikuv
+River: 9s
+Raises: Batte, chips: 20
+Raises: Fevikuv, chips: 20
+Calls: Batte
+Pot size: 120
+Showdown Reached
+Shows: Batte, 5h Kh
+Combination: Batte, Pair ( Kh Kd 9s 7s 6c )
+Shows: Fevikuv, 9d 8c
+Combination: Fevikuv, Pair ( 9d 9s Kd 8c 7s )
+Wins: Batte, chips: 120
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Calls: Batte
+Checks: Fevikuv
+Flop: 9s 3s 5s
+Checks: Fevikuv
+Checks: Batte
+Turn: 7c
+Raises: Fevikuv, chips: 20
+Raises: Batte, chips: 20
+Raises: Fevikuv, chips: 3020
+Folds: Batte
+Pot size: 3140
+Wins: Fevikuv, chips: 3140
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Calls: Fevikuv
+Checks: Batte
+Flop: 9c Qs 8h
+Checks: Batte
+Checks: Fevikuv
+Turn: Kd
+Checks: Batte
+Checks: Fevikuv
+River: 8s
+Checks: Batte
+Raises: Fevikuv, chips: 20
+Calls: Batte
+Pot size: 80
+Showdown Reached
+Shows: Batte, Ac 3h
+Combination: Batte, Pair ( 8h 8s Ac Kd Qs )
+Shows: Fevikuv, 4h 4s
+Combination: Fevikuv, Two Pair ( 8h 8s 4h 4s Kd )
+Wins: Fevikuv, chips: 80
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Folds: Batte
+Pot size: 30
+Wins: Fevikuv, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Calls: Fevikuv
+Checks: Batte
+Flop: Kc 9d 7d
+Checks: Batte
+Checks: Fevikuv
+Turn: Qc
+Checks: Batte
+Raises: Fevikuv, chips: 3170
+Folds: Batte
+Pot size: 3210
+Wins: Fevikuv, chips: 3210
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Calls: Batte
+Raises: Fevikuv, chips: 20
+Calls: Batte
+Flop: 3d 7d 8h
+Checks: Fevikuv
+Checks: Batte
+Turn: Tc
+Checks: Fevikuv
+Checks: Batte
+River: 2d
+Raises: Fevikuv, chips: 20
+Folds: Batte
+Pot size: 100
+Wins: Fevikuv, chips: 100
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Raises: Fevikuv, chips: 30
+Folds: Batte
+Pot size: 70
+Wins: Fevikuv, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Folds: Batte
+Pot size: 30
+Wins: Fevikuv, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Folds: Fevikuv
+Pot size: 30
+Wins: Batte, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Folds: Batte
+Pot size: 30
+Wins: Fevikuv, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Folds: Fevikuv
+Pot size: 30
+Wins: Batte, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Calls: Batte
+Checks: Fevikuv
+Flop: 5c 4h 3s
+Checks: Fevikuv
+Checks: Batte
+Turn: Ah
+Checks: Fevikuv
+Checks: Batte
+River: 6c
+Checks: Fevikuv
+Checks: Batte
+Pot size: 40
+Showdown Reached
+Shows: Batte, Js 8h
+Combination: Batte, High Card ( Ah Js 8h 6c 5c )
+Shows: Fevikuv, 2s 8d
+Combination: Fevikuv, Straight ( 6c 5c 4h 3s 2s )
+Wins: Fevikuv, chips: 40
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Folds: Fevikuv
+Pot size: 30
+Wins: Batte, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Folds: Batte
+Pot size: 30
+Wins: Fevikuv, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Folds: Fevikuv
+Pot size: 30
+Wins: Batte, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Folds: Batte
+Pot size: 30
+Wins: Fevikuv, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Calls: Fevikuv
+Checks: Batte
+Flop: Ts Jc Ah
+Checks: Batte
+Raises: Fevikuv, chips: 3270
+Folds: Batte
+Pot size: 3310
+Wins: Fevikuv, chips: 3310
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Raises: Batte, chips: 30
+Folds: Fevikuv
+Pot size: 70
+Wins: Batte, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Folds: Fevikuv
+Pot size: 30
+Wins: Batte, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Calls: Batte
+Checks: Fevikuv
+Flop: 6d Qh 4s
+Checks: Fevikuv
+Raises: Batte, chips: 5700
+Folds: Fevikuv
+Pot size: 5740
+Wins: Batte, chips: 5740
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Folds: Fevikuv
+Pot size: 30
+Wins: Batte, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Folds: Batte
+Pot size: 30
+Wins: Fevikuv, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Folds: Fevikuv
+Pot size: 30
+Wins: Batte, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Calls: Batte
+Checks: Fevikuv
+Flop: 2c 3h 9s
+Raises: Fevikuv, chips: 3230
+Folds: Batte
+Pot size: 3270
+Wins: Fevikuv, chips: 3270
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Calls: Fevikuv
+Checks: Batte
+Flop: 3s Ah 5d
+Checks: Batte
+Checks: Fevikuv
+Turn: 6c
+Raises: Batte, chips: 20
+Folds: Fevikuv
+Pot size: 60
+Wins: Batte, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Folds: Batte
+Pot size: 30
+Wins: Fevikuv, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Calls: Fevikuv
+Checks: Batte
+Flop: Td 3h Qd
+Raises: Batte, chips: 20
+Folds: Fevikuv
+Pot size: 60
+Wins: Batte, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Folds: Batte
+Pot size: 30
+Wins: Fevikuv, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Folds: Fevikuv
+Pot size: 30
+Wins: Batte, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Folds: Batte
+Pot size: 30
+Wins: Fevikuv, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Folds: Fevikuv
+Pot size: 30
+Wins: Batte, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Folds: Batte
+Pot size: 30
+Wins: Fevikuv, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Folds: Fevikuv
+Pot size: 30
+Wins: Batte, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Raises: Batte, chips: 30
+Folds: Fevikuv
+Pot size: 70
+Wins: Batte, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Fevikuv
+Small Blind: Fevikuv, chips: 10
+Big Blind: Batte, chips: 20
+Calls: Fevikuv
+Checks: Batte
+Flop: 4c 7d Kh
+Raises: Batte, chips: 20
+Folds: Fevikuv
+Pot size: 60
+Wins: Batte, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Batte
+Small Blind: Batte, chips: 10
+Big Blind: Fevikuv, chips: 20
+Raises: Batte, chips: 30
+Raises: Fevikuv, chips: 30
+Calls: Batte
+Flop: Js 4h Ks
+Checks: Fevikuv
+Raises: Batte, chips: 5720
+Calls: Fevikuv
+Turn: Ac
+River: 2s
+Pot size: 9000
+Showdown Reached
+Shows: Batte, Jh Jd
+Combination: Batte, Three Of A Kind ( Jh Jd Js Ac Ks )
+Shows: Fevikuv, Kh Qd
+Combination: Fevikuv, Pair ( Kh Ks Ac Qd Js )
+Wins: Batte, chips: 9000
+Quits: Fevikuv, chips: 0
+Ranking: Batte, Place: 1, Score: 8000
+Reveal AI: Batte, AI: Smart
+Ranking: Fevikuv, Place: 2, Score: -1000
+Reveal AI: Fevikuv, AI: Smart
+Ranking: Cheleep, Place: 3, Score: -1000
+Reveal AI: Cheleep, AI: Smart
+Ranking: Hobek, Place: 4, Score: -1000
+Reveal AI: Hobek, AI: Call
+Ranking: Puba, Place: 5, Score: -1000
+Reveal AI: Puba, AI: Smart
+Ranking: Fiso, Place: 6, Score: -1000
+Reveal AI: Fiso, AI: Random
+Ranking: Noros, Place: 7, Score: -1000
+Reveal AI: Noros, AI: Random
+Ranking: Deehawil, Place: 8, Score: -1000
+Reveal AI: Deehawil, AI: Call
+Ranking: Pibonny, Place: 9, Score: -1000
+Reveal AI: Pibonny, AI: Human
+
+Player Stats for Batte, AI: Smart
+General: deals: 271, actions: 503, preflop actions: 236
+Rounds Seen: flops: 96, turns: 80, rivers: 71, showdowns: 60
+Wins: total: 110, showdown: 36, bluff: 74
+Chips: won: 88430, lost: 80730, bought: 1000, forced bets: 3270
+Pre-Flop Stats: VP$IP: 0.232472, PFR: 0.0516605, 3Bet: 0.0369004
+Post-Flop Stats: AF: 2.8, WSD: 0.625, WSDW: 0.6
+
+
+Player Stats for Cheleep, AI: Smart
+General: deals: 139, actions: 333, preflop actions: 131
+Rounds Seen: flops: 113, turns: 97, rivers: 86, showdowns: 69
+Wins: total: 41, showdown: 20, bluff: 21
+Chips: won: 9110, lost: 10110, bought: 1000, forced bets: 1310
+Pre-Flop Stats: VP$IP: 0.352518, PFR: 0.0935252, 3Bet: 0.057554
+Post-Flop Stats: AF: 2.07143, WSD: 0.610619, WSDW: 0.289855
+
+
+Player Stats for Deehawil, AI: Call
+General: deals: 1, actions: 8, preflop actions: 4
+Rounds Seen: flops: 134, turns: 117, rivers: 106, showdowns: 90
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 0
+Pre-Flop Stats: VP$IP: 1, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: 0, WSD: 0.671642, WSDW: 0
+
+
+Player Stats for Fevikuv, AI: Smart
+General: deals: 271, actions: 514, preflop actions: 232
+Rounds Seen: flops: 104, turns: 85, rivers: 71, showdowns: 57
+Wins: total: 108, showdown: 23, bluff: 85
+Chips: won: 40570, lost: 44170, bought: 1000, forced bets: 3270
+Pre-Flop Stats: VP$IP: 0.309963, PFR: 0.0738007, 3Bet: 0.0590406
+Post-Flop Stats: AF: 2.83333, WSD: 0.548077, WSDW: 0.403509
+
+
+Player Stats for Fiso, AI: Random
+General: deals: 3, actions: 10, preflop actions: 5
+Rounds Seen: flops: 133, turns: 116, rivers: 105, showdowns: 89
+Wins: total: 1, showdown: 1, bluff: 0
+Chips: won: 290, lost: 1290, bought: 1000, forced bets: 30
+Pre-Flop Stats: VP$IP: 1, PFR: 0.666667, 3Bet: 0.666667
+Post-Flop Stats: AF: 1.#INF, WSD: 0.669173, WSDW: 0.011236
+
+
+Player Stats for Hobek, AI: Call
+General: deals: 30, actions: 131, preflop actions: 41
+Rounds Seen: flops: 134, turns: 117, rivers: 106, showdowns: 90
+Wins: total: 14, showdown: 13, bluff: 1
+Chips: won: 8320, lost: 15730, bought: 1000, forced bets: 180
+Pre-Flop Stats: VP$IP: 0.833333, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: 0, WSD: 0.671642, WSDW: 0.144444
+
+
+Player Stats for Noros, AI: Random
+General: deals: 3, actions: 9, preflop actions: 6
+Rounds Seen: flops: 133, turns: 115, rivers: 104, showdowns: 88
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1070, bought: 1000, forced bets: 0
+Pre-Flop Stats: VP$IP: 1, PFR: 0.666667, 3Bet: 0.666667
+Post-Flop Stats: AF: 1, WSD: 0.661654, WSDW: 0
+
+
+Player Stats for Pibonny, AI: Human
+General: deals: 1, actions: 5, preflop actions: 3
+Rounds Seen: flops: 134, turns: 117, rivers: 106, showdowns: 90
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 0
+Pre-Flop Stats: VP$IP: 1, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: 1.#INF, WSD: 0.671642, WSDW: 0
+
+
+Player Stats for Puba, AI: Smart
+General: deals: 14, actions: 28, preflop actions: 14
+Rounds Seen: flops: 125, turns: 108, rivers: 97, showdowns: 80
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 3000, bought: 1000, forced bets: 70
+Pre-Flop Stats: VP$IP: 0.142857, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: 2, WSD: 0.64, WSDW: 0
+
+

@@ -1,0 +1,2370 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Pu: Smart
+Senhi: Human
+Gowru: Smart
+Letanny: Random
+Poegoewral: Call
+Retot: Smart
+Larli: Random
+Geerlit: Call
+Wotteer: Smart
+
+Joins: Pu, chips: 1000
+Joins: Senhi, chips: 1000
+Joins: Gowru, chips: 1000
+Joins: Letanny, chips: 1000
+Joins: Poegoewral, chips: 1000
+Joins: Retot, chips: 1000
+Joins: Larli, chips: 1000
+Joins: Geerlit, chips: 1000
+Joins: Wotteer, chips: 1000
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Larli
+Small Blind: Geerlit, chips: 10
+Big Blind: Wotteer, chips: 20
+Folds: Pu
+Folds: Senhi
+Folds: Gowru
+Calls: Letanny
+Calls: Poegoewral
+Calls: Retot
+Folds: Larli
+Calls: Geerlit
+Checks: Wotteer
+Flop: Ts 4h 7s
+Checks: Geerlit
+Checks: Wotteer
+Checks: Letanny
+Checks: Poegoewral
+Checks: Retot
+Turn: Jh
+Checks: Geerlit
+Checks: Wotteer
+Raises: Letanny, chips: 20
+Calls: Poegoewral
+Calls: Retot
+Calls: Geerlit
+Folds: Wotteer
+River: 7d
+Checks: Geerlit
+Raises: Letanny, chips: 20
+Calls: Poegoewral
+Raises: Retot, chips: 40
+Calls: Geerlit
+Raises: Letanny, chips: 80
+Calls: Poegoewral
+Raises: Retot, chips: 180
+Calls: Geerlit
+Raises: Letanny, chips: 360
+Calls: Poegoewral
+Raises: Retot, chips: 280
+Calls: Geerlit
+Folds: Letanny
+Calls: Poegoewral
+Pot size: 3740
+Showdown Reached
+Boasts: Letanny, Ad 2c
+Shows: Poegoewral, 3c Kh
+Combination: Poegoewral, Pair ( 7s 7d Kh Jh Ts )
+Shows: Retot, 9c 8d
+Combination: Retot, Straight ( Jh Ts 9c 8d 7s )
+Shows: Geerlit, 9h Td
+Combination: Geerlit, Two Pair ( Td Ts 7s 7d Jh )
+Wins: Retot, chips: 3740
+Quits: Poegoewral, chips: 0
+Quits: Geerlit, chips: 0
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Wotteer
+Small Blind: Pu, chips: 10
+Big Blind: Senhi, chips: 20
+Calls: Gowru
+Calls: Letanny
+Calls: Retot
+Folds: Larli
+Folds: Wotteer
+Calls: Pu
+Raises: Senhi, chips: 60
+Raises: Gowru, chips: 100
+Calls: Letanny
+Folds: Retot
+Folds: Pu
+Calls: Senhi
+Flop: 5s Kh Tc
+Raises: Senhi, chips: 100
+Calls: Gowru
+Calls: Letanny
+Turn: Ks
+Raises: Senhi, chips: 200
+Calls: Gowru
+River: Kc
+Raises: Senhi, chips: 400
+Raises: Gowru, chips: 120
+Calls: Senhi
+Pot size: 2320
+Showdown Reached
+Shows: Senhi, 2c 4d
+Combination: Senhi, Three Of A Kind ( Kh Ks Kc Tc 5s )
+Shows: Gowru, Ad Kd
+Combination: Gowru, Four Of A Kind ( Kd Kh Ks Kc Ad )
+Shows: Letanny, Ac Qc
+Combination: Letanny, Three Of A Kind ( Kh Ks Kc Ac Qc )
+Wins: Gowru, chips: 2320
+Quits: Senhi, chips: 0
+Quits: Letanny, chips: 0
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Pu
+Small Blind: Gowru, chips: 10
+Big Blind: Retot, chips: 20
+Calls: Larli
+Folds: Wotteer
+Calls: Pu
+Calls: Gowru
+Checks: Retot
+Flop: 3c 5h Tc
+Checks: Gowru
+Checks: Retot
+Checks: Larli
+Raises: Pu, chips: 20
+Folds: Gowru
+Folds: Retot
+Folds: Larli
+Pot size: 100
+Wins: Pu, chips: 100
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Gowru
+Small Blind: Retot, chips: 10
+Big Blind: Larli, chips: 20
+Folds: Wotteer
+Raises: Pu, chips: 40
+Raises: Gowru, chips: 60
+Folds: Retot
+Calls: Larli
+Calls: Pu
+Flop: 8d 2d 3d
+Checks: Larli
+Checks: Pu
+Checks: Gowru
+Turn: 8s
+Checks: Larli
+Checks: Pu
+Raises: Gowru, chips: 100
+Calls: Larli
+Folds: Pu
+River: 5s
+Raises: Larli, chips: 100
+Raises: Gowru, chips: 1980
+Calls: Larli
+Pot size: 3410
+Showdown Reached
+Shows: Gowru, Qs Qc
+Combination: Gowru, Two Pair ( Qs Qc 8d 8s 5s )
+Shows: Larli, 3s Kh
+Combination: Larli, Two Pair ( 8d 8s 3s 3d Kh )
+Wins: Gowru, chips: 3410
+Quits: Larli, chips: 0
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Retot
+Small Blind: Wotteer, chips: 10
+Big Blind: Pu, chips: 20
+Raises: Gowru, chips: 40
+Folds: Retot
+Folds: Wotteer
+Folds: Pu
+Pot size: 90
+Wins: Gowru, chips: 90
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Wotteer
+Small Blind: Pu, chips: 10
+Big Blind: Gowru, chips: 20
+Folds: Retot
+Folds: Wotteer
+Calls: Pu
+Checks: Gowru
+Flop: 7c Jd Ah
+Raises: Pu, chips: 20
+Folds: Gowru
+Pot size: 60
+Wins: Pu, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Pu
+Small Blind: Gowru, chips: 10
+Big Blind: Retot, chips: 20
+Folds: Wotteer
+Folds: Pu
+Folds: Gowru
+Pot size: 30
+Wins: Retot, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Gowru
+Small Blind: Retot, chips: 10
+Big Blind: Wotteer, chips: 20
+Calls: Pu
+Calls: Gowru
+Folds: Retot
+Checks: Wotteer
+Flop: 5h Qs Jc
+Checks: Wotteer
+Checks: Pu
+Checks: Gowru
+Turn: 6s
+Checks: Wotteer
+Checks: Pu
+Checks: Gowru
+River: 4c
+Checks: Wotteer
+Checks: Pu
+Checks: Gowru
+Pot size: 70
+Showdown Reached
+Shows: Pu, Kh Qd
+Combination: Pu, Pair ( Qd Qs Kh Jc 6s )
+Shows: Gowru, 4d 2d
+Combination: Gowru, Pair ( 4d 4c Qs Jc 6s )
+Shows: Wotteer, 7s 9d
+Combination: Wotteer, High Card ( Qs Jc 9d 7s 6s )
+Wins: Pu, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Retot
+Small Blind: Wotteer, chips: 10
+Big Blind: Pu, chips: 20
+Folds: Gowru
+Folds: Retot
+Folds: Wotteer
+Pot size: 30
+Wins: Pu, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Wotteer
+Small Blind: Pu, chips: 10
+Big Blind: Gowru, chips: 20
+Calls: Retot
+Calls: Wotteer
+Calls: Pu
+Checks: Gowru
+Flop: 4h 2c 6h
+Checks: Pu
+Checks: Gowru
+Checks: Retot
+Checks: Wotteer
+Turn: 3c
+Checks: Pu
+Checks: Gowru
+Checks: Retot
+Checks: Wotteer
+River: 3h
+Checks: Pu
+Checks: Gowru
+Checks: Retot
+Checks: Wotteer
+Pot size: 80
+Showdown Reached
+Shows: Pu, 8h Td
+Combination: Pu, Pair ( 3c 3h Td 8h 6h )
+Shows: Gowru, Jd 6c
+Combination: Gowru, Two Pair ( 6c 6h 3c 3h Jd )
+Shows: Retot, Ad 8d
+Combination: Retot, Pair ( 3c 3h Ad 8d 6h )
+Shows: Wotteer, 9h Kc
+Combination: Wotteer, Pair ( 3c 3h Kc 9h 6h )
+Wins: Gowru, chips: 80
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Pu
+Small Blind: Gowru, chips: 10
+Big Blind: Retot, chips: 20
+Folds: Wotteer
+Calls: Pu
+Calls: Gowru
+Checks: Retot
+Flop: Ks Ad 6s
+Checks: Gowru
+Checks: Retot
+Checks: Pu
+Turn: Th
+Checks: Gowru
+Checks: Retot
+Checks: Pu
+River: 6c
+Checks: Gowru
+Checks: Retot
+Checks: Pu
+Pot size: 60
+Showdown Reached
+Shows: Pu, 3s 3h
+Combination: Pu, Two Pair ( 6s 6c 3s 3h Ad )
+Shows: Gowru, 4h 5c
+Combination: Gowru, Pair ( 6s 6c Ad Ks Th )
+Shows: Retot, 2c 8h
+Combination: Retot, Pair ( 6s 6c Ad Ks Th )
+Wins: Pu, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Gowru
+Small Blind: Retot, chips: 10
+Big Blind: Wotteer, chips: 20
+Calls: Pu
+Folds: Gowru
+Folds: Retot
+Checks: Wotteer
+Flop: Td Jh 5s
+Checks: Wotteer
+Raises: Pu, chips: 20
+Folds: Wotteer
+Pot size: 70
+Wins: Pu, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Retot
+Small Blind: Wotteer, chips: 10
+Big Blind: Pu, chips: 20
+Calls: Gowru
+Calls: Retot
+Folds: Wotteer
+Checks: Pu
+Flop: 3h 8c 5c
+Checks: Pu
+Checks: Gowru
+Checks: Retot
+Turn: Kc
+Checks: Pu
+Checks: Gowru
+Checks: Retot
+River: 7d
+Checks: Pu
+Checks: Gowru
+Checks: Retot
+Pot size: 70
+Showdown Reached
+Shows: Pu, 3d Ts
+Combination: Pu, Pair ( 3d 3h Kc Ts 8c )
+Shows: Gowru, Qd Jc
+Combination: Gowru, High Card ( Kc Qd Jc 8c 7d )
+Shows: Retot, Td 9s
+Combination: Retot, High Card ( Kc Td 9s 8c 7d )
+Wins: Pu, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Wotteer
+Small Blind: Pu, chips: 10
+Big Blind: Gowru, chips: 20
+Calls: Retot
+Calls: Wotteer
+Calls: Pu
+Checks: Gowru
+Flop: 2d 8d 7s
+Checks: Pu
+Checks: Gowru
+Checks: Retot
+Checks: Wotteer
+Turn: 6s
+Checks: Pu
+Checks: Gowru
+Raises: Retot, chips: 20
+Folds: Wotteer
+Folds: Pu
+Folds: Gowru
+Pot size: 100
+Wins: Retot, chips: 100
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Pu
+Small Blind: Gowru, chips: 10
+Big Blind: Retot, chips: 20
+Folds: Wotteer
+Folds: Pu
+Folds: Gowru
+Pot size: 30
+Wins: Retot, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Gowru
+Small Blind: Retot, chips: 10
+Big Blind: Wotteer, chips: 20
+Folds: Pu
+Folds: Gowru
+Folds: Retot
+Pot size: 30
+Wins: Wotteer, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Retot
+Small Blind: Wotteer, chips: 10
+Big Blind: Pu, chips: 20
+Folds: Gowru
+Folds: Retot
+Folds: Wotteer
+Pot size: 30
+Wins: Pu, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Wotteer
+Small Blind: Pu, chips: 10
+Big Blind: Gowru, chips: 20
+Calls: Retot
+Folds: Wotteer
+Raises: Pu, chips: 30
+Folds: Gowru
+Raises: Retot, chips: 30
+Raises: Pu, chips: 50
+Folds: Retot
+Pot size: 230
+Wins: Pu, chips: 230
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Pu
+Small Blind: Gowru, chips: 10
+Big Blind: Retot, chips: 20
+Folds: Wotteer
+Calls: Pu
+Folds: Gowru
+Checks: Retot
+Flop: Ah 8h Kh
+Checks: Retot
+Raises: Pu, chips: 20
+Calls: Retot
+Turn: Qh
+Raises: Retot, chips: 20
+Folds: Pu
+Pot size: 110
+Wins: Retot, chips: 110
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Gowru
+Small Blind: Retot, chips: 10
+Big Blind: Wotteer, chips: 20
+Calls: Pu
+Folds: Gowru
+Folds: Retot
+Checks: Wotteer
+Flop: Td Ts Qh
+Checks: Wotteer
+Checks: Pu
+Turn: 5h
+Checks: Wotteer
+Checks: Pu
+River: Ad
+Checks: Wotteer
+Checks: Pu
+Pot size: 50
+Showdown Reached
+Shows: Pu, 6c 5s
+Combination: Pu, Two Pair ( Td Ts 5s 5h Ad )
+Shows: Wotteer, Kd 9c
+Combination: Wotteer, Pair ( Td Ts Ad Kd Qh )
+Wins: Pu, chips: 50
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Retot
+Small Blind: Wotteer, chips: 10
+Big Blind: Pu, chips: 20
+Folds: Gowru
+Calls: Retot
+Calls: Wotteer
+Checks: Pu
+Flop: 4s 3s Td
+Checks: Wotteer
+Checks: Pu
+Checks: Retot
+Turn: 2c
+Checks: Wotteer
+Checks: Pu
+Checks: Retot
+River: 5h
+Checks: Wotteer
+Checks: Pu
+Checks: Retot
+Pot size: 60
+Showdown Reached
+Shows: Pu, 6h Kh
+Combination: Pu, Straight ( 6h 5h 4s 3s 2c )
+Shows: Retot, 7h Jh
+Combination: Retot, High Card ( Jh Td 7h 5h 4s )
+Shows: Wotteer, 7c 8d
+Combination: Wotteer, High Card ( Td 8d 7c 5h 4s )
+Wins: Pu, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Wotteer
+Small Blind: Pu, chips: 10
+Big Blind: Gowru, chips: 20
+Folds: Retot
+Calls: Wotteer
+Raises: Pu, chips: 30
+Calls: Gowru
+Calls: Wotteer
+Flop: Jd As 2h
+Checks: Pu
+DEBUG MESSAGE: INVALID ACTION FROM Gowru (2 0)
+Folds: Gowru
+DEBUG MESSAGE: INVALID ACTION FROM Wotteer (2 0)
+Folds: Wotteer
+Pot size: 150
+Wins: Pu, chips: 150
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Pu
+Small Blind: Gowru, chips: 10
+Big Blind: Retot, chips: 20
+Calls: Wotteer
+Calls: Pu
+Calls: Gowru
+Checks: Retot
+Flop: Qc 6h Jc
+Checks: Gowru
+Checks: Retot
+Checks: Wotteer
+Checks: Pu
+Turn: Jd
+Checks: Gowru
+Checks: Retot
+Checks: Wotteer
+Checks: Pu
+River: Th
+Raises: Gowru, chips: 20
+Folds: Retot
+Folds: Wotteer
+Folds: Pu
+Pot size: 100
+Wins: Gowru, chips: 100
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Gowru
+Small Blind: Retot, chips: 10
+Big Blind: Wotteer, chips: 20
+Folds: Pu
+Folds: Gowru
+Folds: Retot
+Pot size: 30
+Wins: Wotteer, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Retot
+Small Blind: Wotteer, chips: 10
+Big Blind: Pu, chips: 20
+Folds: Gowru
+Folds: Retot
+Folds: Wotteer
+Pot size: 30
+Wins: Pu, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Wotteer
+Small Blind: Pu, chips: 10
+Big Blind: Gowru, chips: 20
+Calls: Retot
+Folds: Wotteer
+Folds: Pu
+Checks: Gowru
+Flop: 4s 2d 8s
+Checks: Gowru
+Checks: Retot
+Turn: 2h
+Checks: Gowru
+Checks: Retot
+River: Qs
+Checks: Gowru
+Raises: Retot, chips: 20
+Folds: Gowru
+Pot size: 70
+Wins: Retot, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Pu
+Small Blind: Gowru, chips: 10
+Big Blind: Retot, chips: 20
+Folds: Wotteer
+Calls: Pu
+Calls: Gowru
+Checks: Retot
+Flop: 2d 9s Jh
+Checks: Gowru
+Checks: Retot
+Checks: Pu
+Turn: 2s
+Checks: Gowru
+Checks: Retot
+Checks: Pu
+River: Ac
+Checks: Gowru
+Checks: Retot
+Checks: Pu
+Pot size: 60
+Showdown Reached
+Shows: Pu, Jc Qh
+Combination: Pu, Two Pair ( Jc Jh 2d 2s Ac )
+Shows: Gowru, 6d 5s
+Combination: Gowru, Pair ( 2d 2s Ac Jh 9s )
+Shows: Retot, 6h 3h
+Combination: Retot, Pair ( 2d 2s Ac Jh 9s )
+Wins: Pu, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Gowru
+Small Blind: Retot, chips: 10
+Big Blind: Wotteer, chips: 20
+Calls: Pu
+Calls: Gowru
+Folds: Retot
+Checks: Wotteer
+Flop: 9d Tc 7s
+Checks: Wotteer
+Checks: Pu
+Checks: Gowru
+Turn: 5h
+Checks: Wotteer
+Checks: Pu
+Checks: Gowru
+River: 5d
+Checks: Wotteer
+Checks: Pu
+Checks: Gowru
+Pot size: 70
+Showdown Reached
+Shows: Pu, 4s Ks
+Combination: Pu, Pair ( 5h 5d Ks Tc 9d )
+Shows: Gowru, Qh Ad
+Combination: Gowru, Pair ( 5h 5d Ad Qh Tc )
+Shows: Wotteer, Qs Kc
+Combination: Wotteer, Pair ( 5h 5d Kc Qs Tc )
+Wins: Gowru, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Retot
+Small Blind: Wotteer, chips: 10
+Big Blind: Pu, chips: 20
+Calls: Gowru
+Calls: Retot
+Folds: Wotteer
+Checks: Pu
+Flop: 2d Jc Js
+Checks: Pu
+Checks: Gowru
+Checks: Retot
+Turn: 6c
+Checks: Pu
+Checks: Gowru
+Checks: Retot
+River: Ah
+Checks: Pu
+Checks: Gowru
+Checks: Retot
+Pot size: 70
+Showdown Reached
+Shows: Pu, Td Th
+Combination: Pu, Two Pair ( Jc Js Td Th Ah )
+Shows: Gowru, As 7s
+Combination: Gowru, Two Pair ( As Ah Jc Js 7s )
+Shows: Retot, Ks 8s
+Combination: Retot, Pair ( Jc Js Ah Ks 8s )
+Wins: Gowru, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Wotteer
+Small Blind: Pu, chips: 10
+Big Blind: Gowru, chips: 20
+Folds: Retot
+Folds: Wotteer
+Calls: Pu
+Checks: Gowru
+Flop: 7h Th Td
+Checks: Pu
+Checks: Gowru
+Turn: 5s
+Checks: Pu
+Checks: Gowru
+River: Jh
+Raises: Pu, chips: 1260
+Folds: Gowru
+Pot size: 1300
+Wins: Pu, chips: 1300
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Pu
+Small Blind: Gowru, chips: 10
+Big Blind: Retot, chips: 20
+Calls: Wotteer
+Calls: Pu
+Folds: Gowru
+Checks: Retot
+Flop: Qc 5d 2c
+Checks: Retot
+Checks: Wotteer
+Checks: Pu
+Turn: 3d
+Checks: Retot
+Checks: Wotteer
+Checks: Pu
+River: Ac
+Checks: Retot
+Checks: Wotteer
+Checks: Pu
+Pot size: 70
+Showdown Reached
+Shows: Pu, Jh Kc
+Combination: Pu, High Card ( Ac Kc Qc Jh 5d )
+Shows: Retot, Qs 7h
+Combination: Retot, Pair ( Qs Qc Ac 7h 5d )
+Shows: Wotteer, 9s 8c
+Combination: Wotteer, High Card ( Ac Qc 9s 8c 5d )
+Wins: Retot, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Gowru
+Small Blind: Retot, chips: 10
+Big Blind: Wotteer, chips: 20
+Folds: Pu
+Folds: Gowru
+Calls: Retot
+Checks: Wotteer
+Flop: 5d Qc Qs
+Raises: Retot, chips: 20
+Folds: Wotteer
+Pot size: 60
+Wins: Retot, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Retot
+Small Blind: Wotteer, chips: 10
+Big Blind: Pu, chips: 20
+Calls: Gowru
+Folds: Retot
+Calls: Wotteer
+Checks: Pu
+Flop: 9h 7c 7d
+Checks: Wotteer
+Checks: Pu
+Checks: Gowru
+Turn: Ks
+Checks: Wotteer
+Checks: Pu
+Checks: Gowru
+River: 4s
+Checks: Wotteer
+Checks: Pu
+Checks: Gowru
+Pot size: 60
+Showdown Reached
+Shows: Pu, Td 2s
+Combination: Pu, Pair ( 7c 7d Ks Td 9h )
+Shows: Gowru, Th Qc
+Combination: Gowru, Pair ( 7c 7d Ks Qc Th )
+Shows: Wotteer, Ah Js
+Combination: Wotteer, Pair ( 7c 7d Ah Ks Js )
+Wins: Wotteer, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Wotteer
+Small Blind: Pu, chips: 10
+Big Blind: Gowru, chips: 20
+Folds: Retot
+Raises: Wotteer, chips: 20
+Folds: Pu
+Calls: Gowru
+Flop: Qs 3s 2d
+Checks: Gowru
+Checks: Wotteer
+Turn: Jh
+Checks: Gowru
+Checks: Wotteer
+River: Kd
+Checks: Gowru
+Raises: Wotteer, chips: 690
+Folds: Gowru
+Pot size: 780
+Wins: Wotteer, chips: 780
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Pu
+Small Blind: Gowru, chips: 10
+Big Blind: Retot, chips: 20
+Folds: Wotteer
+Folds: Pu
+Folds: Gowru
+Pot size: 30
+Wins: Retot, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Gowru
+Small Blind: Retot, chips: 10
+Big Blind: Wotteer, chips: 20
+Raises: Pu, chips: 20
+Folds: Gowru
+Folds: Retot
+Folds: Wotteer
+Pot size: 70
+Wins: Pu, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Retot
+Small Blind: Wotteer, chips: 10
+Big Blind: Pu, chips: 20
+Folds: Gowru
+Raises: Retot, chips: 20
+Folds: Wotteer
+Folds: Pu
+Pot size: 70
+Wins: Retot, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Wotteer
+Small Blind: Pu, chips: 10
+Big Blind: Gowru, chips: 20
+Folds: Retot
+Calls: Wotteer
+Calls: Pu
+Checks: Gowru
+Flop: 8h 4s Kd
+Checks: Pu
+Raises: Gowru, chips: 20
+Folds: Wotteer
+Folds: Pu
+Pot size: 80
+Wins: Gowru, chips: 80
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Pu
+Small Blind: Gowru, chips: 10
+Big Blind: Retot, chips: 20
+Folds: Wotteer
+Folds: Pu
+Folds: Gowru
+Pot size: 30
+Wins: Retot, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Gowru
+Small Blind: Retot, chips: 10
+Big Blind: Wotteer, chips: 20
+Folds: Pu
+Calls: Gowru
+Folds: Retot
+Checks: Wotteer
+Flop: 9s Tc 2h
+Checks: Wotteer
+Checks: Gowru
+Turn: Kc
+Checks: Wotteer
+Raises: Gowru, chips: 20
+Calls: Wotteer
+River: 3s
+Raises: Wotteer, chips: 20
+Calls: Gowru
+Pot size: 130
+Showdown Reached
+Shows: Gowru, 8h 9h
+Combination: Gowru, Pair ( 9h 9s Kc Tc 8h )
+Shows: Wotteer, 8c 8s
+Combination: Wotteer, Pair ( 8c 8s Kc Tc 9s )
+Wins: Gowru, chips: 130
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Retot
+Small Blind: Wotteer, chips: 10
+Big Blind: Pu, chips: 20
+Calls: Gowru
+Folds: Retot
+Calls: Wotteer
+Checks: Pu
+Flop: Tc 4c 8s
+Checks: Wotteer
+Checks: Pu
+Raises: Gowru, chips: 20
+Folds: Wotteer
+Calls: Pu
+Turn: 5s
+Checks: Pu
+Checks: Gowru
+River: 4s
+Checks: Pu
+Checks: Gowru
+Pot size: 100
+Showdown Reached
+Shows: Pu, 3c Ts
+Combination: Pu, Two Pair ( Ts Tc 4c 4s 8s )
+Shows: Gowru, Kc 6c
+Combination: Gowru, Pair ( 4c 4s Kc Tc 8s )
+Wins: Pu, chips: 100
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Wotteer
+Small Blind: Pu, chips: 10
+Big Blind: Gowru, chips: 20
+Folds: Retot
+Folds: Wotteer
+Folds: Pu
+Pot size: 30
+Wins: Gowru, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Pu
+Small Blind: Gowru, chips: 10
+Big Blind: Retot, chips: 20
+Folds: Wotteer
+Calls: Pu
+Calls: Gowru
+Checks: Retot
+Flop: Th 6c 6h
+Checks: Gowru
+Raises: Retot, chips: 20
+Raises: Pu, chips: 1250
+Folds: Gowru
+Raises: Retot, chips: 730
+Turn: 7h
+River: 5d
+Pot size: 3330
+Showdown Reached
+Shows: Pu, 6s 9s
+Combination: Pu, Three Of A Kind ( 6s 6c 6h Th 9s )
+Shows: Retot, 6d Qh
+Combination: Retot, Three Of A Kind ( 6d 6c 6h Qh Th )
+Wins: Retot, chips: 3330
+Quits: Pu, chips: 0
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Gowru
+Small Blind: Retot, chips: 10
+Big Blind: Wotteer, chips: 20
+Calls: Gowru
+Folds: Retot
+Checks: Wotteer
+Flop: 6d 2c 5h
+Checks: Wotteer
+Checks: Gowru
+Turn: 4d
+Checks: Wotteer
+Checks: Gowru
+River: 3h
+Checks: Wotteer
+Checks: Gowru
+Pot size: 50
+Showdown Reached
+Shows: Gowru, 8s 6s
+Combination: Gowru, Straight ( 6s 5h 4d 3h 2c )
+Shows: Wotteer, Qh Td
+Combination: Wotteer, Straight ( 6d 5h 4d 3h 2c )
+Wins: Gowru, chips: 25
+Wins: Wotteer, chips: 25
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Retot
+Small Blind: Wotteer, chips: 10
+Big Blind: Gowru, chips: 20
+Folds: Retot
+Folds: Wotteer
+Pot size: 30
+Wins: Gowru, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Wotteer
+Small Blind: Gowru, chips: 10
+Big Blind: Retot, chips: 20
+Calls: Wotteer
+Calls: Gowru
+Checks: Retot
+Flop: Js 4c 2s
+Checks: Gowru
+Checks: Retot
+Checks: Wotteer
+Turn: 6h
+Checks: Gowru
+Raises: Retot, chips: 20
+Folds: Wotteer
+Raises: Gowru, chips: 40
+Raises: Retot, chips: 4890
+Folds: Gowru
+Pot size: 5070
+Wins: Retot, chips: 5070
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Gowru
+Small Blind: Retot, chips: 10
+Big Blind: Wotteer, chips: 20
+Folds: Gowru
+Folds: Retot
+Pot size: 30
+Wins: Wotteer, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Retot
+Small Blind: Wotteer, chips: 10
+Big Blind: Gowru, chips: 20
+Raises: Retot, chips: 20
+Folds: Wotteer
+Folds: Gowru
+Pot size: 70
+Wins: Retot, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Wotteer
+Small Blind: Gowru, chips: 10
+Big Blind: Retot, chips: 20
+Raises: Wotteer, chips: 40
+Calls: Gowru
+Raises: Retot, chips: 60
+Raises: Wotteer, chips: 80
+Raises: Gowru, chips: 220
+Raises: Retot, chips: 500
+Calls: Wotteer
+Calls: Gowru
+Flop: 6d 6s Qh
+Checks: Gowru
+Checks: Retot
+Turn: Qs
+Checks: Gowru
+Checks: Retot
+River: 8d
+Checks: Gowru
+Checks: Retot
+Pot size: 2465
+Showdown Reached
+Shows: Gowru, 9d 9s
+Combination: Gowru, Two Pair ( Qh Qs 9d 9s 8d )
+Shows: Retot, Kd Ks
+Combination: Retot, Two Pair ( Kd Ks Qh Qs 8d )
+Shows: Wotteer, Jc Tc
+Combination: Wotteer, Two Pair ( Qh Qs 6d 6s Jc )
+Wins: Retot, chips: 2465
+Quits: Wotteer, chips: 0
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Gowru
+Small Blind: Gowru, chips: 10
+Big Blind: Retot, chips: 20
+Folds: Gowru
+Pot size: 30
+Wins: Retot, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Retot
+Small Blind: Retot, chips: 10
+Big Blind: Gowru, chips: 20
+Folds: Retot
+Pot size: 30
+Wins: Gowru, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Gowru
+Small Blind: Gowru, chips: 10
+Big Blind: Retot, chips: 20
+Folds: Gowru
+Pot size: 30
+Wins: Retot, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Retot
+Small Blind: Retot, chips: 10
+Big Blind: Gowru, chips: 20
+Folds: Retot
+Pot size: 30
+Wins: Gowru, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Gowru
+Small Blind: Gowru, chips: 10
+Big Blind: Retot, chips: 20
+Folds: Gowru
+Pot size: 30
+Wins: Retot, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Retot
+Small Blind: Retot, chips: 10
+Big Blind: Gowru, chips: 20
+Folds: Retot
+Pot size: 30
+Wins: Gowru, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Gowru
+Small Blind: Gowru, chips: 10
+Big Blind: Retot, chips: 20
+Folds: Gowru
+Pot size: 30
+Wins: Retot, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Retot
+Small Blind: Retot, chips: 10
+Big Blind: Gowru, chips: 20
+Folds: Retot
+Pot size: 30
+Wins: Gowru, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Gowru
+Small Blind: Gowru, chips: 10
+Big Blind: Retot, chips: 20
+Calls: Gowru
+Raises: Retot, chips: 6615
+Folds: Gowru
+Pot size: 6655
+Wins: Retot, chips: 6655
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Retot
+Small Blind: Retot, chips: 10
+Big Blind: Gowru, chips: 20
+Folds: Retot
+Pot size: 30
+Wins: Gowru, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Gowru
+Small Blind: Gowru, chips: 10
+Big Blind: Retot, chips: 20
+Calls: Gowru
+Raises: Retot, chips: 20
+Calls: Gowru
+Flop: 3c Jc Ah
+Raises: Retot, chips: 20
+Raises: Gowru, chips: 40
+Calls: Retot
+Turn: 2s
+Raises: Retot, chips: 6545
+Calls: Gowru
+River: Ts
+Pot size: 9000
+Showdown Reached
+Shows: Gowru, Ad Qc
+Combination: Gowru, Pair ( Ad Ah Qc Jc Ts )
+Shows: Retot, 4c 5c
+Combination: Retot, Straight ( 5c 4c 3c 2s Ah )
+Wins: Retot, chips: 9000
+Quits: Gowru, chips: 0
+Ranking: Retot, Place: 1, Score: 8000
+Reveal AI: Retot, AI: Smart
+Ranking: Gowru, Place: 2, Score: -1000
+Reveal AI: Gowru, AI: Smart
+Ranking: Wotteer, Place: 3, Score: -1000
+Reveal AI: Wotteer, AI: Smart
+Ranking: Pu, Place: 4, Score: -1000
+Reveal AI: Pu, AI: Smart
+Ranking: Larli, Place: 5, Score: -1000
+Reveal AI: Larli, AI: Random
+Ranking: Letanny, Place: 6, Score: -1000
+Reveal AI: Letanny, AI: Random
+Ranking: Senhi, Place: 7, Score: -1000
+Reveal AI: Senhi, AI: Human
+Ranking: Geerlit, Place: 8, Score: -1000
+Reveal AI: Geerlit, AI: Call
+Ranking: Poegoewral, Place: 9, Score: -1000
+Reveal AI: Poegoewral, AI: Call
+
+Player Stats for Geerlit, AI: Call
+General: deals: 1, actions: 8, preflop actions: 1
+Rounds Seen: flops: 33, turns: 27, rivers: 24, showdowns: 20
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 10
+Pre-Flop Stats: VP$IP: 1, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: 0, WSD: 0.606061, WSDW: 0
+
+
+Player Stats for Gowru, AI: Smart
+General: deals: 60, actions: 130, preflop actions: 58
+Rounds Seen: flops: 26, turns: 21, rivers: 19, showdowns: 15
+Wins: total: 17, showdown: 7, bluff: 10
+Chips: won: 6585, lost: 11875, bought: 1000, forced bets: 530
+Pre-Flop Stats: VP$IP: 0.366667, PFR: 0.0666667, 3Bet: 0.0666667
+Post-Flop Stats: AF: 2.25, WSD: 0.576923, WSDW: 0.466667
+
+
+Player Stats for Larli, AI: Random
+General: deals: 4, actions: 11, preflop actions: 4
+Rounds Seen: flops: 31, turns: 25, rivers: 22, showdowns: 18
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 2320, bought: 1000, forced bets: 20
+Pre-Flop Stats: VP$IP: 0.5, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: 0.5, WSD: 0.580645, WSDW: 0
+
+
+Player Stats for Letanny, AI: Random
+General: deals: 2, actions: 10, preflop actions: 3
+Rounds Seen: flops: 33, turns: 27, rivers: 24, showdowns: 19
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 0
+Pre-Flop Stats: VP$IP: 1, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: 4, WSD: 0.575758, WSDW: 0
+
+
+Player Stats for Poegoewral, AI: Call
+General: deals: 1, actions: 7, preflop actions: 1
+Rounds Seen: flops: 33, turns: 27, rivers: 24, showdowns: 20
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 0
+Pre-Flop Stats: VP$IP: 1, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: 0, WSD: 0.606061, WSDW: 0
+
+
+Player Stats for Pu, AI: Smart
+General: deals: 43, actions: 101, preflop actions: 43
+Rounds Seen: flops: 27, turns: 22, rivers: 18, showdowns: 16
+Wins: total: 17, showdown: 7, bluff: 10
+Chips: won: 2540, lost: 3540, bought: 1000, forced bets: 310
+Pre-Flop Stats: VP$IP: 0.488372, PFR: 0.0930233, 3Bet: 0.0930233
+Post-Flop Stats: AF: 6, WSD: 0.592593, WSDW: 0.4375
+
+
+Player Stats for Retot, AI: Smart
+General: deals: 60, actions: 107, preflop actions: 56
+Rounds Seen: flops: 18, turns: 16, rivers: 13, showdowns: 11
+Wins: total: 21, showdown: 5, bluff: 16
+Chips: won: 31050, lost: 23050, bought: 1000, forced bets: 550
+Pre-Flop Stats: VP$IP: 0.25, PFR: 0.1, 3Bet: 0.0666667
+Post-Flop Stats: AF: 4.33333, WSD: 0.611111, WSDW: 0.454545
+
+
+Player Stats for Senhi, AI: Human
+General: deals: 2, actions: 7, preflop actions: 3
+Rounds Seen: flops: 32, turns: 26, rivers: 23, showdowns: 19
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 20
+Pre-Flop Stats: VP$IP: 0.5, PFR: 0.5, 3Bet: 0
+Post-Flop Stats: AF: 3, WSD: 0.59375, WSDW: 0
+
+
+Player Stats for Wotteer, AI: Smart
+General: deals: 49, actions: 97, preflop actions: 49
+Rounds Seen: flops: 21, turns: 16, rivers: 13, showdowns: 11
+Wins: total: 6, showdown: 2, bluff: 4
+Chips: won: 955, lost: 2250, bought: 1000, forced bets: 360
+Pre-Flop Stats: VP$IP: 0.244898, PFR: 0.0408163, 3Bet: 0.0408163
+Post-Flop Stats: AF: 2, WSD: 0.52381, WSDW: 0.181818
+
+
+Date: 2026/04/30 10:10:51
+
+The game begins. The AI's of the players are: 
+Pu: Smart
+Senhi: Human
+Gowru: Smart
+Letanny: Random
+Poegoewral: Call
+Retot: Smart
+Larli: Random
+Geerlit: Call
+Wotteer: Smart
+
+Joins: Pu, chips: 1000
+Joins: Senhi, chips: 1000
+Joins: Gowru, chips: 1000
+Joins: Letanny, chips: 1000
+Joins: Poegoewral, chips: 1000
+Joins: Retot, chips: 1000
+Joins: Larli, chips: 1000
+Joins: Geerlit, chips: 1000
+Joins: Wotteer, chips: 1000
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Larli
+Small Blind: Geerlit, chips: 10
+Big Blind: Wotteer, chips: 20
+Folds: Pu
+Folds: Senhi
+Folds: Gowru
+Calls: Letanny
+Calls: Poegoewral
+Calls: Retot
+Folds: Larli
+Calls: Geerlit
+Checks: Wotteer
+Flop: Ts 4h 7s
+Checks: Geerlit
+Checks: Wotteer
+Checks: Letanny
+Checks: Poegoewral
+Checks: Retot
+Turn: Jh
+Checks: Geerlit
+Checks: Wotteer
+Raises: Letanny, chips: 20
+Calls: Poegoewral
+Calls: Retot
+Calls: Geerlit
+Folds: Wotteer
+River: 7d
+Checks: Geerlit
+Raises: Letanny, chips: 20
+Calls: Poegoewral
+Raises: Retot, chips: 40
+Calls: Geerlit
+Raises: Letanny, chips: 80
+Calls: Poegoewral
+Raises: Retot, chips: 180
+Calls: Geerlit
+Raises: Letanny, chips: 360
+Calls: Poegoewral
+Raises: Retot, chips: 280
+Calls: Geerlit
+Folds: Letanny
+Calls: Poegoewral
+Pot size: 3740
+Showdown Reached
+Boasts: Letanny, Ad 2c
+Shows: Poegoewral, 3c Kh
+Combination: Poegoewral, Pair ( 7s 7d Kh Jh Ts )
+Shows: Retot, 9c 8d
+Combination: Retot, Straight ( Jh Ts 9c 8d 7s )
+Shows: Geerlit, 9h Td
+Combination: Geerlit, Two Pair ( Td Ts 7s 7d Jh )
+Wins: Retot, chips: 3740
+Quits: Poegoewral, chips: 0
+Quits: Geerlit, chips: 0
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Wotteer
+Small Blind: Pu, chips: 10
+Big Blind: Senhi, chips: 20
+Calls: Gowru
+Calls: Letanny
+Calls: Retot
+Folds: Larli
+Folds: Wotteer
+Calls: Pu
+Raises: Senhi, chips: 60
+Raises: Gowru, chips: 100
+Calls: Letanny
+Folds: Retot
+Folds: Pu
+Calls: Senhi
+Flop: 5s Kh Tc
+Raises: Senhi, chips: 100
+Calls: Gowru
+Calls: Letanny
+Turn: Ks
+Raises: Senhi, chips: 200
+Calls: Gowru
+River: Kc
+Raises: Senhi, chips: 400
+Raises: Gowru, chips: 120
+Calls: Senhi
+Pot size: 2320
+Showdown Reached
+Shows: Senhi, 2c 4d
+Combination: Senhi, Three Of A Kind ( Kh Ks Kc Tc 5s )
+Shows: Gowru, Ad Kd
+Combination: Gowru, Four Of A Kind ( Kd Kh Ks Kc Ad )
+Shows: Letanny, Ac Qc
+Combination: Letanny, Three Of A Kind ( Kh Ks Kc Ac Qc )
+Wins: Gowru, chips: 2320
+Quits: Senhi, chips: 0
+Quits: Letanny, chips: 0
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Pu
+Small Blind: Gowru, chips: 10
+Big Blind: Retot, chips: 20
+Calls: Larli
+Folds: Wotteer
+Calls: Pu
+Calls: Gowru
+Checks: Retot
+Flop: 3c 5h Tc
+Checks: Gowru
+Checks: Retot
+Checks: Larli
+Raises: Pu, chips: 20
+Folds: Gowru
+Folds: Retot
+Folds: Larli
+Pot size: 100
+Wins: Pu, chips: 100
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Gowru
+Small Blind: Retot, chips: 10
+Big Blind: Larli, chips: 20
+Folds: Wotteer
+Raises: Pu, chips: 40
+Raises: Gowru, chips: 60
+Folds: Retot
+Calls: Larli
+Calls: Pu
+Flop: 8d 2d 3d
+Checks: Larli
+Checks: Pu
+Checks: Gowru
+Turn: 8s
+Checks: Larli
+Checks: Pu
+Raises: Gowru, chips: 100
+Calls: Larli
+Folds: Pu
+River: 5s
+Raises: Larli, chips: 100
+Raises: Gowru, chips: 1980
+Calls: Larli
+Pot size: 3410
+Showdown Reached
+Shows: Gowru, Qs Qc
+Combination: Gowru, Two Pair ( Qs Qc 8d 8s 5s )
+Shows: Larli, 3s Kh
+Combination: Larli, Two Pair ( 8d 8s 3s 3d Kh )
+Wins: Gowru, chips: 3410
+Quits: Larli, chips: 0
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Retot
+Small Blind: Wotteer, chips: 10
+Big Blind: Pu, chips: 20
+Raises: Gowru, chips: 40
+Folds: Retot
+Folds: Wotteer
+Folds: Pu
+Pot size: 90
+Wins: Gowru, chips: 90
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Wotteer
+Small Blind: Pu, chips: 10
+Big Blind: Gowru, chips: 20
+Folds: Retot
+Folds: Wotteer
+Calls: Pu
+Checks: Gowru
+Flop: 7c Jd Ah
+Raises: Pu, chips: 20
+Folds: Gowru
+Pot size: 60
+Wins: Pu, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Pu
+Small Blind: Gowru, chips: 10
+Big Blind: Retot, chips: 20
+Folds: Wotteer
+Folds: Pu
+Folds: Gowru
+Pot size: 30
+Wins: Retot, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Gowru
+Small Blind: Retot, chips: 10
+Big Blind: Wotteer, chips: 20
+Calls: Pu
+Calls: Gowru
+Folds: Retot
+Checks: Wotteer
+Flop: 5h Qs Jc
+Checks: Wotteer
+Checks: Pu
+Checks: Gowru
+Turn: 6s
+Checks: Wotteer
+Checks: Pu
+Checks: Gowru
+River: 4c
+Checks: Wotteer
+Checks: Pu
+Checks: Gowru
+Pot size: 70
+Showdown Reached
+Shows: Pu, Kh Qd
+Combination: Pu, Pair ( Qd Qs Kh Jc 6s )
+Shows: Gowru, 4d 2d
+Combination: Gowru, Pair ( 4d 4c Qs Jc 6s )
+Shows: Wotteer, 7s 9d
+Combination: Wotteer, High Card ( Qs Jc 9d 7s 6s )
+Wins: Pu, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Retot
+Small Blind: Wotteer, chips: 10
+Big Blind: Pu, chips: 20
+Folds: Gowru
+Folds: Retot
+Folds: Wotteer
+Pot size: 30
+Wins: Pu, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Wotteer
+Small Blind: Pu, chips: 10
+Big Blind: Gowru, chips: 20
+Calls: Retot
+Calls: Wotteer
+Calls: Pu
+Checks: Gowru
+Flop: 4h 2c 6h
+Checks: Pu
+Checks: Gowru
+Checks: Retot
+Checks: Wotteer
+Turn: 3c
+Checks: Pu
+Checks: Gowru
+Checks: Retot
+Checks: Wotteer
+River: 3h
+Checks: Pu
+Checks: Gowru
+Checks: Retot
+Checks: Wotteer
+Pot size: 80
+Showdown Reached
+Shows: Pu, 8h Td
+Combination: Pu, Pair ( 3c 3h Td 8h 6h )
+Shows: Gowru, Jd 6c
+Combination: Gowru, Two Pair ( 6c 6h 3c 3h Jd )
+Shows: Retot, Ad 8d
+Combination: Retot, Pair ( 3c 3h Ad 8d 6h )
+Shows: Wotteer, 9h Kc
+Combination: Wotteer, Pair ( 3c 3h Kc 9h 6h )
+Wins: Gowru, chips: 80
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Pu
+Small Blind: Gowru, chips: 10
+Big Blind: Retot, chips: 20
+Folds: Wotteer
+Calls: Pu
+Calls: Gowru
+Checks: Retot
+Flop: Ks Ad 6s
+Checks: Gowru
+Checks: Retot
+Checks: Pu
+Turn: Th
+Checks: Gowru
+Checks: Retot
+Checks: Pu
+River: 6c
+Checks: Gowru
+Checks: Retot
+Checks: Pu
+Pot size: 60
+Showdown Reached
+Shows: Pu, 3s 3h
+Combination: Pu, Two Pair ( 6s 6c 3s 3h Ad )
+Shows: Gowru, 4h 5c
+Combination: Gowru, Pair ( 6s 6c Ad Ks Th )
+Shows: Retot, 2c 8h
+Combination: Retot, Pair ( 6s 6c Ad Ks Th )
+Wins: Pu, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Gowru
+Small Blind: Retot, chips: 10
+Big Blind: Wotteer, chips: 20
+Calls: Pu
+Folds: Gowru
+Folds: Retot
+Checks: Wotteer
+Flop: Td Jh 5s
+Checks: Wotteer
+Raises: Pu, chips: 20
+Folds: Wotteer
+Pot size: 70
+Wins: Pu, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Retot
+Small Blind: Wotteer, chips: 10
+Big Blind: Pu, chips: 20
+Calls: Gowru
+Calls: Retot
+Folds: Wotteer
+Checks: Pu
+Flop: 3h 8c 5c
+Checks: Pu
+Checks: Gowru
+Checks: Retot
+Turn: Kc
+Checks: Pu
+Checks: Gowru
+Checks: Retot
+River: 7d
+Checks: Pu
+Checks: Gowru
+Checks: Retot
+Pot size: 70
+Showdown Reached
+Shows: Pu, 3d Ts
+Combination: Pu, Pair ( 3d 3h Kc Ts 8c )
+Shows: Gowru, Qd Jc
+Combination: Gowru, High Card ( Kc Qd Jc 8c 7d )
+Shows: Retot, Td 9s
+Combination: Retot, High Card ( Kc Td 9s 8c 7d )
+Wins: Pu, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Wotteer
+Small Blind: Pu, chips: 10
+Big Blind: Gowru, chips: 20
+Calls: Retot
+Calls: Wotteer
+Calls: Pu
+Checks: Gowru
+Flop: 2d 8d 7s
+Checks: Pu
+Checks: Gowru
+Checks: Retot
+Checks: Wotteer
+Turn: 6s
+Checks: Pu
+Checks: Gowru
+Raises: Retot, chips: 20
+Folds: Wotteer
+Folds: Pu
+Folds: Gowru
+Pot size: 100
+Wins: Retot, chips: 100
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Pu
+Small Blind: Gowru, chips: 10
+Big Blind: Retot, chips: 20
+Folds: Wotteer
+Folds: Pu
+Folds: Gowru
+Pot size: 30
+Wins: Retot, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Gowru
+Small Blind: Retot, chips: 10
+Big Blind: Wotteer, chips: 20
+Folds: Pu
+Folds: Gowru
+Folds: Retot
+Pot size: 30
+Wins: Wotteer, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Retot
+Small Blind: Wotteer, chips: 10
+Big Blind: Pu, chips: 20
+Folds: Gowru
+Folds: Retot
+Folds: Wotteer
+Pot size: 30
+Wins: Pu, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Wotteer
+Small Blind: Pu, chips: 10
+Big Blind: Gowru, chips: 20
+Calls: Retot
+Folds: Wotteer
+Raises: Pu, chips: 30
+Folds: Gowru
+Raises: Retot, chips: 30
+Raises: Pu, chips: 50
+Folds: Retot
+Pot size: 230
+Wins: Pu, chips: 230
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Pu
+Small Blind: Gowru, chips: 10
+Big Blind: Retot, chips: 20
+Folds: Wotteer
+Calls: Pu
+Folds: Gowru
+Checks: Retot
+Flop: Ah 8h Kh
+Checks: Retot
+Raises: Pu, chips: 20
+Calls: Retot
+Turn: Qh
+Raises: Retot, chips: 20
+Folds: Pu
+Pot size: 110
+Wins: Retot, chips: 110
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Gowru
+Small Blind: Retot, chips: 10
+Big Blind: Wotteer, chips: 20
+Calls: Pu
+Folds: Gowru
+Folds: Retot
+Checks: Wotteer
+Flop: Td Ts Qh
+Checks: Wotteer
+Checks: Pu
+Turn: 5h
+Checks: Wotteer
+Checks: Pu
+River: Ad
+Checks: Wotteer
+Checks: Pu
+Pot size: 50
+Showdown Reached
+Shows: Pu, 6c 5s
+Combination: Pu, Two Pair ( Td Ts 5s 5h Ad )
+Shows: Wotteer, Kd 9c
+Combination: Wotteer, Pair ( Td Ts Ad Kd Qh )
+Wins: Pu, chips: 50
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Retot
+Small Blind: Wotteer, chips: 10
+Big Blind: Pu, chips: 20
+Folds: Gowru
+Calls: Retot
+Calls: Wotteer
+Checks: Pu
+Flop: 4s 3s Td
+Checks: Wotteer
+Checks: Pu
+Checks: Retot
+Turn: 2c
+Checks: Wotteer
+Checks: Pu
+Checks: Retot
+River: 5h
+Checks: Wotteer
+Checks: Pu
+Checks: Retot
+Pot size: 60
+Showdown Reached
+Shows: Pu, 6h Kh
+Combination: Pu, Straight ( 6h 5h 4s 3s 2c )
+Shows: Retot, 7h Jh
+Combination: Retot, High Card ( Jh Td 7h 5h 4s )
+Shows: Wotteer, 7c 8d
+Combination: Wotteer, High Card ( Td 8d 7c 5h 4s )
+Wins: Pu, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Wotteer
+Small Blind: Pu, chips: 10
+Big Blind: Gowru, chips: 20
+Folds: Retot
+Calls: Wotteer
+Raises: Pu, chips: 30
+Calls: Gowru
+Calls: Wotteer
+Flop: Jd As 2h
+Checks: Pu
+DEBUG MESSAGE: INVALID ACTION FROM Gowru (2 0)
+Folds: Gowru
+DEBUG MESSAGE: INVALID ACTION FROM Wotteer (2 0)
+Folds: Wotteer
+Pot size: 150
+Wins: Pu, chips: 150
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Pu
+Small Blind: Gowru, chips: 10
+Big Blind: Retot, chips: 20
+Calls: Wotteer
+Calls: Pu
+Calls: Gowru
+Checks: Retot
+Flop: Qc 6h Jc
+Checks: Gowru
+Checks: Retot
+Checks: Wotteer
+Checks: Pu
+Turn: Jd
+Checks: Gowru
+Checks: Retot
+Checks: Wotteer
+Checks: Pu
+River: Th
+Raises: Gowru, chips: 20
+Folds: Retot
+Folds: Wotteer
+Folds: Pu
+Pot size: 100
+Wins: Gowru, chips: 100
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Gowru
+Small Blind: Retot, chips: 10
+Big Blind: Wotteer, chips: 20
+Folds: Pu
+Folds: Gowru
+Folds: Retot
+Pot size: 30
+Wins: Wotteer, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Retot
+Small Blind: Wotteer, chips: 10
+Big Blind: Pu, chips: 20
+Folds: Gowru
+Folds: Retot
+Folds: Wotteer
+Pot size: 30
+Wins: Pu, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Wotteer
+Small Blind: Pu, chips: 10
+Big Blind: Gowru, chips: 20
+Calls: Retot
+Folds: Wotteer
+Folds: Pu
+Checks: Gowru
+Flop: 4s 2d 8s
+Checks: Gowru
+Checks: Retot
+Turn: 2h
+Checks: Gowru
+Checks: Retot
+River: Qs
+Checks: Gowru
+Raises: Retot, chips: 20
+Folds: Gowru
+Pot size: 70
+Wins: Retot, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Pu
+Small Blind: Gowru, chips: 10
+Big Blind: Retot, chips: 20
+Folds: Wotteer
+Calls: Pu
+Calls: Gowru
+Checks: Retot
+Flop: 2d 9s Jh
+Checks: Gowru
+Checks: Retot
+Checks: Pu
+Turn: 2s
+Checks: Gowru
+Checks: Retot
+Checks: Pu
+River: Ac
+Checks: Gowru
+Checks: Retot
+Checks: Pu
+Pot size: 60
+Showdown Reached
+Shows: Pu, Jc Qh
+Combination: Pu, Two Pair ( Jc Jh 2d 2s Ac )
+Shows: Gowru, 6d 5s
+Combination: Gowru, Pair ( 2d 2s Ac Jh 9s )
+Shows: Retot, 6h 3h
+Combination: Retot, Pair ( 2d 2s Ac Jh 9s )
+Wins: Pu, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Gowru
+Small Blind: Retot, chips: 10
+Big Blind: Wotteer, chips: 20
+Calls: Pu
+Calls: Gowru
+Folds: Retot
+Checks: Wotteer
+Flop: 9d Tc 7s
+Checks: Wotteer
+Checks: Pu
+Checks: Gowru
+Turn: 5h
+Checks: Wotteer
+Checks: Pu
+Checks: Gowru
+River: 5d
+Checks: Wotteer
+Checks: Pu
+Checks: Gowru
+Pot size: 70
+Showdown Reached
+Shows: Pu, 4s Ks
+Combination: Pu, Pair ( 5h 5d Ks Tc 9d )
+Shows: Gowru, Qh Ad
+Combination: Gowru, Pair ( 5h 5d Ad Qh Tc )
+Shows: Wotteer, Qs Kc
+Combination: Wotteer, Pair ( 5h 5d Kc Qs Tc )
+Wins: Gowru, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Retot
+Small Blind: Wotteer, chips: 10
+Big Blind: Pu, chips: 20
+Calls: Gowru
+Calls: Retot
+Folds: Wotteer
+Checks: Pu
+Flop: 2d Jc Js
+Checks: Pu
+Checks: Gowru
+Checks: Retot
+Turn: 6c
+Checks: Pu
+Checks: Gowru
+Checks: Retot
+River: Ah
+Checks: Pu
+Checks: Gowru
+Checks: Retot
+Pot size: 70
+Showdown Reached
+Shows: Pu, Td Th
+Combination: Pu, Two Pair ( Jc Js Td Th Ah )
+Shows: Gowru, As 7s
+Combination: Gowru, Two Pair ( As Ah Jc Js 7s )
+Shows: Retot, Ks 8s
+Combination: Retot, Pair ( Jc Js Ah Ks 8s )
+Wins: Gowru, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Wotteer
+Small Blind: Pu, chips: 10
+Big Blind: Gowru, chips: 20
+Folds: Retot
+Folds: Wotteer
+Calls: Pu
+Checks: Gowru
+Flop: 7h Th Td
+Checks: Pu
+Checks: Gowru
+Turn: 5s
+Checks: Pu
+Checks: Gowru
+River: Jh
+Raises: Pu, chips: 1260
+Folds: Gowru
+Pot size: 1300
+Wins: Pu, chips: 1300
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Pu
+Small Blind: Gowru, chips: 10
+Big Blind: Retot, chips: 20
+Calls: Wotteer
+Calls: Pu
+Folds: Gowru
+Checks: Retot
+Flop: Qc 5d 2c
+Checks: Retot
+Checks: Wotteer
+Checks: Pu
+Turn: 3d
+Checks: Retot
+Checks: Wotteer
+Checks: Pu
+River: Ac
+Checks: Retot
+Checks: Wotteer
+Checks: Pu
+Pot size: 70
+Showdown Reached
+Shows: Pu, Jh Kc
+Combination: Pu, High Card ( Ac Kc Qc Jh 5d )
+Shows: Retot, Qs 7h
+Combination: Retot, Pair ( Qs Qc Ac 7h 5d )
+Shows: Wotteer, 9s 8c
+Combination: Wotteer, High Card ( Ac Qc 9s 8c 5d )
+Wins: Retot, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Gowru
+Small Blind: Retot, chips: 10
+Big Blind: Wotteer, chips: 20
+Folds: Pu
+Folds: Gowru
+Calls: Retot
+Checks: Wotteer
+Flop: 5d Qc Qs
+Raises: Retot, chips: 20
+Folds: Wotteer
+Pot size: 60
+Wins: Retot, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Retot
+Small Blind: Wotteer, chips: 10
+Big Blind: Pu, chips: 20
+Calls: Gowru
+Folds: Retot
+Calls: Wotteer
+Checks: Pu
+Flop: 9h 7c 7d
+Checks: Wotteer
+Checks: Pu
+Checks: Gowru
+Turn: Ks
+Checks: Wotteer
+Checks: Pu
+Checks: Gowru
+River: 4s
+Checks: Wotteer
+Checks: Pu
+Checks: Gowru
+Pot size: 60
+Showdown Reached
+Shows: Pu, Td 2s
+Combination: Pu, Pair ( 7c 7d Ks Td 9h )
+Shows: Gowru, Th Qc
+Combination: Gowru, Pair ( 7c 7d Ks Qc Th )
+Shows: Wotteer, Ah Js
+Combination: Wotteer, Pair ( 7c 7d Ah Ks Js )
+Wins: Wotteer, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Wotteer
+Small Blind: Pu, chips: 10
+Big Blind: Gowru, chips: 20
+Folds: Retot
+Raises: Wotteer, chips: 20
+Folds: Pu
+Calls: Gowru
+Flop: Qs 3s 2d
+Checks: Gowru
+Checks: Wotteer
+Turn: Jh
+Checks: Gowru
+Checks: Wotteer
+River: Kd
+Checks: Gowru
+Raises: Wotteer, chips: 690
+Folds: Gowru
+Pot size: 780
+Wins: Wotteer, chips: 780
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Pu
+Small Blind: Gowru, chips: 10
+Big Blind: Retot, chips: 20
+Folds: Wotteer
+Folds: Pu
+Folds: Gowru
+Pot size: 30
+Wins: Retot, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Gowru
+Small Blind: Retot, chips: 10
+Big Blind: Wotteer, chips: 20
+Raises: Pu, chips: 20
+Folds: Gowru
+Folds: Retot
+Folds: Wotteer
+Pot size: 70
+Wins: Pu, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Retot
+Small Blind: Wotteer, chips: 10
+Big Blind: Pu, chips: 20
+Folds: Gowru
+Raises: Retot, chips: 20
+Folds: Wotteer
+Folds: Pu
+Pot size: 70
+Wins: Retot, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Wotteer
+Small Blind: Pu, chips: 10
+Big Blind: Gowru, chips: 20
+Folds: Retot
+Calls: Wotteer
+Calls: Pu
+Checks: Gowru
+Flop: 8h 4s Kd
+Checks: Pu
+Raises: Gowru, chips: 20
+Folds: Wotteer
+Folds: Pu
+Pot size: 80
+Wins: Gowru, chips: 80
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Pu
+Small Blind: Gowru, chips: 10
+Big Blind: Retot, chips: 20
+Folds: Wotteer
+Folds: Pu
+Folds: Gowru
+Pot size: 30
+Wins: Retot, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Gowru
+Small Blind: Retot, chips: 10
+Big Blind: Wotteer, chips: 20
+Folds: Pu
+Calls: Gowru
+Folds: Retot
+Checks: Wotteer
+Flop: 9s Tc 2h
+Checks: Wotteer
+Checks: Gowru
+Turn: Kc
+Checks: Wotteer
+Raises: Gowru, chips: 20
+Calls: Wotteer
+River: 3s
+Raises: Wotteer, chips: 20
+Calls: Gowru
+Pot size: 130
+Showdown Reached
+Shows: Gowru, 8h 9h
+Combination: Gowru, Pair ( 9h 9s Kc Tc 8h )
+Shows: Wotteer, 8c 8s
+Combination: Wotteer, Pair ( 8c 8s Kc Tc 9s )
+Wins: Gowru, chips: 130
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Retot
+Small Blind: Wotteer, chips: 10
+Big Blind: Pu, chips: 20
+Calls: Gowru
+Folds: Retot
+Calls: Wotteer
+Checks: Pu
+Flop: Tc 4c 8s
+Checks: Wotteer
+Checks: Pu
+Raises: Gowru, chips: 20
+Folds: Wotteer
+Calls: Pu
+Turn: 5s
+Checks: Pu
+Checks: Gowru
+River: 4s
+Checks: Pu
+Checks: Gowru
+Pot size: 100
+Showdown Reached
+Shows: Pu, 3c Ts
+Combination: Pu, Two Pair ( Ts Tc 4c 4s 8s )
+Shows: Gowru, Kc 6c
+Combination: Gowru, Pair ( 4c 4s Kc Tc 8s )
+Wins: Pu, chips: 100
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Wotteer
+Small Blind: Pu, chips: 10
+Big Blind: Gowru, chips: 20
+Folds: Retot
+Folds: Wotteer
+Folds: Pu
+Pot size: 30
+Wins: Gowru, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Pu
+Small Blind: Gowru, chips: 10
+Big Blind: Retot, chips: 20
+Folds: Wotteer
+Calls: Pu
+Calls: Gowru
+Checks: Retot
+Flop: Th 6c 6h
+Checks: Gowru
+Raises: Retot, chips: 20
+Raises: Pu, chips: 1250
+Folds: Gowru
+Raises: Retot, chips: 730
+Turn: 7h
+River: 5d
+Pot size: 3330
+Showdown Reached
+Shows: Pu, 6s 9s
+Combination: Pu, Three Of A Kind ( 6s 6c 6h Th 9s )
+Shows: Retot, 6d Qh
+Combination: Retot, Three Of A Kind ( 6d 6c 6h Qh Th )
+Wins: Retot, chips: 3330
+Quits: Pu, chips: 0
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Gowru
+Small Blind: Retot, chips: 10
+Big Blind: Wotteer, chips: 20
+Calls: Gowru
+Folds: Retot
+Checks: Wotteer
+Flop: 6d 2c 5h
+Checks: Wotteer
+Checks: Gowru
+Turn: 4d
+Checks: Wotteer
+Checks: Gowru
+River: 3h
+Checks: Wotteer
+Checks: Gowru
+Pot size: 50
+Showdown Reached
+Shows: Gowru, 8s 6s
+Combination: Gowru, Straight ( 6s 5h 4d 3h 2c )
+Shows: Wotteer, Qh Td
+Combination: Wotteer, Straight ( 6d 5h 4d 3h 2c )
+Wins: Gowru, chips: 25
+Wins: Wotteer, chips: 25
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Retot
+Small Blind: Wotteer, chips: 10
+Big Blind: Gowru, chips: 20
+Folds: Retot
+Folds: Wotteer
+Pot size: 30
+Wins: Gowru, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Wotteer
+Small Blind: Gowru, chips: 10
+Big Blind: Retot, chips: 20
+Calls: Wotteer
+Calls: Gowru
+Checks: Retot
+Flop: Js 4c 2s
+Checks: Gowru
+Checks: Retot
+Checks: Wotteer
+Turn: 6h
+Checks: Gowru
+Raises: Retot, chips: 20
+Folds: Wotteer
+Raises: Gowru, chips: 40
+Raises: Retot, chips: 4890
+Folds: Gowru
+Pot size: 5070
+Wins: Retot, chips: 5070
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Gowru
+Small Blind: Retot, chips: 10
+Big Blind: Wotteer, chips: 20
+Folds: Gowru
+Folds: Retot
+Pot size: 30
+Wins: Wotteer, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Retot
+Small Blind: Wotteer, chips: 10
+Big Blind: Gowru, chips: 20
+Raises: Retot, chips: 20
+Folds: Wotteer
+Folds: Gowru
+Pot size: 70
+Wins: Retot, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Wotteer
+Small Blind: Gowru, chips: 10
+Big Blind: Retot, chips: 20
+Raises: Wotteer, chips: 40
+Calls: Gowru
+Raises: Retot, chips: 60
+Raises: Wotteer, chips: 80
+Raises: Gowru, chips: 220
+Raises: Retot, chips: 500
+Calls: Wotteer
+Calls: Gowru
+Flop: 6d 6s Qh
+Checks: Gowru
+Checks: Retot
+Turn: Qs
+Checks: Gowru
+Checks: Retot
+River: 8d
+Checks: Gowru
+Checks: Retot
+Pot size: 2465
+Showdown Reached
+Shows: Gowru, 9d 9s
+Combination: Gowru, Two Pair ( Qh Qs 9d 9s 8d )
+Shows: Retot, Kd Ks
+Combination: Retot, Two Pair ( Kd Ks Qh Qs 8d )
+Shows: Wotteer, Jc Tc
+Combination: Wotteer, Two Pair ( Qh Qs 6d 6s Jc )
+Wins: Retot, chips: 2465
+Quits: Wotteer, chips: 0
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Gowru
+Small Blind: Gowru, chips: 10
+Big Blind: Retot, chips: 20
+Folds: Gowru
+Pot size: 30
+Wins: Retot, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Retot
+Small Blind: Retot, chips: 10
+Big Blind: Gowru, chips: 20
+Folds: Retot
+Pot size: 30
+Wins: Gowru, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Gowru
+Small Blind: Gowru, chips: 10
+Big Blind: Retot, chips: 20
+Folds: Gowru
+Pot size: 30
+Wins: Retot, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Retot
+Small Blind: Retot, chips: 10
+Big Blind: Gowru, chips: 20
+Folds: Retot
+Pot size: 30
+Wins: Gowru, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Gowru
+Small Blind: Gowru, chips: 10
+Big Blind: Retot, chips: 20
+Folds: Gowru
+Pot size: 30
+Wins: Retot, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Retot
+Small Blind: Retot, chips: 10
+Big Blind: Gowru, chips: 20
+Folds: Retot
+Pot size: 30
+Wins: Gowru, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Gowru
+Small Blind: Gowru, chips: 10
+Big Blind: Retot, chips: 20
+Folds: Gowru
+Pot size: 30
+Wins: Retot, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Retot
+Small Blind: Retot, chips: 10
+Big Blind: Gowru, chips: 20
+Folds: Retot
+Pot size: 30
+Wins: Gowru, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Gowru
+Small Blind: Gowru, chips: 10
+Big Blind: Retot, chips: 20
+Calls: Gowru
+Raises: Retot, chips: 6615
+Folds: Gowru
+Pot size: 6655
+Wins: Retot, chips: 6655
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Retot
+Small Blind: Retot, chips: 10
+Big Blind: Gowru, chips: 20
+Folds: Retot
+Pot size: 30
+Wins: Gowru, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Gowru
+Small Blind: Gowru, chips: 10
+Big Blind: Retot, chips: 20
+Calls: Gowru
+Raises: Retot, chips: 20
+Calls: Gowru
+Flop: 3c Jc Ah
+Raises: Retot, chips: 20
+Raises: Gowru, chips: 40
+Calls: Retot
+Turn: 2s
+Raises: Retot, chips: 6545
+Calls: Gowru
+River: Ts
+Pot size: 9000
+Showdown Reached
+Shows: Gowru, Ad Qc
+Combination: Gowru, Pair ( Ad Ah Qc Jc Ts )
+Shows: Retot, 4c 5c
+Combination: Retot, Straight ( 5c 4c 3c 2s Ah )
+Wins: Retot, chips: 9000
+Quits: Gowru, chips: 0
+Ranking: Retot, Place: 1, Score: 8000
+Reveal AI: Retot, AI: Smart
+Ranking: Gowru, Place: 2, Score: -1000
+Reveal AI: Gowru, AI: Smart
+Ranking: Wotteer, Place: 3, Score: -1000
+Reveal AI: Wotteer, AI: Smart
+Ranking: Pu, Place: 4, Score: -1000
+Reveal AI: Pu, AI: Smart
+Ranking: Larli, Place: 5, Score: -1000
+Reveal AI: Larli, AI: Random
+Ranking: Letanny, Place: 6, Score: -1000
+Reveal AI: Letanny, AI: Random
+Ranking: Senhi, Place: 7, Score: -1000
+Reveal AI: Senhi, AI: Human
+Ranking: Geerlit, Place: 8, Score: -1000
+Reveal AI: Geerlit, AI: Call
+Ranking: Poegoewral, Place: 9, Score: -1000
+Reveal AI: Poegoewral, AI: Call
+
+Player Stats for Geerlit, AI: Call
+General: deals: 1, actions: 8, preflop actions: 1
+Rounds Seen: flops: 33, turns: 27, rivers: 24, showdowns: 20
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 10
+Pre-Flop Stats: VP$IP: 1, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: 0, WSD: 0.606061, WSDW: 0
+
+
+Player Stats for Gowru, AI: Smart
+General: deals: 60, actions: 130, preflop actions: 58
+Rounds Seen: flops: 26, turns: 21, rivers: 19, showdowns: 15
+Wins: total: 17, showdown: 7, bluff: 10
+Chips: won: 6585, lost: 11875, bought: 1000, forced bets: 530
+Pre-Flop Stats: VP$IP: 0.366667, PFR: 0.0666667, 3Bet: 0.0666667
+Post-Flop Stats: AF: 2.25, WSD: 0.576923, WSDW: 0.466667
+
+
+Player Stats for Larli, AI: Random
+General: deals: 4, actions: 11, preflop actions: 4
+Rounds Seen: flops: 31, turns: 25, rivers: 22, showdowns: 18
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 2320, bought: 1000, forced bets: 20
+Pre-Flop Stats: VP$IP: 0.5, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: 0.5, WSD: 0.580645, WSDW: 0
+
+
+Player Stats for Letanny, AI: Random
+General: deals: 2, actions: 10, preflop actions: 3
+Rounds Seen: flops: 33, turns: 27, rivers: 24, showdowns: 19
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 0
+Pre-Flop Stats: VP$IP: 1, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: 4, WSD: 0.575758, WSDW: 0
+
+
+Player Stats for Poegoewral, AI: Call
+General: deals: 1, actions: 7, preflop actions: 1
+Rounds Seen: flops: 33, turns: 27, rivers: 24, showdowns: 20
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 0
+Pre-Flop Stats: VP$IP: 1, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: 0, WSD: 0.606061, WSDW: 0
+
+
+Player Stats for Pu, AI: Smart
+General: deals: 43, actions: 101, preflop actions: 43
+Rounds Seen: flops: 27, turns: 22, rivers: 18, showdowns: 16
+Wins: total: 17, showdown: 7, bluff: 10
+Chips: won: 2540, lost: 3540, bought: 1000, forced bets: 310
+Pre-Flop Stats: VP$IP: 0.488372, PFR: 0.0930233, 3Bet: 0.0930233
+Post-Flop Stats: AF: 6, WSD: 0.592593, WSDW: 0.4375
+
+
+Player Stats for Retot, AI: Smart
+General: deals: 60, actions: 107, preflop actions: 56
+Rounds Seen: flops: 18, turns: 16, rivers: 13, showdowns: 11
+Wins: total: 21, showdown: 5, bluff: 16
+Chips: won: 31050, lost: 23050, bought: 1000, forced bets: 550
+Pre-Flop Stats: VP$IP: 0.25, PFR: 0.1, 3Bet: 0.0666667
+Post-Flop Stats: AF: 4.33333, WSD: 0.611111, WSDW: 0.454545
+
+
+Player Stats for Senhi, AI: Human
+General: deals: 2, actions: 7, preflop actions: 3
+Rounds Seen: flops: 32, turns: 26, rivers: 23, showdowns: 19
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 20
+Pre-Flop Stats: VP$IP: 0.5, PFR: 0.5, 3Bet: 0
+Post-Flop Stats: AF: 3, WSD: 0.59375, WSDW: 0
+
+
+Player Stats for Wotteer, AI: Smart
+General: deals: 49, actions: 97, preflop actions: 49
+Rounds Seen: flops: 21, turns: 16, rivers: 13, showdowns: 11
+Wins: total: 6, showdown: 2, bluff: 4
+Chips: won: 955, lost: 2250, bought: 1000, forced bets: 360
+Pre-Flop Stats: VP$IP: 0.244898, PFR: 0.0408163, 3Bet: 0.0408163
+Post-Flop Stats: AF: 2, WSD: 0.52381, WSDW: 0.181818
+
+

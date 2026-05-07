@@ -1,0 +1,2296 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Teewee: Smart
+Potim: Call
+Cheler: AIMyBot1
+Peenhoenny: Call
+Funhu: Random
+Moekinok: Smart
+Boettop: Random
+
+Joins: Teewee, chips: 1000
+Joins: Potim, chips: 1000
+Joins: Cheler, chips: 1000
+Joins: Peenhoenny, chips: 1000
+Joins: Funhu, chips: 1000
+Joins: Moekinok, chips: 1000
+Joins: Boettop, chips: 1000
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Peenhoenny
+Small Blind: Funhu, chips: 5
+Big Blind: Moekinok, chips: 10
+Calls: Boettop
+Raises: Teewee, chips: 20
+Calls: Potim
+Raises: Cheler, chips: 100
+Calls: Peenhoenny
+Raises: Funhu, chips: 225
+Folds: Moekinok
+Calls: Boettop
+Calls: Teewee
+Calls: Potim
+Raises: Cheler, chips: 645
+Calls: Peenhoenny
+Folds: Funhu
+Calls: Boettop
+Calls: Teewee
+Calls: Potim
+Flop: Jc 6h Tc
+Turn: 3s
+River: 6d
+Pot size: 5365
+Showdown Reached
+Shows: Teewee, Ks Kh
+Combination: Teewee, Two Pair ( Ks Kh 6h 6d Jc )
+Shows: Potim, 5s 2s
+Combination: Potim, Pair ( 6h 6d Jc Tc 5s )
+Shows: Cheler, Qc 7s
+Combination: Cheler, Pair ( 6h 6d Qc Jc Tc )
+Shows: Peenhoenny, 4h 7h
+Combination: Peenhoenny, Pair ( 6h 6d Jc Tc 7h )
+Shows: Boettop, 5h Kd
+Combination: Boettop, Pair ( 6h 6d Kd Jc Tc )
+Wins: Teewee, chips: 5365
+Quits: Potim, chips: 0
+Quits: Cheler, chips: 0
+Quits: Peenhoenny, chips: 0
+Quits: Boettop, chips: 0
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Funhu
+Small Blind: Moekinok, chips: 5
+Big Blind: Teewee, chips: 10
+Calls: Funhu
+Folds: Moekinok
+Checks: Teewee
+Flop: Qh 9s Td
+Checks: Teewee
+Checks: Funhu
+Turn: 6s
+Checks: Teewee
+Checks: Funhu
+River: Qc
+Checks: Teewee
+Checks: Funhu
+Pot size: 25
+Showdown Reached
+Shows: Teewee, Js 9c
+Combination: Teewee, Two Pair ( Qh Qc 9c 9s Js )
+Shows: Funhu, Kc 9h
+Combination: Funhu, Two Pair ( Qh Qc 9h 9s Kc )
+Wins: Funhu, chips: 25
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Moekinok
+Small Blind: Teewee, chips: 5
+Big Blind: Funhu, chips: 10
+Folds: Moekinok
+Folds: Teewee
+Pot size: 15
+Boasts: Funhu, Jh 3s
+Wins: Funhu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Teewee
+Small Blind: Funhu, chips: 5
+Big Blind: Moekinok, chips: 10
+Folds: Teewee
+Folds: Funhu
+Pot size: 15
+Wins: Moekinok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Funhu
+Small Blind: Moekinok, chips: 5
+Big Blind: Teewee, chips: 10
+Calls: Funhu
+Folds: Moekinok
+Checks: Teewee
+Flop: Ts 6s Kc
+Checks: Teewee
+Checks: Funhu
+Turn: Ah
+Checks: Teewee
+Checks: Funhu
+River: Jh
+Raises: Teewee, chips: 10
+Raises: Funhu, chips: 20
+Raises: Teewee, chips: 50
+Raises: Funhu, chips: 100
+Calls: Teewee
+Pot size: 385
+Showdown Reached
+Shows: Teewee, Jd 6c
+Combination: Teewee, Two Pair ( Jd Jh 6c 6s Ah )
+Shows: Funhu, 8c 7c
+Combination: Funhu, High Card ( Ah Kc Jh Ts 8c )
+Wins: Teewee, chips: 385
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Moekinok
+Small Blind: Teewee, chips: 5
+Big Blind: Funhu, chips: 10
+Calls: Moekinok
+Folds: Teewee
+Raises: Funhu, chips: 10
+Folds: Moekinok
+Pot size: 35
+Wins: Funhu, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Teewee
+Small Blind: Funhu, chips: 5
+Big Blind: Moekinok, chips: 10
+Calls: Teewee
+Raises: Funhu, chips: 15
+Folds: Moekinok
+Folds: Teewee
+Pot size: 45
+Wins: Funhu, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Funhu
+Small Blind: Moekinok, chips: 5
+Big Blind: Teewee, chips: 10
+Calls: Funhu
+Calls: Moekinok
+Checks: Teewee
+Flop: 3h 2h Qd
+Checks: Moekinok
+Checks: Teewee
+Checks: Funhu
+Turn: 9d
+Checks: Moekinok
+Checks: Teewee
+Checks: Funhu
+River: 6c
+Raises: Moekinok, chips: 955
+Raises: Teewee, chips: 735
+Folds: Funhu
+Pot size: 2675
+Showdown Reached
+Shows: Teewee, 9c 2c
+Combination: Teewee, Two Pair ( 9c 9d 2c 2h Qd )
+Shows: Moekinok, 5d 4s
+Combination: Moekinok, Straight ( 6c 5d 4s 3h 2h )
+Wins: Teewee, chips: 735
+Wins: Moekinok, chips: 1940
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Moekinok
+Small Blind: Teewee, chips: 5
+Big Blind: Funhu, chips: 10
+Calls: Moekinok
+Folds: Teewee
+Checks: Funhu
+Flop: 4s Kd 8d
+Raises: Funhu, chips: 10
+Calls: Moekinok
+Turn: 3d
+Raises: Funhu, chips: 10
+Folds: Moekinok
+Pot size: 55
+Boasts: Funhu, Qd Jd
+Wins: Funhu, chips: 55
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Teewee
+Small Blind: Funhu, chips: 5
+Big Blind: Moekinok, chips: 10
+Folds: Teewee
+Folds: Funhu
+Pot size: 15
+Boasts: Funhu, Ks Qh
+Wins: Moekinok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Funhu
+Small Blind: Moekinok, chips: 5
+Big Blind: Teewee, chips: 10
+Calls: Funhu
+Folds: Moekinok
+Checks: Teewee
+Flop: Jd 8c 4s
+Checks: Teewee
+Raises: Funhu, chips: 10
+Calls: Teewee
+Turn: Qc
+Checks: Teewee
+Raises: Funhu, chips: 10
+Folds: Teewee
+Pot size: 55
+Boasts: Funhu, 8h 8d
+Wins: Funhu, chips: 55
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Moekinok
+Small Blind: Teewee, chips: 5
+Big Blind: Funhu, chips: 10
+Folds: Moekinok
+Calls: Teewee
+Checks: Funhu
+Flop: 3d Jh 5d
+Checks: Teewee
+Checks: Funhu
+Turn: Kc
+Checks: Teewee
+Checks: Funhu
+River: Ks
+Checks: Teewee
+Checks: Funhu
+Pot size: 20
+Showdown Reached
+Shows: Teewee, 7d 7c
+Combination: Teewee, Two Pair ( Kc Ks 7d 7c Jh )
+Shows: Funhu, 3s Kh
+Combination: Funhu, Full House ( Kh Kc Ks 3s 3d )
+Wins: Funhu, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Teewee
+Small Blind: Funhu, chips: 5
+Big Blind: Moekinok, chips: 10
+Folds: Teewee
+Raises: Funhu, chips: 15
+Folds: Moekinok
+Pot size: 35
+Boasts: Funhu, Th Ks
+Wins: Funhu, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Funhu
+Small Blind: Moekinok, chips: 5
+Big Blind: Teewee, chips: 10
+Raises: Funhu, chips: 20
+Folds: Moekinok
+Folds: Teewee
+Pot size: 45
+Boasts: Funhu, 5c Kh
+Wins: Funhu, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Moekinok
+Small Blind: Teewee, chips: 5
+Big Blind: Funhu, chips: 10
+Folds: Moekinok
+Calls: Teewee
+Checks: Funhu
+Flop: 9c Qd 3c
+Checks: Teewee
+Checks: Funhu
+Turn: 9h
+Checks: Teewee
+Checks: Funhu
+River: 7c
+Checks: Teewee
+Raises: Funhu, chips: 10
+Calls: Teewee
+Pot size: 40
+Showdown Reached
+Shows: Teewee, 2s 2d
+Combination: Teewee, Two Pair ( 9c 9h 2s 2d Qd )
+Shows: Funhu, Td 8h
+Combination: Funhu, Pair ( 9c 9h Qd Td 8h )
+Wins: Teewee, chips: 40
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Teewee
+Small Blind: Funhu, chips: 5
+Big Blind: Moekinok, chips: 10
+Folds: Teewee
+Raises: Funhu, chips: 15
+Folds: Moekinok
+Pot size: 35
+Wins: Funhu, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Funhu
+Small Blind: Moekinok, chips: 5
+Big Blind: Teewee, chips: 10
+Folds: Funhu
+Calls: Moekinok
+Checks: Teewee
+Flop: Ts Ac 4c
+Checks: Moekinok
+Checks: Teewee
+Turn: 5c
+Checks: Moekinok
+Checks: Teewee
+River: 6c
+Checks: Moekinok
+Checks: Teewee
+Pot size: 20
+Showdown Reached
+Shows: Teewee, 3h 4d
+Combination: Teewee, Pair ( 4d 4c Ac Ts 6c )
+Boasts: Funhu, Qc Qd
+Shows: Moekinok, 7s 8s
+Combination: Moekinok, Straight ( 8s 7s 6c 5c 4c )
+Wins: Moekinok, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Moekinok
+Small Blind: Teewee, chips: 5
+Big Blind: Funhu, chips: 10
+Folds: Moekinok
+Folds: Teewee
+Pot size: 15
+Wins: Funhu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Teewee
+Small Blind: Funhu, chips: 5
+Big Blind: Moekinok, chips: 10
+Folds: Teewee
+Raises: Funhu, chips: 15
+Raises: Moekinok, chips: 1880
+Folds: Funhu
+Pot size: 1930
+Wins: Moekinok, chips: 1930
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Funhu
+Small Blind: Moekinok, chips: 5
+Big Blind: Teewee, chips: 10
+Raises: Funhu, chips: 20
+Folds: Moekinok
+Folds: Teewee
+Pot size: 45
+Wins: Funhu, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Moekinok
+Small Blind: Teewee, chips: 5
+Big Blind: Funhu, chips: 10
+Folds: Moekinok
+Calls: Teewee
+Checks: Funhu
+Flop: 8h Ts 4c
+Raises: Teewee, chips: 10
+Folds: Funhu
+Pot size: 30
+Boasts: Funhu, 8d 2h
+Wins: Teewee, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Teewee
+Small Blind: Funhu, chips: 5
+Big Blind: Moekinok, chips: 10
+Folds: Teewee
+Folds: Funhu
+Pot size: 15
+Wins: Moekinok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Funhu
+Small Blind: Moekinok, chips: 5
+Big Blind: Teewee, chips: 10
+Calls: Funhu
+Calls: Moekinok
+Checks: Teewee
+Flop: 3h Qs 5c
+Checks: Moekinok
+Checks: Teewee
+Checks: Funhu
+Turn: 4s
+Checks: Moekinok
+Checks: Teewee
+Checks: Funhu
+River: 7h
+Checks: Moekinok
+Checks: Teewee
+Checks: Funhu
+Pot size: 30
+Showdown Reached
+Shows: Teewee, 2s 4h
+Combination: Teewee, Pair ( 4h 4s Qs 7h 5c )
+Shows: Funhu, 3c Kc
+Combination: Funhu, Pair ( 3c 3h Kc Qs 7h )
+Shows: Moekinok, Jh 9c
+Combination: Moekinok, High Card ( Qs Jh 9c 7h 5c )
+Wins: Teewee, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Moekinok
+Small Blind: Teewee, chips: 5
+Big Blind: Funhu, chips: 10
+Folds: Moekinok
+Folds: Teewee
+Pot size: 15
+Wins: Funhu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Teewee
+Small Blind: Funhu, chips: 5
+Big Blind: Moekinok, chips: 10
+Calls: Teewee
+Calls: Funhu
+Raises: Moekinok, chips: 10
+Calls: Teewee
+Calls: Funhu
+Flop: 4d 2s 3d
+Checks: Funhu
+Raises: Moekinok, chips: 10
+Calls: Teewee
+Folds: Funhu
+Turn: Ac
+Checks: Moekinok
+Checks: Teewee
+River: 4h
+Checks: Moekinok
+Raises: Teewee, chips: 4510
+Folds: Moekinok
+Pot size: 4590
+Wins: Teewee, chips: 4590
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Funhu
+Small Blind: Moekinok, chips: 5
+Big Blind: Teewee, chips: 10
+Calls: Funhu
+Folds: Moekinok
+Checks: Teewee
+Flop: 3c Jd 3h
+Checks: Teewee
+Raises: Funhu, chips: 10
+Folds: Teewee
+Pot size: 35
+Boasts: Funhu, 2d Th
+Wins: Funhu, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Moekinok
+Small Blind: Teewee, chips: 5
+Big Blind: Funhu, chips: 10
+Calls: Moekinok
+Folds: Teewee
+Checks: Funhu
+Flop: 6c 3s 9d
+Checks: Funhu
+Checks: Moekinok
+Turn: Qh
+Checks: Funhu
+Raises: Moekinok, chips: 10
+Folds: Funhu
+Pot size: 35
+Boasts: Funhu, 5d Jh
+Wins: Moekinok, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Teewee
+Small Blind: Funhu, chips: 5
+Big Blind: Moekinok, chips: 10
+Folds: Teewee
+Raises: Funhu, chips: 15
+Folds: Moekinok
+Pot size: 35
+Boasts: Funhu, Qd Qs
+Wins: Funhu, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Funhu
+Small Blind: Moekinok, chips: 5
+Big Blind: Teewee, chips: 10
+Calls: Funhu
+Folds: Moekinok
+Checks: Teewee
+Flop: 7c Jc 9d
+Checks: Teewee
+Checks: Funhu
+Turn: Ah
+Checks: Teewee
+Raises: Funhu, chips: 10
+Calls: Teewee
+River: 6c
+Checks: Teewee
+Checks: Funhu
+Pot size: 45
+Showdown Reached
+Shows: Teewee, Ts 9s
+Combination: Teewee, Pair ( 9s 9d Ah Jc Ts )
+Shows: Funhu, 4h 3c
+Combination: Funhu, High Card ( Ah Jc 9d 7c 6c )
+Wins: Teewee, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Moekinok
+Small Blind: Teewee, chips: 5
+Big Blind: Funhu, chips: 10
+Folds: Moekinok
+Folds: Teewee
+Pot size: 15
+Wins: Funhu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Teewee
+Small Blind: Funhu, chips: 5
+Big Blind: Moekinok, chips: 10
+Calls: Teewee
+Calls: Funhu
+Checks: Moekinok
+Flop: 9s Qs 8h
+Checks: Funhu
+Checks: Moekinok
+Checks: Teewee
+Turn: As
+Checks: Funhu
+Checks: Moekinok
+Checks: Teewee
+River: 8s
+Checks: Funhu
+Checks: Moekinok
+Checks: Teewee
+Pot size: 30
+Showdown Reached
+Shows: Teewee, 8d 7s
+Combination: Teewee, Flush ( As Qs 9s 8s 7s )
+Shows: Funhu, 3d 6s
+Combination: Funhu, Flush ( As Qs 9s 8s 6s )
+Shows: Moekinok, 8c 3c
+Combination: Moekinok, Three Of A Kind ( 8c 8h 8s As Qs )
+Wins: Teewee, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Funhu
+Small Blind: Moekinok, chips: 5
+Big Blind: Teewee, chips: 10
+Raises: Funhu, chips: 20
+Folds: Moekinok
+Folds: Teewee
+Pot size: 45
+Boasts: Funhu, 6s Tc
+Wins: Funhu, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Moekinok
+Small Blind: Teewee, chips: 5
+Big Blind: Funhu, chips: 10
+Folds: Moekinok
+Folds: Teewee
+Pot size: 15
+Wins: Funhu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Teewee
+Small Blind: Funhu, chips: 5
+Big Blind: Moekinok, chips: 10
+Calls: Teewee
+Folds: Funhu
+Checks: Moekinok
+Flop: 3d Qh 9s
+Checks: Moekinok
+Checks: Teewee
+Turn: 2d
+Checks: Moekinok
+Checks: Teewee
+River: 2s
+Checks: Moekinok
+Checks: Teewee
+Pot size: 25
+Showdown Reached
+Shows: Teewee, Ad 8d
+Combination: Teewee, Pair ( 2d 2s Ad Qh 9s )
+Boasts: Funhu, Kd 5h
+Shows: Moekinok, Ts 3h
+Combination: Moekinok, Two Pair ( 3h 3d 2d 2s Qh )
+Wins: Moekinok, chips: 25
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Funhu
+Small Blind: Moekinok, chips: 5
+Big Blind: Teewee, chips: 10
+Calls: Funhu
+Folds: Moekinok
+Checks: Teewee
+Flop: 6h 3c Qd
+Checks: Teewee
+Checks: Funhu
+Turn: Kc
+Checks: Teewee
+Checks: Funhu
+River: 7c
+Checks: Teewee
+Checks: Funhu
+Pot size: 25
+Showdown Reached
+Shows: Teewee, 8h 2c
+Combination: Teewee, High Card ( Kc Qd 8h 7c 6h )
+Shows: Funhu, 3d Jh
+Combination: Funhu, Pair ( 3d 3c Kc Qd Jh )
+Wins: Funhu, chips: 25
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Moekinok
+Small Blind: Teewee, chips: 5
+Big Blind: Funhu, chips: 10
+Folds: Moekinok
+Folds: Teewee
+Pot size: 15
+Wins: Funhu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Teewee
+Small Blind: Funhu, chips: 5
+Big Blind: Moekinok, chips: 10
+Folds: Teewee
+Calls: Funhu
+Checks: Moekinok
+Flop: 9s Th Ac
+Raises: Funhu, chips: 10
+Calls: Moekinok
+Turn: 6s
+Checks: Funhu
+Raises: Moekinok, chips: 10
+Calls: Funhu
+River: Qd
+Raises: Funhu, chips: 10
+Calls: Moekinok
+Pot size: 80
+Showdown Reached
+Shows: Funhu, Kd 2h
+Combination: Funhu, High Card ( Ac Kd Qd Th 9s )
+Shows: Moekinok, Td 7h
+Combination: Moekinok, Pair ( Td Th Ac Qd 9s )
+Wins: Moekinok, chips: 80
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Funhu
+Small Blind: Moekinok, chips: 5
+Big Blind: Teewee, chips: 10
+Folds: Funhu
+Calls: Moekinok
+Checks: Teewee
+Flop: 9c 8c Kc
+Checks: Moekinok
+Checks: Teewee
+Turn: Td
+Checks: Moekinok
+Raises: Teewee, chips: 10
+Folds: Moekinok
+Pot size: 30
+Boasts: Funhu, Js Ah
+Wins: Teewee, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Moekinok
+Small Blind: Teewee, chips: 5
+Big Blind: Funhu, chips: 10
+Folds: Moekinok
+Folds: Teewee
+Pot size: 15
+Wins: Funhu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Teewee
+Small Blind: Funhu, chips: 5
+Big Blind: Moekinok, chips: 10
+Calls: Teewee
+Calls: Funhu
+Raises: Moekinok, chips: 10
+Raises: Teewee, chips: 10
+Raises: Funhu, chips: 480
+Folds: Moekinok
+Raises: Teewee, chips: 240
+Flop: 5s 6c 5c
+Turn: 7s
+River: 2c
+Pot size: 1280
+Showdown Reached
+Shows: Teewee, Kd As
+Combination: Teewee, Pair ( 5s 5c As Kd 7s )
+Shows: Funhu, Jd 8h
+Combination: Funhu, Pair ( 5s 5c Jd 8h 7s )
+Wins: Teewee, chips: 1280
+Quits: Funhu, chips: 0
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Moekinok
+Small Blind: Moekinok, chips: 5
+Big Blind: Teewee, chips: 10
+Calls: Moekinok
+Checks: Teewee
+Flop: 6c Kd 7s
+Raises: Teewee, chips: 10
+Folds: Moekinok
+Pot size: 30
+Wins: Teewee, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Teewee
+Small Blind: Teewee, chips: 5
+Big Blind: Moekinok, chips: 10
+Folds: Teewee
+Pot size: 15
+Wins: Moekinok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Moekinok
+Small Blind: Moekinok, chips: 5
+Big Blind: Teewee, chips: 10
+Folds: Moekinok
+Pot size: 15
+Wins: Teewee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Teewee
+Small Blind: Teewee, chips: 5
+Big Blind: Moekinok, chips: 10
+Folds: Teewee
+Pot size: 15
+Wins: Moekinok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Moekinok
+Small Blind: Moekinok, chips: 5
+Big Blind: Teewee, chips: 10
+Raises: Moekinok, chips: 15
+Folds: Teewee
+Pot size: 35
+Wins: Moekinok, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Teewee
+Small Blind: Teewee, chips: 5
+Big Blind: Moekinok, chips: 10
+Calls: Teewee
+Checks: Moekinok
+Flop: Qc 4h 3s
+Checks: Moekinok
+Raises: Teewee, chips: 10
+Folds: Moekinok
+Pot size: 30
+Wins: Teewee, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Moekinok
+Small Blind: Moekinok, chips: 5
+Big Blind: Teewee, chips: 10
+Folds: Moekinok
+Pot size: 15
+Wins: Teewee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Teewee
+Small Blind: Teewee, chips: 5
+Big Blind: Moekinok, chips: 10
+Calls: Teewee
+Checks: Moekinok
+Flop: 5c 6h Qs
+Checks: Moekinok
+Checks: Teewee
+Turn: Qh
+Checks: Moekinok
+Checks: Teewee
+River: Js
+Checks: Moekinok
+Checks: Teewee
+Pot size: 20
+Showdown Reached
+Shows: Teewee, 5d 4d
+Combination: Teewee, Two Pair ( Qs Qh 5d 5c Js )
+Shows: Moekinok, 2c 6d
+Combination: Moekinok, Two Pair ( Qs Qh 6d 6h Js )
+Wins: Moekinok, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Moekinok
+Small Blind: Moekinok, chips: 5
+Big Blind: Teewee, chips: 10
+Calls: Moekinok
+Checks: Teewee
+Flop: Td Tc 8h
+Checks: Teewee
+Checks: Moekinok
+Turn: 2h
+Checks: Teewee
+Checks: Moekinok
+River: Ac
+Raises: Teewee, chips: 5100
+Folds: Moekinok
+Pot size: 5120
+Wins: Teewee, chips: 5120
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Teewee
+Small Blind: Teewee, chips: 5
+Big Blind: Moekinok, chips: 10
+Calls: Teewee
+Checks: Moekinok
+Flop: 7s 2d 2c
+Checks: Moekinok
+Checks: Teewee
+Turn: Td
+Checks: Moekinok
+Checks: Teewee
+River: Qc
+Checks: Moekinok
+Checks: Teewee
+Pot size: 20
+Showdown Reached
+Shows: Teewee, Jd Th
+Combination: Teewee, Two Pair ( Th Td 2d 2c Qc )
+Shows: Moekinok, Ah 5d
+Combination: Moekinok, Pair ( 2d 2c Ah Qc Td )
+Wins: Teewee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Moekinok
+Small Blind: Moekinok, chips: 5
+Big Blind: Teewee, chips: 10
+Folds: Moekinok
+Pot size: 15
+Wins: Teewee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Teewee
+Small Blind: Teewee, chips: 5
+Big Blind: Moekinok, chips: 10
+Calls: Teewee
+Checks: Moekinok
+Flop: 3c 8s Kc
+Checks: Moekinok
+Checks: Teewee
+Turn: 7d
+Checks: Moekinok
+Checks: Teewee
+River: Kd
+Checks: Moekinok
+Checks: Teewee
+Pot size: 20
+Showdown Reached
+Shows: Teewee, As Jd
+Combination: Teewee, Pair ( Kc Kd As Jd 8s )
+Shows: Moekinok, 5s Jh
+Combination: Moekinok, Pair ( Kc Kd Jh 8s 7d )
+Wins: Teewee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Moekinok
+Small Blind: Moekinok, chips: 5
+Big Blind: Teewee, chips: 10
+Calls: Moekinok
+Checks: Teewee
+Flop: 2s Ad 9s
+Raises: Teewee, chips: 10
+Calls: Moekinok
+Turn: 7c
+Checks: Teewee
+Checks: Moekinok
+River: 5s
+Checks: Teewee
+Checks: Moekinok
+Pot size: 40
+Showdown Reached
+Shows: Teewee, Qc Td
+Combination: Teewee, High Card ( Ad Qc Td 9s 7c )
+Shows: Moekinok, Kc Ac
+Combination: Moekinok, Pair ( Ac Ad Kc 9s 7c )
+Wins: Moekinok, chips: 40
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Teewee
+Small Blind: Teewee, chips: 5
+Big Blind: Moekinok, chips: 10
+Folds: Teewee
+Pot size: 15
+Wins: Moekinok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Moekinok
+Small Blind: Moekinok, chips: 5
+Big Blind: Teewee, chips: 10
+Calls: Moekinok
+Checks: Teewee
+Flop: 3d Ad Jc
+Checks: Teewee
+Checks: Moekinok
+Turn: Tc
+Checks: Teewee
+Raises: Moekinok, chips: 10
+Folds: Teewee
+Pot size: 30
+Wins: Moekinok, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Teewee
+Small Blind: Teewee, chips: 5
+Big Blind: Moekinok, chips: 10
+Folds: Teewee
+Pot size: 15
+Wins: Moekinok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Moekinok
+Small Blind: Moekinok, chips: 5
+Big Blind: Teewee, chips: 10
+Calls: Moekinok
+Checks: Teewee
+Flop: 3h Th Qc
+Checks: Teewee
+Checks: Moekinok
+Turn: 3c
+Checks: Teewee
+Raises: Moekinok, chips: 10
+Folds: Teewee
+Pot size: 30
+Wins: Moekinok, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Teewee
+Small Blind: Teewee, chips: 5
+Big Blind: Moekinok, chips: 10
+Folds: Teewee
+Pot size: 15
+Wins: Moekinok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Moekinok
+Small Blind: Moekinok, chips: 5
+Big Blind: Teewee, chips: 10
+Calls: Moekinok
+Checks: Teewee
+Flop: 2c Js 5s
+Raises: Teewee, chips: 10
+Raises: Moekinok, chips: 1890
+Calls: Teewee
+Turn: Ah
+River: 9h
+Pot size: 3820
+Showdown Reached
+Shows: Teewee, Jd 5d
+Combination: Teewee, Two Pair ( Jd Js 5d 5s Ah )
+Shows: Moekinok, 5c 5h
+Combination: Moekinok, Three Of A Kind ( 5c 5h 5s Ah Js )
+Wins: Moekinok, chips: 3820
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Teewee
+Small Blind: Teewee, chips: 5
+Big Blind: Moekinok, chips: 10
+Folds: Teewee
+Pot size: 15
+Wins: Moekinok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Moekinok
+Small Blind: Moekinok, chips: 5
+Big Blind: Teewee, chips: 10
+Calls: Moekinok
+Checks: Teewee
+Flop: 7c 4d 4s
+Raises: Teewee, chips: 10
+Calls: Moekinok
+Turn: 9d
+Checks: Teewee
+Checks: Moekinok
+River: 5d
+Checks: Teewee
+Checks: Moekinok
+Pot size: 40
+Showdown Reached
+Shows: Teewee, 8d 8c
+Combination: Teewee, Two Pair ( 8d 8c 4d 4s 9d )
+Shows: Moekinok, 6c Ac
+Combination: Moekinok, Pair ( 4d 4s Ac 9d 7c )
+Wins: Teewee, chips: 40
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Teewee
+Small Blind: Teewee, chips: 5
+Big Blind: Moekinok, chips: 10
+Folds: Teewee
+Pot size: 15
+Wins: Moekinok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Moekinok
+Small Blind: Moekinok, chips: 5
+Big Blind: Teewee, chips: 10
+Calls: Moekinok
+Checks: Teewee
+Flop: Qh 5s 7h
+Checks: Teewee
+Raises: Moekinok, chips: 3800
+Folds: Teewee
+Pot size: 3820
+Wins: Moekinok, chips: 3820
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Teewee
+Small Blind: Teewee, chips: 5
+Big Blind: Moekinok, chips: 10
+Folds: Teewee
+Pot size: 15
+Wins: Moekinok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Moekinok
+Small Blind: Moekinok, chips: 5
+Big Blind: Teewee, chips: 10
+Raises: Moekinok, chips: 3815
+Folds: Teewee
+Pot size: 3835
+Wins: Moekinok, chips: 3835
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Teewee
+Small Blind: Teewee, chips: 5
+Big Blind: Moekinok, chips: 10
+Folds: Teewee
+Pot size: 15
+Wins: Moekinok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Moekinok
+Small Blind: Moekinok, chips: 5
+Big Blind: Teewee, chips: 10
+Calls: Moekinok
+Raises: Teewee, chips: 3150
+Folds: Moekinok
+Pot size: 3170
+Wins: Teewee, chips: 3170
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Teewee
+Small Blind: Teewee, chips: 5
+Big Blind: Moekinok, chips: 10
+Calls: Teewee
+Checks: Moekinok
+Flop: Th 5h Jh
+Checks: Moekinok
+Checks: Teewee
+Turn: Js
+Checks: Moekinok
+Checks: Teewee
+River: Kc
+Checks: Moekinok
+Checks: Teewee
+Pot size: 20
+Showdown Reached
+Shows: Teewee, 6c Ac
+Combination: Teewee, Pair ( Jh Js Ac Kc Th )
+Shows: Moekinok, 6d Qs
+Combination: Moekinok, Pair ( Jh Js Kc Qs Th )
+Wins: Teewee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Moekinok
+Small Blind: Moekinok, chips: 5
+Big Blind: Teewee, chips: 10
+Folds: Moekinok
+Pot size: 15
+Wins: Teewee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Teewee
+Small Blind: Teewee, chips: 5
+Big Blind: Moekinok, chips: 10
+Folds: Teewee
+Pot size: 15
+Wins: Moekinok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Moekinok
+Small Blind: Moekinok, chips: 5
+Big Blind: Teewee, chips: 10
+Folds: Moekinok
+Pot size: 15
+Wins: Teewee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Teewee
+Small Blind: Teewee, chips: 5
+Big Blind: Moekinok, chips: 10
+Folds: Teewee
+Pot size: 15
+Wins: Moekinok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Moekinok
+Small Blind: Moekinok, chips: 5
+Big Blind: Teewee, chips: 10
+Folds: Moekinok
+Pot size: 15
+Wins: Teewee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Teewee
+Small Blind: Teewee, chips: 5
+Big Blind: Moekinok, chips: 10
+Folds: Teewee
+Pot size: 15
+Wins: Moekinok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Moekinok
+Small Blind: Moekinok, chips: 5
+Big Blind: Teewee, chips: 10
+Calls: Moekinok
+Raises: Teewee, chips: 10
+Raises: Moekinok, chips: 3800
+Calls: Teewee
+Flop: Td 7c 8s
+Turn: 8d
+River: 5s
+Pot size: 7000
+Showdown Reached
+Shows: Teewee, Qs As
+Combination: Teewee, Pair ( 8s 8d As Qs Td )
+Shows: Moekinok, 9s Js
+Combination: Moekinok, Straight ( Js Td 9s 8s 7c )
+Wins: Moekinok, chips: 7000
+Quits: Teewee, chips: 0
+Ranking: Moekinok, Place: 1, Score: 6000
+Reveal AI: Moekinok, AI: Smart
+Ranking: Teewee, Place: 2, Score: -1000
+Reveal AI: Teewee, AI: Smart
+Ranking: Funhu, Place: 3, Score: -1000
+Reveal AI: Funhu, AI: Random
+Ranking: Boettop, Place: 4, Score: -1000
+Reveal AI: Boettop, AI: Random
+Ranking: Peenhoenny, Place: 5, Score: -1000
+Reveal AI: Peenhoenny, AI: Call
+Ranking: Cheler, Place: 6, Score: -1000
+Reveal AI: Cheler, AI: AIMyBot1
+Ranking: Potim, Place: 7, Score: -1000
+Reveal AI: Potim, AI: Call
+
+Player Stats for Boettop, AI: Random
+General: deals: 1, actions: 3, preflop actions: 3
+Rounds Seen: flops: 35, turns: 30, rivers: 24, showdowns: 22
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 0
+Pre-Flop Stats: VP$IP: 1, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 0.628571, WSDW: 0
+
+
+Player Stats for Cheler, AI: AIMyBot1
+General: deals: 1, actions: 2, preflop actions: 2
+Rounds Seen: flops: 35, turns: 30, rivers: 24, showdowns: 22
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 0
+Pre-Flop Stats: VP$IP: 1, PFR: 1, 3Bet: 1
+Post-Flop Stats: AF: -1.#IND, WSD: 0.628571, WSDW: 0
+
+
+Player Stats for Funhu, AI: Random
+General: deals: 40, actions: 80, preflop actions: 37
+Rounds Seen: flops: 31, turns: 25, rivers: 20, showdowns: 18
+Wins: total: 21, showdown: 3, bluff: 18
+Chips: won: 640, lost: 1640, bought: 1000, forced bets: 200
+Pre-Flop Stats: VP$IP: 0.55, PFR: 0.275, 3Bet: 0.25
+Post-Flop Stats: AF: 11, WSD: 0.580645, WSDW: 0.166667
+
+
+Player Stats for Moekinok, AI: Smart
+General: deals: 75, actions: 123, preflop actions: 64
+Rounds Seen: flops: 24, turns: 21, rivers: 16, showdowns: 14
+Wins: total: 30, showdown: 8, bluff: 22
+Chips: won: 22885, lost: 16885, bought: 1000, forced bets: 465
+Pre-Flop Stats: VP$IP: 0.293333, PFR: 0.08, 3Bet: 0.0533333
+Post-Flop Stats: AF: 1.6, WSD: 0.583333, WSDW: 0.571429
+
+
+Player Stats for Peenhoenny, AI: Call
+General: deals: 1, actions: 2, preflop actions: 2
+Rounds Seen: flops: 35, turns: 30, rivers: 24, showdowns: 22
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 0
+Pre-Flop Stats: VP$IP: 1, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 0.628571, WSDW: 0
+
+
+Player Stats for Potim, AI: Call
+General: deals: 1, actions: 3, preflop actions: 3
+Rounds Seen: flops: 35, turns: 30, rivers: 24, showdowns: 22
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 0
+Pre-Flop Stats: VP$IP: 1, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 0.628571, WSDW: 0
+
+
+Player Stats for Teewee, AI: Smart
+General: deals: 75, actions: 158, preflop actions: 76
+Rounds Seen: flops: 32, turns: 27, rivers: 23, showdowns: 21
+Wins: total: 25, showdown: 12, bluff: 13
+Chips: won: 21100, lost: 22740, bought: 1000, forced bets: 460
+Pre-Flop Stats: VP$IP: 0.213333, PFR: 0.0533333, 3Bet: 0.0266667
+Post-Flop Stats: AF: 2, WSD: 0.65625, WSDW: 0.571429
+
+
+Date: 2026/04/30 12:52:45
+
+The game begins. The AI's of the players are: 
+Teewee: Smart
+Potim: Call
+Cheler: AIMyBot1
+Peenhoenny: Call
+Funhu: Random
+Moekinok: Smart
+Boettop: Random
+
+Joins: Teewee, chips: 1000
+Joins: Potim, chips: 1000
+Joins: Cheler, chips: 1000
+Joins: Peenhoenny, chips: 1000
+Joins: Funhu, chips: 1000
+Joins: Moekinok, chips: 1000
+Joins: Boettop, chips: 1000
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Peenhoenny
+Small Blind: Funhu, chips: 5
+Big Blind: Moekinok, chips: 10
+Calls: Boettop
+Raises: Teewee, chips: 20
+Calls: Potim
+Raises: Cheler, chips: 100
+Calls: Peenhoenny
+Raises: Funhu, chips: 225
+Folds: Moekinok
+Calls: Boettop
+Calls: Teewee
+Calls: Potim
+Raises: Cheler, chips: 645
+Calls: Peenhoenny
+Folds: Funhu
+Calls: Boettop
+Calls: Teewee
+Calls: Potim
+Flop: Jc 6h Tc
+Turn: 3s
+River: 6d
+Pot size: 5365
+Showdown Reached
+Shows: Teewee, Ks Kh
+Combination: Teewee, Two Pair ( Ks Kh 6h 6d Jc )
+Shows: Potim, 5s 2s
+Combination: Potim, Pair ( 6h 6d Jc Tc 5s )
+Shows: Cheler, Qc 7s
+Combination: Cheler, Pair ( 6h 6d Qc Jc Tc )
+Shows: Peenhoenny, 4h 7h
+Combination: Peenhoenny, Pair ( 6h 6d Jc Tc 7h )
+Shows: Boettop, 5h Kd
+Combination: Boettop, Pair ( 6h 6d Kd Jc Tc )
+Wins: Teewee, chips: 5365
+Quits: Potim, chips: 0
+Quits: Cheler, chips: 0
+Quits: Peenhoenny, chips: 0
+Quits: Boettop, chips: 0
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Funhu
+Small Blind: Moekinok, chips: 5
+Big Blind: Teewee, chips: 10
+Calls: Funhu
+Folds: Moekinok
+Checks: Teewee
+Flop: Qh 9s Td
+Checks: Teewee
+Checks: Funhu
+Turn: 6s
+Checks: Teewee
+Checks: Funhu
+River: Qc
+Checks: Teewee
+Checks: Funhu
+Pot size: 25
+Showdown Reached
+Shows: Teewee, Js 9c
+Combination: Teewee, Two Pair ( Qh Qc 9c 9s Js )
+Shows: Funhu, Kc 9h
+Combination: Funhu, Two Pair ( Qh Qc 9h 9s Kc )
+Wins: Funhu, chips: 25
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Moekinok
+Small Blind: Teewee, chips: 5
+Big Blind: Funhu, chips: 10
+Folds: Moekinok
+Folds: Teewee
+Pot size: 15
+Boasts: Funhu, Jh 3s
+Wins: Funhu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Teewee
+Small Blind: Funhu, chips: 5
+Big Blind: Moekinok, chips: 10
+Folds: Teewee
+Folds: Funhu
+Pot size: 15
+Wins: Moekinok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Funhu
+Small Blind: Moekinok, chips: 5
+Big Blind: Teewee, chips: 10
+Calls: Funhu
+Folds: Moekinok
+Checks: Teewee
+Flop: Ts 6s Kc
+Checks: Teewee
+Checks: Funhu
+Turn: Ah
+Checks: Teewee
+Checks: Funhu
+River: Jh
+Raises: Teewee, chips: 10
+Raises: Funhu, chips: 20
+Raises: Teewee, chips: 50
+Raises: Funhu, chips: 100
+Calls: Teewee
+Pot size: 385
+Showdown Reached
+Shows: Teewee, Jd 6c
+Combination: Teewee, Two Pair ( Jd Jh 6c 6s Ah )
+Shows: Funhu, 8c 7c
+Combination: Funhu, High Card ( Ah Kc Jh Ts 8c )
+Wins: Teewee, chips: 385
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Moekinok
+Small Blind: Teewee, chips: 5
+Big Blind: Funhu, chips: 10
+Calls: Moekinok
+Folds: Teewee
+Raises: Funhu, chips: 10
+Folds: Moekinok
+Pot size: 35
+Wins: Funhu, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Teewee
+Small Blind: Funhu, chips: 5
+Big Blind: Moekinok, chips: 10
+Calls: Teewee
+Raises: Funhu, chips: 15
+Folds: Moekinok
+Folds: Teewee
+Pot size: 45
+Wins: Funhu, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Funhu
+Small Blind: Moekinok, chips: 5
+Big Blind: Teewee, chips: 10
+Calls: Funhu
+Calls: Moekinok
+Checks: Teewee
+Flop: 3h 2h Qd
+Checks: Moekinok
+Checks: Teewee
+Checks: Funhu
+Turn: 9d
+Checks: Moekinok
+Checks: Teewee
+Checks: Funhu
+River: 6c
+Raises: Moekinok, chips: 955
+Raises: Teewee, chips: 735
+Folds: Funhu
+Pot size: 2675
+Showdown Reached
+Shows: Teewee, 9c 2c
+Combination: Teewee, Two Pair ( 9c 9d 2c 2h Qd )
+Shows: Moekinok, 5d 4s
+Combination: Moekinok, Straight ( 6c 5d 4s 3h 2h )
+Wins: Teewee, chips: 735
+Wins: Moekinok, chips: 1940
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Moekinok
+Small Blind: Teewee, chips: 5
+Big Blind: Funhu, chips: 10
+Calls: Moekinok
+Folds: Teewee
+Checks: Funhu
+Flop: 4s Kd 8d
+Raises: Funhu, chips: 10
+Calls: Moekinok
+Turn: 3d
+Raises: Funhu, chips: 10
+Folds: Moekinok
+Pot size: 55
+Boasts: Funhu, Qd Jd
+Wins: Funhu, chips: 55
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Teewee
+Small Blind: Funhu, chips: 5
+Big Blind: Moekinok, chips: 10
+Folds: Teewee
+Folds: Funhu
+Pot size: 15
+Boasts: Funhu, Ks Qh
+Wins: Moekinok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Funhu
+Small Blind: Moekinok, chips: 5
+Big Blind: Teewee, chips: 10
+Calls: Funhu
+Folds: Moekinok
+Checks: Teewee
+Flop: Jd 8c 4s
+Checks: Teewee
+Raises: Funhu, chips: 10
+Calls: Teewee
+Turn: Qc
+Checks: Teewee
+Raises: Funhu, chips: 10
+Folds: Teewee
+Pot size: 55
+Boasts: Funhu, 8h 8d
+Wins: Funhu, chips: 55
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Moekinok
+Small Blind: Teewee, chips: 5
+Big Blind: Funhu, chips: 10
+Folds: Moekinok
+Calls: Teewee
+Checks: Funhu
+Flop: 3d Jh 5d
+Checks: Teewee
+Checks: Funhu
+Turn: Kc
+Checks: Teewee
+Checks: Funhu
+River: Ks
+Checks: Teewee
+Checks: Funhu
+Pot size: 20
+Showdown Reached
+Shows: Teewee, 7d 7c
+Combination: Teewee, Two Pair ( Kc Ks 7d 7c Jh )
+Shows: Funhu, 3s Kh
+Combination: Funhu, Full House ( Kh Kc Ks 3s 3d )
+Wins: Funhu, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Teewee
+Small Blind: Funhu, chips: 5
+Big Blind: Moekinok, chips: 10
+Folds: Teewee
+Raises: Funhu, chips: 15
+Folds: Moekinok
+Pot size: 35
+Boasts: Funhu, Th Ks
+Wins: Funhu, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Funhu
+Small Blind: Moekinok, chips: 5
+Big Blind: Teewee, chips: 10
+Raises: Funhu, chips: 20
+Folds: Moekinok
+Folds: Teewee
+Pot size: 45
+Boasts: Funhu, 5c Kh
+Wins: Funhu, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Moekinok
+Small Blind: Teewee, chips: 5
+Big Blind: Funhu, chips: 10
+Folds: Moekinok
+Calls: Teewee
+Checks: Funhu
+Flop: 9c Qd 3c
+Checks: Teewee
+Checks: Funhu
+Turn: 9h
+Checks: Teewee
+Checks: Funhu
+River: 7c
+Checks: Teewee
+Raises: Funhu, chips: 10
+Calls: Teewee
+Pot size: 40
+Showdown Reached
+Shows: Teewee, 2s 2d
+Combination: Teewee, Two Pair ( 9c 9h 2s 2d Qd )
+Shows: Funhu, Td 8h
+Combination: Funhu, Pair ( 9c 9h Qd Td 8h )
+Wins: Teewee, chips: 40
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Teewee
+Small Blind: Funhu, chips: 5
+Big Blind: Moekinok, chips: 10
+Folds: Teewee
+Raises: Funhu, chips: 15
+Folds: Moekinok
+Pot size: 35
+Wins: Funhu, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Funhu
+Small Blind: Moekinok, chips: 5
+Big Blind: Teewee, chips: 10
+Folds: Funhu
+Calls: Moekinok
+Checks: Teewee
+Flop: Ts Ac 4c
+Checks: Moekinok
+Checks: Teewee
+Turn: 5c
+Checks: Moekinok
+Checks: Teewee
+River: 6c
+Checks: Moekinok
+Checks: Teewee
+Pot size: 20
+Showdown Reached
+Shows: Teewee, 3h 4d
+Combination: Teewee, Pair ( 4d 4c Ac Ts 6c )
+Boasts: Funhu, Qc Qd
+Shows: Moekinok, 7s 8s
+Combination: Moekinok, Straight ( 8s 7s 6c 5c 4c )
+Wins: Moekinok, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Moekinok
+Small Blind: Teewee, chips: 5
+Big Blind: Funhu, chips: 10
+Folds: Moekinok
+Folds: Teewee
+Pot size: 15
+Wins: Funhu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Teewee
+Small Blind: Funhu, chips: 5
+Big Blind: Moekinok, chips: 10
+Folds: Teewee
+Raises: Funhu, chips: 15
+Raises: Moekinok, chips: 1880
+Folds: Funhu
+Pot size: 1930
+Wins: Moekinok, chips: 1930
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Funhu
+Small Blind: Moekinok, chips: 5
+Big Blind: Teewee, chips: 10
+Raises: Funhu, chips: 20
+Folds: Moekinok
+Folds: Teewee
+Pot size: 45
+Wins: Funhu, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Moekinok
+Small Blind: Teewee, chips: 5
+Big Blind: Funhu, chips: 10
+Folds: Moekinok
+Calls: Teewee
+Checks: Funhu
+Flop: 8h Ts 4c
+Raises: Teewee, chips: 10
+Folds: Funhu
+Pot size: 30
+Boasts: Funhu, 8d 2h
+Wins: Teewee, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Teewee
+Small Blind: Funhu, chips: 5
+Big Blind: Moekinok, chips: 10
+Folds: Teewee
+Folds: Funhu
+Pot size: 15
+Wins: Moekinok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Funhu
+Small Blind: Moekinok, chips: 5
+Big Blind: Teewee, chips: 10
+Calls: Funhu
+Calls: Moekinok
+Checks: Teewee
+Flop: 3h Qs 5c
+Checks: Moekinok
+Checks: Teewee
+Checks: Funhu
+Turn: 4s
+Checks: Moekinok
+Checks: Teewee
+Checks: Funhu
+River: 7h
+Checks: Moekinok
+Checks: Teewee
+Checks: Funhu
+Pot size: 30
+Showdown Reached
+Shows: Teewee, 2s 4h
+Combination: Teewee, Pair ( 4h 4s Qs 7h 5c )
+Shows: Funhu, 3c Kc
+Combination: Funhu, Pair ( 3c 3h Kc Qs 7h )
+Shows: Moekinok, Jh 9c
+Combination: Moekinok, High Card ( Qs Jh 9c 7h 5c )
+Wins: Teewee, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Moekinok
+Small Blind: Teewee, chips: 5
+Big Blind: Funhu, chips: 10
+Folds: Moekinok
+Folds: Teewee
+Pot size: 15
+Wins: Funhu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Teewee
+Small Blind: Funhu, chips: 5
+Big Blind: Moekinok, chips: 10
+Calls: Teewee
+Calls: Funhu
+Raises: Moekinok, chips: 10
+Calls: Teewee
+Calls: Funhu
+Flop: 4d 2s 3d
+Checks: Funhu
+Raises: Moekinok, chips: 10
+Calls: Teewee
+Folds: Funhu
+Turn: Ac
+Checks: Moekinok
+Checks: Teewee
+River: 4h
+Checks: Moekinok
+Raises: Teewee, chips: 4510
+Folds: Moekinok
+Pot size: 4590
+Wins: Teewee, chips: 4590
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Funhu
+Small Blind: Moekinok, chips: 5
+Big Blind: Teewee, chips: 10
+Calls: Funhu
+Folds: Moekinok
+Checks: Teewee
+Flop: 3c Jd 3h
+Checks: Teewee
+Raises: Funhu, chips: 10
+Folds: Teewee
+Pot size: 35
+Boasts: Funhu, 2d Th
+Wins: Funhu, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Moekinok
+Small Blind: Teewee, chips: 5
+Big Blind: Funhu, chips: 10
+Calls: Moekinok
+Folds: Teewee
+Checks: Funhu
+Flop: 6c 3s 9d
+Checks: Funhu
+Checks: Moekinok
+Turn: Qh
+Checks: Funhu
+Raises: Moekinok, chips: 10
+Folds: Funhu
+Pot size: 35
+Boasts: Funhu, 5d Jh
+Wins: Moekinok, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Teewee
+Small Blind: Funhu, chips: 5
+Big Blind: Moekinok, chips: 10
+Folds: Teewee
+Raises: Funhu, chips: 15
+Folds: Moekinok
+Pot size: 35
+Boasts: Funhu, Qd Qs
+Wins: Funhu, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Funhu
+Small Blind: Moekinok, chips: 5
+Big Blind: Teewee, chips: 10
+Calls: Funhu
+Folds: Moekinok
+Checks: Teewee
+Flop: 7c Jc 9d
+Checks: Teewee
+Checks: Funhu
+Turn: Ah
+Checks: Teewee
+Raises: Funhu, chips: 10
+Calls: Teewee
+River: 6c
+Checks: Teewee
+Checks: Funhu
+Pot size: 45
+Showdown Reached
+Shows: Teewee, Ts 9s
+Combination: Teewee, Pair ( 9s 9d Ah Jc Ts )
+Shows: Funhu, 4h 3c
+Combination: Funhu, High Card ( Ah Jc 9d 7c 6c )
+Wins: Teewee, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Moekinok
+Small Blind: Teewee, chips: 5
+Big Blind: Funhu, chips: 10
+Folds: Moekinok
+Folds: Teewee
+Pot size: 15
+Wins: Funhu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Teewee
+Small Blind: Funhu, chips: 5
+Big Blind: Moekinok, chips: 10
+Calls: Teewee
+Calls: Funhu
+Checks: Moekinok
+Flop: 9s Qs 8h
+Checks: Funhu
+Checks: Moekinok
+Checks: Teewee
+Turn: As
+Checks: Funhu
+Checks: Moekinok
+Checks: Teewee
+River: 8s
+Checks: Funhu
+Checks: Moekinok
+Checks: Teewee
+Pot size: 30
+Showdown Reached
+Shows: Teewee, 8d 7s
+Combination: Teewee, Flush ( As Qs 9s 8s 7s )
+Shows: Funhu, 3d 6s
+Combination: Funhu, Flush ( As Qs 9s 8s 6s )
+Shows: Moekinok, 8c 3c
+Combination: Moekinok, Three Of A Kind ( 8c 8h 8s As Qs )
+Wins: Teewee, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Funhu
+Small Blind: Moekinok, chips: 5
+Big Blind: Teewee, chips: 10
+Raises: Funhu, chips: 20
+Folds: Moekinok
+Folds: Teewee
+Pot size: 45
+Boasts: Funhu, 6s Tc
+Wins: Funhu, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Moekinok
+Small Blind: Teewee, chips: 5
+Big Blind: Funhu, chips: 10
+Folds: Moekinok
+Folds: Teewee
+Pot size: 15
+Wins: Funhu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Teewee
+Small Blind: Funhu, chips: 5
+Big Blind: Moekinok, chips: 10
+Calls: Teewee
+Folds: Funhu
+Checks: Moekinok
+Flop: 3d Qh 9s
+Checks: Moekinok
+Checks: Teewee
+Turn: 2d
+Checks: Moekinok
+Checks: Teewee
+River: 2s
+Checks: Moekinok
+Checks: Teewee
+Pot size: 25
+Showdown Reached
+Shows: Teewee, Ad 8d
+Combination: Teewee, Pair ( 2d 2s Ad Qh 9s )
+Boasts: Funhu, Kd 5h
+Shows: Moekinok, Ts 3h
+Combination: Moekinok, Two Pair ( 3h 3d 2d 2s Qh )
+Wins: Moekinok, chips: 25
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Funhu
+Small Blind: Moekinok, chips: 5
+Big Blind: Teewee, chips: 10
+Calls: Funhu
+Folds: Moekinok
+Checks: Teewee
+Flop: 6h 3c Qd
+Checks: Teewee
+Checks: Funhu
+Turn: Kc
+Checks: Teewee
+Checks: Funhu
+River: 7c
+Checks: Teewee
+Checks: Funhu
+Pot size: 25
+Showdown Reached
+Shows: Teewee, 8h 2c
+Combination: Teewee, High Card ( Kc Qd 8h 7c 6h )
+Shows: Funhu, 3d Jh
+Combination: Funhu, Pair ( 3d 3c Kc Qd Jh )
+Wins: Funhu, chips: 25
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Moekinok
+Small Blind: Teewee, chips: 5
+Big Blind: Funhu, chips: 10
+Folds: Moekinok
+Folds: Teewee
+Pot size: 15
+Wins: Funhu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Teewee
+Small Blind: Funhu, chips: 5
+Big Blind: Moekinok, chips: 10
+Folds: Teewee
+Calls: Funhu
+Checks: Moekinok
+Flop: 9s Th Ac
+Raises: Funhu, chips: 10
+Calls: Moekinok
+Turn: 6s
+Checks: Funhu
+Raises: Moekinok, chips: 10
+Calls: Funhu
+River: Qd
+Raises: Funhu, chips: 10
+Calls: Moekinok
+Pot size: 80
+Showdown Reached
+Shows: Funhu, Kd 2h
+Combination: Funhu, High Card ( Ac Kd Qd Th 9s )
+Shows: Moekinok, Td 7h
+Combination: Moekinok, Pair ( Td Th Ac Qd 9s )
+Wins: Moekinok, chips: 80
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Funhu
+Small Blind: Moekinok, chips: 5
+Big Blind: Teewee, chips: 10
+Folds: Funhu
+Calls: Moekinok
+Checks: Teewee
+Flop: 9c 8c Kc
+Checks: Moekinok
+Checks: Teewee
+Turn: Td
+Checks: Moekinok
+Raises: Teewee, chips: 10
+Folds: Moekinok
+Pot size: 30
+Boasts: Funhu, Js Ah
+Wins: Teewee, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Moekinok
+Small Blind: Teewee, chips: 5
+Big Blind: Funhu, chips: 10
+Folds: Moekinok
+Folds: Teewee
+Pot size: 15
+Wins: Funhu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Teewee
+Small Blind: Funhu, chips: 5
+Big Blind: Moekinok, chips: 10
+Calls: Teewee
+Calls: Funhu
+Raises: Moekinok, chips: 10
+Raises: Teewee, chips: 10
+Raises: Funhu, chips: 480
+Folds: Moekinok
+Raises: Teewee, chips: 240
+Flop: 5s 6c 5c
+Turn: 7s
+River: 2c
+Pot size: 1280
+Showdown Reached
+Shows: Teewee, Kd As
+Combination: Teewee, Pair ( 5s 5c As Kd 7s )
+Shows: Funhu, Jd 8h
+Combination: Funhu, Pair ( 5s 5c Jd 8h 7s )
+Wins: Teewee, chips: 1280
+Quits: Funhu, chips: 0
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Moekinok
+Small Blind: Moekinok, chips: 5
+Big Blind: Teewee, chips: 10
+Calls: Moekinok
+Checks: Teewee
+Flop: 6c Kd 7s
+Raises: Teewee, chips: 10
+Folds: Moekinok
+Pot size: 30
+Wins: Teewee, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Teewee
+Small Blind: Teewee, chips: 5
+Big Blind: Moekinok, chips: 10
+Folds: Teewee
+Pot size: 15
+Wins: Moekinok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Moekinok
+Small Blind: Moekinok, chips: 5
+Big Blind: Teewee, chips: 10
+Folds: Moekinok
+Pot size: 15
+Wins: Teewee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Teewee
+Small Blind: Teewee, chips: 5
+Big Blind: Moekinok, chips: 10
+Folds: Teewee
+Pot size: 15
+Wins: Moekinok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Moekinok
+Small Blind: Moekinok, chips: 5
+Big Blind: Teewee, chips: 10
+Raises: Moekinok, chips: 15
+Folds: Teewee
+Pot size: 35
+Wins: Moekinok, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Teewee
+Small Blind: Teewee, chips: 5
+Big Blind: Moekinok, chips: 10
+Calls: Teewee
+Checks: Moekinok
+Flop: Qc 4h 3s
+Checks: Moekinok
+Raises: Teewee, chips: 10
+Folds: Moekinok
+Pot size: 30
+Wins: Teewee, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Moekinok
+Small Blind: Moekinok, chips: 5
+Big Blind: Teewee, chips: 10
+Folds: Moekinok
+Pot size: 15
+Wins: Teewee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Teewee
+Small Blind: Teewee, chips: 5
+Big Blind: Moekinok, chips: 10
+Calls: Teewee
+Checks: Moekinok
+Flop: 5c 6h Qs
+Checks: Moekinok
+Checks: Teewee
+Turn: Qh
+Checks: Moekinok
+Checks: Teewee
+River: Js
+Checks: Moekinok
+Checks: Teewee
+Pot size: 20
+Showdown Reached
+Shows: Teewee, 5d 4d
+Combination: Teewee, Two Pair ( Qs Qh 5d 5c Js )
+Shows: Moekinok, 2c 6d
+Combination: Moekinok, Two Pair ( Qs Qh 6d 6h Js )
+Wins: Moekinok, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Moekinok
+Small Blind: Moekinok, chips: 5
+Big Blind: Teewee, chips: 10
+Calls: Moekinok
+Checks: Teewee
+Flop: Td Tc 8h
+Checks: Teewee
+Checks: Moekinok
+Turn: 2h
+Checks: Teewee
+Checks: Moekinok
+River: Ac
+Raises: Teewee, chips: 5100
+Folds: Moekinok
+Pot size: 5120
+Wins: Teewee, chips: 5120
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Teewee
+Small Blind: Teewee, chips: 5
+Big Blind: Moekinok, chips: 10
+Calls: Teewee
+Checks: Moekinok
+Flop: 7s 2d 2c
+Checks: Moekinok
+Checks: Teewee
+Turn: Td
+Checks: Moekinok
+Checks: Teewee
+River: Qc
+Checks: Moekinok
+Checks: Teewee
+Pot size: 20
+Showdown Reached
+Shows: Teewee, Jd Th
+Combination: Teewee, Two Pair ( Th Td 2d 2c Qc )
+Shows: Moekinok, Ah 5d
+Combination: Moekinok, Pair ( 2d 2c Ah Qc Td )
+Wins: Teewee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Moekinok
+Small Blind: Moekinok, chips: 5
+Big Blind: Teewee, chips: 10
+Folds: Moekinok
+Pot size: 15
+Wins: Teewee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Teewee
+Small Blind: Teewee, chips: 5
+Big Blind: Moekinok, chips: 10
+Calls: Teewee
+Checks: Moekinok
+Flop: 3c 8s Kc
+Checks: Moekinok
+Checks: Teewee
+Turn: 7d
+Checks: Moekinok
+Checks: Teewee
+River: Kd
+Checks: Moekinok
+Checks: Teewee
+Pot size: 20
+Showdown Reached
+Shows: Teewee, As Jd
+Combination: Teewee, Pair ( Kc Kd As Jd 8s )
+Shows: Moekinok, 5s Jh
+Combination: Moekinok, Pair ( Kc Kd Jh 8s 7d )
+Wins: Teewee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Moekinok
+Small Blind: Moekinok, chips: 5
+Big Blind: Teewee, chips: 10
+Calls: Moekinok
+Checks: Teewee
+Flop: 2s Ad 9s
+Raises: Teewee, chips: 10
+Calls: Moekinok
+Turn: 7c
+Checks: Teewee
+Checks: Moekinok
+River: 5s
+Checks: Teewee
+Checks: Moekinok
+Pot size: 40
+Showdown Reached
+Shows: Teewee, Qc Td
+Combination: Teewee, High Card ( Ad Qc Td 9s 7c )
+Shows: Moekinok, Kc Ac
+Combination: Moekinok, Pair ( Ac Ad Kc 9s 7c )
+Wins: Moekinok, chips: 40
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Teewee
+Small Blind: Teewee, chips: 5
+Big Blind: Moekinok, chips: 10
+Folds: Teewee
+Pot size: 15
+Wins: Moekinok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Moekinok
+Small Blind: Moekinok, chips: 5
+Big Blind: Teewee, chips: 10
+Calls: Moekinok
+Checks: Teewee
+Flop: 3d Ad Jc
+Checks: Teewee
+Checks: Moekinok
+Turn: Tc
+Checks: Teewee
+Raises: Moekinok, chips: 10
+Folds: Teewee
+Pot size: 30
+Wins: Moekinok, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Teewee
+Small Blind: Teewee, chips: 5
+Big Blind: Moekinok, chips: 10
+Folds: Teewee
+Pot size: 15
+Wins: Moekinok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Moekinok
+Small Blind: Moekinok, chips: 5
+Big Blind: Teewee, chips: 10
+Calls: Moekinok
+Checks: Teewee
+Flop: 3h Th Qc
+Checks: Teewee
+Checks: Moekinok
+Turn: 3c
+Checks: Teewee
+Raises: Moekinok, chips: 10
+Folds: Teewee
+Pot size: 30
+Wins: Moekinok, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Teewee
+Small Blind: Teewee, chips: 5
+Big Blind: Moekinok, chips: 10
+Folds: Teewee
+Pot size: 15
+Wins: Moekinok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Moekinok
+Small Blind: Moekinok, chips: 5
+Big Blind: Teewee, chips: 10
+Calls: Moekinok
+Checks: Teewee
+Flop: 2c Js 5s
+Raises: Teewee, chips: 10
+Raises: Moekinok, chips: 1890
+Calls: Teewee
+Turn: Ah
+River: 9h
+Pot size: 3820
+Showdown Reached
+Shows: Teewee, Jd 5d
+Combination: Teewee, Two Pair ( Jd Js 5d 5s Ah )
+Shows: Moekinok, 5c 5h
+Combination: Moekinok, Three Of A Kind ( 5c 5h 5s Ah Js )
+Wins: Moekinok, chips: 3820
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Teewee
+Small Blind: Teewee, chips: 5
+Big Blind: Moekinok, chips: 10
+Folds: Teewee
+Pot size: 15
+Wins: Moekinok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Moekinok
+Small Blind: Moekinok, chips: 5
+Big Blind: Teewee, chips: 10
+Calls: Moekinok
+Checks: Teewee
+Flop: 7c 4d 4s
+Raises: Teewee, chips: 10
+Calls: Moekinok
+Turn: 9d
+Checks: Teewee
+Checks: Moekinok
+River: 5d
+Checks: Teewee
+Checks: Moekinok
+Pot size: 40
+Showdown Reached
+Shows: Teewee, 8d 8c
+Combination: Teewee, Two Pair ( 8d 8c 4d 4s 9d )
+Shows: Moekinok, 6c Ac
+Combination: Moekinok, Pair ( 4d 4s Ac 9d 7c )
+Wins: Teewee, chips: 40
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Teewee
+Small Blind: Teewee, chips: 5
+Big Blind: Moekinok, chips: 10
+Folds: Teewee
+Pot size: 15
+Wins: Moekinok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Moekinok
+Small Blind: Moekinok, chips: 5
+Big Blind: Teewee, chips: 10
+Calls: Moekinok
+Checks: Teewee
+Flop: Qh 5s 7h
+Checks: Teewee
+Raises: Moekinok, chips: 3800
+Folds: Teewee
+Pot size: 3820
+Wins: Moekinok, chips: 3820
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Teewee
+Small Blind: Teewee, chips: 5
+Big Blind: Moekinok, chips: 10
+Folds: Teewee
+Pot size: 15
+Wins: Moekinok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Moekinok
+Small Blind: Moekinok, chips: 5
+Big Blind: Teewee, chips: 10
+Raises: Moekinok, chips: 3815
+Folds: Teewee
+Pot size: 3835
+Wins: Moekinok, chips: 3835
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Teewee
+Small Blind: Teewee, chips: 5
+Big Blind: Moekinok, chips: 10
+Folds: Teewee
+Pot size: 15
+Wins: Moekinok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Moekinok
+Small Blind: Moekinok, chips: 5
+Big Blind: Teewee, chips: 10
+Calls: Moekinok
+Raises: Teewee, chips: 3150
+Folds: Moekinok
+Pot size: 3170
+Wins: Teewee, chips: 3170
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Teewee
+Small Blind: Teewee, chips: 5
+Big Blind: Moekinok, chips: 10
+Calls: Teewee
+Checks: Moekinok
+Flop: Th 5h Jh
+Checks: Moekinok
+Checks: Teewee
+Turn: Js
+Checks: Moekinok
+Checks: Teewee
+River: Kc
+Checks: Moekinok
+Checks: Teewee
+Pot size: 20
+Showdown Reached
+Shows: Teewee, 6c Ac
+Combination: Teewee, Pair ( Jh Js Ac Kc Th )
+Shows: Moekinok, 6d Qs
+Combination: Moekinok, Pair ( Jh Js Kc Qs Th )
+Wins: Teewee, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Moekinok
+Small Blind: Moekinok, chips: 5
+Big Blind: Teewee, chips: 10
+Folds: Moekinok
+Pot size: 15
+Wins: Teewee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Teewee
+Small Blind: Teewee, chips: 5
+Big Blind: Moekinok, chips: 10
+Folds: Teewee
+Pot size: 15
+Wins: Moekinok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Moekinok
+Small Blind: Moekinok, chips: 5
+Big Blind: Teewee, chips: 10
+Folds: Moekinok
+Pot size: 15
+Wins: Teewee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Teewee
+Small Blind: Teewee, chips: 5
+Big Blind: Moekinok, chips: 10
+Folds: Teewee
+Pot size: 15
+Wins: Moekinok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Moekinok
+Small Blind: Moekinok, chips: 5
+Big Blind: Teewee, chips: 10
+Folds: Moekinok
+Pot size: 15
+Wins: Teewee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Teewee
+Small Blind: Teewee, chips: 5
+Big Blind: Moekinok, chips: 10
+Folds: Teewee
+Pot size: 15
+Wins: Moekinok, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Moekinok
+Small Blind: Moekinok, chips: 5
+Big Blind: Teewee, chips: 10
+Calls: Moekinok
+Raises: Teewee, chips: 10
+Raises: Moekinok, chips: 3800
+Calls: Teewee
+Flop: Td 7c 8s
+Turn: 8d
+River: 5s
+Pot size: 7000
+Showdown Reached
+Shows: Teewee, Qs As
+Combination: Teewee, Pair ( 8s 8d As Qs Td )
+Shows: Moekinok, 9s Js
+Combination: Moekinok, Straight ( Js Td 9s 8s 7c )
+Wins: Moekinok, chips: 7000
+Quits: Teewee, chips: 0
+Ranking: Moekinok, Place: 1, Score: 6000
+Reveal AI: Moekinok, AI: Smart
+Ranking: Teewee, Place: 2, Score: -1000
+Reveal AI: Teewee, AI: Smart
+Ranking: Funhu, Place: 3, Score: -1000
+Reveal AI: Funhu, AI: Random
+Ranking: Boettop, Place: 4, Score: -1000
+Reveal AI: Boettop, AI: Random
+Ranking: Peenhoenny, Place: 5, Score: -1000
+Reveal AI: Peenhoenny, AI: Call
+Ranking: Cheler, Place: 6, Score: -1000
+Reveal AI: Cheler, AI: AIMyBot1
+Ranking: Potim, Place: 7, Score: -1000
+Reveal AI: Potim, AI: Call
+
+Player Stats for Boettop, AI: Random
+General: deals: 1, actions: 3, preflop actions: 3
+Rounds Seen: flops: 35, turns: 30, rivers: 24, showdowns: 22
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 0
+Pre-Flop Stats: VP$IP: 1, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 0.628571, WSDW: 0
+
+
+Player Stats for Cheler, AI: AIMyBot1
+General: deals: 1, actions: 2, preflop actions: 2
+Rounds Seen: flops: 35, turns: 30, rivers: 24, showdowns: 22
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 0
+Pre-Flop Stats: VP$IP: 1, PFR: 1, 3Bet: 1
+Post-Flop Stats: AF: -1.#IND, WSD: 0.628571, WSDW: 0
+
+
+Player Stats for Funhu, AI: Random
+General: deals: 40, actions: 80, preflop actions: 37
+Rounds Seen: flops: 31, turns: 25, rivers: 20, showdowns: 18
+Wins: total: 21, showdown: 3, bluff: 18
+Chips: won: 640, lost: 1640, bought: 1000, forced bets: 200
+Pre-Flop Stats: VP$IP: 0.55, PFR: 0.275, 3Bet: 0.25
+Post-Flop Stats: AF: 11, WSD: 0.580645, WSDW: 0.166667
+
+
+Player Stats for Moekinok, AI: Smart
+General: deals: 75, actions: 123, preflop actions: 64
+Rounds Seen: flops: 24, turns: 21, rivers: 16, showdowns: 14
+Wins: total: 30, showdown: 8, bluff: 22
+Chips: won: 22885, lost: 16885, bought: 1000, forced bets: 465
+Pre-Flop Stats: VP$IP: 0.293333, PFR: 0.08, 3Bet: 0.0533333
+Post-Flop Stats: AF: 1.6, WSD: 0.583333, WSDW: 0.571429
+
+
+Player Stats for Peenhoenny, AI: Call
+General: deals: 1, actions: 2, preflop actions: 2
+Rounds Seen: flops: 35, turns: 30, rivers: 24, showdowns: 22
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 0
+Pre-Flop Stats: VP$IP: 1, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 0.628571, WSDW: 0
+
+
+Player Stats for Potim, AI: Call
+General: deals: 1, actions: 3, preflop actions: 3
+Rounds Seen: flops: 35, turns: 30, rivers: 24, showdowns: 22
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 0
+Pre-Flop Stats: VP$IP: 1, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 0.628571, WSDW: 0
+
+
+Player Stats for Teewee, AI: Smart
+General: deals: 75, actions: 158, preflop actions: 76
+Rounds Seen: flops: 32, turns: 27, rivers: 23, showdowns: 21
+Wins: total: 25, showdown: 12, bluff: 13
+Chips: won: 21100, lost: 22740, bought: 1000, forced bets: 460
+Pre-Flop Stats: VP$IP: 0.213333, PFR: 0.0533333, 3Bet: 0.0266667
+Post-Flop Stats: AF: 2, WSD: 0.65625, WSDW: 0.571429
+
+

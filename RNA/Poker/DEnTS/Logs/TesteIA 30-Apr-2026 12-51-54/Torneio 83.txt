@@ -1,0 +1,8846 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Purloe: Random
+Lemoer: Smart
+Wuginoe: Call
+Satta: Call
+Ruke: Smart
+Cheewri: Random
+Degi: AIMyBot1
+
+Joins: Purloe, chips: 1000
+Joins: Lemoer, chips: 1000
+Joins: Wuginoe, chips: 1000
+Joins: Satta, chips: 1000
+Joins: Ruke, chips: 1000
+Joins: Cheewri, chips: 1000
+Joins: Degi, chips: 1000
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ruke
+Small Blind: Cheewri, chips: 5
+Big Blind: Degi, chips: 10
+Raises: Purloe, chips: 20
+Folds: Lemoer
+Calls: Wuginoe
+Calls: Satta
+Folds: Ruke
+Calls: Cheewri
+Folds: Degi
+Flop: Tc 7d 9d
+Checks: Cheewri
+Checks: Purloe
+Checks: Wuginoe
+Checks: Satta
+Turn: Ah
+Checks: Cheewri
+Checks: Purloe
+Checks: Wuginoe
+Checks: Satta
+River: 6s
+Raises: Cheewri, chips: 20
+Calls: Purloe
+Calls: Wuginoe
+Calls: Satta
+Pot size: 210
+Showdown Reached
+Shows: Purloe, Th 5h
+Combination: Purloe, Pair ( Th Tc Ah 9d 7d )
+Shows: Wuginoe, Js 5d
+Combination: Wuginoe, High Card ( Ah Js Tc 9d 7d )
+Shows: Satta, 8d 2h
+Combination: Satta, Straight ( Tc 9d 8d 7d 6s )
+Shows: Cheewri, 8h 5s
+Combination: Cheewri, Straight ( Tc 9d 8h 7d 6s )
+Wins: Satta, chips: 105
+Wins: Cheewri, chips: 105
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Cheewri
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Calls: Wuginoe
+Calls: Satta
+Folds: Ruke
+Calls: Cheewri
+Folds: Degi
+Checks: Purloe
+Flop: 9h Ts 3s
+Raises: Purloe, chips: 10
+Calls: Wuginoe
+Calls: Satta
+Calls: Cheewri
+Turn: Kc
+Checks: Purloe
+Checks: Wuginoe
+Checks: Satta
+Raises: Cheewri, chips: 10
+Raises: Purloe, chips: 20
+Calls: Wuginoe
+Calls: Satta
+Calls: Cheewri
+River: 6d
+Checks: Purloe
+Checks: Wuginoe
+Checks: Satta
+Checks: Cheewri
+Pot size: 205
+Showdown Reached
+Shows: Purloe, Js Td
+Combination: Purloe, Pair ( Td Ts Kc Js 9h )
+Shows: Wuginoe, 4h 5d
+Combination: Wuginoe, High Card ( Kc Ts 9h 6d 5d )
+Shows: Satta, Jc 9c
+Combination: Satta, Pair ( 9c 9h Kc Jc Ts )
+Shows: Cheewri, 9d Ad
+Combination: Cheewri, Pair ( 9d 9h Ad Kc Ts )
+Wins: Purloe, chips: 205
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Calls: Wuginoe
+Calls: Satta
+Raises: Ruke, chips: 20
+Raises: Cheewri, chips: 50
+Folds: Degi
+Calls: Purloe
+Folds: Lemoer
+Calls: Wuginoe
+Calls: Satta
+Raises: Ruke, chips: 50
+Calls: Cheewri
+Raises: Purloe, chips: 100
+Calls: Wuginoe
+Calls: Satta
+Raises: Ruke, chips: 770
+Raises: Cheewri, chips: 5
+Calls: Purloe
+Calls: Wuginoe
+Calls: Satta
+Flop: Td 3s Ks
+Turn: 7h
+River: 5s
+Pot size: 4925
+Showdown Reached
+Shows: Purloe, 3d Th
+Combination: Purloe, Two Pair ( Th Td 3d 3s Ks )
+Shows: Wuginoe, Ah 7s
+Combination: Wuginoe, Pair ( 7s 7h Ah Ks Td )
+Shows: Satta, Jh 2s
+Combination: Satta, High Card ( Ks Jh Td 7h 5s )
+Shows: Ruke, 9d Jd
+Combination: Ruke, High Card ( Ks Jd Td 9d 7h )
+Shows: Cheewri, 2d Qh
+Combination: Cheewri, High Card ( Ks Qh Td 7h 5s )
+Wins: Purloe, chips: 4925
+Quits: Wuginoe, chips: 0
+Quits: Satta, chips: 0
+Quits: Ruke, chips: 0
+Quits: Cheewri, chips: 0
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Calls: Purloe
+Folds: Lemoer
+Checks: Degi
+Flop: Qh Jc Qs
+Checks: Degi
+Checks: Purloe
+Turn: Js
+Checks: Degi
+Checks: Purloe
+River: Ts
+Checks: Degi
+Checks: Purloe
+Pot size: 25
+Showdown Reached
+Shows: Purloe, 5h 7d
+Combination: Purloe, Two Pair ( Qh Qs Jc Js Ts )
+Shows: Degi, 2s Qc
+Combination: Degi, Full House ( Qc Qh Qs Jc Js )
+Wins: Degi, chips: 25
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Boasts: Purloe, Tc Qc
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Folds: Purloe
+Pot size: 15
+Boasts: Purloe, Qd 9s
+Wins: Lemoer, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Folds: Purloe
+Folds: Lemoer
+Pot size: 15
+Wins: Degi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Calls: Purloe
+Checks: Lemoer
+Flop: 8s Kd 4c
+Checks: Purloe
+Raises: Lemoer, chips: 10
+Folds: Purloe
+Pot size: 30
+Boasts: Purloe, 8c 3d
+Wins: Lemoer, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Raises: Purloe, chips: 20
+Calls: Lemoer
+Folds: Degi
+Flop: 9c 6h 2c
+Checks: Lemoer
+Checks: Purloe
+Turn: Td
+Checks: Lemoer
+Checks: Purloe
+River: 2h
+Checks: Lemoer
+Raises: Purloe, chips: 20
+Raises: Lemoer, chips: 50
+Folds: Purloe
+Pot size: 160
+Wins: Lemoer, chips: 160
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Calls: Purloe
+Checks: Lemoer
+Flop: Jc 3c 4d
+Checks: Purloe
+Checks: Lemoer
+Turn: 7s
+Checks: Purloe
+Checks: Lemoer
+River: Jd
+Checks: Purloe
+Checks: Lemoer
+Pot size: 20
+Showdown Reached
+Shows: Purloe, 3s Jh
+Combination: Purloe, Full House ( Jh Jc Jd 3s 3c )
+Shows: Lemoer, 9h 4c
+Combination: Lemoer, Two Pair ( Jc Jd 4c 4d 9h )
+Wins: Purloe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Folds: Purloe
+Calls: Lemoer
+Checks: Degi
+Flop: 2c 8d Kc
+Checks: Lemoer
+Checks: Degi
+Turn: 8h
+Checks: Lemoer
+Checks: Degi
+River: 7h
+Checks: Lemoer
+Checks: Degi
+Pot size: 20
+Showdown Reached
+Boasts: Purloe, Ah 2d
+Shows: Lemoer, 7d 6d
+Combination: Lemoer, Two Pair ( 8d 8h 7d 7h Kc )
+Shows: Degi, 6h 5h
+Combination: Degi, Pair ( 8d 8h Kc 7h 6h )
+Wins: Lemoer, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Calls: Lemoer
+Folds: Degi
+Checks: Purloe
+Flop: Kc 7h 2s
+Checks: Purloe
+Checks: Lemoer
+Turn: 8s
+Checks: Purloe
+Checks: Lemoer
+River: Ts
+Checks: Purloe
+Checks: Lemoer
+Pot size: 25
+Showdown Reached
+Shows: Purloe, 7s Qd
+Combination: Purloe, Pair ( 7s 7h Kc Qd Ts )
+Shows: Lemoer, Tc Js
+Combination: Lemoer, Pair ( Tc Ts Kc Js 8s )
+Wins: Lemoer, chips: 25
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Folds: Purloe
+Pot size: 15
+Wins: Lemoer, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Folds: Purloe
+Calls: Lemoer
+Checks: Degi
+Flop: 2h As 9s
+Checks: Lemoer
+Checks: Degi
+Turn: 2s
+Checks: Lemoer
+Checks: Degi
+River: 7c
+Checks: Lemoer
+Checks: Degi
+Pot size: 20
+Showdown Reached
+Boasts: Purloe, Ah Qs
+Shows: Lemoer, 4d 5s
+Combination: Lemoer, Pair ( 2h 2s As 9s 7c )
+Shows: Degi, 6d 2d
+Combination: Degi, Three Of A Kind ( 2d 2h 2s As 9s )
+Wins: Degi, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Calls: Lemoer
+Folds: Degi
+Checks: Purloe
+Flop: 9h 6c 7c
+Raises: Purloe, chips: 10
+Calls: Lemoer
+Turn: 7h
+Checks: Purloe
+Checks: Lemoer
+River: 3s
+Checks: Purloe
+Checks: Lemoer
+Pot size: 45
+Showdown Reached
+Shows: Purloe, Kc Jh
+Combination: Purloe, Pair ( 7c 7h Kc Jh 9h )
+Shows: Lemoer, 5s 6s
+Combination: Lemoer, Two Pair ( 7c 7h 6s 6c 9h )
+Wins: Lemoer, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Raises: Purloe, chips: 15
+Folds: Lemoer
+Pot size: 35
+Wins: Purloe, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Calls: Purloe
+Calls: Lemoer
+Checks: Degi
+Flop: 4d As Th
+Checks: Lemoer
+Checks: Degi
+Checks: Purloe
+Turn: 8h
+Checks: Lemoer
+Checks: Degi
+Checks: Purloe
+River: 7s
+Checks: Lemoer
+Checks: Degi
+Checks: Purloe
+Pot size: 30
+Showdown Reached
+Shows: Purloe, 9c 7d
+Combination: Purloe, Pair ( 7d 7s As Th 9c )
+Shows: Lemoer, Tc 9h
+Combination: Lemoer, Pair ( Tc Th As 9h 8h )
+Shows: Degi, Kh Js
+Combination: Degi, High Card ( As Kh Js Th 8h )
+Wins: Lemoer, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Calls: Lemoer
+Folds: Degi
+Raises: Purloe, chips: 10
+Folds: Lemoer
+Pot size: 35
+Wins: Purloe, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Folds: Purloe
+Pot size: 15
+Boasts: Purloe, 4d 6h
+Wins: Lemoer, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Calls: Purloe
+Calls: Lemoer
+Checks: Degi
+Flop: 3h Kd 4d
+Checks: Lemoer
+Checks: Degi
+Checks: Purloe
+Turn: 5h
+Checks: Lemoer
+Checks: Degi
+Raises: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 40
+Boasts: Purloe, 4s Tc
+Wins: Purloe, chips: 40
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Calls: Purloe
+Checks: Lemoer
+Flop: 9h 6d 2d
+Checks: Purloe
+Checks: Lemoer
+Turn: 3c
+Checks: Purloe
+Checks: Lemoer
+River: 8s
+Raises: Purloe, chips: 10
+Folds: Lemoer
+Pot size: 30
+Wins: Purloe, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Raises: Purloe, chips: 20
+Folds: Lemoer
+Folds: Degi
+Pot size: 45
+Boasts: Purloe, 3h 4c
+Wins: Purloe, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Calls: Lemoer
+Folds: Degi
+Checks: Purloe
+Flop: Ks 8s 9s
+Checks: Purloe
+Checks: Lemoer
+Turn: Qd
+Checks: Purloe
+Raises: Lemoer, chips: 10
+Calls: Purloe
+River: 3s
+Checks: Purloe
+Checks: Lemoer
+Pot size: 45
+Showdown Reached
+Shows: Purloe, 4h 3h
+Combination: Purloe, Pair ( 3h 3s Ks Qd 9s )
+Shows: Lemoer, Kh 9c
+Combination: Lemoer, Two Pair ( Kh Ks 9c 9s Qd )
+Wins: Lemoer, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Raises: Purloe, chips: 15
+Folds: Lemoer
+Pot size: 35
+Wins: Purloe, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Folds: Purloe
+Folds: Lemoer
+Pot size: 15
+Wins: Degi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Folds: Purloe
+Pot size: 15
+Wins: Lemoer, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Folds: Purloe
+Calls: Lemoer
+Checks: Degi
+Flop: 5s Js 3d
+Checks: Lemoer
+Checks: Degi
+Turn: 9d
+Checks: Lemoer
+Checks: Degi
+River: Jh
+Checks: Lemoer
+Checks: Degi
+Pot size: 20
+Showdown Reached
+Shows: Lemoer, Ts Qc
+Combination: Lemoer, Pair ( Js Jh Qc Ts 9d )
+Shows: Degi, 2h 3s
+Combination: Degi, Two Pair ( Js Jh 3s 3d 9d )
+Wins: Degi, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Calls: Lemoer
+Folds: Degi
+Checks: Purloe
+Flop: Ts 5s 8d
+Checks: Purloe
+Checks: Lemoer
+Turn: 4h
+Checks: Purloe
+Checks: Lemoer
+River: 5h
+Checks: Purloe
+Checks: Lemoer
+Pot size: 25
+Showdown Reached
+Shows: Purloe, As 4d
+Combination: Purloe, Two Pair ( 5s 5h 4d 4h As )
+Shows: Lemoer, Jd Qh
+Combination: Lemoer, Pair ( 5s 5h Qh Jd Ts )
+Wins: Purloe, chips: 25
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Calls: Purloe
+Checks: Lemoer
+Flop: 6h 3h 3d
+Checks: Purloe
+Checks: Lemoer
+Turn: Kc
+Checks: Purloe
+Raises: Lemoer, chips: 10
+Calls: Purloe
+River: 7h
+Checks: Purloe
+Raises: Lemoer, chips: 10
+Folds: Purloe
+Pot size: 50
+Wins: Lemoer, chips: 50
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Calls: Purloe
+Raises: Lemoer, chips: 1075
+Folds: Degi
+Calls: Purloe
+Flop: 8d 9c Qh
+Turn: 8s
+River: Ks
+Pot size: 2180
+Showdown Reached
+Shows: Purloe, 4h Ac
+Combination: Purloe, Pair ( 8d 8s Ac Ks Qh )
+Shows: Lemoer, 8c 8h
+Combination: Lemoer, Four Of A Kind ( 8c 8h 8d 8s Ks )
+Wins: Lemoer, chips: 2180
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Raises: Purloe, chips: 15
+Folds: Lemoer
+Pot size: 35
+Boasts: Purloe, 9d 3c
+Wins: Purloe, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Raises: Purloe, chips: 20
+Folds: Lemoer
+Folds: Degi
+Pot size: 45
+Wins: Purloe, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Calls: Lemoer
+Folds: Degi
+Raises: Purloe, chips: 10
+Calls: Lemoer
+Flop: Jh 9s 6c
+Checks: Purloe
+Raises: Lemoer, chips: 10
+Folds: Purloe
+Pot size: 55
+Wins: Lemoer, chips: 55
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Calls: Purloe
+Checks: Lemoer
+Flop: 8s 7s Ts
+Checks: Purloe
+Checks: Lemoer
+Turn: 6h
+Raises: Purloe, chips: 10
+Calls: Lemoer
+River: 4c
+Raises: Purloe, chips: 10
+Calls: Lemoer
+Pot size: 60
+Showdown Reached
+Shows: Purloe, 6d 2d
+Combination: Purloe, Pair ( 6d 6h Ts 8s 7s )
+Shows: Lemoer, 6s 8h
+Combination: Lemoer, Two Pair ( 8h 8s 6s 6h Ts )
+Wins: Lemoer, chips: 60
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Folds: Purloe
+Folds: Lemoer
+Pot size: 15
+Boasts: Purloe, 6s 2h
+Wins: Degi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Raises: Purloe, chips: 15
+Calls: Lemoer
+Flop: Ts 2h Qh
+Checks: Purloe
+Checks: Lemoer
+Turn: 9c
+Checks: Purloe
+Raises: Lemoer, chips: 20
+Raises: Purloe, chips: 40
+Raises: Lemoer, chips: 70
+Calls: Purloe
+River: 6c
+Checks: Purloe
+Raises: Lemoer, chips: 90
+Calls: Purloe
+Pot size: 490
+Showdown Reached
+Shows: Purloe, 5c 6s
+Combination: Purloe, Pair ( 6s 6c Qh Ts 9c )
+Shows: Lemoer, Tc Kd
+Combination: Lemoer, Pair ( Tc Ts Kd Qh 9c )
+Wins: Lemoer, chips: 490
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Folds: Purloe
+Raises: Lemoer, chips: 15
+Folds: Degi
+Pot size: 35
+Boasts: Purloe, 8c 8s
+Wins: Lemoer, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Calls: Lemoer
+Folds: Degi
+Checks: Purloe
+Flop: 4h Kc Qh
+Checks: Purloe
+Checks: Lemoer
+Turn: Ts
+Checks: Purloe
+Checks: Lemoer
+River: Jh
+Checks: Purloe
+Checks: Lemoer
+Pot size: 25
+Showdown Reached
+Shows: Purloe, 8h Js
+Combination: Purloe, Pair ( Js Jh Kc Qh Ts )
+Shows: Lemoer, Jd 7d
+Combination: Lemoer, Pair ( Jd Jh Kc Qh Ts )
+Wins: Purloe, chips: 13
+Wins: Lemoer, chips: 12
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Folds: Purloe
+Pot size: 15
+Wins: Lemoer, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Calls: Purloe
+Calls: Lemoer
+Checks: Degi
+Flop: Td 2h Kd
+Checks: Lemoer
+Checks: Degi
+Raises: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 40
+Boasts: Purloe, 9c 3s
+Wins: Purloe, chips: 40
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Calls: Lemoer
+Folds: Degi
+Raises: Purloe, chips: 10
+Calls: Lemoer
+Flop: Jh 3s 6s
+Checks: Purloe
+Raises: Lemoer, chips: 10
+Raises: Purloe, chips: 20
+Calls: Lemoer
+Turn: 8h
+Checks: Purloe
+Checks: Lemoer
+River: Jd
+Checks: Purloe
+Checks: Lemoer
+Pot size: 105
+Showdown Reached
+Shows: Purloe, As 8s
+Combination: Purloe, Two Pair ( Jh Jd 8s 8h As )
+Shows: Lemoer, Ks Td
+Combination: Lemoer, Pair ( Jh Jd Ks Td 8h )
+Wins: Purloe, chips: 105
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Calls: Purloe
+Checks: Lemoer
+Flop: 7d 4c 2h
+Raises: Purloe, chips: 10
+Calls: Lemoer
+Turn: Qh
+Checks: Purloe
+Checks: Lemoer
+River: Ad
+Raises: Purloe, chips: 10
+Folds: Lemoer
+Pot size: 50
+Wins: Purloe, chips: 50
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Calls: Purloe
+Folds: Lemoer
+Checks: Degi
+Flop: As Ks Jc
+Checks: Degi
+Checks: Purloe
+Turn: Kh
+Checks: Degi
+Checks: Purloe
+River: Qh
+Checks: Degi
+Checks: Purloe
+Pot size: 25
+Showdown Reached
+Shows: Purloe, 5h 9d
+Combination: Purloe, Pair ( Ks Kh As Qh Jc )
+Shows: Degi, Qc Tc
+Combination: Degi, Straight ( As Ks Qc Jc Tc )
+Wins: Degi, chips: 25
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Calls: Lemoer
+Folds: Degi
+Raises: Purloe, chips: 10
+Folds: Lemoer
+Pot size: 35
+Boasts: Purloe, Qc Qs
+Wins: Purloe, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Calls: Purloe
+Checks: Lemoer
+Flop: Jh 5c 7h
+Checks: Purloe
+Raises: Lemoer, chips: 10
+Folds: Purloe
+Pot size: 30
+Boasts: Purloe, 9d As
+Wins: Lemoer, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Raises: Purloe, chips: 20
+Folds: Lemoer
+Folds: Degi
+Pot size: 45
+Wins: Purloe, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Boasts: Purloe, Jc Td
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Calls: Purloe
+Raises: Lemoer, chips: 10
+Calls: Purloe
+Flop: Ks 4d 6d
+Raises: Purloe, chips: 10
+Raises: Lemoer, chips: 10
+Calls: Purloe
+Turn: 2c
+Checks: Purloe
+Checks: Lemoer
+River: Jh
+Checks: Purloe
+Checks: Lemoer
+Pot size: 80
+Showdown Reached
+Shows: Purloe, 2s 6h
+Combination: Purloe, Two Pair ( 6h 6d 2s 2c Ks )
+Shows: Lemoer, Qd Ad
+Combination: Lemoer, High Card ( Ad Ks Qd Jh 6d )
+Wins: Purloe, chips: 80
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Calls: Purloe
+Folds: Lemoer
+Checks: Degi
+Flop: 7h Kd 5s
+Checks: Degi
+Raises: Purloe, chips: 10
+Folds: Degi
+Pot size: 35
+Boasts: Purloe, 6c 5d
+Wins: Purloe, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Boasts: Purloe, 2s Kd
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Raises: Purloe, chips: 15
+Calls: Lemoer
+Flop: 3h Kh Tc
+Checks: Purloe
+Checks: Lemoer
+Turn: 3c
+Raises: Purloe, chips: 15
+Calls: Lemoer
+River: 4h
+Checks: Purloe
+Checks: Lemoer
+Pot size: 80
+Showdown Reached
+Shows: Purloe, 8s Ks
+Combination: Purloe, Two Pair ( Ks Kh 3h 3c Tc )
+Shows: Lemoer, Ac Jc
+Combination: Lemoer, Pair ( 3h 3c Ac Kh Jc )
+Wins: Purloe, chips: 80
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Folds: Purloe
+Calls: Lemoer
+Checks: Degi
+Flop: Js 5c 7c
+Raises: Lemoer, chips: 10
+Folds: Degi
+Pot size: 30
+Boasts: Purloe, Tc 2s
+Wins: Lemoer, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Boasts: Purloe, 3d 8c
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Raises: Purloe, chips: 15
+Folds: Lemoer
+Pot size: 35
+Boasts: Purloe, Jh Qc
+Wins: Purloe, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Raises: Purloe, chips: 20
+Folds: Lemoer
+Folds: Degi
+Pot size: 45
+Boasts: Purloe, 7s As
+Wins: Purloe, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Raises: Purloe, chips: 15
+Folds: Lemoer
+Pot size: 35
+Wins: Purloe, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Calls: Purloe
+Calls: Lemoer
+Checks: Degi
+Flop: Js 5c 9c
+Checks: Lemoer
+Checks: Degi
+Checks: Purloe
+Turn: Tc
+Checks: Lemoer
+Checks: Degi
+Checks: Purloe
+River: 2s
+Checks: Lemoer
+Checks: Degi
+Checks: Purloe
+Pot size: 30
+Showdown Reached
+Shows: Purloe, 8h Th
+Combination: Purloe, Pair ( Th Tc Js 9c 8h )
+Shows: Lemoer, Ac Kd
+Combination: Lemoer, High Card ( Ac Kd Js Tc 9c )
+Shows: Degi, 5d 9d
+Combination: Degi, Two Pair ( 9d 9c 5d 5c Js )
+Wins: Degi, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Calls: Lemoer
+Folds: Degi
+Checks: Purloe
+Flop: 8s Jh 9c
+Checks: Purloe
+Checks: Lemoer
+Turn: 4c
+Checks: Purloe
+Checks: Lemoer
+River: 3d
+Checks: Purloe
+Checks: Lemoer
+Pot size: 25
+Showdown Reached
+Shows: Purloe, 5h 7s
+Combination: Purloe, High Card ( Jh 9c 8s 7s 5h )
+Shows: Lemoer, 9d Kc
+Combination: Lemoer, Pair ( 9d 9c Kc Jh 8s )
+Wins: Lemoer, chips: 25
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Raises: Purloe, chips: 15
+Folds: Lemoer
+Pot size: 35
+Wins: Purloe, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Folds: Purloe
+Calls: Lemoer
+Checks: Degi
+Flop: Th 5c 6c
+Checks: Lemoer
+Checks: Degi
+Turn: 7h
+Raises: Lemoer, chips: 10
+Folds: Degi
+Pot size: 30
+Wins: Lemoer, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Calls: Lemoer
+Folds: Degi
+Checks: Purloe
+Flop: Kh Td 9s
+Checks: Purloe
+Checks: Lemoer
+Turn: Jd
+Raises: Purloe, chips: 10
+Folds: Lemoer
+Pot size: 35
+Wins: Purloe, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Calls: Purloe
+Checks: Lemoer
+Flop: 5c Qs 7s
+Raises: Purloe, chips: 10
+Folds: Lemoer
+Pot size: 30
+Wins: Purloe, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Raises: Purloe, chips: 20
+Folds: Lemoer
+Folds: Degi
+Pot size: 45
+Boasts: Purloe, 5h 2h
+Wins: Purloe, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Boasts: Purloe, 6c As
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Raises: Purloe, chips: 15
+Folds: Lemoer
+Pot size: 35
+Wins: Purloe, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Calls: Purloe
+Folds: Lemoer
+Checks: Degi
+Flop: Tc 3d Qd
+Checks: Degi
+Raises: Purloe, chips: 10
+Folds: Degi
+Pot size: 35
+Boasts: Purloe, Jh Kh
+Wins: Purloe, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Calls: Lemoer
+Folds: Degi
+Checks: Purloe
+Flop: 2s 3h 9h
+Raises: Purloe, chips: 10
+Calls: Lemoer
+Turn: 9d
+Checks: Purloe
+Checks: Lemoer
+River: 6c
+Checks: Purloe
+Raises: Lemoer, chips: 10
+Folds: Purloe
+Pot size: 55
+Wins: Lemoer, chips: 55
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Folds: Purloe
+Pot size: 15
+Wins: Lemoer, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Folds: Purloe
+Calls: Lemoer
+Checks: Degi
+Flop: Jc 8d Jh
+Checks: Lemoer
+Checks: Degi
+Turn: 4d
+Checks: Lemoer
+Checks: Degi
+River: 9c
+Checks: Lemoer
+Checks: Degi
+Pot size: 20
+Showdown Reached
+Boasts: Purloe, Kd As
+Shows: Lemoer, 6c 8c
+Combination: Lemoer, Two Pair ( Jc Jh 8c 8d 9c )
+Shows: Degi, Ah 6d
+Combination: Degi, Pair ( Jc Jh Ah 9c 8d )
+Wins: Lemoer, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Boasts: Purloe, 7s Jc
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Folds: Purloe
+Pot size: 15
+Wins: Lemoer, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Folds: Purloe
+Folds: Lemoer
+Pot size: 15
+Boasts: Purloe, 7c 4d
+Wins: Degi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Boasts: Purloe, Jc Kc
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Raises: Purloe, chips: 15
+Folds: Lemoer
+Pot size: 35
+Boasts: Purloe, Jc Ad
+Wins: Purloe, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Calls: Purloe
+Calls: Lemoer
+Checks: Degi
+Flop: 4h Js Ah
+Checks: Lemoer
+Checks: Degi
+Raises: Purloe, chips: 10
+Calls: Lemoer
+Folds: Degi
+Turn: 7s
+Checks: Lemoer
+Checks: Purloe
+River: 2s
+Raises: Lemoer, chips: 10
+Folds: Purloe
+Pot size: 60
+Boasts: Purloe, 3c Kh
+Wins: Lemoer, chips: 60
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Calls: Lemoer
+Folds: Degi
+Raises: Purloe, chips: 10
+Raises: Lemoer, chips: 10
+Folds: Purloe
+Pot size: 55
+Boasts: Purloe, Kh 7h
+Wins: Lemoer, chips: 55
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Folds: Purloe
+Pot size: 15
+Wins: Lemoer, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Folds: Purloe
+Folds: Lemoer
+Pot size: 15
+Boasts: Purloe, 5h 9c
+Wins: Degi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Boasts: Purloe, Ac 9s
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Calls: Purloe
+Checks: Lemoer
+Flop: 6s Td 7d
+Checks: Purloe
+Checks: Lemoer
+Turn: Kc
+Checks: Purloe
+Checks: Lemoer
+River: 4h
+Checks: Purloe
+Checks: Lemoer
+Pot size: 20
+Showdown Reached
+Shows: Purloe, Qh 5s
+Combination: Purloe, High Card ( Kc Qh Td 7d 6s )
+Shows: Lemoer, Jh 2c
+Combination: Lemoer, High Card ( Kc Jh Td 7d 6s )
+Wins: Purloe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Folds: Purloe
+Folds: Lemoer
+Pot size: 15
+Wins: Degi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Raises: Lemoer, chips: 20
+Folds: Degi
+Raises: Purloe, chips: 40
+Raises: Lemoer, chips: 110
+Calls: Purloe
+Flop: Qh Jc 4h
+Checks: Purloe
+Raises: Lemoer, chips: 190
+Raises: Purloe, chips: 380
+Raises: Lemoer, chips: 460
+Calls: Purloe
+Turn: 8h
+Checks: Purloe
+Checks: Lemoer
+River: 9c
+Raises: Purloe, chips: 460
+Folds: Lemoer
+Pot size: 2885
+Boasts: Purloe, 7s 6c
+Wins: Purloe, chips: 2885
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Calls: Purloe
+Checks: Lemoer
+Flop: 2s 2c Jh
+Checks: Purloe
+Checks: Lemoer
+Turn: Ad
+Raises: Purloe, chips: 10
+Folds: Lemoer
+Pot size: 30
+Boasts: Purloe, 5c 4s
+Wins: Purloe, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Calls: Purloe
+Folds: Lemoer
+Checks: Degi
+Flop: Ad 3d Tc
+Checks: Degi
+Checks: Purloe
+Turn: As
+Checks: Degi
+Checks: Purloe
+River: Qs
+Checks: Degi
+Raises: Purloe, chips: 10
+Folds: Degi
+Pot size: 35
+Boasts: Purloe, 5s Ac
+Wins: Purloe, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Calls: Lemoer
+Folds: Degi
+Checks: Purloe
+Flop: 7c 8h 2s
+Checks: Purloe
+Checks: Lemoer
+Turn: Qc
+Raises: Purloe, chips: 10
+Calls: Lemoer
+River: Ts
+Checks: Purloe
+Checks: Lemoer
+Pot size: 45
+Showdown Reached
+Shows: Purloe, Js Qd
+Combination: Purloe, Pair ( Qd Qc Js Ts 8h )
+Shows: Lemoer, Kc 2c
+Combination: Lemoer, Pair ( 2c 2s Kc Qc Ts )
+Wins: Purloe, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Folds: Purloe
+Pot size: 15
+Boasts: Purloe, Kd Ts
+Wins: Lemoer, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Raises: Purloe, chips: 20
+Folds: Lemoer
+Folds: Degi
+Pot size: 45
+Boasts: Purloe, 2d 7h
+Wins: Purloe, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Boasts: Purloe, Ts 7c
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Folds: Purloe
+Pot size: 15
+Wins: Lemoer, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Raises: Purloe, chips: 20
+Folds: Lemoer
+Folds: Degi
+Pot size: 45
+Boasts: Purloe, 7d 6s
+Wins: Purloe, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Calls: Lemoer
+Folds: Degi
+Checks: Purloe
+Flop: 8d 4d Jc
+Checks: Purloe
+Checks: Lemoer
+Turn: Qh
+Checks: Purloe
+Raises: Lemoer, chips: 10
+Folds: Purloe
+Pot size: 35
+Boasts: Purloe, 3c Ad
+Wins: Lemoer, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Calls: Purloe
+Checks: Lemoer
+Flop: 4d Kd 4s
+Raises: Purloe, chips: 10
+Folds: Lemoer
+Pot size: 30
+Wins: Purloe, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Raises: Purloe, chips: 20
+Folds: Lemoer
+Folds: Degi
+Pot size: 45
+Boasts: Purloe, 2h 5d
+Wins: Purloe, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Calls: Purloe
+Checks: Lemoer
+Flop: 2h 3s 5h
+Checks: Purloe
+Raises: Lemoer, chips: 10
+Calls: Purloe
+Turn: Jc
+Checks: Purloe
+Checks: Lemoer
+River: 5s
+Checks: Purloe
+Raises: Lemoer, chips: 10
+Raises: Purloe, chips: 20
+Raises: Lemoer, chips: 30
+Raises: Purloe, chips: 60
+Calls: Lemoer
+Pot size: 280
+Showdown Reached
+Shows: Purloe, Ah 6h
+Combination: Purloe, Pair ( 5h 5s Ah Jc 6h )
+Shows: Lemoer, 5d 8s
+Combination: Lemoer, Three Of A Kind ( 5d 5h 5s Jc 8s )
+Wins: Lemoer, chips: 280
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Folds: Purloe
+Folds: Lemoer
+Pot size: 15
+Boasts: Purloe, Qs 4h
+Wins: Degi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Folds: Purloe
+Pot size: 15
+Boasts: Purloe, Ac Qs
+Wins: Lemoer, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Raises: Purloe, chips: 20
+Folds: Lemoer
+Folds: Degi
+Pot size: 45
+Wins: Purloe, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Raises: Lemoer, chips: 10
+Folds: Degi
+Raises: Purloe, chips: 20
+Raises: Lemoer, chips: 30
+Raises: Purloe, chips: 60
+Calls: Lemoer
+Flop: Ah 3d 3h
+Checks: Purloe
+Raises: Lemoer, chips: 110
+Folds: Purloe
+Pot size: 375
+Wins: Lemoer, chips: 375
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Calls: Purloe
+Checks: Lemoer
+Flop: 9c 3d 7s
+Checks: Purloe
+Raises: Lemoer, chips: 10
+Folds: Purloe
+Pot size: 30
+Wins: Lemoer, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Raises: Purloe, chips: 20
+Folds: Lemoer
+Folds: Degi
+Pot size: 45
+Wins: Purloe, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Boasts: Purloe, 3s Ah
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Raises: Purloe, chips: 15
+Calls: Lemoer
+Flop: 2h Qc 2c
+Checks: Purloe
+Checks: Lemoer
+Turn: 9h
+Raises: Purloe, chips: 15
+Calls: Lemoer
+River: Jd
+Raises: Purloe, chips: 15
+Folds: Lemoer
+Pot size: 95
+Wins: Purloe, chips: 95
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Calls: Purloe
+Folds: Lemoer
+Checks: Degi
+Flop: Qs 6c 4h
+Checks: Degi
+Checks: Purloe
+Turn: 5c
+Checks: Degi
+Checks: Purloe
+River: 7s
+Checks: Degi
+Checks: Purloe
+Pot size: 25
+Showdown Reached
+Shows: Purloe, Td 9c
+Combination: Purloe, High Card ( Qs Td 9c 7s 6c )
+Shows: Degi, 8c 7h
+Combination: Degi, Straight ( 8c 7h 6c 5c 4h )
+Wins: Degi, chips: 25
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Boasts: Purloe, Qc Ad
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Raises: Purloe, chips: 15
+Raises: Lemoer, chips: 15
+Calls: Purloe
+Flop: Tc 2d Kc
+Checks: Purloe
+Raises: Lemoer, chips: 20
+Raises: Purloe, chips: 40
+Calls: Lemoer
+Turn: Ts
+Checks: Purloe
+Checks: Lemoer
+River: Qs
+Checks: Purloe
+Checks: Lemoer
+Pot size: 200
+Showdown Reached
+Shows: Purloe, Qd 6h
+Combination: Purloe, Two Pair ( Qd Qs Tc Ts Kc )
+Shows: Lemoer, 9c Qc
+Combination: Lemoer, Two Pair ( Qc Qs Tc Ts Kc )
+Wins: Purloe, chips: 100
+Wins: Lemoer, chips: 100
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Folds: Purloe
+Folds: Lemoer
+Pot size: 15
+Wins: Degi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Boasts: Purloe, Qh Ac
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Calls: Purloe
+Checks: Lemoer
+Flop: 3h 6d 8h
+Checks: Purloe
+Checks: Lemoer
+Turn: Js
+Checks: Purloe
+Checks: Lemoer
+River: Tc
+Checks: Purloe
+Checks: Lemoer
+Pot size: 20
+Showdown Reached
+Shows: Purloe, 5d 2s
+Combination: Purloe, High Card ( Js Tc 8h 6d 5d )
+Shows: Lemoer, Qh 4s
+Combination: Lemoer, High Card ( Qh Js Tc 8h 6d )
+Wins: Lemoer, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Calls: Purloe
+Folds: Lemoer
+Checks: Degi
+Flop: Kh 9s Tc
+Checks: Degi
+Raises: Purloe, chips: 10
+Folds: Degi
+Pot size: 35
+Wins: Purloe, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Calls: Lemoer
+Folds: Degi
+Checks: Purloe
+Flop: Th 4c Td
+Raises: Purloe, chips: 10
+Calls: Lemoer
+Turn: 2h
+Checks: Purloe
+Raises: Lemoer, chips: 10
+Folds: Purloe
+Pot size: 55
+Wins: Lemoer, chips: 55
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Folds: Purloe
+Pot size: 15
+Boasts: Purloe, 9s As
+Wins: Lemoer, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Folds: Purloe
+Folds: Lemoer
+Pot size: 15
+Boasts: Purloe, Tc Kd
+Wins: Degi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Boasts: Purloe, Kc Tc
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Calls: Purloe
+Checks: Lemoer
+Flop: 9d 8s 3c
+Checks: Purloe
+Checks: Lemoer
+Turn: Qd
+Checks: Purloe
+Raises: Lemoer, chips: 10
+Raises: Purloe, chips: 20
+Calls: Lemoer
+River: 8c
+Checks: Purloe
+Checks: Lemoer
+Pot size: 80
+Showdown Reached
+Shows: Purloe, 7h 2c
+Combination: Purloe, Pair ( 8s 8c Qd 9d 7h )
+Shows: Lemoer, Qc 7d
+Combination: Lemoer, Two Pair ( Qc Qd 8s 8c 9d )
+Wins: Lemoer, chips: 80
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Calls: Purloe
+Calls: Lemoer
+Checks: Degi
+Flop: Tc Qh 6d
+Checks: Lemoer
+Checks: Degi
+Checks: Purloe
+Turn: Kh
+Checks: Lemoer
+Checks: Degi
+Checks: Purloe
+River: Jd
+Checks: Lemoer
+Checks: Degi
+Checks: Purloe
+Pot size: 30
+Showdown Reached
+Shows: Purloe, 3h Qd
+Combination: Purloe, Pair ( Qd Qh Kh Jd Tc )
+Shows: Lemoer, 3c 4c
+Combination: Lemoer, High Card ( Kh Qh Jd Tc 6d )
+Shows: Degi, 4d 8h
+Combination: Degi, High Card ( Kh Qh Jd Tc 8h )
+Wins: Purloe, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Raises: Purloe, chips: 15
+Folds: Lemoer
+Pot size: 35
+Boasts: Purloe, Js 5d
+Wins: Purloe, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Calls: Purloe
+Calls: Lemoer
+Checks: Degi
+Flop: Kh 8h Jc
+Checks: Lemoer
+Checks: Degi
+Checks: Purloe
+Turn: Kd
+Checks: Lemoer
+Checks: Degi
+Checks: Purloe
+River: 9s
+Checks: Lemoer
+Checks: Degi
+Checks: Purloe
+Pot size: 30
+Showdown Reached
+Shows: Purloe, 5d 5s
+Combination: Purloe, Two Pair ( Kh Kd 5d 5s Jc )
+Shows: Lemoer, 6s 7h
+Combination: Lemoer, Pair ( Kh Kd Jc 9s 8h )
+Shows: Degi, Qh 7d
+Combination: Degi, Pair ( Kh Kd Qh Jc 9s )
+Wins: Purloe, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Boasts: Purloe, Ah Td
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Calls: Purloe
+Checks: Lemoer
+Flop: 3h 7h Ah
+Checks: Purloe
+Checks: Lemoer
+Turn: 9h
+Checks: Purloe
+Checks: Lemoer
+River: Ac
+Raises: Purloe, chips: 10
+Folds: Lemoer
+Pot size: 30
+Boasts: Purloe, 6s 8d
+Wins: Purloe, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Raises: Purloe, chips: 20
+Folds: Lemoer
+Folds: Degi
+Pot size: 45
+Boasts: Purloe, Jd 4h
+Wins: Purloe, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Raises: Purloe, chips: 15
+Calls: Lemoer
+Flop: Th 6h 8c
+Checks: Purloe
+Raises: Lemoer, chips: 20
+Calls: Purloe
+Turn: 5d
+Checks: Purloe
+Checks: Lemoer
+River: 2h
+Checks: Purloe
+Checks: Lemoer
+Pot size: 90
+Showdown Reached
+Shows: Purloe, 9h As
+Combination: Purloe, High Card ( As Th 9h 8c 6h )
+Shows: Lemoer, Jh Qs
+Combination: Lemoer, High Card ( Qs Jh Th 8c 6h )
+Wins: Purloe, chips: 90
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Raises: Purloe, chips: 20
+Folds: Lemoer
+Folds: Degi
+Pot size: 45
+Boasts: Purloe, 9c 3c
+Wins: Purloe, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Folds: Purloe
+Pot size: 15
+Boasts: Purloe, 8d Qs
+Wins: Lemoer, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Calls: Purloe
+Folds: Lemoer
+Checks: Degi
+Flop: 9h Td 4h
+Checks: Degi
+Checks: Purloe
+Turn: Ks
+Checks: Degi
+Raises: Purloe, chips: 10
+Folds: Degi
+Pot size: 35
+Wins: Purloe, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Boasts: Purloe, 2s Qd
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Raises: Purloe, chips: 15
+Calls: Lemoer
+Flop: Ks 2h 4c
+Checks: Purloe
+Checks: Lemoer
+Turn: 6h
+Checks: Purloe
+Checks: Lemoer
+River: 3d
+Raises: Purloe, chips: 15
+Folds: Lemoer
+Pot size: 65
+Wins: Purloe, chips: 65
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Raises: Purloe, chips: 20
+Folds: Lemoer
+Folds: Degi
+Pot size: 45
+Wins: Purloe, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Calls: Lemoer
+Folds: Degi
+Raises: Purloe, chips: 10
+Calls: Lemoer
+Flop: 3s 7h 8c
+Raises: Purloe, chips: 10
+Calls: Lemoer
+Turn: 8d
+Checks: Purloe
+Checks: Lemoer
+River: Kc
+Checks: Purloe
+Checks: Lemoer
+Pot size: 65
+Showdown Reached
+Shows: Purloe, 2h 5h
+Combination: Purloe, Pair ( 8c 8d Kc 7h 5h )
+Shows: Lemoer, Ad 4d
+Combination: Lemoer, Pair ( 8c 8d Ad Kc 7h )
+Wins: Lemoer, chips: 65
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Calls: Purloe
+Checks: Lemoer
+Flop: 2c Ah Kd
+Checks: Purloe
+Checks: Lemoer
+Turn: 9c
+Checks: Purloe
+Checks: Lemoer
+River: As
+Checks: Purloe
+Checks: Lemoer
+Pot size: 20
+Showdown Reached
+Shows: Purloe, Ad 9s
+Combination: Purloe, Full House ( Ad Ah As 9s 9c )
+Shows: Lemoer, Jd 7d
+Combination: Lemoer, Pair ( Ah As Kd Jd 9c )
+Wins: Purloe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Calls: Purloe
+Folds: Lemoer
+Checks: Degi
+Flop: Td 5h 8d
+Checks: Degi
+Checks: Purloe
+Turn: 8c
+Checks: Degi
+Checks: Purloe
+River: 3c
+Checks: Degi
+Checks: Purloe
+Pot size: 25
+Showdown Reached
+Shows: Purloe, Kh 4d
+Combination: Purloe, Pair ( 8d 8c Kh Td 5h )
+Shows: Degi, 6h 7h
+Combination: Degi, Pair ( 8d 8c Td 7h 6h )
+Wins: Purloe, chips: 25
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Boasts: Purloe, Qs Ah
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Folds: Purloe
+Pot size: 15
+Wins: Lemoer, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Raises: Purloe, chips: 20
+Folds: Lemoer
+Folds: Degi
+Pot size: 45
+Wins: Purloe, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Calls: Lemoer
+Folds: Degi
+Raises: Purloe, chips: 10
+Folds: Lemoer
+Pot size: 35
+Wins: Purloe, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Folds: Purloe
+Pot size: 15
+Boasts: Purloe, 7h 5s
+Wins: Lemoer, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Folds: Purloe
+Calls: Lemoer
+Checks: Degi
+Flop: 3d 7h 9c
+Checks: Lemoer
+Checks: Degi
+Turn: 7s
+Checks: Lemoer
+Checks: Degi
+River: 9h
+Checks: Lemoer
+Checks: Degi
+Pot size: 20
+Showdown Reached
+Boasts: Purloe, Jc 2c
+Shows: Lemoer, 4d 4c
+Combination: Lemoer, Two Pair ( 9c 9h 7h 7s 4d )
+Shows: Degi, Kc Qc
+Combination: Degi, Two Pair ( 9c 9h 7h 7s Kc )
+Wins: Degi, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Calls: Lemoer
+Folds: Degi
+Checks: Purloe
+Flop: Kd 9d 9c
+Raises: Purloe, chips: 5183
+Folds: Lemoer
+Pot size: 5208
+Wins: Purloe, chips: 5208
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Calls: Purloe
+Checks: Lemoer
+Flop: 2d Qs 3c
+Raises: Purloe, chips: 10
+Calls: Lemoer
+Turn: 7c
+Checks: Purloe
+Checks: Lemoer
+River: 2c
+Checks: Purloe
+Checks: Lemoer
+Pot size: 40
+Showdown Reached
+Shows: Purloe, 5c 8d
+Combination: Purloe, Pair ( 2d 2c Qs 8d 7c )
+Shows: Lemoer, Td Ac
+Combination: Lemoer, Pair ( 2d 2c Ac Qs Td )
+Wins: Lemoer, chips: 40
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Folds: Purloe
+Folds: Lemoer
+Pot size: 15
+Wins: Degi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Boasts: Purloe, Ks Jc
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Folds: Purloe
+Pot size: 15
+Boasts: Purloe, 4c As
+Wins: Lemoer, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Calls: Purloe
+Folds: Lemoer
+Checks: Degi
+Flop: 2d Qh Ks
+Checks: Degi
+Raises: Purloe, chips: 10
+Folds: Degi
+Pot size: 35
+Boasts: Purloe, 6c 5c
+Wins: Purloe, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Boasts: Purloe, 8c 7d
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Raises: Purloe, chips: 15
+Calls: Lemoer
+Flop: 6c 2h Qh
+Raises: Purloe, chips: 15
+Folds: Lemoer
+Pot size: 65
+Boasts: Purloe, Jh 8d
+Wins: Purloe, chips: 65
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Folds: Purloe
+Calls: Lemoer
+Checks: Degi
+Flop: 7c Qd 3s
+Raises: Lemoer, chips: 10
+Folds: Degi
+Pot size: 30
+Wins: Lemoer, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Folds: Purloe
+Pot size: 15
+Wins: Lemoer, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Calls: Purloe
+Calls: Lemoer
+Checks: Degi
+Flop: 4c 2c Kh
+Checks: Lemoer
+Checks: Degi
+Checks: Purloe
+Turn: Qd
+Checks: Lemoer
+Checks: Degi
+Checks: Purloe
+River: 4d
+Checks: Lemoer
+Checks: Degi
+Checks: Purloe
+Pot size: 30
+Showdown Reached
+Shows: Purloe, 7h 8h
+Combination: Purloe, Pair ( 4c 4d Kh Qd 8h )
+Shows: Lemoer, 5c Kc
+Combination: Lemoer, Two Pair ( Kc Kh 4c 4d Qd )
+Shows: Degi, 5d 3h
+Combination: Degi, Pair ( 4c 4d Kh Qd 5d )
+Wins: Lemoer, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Raises: Lemoer, chips: 20
+Folds: Degi
+Raises: Purloe, chips: 40
+Folds: Lemoer
+Pot size: 105
+Boasts: Purloe, 4h 9s
+Wins: Purloe, chips: 105
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Raises: Purloe, chips: 15
+Folds: Lemoer
+Pot size: 35
+Boasts: Purloe, Qs Kd
+Wins: Purloe, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Calls: Purloe
+Folds: Lemoer
+Checks: Degi
+Flop: 4c Qh Kh
+Checks: Degi
+Raises: Purloe, chips: 10
+Folds: Degi
+Pot size: 35
+Wins: Purloe, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Raises: Purloe, chips: 15
+Folds: Lemoer
+Pot size: 35
+Wins: Purloe, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Calls: Purloe
+Calls: Lemoer
+Checks: Degi
+Flop: Kc Qd Ks
+Raises: Lemoer, chips: 1202
+Folds: Degi
+Raises: Purloe, chips: 1212
+Turn: 4c
+River: 9h
+Pot size: 3646
+Showdown Reached
+Shows: Purloe, 9d 7h
+Combination: Purloe, Two Pair ( Kc Ks 9d 9h Qd )
+Shows: Lemoer, Kd 7d
+Combination: Lemoer, Three Of A Kind ( Kd Kc Ks Qd 9h )
+Wins: Purloe, chips: 1212
+Wins: Lemoer, chips: 2434
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Boasts: Purloe, 6c Qd
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Raises: Purloe, chips: 15
+Calls: Lemoer
+Flop: Js Kh 5d
+Checks: Purloe
+Checks: Lemoer
+Turn: Qs
+Checks: Purloe
+Checks: Lemoer
+River: 2h
+Checks: Purloe
+Checks: Lemoer
+Pot size: 50
+Showdown Reached
+Shows: Purloe, As Jc
+Combination: Purloe, Pair ( Jc Js As Kh Qs )
+Shows: Lemoer, Ts Qc
+Combination: Lemoer, Pair ( Qc Qs Kh Js Ts )
+Wins: Lemoer, chips: 50
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Folds: Purloe
+Folds: Lemoer
+Pot size: 15
+Boasts: Purloe, Kc Qc
+Wins: Degi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Calls: Lemoer
+Folds: Degi
+Checks: Purloe
+Flop: 9h Qd 8d
+Checks: Purloe
+Checks: Lemoer
+Turn: 5d
+Raises: Purloe, chips: 10
+Raises: Lemoer, chips: 20
+Folds: Purloe
+Pot size: 65
+Wins: Lemoer, chips: 65
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Raises: Purloe, chips: 15
+Folds: Lemoer
+Pot size: 35
+Wins: Purloe, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Folds: Purloe
+Calls: Lemoer
+Checks: Degi
+Flop: Kd Td 5s
+Checks: Lemoer
+Checks: Degi
+Turn: 2h
+Checks: Lemoer
+Checks: Degi
+River: As
+Raises: Lemoer, chips: 10
+Folds: Degi
+Pot size: 30
+Wins: Lemoer, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Boasts: Purloe, 3d 7d
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Folds: Purloe
+Pot size: 15
+Boasts: Purloe, Jc 9h
+Wins: Lemoer, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Raises: Purloe, chips: 20
+Raises: Lemoer, chips: 55
+Folds: Degi
+Raises: Purloe, chips: 110
+Folds: Lemoer
+Pot size: 290
+Boasts: Purloe, 6d Jh
+Wins: Purloe, chips: 290
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Calls: Purloe
+Checks: Lemoer
+Flop: 7c As Qd
+Checks: Purloe
+Checks: Lemoer
+Turn: 8s
+Checks: Purloe
+Checks: Lemoer
+River: Td
+Checks: Purloe
+Checks: Lemoer
+Pot size: 20
+Showdown Reached
+Shows: Purloe, 9d 5c
+Combination: Purloe, High Card ( As Qd Td 9d 8s )
+Shows: Lemoer, Js 3h
+Combination: Lemoer, High Card ( As Qd Js Td 8s )
+Wins: Lemoer, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Raises: Purloe, chips: 20
+Folds: Lemoer
+Folds: Degi
+Pot size: 45
+Wins: Purloe, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Calls: Lemoer
+Folds: Degi
+Checks: Purloe
+Flop: 4c 6h Jd
+Checks: Purloe
+Checks: Lemoer
+Turn: 3s
+Checks: Purloe
+Checks: Lemoer
+River: Jc
+Raises: Purloe, chips: 10
+Calls: Lemoer
+Pot size: 45
+Showdown Reached
+Shows: Purloe, As 9c
+Combination: Purloe, Pair ( Jd Jc As 9c 6h )
+Shows: Lemoer, 3h 5h
+Combination: Lemoer, Two Pair ( Jd Jc 3h 3s 6h )
+Wins: Lemoer, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Folds: Purloe
+Pot size: 15
+Wins: Lemoer, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Folds: Purloe
+Calls: Lemoer
+Checks: Degi
+Flop: 7c Kc 2d
+Checks: Lemoer
+Checks: Degi
+Turn: Kd
+Raises: Lemoer, chips: 10
+Folds: Degi
+Pot size: 30
+Wins: Lemoer, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Calls: Lemoer
+Folds: Degi
+Raises: Purloe, chips: 10
+Folds: Lemoer
+Pot size: 35
+Boasts: Purloe, 6s 7h
+Wins: Purloe, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Calls: Purloe
+Checks: Lemoer
+Flop: As Kd 6d
+Checks: Purloe
+Checks: Lemoer
+Turn: 2c
+Raises: Purloe, chips: 4141
+Folds: Lemoer
+Pot size: 4161
+Wins: Purloe, chips: 4161
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Raises: Purloe, chips: 20
+Folds: Lemoer
+Folds: Degi
+Pot size: 45
+Boasts: Purloe, Jd 2h
+Wins: Purloe, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Raises: Lemoer, chips: 10
+Folds: Degi
+Calls: Purloe
+Flop: Ac 7s 3d
+Raises: Purloe, chips: 10
+Raises: Lemoer, chips: 20
+Folds: Purloe
+Pot size: 85
+Wins: Lemoer, chips: 85
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Calls: Purloe
+Checks: Lemoer
+Flop: 2h 4c Ah
+Raises: Purloe, chips: 10
+Folds: Lemoer
+Pot size: 30
+Wins: Purloe, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Folds: Purloe
+Calls: Lemoer
+Checks: Degi
+Flop: 6d Jd 9c
+Raises: Lemoer, chips: 10
+Folds: Degi
+Pot size: 30
+Boasts: Purloe, 3c 9d
+Wins: Lemoer, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Calls: Lemoer
+Folds: Degi
+Checks: Purloe
+Flop: Kh 7h 3c
+Checks: Purloe
+Raises: Lemoer, chips: 10
+Folds: Purloe
+Pot size: 35
+Wins: Lemoer, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Raises: Purloe, chips: 15
+Folds: Lemoer
+Pot size: 35
+Boasts: Purloe, 3h 9h
+Wins: Purloe, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Raises: Purloe, chips: 4146
+Folds: Lemoer
+Folds: Degi
+Pot size: 4171
+Wins: Purloe, chips: 4171
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Calls: Lemoer
+Folds: Degi
+Checks: Purloe
+Flop: Ks 6c Qs
+Checks: Purloe
+Checks: Lemoer
+Turn: 3h
+Checks: Purloe
+Checks: Lemoer
+River: 6d
+Checks: Purloe
+Checks: Lemoer
+Pot size: 25
+Showdown Reached
+Shows: Purloe, 7h 8s
+Combination: Purloe, Pair ( 6c 6d Ks Qs 8s )
+Shows: Lemoer, As 6s
+Combination: Lemoer, Three Of A Kind ( 6s 6c 6d As Ks )
+Wins: Lemoer, chips: 25
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Calls: Purloe
+Checks: Lemoer
+Flop: 2c 6h 4c
+Raises: Purloe, chips: 10
+Raises: Lemoer, chips: 2449
+Calls: Purloe
+Turn: Qd
+River: Jc
+Pot size: 4938
+Showdown Reached
+Shows: Purloe, Kd 5d
+Combination: Purloe, High Card ( Kd Qd Jc 6h 5d )
+Shows: Lemoer, 6c 6d
+Combination: Lemoer, Three Of A Kind ( 6c 6d 6h Qd Jc )
+Wins: Lemoer, chips: 4938
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Calls: Purloe
+Folds: Lemoer
+Checks: Degi
+Flop: 4d Th 8d
+Checks: Degi
+Raises: Purloe, chips: 10
+Folds: Degi
+Pot size: 35
+Boasts: Purloe, Jh 7d
+Wins: Purloe, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Calls: Purloe
+Raises: Lemoer, chips: 10
+Calls: Purloe
+Flop: 8c Td 4h
+Raises: Purloe, chips: 10
+Calls: Lemoer
+Turn: 8d
+Checks: Purloe
+Checks: Lemoer
+River: Js
+Checks: Purloe
+Checks: Lemoer
+Pot size: 60
+Showdown Reached
+Shows: Purloe, Kc 5h
+Combination: Purloe, Pair ( 8c 8d Kc Js Td )
+Shows: Lemoer, 7h Ah
+Combination: Lemoer, Pair ( 8c 8d Ah Js Td )
+Wins: Lemoer, chips: 60
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Folds: Purloe
+Calls: Lemoer
+Checks: Degi
+Flop: 2d Jh 9c
+Checks: Lemoer
+Checks: Degi
+Turn: 3h
+Checks: Lemoer
+Checks: Degi
+River: 5d
+Checks: Lemoer
+Checks: Degi
+Pot size: 20
+Showdown Reached
+Shows: Lemoer, Ks Qs
+Combination: Lemoer, High Card ( Ks Qs Jh 9c 5d )
+Shows: Degi, Kh 6s
+Combination: Degi, High Card ( Kh Jh 9c 6s 5d )
+Wins: Lemoer, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Boasts: Purloe, 7h Qh
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Folds: Purloe
+Pot size: 15
+Wins: Lemoer, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Raises: Purloe, chips: 20
+Folds: Lemoer
+Folds: Degi
+Pot size: 45
+Wins: Purloe, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Folds: Purloe
+Pot size: 15
+Boasts: Purloe, Qd 9c
+Wins: Lemoer, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Raises: Purloe, chips: 20
+Calls: Lemoer
+Folds: Degi
+Flop: Ks Ad 6s
+Checks: Lemoer
+Checks: Purloe
+Turn: 9s
+Raises: Lemoer, chips: 20
+Calls: Purloe
+River: Kd
+Checks: Lemoer
+Checks: Purloe
+Pot size: 110
+Showdown Reached
+Shows: Purloe, 5d As
+Combination: Purloe, Two Pair ( As Ad Ks Kd 9s )
+Shows: Lemoer, 9h 9c
+Combination: Lemoer, Full House ( 9h 9c 9s Ks Kd )
+Wins: Lemoer, chips: 110
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Calls: Lemoer
+Folds: Degi
+Raises: Purloe, chips: 10
+Calls: Lemoer
+Flop: 7d 9s Qd
+Checks: Purloe
+Checks: Lemoer
+Turn: Qc
+Checks: Purloe
+Checks: Lemoer
+River: 3c
+Checks: Purloe
+Checks: Lemoer
+Pot size: 45
+Showdown Reached
+Shows: Purloe, Kd 8s
+Combination: Purloe, Pair ( Qd Qc Kd 9s 8s )
+Shows: Lemoer, 4s 5s
+Combination: Lemoer, Pair ( Qd Qc 9s 7d 5s )
+Wins: Purloe, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Calls: Purloe
+Checks: Lemoer
+Flop: 2d 9d 2h
+Checks: Purloe
+Checks: Lemoer
+Turn: 3c
+Checks: Purloe
+Checks: Lemoer
+River: Ad
+Raises: Purloe, chips: 10
+Folds: Lemoer
+Pot size: 30
+Boasts: Purloe, 5d 6s
+Wins: Purloe, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Raises: Purloe, chips: 20
+Folds: Lemoer
+Folds: Degi
+Pot size: 45
+Wins: Purloe, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Calls: Lemoer
+Folds: Degi
+Raises: Purloe, chips: 10
+Calls: Lemoer
+Flop: Ad 9h 5s
+Checks: Purloe
+Checks: Lemoer
+Turn: Kc
+Checks: Purloe
+Raises: Lemoer, chips: 4983
+Calls: Purloe
+River: 4h
+Pot size: 6705
+Showdown Reached
+Shows: Purloe, Ks 5h
+Combination: Purloe, Two Pair ( Ks Kc 5h 5s Ad )
+Shows: Lemoer, 3h Ah
+Combination: Lemoer, Pair ( Ah Ad Kc 9h 5s )
+Wins: Purloe, chips: 3399
+Wins: Lemoer, chips: 3306
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Calls: Purloe
+Checks: Lemoer
+Flop: 3c Qh 6h
+Raises: Purloe, chips: 10
+Calls: Lemoer
+Turn: Ah
+Checks: Purloe
+Checks: Lemoer
+River: 2h
+Checks: Purloe
+Checks: Lemoer
+Pot size: 40
+Showdown Reached
+Shows: Purloe, 2c Kd
+Combination: Purloe, Pair ( 2c 2h Ah Kd Qh )
+Shows: Lemoer, 5d Qc
+Combination: Lemoer, Pair ( Qc Qh Ah 6h 5d )
+Wins: Lemoer, chips: 40
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Calls: Purloe
+Folds: Lemoer
+Checks: Degi
+Flop: 8d 2d 9d
+Checks: Degi
+Checks: Purloe
+Turn: 7s
+Checks: Degi
+Checks: Purloe
+River: 3s
+Checks: Degi
+Checks: Purloe
+Pot size: 25
+Showdown Reached
+Shows: Purloe, 5s Ad
+Combination: Purloe, High Card ( Ad 9d 8d 7s 5s )
+Shows: Degi, As 8s
+Combination: Degi, Pair ( 8s 8d As 9d 7s )
+Wins: Degi, chips: 25
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Boasts: Purloe, 4s Kd
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Calls: Purloe
+Checks: Lemoer
+Flop: 6c Ts Jh
+Checks: Purloe
+Checks: Lemoer
+Turn: 4s
+Raises: Purloe, chips: 10
+Folds: Lemoer
+Pot size: 30
+Boasts: Purloe, 7d 9d
+Wins: Purloe, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Raises: Purloe, chips: 20
+Calls: Lemoer
+Folds: Degi
+Flop: 6d 4h 9h
+Checks: Lemoer
+Checks: Purloe
+Turn: 2d
+Raises: Lemoer, chips: 20
+Calls: Purloe
+River: 5s
+Checks: Lemoer
+Checks: Purloe
+Pot size: 110
+Showdown Reached
+Shows: Purloe, Ah Ts
+Combination: Purloe, High Card ( Ah Ts 9h 6d 5s )
+Shows: Lemoer, 4c Ac
+Combination: Lemoer, Pair ( 4c 4h Ac 9h 6d )
+Wins: Lemoer, chips: 110
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Raises: Lemoer, chips: 10
+Folds: Degi
+Folds: Purloe
+Pot size: 35
+Wins: Lemoer, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Folds: Purloe
+Pot size: 15
+Boasts: Purloe, 8h Qs
+Wins: Lemoer, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Calls: Purloe
+Calls: Lemoer
+Checks: Degi
+Flop: Ac Qs 8s
+Checks: Lemoer
+Checks: Degi
+Raises: Purloe, chips: 10
+Calls: Lemoer
+Folds: Degi
+Turn: 2c
+Checks: Lemoer
+Checks: Purloe
+River: Ks
+Raises: Lemoer, chips: 10
+Raises: Purloe, chips: 20
+Raises: Lemoer, chips: 40
+Folds: Purloe
+Pot size: 150
+Boasts: Purloe, 6s Qh
+Wins: Lemoer, chips: 150
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Boasts: Purloe, Ts Td
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Calls: Purloe
+Checks: Lemoer
+Flop: Ah 9d 5h
+Raises: Purloe, chips: 10
+Calls: Lemoer
+Turn: 6c
+Checks: Purloe
+Checks: Lemoer
+River: 8s
+Checks: Purloe
+Checks: Lemoer
+Pot size: 40
+Showdown Reached
+Shows: Purloe, 7d 9s
+Combination: Purloe, Straight ( 9s 8s 7d 6c 5h )
+Shows: Lemoer, 5s 3h
+Combination: Lemoer, Pair ( 5s 5h Ah 9d 8s )
+Wins: Purloe, chips: 40
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Raises: Purloe, chips: 20
+Folds: Lemoer
+Folds: Degi
+Pot size: 45
+Wins: Purloe, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Calls: Purloe
+Checks: Lemoer
+Flop: Kd 3d 6d
+Checks: Purloe
+Checks: Lemoer
+Turn: 6h
+Checks: Purloe
+Raises: Lemoer, chips: 10
+Folds: Purloe
+Pot size: 30
+Wins: Lemoer, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Folds: Purloe
+Calls: Lemoer
+Checks: Degi
+Flop: 5d 6h Qd
+Checks: Lemoer
+Checks: Degi
+Turn: Jd
+Checks: Lemoer
+Checks: Degi
+River: Js
+Checks: Lemoer
+Checks: Degi
+Pot size: 20
+Showdown Reached
+Boasts: Purloe, 2d 4d
+Shows: Lemoer, 9s 6s
+Combination: Lemoer, Two Pair ( Jd Js 6s 6h Qd )
+Shows: Degi, Jc As
+Combination: Degi, Three Of A Kind ( Jc Jd Js As Qd )
+Wins: Degi, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Raises: Lemoer, chips: 10
+Folds: Degi
+Calls: Purloe
+Flop: 5s 5h Kc
+Checks: Purloe
+Raises: Lemoer, chips: 10
+Folds: Purloe
+Pot size: 55
+Wins: Lemoer, chips: 55
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Calls: Purloe
+Checks: Lemoer
+Flop: 4d Qd 3h
+Raises: Purloe, chips: 10
+Folds: Lemoer
+Pot size: 30
+Boasts: Purloe, 2c Tc
+Wins: Purloe, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Folds: Purloe
+Folds: Lemoer
+Pot size: 15
+Boasts: Purloe, Jh 8h
+Wins: Degi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Raises: Purloe, chips: 15
+Folds: Lemoer
+Pot size: 35
+Boasts: Purloe, 4c Td
+Wins: Purloe, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Calls: Purloe
+Calls: Lemoer
+Checks: Degi
+Flop: 6c Js Qs
+Checks: Lemoer
+Checks: Degi
+Raises: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 40
+Wins: Purloe, chips: 40
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Calls: Purloe
+Checks: Lemoer
+Flop: Ks Ad 7s
+Checks: Purloe
+Checks: Lemoer
+Turn: 2s
+Checks: Purloe
+Raises: Lemoer, chips: 10
+Folds: Purloe
+Pot size: 30
+Boasts: Purloe, 4c Tc
+Wins: Lemoer, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Calls: Purloe
+Folds: Lemoer
+Checks: Degi
+Flop: 6c Tc Ks
+Checks: Degi
+Checks: Purloe
+Turn: Js
+Checks: Degi
+Checks: Purloe
+River: 5s
+Checks: Degi
+Checks: Purloe
+Pot size: 25
+Showdown Reached
+Shows: Purloe, 4h 8d
+Combination: Purloe, High Card ( Ks Js Tc 8d 6c )
+Shows: Degi, 2h 5c
+Combination: Degi, Pair ( 5c 5s Ks Js Tc )
+Wins: Degi, chips: 25
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Calls: Lemoer
+Folds: Degi
+Raises: Purloe, chips: 10
+Calls: Lemoer
+Flop: Qc 2s 9s
+Raises: Purloe, chips: 10
+Calls: Lemoer
+Turn: 8c
+Raises: Purloe, chips: 10
+Raises: Lemoer, chips: 20
+Folds: Purloe
+Pot size: 105
+Boasts: Purloe, 6s Qd
+Wins: Lemoer, chips: 105
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Folds: Purloe
+Pot size: 15
+Boasts: Purloe, Ks Qd
+Wins: Lemoer, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Calls: Purloe
+Calls: Lemoer
+Checks: Degi
+Flop: 8c Jc Qh
+Checks: Lemoer
+Checks: Degi
+Raises: Purloe, chips: 10
+Calls: Lemoer
+Folds: Degi
+Turn: 8s
+Checks: Lemoer
+Checks: Purloe
+River: Qc
+Raises: Lemoer, chips: 10
+Calls: Purloe
+Pot size: 70
+Showdown Reached
+Shows: Purloe, 5h 7s
+Combination: Purloe, Two Pair ( Qh Qc 8c 8s Jc )
+Shows: Lemoer, Ac 5c
+Combination: Lemoer, Flush ( Ac Qc Jc 8c 5c )
+Wins: Lemoer, chips: 70
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Raises: Purloe, chips: 15
+Folds: Lemoer
+Pot size: 35
+Boasts: Purloe, 8c Qd
+Wins: Purloe, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Calls: Purloe
+Calls: Lemoer
+Checks: Degi
+Flop: 2h 2d Th
+Checks: Lemoer
+Checks: Degi
+Raises: Purloe, chips: 10
+Raises: Lemoer, chips: 10
+Folds: Degi
+Raises: Purloe, chips: 20
+Calls: Lemoer
+Turn: 3c
+Checks: Lemoer
+Checks: Purloe
+River: 9d
+Checks: Lemoer
+Raises: Purloe, chips: 20
+Calls: Lemoer
+Pot size: 150
+Showdown Reached
+Shows: Purloe, Tc 4c
+Combination: Purloe, Two Pair ( Tc Th 2h 2d 9d )
+Shows: Lemoer, Ts 7s
+Combination: Lemoer, Two Pair ( Ts Th 2h 2d 9d )
+Wins: Purloe, chips: 75
+Wins: Lemoer, chips: 75
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Calls: Purloe
+Checks: Lemoer
+Flop: 7s 3h Jc
+Raises: Purloe, chips: 10
+Calls: Lemoer
+Turn: 3c
+Checks: Purloe
+Raises: Lemoer, chips: 10
+Raises: Purloe, chips: 20
+Calls: Lemoer
+River: Qd
+Checks: Purloe
+Raises: Lemoer, chips: 20
+Calls: Purloe
+Pot size: 140
+Showdown Reached
+Shows: Purloe, Kc 2c
+Combination: Purloe, Pair ( 3h 3c Kc Qd Jc )
+Shows: Lemoer, Ac 6s
+Combination: Lemoer, Pair ( 3h 3c Ac Qd Jc )
+Wins: Lemoer, chips: 140
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Raises: Purloe, chips: 20
+Folds: Lemoer
+Folds: Degi
+Pot size: 45
+Wins: Purloe, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Folds: Purloe
+Pot size: 15
+Wins: Lemoer, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Calls: Purloe
+Calls: Lemoer
+Checks: Degi
+Flop: 9s Td 3d
+Checks: Lemoer
+Checks: Degi
+Raises: Purloe, chips: 10
+Calls: Lemoer
+Folds: Degi
+Turn: Js
+Checks: Lemoer
+Checks: Purloe
+River: 7s
+Raises: Lemoer, chips: 10
+Raises: Purloe, chips: 20
+Raises: Lemoer, chips: 30
+Folds: Purloe
+Pot size: 140
+Wins: Lemoer, chips: 140
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Raises: Purloe, chips: 15
+Folds: Lemoer
+Pot size: 35
+Boasts: Purloe, 6d Qh
+Wins: Purloe, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Calls: Purloe
+Calls: Lemoer
+Checks: Degi
+Flop: 9h 6d Kh
+Checks: Lemoer
+Checks: Degi
+Checks: Purloe
+Turn: 9s
+Checks: Lemoer
+Checks: Degi
+Checks: Purloe
+River: 6c
+Checks: Lemoer
+Checks: Degi
+Raises: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 40
+Boasts: Purloe, 9c 4c
+Wins: Purloe, chips: 40
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Boasts: Purloe, 7d 4d
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Folds: Purloe
+Pot size: 15
+Wins: Lemoer, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Calls: Purloe
+Folds: Lemoer
+Checks: Degi
+Flop: Ks 2h Js
+Checks: Degi
+Checks: Purloe
+Turn: 5c
+Checks: Degi
+Checks: Purloe
+River: 7h
+Checks: Degi
+Checks: Purloe
+Pot size: 25
+Showdown Reached
+Shows: Purloe, Ts Qc
+Combination: Purloe, High Card ( Ks Qc Js Ts 7h )
+Shows: Degi, Qs 7d
+Combination: Degi, Pair ( 7d 7h Ks Qs Js )
+Wins: Degi, chips: 25
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Raises: Purloe, chips: 15
+Calls: Lemoer
+Flop: Ts 7d 4s
+Raises: Purloe, chips: 15
+Calls: Lemoer
+Turn: Kd
+Checks: Purloe
+Checks: Lemoer
+River: Qh
+Checks: Purloe
+Checks: Lemoer
+Pot size: 80
+Showdown Reached
+Shows: Purloe, Jc Ks
+Combination: Purloe, Pair ( Ks Kd Qh Jc Ts )
+Shows: Lemoer, 5d 5h
+Combination: Lemoer, Pair ( 5d 5h Kd Qh Ts )
+Wins: Purloe, chips: 80
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Raises: Purloe, chips: 20
+Folds: Lemoer
+Folds: Degi
+Pot size: 45
+Boasts: Purloe, 9s 6h
+Wins: Purloe, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Calls: Purloe
+Checks: Lemoer
+Flop: 3h 3c Qh
+Raises: Purloe, chips: 10
+Folds: Lemoer
+Pot size: 30
+Boasts: Purloe, 7h Jc
+Wins: Purloe, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Folds: Purloe
+Folds: Lemoer
+Pot size: 15
+Boasts: Purloe, 8h 2s
+Wins: Degi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Boasts: Purloe, 6c Th
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Folds: Purloe
+Pot size: 15
+Boasts: Purloe, Kh 7c
+Wins: Lemoer, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Calls: Purloe
+Calls: Lemoer
+Checks: Degi
+Flop: 8c Th 8d
+Raises: Lemoer, chips: 10
+Folds: Degi
+Calls: Purloe
+Turn: 6h
+Raises: Lemoer, chips: 10
+Raises: Purloe, chips: 20
+Calls: Lemoer
+River: Kh
+Raises: Lemoer, chips: 20
+Raises: Purloe, chips: 3189
+Raises: Lemoer, chips: 302
+Pot size: 6830
+Showdown Reached
+Shows: Purloe, 9d 8h
+Combination: Purloe, Three Of A Kind ( 8h 8c 8d Kh Th )
+Shows: Lemoer, 8s 9h
+Combination: Lemoer, Three Of A Kind ( 8s 8c 8d Kh Th )
+Wins: Purloe, chips: 3264
+Wins: Lemoer, chips: 3566
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Calls: Lemoer
+Folds: Degi
+Checks: Purloe
+Flop: 3h 8h 8c
+Checks: Purloe
+Checks: Lemoer
+Turn: Qd
+Checks: Purloe
+Checks: Lemoer
+River: 6h
+Raises: Purloe, chips: 10
+Folds: Lemoer
+Pot size: 35
+Boasts: Purloe, Kd Qs
+Wins: Purloe, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Calls: Purloe
+Checks: Lemoer
+Flop: Kc 5h 2s
+Raises: Purloe, chips: 10
+Raises: Lemoer, chips: 20
+Calls: Purloe
+Turn: 6s
+Checks: Purloe
+Checks: Lemoer
+River: 6c
+Checks: Purloe
+Checks: Lemoer
+Pot size: 80
+Showdown Reached
+Shows: Purloe, 4s 5d
+Combination: Purloe, Two Pair ( 6s 6c 5d 5h Kc )
+Shows: Lemoer, 2d 8c
+Combination: Lemoer, Two Pair ( 6s 6c 2d 2s Kc )
+Wins: Purloe, chips: 80
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Raises: Purloe, chips: 20
+Folds: Lemoer
+Folds: Degi
+Pot size: 45
+Wins: Purloe, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Raises: Purloe, chips: 15
+Calls: Lemoer
+Flop: Qd Jc 7s
+Checks: Purloe
+Raises: Lemoer, chips: 20
+Folds: Purloe
+Pot size: 70
+Wins: Lemoer, chips: 70
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Calls: Purloe
+Calls: Lemoer
+Checks: Degi
+Flop: 3s Ad 2c
+Checks: Lemoer
+Checks: Degi
+Checks: Purloe
+Turn: Qd
+Checks: Lemoer
+Checks: Degi
+Raises: Purloe, chips: 3304
+Folds: Lemoer
+Folds: Degi
+Pot size: 3334
+Wins: Purloe, chips: 3334
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Boasts: Purloe, 9h Ac
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Calls: Purloe
+Checks: Lemoer
+Flop: 8s Ad 9c
+Raises: Purloe, chips: 10
+Calls: Lemoer
+Turn: 2d
+Checks: Purloe
+Checks: Lemoer
+River: 7c
+Raises: Purloe, chips: 10
+Calls: Lemoer
+Pot size: 60
+Showdown Reached
+Shows: Purloe, 7s 5s
+Combination: Purloe, Pair ( 7s 7c Ad 9c 8s )
+Shows: Lemoer, 9d 4d
+Combination: Lemoer, Pair ( 9d 9c Ad 8s 7c )
+Wins: Lemoer, chips: 60
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Calls: Purloe
+Folds: Lemoer
+Checks: Degi
+Flop: 7h As 3d
+Checks: Degi
+Checks: Purloe
+Turn: Td
+Checks: Degi
+Checks: Purloe
+River: Qh
+Checks: Degi
+Raises: Purloe, chips: 10
+Folds: Degi
+Pot size: 35
+Boasts: Purloe, Qc Ts
+Wins: Purloe, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Folds: Purloe
+Pot size: 15
+Wins: Lemoer, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Folds: Purloe
+Folds: Lemoer
+Pot size: 15
+Boasts: Purloe, 3c 7c
+Wins: Degi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Calls: Lemoer
+Folds: Degi
+Checks: Purloe
+Flop: 5h 8h 7h
+Checks: Purloe
+Checks: Lemoer
+Turn: 3d
+Checks: Purloe
+Raises: Lemoer, chips: 10
+Calls: Purloe
+River: 2c
+Checks: Purloe
+Checks: Lemoer
+Pot size: 45
+Showdown Reached
+Shows: Purloe, 5d 4d
+Combination: Purloe, Pair ( 5d 5h 8h 7h 4d )
+Shows: Lemoer, Jh Ks
+Combination: Lemoer, High Card ( Ks Jh 8h 7h 5h )
+Wins: Purloe, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Calls: Purloe
+Checks: Lemoer
+Flop: Th 8h 7h
+Checks: Purloe
+Checks: Lemoer
+Turn: Ac
+Raises: Purloe, chips: 10
+Raises: Lemoer, chips: 10
+Raises: Purloe, chips: 20
+Calls: Lemoer
+River: 8d
+Checks: Purloe
+Raises: Lemoer, chips: 20
+Raises: Purloe, chips: 40
+Raises: Lemoer, chips: 70
+Calls: Purloe
+Pot size: 360
+Showdown Reached
+Shows: Purloe, Td 3d
+Combination: Purloe, Two Pair ( Td Th 8h 8d Ac )
+Shows: Lemoer, 7c 8s
+Combination: Lemoer, Full House ( 8s 8h 8d 7c 7h )
+Wins: Lemoer, chips: 360
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Raises: Purloe, chips: 20
+Folds: Lemoer
+Folds: Degi
+Pot size: 45
+Wins: Purloe, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Boasts: Purloe, 2h Kh
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Calls: Purloe
+Checks: Lemoer
+Flop: 6s Ts As
+Checks: Purloe
+Checks: Lemoer
+Turn: Kc
+Raises: Purloe, chips: 10
+Folds: Lemoer
+Pot size: 30
+Wins: Purloe, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Calls: Purloe
+Folds: Lemoer
+Checks: Degi
+Flop: 2h 2s Qd
+Checks: Degi
+Checks: Purloe
+Turn: 8s
+Checks: Degi
+Checks: Purloe
+River: 2d
+Checks: Degi
+Raises: Purloe, chips: 10
+Folds: Degi
+Pot size: 35
+Boasts: Purloe, 3c 9h
+Wins: Purloe, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Folds: Purloe
+Pot size: 15
+Wins: Lemoer, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Calls: Purloe
+Folds: Lemoer
+Checks: Degi
+Flop: Jd 4d Qs
+Checks: Degi
+Checks: Purloe
+Turn: Jc
+Checks: Degi
+Raises: Purloe, chips: 10
+Folds: Degi
+Pot size: 35
+Boasts: Purloe, 3d 8h
+Wins: Purloe, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Calls: Lemoer
+Folds: Degi
+Checks: Purloe
+Flop: 2d Tc 9s
+Checks: Purloe
+Raises: Lemoer, chips: 10
+Folds: Purloe
+Pot size: 35
+Boasts: Purloe, 3c Ts
+Wins: Lemoer, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Folds: Purloe
+Pot size: 15
+Boasts: Purloe, Js Qc
+Wins: Lemoer, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Raises: Purloe, chips: 20
+Calls: Lemoer
+Folds: Degi
+Flop: Ts 8d 2c
+Checks: Lemoer
+Checks: Purloe
+Turn: As
+Checks: Lemoer
+Raises: Purloe, chips: 20
+Calls: Lemoer
+River: 8s
+Checks: Lemoer
+Checks: Purloe
+Pot size: 110
+Showdown Reached
+Shows: Purloe, 4h 6d
+Combination: Purloe, Pair ( 8d 8s As Ts 6d )
+Shows: Lemoer, Jc Kd
+Combination: Lemoer, Pair ( 8d 8s As Kd Jc )
+Wins: Lemoer, chips: 110
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Calls: Purloe
+Checks: Lemoer
+Flop: 3h Ad 5c
+Raises: Purloe, chips: 10
+Folds: Lemoer
+Pot size: 30
+Wins: Purloe, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Calls: Purloe
+Folds: Lemoer
+Checks: Degi
+Flop: Jh Ad Ah
+Checks: Degi
+Raises: Purloe, chips: 10
+Folds: Degi
+Pot size: 35
+Wins: Purloe, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Calls: Purloe
+Checks: Lemoer
+Flop: 6h Jh 4s
+Checks: Purloe
+Raises: Lemoer, chips: 10
+Raises: Purloe, chips: 20
+Calls: Lemoer
+Turn: 7d
+Checks: Purloe
+Raises: Lemoer, chips: 30
+Calls: Purloe
+River: Kh
+Raises: Purloe, chips: 30
+Folds: Lemoer
+Pot size: 170
+Boasts: Purloe, 5h Kc
+Wins: Purloe, chips: 170
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Calls: Purloe
+Folds: Lemoer
+Checks: Degi
+Flop: 8h 9h 9s
+Checks: Degi
+Raises: Purloe, chips: 10
+Folds: Degi
+Pot size: 35
+Boasts: Purloe, Tc Ks
+Wins: Purloe, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Boasts: Purloe, 2d 2s
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Calls: Purloe
+Checks: Lemoer
+Flop: 5c Ad 9s
+Checks: Purloe
+Checks: Lemoer
+Turn: Ah
+Checks: Purloe
+Checks: Lemoer
+River: Ks
+Checks: Purloe
+Checks: Lemoer
+Pot size: 20
+Showdown Reached
+Shows: Purloe, 9d 4d
+Combination: Purloe, Two Pair ( Ad Ah 9d 9s Ks )
+Shows: Lemoer, 8s 6c
+Combination: Lemoer, Pair ( Ad Ah Ks 9s 8s )
+Wins: Purloe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Raises: Purloe, chips: 20
+Folds: Lemoer
+Folds: Degi
+Pot size: 45
+Wins: Purloe, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Calls: Purloe
+Checks: Lemoer
+Flop: 4h Th 9s
+Checks: Purloe
+Checks: Lemoer
+Turn: Js
+Raises: Purloe, chips: 10
+Folds: Lemoer
+Pot size: 30
+Boasts: Purloe, Kc Kd
+Wins: Purloe, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Calls: Purloe
+Folds: Lemoer
+Checks: Degi
+Flop: 7d 6c Kc
+Checks: Degi
+Checks: Purloe
+Turn: Qd
+Checks: Degi
+Checks: Purloe
+River: 3d
+Checks: Degi
+Checks: Purloe
+Pot size: 25
+Showdown Reached
+Shows: Purloe, 6s Jh
+Combination: Purloe, Pair ( 6s 6c Kc Qd Jh )
+Shows: Degi, 8c 4h
+Combination: Degi, High Card ( Kc Qd 8c 7d 6c )
+Wins: Purloe, chips: 25
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Checks: Purloe
+Flop: 6d 4s Tc
+Turn: Qd
+River: 3s
+Pot size: 15
+Showdown Reached
+Shows: Purloe, 7c Js
+Combination: Purloe, High Card ( Qd Js Tc 7c 6d )
+Shows: Degi, 8d Jd
+Combination: Degi, High Card ( Qd Jd Tc 8d 6d )
+Wins: Purloe, chips: 5
+Wins: Degi, chips: 10
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Folds: Purloe
+Pot size: 15
+Wins: Lemoer, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Raises: Purloe, chips: 20
+Folds: Lemoer
+Flop: Qc Ts Tc
+Turn: Jd
+River: 5s
+Pot size: 45
+Showdown Reached
+Shows: Purloe, 7s Ad
+Combination: Purloe, Pair ( Ts Tc Ad Qc Jd )
+Shows: Degi, Qd 7d
+Combination: Degi, Two Pair ( Qd Qc Ts Tc Jd )
+Wins: Purloe, chips: 20
+Wins: Degi, chips: 25
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Boasts: Purloe, 9h Qh
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Calls: Purloe
+Checks: Lemoer
+Flop: Kd Kc Ts
+Checks: Purloe
+Checks: Lemoer
+Turn: 7h
+Raises: Purloe, chips: 10
+Raises: Lemoer, chips: 3631
+Calls: Purloe
+River: 5s
+Pot size: 6980
+Showdown Reached
+Shows: Purloe, 3c 6s
+Combination: Purloe, Pair ( Kd Kc Ts 7h 6s )
+Shows: Lemoer, Td Jh
+Combination: Lemoer, Two Pair ( Kd Kc Td Ts Jh )
+Wins: Lemoer, chips: 6980
+Quits: Purloe, chips: 0
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Folds: Lemoer
+Pot size: 15
+Wins: Degi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Degi, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Pot size: 15
+Wins: Lemoer, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Raises: Lemoer, chips: 6970
+Folds: Degi
+Pot size: 6990
+Wins: Lemoer, chips: 6990
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Degi, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Pot size: 15
+Wins: Lemoer, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 5
+Flop: Qc Ks 6d
+Turn: 5s
+River: 4d
+Pot size: 10
+Showdown Reached
+Shows: Lemoer, Td Tc
+Combination: Lemoer, Pair ( Td Tc Ks Qc 6d )
+Shows: Degi, Ad 8c
+Combination: Degi, High Card ( Ad Ks Qc 8c 6d )
+Wins: Lemoer, chips: 10
+Quits: Degi, chips: 0
+Ranking: Lemoer, Place: 1, Score: 6000
+Reveal AI: Lemoer, AI: Smart
+Ranking: Degi, Place: 2, Score: -1000
+Reveal AI: Degi, AI: AIMyBot1
+Ranking: Purloe, Place: 3, Score: -1000
+Reveal AI: Purloe, AI: Random
+Ranking: Cheewri, Place: 4, Score: -1000
+Reveal AI: Cheewri, AI: Random
+Ranking: Ruke, Place: 5, Score: -1000
+Reveal AI: Ruke, AI: Smart
+Ranking: Satta, Place: 6, Score: -1000
+Reveal AI: Satta, AI: Call
+Ranking: Wuginoe, Place: 7, Score: -1000
+Reveal AI: Wuginoe, AI: Call
+
+Player Stats for Cheewri, AI: Random
+General: deals: 3, actions: 12, preflop actions: 5
+Rounds Seen: flops: 143, turns: 112, rivers: 94, showdowns: 74
+Wins: total: 1, showdown: 1, bluff: 0
+Chips: won: 105, lost: 1105, bought: 1000, forced bets: 5
+Pre-Flop Stats: VP$IP: 1, PFR: 0.333333, 3Bet: 0.333333
+Post-Flop Stats: AF: 1, WSD: 0.517483, WSDW: 0.0135135
+
+
+Player Stats for Degi, AI: AIMyBot1
+General: deals: 302, actions: 414, preflop actions: 284
+Rounds Seen: flops: 54, turns: 34, rivers: 28, showdowns: 23
+Wins: total: 28, showdown: 13, bluff: 15
+Chips: won: 520, lost: 1520, bought: 1000, forced bets: 1520
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 0.425926, WSDW: 0.565217
+
+
+Player Stats for Lemoer, AI: Smart
+General: deals: 302, actions: 591, preflop actions: 285
+Rounds Seen: flops: 117, turns: 94, rivers: 78, showdowns: 61
+Wins: total: 103, showdown: 39, bluff: 64
+Chips: won: 35606, lost: 29606, bought: 1000, forced bets: 1515
+Pre-Flop Stats: VP$IP: 0.284768, PFR: 0.0463576, 3Bet: 0.0397351
+Post-Flop Stats: AF: 1.88571, WSD: 0.521368, WSDW: 0.639344
+
+
+Player Stats for Purloe, AI: Random
+General: deals: 297, actions: 593, preflop actions: 246
+Rounds Seen: flops: 130, turns: 102, rivers: 86, showdowns: 67
+Wins: total: 178, showdown: 29, bluff: 149
+Chips: won: 38492, lost: 43120, bought: 1000, forced bets: 1485
+Pre-Flop Stats: VP$IP: 0.525253, PFR: 0.245791, 3Bet: 0.208754
+Post-Flop Stats: AF: 4.57143, WSD: 0.515385, WSDW: 0.432836
+
+
+Player Stats for Ruke, AI: Smart
+General: deals: 3, actions: 5, preflop actions: 5
+Rounds Seen: flops: 141, turns: 110, rivers: 92, showdowns: 72
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 0
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.333333, 3Bet: 0.333333
+Post-Flop Stats: AF: -1.#IND, WSD: 0.510638, WSDW: 0
+
+
+Player Stats for Satta, AI: Call
+General: deals: 3, actions: 13, preflop actions: 6
+Rounds Seen: flops: 143, turns: 112, rivers: 94, showdowns: 74
+Wins: total: 1, showdown: 1, bluff: 0
+Chips: won: 105, lost: 1105, bought: 1000, forced bets: 0
+Pre-Flop Stats: VP$IP: 1, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: 0, WSD: 0.517483, WSDW: 0.0135135
+
+
+Player Stats for Wuginoe, AI: Call
+General: deals: 3, actions: 13, preflop actions: 6
+Rounds Seen: flops: 143, turns: 112, rivers: 94, showdowns: 74
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1105, bought: 1000, forced bets: 0
+Pre-Flop Stats: VP$IP: 1, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: 0, WSD: 0.517483, WSDW: 0
+
+
+Date: 2026/04/30 12:56:51
+
+The game begins. The AI's of the players are: 
+Purloe: Random
+Lemoer: Smart
+Wuginoe: Call
+Satta: Call
+Ruke: Smart
+Cheewri: Random
+Degi: AIMyBot1
+
+Joins: Purloe, chips: 1000
+Joins: Lemoer, chips: 1000
+Joins: Wuginoe, chips: 1000
+Joins: Satta, chips: 1000
+Joins: Ruke, chips: 1000
+Joins: Cheewri, chips: 1000
+Joins: Degi, chips: 1000
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ruke
+Small Blind: Cheewri, chips: 5
+Big Blind: Degi, chips: 10
+Raises: Purloe, chips: 20
+Folds: Lemoer
+Calls: Wuginoe
+Calls: Satta
+Folds: Ruke
+Calls: Cheewri
+Folds: Degi
+Flop: Tc 7d 9d
+Checks: Cheewri
+Checks: Purloe
+Checks: Wuginoe
+Checks: Satta
+Turn: Ah
+Checks: Cheewri
+Checks: Purloe
+Checks: Wuginoe
+Checks: Satta
+River: 6s
+Raises: Cheewri, chips: 20
+Calls: Purloe
+Calls: Wuginoe
+Calls: Satta
+Pot size: 210
+Showdown Reached
+Shows: Purloe, Th 5h
+Combination: Purloe, Pair ( Th Tc Ah 9d 7d )
+Shows: Wuginoe, Js 5d
+Combination: Wuginoe, High Card ( Ah Js Tc 9d 7d )
+Shows: Satta, 8d 2h
+Combination: Satta, Straight ( Tc 9d 8d 7d 6s )
+Shows: Cheewri, 8h 5s
+Combination: Cheewri, Straight ( Tc 9d 8h 7d 6s )
+Wins: Satta, chips: 105
+Wins: Cheewri, chips: 105
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Cheewri
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Calls: Wuginoe
+Calls: Satta
+Folds: Ruke
+Calls: Cheewri
+Folds: Degi
+Checks: Purloe
+Flop: 9h Ts 3s
+Raises: Purloe, chips: 10
+Calls: Wuginoe
+Calls: Satta
+Calls: Cheewri
+Turn: Kc
+Checks: Purloe
+Checks: Wuginoe
+Checks: Satta
+Raises: Cheewri, chips: 10
+Raises: Purloe, chips: 20
+Calls: Wuginoe
+Calls: Satta
+Calls: Cheewri
+River: 6d
+Checks: Purloe
+Checks: Wuginoe
+Checks: Satta
+Checks: Cheewri
+Pot size: 205
+Showdown Reached
+Shows: Purloe, Js Td
+Combination: Purloe, Pair ( Td Ts Kc Js 9h )
+Shows: Wuginoe, 4h 5d
+Combination: Wuginoe, High Card ( Kc Ts 9h 6d 5d )
+Shows: Satta, Jc 9c
+Combination: Satta, Pair ( 9c 9h Kc Jc Ts )
+Shows: Cheewri, 9d Ad
+Combination: Cheewri, Pair ( 9d 9h Ad Kc Ts )
+Wins: Purloe, chips: 205
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Calls: Wuginoe
+Calls: Satta
+Raises: Ruke, chips: 20
+Raises: Cheewri, chips: 50
+Folds: Degi
+Calls: Purloe
+Folds: Lemoer
+Calls: Wuginoe
+Calls: Satta
+Raises: Ruke, chips: 50
+Calls: Cheewri
+Raises: Purloe, chips: 100
+Calls: Wuginoe
+Calls: Satta
+Raises: Ruke, chips: 770
+Raises: Cheewri, chips: 5
+Calls: Purloe
+Calls: Wuginoe
+Calls: Satta
+Flop: Td 3s Ks
+Turn: 7h
+River: 5s
+Pot size: 4925
+Showdown Reached
+Shows: Purloe, 3d Th
+Combination: Purloe, Two Pair ( Th Td 3d 3s Ks )
+Shows: Wuginoe, Ah 7s
+Combination: Wuginoe, Pair ( 7s 7h Ah Ks Td )
+Shows: Satta, Jh 2s
+Combination: Satta, High Card ( Ks Jh Td 7h 5s )
+Shows: Ruke, 9d Jd
+Combination: Ruke, High Card ( Ks Jd Td 9d 7h )
+Shows: Cheewri, 2d Qh
+Combination: Cheewri, High Card ( Ks Qh Td 7h 5s )
+Wins: Purloe, chips: 4925
+Quits: Wuginoe, chips: 0
+Quits: Satta, chips: 0
+Quits: Ruke, chips: 0
+Quits: Cheewri, chips: 0
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Calls: Purloe
+Folds: Lemoer
+Checks: Degi
+Flop: Qh Jc Qs
+Checks: Degi
+Checks: Purloe
+Turn: Js
+Checks: Degi
+Checks: Purloe
+River: Ts
+Checks: Degi
+Checks: Purloe
+Pot size: 25
+Showdown Reached
+Shows: Purloe, 5h 7d
+Combination: Purloe, Two Pair ( Qh Qs Jc Js Ts )
+Shows: Degi, 2s Qc
+Combination: Degi, Full House ( Qc Qh Qs Jc Js )
+Wins: Degi, chips: 25
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Boasts: Purloe, Tc Qc
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Folds: Purloe
+Pot size: 15
+Boasts: Purloe, Qd 9s
+Wins: Lemoer, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Folds: Purloe
+Folds: Lemoer
+Pot size: 15
+Wins: Degi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Calls: Purloe
+Checks: Lemoer
+Flop: 8s Kd 4c
+Checks: Purloe
+Raises: Lemoer, chips: 10
+Folds: Purloe
+Pot size: 30
+Boasts: Purloe, 8c 3d
+Wins: Lemoer, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Raises: Purloe, chips: 20
+Calls: Lemoer
+Folds: Degi
+Flop: 9c 6h 2c
+Checks: Lemoer
+Checks: Purloe
+Turn: Td
+Checks: Lemoer
+Checks: Purloe
+River: 2h
+Checks: Lemoer
+Raises: Purloe, chips: 20
+Raises: Lemoer, chips: 50
+Folds: Purloe
+Pot size: 160
+Wins: Lemoer, chips: 160
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Calls: Purloe
+Checks: Lemoer
+Flop: Jc 3c 4d
+Checks: Purloe
+Checks: Lemoer
+Turn: 7s
+Checks: Purloe
+Checks: Lemoer
+River: Jd
+Checks: Purloe
+Checks: Lemoer
+Pot size: 20
+Showdown Reached
+Shows: Purloe, 3s Jh
+Combination: Purloe, Full House ( Jh Jc Jd 3s 3c )
+Shows: Lemoer, 9h 4c
+Combination: Lemoer, Two Pair ( Jc Jd 4c 4d 9h )
+Wins: Purloe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Folds: Purloe
+Calls: Lemoer
+Checks: Degi
+Flop: 2c 8d Kc
+Checks: Lemoer
+Checks: Degi
+Turn: 8h
+Checks: Lemoer
+Checks: Degi
+River: 7h
+Checks: Lemoer
+Checks: Degi
+Pot size: 20
+Showdown Reached
+Boasts: Purloe, Ah 2d
+Shows: Lemoer, 7d 6d
+Combination: Lemoer, Two Pair ( 8d 8h 7d 7h Kc )
+Shows: Degi, 6h 5h
+Combination: Degi, Pair ( 8d 8h Kc 7h 6h )
+Wins: Lemoer, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Calls: Lemoer
+Folds: Degi
+Checks: Purloe
+Flop: Kc 7h 2s
+Checks: Purloe
+Checks: Lemoer
+Turn: 8s
+Checks: Purloe
+Checks: Lemoer
+River: Ts
+Checks: Purloe
+Checks: Lemoer
+Pot size: 25
+Showdown Reached
+Shows: Purloe, 7s Qd
+Combination: Purloe, Pair ( 7s 7h Kc Qd Ts )
+Shows: Lemoer, Tc Js
+Combination: Lemoer, Pair ( Tc Ts Kc Js 8s )
+Wins: Lemoer, chips: 25
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Folds: Purloe
+Pot size: 15
+Wins: Lemoer, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Folds: Purloe
+Calls: Lemoer
+Checks: Degi
+Flop: 2h As 9s
+Checks: Lemoer
+Checks: Degi
+Turn: 2s
+Checks: Lemoer
+Checks: Degi
+River: 7c
+Checks: Lemoer
+Checks: Degi
+Pot size: 20
+Showdown Reached
+Boasts: Purloe, Ah Qs
+Shows: Lemoer, 4d 5s
+Combination: Lemoer, Pair ( 2h 2s As 9s 7c )
+Shows: Degi, 6d 2d
+Combination: Degi, Three Of A Kind ( 2d 2h 2s As 9s )
+Wins: Degi, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Calls: Lemoer
+Folds: Degi
+Checks: Purloe
+Flop: 9h 6c 7c
+Raises: Purloe, chips: 10
+Calls: Lemoer
+Turn: 7h
+Checks: Purloe
+Checks: Lemoer
+River: 3s
+Checks: Purloe
+Checks: Lemoer
+Pot size: 45
+Showdown Reached
+Shows: Purloe, Kc Jh
+Combination: Purloe, Pair ( 7c 7h Kc Jh 9h )
+Shows: Lemoer, 5s 6s
+Combination: Lemoer, Two Pair ( 7c 7h 6s 6c 9h )
+Wins: Lemoer, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Raises: Purloe, chips: 15
+Folds: Lemoer
+Pot size: 35
+Wins: Purloe, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Calls: Purloe
+Calls: Lemoer
+Checks: Degi
+Flop: 4d As Th
+Checks: Lemoer
+Checks: Degi
+Checks: Purloe
+Turn: 8h
+Checks: Lemoer
+Checks: Degi
+Checks: Purloe
+River: 7s
+Checks: Lemoer
+Checks: Degi
+Checks: Purloe
+Pot size: 30
+Showdown Reached
+Shows: Purloe, 9c 7d
+Combination: Purloe, Pair ( 7d 7s As Th 9c )
+Shows: Lemoer, Tc 9h
+Combination: Lemoer, Pair ( Tc Th As 9h 8h )
+Shows: Degi, Kh Js
+Combination: Degi, High Card ( As Kh Js Th 8h )
+Wins: Lemoer, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Calls: Lemoer
+Folds: Degi
+Raises: Purloe, chips: 10
+Folds: Lemoer
+Pot size: 35
+Wins: Purloe, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Folds: Purloe
+Pot size: 15
+Boasts: Purloe, 4d 6h
+Wins: Lemoer, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Calls: Purloe
+Calls: Lemoer
+Checks: Degi
+Flop: 3h Kd 4d
+Checks: Lemoer
+Checks: Degi
+Checks: Purloe
+Turn: 5h
+Checks: Lemoer
+Checks: Degi
+Raises: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 40
+Boasts: Purloe, 4s Tc
+Wins: Purloe, chips: 40
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Calls: Purloe
+Checks: Lemoer
+Flop: 9h 6d 2d
+Checks: Purloe
+Checks: Lemoer
+Turn: 3c
+Checks: Purloe
+Checks: Lemoer
+River: 8s
+Raises: Purloe, chips: 10
+Folds: Lemoer
+Pot size: 30
+Wins: Purloe, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Raises: Purloe, chips: 20
+Folds: Lemoer
+Folds: Degi
+Pot size: 45
+Boasts: Purloe, 3h 4c
+Wins: Purloe, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Calls: Lemoer
+Folds: Degi
+Checks: Purloe
+Flop: Ks 8s 9s
+Checks: Purloe
+Checks: Lemoer
+Turn: Qd
+Checks: Purloe
+Raises: Lemoer, chips: 10
+Calls: Purloe
+River: 3s
+Checks: Purloe
+Checks: Lemoer
+Pot size: 45
+Showdown Reached
+Shows: Purloe, 4h 3h
+Combination: Purloe, Pair ( 3h 3s Ks Qd 9s )
+Shows: Lemoer, Kh 9c
+Combination: Lemoer, Two Pair ( Kh Ks 9c 9s Qd )
+Wins: Lemoer, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Raises: Purloe, chips: 15
+Folds: Lemoer
+Pot size: 35
+Wins: Purloe, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Folds: Purloe
+Folds: Lemoer
+Pot size: 15
+Wins: Degi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Folds: Purloe
+Pot size: 15
+Wins: Lemoer, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Folds: Purloe
+Calls: Lemoer
+Checks: Degi
+Flop: 5s Js 3d
+Checks: Lemoer
+Checks: Degi
+Turn: 9d
+Checks: Lemoer
+Checks: Degi
+River: Jh
+Checks: Lemoer
+Checks: Degi
+Pot size: 20
+Showdown Reached
+Shows: Lemoer, Ts Qc
+Combination: Lemoer, Pair ( Js Jh Qc Ts 9d )
+Shows: Degi, 2h 3s
+Combination: Degi, Two Pair ( Js Jh 3s 3d 9d )
+Wins: Degi, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Calls: Lemoer
+Folds: Degi
+Checks: Purloe
+Flop: Ts 5s 8d
+Checks: Purloe
+Checks: Lemoer
+Turn: 4h
+Checks: Purloe
+Checks: Lemoer
+River: 5h
+Checks: Purloe
+Checks: Lemoer
+Pot size: 25
+Showdown Reached
+Shows: Purloe, As 4d
+Combination: Purloe, Two Pair ( 5s 5h 4d 4h As )
+Shows: Lemoer, Jd Qh
+Combination: Lemoer, Pair ( 5s 5h Qh Jd Ts )
+Wins: Purloe, chips: 25
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Calls: Purloe
+Checks: Lemoer
+Flop: 6h 3h 3d
+Checks: Purloe
+Checks: Lemoer
+Turn: Kc
+Checks: Purloe
+Raises: Lemoer, chips: 10
+Calls: Purloe
+River: 7h
+Checks: Purloe
+Raises: Lemoer, chips: 10
+Folds: Purloe
+Pot size: 50
+Wins: Lemoer, chips: 50
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Calls: Purloe
+Raises: Lemoer, chips: 1075
+Folds: Degi
+Calls: Purloe
+Flop: 8d 9c Qh
+Turn: 8s
+River: Ks
+Pot size: 2180
+Showdown Reached
+Shows: Purloe, 4h Ac
+Combination: Purloe, Pair ( 8d 8s Ac Ks Qh )
+Shows: Lemoer, 8c 8h
+Combination: Lemoer, Four Of A Kind ( 8c 8h 8d 8s Ks )
+Wins: Lemoer, chips: 2180
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Raises: Purloe, chips: 15
+Folds: Lemoer
+Pot size: 35
+Boasts: Purloe, 9d 3c
+Wins: Purloe, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Raises: Purloe, chips: 20
+Folds: Lemoer
+Folds: Degi
+Pot size: 45
+Wins: Purloe, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Calls: Lemoer
+Folds: Degi
+Raises: Purloe, chips: 10
+Calls: Lemoer
+Flop: Jh 9s 6c
+Checks: Purloe
+Raises: Lemoer, chips: 10
+Folds: Purloe
+Pot size: 55
+Wins: Lemoer, chips: 55
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Calls: Purloe
+Checks: Lemoer
+Flop: 8s 7s Ts
+Checks: Purloe
+Checks: Lemoer
+Turn: 6h
+Raises: Purloe, chips: 10
+Calls: Lemoer
+River: 4c
+Raises: Purloe, chips: 10
+Calls: Lemoer
+Pot size: 60
+Showdown Reached
+Shows: Purloe, 6d 2d
+Combination: Purloe, Pair ( 6d 6h Ts 8s 7s )
+Shows: Lemoer, 6s 8h
+Combination: Lemoer, Two Pair ( 8h 8s 6s 6h Ts )
+Wins: Lemoer, chips: 60
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Folds: Purloe
+Folds: Lemoer
+Pot size: 15
+Boasts: Purloe, 6s 2h
+Wins: Degi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Raises: Purloe, chips: 15
+Calls: Lemoer
+Flop: Ts 2h Qh
+Checks: Purloe
+Checks: Lemoer
+Turn: 9c
+Checks: Purloe
+Raises: Lemoer, chips: 20
+Raises: Purloe, chips: 40
+Raises: Lemoer, chips: 70
+Calls: Purloe
+River: 6c
+Checks: Purloe
+Raises: Lemoer, chips: 90
+Calls: Purloe
+Pot size: 490
+Showdown Reached
+Shows: Purloe, 5c 6s
+Combination: Purloe, Pair ( 6s 6c Qh Ts 9c )
+Shows: Lemoer, Tc Kd
+Combination: Lemoer, Pair ( Tc Ts Kd Qh 9c )
+Wins: Lemoer, chips: 490
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Folds: Purloe
+Raises: Lemoer, chips: 15
+Folds: Degi
+Pot size: 35
+Boasts: Purloe, 8c 8s
+Wins: Lemoer, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Calls: Lemoer
+Folds: Degi
+Checks: Purloe
+Flop: 4h Kc Qh
+Checks: Purloe
+Checks: Lemoer
+Turn: Ts
+Checks: Purloe
+Checks: Lemoer
+River: Jh
+Checks: Purloe
+Checks: Lemoer
+Pot size: 25
+Showdown Reached
+Shows: Purloe, 8h Js
+Combination: Purloe, Pair ( Js Jh Kc Qh Ts )
+Shows: Lemoer, Jd 7d
+Combination: Lemoer, Pair ( Jd Jh Kc Qh Ts )
+Wins: Purloe, chips: 13
+Wins: Lemoer, chips: 12
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Folds: Purloe
+Pot size: 15
+Wins: Lemoer, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Calls: Purloe
+Calls: Lemoer
+Checks: Degi
+Flop: Td 2h Kd
+Checks: Lemoer
+Checks: Degi
+Raises: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 40
+Boasts: Purloe, 9c 3s
+Wins: Purloe, chips: 40
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Calls: Lemoer
+Folds: Degi
+Raises: Purloe, chips: 10
+Calls: Lemoer
+Flop: Jh 3s 6s
+Checks: Purloe
+Raises: Lemoer, chips: 10
+Raises: Purloe, chips: 20
+Calls: Lemoer
+Turn: 8h
+Checks: Purloe
+Checks: Lemoer
+River: Jd
+Checks: Purloe
+Checks: Lemoer
+Pot size: 105
+Showdown Reached
+Shows: Purloe, As 8s
+Combination: Purloe, Two Pair ( Jh Jd 8s 8h As )
+Shows: Lemoer, Ks Td
+Combination: Lemoer, Pair ( Jh Jd Ks Td 8h )
+Wins: Purloe, chips: 105
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Calls: Purloe
+Checks: Lemoer
+Flop: 7d 4c 2h
+Raises: Purloe, chips: 10
+Calls: Lemoer
+Turn: Qh
+Checks: Purloe
+Checks: Lemoer
+River: Ad
+Raises: Purloe, chips: 10
+Folds: Lemoer
+Pot size: 50
+Wins: Purloe, chips: 50
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Calls: Purloe
+Folds: Lemoer
+Checks: Degi
+Flop: As Ks Jc
+Checks: Degi
+Checks: Purloe
+Turn: Kh
+Checks: Degi
+Checks: Purloe
+River: Qh
+Checks: Degi
+Checks: Purloe
+Pot size: 25
+Showdown Reached
+Shows: Purloe, 5h 9d
+Combination: Purloe, Pair ( Ks Kh As Qh Jc )
+Shows: Degi, Qc Tc
+Combination: Degi, Straight ( As Ks Qc Jc Tc )
+Wins: Degi, chips: 25
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Calls: Lemoer
+Folds: Degi
+Raises: Purloe, chips: 10
+Folds: Lemoer
+Pot size: 35
+Boasts: Purloe, Qc Qs
+Wins: Purloe, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Calls: Purloe
+Checks: Lemoer
+Flop: Jh 5c 7h
+Checks: Purloe
+Raises: Lemoer, chips: 10
+Folds: Purloe
+Pot size: 30
+Boasts: Purloe, 9d As
+Wins: Lemoer, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Raises: Purloe, chips: 20
+Folds: Lemoer
+Folds: Degi
+Pot size: 45
+Wins: Purloe, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Boasts: Purloe, Jc Td
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Calls: Purloe
+Raises: Lemoer, chips: 10
+Calls: Purloe
+Flop: Ks 4d 6d
+Raises: Purloe, chips: 10
+Raises: Lemoer, chips: 10
+Calls: Purloe
+Turn: 2c
+Checks: Purloe
+Checks: Lemoer
+River: Jh
+Checks: Purloe
+Checks: Lemoer
+Pot size: 80
+Showdown Reached
+Shows: Purloe, 2s 6h
+Combination: Purloe, Two Pair ( 6h 6d 2s 2c Ks )
+Shows: Lemoer, Qd Ad
+Combination: Lemoer, High Card ( Ad Ks Qd Jh 6d )
+Wins: Purloe, chips: 80
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Calls: Purloe
+Folds: Lemoer
+Checks: Degi
+Flop: 7h Kd 5s
+Checks: Degi
+Raises: Purloe, chips: 10
+Folds: Degi
+Pot size: 35
+Boasts: Purloe, 6c 5d
+Wins: Purloe, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Boasts: Purloe, 2s Kd
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Raises: Purloe, chips: 15
+Calls: Lemoer
+Flop: 3h Kh Tc
+Checks: Purloe
+Checks: Lemoer
+Turn: 3c
+Raises: Purloe, chips: 15
+Calls: Lemoer
+River: 4h
+Checks: Purloe
+Checks: Lemoer
+Pot size: 80
+Showdown Reached
+Shows: Purloe, 8s Ks
+Combination: Purloe, Two Pair ( Ks Kh 3h 3c Tc )
+Shows: Lemoer, Ac Jc
+Combination: Lemoer, Pair ( 3h 3c Ac Kh Jc )
+Wins: Purloe, chips: 80
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Folds: Purloe
+Calls: Lemoer
+Checks: Degi
+Flop: Js 5c 7c
+Raises: Lemoer, chips: 10
+Folds: Degi
+Pot size: 30
+Boasts: Purloe, Tc 2s
+Wins: Lemoer, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Boasts: Purloe, 3d 8c
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Raises: Purloe, chips: 15
+Folds: Lemoer
+Pot size: 35
+Boasts: Purloe, Jh Qc
+Wins: Purloe, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Raises: Purloe, chips: 20
+Folds: Lemoer
+Folds: Degi
+Pot size: 45
+Boasts: Purloe, 7s As
+Wins: Purloe, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Raises: Purloe, chips: 15
+Folds: Lemoer
+Pot size: 35
+Wins: Purloe, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Calls: Purloe
+Calls: Lemoer
+Checks: Degi
+Flop: Js 5c 9c
+Checks: Lemoer
+Checks: Degi
+Checks: Purloe
+Turn: Tc
+Checks: Lemoer
+Checks: Degi
+Checks: Purloe
+River: 2s
+Checks: Lemoer
+Checks: Degi
+Checks: Purloe
+Pot size: 30
+Showdown Reached
+Shows: Purloe, 8h Th
+Combination: Purloe, Pair ( Th Tc Js 9c 8h )
+Shows: Lemoer, Ac Kd
+Combination: Lemoer, High Card ( Ac Kd Js Tc 9c )
+Shows: Degi, 5d 9d
+Combination: Degi, Two Pair ( 9d 9c 5d 5c Js )
+Wins: Degi, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Calls: Lemoer
+Folds: Degi
+Checks: Purloe
+Flop: 8s Jh 9c
+Checks: Purloe
+Checks: Lemoer
+Turn: 4c
+Checks: Purloe
+Checks: Lemoer
+River: 3d
+Checks: Purloe
+Checks: Lemoer
+Pot size: 25
+Showdown Reached
+Shows: Purloe, 5h 7s
+Combination: Purloe, High Card ( Jh 9c 8s 7s 5h )
+Shows: Lemoer, 9d Kc
+Combination: Lemoer, Pair ( 9d 9c Kc Jh 8s )
+Wins: Lemoer, chips: 25
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Raises: Purloe, chips: 15
+Folds: Lemoer
+Pot size: 35
+Wins: Purloe, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Folds: Purloe
+Calls: Lemoer
+Checks: Degi
+Flop: Th 5c 6c
+Checks: Lemoer
+Checks: Degi
+Turn: 7h
+Raises: Lemoer, chips: 10
+Folds: Degi
+Pot size: 30
+Wins: Lemoer, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Calls: Lemoer
+Folds: Degi
+Checks: Purloe
+Flop: Kh Td 9s
+Checks: Purloe
+Checks: Lemoer
+Turn: Jd
+Raises: Purloe, chips: 10
+Folds: Lemoer
+Pot size: 35
+Wins: Purloe, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Calls: Purloe
+Checks: Lemoer
+Flop: 5c Qs 7s
+Raises: Purloe, chips: 10
+Folds: Lemoer
+Pot size: 30
+Wins: Purloe, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Raises: Purloe, chips: 20
+Folds: Lemoer
+Folds: Degi
+Pot size: 45
+Boasts: Purloe, 5h 2h
+Wins: Purloe, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Boasts: Purloe, 6c As
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Raises: Purloe, chips: 15
+Folds: Lemoer
+Pot size: 35
+Wins: Purloe, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Calls: Purloe
+Folds: Lemoer
+Checks: Degi
+Flop: Tc 3d Qd
+Checks: Degi
+Raises: Purloe, chips: 10
+Folds: Degi
+Pot size: 35
+Boasts: Purloe, Jh Kh
+Wins: Purloe, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Calls: Lemoer
+Folds: Degi
+Checks: Purloe
+Flop: 2s 3h 9h
+Raises: Purloe, chips: 10
+Calls: Lemoer
+Turn: 9d
+Checks: Purloe
+Checks: Lemoer
+River: 6c
+Checks: Purloe
+Raises: Lemoer, chips: 10
+Folds: Purloe
+Pot size: 55
+Wins: Lemoer, chips: 55
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Folds: Purloe
+Pot size: 15
+Wins: Lemoer, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Folds: Purloe
+Calls: Lemoer
+Checks: Degi
+Flop: Jc 8d Jh
+Checks: Lemoer
+Checks: Degi
+Turn: 4d
+Checks: Lemoer
+Checks: Degi
+River: 9c
+Checks: Lemoer
+Checks: Degi
+Pot size: 20
+Showdown Reached
+Boasts: Purloe, Kd As
+Shows: Lemoer, 6c 8c
+Combination: Lemoer, Two Pair ( Jc Jh 8c 8d 9c )
+Shows: Degi, Ah 6d
+Combination: Degi, Pair ( Jc Jh Ah 9c 8d )
+Wins: Lemoer, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Boasts: Purloe, 7s Jc
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Folds: Purloe
+Pot size: 15
+Wins: Lemoer, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Folds: Purloe
+Folds: Lemoer
+Pot size: 15
+Boasts: Purloe, 7c 4d
+Wins: Degi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Boasts: Purloe, Jc Kc
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Raises: Purloe, chips: 15
+Folds: Lemoer
+Pot size: 35
+Boasts: Purloe, Jc Ad
+Wins: Purloe, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Calls: Purloe
+Calls: Lemoer
+Checks: Degi
+Flop: 4h Js Ah
+Checks: Lemoer
+Checks: Degi
+Raises: Purloe, chips: 10
+Calls: Lemoer
+Folds: Degi
+Turn: 7s
+Checks: Lemoer
+Checks: Purloe
+River: 2s
+Raises: Lemoer, chips: 10
+Folds: Purloe
+Pot size: 60
+Boasts: Purloe, 3c Kh
+Wins: Lemoer, chips: 60
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Calls: Lemoer
+Folds: Degi
+Raises: Purloe, chips: 10
+Raises: Lemoer, chips: 10
+Folds: Purloe
+Pot size: 55
+Boasts: Purloe, Kh 7h
+Wins: Lemoer, chips: 55
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Folds: Purloe
+Pot size: 15
+Wins: Lemoer, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Folds: Purloe
+Folds: Lemoer
+Pot size: 15
+Boasts: Purloe, 5h 9c
+Wins: Degi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Boasts: Purloe, Ac 9s
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Calls: Purloe
+Checks: Lemoer
+Flop: 6s Td 7d
+Checks: Purloe
+Checks: Lemoer
+Turn: Kc
+Checks: Purloe
+Checks: Lemoer
+River: 4h
+Checks: Purloe
+Checks: Lemoer
+Pot size: 20
+Showdown Reached
+Shows: Purloe, Qh 5s
+Combination: Purloe, High Card ( Kc Qh Td 7d 6s )
+Shows: Lemoer, Jh 2c
+Combination: Lemoer, High Card ( Kc Jh Td 7d 6s )
+Wins: Purloe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Folds: Purloe
+Folds: Lemoer
+Pot size: 15
+Wins: Degi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Raises: Lemoer, chips: 20
+Folds: Degi
+Raises: Purloe, chips: 40
+Raises: Lemoer, chips: 110
+Calls: Purloe
+Flop: Qh Jc 4h
+Checks: Purloe
+Raises: Lemoer, chips: 190
+Raises: Purloe, chips: 380
+Raises: Lemoer, chips: 460
+Calls: Purloe
+Turn: 8h
+Checks: Purloe
+Checks: Lemoer
+River: 9c
+Raises: Purloe, chips: 460
+Folds: Lemoer
+Pot size: 2885
+Boasts: Purloe, 7s 6c
+Wins: Purloe, chips: 2885
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Calls: Purloe
+Checks: Lemoer
+Flop: 2s 2c Jh
+Checks: Purloe
+Checks: Lemoer
+Turn: Ad
+Raises: Purloe, chips: 10
+Folds: Lemoer
+Pot size: 30
+Boasts: Purloe, 5c 4s
+Wins: Purloe, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Calls: Purloe
+Folds: Lemoer
+Checks: Degi
+Flop: Ad 3d Tc
+Checks: Degi
+Checks: Purloe
+Turn: As
+Checks: Degi
+Checks: Purloe
+River: Qs
+Checks: Degi
+Raises: Purloe, chips: 10
+Folds: Degi
+Pot size: 35
+Boasts: Purloe, 5s Ac
+Wins: Purloe, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Calls: Lemoer
+Folds: Degi
+Checks: Purloe
+Flop: 7c 8h 2s
+Checks: Purloe
+Checks: Lemoer
+Turn: Qc
+Raises: Purloe, chips: 10
+Calls: Lemoer
+River: Ts
+Checks: Purloe
+Checks: Lemoer
+Pot size: 45
+Showdown Reached
+Shows: Purloe, Js Qd
+Combination: Purloe, Pair ( Qd Qc Js Ts 8h )
+Shows: Lemoer, Kc 2c
+Combination: Lemoer, Pair ( 2c 2s Kc Qc Ts )
+Wins: Purloe, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Folds: Purloe
+Pot size: 15
+Boasts: Purloe, Kd Ts
+Wins: Lemoer, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Raises: Purloe, chips: 20
+Folds: Lemoer
+Folds: Degi
+Pot size: 45
+Boasts: Purloe, 2d 7h
+Wins: Purloe, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Boasts: Purloe, Ts 7c
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Folds: Purloe
+Pot size: 15
+Wins: Lemoer, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Raises: Purloe, chips: 20
+Folds: Lemoer
+Folds: Degi
+Pot size: 45
+Boasts: Purloe, 7d 6s
+Wins: Purloe, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Calls: Lemoer
+Folds: Degi
+Checks: Purloe
+Flop: 8d 4d Jc
+Checks: Purloe
+Checks: Lemoer
+Turn: Qh
+Checks: Purloe
+Raises: Lemoer, chips: 10
+Folds: Purloe
+Pot size: 35
+Boasts: Purloe, 3c Ad
+Wins: Lemoer, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Calls: Purloe
+Checks: Lemoer
+Flop: 4d Kd 4s
+Raises: Purloe, chips: 10
+Folds: Lemoer
+Pot size: 30
+Wins: Purloe, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Raises: Purloe, chips: 20
+Folds: Lemoer
+Folds: Degi
+Pot size: 45
+Boasts: Purloe, 2h 5d
+Wins: Purloe, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Calls: Purloe
+Checks: Lemoer
+Flop: 2h 3s 5h
+Checks: Purloe
+Raises: Lemoer, chips: 10
+Calls: Purloe
+Turn: Jc
+Checks: Purloe
+Checks: Lemoer
+River: 5s
+Checks: Purloe
+Raises: Lemoer, chips: 10
+Raises: Purloe, chips: 20
+Raises: Lemoer, chips: 30
+Raises: Purloe, chips: 60
+Calls: Lemoer
+Pot size: 280
+Showdown Reached
+Shows: Purloe, Ah 6h
+Combination: Purloe, Pair ( 5h 5s Ah Jc 6h )
+Shows: Lemoer, 5d 8s
+Combination: Lemoer, Three Of A Kind ( 5d 5h 5s Jc 8s )
+Wins: Lemoer, chips: 280
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Folds: Purloe
+Folds: Lemoer
+Pot size: 15
+Boasts: Purloe, Qs 4h
+Wins: Degi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Folds: Purloe
+Pot size: 15
+Boasts: Purloe, Ac Qs
+Wins: Lemoer, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Raises: Purloe, chips: 20
+Folds: Lemoer
+Folds: Degi
+Pot size: 45
+Wins: Purloe, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Raises: Lemoer, chips: 10
+Folds: Degi
+Raises: Purloe, chips: 20
+Raises: Lemoer, chips: 30
+Raises: Purloe, chips: 60
+Calls: Lemoer
+Flop: Ah 3d 3h
+Checks: Purloe
+Raises: Lemoer, chips: 110
+Folds: Purloe
+Pot size: 375
+Wins: Lemoer, chips: 375
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Calls: Purloe
+Checks: Lemoer
+Flop: 9c 3d 7s
+Checks: Purloe
+Raises: Lemoer, chips: 10
+Folds: Purloe
+Pot size: 30
+Wins: Lemoer, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Raises: Purloe, chips: 20
+Folds: Lemoer
+Folds: Degi
+Pot size: 45
+Wins: Purloe, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Boasts: Purloe, 3s Ah
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Raises: Purloe, chips: 15
+Calls: Lemoer
+Flop: 2h Qc 2c
+Checks: Purloe
+Checks: Lemoer
+Turn: 9h
+Raises: Purloe, chips: 15
+Calls: Lemoer
+River: Jd
+Raises: Purloe, chips: 15
+Folds: Lemoer
+Pot size: 95
+Wins: Purloe, chips: 95
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Calls: Purloe
+Folds: Lemoer
+Checks: Degi
+Flop: Qs 6c 4h
+Checks: Degi
+Checks: Purloe
+Turn: 5c
+Checks: Degi
+Checks: Purloe
+River: 7s
+Checks: Degi
+Checks: Purloe
+Pot size: 25
+Showdown Reached
+Shows: Purloe, Td 9c
+Combination: Purloe, High Card ( Qs Td 9c 7s 6c )
+Shows: Degi, 8c 7h
+Combination: Degi, Straight ( 8c 7h 6c 5c 4h )
+Wins: Degi, chips: 25
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Boasts: Purloe, Qc Ad
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Raises: Purloe, chips: 15
+Raises: Lemoer, chips: 15
+Calls: Purloe
+Flop: Tc 2d Kc
+Checks: Purloe
+Raises: Lemoer, chips: 20
+Raises: Purloe, chips: 40
+Calls: Lemoer
+Turn: Ts
+Checks: Purloe
+Checks: Lemoer
+River: Qs
+Checks: Purloe
+Checks: Lemoer
+Pot size: 200
+Showdown Reached
+Shows: Purloe, Qd 6h
+Combination: Purloe, Two Pair ( Qd Qs Tc Ts Kc )
+Shows: Lemoer, 9c Qc
+Combination: Lemoer, Two Pair ( Qc Qs Tc Ts Kc )
+Wins: Purloe, chips: 100
+Wins: Lemoer, chips: 100
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Folds: Purloe
+Folds: Lemoer
+Pot size: 15
+Wins: Degi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Boasts: Purloe, Qh Ac
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Calls: Purloe
+Checks: Lemoer
+Flop: 3h 6d 8h
+Checks: Purloe
+Checks: Lemoer
+Turn: Js
+Checks: Purloe
+Checks: Lemoer
+River: Tc
+Checks: Purloe
+Checks: Lemoer
+Pot size: 20
+Showdown Reached
+Shows: Purloe, 5d 2s
+Combination: Purloe, High Card ( Js Tc 8h 6d 5d )
+Shows: Lemoer, Qh 4s
+Combination: Lemoer, High Card ( Qh Js Tc 8h 6d )
+Wins: Lemoer, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Calls: Purloe
+Folds: Lemoer
+Checks: Degi
+Flop: Kh 9s Tc
+Checks: Degi
+Raises: Purloe, chips: 10
+Folds: Degi
+Pot size: 35
+Wins: Purloe, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Calls: Lemoer
+Folds: Degi
+Checks: Purloe
+Flop: Th 4c Td
+Raises: Purloe, chips: 10
+Calls: Lemoer
+Turn: 2h
+Checks: Purloe
+Raises: Lemoer, chips: 10
+Folds: Purloe
+Pot size: 55
+Wins: Lemoer, chips: 55
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Folds: Purloe
+Pot size: 15
+Boasts: Purloe, 9s As
+Wins: Lemoer, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Folds: Purloe
+Folds: Lemoer
+Pot size: 15
+Boasts: Purloe, Tc Kd
+Wins: Degi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Boasts: Purloe, Kc Tc
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Calls: Purloe
+Checks: Lemoer
+Flop: 9d 8s 3c
+Checks: Purloe
+Checks: Lemoer
+Turn: Qd
+Checks: Purloe
+Raises: Lemoer, chips: 10
+Raises: Purloe, chips: 20
+Calls: Lemoer
+River: 8c
+Checks: Purloe
+Checks: Lemoer
+Pot size: 80
+Showdown Reached
+Shows: Purloe, 7h 2c
+Combination: Purloe, Pair ( 8s 8c Qd 9d 7h )
+Shows: Lemoer, Qc 7d
+Combination: Lemoer, Two Pair ( Qc Qd 8s 8c 9d )
+Wins: Lemoer, chips: 80
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Calls: Purloe
+Calls: Lemoer
+Checks: Degi
+Flop: Tc Qh 6d
+Checks: Lemoer
+Checks: Degi
+Checks: Purloe
+Turn: Kh
+Checks: Lemoer
+Checks: Degi
+Checks: Purloe
+River: Jd
+Checks: Lemoer
+Checks: Degi
+Checks: Purloe
+Pot size: 30
+Showdown Reached
+Shows: Purloe, 3h Qd
+Combination: Purloe, Pair ( Qd Qh Kh Jd Tc )
+Shows: Lemoer, 3c 4c
+Combination: Lemoer, High Card ( Kh Qh Jd Tc 6d )
+Shows: Degi, 4d 8h
+Combination: Degi, High Card ( Kh Qh Jd Tc 8h )
+Wins: Purloe, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Raises: Purloe, chips: 15
+Folds: Lemoer
+Pot size: 35
+Boasts: Purloe, Js 5d
+Wins: Purloe, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Calls: Purloe
+Calls: Lemoer
+Checks: Degi
+Flop: Kh 8h Jc
+Checks: Lemoer
+Checks: Degi
+Checks: Purloe
+Turn: Kd
+Checks: Lemoer
+Checks: Degi
+Checks: Purloe
+River: 9s
+Checks: Lemoer
+Checks: Degi
+Checks: Purloe
+Pot size: 30
+Showdown Reached
+Shows: Purloe, 5d 5s
+Combination: Purloe, Two Pair ( Kh Kd 5d 5s Jc )
+Shows: Lemoer, 6s 7h
+Combination: Lemoer, Pair ( Kh Kd Jc 9s 8h )
+Shows: Degi, Qh 7d
+Combination: Degi, Pair ( Kh Kd Qh Jc 9s )
+Wins: Purloe, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Boasts: Purloe, Ah Td
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Calls: Purloe
+Checks: Lemoer
+Flop: 3h 7h Ah
+Checks: Purloe
+Checks: Lemoer
+Turn: 9h
+Checks: Purloe
+Checks: Lemoer
+River: Ac
+Raises: Purloe, chips: 10
+Folds: Lemoer
+Pot size: 30
+Boasts: Purloe, 6s 8d
+Wins: Purloe, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Raises: Purloe, chips: 20
+Folds: Lemoer
+Folds: Degi
+Pot size: 45
+Boasts: Purloe, Jd 4h
+Wins: Purloe, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Raises: Purloe, chips: 15
+Calls: Lemoer
+Flop: Th 6h 8c
+Checks: Purloe
+Raises: Lemoer, chips: 20
+Calls: Purloe
+Turn: 5d
+Checks: Purloe
+Checks: Lemoer
+River: 2h
+Checks: Purloe
+Checks: Lemoer
+Pot size: 90
+Showdown Reached
+Shows: Purloe, 9h As
+Combination: Purloe, High Card ( As Th 9h 8c 6h )
+Shows: Lemoer, Jh Qs
+Combination: Lemoer, High Card ( Qs Jh Th 8c 6h )
+Wins: Purloe, chips: 90
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Raises: Purloe, chips: 20
+Folds: Lemoer
+Folds: Degi
+Pot size: 45
+Boasts: Purloe, 9c 3c
+Wins: Purloe, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Folds: Purloe
+Pot size: 15
+Boasts: Purloe, 8d Qs
+Wins: Lemoer, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Calls: Purloe
+Folds: Lemoer
+Checks: Degi
+Flop: 9h Td 4h
+Checks: Degi
+Checks: Purloe
+Turn: Ks
+Checks: Degi
+Raises: Purloe, chips: 10
+Folds: Degi
+Pot size: 35
+Wins: Purloe, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Boasts: Purloe, 2s Qd
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Raises: Purloe, chips: 15
+Calls: Lemoer
+Flop: Ks 2h 4c
+Checks: Purloe
+Checks: Lemoer
+Turn: 6h
+Checks: Purloe
+Checks: Lemoer
+River: 3d
+Raises: Purloe, chips: 15
+Folds: Lemoer
+Pot size: 65
+Wins: Purloe, chips: 65
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Raises: Purloe, chips: 20
+Folds: Lemoer
+Folds: Degi
+Pot size: 45
+Wins: Purloe, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Calls: Lemoer
+Folds: Degi
+Raises: Purloe, chips: 10
+Calls: Lemoer
+Flop: 3s 7h 8c
+Raises: Purloe, chips: 10
+Calls: Lemoer
+Turn: 8d
+Checks: Purloe
+Checks: Lemoer
+River: Kc
+Checks: Purloe
+Checks: Lemoer
+Pot size: 65
+Showdown Reached
+Shows: Purloe, 2h 5h
+Combination: Purloe, Pair ( 8c 8d Kc 7h 5h )
+Shows: Lemoer, Ad 4d
+Combination: Lemoer, Pair ( 8c 8d Ad Kc 7h )
+Wins: Lemoer, chips: 65
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Calls: Purloe
+Checks: Lemoer
+Flop: 2c Ah Kd
+Checks: Purloe
+Checks: Lemoer
+Turn: 9c
+Checks: Purloe
+Checks: Lemoer
+River: As
+Checks: Purloe
+Checks: Lemoer
+Pot size: 20
+Showdown Reached
+Shows: Purloe, Ad 9s
+Combination: Purloe, Full House ( Ad Ah As 9s 9c )
+Shows: Lemoer, Jd 7d
+Combination: Lemoer, Pair ( Ah As Kd Jd 9c )
+Wins: Purloe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Calls: Purloe
+Folds: Lemoer
+Checks: Degi
+Flop: Td 5h 8d
+Checks: Degi
+Checks: Purloe
+Turn: 8c
+Checks: Degi
+Checks: Purloe
+River: 3c
+Checks: Degi
+Checks: Purloe
+Pot size: 25
+Showdown Reached
+Shows: Purloe, Kh 4d
+Combination: Purloe, Pair ( 8d 8c Kh Td 5h )
+Shows: Degi, 6h 7h
+Combination: Degi, Pair ( 8d 8c Td 7h 6h )
+Wins: Purloe, chips: 25
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Boasts: Purloe, Qs Ah
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Folds: Purloe
+Pot size: 15
+Wins: Lemoer, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Raises: Purloe, chips: 20
+Folds: Lemoer
+Folds: Degi
+Pot size: 45
+Wins: Purloe, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Calls: Lemoer
+Folds: Degi
+Raises: Purloe, chips: 10
+Folds: Lemoer
+Pot size: 35
+Wins: Purloe, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Folds: Purloe
+Pot size: 15
+Boasts: Purloe, 7h 5s
+Wins: Lemoer, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Folds: Purloe
+Calls: Lemoer
+Checks: Degi
+Flop: 3d 7h 9c
+Checks: Lemoer
+Checks: Degi
+Turn: 7s
+Checks: Lemoer
+Checks: Degi
+River: 9h
+Checks: Lemoer
+Checks: Degi
+Pot size: 20
+Showdown Reached
+Boasts: Purloe, Jc 2c
+Shows: Lemoer, 4d 4c
+Combination: Lemoer, Two Pair ( 9c 9h 7h 7s 4d )
+Shows: Degi, Kc Qc
+Combination: Degi, Two Pair ( 9c 9h 7h 7s Kc )
+Wins: Degi, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Calls: Lemoer
+Folds: Degi
+Checks: Purloe
+Flop: Kd 9d 9c
+Raises: Purloe, chips: 5183
+Folds: Lemoer
+Pot size: 5208
+Wins: Purloe, chips: 5208
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Calls: Purloe
+Checks: Lemoer
+Flop: 2d Qs 3c
+Raises: Purloe, chips: 10
+Calls: Lemoer
+Turn: 7c
+Checks: Purloe
+Checks: Lemoer
+River: 2c
+Checks: Purloe
+Checks: Lemoer
+Pot size: 40
+Showdown Reached
+Shows: Purloe, 5c 8d
+Combination: Purloe, Pair ( 2d 2c Qs 8d 7c )
+Shows: Lemoer, Td Ac
+Combination: Lemoer, Pair ( 2d 2c Ac Qs Td )
+Wins: Lemoer, chips: 40
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Folds: Purloe
+Folds: Lemoer
+Pot size: 15
+Wins: Degi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Boasts: Purloe, Ks Jc
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Folds: Purloe
+Pot size: 15
+Boasts: Purloe, 4c As
+Wins: Lemoer, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Calls: Purloe
+Folds: Lemoer
+Checks: Degi
+Flop: 2d Qh Ks
+Checks: Degi
+Raises: Purloe, chips: 10
+Folds: Degi
+Pot size: 35
+Boasts: Purloe, 6c 5c
+Wins: Purloe, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Boasts: Purloe, 8c 7d
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Raises: Purloe, chips: 15
+Calls: Lemoer
+Flop: 6c 2h Qh
+Raises: Purloe, chips: 15
+Folds: Lemoer
+Pot size: 65
+Boasts: Purloe, Jh 8d
+Wins: Purloe, chips: 65
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Folds: Purloe
+Calls: Lemoer
+Checks: Degi
+Flop: 7c Qd 3s
+Raises: Lemoer, chips: 10
+Folds: Degi
+Pot size: 30
+Wins: Lemoer, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Folds: Purloe
+Pot size: 15
+Wins: Lemoer, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Calls: Purloe
+Calls: Lemoer
+Checks: Degi
+Flop: 4c 2c Kh
+Checks: Lemoer
+Checks: Degi
+Checks: Purloe
+Turn: Qd
+Checks: Lemoer
+Checks: Degi
+Checks: Purloe
+River: 4d
+Checks: Lemoer
+Checks: Degi
+Checks: Purloe
+Pot size: 30
+Showdown Reached
+Shows: Purloe, 7h 8h
+Combination: Purloe, Pair ( 4c 4d Kh Qd 8h )
+Shows: Lemoer, 5c Kc
+Combination: Lemoer, Two Pair ( Kc Kh 4c 4d Qd )
+Shows: Degi, 5d 3h
+Combination: Degi, Pair ( 4c 4d Kh Qd 5d )
+Wins: Lemoer, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Raises: Lemoer, chips: 20
+Folds: Degi
+Raises: Purloe, chips: 40
+Folds: Lemoer
+Pot size: 105
+Boasts: Purloe, 4h 9s
+Wins: Purloe, chips: 105
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Raises: Purloe, chips: 15
+Folds: Lemoer
+Pot size: 35
+Boasts: Purloe, Qs Kd
+Wins: Purloe, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Calls: Purloe
+Folds: Lemoer
+Checks: Degi
+Flop: 4c Qh Kh
+Checks: Degi
+Raises: Purloe, chips: 10
+Folds: Degi
+Pot size: 35
+Wins: Purloe, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Raises: Purloe, chips: 15
+Folds: Lemoer
+Pot size: 35
+Wins: Purloe, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Calls: Purloe
+Calls: Lemoer
+Checks: Degi
+Flop: Kc Qd Ks
+Raises: Lemoer, chips: 1202
+Folds: Degi
+Raises: Purloe, chips: 1212
+Turn: 4c
+River: 9h
+Pot size: 3646
+Showdown Reached
+Shows: Purloe, 9d 7h
+Combination: Purloe, Two Pair ( Kc Ks 9d 9h Qd )
+Shows: Lemoer, Kd 7d
+Combination: Lemoer, Three Of A Kind ( Kd Kc Ks Qd 9h )
+Wins: Purloe, chips: 1212
+Wins: Lemoer, chips: 2434
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Boasts: Purloe, 6c Qd
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Raises: Purloe, chips: 15
+Calls: Lemoer
+Flop: Js Kh 5d
+Checks: Purloe
+Checks: Lemoer
+Turn: Qs
+Checks: Purloe
+Checks: Lemoer
+River: 2h
+Checks: Purloe
+Checks: Lemoer
+Pot size: 50
+Showdown Reached
+Shows: Purloe, As Jc
+Combination: Purloe, Pair ( Jc Js As Kh Qs )
+Shows: Lemoer, Ts Qc
+Combination: Lemoer, Pair ( Qc Qs Kh Js Ts )
+Wins: Lemoer, chips: 50
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Folds: Purloe
+Folds: Lemoer
+Pot size: 15
+Boasts: Purloe, Kc Qc
+Wins: Degi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Calls: Lemoer
+Folds: Degi
+Checks: Purloe
+Flop: 9h Qd 8d
+Checks: Purloe
+Checks: Lemoer
+Turn: 5d
+Raises: Purloe, chips: 10
+Raises: Lemoer, chips: 20
+Folds: Purloe
+Pot size: 65
+Wins: Lemoer, chips: 65
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Raises: Purloe, chips: 15
+Folds: Lemoer
+Pot size: 35
+Wins: Purloe, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Folds: Purloe
+Calls: Lemoer
+Checks: Degi
+Flop: Kd Td 5s
+Checks: Lemoer
+Checks: Degi
+Turn: 2h
+Checks: Lemoer
+Checks: Degi
+River: As
+Raises: Lemoer, chips: 10
+Folds: Degi
+Pot size: 30
+Wins: Lemoer, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Boasts: Purloe, 3d 7d
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Folds: Purloe
+Pot size: 15
+Boasts: Purloe, Jc 9h
+Wins: Lemoer, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Raises: Purloe, chips: 20
+Raises: Lemoer, chips: 55
+Folds: Degi
+Raises: Purloe, chips: 110
+Folds: Lemoer
+Pot size: 290
+Boasts: Purloe, 6d Jh
+Wins: Purloe, chips: 290
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Calls: Purloe
+Checks: Lemoer
+Flop: 7c As Qd
+Checks: Purloe
+Checks: Lemoer
+Turn: 8s
+Checks: Purloe
+Checks: Lemoer
+River: Td
+Checks: Purloe
+Checks: Lemoer
+Pot size: 20
+Showdown Reached
+Shows: Purloe, 9d 5c
+Combination: Purloe, High Card ( As Qd Td 9d 8s )
+Shows: Lemoer, Js 3h
+Combination: Lemoer, High Card ( As Qd Js Td 8s )
+Wins: Lemoer, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Raises: Purloe, chips: 20
+Folds: Lemoer
+Folds: Degi
+Pot size: 45
+Wins: Purloe, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Calls: Lemoer
+Folds: Degi
+Checks: Purloe
+Flop: 4c 6h Jd
+Checks: Purloe
+Checks: Lemoer
+Turn: 3s
+Checks: Purloe
+Checks: Lemoer
+River: Jc
+Raises: Purloe, chips: 10
+Calls: Lemoer
+Pot size: 45
+Showdown Reached
+Shows: Purloe, As 9c
+Combination: Purloe, Pair ( Jd Jc As 9c 6h )
+Shows: Lemoer, 3h 5h
+Combination: Lemoer, Two Pair ( Jd Jc 3h 3s 6h )
+Wins: Lemoer, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Folds: Purloe
+Pot size: 15
+Wins: Lemoer, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Folds: Purloe
+Calls: Lemoer
+Checks: Degi
+Flop: 7c Kc 2d
+Checks: Lemoer
+Checks: Degi
+Turn: Kd
+Raises: Lemoer, chips: 10
+Folds: Degi
+Pot size: 30
+Wins: Lemoer, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Calls: Lemoer
+Folds: Degi
+Raises: Purloe, chips: 10
+Folds: Lemoer
+Pot size: 35
+Boasts: Purloe, 6s 7h
+Wins: Purloe, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Calls: Purloe
+Checks: Lemoer
+Flop: As Kd 6d
+Checks: Purloe
+Checks: Lemoer
+Turn: 2c
+Raises: Purloe, chips: 4141
+Folds: Lemoer
+Pot size: 4161
+Wins: Purloe, chips: 4161
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Raises: Purloe, chips: 20
+Folds: Lemoer
+Folds: Degi
+Pot size: 45
+Boasts: Purloe, Jd 2h
+Wins: Purloe, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Raises: Lemoer, chips: 10
+Folds: Degi
+Calls: Purloe
+Flop: Ac 7s 3d
+Raises: Purloe, chips: 10
+Raises: Lemoer, chips: 20
+Folds: Purloe
+Pot size: 85
+Wins: Lemoer, chips: 85
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Calls: Purloe
+Checks: Lemoer
+Flop: 2h 4c Ah
+Raises: Purloe, chips: 10
+Folds: Lemoer
+Pot size: 30
+Wins: Purloe, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Folds: Purloe
+Calls: Lemoer
+Checks: Degi
+Flop: 6d Jd 9c
+Raises: Lemoer, chips: 10
+Folds: Degi
+Pot size: 30
+Boasts: Purloe, 3c 9d
+Wins: Lemoer, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Calls: Lemoer
+Folds: Degi
+Checks: Purloe
+Flop: Kh 7h 3c
+Checks: Purloe
+Raises: Lemoer, chips: 10
+Folds: Purloe
+Pot size: 35
+Wins: Lemoer, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Raises: Purloe, chips: 15
+Folds: Lemoer
+Pot size: 35
+Boasts: Purloe, 3h 9h
+Wins: Purloe, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Raises: Purloe, chips: 4146
+Folds: Lemoer
+Folds: Degi
+Pot size: 4171
+Wins: Purloe, chips: 4171
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Calls: Lemoer
+Folds: Degi
+Checks: Purloe
+Flop: Ks 6c Qs
+Checks: Purloe
+Checks: Lemoer
+Turn: 3h
+Checks: Purloe
+Checks: Lemoer
+River: 6d
+Checks: Purloe
+Checks: Lemoer
+Pot size: 25
+Showdown Reached
+Shows: Purloe, 7h 8s
+Combination: Purloe, Pair ( 6c 6d Ks Qs 8s )
+Shows: Lemoer, As 6s
+Combination: Lemoer, Three Of A Kind ( 6s 6c 6d As Ks )
+Wins: Lemoer, chips: 25
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Calls: Purloe
+Checks: Lemoer
+Flop: 2c 6h 4c
+Raises: Purloe, chips: 10
+Raises: Lemoer, chips: 2449
+Calls: Purloe
+Turn: Qd
+River: Jc
+Pot size: 4938
+Showdown Reached
+Shows: Purloe, Kd 5d
+Combination: Purloe, High Card ( Kd Qd Jc 6h 5d )
+Shows: Lemoer, 6c 6d
+Combination: Lemoer, Three Of A Kind ( 6c 6d 6h Qd Jc )
+Wins: Lemoer, chips: 4938
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Calls: Purloe
+Folds: Lemoer
+Checks: Degi
+Flop: 4d Th 8d
+Checks: Degi
+Raises: Purloe, chips: 10
+Folds: Degi
+Pot size: 35
+Boasts: Purloe, Jh 7d
+Wins: Purloe, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Calls: Purloe
+Raises: Lemoer, chips: 10
+Calls: Purloe
+Flop: 8c Td 4h
+Raises: Purloe, chips: 10
+Calls: Lemoer
+Turn: 8d
+Checks: Purloe
+Checks: Lemoer
+River: Js
+Checks: Purloe
+Checks: Lemoer
+Pot size: 60
+Showdown Reached
+Shows: Purloe, Kc 5h
+Combination: Purloe, Pair ( 8c 8d Kc Js Td )
+Shows: Lemoer, 7h Ah
+Combination: Lemoer, Pair ( 8c 8d Ah Js Td )
+Wins: Lemoer, chips: 60
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Folds: Purloe
+Calls: Lemoer
+Checks: Degi
+Flop: 2d Jh 9c
+Checks: Lemoer
+Checks: Degi
+Turn: 3h
+Checks: Lemoer
+Checks: Degi
+River: 5d
+Checks: Lemoer
+Checks: Degi
+Pot size: 20
+Showdown Reached
+Shows: Lemoer, Ks Qs
+Combination: Lemoer, High Card ( Ks Qs Jh 9c 5d )
+Shows: Degi, Kh 6s
+Combination: Degi, High Card ( Kh Jh 9c 6s 5d )
+Wins: Lemoer, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Boasts: Purloe, 7h Qh
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Folds: Purloe
+Pot size: 15
+Wins: Lemoer, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Raises: Purloe, chips: 20
+Folds: Lemoer
+Folds: Degi
+Pot size: 45
+Wins: Purloe, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Folds: Purloe
+Pot size: 15
+Boasts: Purloe, Qd 9c
+Wins: Lemoer, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Raises: Purloe, chips: 20
+Calls: Lemoer
+Folds: Degi
+Flop: Ks Ad 6s
+Checks: Lemoer
+Checks: Purloe
+Turn: 9s
+Raises: Lemoer, chips: 20
+Calls: Purloe
+River: Kd
+Checks: Lemoer
+Checks: Purloe
+Pot size: 110
+Showdown Reached
+Shows: Purloe, 5d As
+Combination: Purloe, Two Pair ( As Ad Ks Kd 9s )
+Shows: Lemoer, 9h 9c
+Combination: Lemoer, Full House ( 9h 9c 9s Ks Kd )
+Wins: Lemoer, chips: 110
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Calls: Lemoer
+Folds: Degi
+Raises: Purloe, chips: 10
+Calls: Lemoer
+Flop: 7d 9s Qd
+Checks: Purloe
+Checks: Lemoer
+Turn: Qc
+Checks: Purloe
+Checks: Lemoer
+River: 3c
+Checks: Purloe
+Checks: Lemoer
+Pot size: 45
+Showdown Reached
+Shows: Purloe, Kd 8s
+Combination: Purloe, Pair ( Qd Qc Kd 9s 8s )
+Shows: Lemoer, 4s 5s
+Combination: Lemoer, Pair ( Qd Qc 9s 7d 5s )
+Wins: Purloe, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Calls: Purloe
+Checks: Lemoer
+Flop: 2d 9d 2h
+Checks: Purloe
+Checks: Lemoer
+Turn: 3c
+Checks: Purloe
+Checks: Lemoer
+River: Ad
+Raises: Purloe, chips: 10
+Folds: Lemoer
+Pot size: 30
+Boasts: Purloe, 5d 6s
+Wins: Purloe, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Raises: Purloe, chips: 20
+Folds: Lemoer
+Folds: Degi
+Pot size: 45
+Wins: Purloe, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Calls: Lemoer
+Folds: Degi
+Raises: Purloe, chips: 10
+Calls: Lemoer
+Flop: Ad 9h 5s
+Checks: Purloe
+Checks: Lemoer
+Turn: Kc
+Checks: Purloe
+Raises: Lemoer, chips: 4983
+Calls: Purloe
+River: 4h
+Pot size: 6705
+Showdown Reached
+Shows: Purloe, Ks 5h
+Combination: Purloe, Two Pair ( Ks Kc 5h 5s Ad )
+Shows: Lemoer, 3h Ah
+Combination: Lemoer, Pair ( Ah Ad Kc 9h 5s )
+Wins: Purloe, chips: 3399
+Wins: Lemoer, chips: 3306
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Calls: Purloe
+Checks: Lemoer
+Flop: 3c Qh 6h
+Raises: Purloe, chips: 10
+Calls: Lemoer
+Turn: Ah
+Checks: Purloe
+Checks: Lemoer
+River: 2h
+Checks: Purloe
+Checks: Lemoer
+Pot size: 40
+Showdown Reached
+Shows: Purloe, 2c Kd
+Combination: Purloe, Pair ( 2c 2h Ah Kd Qh )
+Shows: Lemoer, 5d Qc
+Combination: Lemoer, Pair ( Qc Qh Ah 6h 5d )
+Wins: Lemoer, chips: 40
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Calls: Purloe
+Folds: Lemoer
+Checks: Degi
+Flop: 8d 2d 9d
+Checks: Degi
+Checks: Purloe
+Turn: 7s
+Checks: Degi
+Checks: Purloe
+River: 3s
+Checks: Degi
+Checks: Purloe
+Pot size: 25
+Showdown Reached
+Shows: Purloe, 5s Ad
+Combination: Purloe, High Card ( Ad 9d 8d 7s 5s )
+Shows: Degi, As 8s
+Combination: Degi, Pair ( 8s 8d As 9d 7s )
+Wins: Degi, chips: 25
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Boasts: Purloe, 4s Kd
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Calls: Purloe
+Checks: Lemoer
+Flop: 6c Ts Jh
+Checks: Purloe
+Checks: Lemoer
+Turn: 4s
+Raises: Purloe, chips: 10
+Folds: Lemoer
+Pot size: 30
+Boasts: Purloe, 7d 9d
+Wins: Purloe, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Raises: Purloe, chips: 20
+Calls: Lemoer
+Folds: Degi
+Flop: 6d 4h 9h
+Checks: Lemoer
+Checks: Purloe
+Turn: 2d
+Raises: Lemoer, chips: 20
+Calls: Purloe
+River: 5s
+Checks: Lemoer
+Checks: Purloe
+Pot size: 110
+Showdown Reached
+Shows: Purloe, Ah Ts
+Combination: Purloe, High Card ( Ah Ts 9h 6d 5s )
+Shows: Lemoer, 4c Ac
+Combination: Lemoer, Pair ( 4c 4h Ac 9h 6d )
+Wins: Lemoer, chips: 110
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Raises: Lemoer, chips: 10
+Folds: Degi
+Folds: Purloe
+Pot size: 35
+Wins: Lemoer, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Folds: Purloe
+Pot size: 15
+Boasts: Purloe, 8h Qs
+Wins: Lemoer, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Calls: Purloe
+Calls: Lemoer
+Checks: Degi
+Flop: Ac Qs 8s
+Checks: Lemoer
+Checks: Degi
+Raises: Purloe, chips: 10
+Calls: Lemoer
+Folds: Degi
+Turn: 2c
+Checks: Lemoer
+Checks: Purloe
+River: Ks
+Raises: Lemoer, chips: 10
+Raises: Purloe, chips: 20
+Raises: Lemoer, chips: 40
+Folds: Purloe
+Pot size: 150
+Boasts: Purloe, 6s Qh
+Wins: Lemoer, chips: 150
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Boasts: Purloe, Ts Td
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Calls: Purloe
+Checks: Lemoer
+Flop: Ah 9d 5h
+Raises: Purloe, chips: 10
+Calls: Lemoer
+Turn: 6c
+Checks: Purloe
+Checks: Lemoer
+River: 8s
+Checks: Purloe
+Checks: Lemoer
+Pot size: 40
+Showdown Reached
+Shows: Purloe, 7d 9s
+Combination: Purloe, Straight ( 9s 8s 7d 6c 5h )
+Shows: Lemoer, 5s 3h
+Combination: Lemoer, Pair ( 5s 5h Ah 9d 8s )
+Wins: Purloe, chips: 40
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Raises: Purloe, chips: 20
+Folds: Lemoer
+Folds: Degi
+Pot size: 45
+Wins: Purloe, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Calls: Purloe
+Checks: Lemoer
+Flop: Kd 3d 6d
+Checks: Purloe
+Checks: Lemoer
+Turn: 6h
+Checks: Purloe
+Raises: Lemoer, chips: 10
+Folds: Purloe
+Pot size: 30
+Wins: Lemoer, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Folds: Purloe
+Calls: Lemoer
+Checks: Degi
+Flop: 5d 6h Qd
+Checks: Lemoer
+Checks: Degi
+Turn: Jd
+Checks: Lemoer
+Checks: Degi
+River: Js
+Checks: Lemoer
+Checks: Degi
+Pot size: 20
+Showdown Reached
+Boasts: Purloe, 2d 4d
+Shows: Lemoer, 9s 6s
+Combination: Lemoer, Two Pair ( Jd Js 6s 6h Qd )
+Shows: Degi, Jc As
+Combination: Degi, Three Of A Kind ( Jc Jd Js As Qd )
+Wins: Degi, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Raises: Lemoer, chips: 10
+Folds: Degi
+Calls: Purloe
+Flop: 5s 5h Kc
+Checks: Purloe
+Raises: Lemoer, chips: 10
+Folds: Purloe
+Pot size: 55
+Wins: Lemoer, chips: 55
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Calls: Purloe
+Checks: Lemoer
+Flop: 4d Qd 3h
+Raises: Purloe, chips: 10
+Folds: Lemoer
+Pot size: 30
+Boasts: Purloe, 2c Tc
+Wins: Purloe, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Folds: Purloe
+Folds: Lemoer
+Pot size: 15
+Boasts: Purloe, Jh 8h
+Wins: Degi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Raises: Purloe, chips: 15
+Folds: Lemoer
+Pot size: 35
+Boasts: Purloe, 4c Td
+Wins: Purloe, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Calls: Purloe
+Calls: Lemoer
+Checks: Degi
+Flop: 6c Js Qs
+Checks: Lemoer
+Checks: Degi
+Raises: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 40
+Wins: Purloe, chips: 40
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Calls: Purloe
+Checks: Lemoer
+Flop: Ks Ad 7s
+Checks: Purloe
+Checks: Lemoer
+Turn: 2s
+Checks: Purloe
+Raises: Lemoer, chips: 10
+Folds: Purloe
+Pot size: 30
+Boasts: Purloe, 4c Tc
+Wins: Lemoer, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Calls: Purloe
+Folds: Lemoer
+Checks: Degi
+Flop: 6c Tc Ks
+Checks: Degi
+Checks: Purloe
+Turn: Js
+Checks: Degi
+Checks: Purloe
+River: 5s
+Checks: Degi
+Checks: Purloe
+Pot size: 25
+Showdown Reached
+Shows: Purloe, 4h 8d
+Combination: Purloe, High Card ( Ks Js Tc 8d 6c )
+Shows: Degi, 2h 5c
+Combination: Degi, Pair ( 5c 5s Ks Js Tc )
+Wins: Degi, chips: 25
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Calls: Lemoer
+Folds: Degi
+Raises: Purloe, chips: 10
+Calls: Lemoer
+Flop: Qc 2s 9s
+Raises: Purloe, chips: 10
+Calls: Lemoer
+Turn: 8c
+Raises: Purloe, chips: 10
+Raises: Lemoer, chips: 20
+Folds: Purloe
+Pot size: 105
+Boasts: Purloe, 6s Qd
+Wins: Lemoer, chips: 105
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Folds: Purloe
+Pot size: 15
+Boasts: Purloe, Ks Qd
+Wins: Lemoer, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Calls: Purloe
+Calls: Lemoer
+Checks: Degi
+Flop: 8c Jc Qh
+Checks: Lemoer
+Checks: Degi
+Raises: Purloe, chips: 10
+Calls: Lemoer
+Folds: Degi
+Turn: 8s
+Checks: Lemoer
+Checks: Purloe
+River: Qc
+Raises: Lemoer, chips: 10
+Calls: Purloe
+Pot size: 70
+Showdown Reached
+Shows: Purloe, 5h 7s
+Combination: Purloe, Two Pair ( Qh Qc 8c 8s Jc )
+Shows: Lemoer, Ac 5c
+Combination: Lemoer, Flush ( Ac Qc Jc 8c 5c )
+Wins: Lemoer, chips: 70
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Raises: Purloe, chips: 15
+Folds: Lemoer
+Pot size: 35
+Boasts: Purloe, 8c Qd
+Wins: Purloe, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Calls: Purloe
+Calls: Lemoer
+Checks: Degi
+Flop: 2h 2d Th
+Checks: Lemoer
+Checks: Degi
+Raises: Purloe, chips: 10
+Raises: Lemoer, chips: 10
+Folds: Degi
+Raises: Purloe, chips: 20
+Calls: Lemoer
+Turn: 3c
+Checks: Lemoer
+Checks: Purloe
+River: 9d
+Checks: Lemoer
+Raises: Purloe, chips: 20
+Calls: Lemoer
+Pot size: 150
+Showdown Reached
+Shows: Purloe, Tc 4c
+Combination: Purloe, Two Pair ( Tc Th 2h 2d 9d )
+Shows: Lemoer, Ts 7s
+Combination: Lemoer, Two Pair ( Ts Th 2h 2d 9d )
+Wins: Purloe, chips: 75
+Wins: Lemoer, chips: 75
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Calls: Purloe
+Checks: Lemoer
+Flop: 7s 3h Jc
+Raises: Purloe, chips: 10
+Calls: Lemoer
+Turn: 3c
+Checks: Purloe
+Raises: Lemoer, chips: 10
+Raises: Purloe, chips: 20
+Calls: Lemoer
+River: Qd
+Checks: Purloe
+Raises: Lemoer, chips: 20
+Calls: Purloe
+Pot size: 140
+Showdown Reached
+Shows: Purloe, Kc 2c
+Combination: Purloe, Pair ( 3h 3c Kc Qd Jc )
+Shows: Lemoer, Ac 6s
+Combination: Lemoer, Pair ( 3h 3c Ac Qd Jc )
+Wins: Lemoer, chips: 140
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Raises: Purloe, chips: 20
+Folds: Lemoer
+Folds: Degi
+Pot size: 45
+Wins: Purloe, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Folds: Purloe
+Pot size: 15
+Wins: Lemoer, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Calls: Purloe
+Calls: Lemoer
+Checks: Degi
+Flop: 9s Td 3d
+Checks: Lemoer
+Checks: Degi
+Raises: Purloe, chips: 10
+Calls: Lemoer
+Folds: Degi
+Turn: Js
+Checks: Lemoer
+Checks: Purloe
+River: 7s
+Raises: Lemoer, chips: 10
+Raises: Purloe, chips: 20
+Raises: Lemoer, chips: 30
+Folds: Purloe
+Pot size: 140
+Wins: Lemoer, chips: 140
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Raises: Purloe, chips: 15
+Folds: Lemoer
+Pot size: 35
+Boasts: Purloe, 6d Qh
+Wins: Purloe, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Calls: Purloe
+Calls: Lemoer
+Checks: Degi
+Flop: 9h 6d Kh
+Checks: Lemoer
+Checks: Degi
+Checks: Purloe
+Turn: 9s
+Checks: Lemoer
+Checks: Degi
+Checks: Purloe
+River: 6c
+Checks: Lemoer
+Checks: Degi
+Raises: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 40
+Boasts: Purloe, 9c 4c
+Wins: Purloe, chips: 40
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Boasts: Purloe, 7d 4d
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Folds: Purloe
+Pot size: 15
+Wins: Lemoer, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Calls: Purloe
+Folds: Lemoer
+Checks: Degi
+Flop: Ks 2h Js
+Checks: Degi
+Checks: Purloe
+Turn: 5c
+Checks: Degi
+Checks: Purloe
+River: 7h
+Checks: Degi
+Checks: Purloe
+Pot size: 25
+Showdown Reached
+Shows: Purloe, Ts Qc
+Combination: Purloe, High Card ( Ks Qc Js Ts 7h )
+Shows: Degi, Qs 7d
+Combination: Degi, Pair ( 7d 7h Ks Qs Js )
+Wins: Degi, chips: 25
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Raises: Purloe, chips: 15
+Calls: Lemoer
+Flop: Ts 7d 4s
+Raises: Purloe, chips: 15
+Calls: Lemoer
+Turn: Kd
+Checks: Purloe
+Checks: Lemoer
+River: Qh
+Checks: Purloe
+Checks: Lemoer
+Pot size: 80
+Showdown Reached
+Shows: Purloe, Jc Ks
+Combination: Purloe, Pair ( Ks Kd Qh Jc Ts )
+Shows: Lemoer, 5d 5h
+Combination: Lemoer, Pair ( 5d 5h Kd Qh Ts )
+Wins: Purloe, chips: 80
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Raises: Purloe, chips: 20
+Folds: Lemoer
+Folds: Degi
+Pot size: 45
+Boasts: Purloe, 9s 6h
+Wins: Purloe, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Calls: Purloe
+Checks: Lemoer
+Flop: 3h 3c Qh
+Raises: Purloe, chips: 10
+Folds: Lemoer
+Pot size: 30
+Boasts: Purloe, 7h Jc
+Wins: Purloe, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Folds: Purloe
+Folds: Lemoer
+Pot size: 15
+Boasts: Purloe, 8h 2s
+Wins: Degi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Boasts: Purloe, 6c Th
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Folds: Purloe
+Pot size: 15
+Boasts: Purloe, Kh 7c
+Wins: Lemoer, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Calls: Purloe
+Calls: Lemoer
+Checks: Degi
+Flop: 8c Th 8d
+Raises: Lemoer, chips: 10
+Folds: Degi
+Calls: Purloe
+Turn: 6h
+Raises: Lemoer, chips: 10
+Raises: Purloe, chips: 20
+Calls: Lemoer
+River: Kh
+Raises: Lemoer, chips: 20
+Raises: Purloe, chips: 3189
+Raises: Lemoer, chips: 302
+Pot size: 6830
+Showdown Reached
+Shows: Purloe, 9d 8h
+Combination: Purloe, Three Of A Kind ( 8h 8c 8d Kh Th )
+Shows: Lemoer, 8s 9h
+Combination: Lemoer, Three Of A Kind ( 8s 8c 8d Kh Th )
+Wins: Purloe, chips: 3264
+Wins: Lemoer, chips: 3566
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Calls: Lemoer
+Folds: Degi
+Checks: Purloe
+Flop: 3h 8h 8c
+Checks: Purloe
+Checks: Lemoer
+Turn: Qd
+Checks: Purloe
+Checks: Lemoer
+River: 6h
+Raises: Purloe, chips: 10
+Folds: Lemoer
+Pot size: 35
+Boasts: Purloe, Kd Qs
+Wins: Purloe, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Calls: Purloe
+Checks: Lemoer
+Flop: Kc 5h 2s
+Raises: Purloe, chips: 10
+Raises: Lemoer, chips: 20
+Calls: Purloe
+Turn: 6s
+Checks: Purloe
+Checks: Lemoer
+River: 6c
+Checks: Purloe
+Checks: Lemoer
+Pot size: 80
+Showdown Reached
+Shows: Purloe, 4s 5d
+Combination: Purloe, Two Pair ( 6s 6c 5d 5h Kc )
+Shows: Lemoer, 2d 8c
+Combination: Lemoer, Two Pair ( 6s 6c 2d 2s Kc )
+Wins: Purloe, chips: 80
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Raises: Purloe, chips: 20
+Folds: Lemoer
+Folds: Degi
+Pot size: 45
+Wins: Purloe, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Raises: Purloe, chips: 15
+Calls: Lemoer
+Flop: Qd Jc 7s
+Checks: Purloe
+Raises: Lemoer, chips: 20
+Folds: Purloe
+Pot size: 70
+Wins: Lemoer, chips: 70
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Calls: Purloe
+Calls: Lemoer
+Checks: Degi
+Flop: 3s Ad 2c
+Checks: Lemoer
+Checks: Degi
+Checks: Purloe
+Turn: Qd
+Checks: Lemoer
+Checks: Degi
+Raises: Purloe, chips: 3304
+Folds: Lemoer
+Folds: Degi
+Pot size: 3334
+Wins: Purloe, chips: 3334
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Boasts: Purloe, 9h Ac
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Calls: Purloe
+Checks: Lemoer
+Flop: 8s Ad 9c
+Raises: Purloe, chips: 10
+Calls: Lemoer
+Turn: 2d
+Checks: Purloe
+Checks: Lemoer
+River: 7c
+Raises: Purloe, chips: 10
+Calls: Lemoer
+Pot size: 60
+Showdown Reached
+Shows: Purloe, 7s 5s
+Combination: Purloe, Pair ( 7s 7c Ad 9c 8s )
+Shows: Lemoer, 9d 4d
+Combination: Lemoer, Pair ( 9d 9c Ad 8s 7c )
+Wins: Lemoer, chips: 60
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Calls: Purloe
+Folds: Lemoer
+Checks: Degi
+Flop: 7h As 3d
+Checks: Degi
+Checks: Purloe
+Turn: Td
+Checks: Degi
+Checks: Purloe
+River: Qh
+Checks: Degi
+Raises: Purloe, chips: 10
+Folds: Degi
+Pot size: 35
+Boasts: Purloe, Qc Ts
+Wins: Purloe, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Folds: Purloe
+Pot size: 15
+Wins: Lemoer, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Folds: Purloe
+Folds: Lemoer
+Pot size: 15
+Boasts: Purloe, 3c 7c
+Wins: Degi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Calls: Lemoer
+Folds: Degi
+Checks: Purloe
+Flop: 5h 8h 7h
+Checks: Purloe
+Checks: Lemoer
+Turn: 3d
+Checks: Purloe
+Raises: Lemoer, chips: 10
+Calls: Purloe
+River: 2c
+Checks: Purloe
+Checks: Lemoer
+Pot size: 45
+Showdown Reached
+Shows: Purloe, 5d 4d
+Combination: Purloe, Pair ( 5d 5h 8h 7h 4d )
+Shows: Lemoer, Jh Ks
+Combination: Lemoer, High Card ( Ks Jh 8h 7h 5h )
+Wins: Purloe, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Calls: Purloe
+Checks: Lemoer
+Flop: Th 8h 7h
+Checks: Purloe
+Checks: Lemoer
+Turn: Ac
+Raises: Purloe, chips: 10
+Raises: Lemoer, chips: 10
+Raises: Purloe, chips: 20
+Calls: Lemoer
+River: 8d
+Checks: Purloe
+Raises: Lemoer, chips: 20
+Raises: Purloe, chips: 40
+Raises: Lemoer, chips: 70
+Calls: Purloe
+Pot size: 360
+Showdown Reached
+Shows: Purloe, Td 3d
+Combination: Purloe, Two Pair ( Td Th 8h 8d Ac )
+Shows: Lemoer, 7c 8s
+Combination: Lemoer, Full House ( 8s 8h 8d 7c 7h )
+Wins: Lemoer, chips: 360
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Raises: Purloe, chips: 20
+Folds: Lemoer
+Folds: Degi
+Pot size: 45
+Wins: Purloe, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Boasts: Purloe, 2h Kh
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Calls: Purloe
+Checks: Lemoer
+Flop: 6s Ts As
+Checks: Purloe
+Checks: Lemoer
+Turn: Kc
+Raises: Purloe, chips: 10
+Folds: Lemoer
+Pot size: 30
+Wins: Purloe, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Calls: Purloe
+Folds: Lemoer
+Checks: Degi
+Flop: 2h 2s Qd
+Checks: Degi
+Checks: Purloe
+Turn: 8s
+Checks: Degi
+Checks: Purloe
+River: 2d
+Checks: Degi
+Raises: Purloe, chips: 10
+Folds: Degi
+Pot size: 35
+Boasts: Purloe, 3c 9h
+Wins: Purloe, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Folds: Purloe
+Pot size: 15
+Wins: Lemoer, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Calls: Purloe
+Folds: Lemoer
+Checks: Degi
+Flop: Jd 4d Qs
+Checks: Degi
+Checks: Purloe
+Turn: Jc
+Checks: Degi
+Raises: Purloe, chips: 10
+Folds: Degi
+Pot size: 35
+Boasts: Purloe, 3d 8h
+Wins: Purloe, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Calls: Lemoer
+Folds: Degi
+Checks: Purloe
+Flop: 2d Tc 9s
+Checks: Purloe
+Raises: Lemoer, chips: 10
+Folds: Purloe
+Pot size: 35
+Boasts: Purloe, 3c Ts
+Wins: Lemoer, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Folds: Purloe
+Pot size: 15
+Boasts: Purloe, Js Qc
+Wins: Lemoer, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Raises: Purloe, chips: 20
+Calls: Lemoer
+Folds: Degi
+Flop: Ts 8d 2c
+Checks: Lemoer
+Checks: Purloe
+Turn: As
+Checks: Lemoer
+Raises: Purloe, chips: 20
+Calls: Lemoer
+River: 8s
+Checks: Lemoer
+Checks: Purloe
+Pot size: 110
+Showdown Reached
+Shows: Purloe, 4h 6d
+Combination: Purloe, Pair ( 8d 8s As Ts 6d )
+Shows: Lemoer, Jc Kd
+Combination: Lemoer, Pair ( 8d 8s As Kd Jc )
+Wins: Lemoer, chips: 110
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Calls: Purloe
+Checks: Lemoer
+Flop: 3h Ad 5c
+Raises: Purloe, chips: 10
+Folds: Lemoer
+Pot size: 30
+Wins: Purloe, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Calls: Purloe
+Folds: Lemoer
+Checks: Degi
+Flop: Jh Ad Ah
+Checks: Degi
+Raises: Purloe, chips: 10
+Folds: Degi
+Pot size: 35
+Wins: Purloe, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Calls: Purloe
+Checks: Lemoer
+Flop: 6h Jh 4s
+Checks: Purloe
+Raises: Lemoer, chips: 10
+Raises: Purloe, chips: 20
+Calls: Lemoer
+Turn: 7d
+Checks: Purloe
+Raises: Lemoer, chips: 30
+Calls: Purloe
+River: Kh
+Raises: Purloe, chips: 30
+Folds: Lemoer
+Pot size: 170
+Boasts: Purloe, 5h Kc
+Wins: Purloe, chips: 170
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Calls: Purloe
+Folds: Lemoer
+Checks: Degi
+Flop: 8h 9h 9s
+Checks: Degi
+Raises: Purloe, chips: 10
+Folds: Degi
+Pot size: 35
+Boasts: Purloe, Tc Ks
+Wins: Purloe, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Boasts: Purloe, 2d 2s
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Calls: Purloe
+Checks: Lemoer
+Flop: 5c Ad 9s
+Checks: Purloe
+Checks: Lemoer
+Turn: Ah
+Checks: Purloe
+Checks: Lemoer
+River: Ks
+Checks: Purloe
+Checks: Lemoer
+Pot size: 20
+Showdown Reached
+Shows: Purloe, 9d 4d
+Combination: Purloe, Two Pair ( Ad Ah 9d 9s Ks )
+Shows: Lemoer, 8s 6c
+Combination: Lemoer, Pair ( Ad Ah Ks 9s 8s )
+Wins: Purloe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Raises: Purloe, chips: 20
+Folds: Lemoer
+Folds: Degi
+Pot size: 45
+Wins: Purloe, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Calls: Purloe
+Checks: Lemoer
+Flop: 4h Th 9s
+Checks: Purloe
+Checks: Lemoer
+Turn: Js
+Raises: Purloe, chips: 10
+Folds: Lemoer
+Pot size: 30
+Boasts: Purloe, Kc Kd
+Wins: Purloe, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Calls: Purloe
+Folds: Lemoer
+Checks: Degi
+Flop: 7d 6c Kc
+Checks: Degi
+Checks: Purloe
+Turn: Qd
+Checks: Degi
+Checks: Purloe
+River: 3d
+Checks: Degi
+Checks: Purloe
+Pot size: 25
+Showdown Reached
+Shows: Purloe, 6s Jh
+Combination: Purloe, Pair ( 6s 6c Kc Qd Jh )
+Shows: Degi, 8c 4h
+Combination: Degi, High Card ( Kc Qd 8c 7d 6c )
+Wins: Purloe, chips: 25
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Checks: Purloe
+Flop: 6d 4s Tc
+Turn: Qd
+River: 3s
+Pot size: 15
+Showdown Reached
+Shows: Purloe, 7c Js
+Combination: Purloe, High Card ( Qd Js Tc 7c 6d )
+Shows: Degi, 8d Jd
+Combination: Degi, High Card ( Qd Jd Tc 8d 6d )
+Wins: Purloe, chips: 5
+Wins: Degi, chips: 10
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Folds: Purloe
+Pot size: 15
+Wins: Lemoer, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Purloe
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Raises: Purloe, chips: 20
+Folds: Lemoer
+Flop: Qc Ts Tc
+Turn: Jd
+River: 5s
+Pot size: 45
+Showdown Reached
+Shows: Purloe, 7s Ad
+Combination: Purloe, Pair ( Ts Tc Ad Qc Jd )
+Shows: Degi, Qd 7d
+Combination: Degi, Two Pair ( Qd Qc Ts Tc Jd )
+Wins: Purloe, chips: 20
+Wins: Degi, chips: 25
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Degi, chips: 5
+Big Blind: Purloe, chips: 10
+Folds: Lemoer
+Folds: Degi
+Pot size: 15
+Boasts: Purloe, 9h Qh
+Wins: Purloe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Purloe, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Calls: Purloe
+Checks: Lemoer
+Flop: Kd Kc Ts
+Checks: Purloe
+Checks: Lemoer
+Turn: 7h
+Raises: Purloe, chips: 10
+Raises: Lemoer, chips: 3631
+Calls: Purloe
+River: 5s
+Pot size: 6980
+Showdown Reached
+Shows: Purloe, 3c 6s
+Combination: Purloe, Pair ( Kd Kc Ts 7h 6s )
+Shows: Lemoer, Td Jh
+Combination: Lemoer, Two Pair ( Kd Kc Td Ts Jh )
+Wins: Lemoer, chips: 6980
+Quits: Purloe, chips: 0
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Folds: Lemoer
+Pot size: 15
+Wins: Degi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Degi, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Pot size: 15
+Wins: Lemoer, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 10
+Raises: Lemoer, chips: 6970
+Folds: Degi
+Pot size: 6990
+Wins: Lemoer, chips: 6990
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Degi
+Small Blind: Degi, chips: 5
+Big Blind: Lemoer, chips: 10
+Folds: Degi
+Pot size: 15
+Wins: Lemoer, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lemoer
+Small Blind: Lemoer, chips: 5
+Big Blind: Degi, chips: 5
+Flop: Qc Ks 6d
+Turn: 5s
+River: 4d
+Pot size: 10
+Showdown Reached
+Shows: Lemoer, Td Tc
+Combination: Lemoer, Pair ( Td Tc Ks Qc 6d )
+Shows: Degi, Ad 8c
+Combination: Degi, High Card ( Ad Ks Qc 8c 6d )
+Wins: Lemoer, chips: 10
+Quits: Degi, chips: 0
+Ranking: Lemoer, Place: 1, Score: 6000
+Reveal AI: Lemoer, AI: Smart
+Ranking: Degi, Place: 2, Score: -1000
+Reveal AI: Degi, AI: AIMyBot1
+Ranking: Purloe, Place: 3, Score: -1000
+Reveal AI: Purloe, AI: Random
+Ranking: Cheewri, Place: 4, Score: -1000
+Reveal AI: Cheewri, AI: Random
+Ranking: Ruke, Place: 5, Score: -1000
+Reveal AI: Ruke, AI: Smart
+Ranking: Satta, Place: 6, Score: -1000
+Reveal AI: Satta, AI: Call
+Ranking: Wuginoe, Place: 7, Score: -1000
+Reveal AI: Wuginoe, AI: Call
+
+Player Stats for Cheewri, AI: Random
+General: deals: 3, actions: 12, preflop actions: 5
+Rounds Seen: flops: 143, turns: 112, rivers: 94, showdowns: 74
+Wins: total: 1, showdown: 1, bluff: 0
+Chips: won: 105, lost: 1105, bought: 1000, forced bets: 5
+Pre-Flop Stats: VP$IP: 1, PFR: 0.333333, 3Bet: 0.333333
+Post-Flop Stats: AF: 1, WSD: 0.517483, WSDW: 0.0135135
+
+
+Player Stats for Degi, AI: AIMyBot1
+General: deals: 302, actions: 414, preflop actions: 284
+Rounds Seen: flops: 54, turns: 34, rivers: 28, showdowns: 23
+Wins: total: 28, showdown: 13, bluff: 15
+Chips: won: 520, lost: 1520, bought: 1000, forced bets: 1520
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 0.425926, WSDW: 0.565217
+
+
+Player Stats for Lemoer, AI: Smart
+General: deals: 302, actions: 591, preflop actions: 285
+Rounds Seen: flops: 117, turns: 94, rivers: 78, showdowns: 61
+Wins: total: 103, showdown: 39, bluff: 64
+Chips: won: 35606, lost: 29606, bought: 1000, forced bets: 1515
+Pre-Flop Stats: VP$IP: 0.284768, PFR: 0.0463576, 3Bet: 0.0397351
+Post-Flop Stats: AF: 1.88571, WSD: 0.521368, WSDW: 0.639344
+
+
+Player Stats for Purloe, AI: Random
+General: deals: 297, actions: 593, preflop actions: 246
+Rounds Seen: flops: 130, turns: 102, rivers: 86, showdowns: 67
+Wins: total: 178, showdown: 29, bluff: 149
+Chips: won: 38492, lost: 43120, bought: 1000, forced bets: 1485
+Pre-Flop Stats: VP$IP: 0.525253, PFR: 0.245791, 3Bet: 0.208754
+Post-Flop Stats: AF: 4.57143, WSD: 0.515385, WSDW: 0.432836
+
+
+Player Stats for Ruke, AI: Smart
+General: deals: 3, actions: 5, preflop actions: 5
+Rounds Seen: flops: 141, turns: 110, rivers: 92, showdowns: 72
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 0
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.333333, 3Bet: 0.333333
+Post-Flop Stats: AF: -1.#IND, WSD: 0.510638, WSDW: 0
+
+
+Player Stats for Satta, AI: Call
+General: deals: 3, actions: 13, preflop actions: 6
+Rounds Seen: flops: 143, turns: 112, rivers: 94, showdowns: 74
+Wins: total: 1, showdown: 1, bluff: 0
+Chips: won: 105, lost: 1105, bought: 1000, forced bets: 0
+Pre-Flop Stats: VP$IP: 1, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: 0, WSD: 0.517483, WSDW: 0.0135135
+
+
+Player Stats for Wuginoe, AI: Call
+General: deals: 3, actions: 13, preflop actions: 6
+Rounds Seen: flops: 143, turns: 112, rivers: 94, showdowns: 74
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1105, bought: 1000, forced bets: 0
+Pre-Flop Stats: VP$IP: 1, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: 0, WSD: 0.517483, WSDW: 0
+
+

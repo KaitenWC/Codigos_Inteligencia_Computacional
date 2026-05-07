@@ -1,0 +1,9122 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+So: Smart
+Dinhitta: Call
+Geebohof: Random
+Deri: Call
+Woebem: AIMyBot1
+Roerip: Smart
+Hofa: Random
+
+Joins: So, chips: 1000
+Joins: Dinhitta, chips: 1000
+Joins: Geebohof, chips: 1000
+Joins: Deri, chips: 1000
+Joins: Woebem, chips: 1000
+Joins: Roerip, chips: 1000
+Joins: Hofa, chips: 1000
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Geebohof
+Small Blind: Deri, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: Roerip
+Raises: Hofa, chips: 20
+Folds: So
+Calls: Dinhitta
+Calls: Geebohof
+Calls: Deri
+Folds: Woebem
+Calls: Roerip
+Flop: 2s Td Jh
+Checks: Deri
+Checks: Roerip
+Checks: Hofa
+Checks: Dinhitta
+Checks: Geebohof
+Turn: 7h
+Checks: Deri
+Checks: Roerip
+Checks: Hofa
+Checks: Dinhitta
+Checks: Geebohof
+River: 4c
+Checks: Deri
+Checks: Roerip
+Raises: Hofa, chips: 970
+Calls: Dinhitta
+Calls: Geebohof
+Calls: Deri
+Folds: Roerip
+Pot size: 4040
+Showdown Reached
+Shows: Dinhitta, 3s Kh
+Combination: Dinhitta, High Card ( Kh Jh Td 7h 4c )
+Shows: Geebohof, Jd 5c
+Combination: Geebohof, Pair ( Jd Jh Td 7h 5c )
+Shows: Deri, 6h 4s
+Combination: Deri, Pair ( 4s 4c Jh Td 7h )
+Shows: Hofa, Qs 9c
+Combination: Hofa, High Card ( Qs Jh Td 9c 7h )
+Wins: Geebohof, chips: 4040
+Quits: Dinhitta, chips: 0
+Quits: Deri, chips: 0
+Quits: Hofa, chips: 0
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Roerip, chips: 5
+Big Blind: So, chips: 10
+Raises: Geebohof, chips: 20
+Folds: Woebem
+Folds: Roerip
+Folds: So
+Pot size: 45
+Wins: Geebohof, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Roerip
+Small Blind: So, chips: 5
+Big Blind: Geebohof, chips: 10
+Folds: Woebem
+Folds: Roerip
+Raises: So, chips: 15
+Folds: Geebohof
+Pot size: 35
+Wins: So, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: Geebohof, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: Roerip
+Folds: So
+Calls: Geebohof
+Checks: Woebem
+Flop: Js Jc Jh
+Checks: Geebohof
+Checks: Woebem
+Checks: Roerip
+Turn: 2h
+Checks: Geebohof
+Checks: Woebem
+Checks: Roerip
+River: 8c
+Checks: Geebohof
+Checks: Woebem
+Checks: Roerip
+Pot size: 30
+Showdown Reached
+Shows: Geebohof, 8s 2d
+Combination: Geebohof, Full House ( Js Jc Jh 8s 8c )
+Shows: Woebem, Kh Jd
+Combination: Woebem, Four Of A Kind ( Jd Js Jc Jh Kh )
+Shows: Roerip, 9s As
+Combination: Roerip, Three Of A Kind ( Js Jc Jh As 9s )
+Wins: Woebem, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Geebohof
+Small Blind: Woebem, chips: 5
+Big Blind: Roerip, chips: 10
+Folds: So
+Raises: Geebohof, chips: 20
+Folds: Woebem
+Folds: Roerip
+Pot size: 45
+Wins: Geebohof, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Roerip, chips: 5
+Big Blind: So, chips: 10
+Calls: Geebohof
+Folds: Woebem
+Folds: Roerip
+Checks: So
+Flop: 2s Kh 6h
+Raises: So, chips: 10
+Calls: Geebohof
+Turn: 7c
+Raises: So, chips: 10
+Raises: Geebohof, chips: 20
+Raises: So, chips: 20
+Folds: Geebohof
+Pot size: 125
+Boasts: Geebohof, Jc Qc
+Wins: So, chips: 125
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Roerip
+Small Blind: So, chips: 5
+Big Blind: Geebohof, chips: 10
+Folds: Woebem
+Folds: Roerip
+Folds: So
+Pot size: 15
+Wins: Geebohof, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: Geebohof, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: Roerip
+Folds: So
+Calls: Geebohof
+Checks: Woebem
+Flop: 5c 7s 2h
+Checks: Geebohof
+Checks: Woebem
+Turn: As
+Checks: Geebohof
+Checks: Woebem
+River: 8s
+Checks: Geebohof
+Checks: Woebem
+Pot size: 20
+Showdown Reached
+Shows: Geebohof, Td 2s
+Combination: Geebohof, Pair ( 2s 2h As Td 8s )
+Shows: Woebem, 3c 3h
+Combination: Woebem, Pair ( 3c 3h As 8s 7s )
+Wins: Woebem, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Geebohof
+Small Blind: Woebem, chips: 5
+Big Blind: Roerip, chips: 10
+Calls: So
+Folds: Geebohof
+Folds: Woebem
+Checks: Roerip
+Flop: 6c 5d Tc
+Checks: Roerip
+Checks: So
+Turn: 7h
+Checks: Roerip
+Raises: So, chips: 10
+Folds: Roerip
+Pot size: 35
+Boasts: Geebohof, 2c Th
+Wins: So, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Roerip, chips: 5
+Big Blind: So, chips: 10
+Folds: Geebohof
+Folds: Woebem
+Raises: Roerip, chips: 15
+Folds: So
+Pot size: 35
+Wins: Roerip, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Roerip
+Small Blind: So, chips: 5
+Big Blind: Geebohof, chips: 10
+Folds: Woebem
+Folds: Roerip
+Calls: So
+Checks: Geebohof
+Flop: 3s 3d Jd
+Checks: So
+Checks: Geebohof
+Turn: 6h
+Checks: So
+Checks: Geebohof
+River: 4d
+Checks: So
+Raises: Geebohof, chips: 10
+Calls: So
+Pot size: 40
+Showdown Reached
+Shows: So, 5d 6c
+Combination: So, Two Pair ( 6c 6h 3s 3d Jd )
+Shows: Geebohof, 2d Jh
+Combination: Geebohof, Two Pair ( Jh Jd 3s 3d 6h )
+Wins: Geebohof, chips: 40
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: Geebohof, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: Roerip
+Calls: So
+Raises: Geebohof, chips: 15
+Folds: Woebem
+Calls: Roerip
+Folds: So
+Flop: 9h 2h 8s
+Checks: Geebohof
+Checks: Roerip
+Turn: Kh
+Checks: Geebohof
+Checks: Roerip
+River: 3c
+Raises: Geebohof, chips: 15
+Folds: Roerip
+Pot size: 85
+Boasts: Geebohof, Kc Jc
+Wins: Geebohof, chips: 85
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Geebohof
+Small Blind: Woebem, chips: 5
+Big Blind: Roerip, chips: 10
+Folds: So
+Folds: Geebohof
+Folds: Woebem
+Pot size: 15
+Boasts: Geebohof, As 8s
+Wins: Roerip, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Roerip, chips: 5
+Big Blind: So, chips: 10
+Raises: Geebohof, chips: 20
+Folds: Woebem
+Folds: Roerip
+Folds: So
+Pot size: 45
+Wins: Geebohof, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Roerip
+Small Blind: So, chips: 5
+Big Blind: Geebohof, chips: 10
+Folds: Woebem
+Calls: Roerip
+Folds: So
+Checks: Geebohof
+Flop: 8c Kd 5d
+Checks: Geebohof
+Raises: Roerip, chips: 10
+Raises: Geebohof, chips: 20
+Raises: Roerip, chips: 40
+Raises: Geebohof, chips: 80
+Raises: Roerip, chips: 755
+Folds: Geebohof
+Pot size: 1080
+Boasts: Geebohof, 8d 4h
+Wins: Roerip, chips: 1080
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: Geebohof, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: Roerip
+Raises: So, chips: 10
+Folds: Geebohof
+Folds: Woebem
+Pot size: 35
+Wins: So, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Geebohof
+Small Blind: Woebem, chips: 5
+Big Blind: Roerip, chips: 10
+Calls: So
+Raises: Geebohof, chips: 20
+Folds: Woebem
+Folds: Roerip
+Calls: So
+Flop: 4s Ad Th
+Raises: So, chips: 995
+Raises: Geebohof, chips: 1015
+Turn: 9d
+River: 2s
+Pot size: 3080
+Showdown Reached
+Shows: So, Ts As
+Combination: So, Two Pair ( As Ad Ts Th 9d )
+Shows: Geebohof, 8h 3d
+Combination: Geebohof, High Card ( Ad Th 9d 8h 4s )
+Wins: So, chips: 2065
+Wins: Geebohof, chips: 1015
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Roerip, chips: 5
+Big Blind: So, chips: 10
+Calls: Geebohof
+Folds: Woebem
+Raises: Roerip, chips: 1060
+Folds: So
+Calls: Geebohof
+Flop: 5h Js 4s
+Turn: Kh
+River: Td
+Pot size: 2150
+Showdown Reached
+Shows: Geebohof, Jd Qd
+Combination: Geebohof, Pair ( Jd Js Kh Qd Td )
+Shows: Roerip, 9c 8c
+Combination: Roerip, High Card ( Kh Js Td 9c 8c )
+Wins: Geebohof, chips: 2150
+Quits: Roerip, chips: 0
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: Geebohof, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Calls: Geebohof
+Checks: Woebem
+Flop: 8s Qc 4c
+Checks: Geebohof
+Checks: Woebem
+Checks: So
+Turn: 3d
+Checks: Geebohof
+Checks: Woebem
+Checks: So
+River: 8h
+Checks: Geebohof
+Checks: Woebem
+Checks: So
+Pot size: 30
+Showdown Reached
+Shows: So, 8c 9s
+Combination: So, Three Of A Kind ( 8c 8s 8h Qc 9s )
+Shows: Geebohof, Ad Tc
+Combination: Geebohof, Pair ( 8s 8h Ad Qc Tc )
+Shows: Woebem, 6d Js
+Combination: Woebem, Pair ( 8s 8h Qc Js 6d )
+Wins: So, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Geebohof
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Calls: Geebohof
+Folds: Woebem
+Checks: So
+Flop: 9d 7c Ad
+Checks: So
+Raises: Geebohof, chips: 10
+Folds: So
+Pot size: 35
+Wins: Geebohof, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: So, chips: 5
+Big Blind: Geebohof, chips: 10
+Folds: Woebem
+Folds: So
+Pot size: 15
+Wins: Geebohof, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: Geebohof, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Calls: Geebohof
+Checks: Woebem
+Flop: 6h 9h Js
+Checks: Geebohof
+Checks: Woebem
+Turn: Ah
+Checks: Geebohof
+Checks: Woebem
+River: Tc
+Checks: Geebohof
+Checks: Woebem
+Pot size: 20
+Showdown Reached
+Shows: Geebohof, 4h 2d
+Combination: Geebohof, High Card ( Ah Js Tc 9h 6h )
+Shows: Woebem, Jd 3s
+Combination: Woebem, Pair ( Jd Js Ah Tc 9h )
+Wins: Woebem, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Geebohof
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Geebohof
+Folds: Woebem
+Pot size: 15
+Boasts: Geebohof, 5d Td
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: So, chips: 5
+Big Blind: Geebohof, chips: 10
+Folds: Woebem
+Calls: So
+Checks: Geebohof
+Flop: 6s 8s Jh
+Checks: So
+Checks: Geebohof
+Turn: Jc
+Checks: So
+Raises: Geebohof, chips: 10
+Folds: So
+Pot size: 30
+Boasts: Geebohof, Ad 9d
+Wins: Geebohof, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: Geebohof, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Calls: Geebohof
+Checks: Woebem
+Flop: Ac 3s Js
+Checks: Geebohof
+Checks: Woebem
+Turn: 7d
+Raises: Geebohof, chips: 10
+Folds: Woebem
+Pot size: 30
+Wins: Geebohof, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Geebohof
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Geebohof
+Folds: Woebem
+Pot size: 15
+Boasts: Geebohof, Qc 6h
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: So, chips: 5
+Big Blind: Geebohof, chips: 10
+Folds: Woebem
+Calls: So
+Checks: Geebohof
+Flop: Kd Td 8s
+Checks: So
+Checks: Geebohof
+Turn: 7d
+Checks: So
+Checks: Geebohof
+River: Ac
+Checks: So
+Checks: Geebohof
+Pot size: 20
+Showdown Reached
+Shows: So, 9s Ks
+Combination: So, Pair ( Ks Kd Ac Td 9s )
+Shows: Geebohof, 9d Qc
+Combination: Geebohof, High Card ( Ac Kd Qc Td 9d )
+Wins: So, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: Geebohof, chips: 5
+Big Blind: Woebem, chips: 10
+Raises: So, chips: 10
+Folds: Geebohof
+Folds: Woebem
+Pot size: 35
+Boasts: Geebohof, 7s 3d
+Wins: So, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Geebohof
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Raises: Geebohof, chips: 20
+Folds: Woebem
+Folds: So
+Pot size: 45
+Boasts: Geebohof, 9d 5h
+Wins: Geebohof, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: So, chips: 5
+Big Blind: Geebohof, chips: 10
+Folds: Woebem
+Calls: So
+Checks: Geebohof
+Flop: 8c 5h Jc
+Raises: So, chips: 10
+Calls: Geebohof
+Turn: Tc
+Checks: So
+Checks: Geebohof
+River: Ad
+Checks: So
+Checks: Geebohof
+Pot size: 40
+Showdown Reached
+Shows: So, 2s 2d
+Combination: So, Pair ( 2s 2d Ad Jc Tc )
+Shows: Geebohof, 4h 5c
+Combination: Geebohof, Pair ( 5c 5h Ad Jc Tc )
+Wins: Geebohof, chips: 40
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: Geebohof, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Folds: Geebohof
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Geebohof
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Calls: Geebohof
+Folds: Woebem
+Checks: So
+Flop: 3s Ac 2d
+Checks: So
+Checks: Geebohof
+Turn: 6s
+Checks: So
+Checks: Geebohof
+River: Js
+Checks: So
+Checks: Geebohof
+Pot size: 25
+Showdown Reached
+Shows: So, 7c 6h
+Combination: So, Pair ( 6h 6s Ac Js 7c )
+Shows: Geebohof, Ah Ks
+Combination: Geebohof, Pair ( Ah Ac Ks Js 6s )
+Wins: Geebohof, chips: 25
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: So, chips: 5
+Big Blind: Geebohof, chips: 10
+Folds: Woebem
+Folds: So
+Pot size: 15
+Boasts: Geebohof, Ah 2c
+Wins: Geebohof, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: Geebohof, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Folds: Geebohof
+Pot size: 15
+Boasts: Geebohof, Ts 2h
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Geebohof
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Raises: Geebohof, chips: 20
+Folds: Woebem
+Folds: So
+Pot size: 45
+Wins: Geebohof, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: So, chips: 5
+Big Blind: Geebohof, chips: 10
+Folds: Woebem
+Folds: So
+Pot size: 15
+Boasts: Geebohof, Jd 4h
+Wins: Geebohof, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: Geebohof, chips: 5
+Big Blind: Woebem, chips: 10
+Raises: So, chips: 10
+Calls: Geebohof
+Folds: Woebem
+Flop: As Kd 3d
+Raises: Geebohof, chips: 10
+Folds: So
+Pot size: 60
+Wins: Geebohof, chips: 60
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Geebohof
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Calls: Geebohof
+Folds: Woebem
+Checks: So
+Flop: As 2d 3h
+Checks: So
+Checks: Geebohof
+Turn: 2h
+Checks: So
+Checks: Geebohof
+River: Qh
+Raises: So, chips: 10
+Calls: Geebohof
+Pot size: 45
+Showdown Reached
+Shows: So, 9c Qd
+Combination: So, Two Pair ( Qd Qh 2d 2h As )
+Shows: Geebohof, Qc 4c
+Combination: Geebohof, Two Pair ( Qc Qh 2d 2h As )
+Wins: So, chips: 23
+Wins: Geebohof, chips: 22
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: So, chips: 5
+Big Blind: Geebohof, chips: 10
+Folds: Woebem
+Calls: So
+Checks: Geebohof
+Flop: 7c Ts 2d
+Checks: So
+Checks: Geebohof
+Turn: 8h
+Checks: So
+Checks: Geebohof
+River: Qc
+Checks: So
+Checks: Geebohof
+Pot size: 20
+Showdown Reached
+Shows: So, 7d 6h
+Combination: So, Pair ( 7d 7c Qc Ts 8h )
+Shows: Geebohof, 9c Ad
+Combination: Geebohof, High Card ( Ad Qc Ts 9c 8h )
+Wins: So, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: Geebohof, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Raises: Geebohof, chips: 15
+Folds: Woebem
+Pot size: 35
+Wins: Geebohof, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Geebohof
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Calls: Geebohof
+Folds: Woebem
+Checks: So
+Flop: Tc 2d Ts
+Checks: So
+Checks: Geebohof
+Turn: 8c
+Checks: So
+Checks: Geebohof
+River: 8d
+Checks: So
+Checks: Geebohof
+Pot size: 25
+Showdown Reached
+Shows: So, 4h 8h
+Combination: So, Full House ( 8h 8c 8d Tc Ts )
+Shows: Geebohof, Kd 7s
+Combination: Geebohof, Two Pair ( Tc Ts 8c 8d Kd )
+Wins: So, chips: 25
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: So, chips: 5
+Big Blind: Geebohof, chips: 10
+Folds: Woebem
+Folds: So
+Pot size: 15
+Wins: Geebohof, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: Geebohof, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Calls: Geebohof
+Checks: Woebem
+Flop: 9d Kd 2c
+Checks: Geebohof
+Checks: Woebem
+Checks: So
+Turn: Ks
+Raises: Geebohof, chips: 10
+Folds: Woebem
+Calls: So
+River: Jd
+Checks: Geebohof
+Raises: So, chips: 2008
+Raises: Geebohof, chips: 2018
+Pot size: 6084
+Showdown Reached
+Shows: So, Jc Ts
+Combination: So, Two Pair ( Kd Ks Jc Jd Ts )
+Shows: Geebohof, 3s 5c
+Combination: Geebohof, Pair ( Kd Ks Jd 9d 5c )
+Wins: So, chips: 4066
+Wins: Geebohof, chips: 2018
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Geebohof
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Calls: Geebohof
+Folds: Woebem
+Checks: So
+Flop: 2d 2h As
+Raises: So, chips: 10
+Folds: Geebohof
+Pot size: 35
+Wins: So, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: So, chips: 5
+Big Blind: Geebohof, chips: 10
+Folds: Woebem
+Folds: So
+Pot size: 15
+Wins: Geebohof, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: Geebohof, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Calls: Geebohof
+Checks: Woebem
+Flop: 3s Ts 9d
+Checks: Geebohof
+Checks: Woebem
+Checks: So
+Turn: 4h
+Raises: Geebohof, chips: 10
+Folds: Woebem
+Calls: So
+River: 5c
+Checks: Geebohof
+Checks: So
+Pot size: 50
+Showdown Reached
+Shows: So, 2s 4s
+Combination: So, Pair ( 4s 4h Ts 9d 5c )
+Shows: Geebohof, 6h Jh
+Combination: Geebohof, High Card ( Jh Ts 9d 6h 5c )
+Wins: So, chips: 50
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Geebohof
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Calls: Geebohof
+Folds: Woebem
+Checks: So
+Flop: 8h 3h 3s
+Checks: So
+Checks: Geebohof
+Turn: 3c
+Checks: So
+Raises: Geebohof, chips: 10
+Folds: So
+Pot size: 35
+Boasts: Geebohof, 6h Ts
+Wins: Geebohof, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: So, chips: 5
+Big Blind: Geebohof, chips: 10
+Folds: Woebem
+Calls: So
+Checks: Geebohof
+Flop: Tc 6h Td
+Checks: So
+Checks: Geebohof
+Turn: 8h
+Checks: So
+Checks: Geebohof
+River: 5h
+Checks: So
+Checks: Geebohof
+Pot size: 20
+Showdown Reached
+Shows: So, Kc As
+Combination: So, Pair ( Tc Td As Kc 8h )
+Shows: Geebohof, 6s 2s
+Combination: Geebohof, Two Pair ( Tc Td 6s 6h 8h )
+Wins: Geebohof, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: Geebohof, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Calls: Geebohof
+Checks: Woebem
+Flop: 8d Tc Th
+Raises: Geebohof, chips: 10
+Folds: Woebem
+Raises: So, chips: 20
+Raises: Geebohof, chips: 40
+Calls: So
+Turn: 2h
+Raises: Geebohof, chips: 40
+Calls: So
+River: Ks
+Checks: Geebohof
+Checks: So
+Pot size: 250
+Showdown Reached
+Shows: So, As 2s
+Combination: So, Two Pair ( Tc Th 2s 2h As )
+Shows: Geebohof, 4c 7d
+Combination: Geebohof, Pair ( Tc Th Ks 8d 7d )
+Wins: So, chips: 250
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Geebohof
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Calls: Geebohof
+Folds: Woebem
+Checks: So
+Flop: 2d 9c Jd
+Checks: So
+Raises: Geebohof, chips: 10
+Folds: So
+Pot size: 35
+Boasts: Geebohof, Kd 6d
+Wins: Geebohof, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: So, chips: 5
+Big Blind: Geebohof, chips: 10
+Folds: Woebem
+Calls: So
+Checks: Geebohof
+Flop: Ac 4h 8s
+Checks: So
+Checks: Geebohof
+Turn: Ts
+Checks: So
+Checks: Geebohof
+River: 7h
+Checks: So
+Checks: Geebohof
+Pot size: 20
+Showdown Reached
+Shows: So, 2s 4s
+Combination: So, Pair ( 4s 4h Ac Ts 8s )
+Shows: Geebohof, 5d 2h
+Combination: Geebohof, High Card ( Ac Ts 8s 7h 5d )
+Wins: So, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: Geebohof, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Calls: Geebohof
+Checks: Woebem
+Flop: Ks Kc 9s
+Raises: Geebohof, chips: 10
+Folds: Woebem
+Pot size: 30
+Wins: Geebohof, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Geebohof
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Raises: Geebohof, chips: 20
+Folds: Woebem
+Calls: So
+Flop: 7c 9c 2d
+Checks: So
+Raises: Geebohof, chips: 20
+Raises: So, chips: 4166
+Calls: Geebohof
+Turn: Ac
+River: 3d
+Pot size: 6150
+Showdown Reached
+Shows: So, Ah As
+Combination: So, Three Of A Kind ( Ah As Ac 9c 7c )
+Shows: Geebohof, Kd 7s
+Combination: Geebohof, Pair ( 7s 7c Ac Kd 9c )
+Wins: So, chips: 6150
+Quits: Geebohof, chips: 0
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: 5h Jc 3s
+Checks: Woebem
+Checks: So
+Turn: Kc
+Checks: Woebem
+Checks: So
+River: 9s
+Checks: Woebem
+Checks: So
+Pot size: 20
+Showdown Reached
+Shows: So, 9c Td
+Combination: So, Pair ( 9c 9s Kc Jc Td )
+Shows: Woebem, 9h 5c
+Combination: Woebem, Two Pair ( 9h 9s 5c 5h Kc )
+Wins: Woebem, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: 7h 8h 9h
+Checks: Woebem
+Checks: So
+Turn: 4d
+Checks: Woebem
+Raises: So, chips: 6140
+Folds: Woebem
+Pot size: 6160
+Wins: So, chips: 6160
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Raises: So, chips: 15
+Folds: Woebem
+Pot size: 35
+Wins: So, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: Ks 5s 4d
+Checks: Woebem
+Raises: So, chips: 10
+Folds: Woebem
+Pot size: 30
+Wins: So, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: Qh 2d Ac
+Checks: Woebem
+Checks: So
+Turn: 4c
+Checks: Woebem
+Checks: So
+River: Ts
+Checks: Woebem
+Checks: So
+Pot size: 20
+Showdown Reached
+Shows: So, 4h 5s
+Combination: So, Pair ( 4h 4c Ac Qh Ts )
+Shows: Woebem, Qd Th
+Combination: Woebem, Two Pair ( Qd Qh Th Ts Ac )
+Wins: Woebem, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: 5c Ad 9s
+Checks: Woebem
+Checks: So
+Turn: 5d
+Checks: Woebem
+Checks: So
+River: 4s
+Checks: Woebem
+Checks: So
+Pot size: 20
+Showdown Reached
+Shows: So, 7d Kd
+Combination: So, Pair ( 5c 5d Ad Kd 9s )
+Shows: Woebem, 8d Qc
+Combination: Woebem, Pair ( 5c 5d Ad Qc 9s )
+Wins: So, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: 5d Td 7h
+Checks: Woebem
+Checks: So
+Turn: Kh
+Checks: Woebem
+Checks: So
+River: 4c
+Checks: Woebem
+Checks: So
+Pot size: 20
+Showdown Reached
+Shows: So, Jd 8c
+Combination: So, High Card ( Kh Jd Td 8c 7h )
+Shows: Woebem, Kd 6d
+Combination: Woebem, Pair ( Kd Kh Td 7h 6d )
+Wins: Woebem, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: 8h 3s 4h
+Checks: Woebem
+Checks: So
+Turn: 5c
+Checks: Woebem
+Checks: So
+River: Qd
+Checks: Woebem
+Raises: So, chips: 10
+Folds: Woebem
+Pot size: 30
+Wins: So, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: Kd Td 4h
+Checks: Woebem
+Checks: So
+Turn: 6d
+Checks: Woebem
+Raises: So, chips: 6205
+Folds: Woebem
+Pot size: 6225
+Wins: So, chips: 6225
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: Ac 5d Tc
+Checks: Woebem
+Checks: So
+Turn: 9h
+Checks: Woebem
+Checks: So
+River: Kh
+Checks: Woebem
+Raises: So, chips: 10
+Folds: Woebem
+Pot size: 30
+Wins: So, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: 6s Js 4s
+Checks: Woebem
+Checks: So
+Turn: 6c
+Checks: Woebem
+Checks: So
+River: 4c
+Checks: Woebem
+Raises: So, chips: 10
+Folds: Woebem
+Pot size: 30
+Wins: So, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: Td 4s 2c
+Checks: Woebem
+Checks: So
+Turn: 2d
+Checks: Woebem
+Checks: So
+River: 8c
+Checks: Woebem
+Checks: So
+Pot size: 20
+Showdown Reached
+Shows: So, Qh Kd
+Combination: So, Pair ( 2c 2d Kd Qh Td )
+Shows: Woebem, Jc Jh
+Combination: Woebem, Two Pair ( Jc Jh 2c 2d Td )
+Wins: Woebem, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: Ts 3h Ad
+Checks: Woebem
+Checks: So
+Turn: 4h
+Checks: Woebem
+Checks: So
+River: Js
+Checks: Woebem
+Checks: So
+Pot size: 20
+Showdown Reached
+Shows: So, 7d 5d
+Combination: So, High Card ( Ad Js Ts 7d 5d )
+Shows: Woebem, 3c 7h
+Combination: Woebem, Pair ( 3c 3h Ad Js Ts )
+Wins: Woebem, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: 9s Js 6c
+Checks: Woebem
+Checks: So
+Turn: 9h
+Checks: Woebem
+Checks: So
+River: 3s
+Checks: Woebem
+Checks: So
+Pot size: 20
+Showdown Reached
+Shows: So, 2d 2s
+Combination: So, Two Pair ( 9s 9h 2d 2s Js )
+Shows: Woebem, 3h 7d
+Combination: Woebem, Two Pair ( 9s 9h 3h 3s Js )
+Wins: Woebem, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: Ad 8c 3d
+Checks: Woebem
+Checks: So
+Turn: Qd
+Checks: Woebem
+Checks: So
+River: 8s
+Checks: Woebem
+Checks: So
+Pot size: 20
+Showdown Reached
+Shows: So, 7d 6s
+Combination: So, Pair ( 8c 8s Ad Qd 7d )
+Shows: Woebem, 5d Tc
+Combination: Woebem, Pair ( 8c 8s Ad Qd Tc )
+Wins: Woebem, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: 6s 8d 7c
+Checks: Woebem
+Checks: So
+Turn: 4s
+Checks: Woebem
+Checks: So
+River: 3c
+Checks: Woebem
+Checks: So
+Pot size: 20
+Showdown Reached
+Shows: So, 9d Ah
+Combination: So, High Card ( Ah 9d 8d 7c 6s )
+Shows: Woebem, 8c 3s
+Combination: Woebem, Two Pair ( 8c 8d 3s 3c 7c )
+Wins: Woebem, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: Ah 5h 9d
+Checks: Woebem
+Checks: So
+Turn: 4c
+Checks: Woebem
+Raises: So, chips: 10
+Folds: Woebem
+Pot size: 30
+Wins: So, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: 4c 4s 3s
+Checks: Woebem
+Raises: So, chips: 10
+Folds: Woebem
+Pot size: 30
+Wins: So, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Raises: So, chips: 15
+Folds: Woebem
+Pot size: 35
+Wins: So, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: Tc 9h Ts
+Checks: Woebem
+Raises: So, chips: 10
+Folds: Woebem
+Pot size: 30
+Wins: So, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Raises: So, chips: 15
+Folds: Woebem
+Pot size: 35
+Wins: So, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: Td Qs As
+Checks: Woebem
+Checks: So
+Turn: 3d
+Checks: Woebem
+Checks: So
+River: Ad
+Checks: Woebem
+Raises: So, chips: 6300
+Folds: Woebem
+Pot size: 6320
+Wins: So, chips: 6320
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: 9d Ac 3h
+Checks: Woebem
+Checks: So
+Turn: 6s
+Checks: Woebem
+Checks: So
+River: Qc
+Checks: Woebem
+Checks: So
+Pot size: 20
+Showdown Reached
+Shows: So, 7d 7c
+Combination: So, Pair ( 7d 7c Ac Qc 9d )
+Shows: Woebem, 5h Jd
+Combination: Woebem, High Card ( Ac Qc Jd 9d 6s )
+Wins: So, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: 6h Qh Tc
+Checks: Woebem
+Checks: So
+Turn: 8h
+Checks: Woebem
+Checks: So
+River: Qc
+Checks: Woebem
+Checks: So
+Pot size: 20
+Showdown Reached
+Shows: So, 9c Kd
+Combination: So, Pair ( Qh Qc Kd Tc 9c )
+Shows: Woebem, 8s Ac
+Combination: Woebem, Two Pair ( Qh Qc 8s 8h Ac )
+Wins: Woebem, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: Jh Jd 8c
+Checks: Woebem
+Checks: So
+Turn: Th
+Checks: Woebem
+Checks: So
+River: 6c
+Checks: Woebem
+Checks: So
+Pot size: 20
+Showdown Reached
+Shows: So, Td 7d
+Combination: So, Two Pair ( Jh Jd Td Th 8c )
+Shows: Woebem, 4c 5c
+Combination: Woebem, Pair ( Jh Jd Th 8c 6c )
+Wins: So, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: 7c Qc Qh
+Checks: Woebem
+Checks: So
+Turn: 2d
+Checks: Woebem
+Checks: So
+River: Ah
+Checks: Woebem
+Checks: So
+Pot size: 20
+Showdown Reached
+Shows: So, 8s 9h
+Combination: So, Pair ( Qc Qh Ah 9h 8s )
+Shows: Woebem, Ts 6d
+Combination: Woebem, Pair ( Qc Qh Ah Ts 7c )
+Wins: Woebem, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: 7d Js Kh
+Checks: Woebem
+Raises: So, chips: 6335
+Folds: Woebem
+Pot size: 6355
+Wins: So, chips: 6355
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: Js 9s 7h
+Checks: Woebem
+Checks: So
+Turn: 3c
+Checks: Woebem
+Checks: So
+River: Ts
+Checks: Woebem
+Checks: So
+Pot size: 20
+Showdown Reached
+Shows: So, 8d Jh
+Combination: So, Straight ( Jh Ts 9s 8d 7h )
+Shows: Woebem, 2c Jc
+Combination: Woebem, Pair ( Jc Js Ts 9s 7h )
+Wins: So, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: Th Kh 3c
+Checks: Woebem
+Raises: So, chips: 10
+Folds: Woebem
+Pot size: 30
+Wins: So, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: Jc Qs 7c
+Checks: Woebem
+Checks: So
+Turn: 2h
+Checks: Woebem
+Checks: So
+River: 3d
+Checks: Woebem
+Checks: So
+Pot size: 20
+Showdown Reached
+Shows: So, 9c Kd
+Combination: So, High Card ( Kd Qs Jc 9c 7c )
+Shows: Woebem, 4h 5d
+Combination: Woebem, High Card ( Qs Jc 7c 5d 4h )
+Wins: So, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: Tc Ah Js
+Checks: Woebem
+Raises: So, chips: 10
+Folds: Woebem
+Pot size: 30
+Wins: So, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: Ks Ah 3h
+Checks: Woebem
+Checks: So
+Turn: Tc
+Checks: Woebem
+Raises: So, chips: 10
+Folds: Woebem
+Pot size: 30
+Wins: So, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: 8s Kd 6c
+Checks: Woebem
+Checks: So
+Turn: 2s
+Checks: Woebem
+Checks: So
+River: 7s
+Checks: Woebem
+Checks: So
+Pot size: 20
+Showdown Reached
+Shows: So, Tc Ac
+Combination: So, High Card ( Ac Kd Tc 8s 7s )
+Shows: Woebem, 4s 2h
+Combination: Woebem, Pair ( 2h 2s Kd 8s 7s )
+Wins: Woebem, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: 7h Th Jd
+Checks: Woebem
+Checks: So
+Turn: Ks
+Checks: Woebem
+Checks: So
+River: Jh
+Checks: Woebem
+Checks: So
+Pot size: 20
+Showdown Reached
+Shows: So, 5d 8d
+Combination: So, Pair ( Jd Jh Ks Th 8d )
+Shows: Woebem, 6h Td
+Combination: Woebem, Two Pair ( Jd Jh Td Th Ks )
+Wins: Woebem, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: Jd 7d Ad
+Checks: Woebem
+Raises: So, chips: 10
+Folds: Woebem
+Pot size: 30
+Wins: So, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: 8s Qd 3h
+Checks: Woebem
+Checks: So
+Turn: Ad
+Checks: Woebem
+Checks: So
+River: 7c
+Checks: Woebem
+Checks: So
+Pot size: 20
+Showdown Reached
+Shows: So, Jh Th
+Combination: So, High Card ( Ad Qd Jh Th 8s )
+Shows: Woebem, 6d 5s
+Combination: Woebem, High Card ( Ad Qd 8s 7c 6d )
+Wins: So, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: 4s Kc 2h
+Checks: Woebem
+Checks: So
+Turn: 4d
+Checks: Woebem
+Checks: So
+River: 8c
+Checks: Woebem
+Checks: So
+Pot size: 20
+Showdown Reached
+Shows: So, Tc 8h
+Combination: So, Two Pair ( 8h 8c 4s 4d Kc )
+Shows: Woebem, Qc 4c
+Combination: Woebem, Three Of A Kind ( 4c 4s 4d Kc Qc )
+Wins: Woebem, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: Kh 5h 2s
+Checks: Woebem
+Checks: So
+Turn: Qh
+Checks: Woebem
+Checks: So
+River: Ks
+Checks: Woebem
+Checks: So
+Pot size: 20
+Showdown Reached
+Shows: So, 7s 7h
+Combination: So, Two Pair ( Kh Ks 7s 7h Qh )
+Shows: Woebem, 7d 8s
+Combination: Woebem, Pair ( Kh Ks Qh 8s 7d )
+Wins: So, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: 6s Ah Td
+Checks: Woebem
+Checks: So
+Turn: 8c
+Checks: Woebem
+Checks: So
+River: Qd
+Checks: Woebem
+Checks: So
+Pot size: 20
+Showdown Reached
+Shows: So, Ks 9s
+Combination: So, High Card ( Ah Ks Qd Td 9s )
+Shows: Woebem, 5d 6d
+Combination: Woebem, Pair ( 6d 6s Ah Qd Td )
+Wins: Woebem, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Raises: So, chips: 15
+Folds: Woebem
+Pot size: 35
+Wins: So, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Raises: So, chips: 15
+Folds: Woebem
+Pot size: 35
+Wins: So, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: Kh 2d 7d
+Checks: Woebem
+Checks: So
+Turn: 6c
+Checks: Woebem
+Raises: So, chips: 10
+Folds: Woebem
+Pot size: 30
+Wins: So, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: 9h 3d Ac
+Checks: Woebem
+Raises: So, chips: 10
+Folds: Woebem
+Pot size: 30
+Wins: So, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: 3s 8h 7s
+Checks: Woebem
+Checks: So
+Turn: 5d
+Checks: Woebem
+Checks: So
+River: 5h
+Checks: Woebem
+Checks: So
+Pot size: 20
+Showdown Reached
+Shows: So, 9d Qd
+Combination: So, Pair ( 5d 5h Qd 9d 8h )
+Shows: Woebem, 3d 6c
+Combination: Woebem, Two Pair ( 5d 5h 3d 3s 8h )
+Wins: Woebem, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: Qd As 9s
+Checks: Woebem
+Checks: So
+Turn: 9h
+Checks: Woebem
+Checks: So
+River: 8s
+Checks: Woebem
+Checks: So
+Pot size: 20
+Showdown Reached
+Shows: So, 6d 5h
+Combination: So, Pair ( 9s 9h As Qd 8s )
+Shows: Woebem, 9c 7d
+Combination: Woebem, Three Of A Kind ( 9c 9s 9h As Qd )
+Wins: Woebem, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Raises: So, chips: 6500
+Folds: Woebem
+Pot size: 6520
+Wins: So, chips: 6520
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: Jc Ac 5h
+Checks: Woebem
+Raises: So, chips: 10
+Folds: Woebem
+Pot size: 30
+Wins: So, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: 3h 5c Ts
+Checks: Woebem
+Checks: So
+Turn: Ac
+Checks: Woebem
+Checks: So
+River: Kh
+Checks: Woebem
+Checks: So
+Pot size: 20
+Showdown Reached
+Shows: So, Ks Qh
+Combination: So, Pair ( Ks Kh Ac Qh Ts )
+Shows: Woebem, 5h 6c
+Combination: Woebem, Pair ( 5h 5c Ac Kh Ts )
+Wins: So, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: Qs 2c Ts
+Checks: Woebem
+Raises: So, chips: 10
+Folds: Woebem
+Pot size: 30
+Wins: So, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Raises: So, chips: 15
+Folds: Woebem
+Pot size: 35
+Wins: So, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: 2d 3h 9c
+Checks: Woebem
+Checks: So
+Turn: 4c
+Checks: Woebem
+Checks: So
+River: Ah
+Checks: Woebem
+Checks: So
+Pot size: 20
+Showdown Reached
+Shows: So, Ac Jc
+Combination: So, Pair ( Ac Ah Jc 9c 4c )
+Shows: Woebem, 5d 3c
+Combination: Woebem, Straight ( 5d 4c 3c 2d Ah )
+Wins: Woebem, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: Ac 4c 4h
+Checks: Woebem
+Checks: So
+Turn: 3h
+Checks: Woebem
+Checks: So
+River: Kd
+Checks: Woebem
+Checks: So
+Pot size: 20
+Showdown Reached
+Shows: So, Jc 9s
+Combination: So, Pair ( 4c 4h Ac Kd Jc )
+Shows: Woebem, Ks Qs
+Combination: Woebem, Two Pair ( Ks Kd 4c 4h Ac )
+Wins: Woebem, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: 8h 5h 8d
+Checks: Woebem
+Raises: So, chips: 10
+Folds: Woebem
+Pot size: 30
+Wins: So, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Raises: So, chips: 15
+Folds: Woebem
+Pot size: 35
+Wins: So, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: Qd Qh 3d
+Checks: Woebem
+Raises: So, chips: 10
+Folds: Woebem
+Pot size: 30
+Wins: So, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: Jd 7c 5c
+Checks: Woebem
+Raises: So, chips: 10
+Folds: Woebem
+Pot size: 30
+Wins: So, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: Tc 3c 9h
+Checks: Woebem
+Checks: So
+Turn: 5s
+Checks: Woebem
+Checks: So
+River: 6s
+Checks: Woebem
+Checks: So
+Pot size: 20
+Showdown Reached
+Shows: So, 8h Ts
+Combination: So, Pair ( Ts Tc 9h 8h 6s )
+Shows: Woebem, 4d 6d
+Combination: Woebem, Pair ( 6d 6s Tc 9h 5s )
+Wins: So, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Raises: So, chips: 6640
+Folds: Woebem
+Pot size: 6660
+Wins: So, chips: 6660
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: Jc Qd 9s
+Checks: Woebem
+Checks: So
+Turn: 7h
+Checks: Woebem
+Checks: So
+River: Ah
+Checks: Woebem
+Checks: So
+Pot size: 20
+Showdown Reached
+Shows: So, 9c Kc
+Combination: So, Pair ( 9c 9s Ah Kc Qd )
+Shows: Woebem, Ad 5c
+Combination: Woebem, Pair ( Ad Ah Qd Jc 9s )
+Wins: Woebem, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: Tc 9c 8h
+Checks: Woebem
+Checks: So
+Turn: Kd
+Checks: Woebem
+Checks: So
+River: 7s
+Checks: Woebem
+Checks: So
+Pot size: 20
+Showdown Reached
+Shows: So, 7c 8s
+Combination: So, Two Pair ( 8s 8h 7c 7s Kd )
+Shows: Woebem, Qh As
+Combination: Woebem, High Card ( As Kd Qh Tc 9c )
+Wins: So, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: Kh 4s Jc
+Checks: Woebem
+Checks: So
+Turn: 6s
+Checks: Woebem
+Checks: So
+River: Qh
+Checks: Woebem
+Checks: So
+Pot size: 20
+Showdown Reached
+Shows: So, Th 7h
+Combination: So, High Card ( Kh Qh Jc Th 7h )
+Shows: Woebem, Qd 8s
+Combination: Woebem, Pair ( Qd Qh Kh Jc 8s )
+Wins: Woebem, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: 8h 4h Kh
+Checks: Woebem
+Checks: So
+Turn: 6d
+Checks: Woebem
+Checks: So
+River: Qc
+Checks: Woebem
+Checks: So
+Pot size: 20
+Showdown Reached
+Shows: So, Ac Tc
+Combination: So, High Card ( Ac Kh Qc Tc 8h )
+Shows: Woebem, 8s 4s
+Combination: Woebem, Two Pair ( 8s 8h 4s 4h Kh )
+Wins: Woebem, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: As 9s 7d
+Checks: Woebem
+Checks: So
+Turn: Qd
+Checks: Woebem
+Checks: So
+River: Jc
+Checks: Woebem
+Checks: So
+Pot size: 20
+Showdown Reached
+Shows: So, 5s 7s
+Combination: So, Pair ( 7s 7d As Qd Jc )
+Shows: Woebem, 8s Ts
+Combination: Woebem, Straight ( Qd Jc Ts 9s 8s )
+Wins: Woebem, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: 4d 6c Ts
+Checks: Woebem
+Checks: So
+Turn: Qc
+Checks: Woebem
+Raises: So, chips: 10
+Folds: Woebem
+Pot size: 30
+Wins: So, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: 7d 6s 4s
+Checks: Woebem
+Raises: So, chips: 10
+Folds: Woebem
+Pot size: 30
+Wins: So, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: Jd 6c Jh
+Checks: Woebem
+Checks: So
+Turn: 7h
+Checks: Woebem
+Checks: So
+River: 9d
+Checks: Woebem
+Raises: So, chips: 10
+Folds: Woebem
+Pot size: 30
+Wins: So, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: Tc 8d 4c
+Checks: Woebem
+Checks: So
+Turn: Ks
+Checks: Woebem
+Checks: So
+River: 9d
+Checks: Woebem
+Raises: So, chips: 10
+Folds: Woebem
+Pot size: 30
+Wins: So, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: 9s 3c 3s
+Checks: Woebem
+Raises: So, chips: 10
+Folds: Woebem
+Pot size: 30
+Wins: So, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: 5c 8s Kh
+Checks: Woebem
+Checks: So
+Turn: 7c
+Checks: Woebem
+Checks: So
+River: 4d
+Checks: Woebem
+Checks: So
+Pot size: 20
+Showdown Reached
+Shows: So, 7h Ah
+Combination: So, Pair ( 7h 7c Ah Kh 8s )
+Shows: Woebem, Qc 7s
+Combination: Woebem, Pair ( 7s 7c Kh Qc 8s )
+Wins: So, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: 6d Tc Ad
+Checks: Woebem
+Checks: So
+Turn: Th
+Checks: Woebem
+Checks: So
+River: 4h
+Checks: Woebem
+Checks: So
+Pot size: 20
+Showdown Reached
+Shows: So, 8s Js
+Combination: So, Pair ( Tc Th Ad Js 8s )
+Shows: Woebem, 2c 9d
+Combination: Woebem, Pair ( Tc Th Ad 9d 6d )
+Wins: So, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: 3d Kc 8s
+Checks: Woebem
+Checks: So
+Turn: Qs
+Checks: Woebem
+Checks: So
+River: 6d
+Checks: Woebem
+Checks: So
+Pot size: 20
+Showdown Reached
+Shows: So, Ts 9d
+Combination: So, High Card ( Kc Qs Ts 9d 8s )
+Shows: Woebem, Qc Tc
+Combination: Woebem, Pair ( Qc Qs Kc Tc 8s )
+Wins: Woebem, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: Ad Tc 7s
+Checks: Woebem
+Raises: So, chips: 10
+Folds: Woebem
+Pot size: 30
+Wins: So, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: 7s 4d Th
+Checks: Woebem
+Raises: So, chips: 10
+Folds: Woebem
+Pot size: 30
+Wins: So, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: Js Qh Kd
+Checks: Woebem
+Checks: So
+Turn: 3s
+Checks: Woebem
+Raises: So, chips: 10
+Folds: Woebem
+Pot size: 30
+Wins: So, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: 2h Ts Jc
+Checks: Woebem
+Raises: So, chips: 10
+Folds: Woebem
+Pot size: 30
+Wins: So, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: Ah Th Qs
+Checks: Woebem
+Checks: So
+Turn: 4h
+Checks: Woebem
+Checks: So
+River: 7h
+Checks: Woebem
+Checks: So
+Pot size: 20
+Showdown Reached
+Shows: So, Jd Js
+Combination: So, Pair ( Jd Js Ah Qs Th )
+Shows: Woebem, 5d Jh
+Combination: Woebem, Flush ( Ah Jh Th 7h 4h )
+Wins: Woebem, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: Ac 3h 9h
+Checks: Woebem
+Raises: So, chips: 10
+Folds: Woebem
+Pot size: 30
+Wins: So, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: 7d 5h Jc
+Checks: Woebem
+Checks: So
+Turn: Jd
+Checks: Woebem
+Raises: So, chips: 10
+Folds: Woebem
+Pot size: 30
+Wins: So, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: Jh 3c 9c
+Checks: Woebem
+Checks: So
+Turn: 9s
+Checks: Woebem
+Checks: So
+River: Kc
+Checks: Woebem
+Checks: So
+Pot size: 20
+Showdown Reached
+Shows: So, Qd 8d
+Combination: So, Pair ( 9c 9s Kc Qd Jh )
+Shows: Woebem, 4h 7s
+Combination: Woebem, Pair ( 9c 9s Kc Jh 7s )
+Wins: So, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: 8h Qh 2h
+Checks: Woebem
+Checks: So
+Turn: 2c
+Checks: Woebem
+Checks: So
+River: 8d
+Checks: Woebem
+Checks: So
+Pot size: 20
+Showdown Reached
+Shows: So, 9h Jd
+Combination: So, Two Pair ( 8h 8d 2h 2c Qh )
+Shows: Woebem, 5d Ad
+Combination: Woebem, Two Pair ( 8h 8d 2h 2c Ad )
+Wins: Woebem, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: 8h Qs Qh
+Checks: Woebem
+Checks: So
+Turn: 3h
+Checks: Woebem
+Checks: So
+River: 9c
+Checks: Woebem
+Raises: So, chips: 10
+Folds: Woebem
+Pot size: 30
+Wins: So, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: As Ah 7s
+Checks: Woebem
+Checks: So
+Turn: Th
+Checks: Woebem
+Checks: So
+River: 7c
+Checks: Woebem
+Checks: So
+Pot size: 20
+Showdown Reached
+Shows: So, 9s Qc
+Combination: So, Two Pair ( As Ah 7s 7c Qc )
+Shows: Woebem, Qh 2s
+Combination: Woebem, Two Pair ( As Ah 7s 7c Qh )
+Wins: So, chips: 10
+Wins: Woebem, chips: 10
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: 7h Td Ts
+Checks: Woebem
+Raises: So, chips: 10
+Folds: Woebem
+Pot size: 30
+Wins: So, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: 5c Jc 2d
+Checks: Woebem
+Checks: So
+Turn: Ad
+Checks: Woebem
+Checks: So
+River: 9h
+Checks: Woebem
+Checks: So
+Pot size: 20
+Showdown Reached
+Shows: So, 8h Td
+Combination: So, High Card ( Ad Jc Td 9h 8h )
+Shows: Woebem, 5d Ks
+Combination: Woebem, Pair ( 5d 5c Ad Ks Jc )
+Wins: Woebem, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Raises: So, chips: 15
+Folds: Woebem
+Pot size: 35
+Wins: So, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Raises: So, chips: 15
+Folds: Woebem
+Pot size: 35
+Wins: So, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: 4d 3d Qc
+Checks: Woebem
+Checks: So
+Turn: 4s
+Checks: Woebem
+Checks: So
+River: 2d
+Checks: Woebem
+Checks: So
+Pot size: 20
+Showdown Reached
+Shows: So, 9h Ac
+Combination: So, Pair ( 4d 4s Ac Qc 9h )
+Shows: Woebem, 5d 9s
+Combination: Woebem, Pair ( 4d 4s Qc 9s 5d )
+Wins: So, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: 9h 3s 9s
+Checks: Woebem
+Raises: So, chips: 10
+Folds: Woebem
+Pot size: 30
+Wins: So, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: 6s 6c Tc
+Checks: Woebem
+Checks: So
+Turn: 2d
+Checks: Woebem
+Checks: So
+River: Ad
+Checks: Woebem
+Raises: So, chips: 6935
+Folds: Woebem
+Pot size: 6955
+Wins: So, chips: 6955
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: Jc Kc Qd
+Checks: Woebem
+Checks: So
+Turn: 8d
+Checks: Woebem
+Checks: So
+River: 6s
+Checks: Woebem
+Checks: So
+Pot size: 20
+Showdown Reached
+Shows: So, 9d Qs
+Combination: So, Pair ( Qs Qd Kc Jc 9d )
+Shows: Woebem, 2d Kd
+Combination: Woebem, Pair ( Kd Kc Qd Jc 8d )
+Wins: Woebem, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: Ts Ad Td
+Checks: Woebem
+Checks: So
+Turn: 7c
+Checks: Woebem
+Checks: So
+River: 5s
+Checks: Woebem
+Checks: So
+Pot size: 20
+Showdown Reached
+Shows: So, Qd Jd
+Combination: So, Pair ( Ts Td Ad Qd Jd )
+Shows: Woebem, 8c 8s
+Combination: Woebem, Two Pair ( Ts Td 8c 8s Ad )
+Wins: Woebem, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: 7s 5d Qh
+Checks: Woebem
+Checks: So
+Turn: 2s
+Checks: Woebem
+Checks: So
+River: 4h
+Checks: Woebem
+Raises: So, chips: 10
+Folds: Woebem
+Pot size: 30
+Wins: So, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: Qs Qd 8h
+Checks: Woebem
+Raises: So, chips: 10
+Folds: Woebem
+Pot size: 30
+Wins: So, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: 3d 7d 2d
+Checks: Woebem
+Checks: So
+Turn: 5d
+Checks: Woebem
+Raises: So, chips: 10
+Folds: Woebem
+Pot size: 30
+Wins: So, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 5
+Flop: Qd Jh Jc
+Turn: 6d
+River: 5d
+Pot size: 10
+Showdown Reached
+Shows: So, 2s Js
+Combination: So, Three Of A Kind ( Js Jh Jc Qd 6d )
+Shows: Woebem, 2d Ah
+Combination: Woebem, Pair ( Jh Jc Ah Qd 6d )
+Wins: So, chips: 10
+Quits: Woebem, chips: 0
+Ranking: So, Place: 1, Score: 6000
+Reveal AI: So, AI: Smart
+Ranking: Woebem, Place: 2, Score: -1000
+Reveal AI: Woebem, AI: AIMyBot1
+Ranking: Geebohof, Place: 3, Score: -1000
+Reveal AI: Geebohof, AI: Random
+Ranking: Roerip, Place: 4, Score: -1000
+Reveal AI: Roerip, AI: Smart
+Ranking: Hofa, Place: 5, Score: -1000
+Reveal AI: Hofa, AI: Random
+Ranking: Deri, Place: 6, Score: -1000
+Reveal AI: Deri, AI: Call
+Ranking: Dinhitta, Place: 7, Score: -1000
+Reveal AI: Dinhitta, AI: Call
+
+Player Stats for Deri, AI: Call
+General: deals: 1, actions: 5, preflop actions: 1
+Rounds Seen: flops: 116, turns: 88, rivers: 74, showdowns: 64
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 5
+Pre-Flop Stats: VP$IP: 1, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: 0, WSD: 0.551724, WSDW: 0
+
+
+Player Stats for Dinhitta, AI: Call
+General: deals: 1, actions: 4, preflop actions: 1
+Rounds Seen: flops: 116, turns: 88, rivers: 74, showdowns: 64
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 0
+Pre-Flop Stats: VP$IP: 1, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: 0, WSD: 0.551724, WSDW: 0
+
+
+Player Stats for Geebohof, AI: Random
+General: deals: 53, actions: 125, preflop actions: 48
+Rounds Seen: flops: 115, turns: 87, rivers: 74, showdowns: 64
+Wins: total: 29, showdown: 9, bluff: 20
+Chips: won: 10060, lost: 13347, bought: 1000, forced bets: 230
+Pre-Flop Stats: VP$IP: 0.54717, PFR: 0.169811, 3Bet: 0.169811
+Post-Flop Stats: AF: 4, WSD: 0.556522, WSDW: 0.140625
+
+
+Player Stats for Hofa, AI: Random
+General: deals: 1, actions: 4, preflop actions: 1
+Rounds Seen: flops: 116, turns: 88, rivers: 74, showdowns: 64
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 0
+Pre-Flop Stats: VP$IP: 1, PFR: 1, 3Bet: 1
+Post-Flop Stats: AF: 1.#INF, WSD: 0.551724, WSDW: 0
+
+
+Player Stats for Roerip, AI: Smart
+General: deals: 18, actions: 35, preflop actions: 19
+Rounds Seen: flops: 112, turns: 84, rivers: 71, showdowns: 60
+Wins: total: 3, showdown: 0, bluff: 3
+Chips: won: 1130, lost: 2130, bought: 1000, forced bets: 65
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.111111, 3Bet: 0.111111
+Post-Flop Stats: AF: 1.#INF, WSD: 0.535714, WSDW: 0
+
+
+Player Stats for So, AI: Smart
+General: deals: 429, actions: 497, preflop actions: 240
+Rounds Seen: flops: 107, turns: 81, rivers: 68, showdowns: 59
+Wins: total: 274, showdown: 27, bluff: 247
+Chips: won: 62729, lost: 56729, bought: 1000, forced bets: 3065
+Pre-Flop Stats: VP$IP: 0.263403, PFR: 0.034965, 3Bet: 0.034965
+Post-Flop Stats: AF: 10.2, WSD: 0.551402, WSDW: 0.457627
+
+
+Player Stats for Woebem, AI: AIMyBot1
+General: deals: 429, actions: 589, preflop actions: 333
+Rounds Seen: flops: 93, turns: 69, rivers: 57, showdowns: 48
+Wins: total: 127, showdown: 32, bluff: 95
+Chips: won: 2065, lost: 3065, bought: 1000, forced bets: 3065
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 0.516129, WSDW: 0.666667
+
+
+Date: 2026/04/30 12:57:18
+
+The game begins. The AI's of the players are: 
+So: Smart
+Dinhitta: Call
+Geebohof: Random
+Deri: Call
+Woebem: AIMyBot1
+Roerip: Smart
+Hofa: Random
+
+Joins: So, chips: 1000
+Joins: Dinhitta, chips: 1000
+Joins: Geebohof, chips: 1000
+Joins: Deri, chips: 1000
+Joins: Woebem, chips: 1000
+Joins: Roerip, chips: 1000
+Joins: Hofa, chips: 1000
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Geebohof
+Small Blind: Deri, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: Roerip
+Raises: Hofa, chips: 20
+Folds: So
+Calls: Dinhitta
+Calls: Geebohof
+Calls: Deri
+Folds: Woebem
+Calls: Roerip
+Flop: 2s Td Jh
+Checks: Deri
+Checks: Roerip
+Checks: Hofa
+Checks: Dinhitta
+Checks: Geebohof
+Turn: 7h
+Checks: Deri
+Checks: Roerip
+Checks: Hofa
+Checks: Dinhitta
+Checks: Geebohof
+River: 4c
+Checks: Deri
+Checks: Roerip
+Raises: Hofa, chips: 970
+Calls: Dinhitta
+Calls: Geebohof
+Calls: Deri
+Folds: Roerip
+Pot size: 4040
+Showdown Reached
+Shows: Dinhitta, 3s Kh
+Combination: Dinhitta, High Card ( Kh Jh Td 7h 4c )
+Shows: Geebohof, Jd 5c
+Combination: Geebohof, Pair ( Jd Jh Td 7h 5c )
+Shows: Deri, 6h 4s
+Combination: Deri, Pair ( 4s 4c Jh Td 7h )
+Shows: Hofa, Qs 9c
+Combination: Hofa, High Card ( Qs Jh Td 9c 7h )
+Wins: Geebohof, chips: 4040
+Quits: Dinhitta, chips: 0
+Quits: Deri, chips: 0
+Quits: Hofa, chips: 0
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Roerip, chips: 5
+Big Blind: So, chips: 10
+Raises: Geebohof, chips: 20
+Folds: Woebem
+Folds: Roerip
+Folds: So
+Pot size: 45
+Wins: Geebohof, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Roerip
+Small Blind: So, chips: 5
+Big Blind: Geebohof, chips: 10
+Folds: Woebem
+Folds: Roerip
+Raises: So, chips: 15
+Folds: Geebohof
+Pot size: 35
+Wins: So, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: Geebohof, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: Roerip
+Folds: So
+Calls: Geebohof
+Checks: Woebem
+Flop: Js Jc Jh
+Checks: Geebohof
+Checks: Woebem
+Checks: Roerip
+Turn: 2h
+Checks: Geebohof
+Checks: Woebem
+Checks: Roerip
+River: 8c
+Checks: Geebohof
+Checks: Woebem
+Checks: Roerip
+Pot size: 30
+Showdown Reached
+Shows: Geebohof, 8s 2d
+Combination: Geebohof, Full House ( Js Jc Jh 8s 8c )
+Shows: Woebem, Kh Jd
+Combination: Woebem, Four Of A Kind ( Jd Js Jc Jh Kh )
+Shows: Roerip, 9s As
+Combination: Roerip, Three Of A Kind ( Js Jc Jh As 9s )
+Wins: Woebem, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Geebohof
+Small Blind: Woebem, chips: 5
+Big Blind: Roerip, chips: 10
+Folds: So
+Raises: Geebohof, chips: 20
+Folds: Woebem
+Folds: Roerip
+Pot size: 45
+Wins: Geebohof, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Roerip, chips: 5
+Big Blind: So, chips: 10
+Calls: Geebohof
+Folds: Woebem
+Folds: Roerip
+Checks: So
+Flop: 2s Kh 6h
+Raises: So, chips: 10
+Calls: Geebohof
+Turn: 7c
+Raises: So, chips: 10
+Raises: Geebohof, chips: 20
+Raises: So, chips: 20
+Folds: Geebohof
+Pot size: 125
+Boasts: Geebohof, Jc Qc
+Wins: So, chips: 125
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Roerip
+Small Blind: So, chips: 5
+Big Blind: Geebohof, chips: 10
+Folds: Woebem
+Folds: Roerip
+Folds: So
+Pot size: 15
+Wins: Geebohof, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: Geebohof, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: Roerip
+Folds: So
+Calls: Geebohof
+Checks: Woebem
+Flop: 5c 7s 2h
+Checks: Geebohof
+Checks: Woebem
+Turn: As
+Checks: Geebohof
+Checks: Woebem
+River: 8s
+Checks: Geebohof
+Checks: Woebem
+Pot size: 20
+Showdown Reached
+Shows: Geebohof, Td 2s
+Combination: Geebohof, Pair ( 2s 2h As Td 8s )
+Shows: Woebem, 3c 3h
+Combination: Woebem, Pair ( 3c 3h As 8s 7s )
+Wins: Woebem, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Geebohof
+Small Blind: Woebem, chips: 5
+Big Blind: Roerip, chips: 10
+Calls: So
+Folds: Geebohof
+Folds: Woebem
+Checks: Roerip
+Flop: 6c 5d Tc
+Checks: Roerip
+Checks: So
+Turn: 7h
+Checks: Roerip
+Raises: So, chips: 10
+Folds: Roerip
+Pot size: 35
+Boasts: Geebohof, 2c Th
+Wins: So, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Roerip, chips: 5
+Big Blind: So, chips: 10
+Folds: Geebohof
+Folds: Woebem
+Raises: Roerip, chips: 15
+Folds: So
+Pot size: 35
+Wins: Roerip, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Roerip
+Small Blind: So, chips: 5
+Big Blind: Geebohof, chips: 10
+Folds: Woebem
+Folds: Roerip
+Calls: So
+Checks: Geebohof
+Flop: 3s 3d Jd
+Checks: So
+Checks: Geebohof
+Turn: 6h
+Checks: So
+Checks: Geebohof
+River: 4d
+Checks: So
+Raises: Geebohof, chips: 10
+Calls: So
+Pot size: 40
+Showdown Reached
+Shows: So, 5d 6c
+Combination: So, Two Pair ( 6c 6h 3s 3d Jd )
+Shows: Geebohof, 2d Jh
+Combination: Geebohof, Two Pair ( Jh Jd 3s 3d 6h )
+Wins: Geebohof, chips: 40
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: Geebohof, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: Roerip
+Calls: So
+Raises: Geebohof, chips: 15
+Folds: Woebem
+Calls: Roerip
+Folds: So
+Flop: 9h 2h 8s
+Checks: Geebohof
+Checks: Roerip
+Turn: Kh
+Checks: Geebohof
+Checks: Roerip
+River: 3c
+Raises: Geebohof, chips: 15
+Folds: Roerip
+Pot size: 85
+Boasts: Geebohof, Kc Jc
+Wins: Geebohof, chips: 85
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Geebohof
+Small Blind: Woebem, chips: 5
+Big Blind: Roerip, chips: 10
+Folds: So
+Folds: Geebohof
+Folds: Woebem
+Pot size: 15
+Boasts: Geebohof, As 8s
+Wins: Roerip, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Roerip, chips: 5
+Big Blind: So, chips: 10
+Raises: Geebohof, chips: 20
+Folds: Woebem
+Folds: Roerip
+Folds: So
+Pot size: 45
+Wins: Geebohof, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Roerip
+Small Blind: So, chips: 5
+Big Blind: Geebohof, chips: 10
+Folds: Woebem
+Calls: Roerip
+Folds: So
+Checks: Geebohof
+Flop: 8c Kd 5d
+Checks: Geebohof
+Raises: Roerip, chips: 10
+Raises: Geebohof, chips: 20
+Raises: Roerip, chips: 40
+Raises: Geebohof, chips: 80
+Raises: Roerip, chips: 755
+Folds: Geebohof
+Pot size: 1080
+Boasts: Geebohof, 8d 4h
+Wins: Roerip, chips: 1080
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: Geebohof, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: Roerip
+Raises: So, chips: 10
+Folds: Geebohof
+Folds: Woebem
+Pot size: 35
+Wins: So, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Geebohof
+Small Blind: Woebem, chips: 5
+Big Blind: Roerip, chips: 10
+Calls: So
+Raises: Geebohof, chips: 20
+Folds: Woebem
+Folds: Roerip
+Calls: So
+Flop: 4s Ad Th
+Raises: So, chips: 995
+Raises: Geebohof, chips: 1015
+Turn: 9d
+River: 2s
+Pot size: 3080
+Showdown Reached
+Shows: So, Ts As
+Combination: So, Two Pair ( As Ad Ts Th 9d )
+Shows: Geebohof, 8h 3d
+Combination: Geebohof, High Card ( Ad Th 9d 8h 4s )
+Wins: So, chips: 2065
+Wins: Geebohof, chips: 1015
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Roerip, chips: 5
+Big Blind: So, chips: 10
+Calls: Geebohof
+Folds: Woebem
+Raises: Roerip, chips: 1060
+Folds: So
+Calls: Geebohof
+Flop: 5h Js 4s
+Turn: Kh
+River: Td
+Pot size: 2150
+Showdown Reached
+Shows: Geebohof, Jd Qd
+Combination: Geebohof, Pair ( Jd Js Kh Qd Td )
+Shows: Roerip, 9c 8c
+Combination: Roerip, High Card ( Kh Js Td 9c 8c )
+Wins: Geebohof, chips: 2150
+Quits: Roerip, chips: 0
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: Geebohof, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Calls: Geebohof
+Checks: Woebem
+Flop: 8s Qc 4c
+Checks: Geebohof
+Checks: Woebem
+Checks: So
+Turn: 3d
+Checks: Geebohof
+Checks: Woebem
+Checks: So
+River: 8h
+Checks: Geebohof
+Checks: Woebem
+Checks: So
+Pot size: 30
+Showdown Reached
+Shows: So, 8c 9s
+Combination: So, Three Of A Kind ( 8c 8s 8h Qc 9s )
+Shows: Geebohof, Ad Tc
+Combination: Geebohof, Pair ( 8s 8h Ad Qc Tc )
+Shows: Woebem, 6d Js
+Combination: Woebem, Pair ( 8s 8h Qc Js 6d )
+Wins: So, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Geebohof
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Calls: Geebohof
+Folds: Woebem
+Checks: So
+Flop: 9d 7c Ad
+Checks: So
+Raises: Geebohof, chips: 10
+Folds: So
+Pot size: 35
+Wins: Geebohof, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: So, chips: 5
+Big Blind: Geebohof, chips: 10
+Folds: Woebem
+Folds: So
+Pot size: 15
+Wins: Geebohof, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: Geebohof, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Calls: Geebohof
+Checks: Woebem
+Flop: 6h 9h Js
+Checks: Geebohof
+Checks: Woebem
+Turn: Ah
+Checks: Geebohof
+Checks: Woebem
+River: Tc
+Checks: Geebohof
+Checks: Woebem
+Pot size: 20
+Showdown Reached
+Shows: Geebohof, 4h 2d
+Combination: Geebohof, High Card ( Ah Js Tc 9h 6h )
+Shows: Woebem, Jd 3s
+Combination: Woebem, Pair ( Jd Js Ah Tc 9h )
+Wins: Woebem, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Geebohof
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Geebohof
+Folds: Woebem
+Pot size: 15
+Boasts: Geebohof, 5d Td
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: So, chips: 5
+Big Blind: Geebohof, chips: 10
+Folds: Woebem
+Calls: So
+Checks: Geebohof
+Flop: 6s 8s Jh
+Checks: So
+Checks: Geebohof
+Turn: Jc
+Checks: So
+Raises: Geebohof, chips: 10
+Folds: So
+Pot size: 30
+Boasts: Geebohof, Ad 9d
+Wins: Geebohof, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: Geebohof, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Calls: Geebohof
+Checks: Woebem
+Flop: Ac 3s Js
+Checks: Geebohof
+Checks: Woebem
+Turn: 7d
+Raises: Geebohof, chips: 10
+Folds: Woebem
+Pot size: 30
+Wins: Geebohof, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Geebohof
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Geebohof
+Folds: Woebem
+Pot size: 15
+Boasts: Geebohof, Qc 6h
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: So, chips: 5
+Big Blind: Geebohof, chips: 10
+Folds: Woebem
+Calls: So
+Checks: Geebohof
+Flop: Kd Td 8s
+Checks: So
+Checks: Geebohof
+Turn: 7d
+Checks: So
+Checks: Geebohof
+River: Ac
+Checks: So
+Checks: Geebohof
+Pot size: 20
+Showdown Reached
+Shows: So, 9s Ks
+Combination: So, Pair ( Ks Kd Ac Td 9s )
+Shows: Geebohof, 9d Qc
+Combination: Geebohof, High Card ( Ac Kd Qc Td 9d )
+Wins: So, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: Geebohof, chips: 5
+Big Blind: Woebem, chips: 10
+Raises: So, chips: 10
+Folds: Geebohof
+Folds: Woebem
+Pot size: 35
+Boasts: Geebohof, 7s 3d
+Wins: So, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Geebohof
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Raises: Geebohof, chips: 20
+Folds: Woebem
+Folds: So
+Pot size: 45
+Boasts: Geebohof, 9d 5h
+Wins: Geebohof, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: So, chips: 5
+Big Blind: Geebohof, chips: 10
+Folds: Woebem
+Calls: So
+Checks: Geebohof
+Flop: 8c 5h Jc
+Raises: So, chips: 10
+Calls: Geebohof
+Turn: Tc
+Checks: So
+Checks: Geebohof
+River: Ad
+Checks: So
+Checks: Geebohof
+Pot size: 40
+Showdown Reached
+Shows: So, 2s 2d
+Combination: So, Pair ( 2s 2d Ad Jc Tc )
+Shows: Geebohof, 4h 5c
+Combination: Geebohof, Pair ( 5c 5h Ad Jc Tc )
+Wins: Geebohof, chips: 40
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: Geebohof, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Folds: Geebohof
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Geebohof
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Calls: Geebohof
+Folds: Woebem
+Checks: So
+Flop: 3s Ac 2d
+Checks: So
+Checks: Geebohof
+Turn: 6s
+Checks: So
+Checks: Geebohof
+River: Js
+Checks: So
+Checks: Geebohof
+Pot size: 25
+Showdown Reached
+Shows: So, 7c 6h
+Combination: So, Pair ( 6h 6s Ac Js 7c )
+Shows: Geebohof, Ah Ks
+Combination: Geebohof, Pair ( Ah Ac Ks Js 6s )
+Wins: Geebohof, chips: 25
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: So, chips: 5
+Big Blind: Geebohof, chips: 10
+Folds: Woebem
+Folds: So
+Pot size: 15
+Boasts: Geebohof, Ah 2c
+Wins: Geebohof, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: Geebohof, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Folds: Geebohof
+Pot size: 15
+Boasts: Geebohof, Ts 2h
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Geebohof
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Raises: Geebohof, chips: 20
+Folds: Woebem
+Folds: So
+Pot size: 45
+Wins: Geebohof, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: So, chips: 5
+Big Blind: Geebohof, chips: 10
+Folds: Woebem
+Folds: So
+Pot size: 15
+Boasts: Geebohof, Jd 4h
+Wins: Geebohof, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: Geebohof, chips: 5
+Big Blind: Woebem, chips: 10
+Raises: So, chips: 10
+Calls: Geebohof
+Folds: Woebem
+Flop: As Kd 3d
+Raises: Geebohof, chips: 10
+Folds: So
+Pot size: 60
+Wins: Geebohof, chips: 60
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Geebohof
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Calls: Geebohof
+Folds: Woebem
+Checks: So
+Flop: As 2d 3h
+Checks: So
+Checks: Geebohof
+Turn: 2h
+Checks: So
+Checks: Geebohof
+River: Qh
+Raises: So, chips: 10
+Calls: Geebohof
+Pot size: 45
+Showdown Reached
+Shows: So, 9c Qd
+Combination: So, Two Pair ( Qd Qh 2d 2h As )
+Shows: Geebohof, Qc 4c
+Combination: Geebohof, Two Pair ( Qc Qh 2d 2h As )
+Wins: So, chips: 23
+Wins: Geebohof, chips: 22
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: So, chips: 5
+Big Blind: Geebohof, chips: 10
+Folds: Woebem
+Calls: So
+Checks: Geebohof
+Flop: 7c Ts 2d
+Checks: So
+Checks: Geebohof
+Turn: 8h
+Checks: So
+Checks: Geebohof
+River: Qc
+Checks: So
+Checks: Geebohof
+Pot size: 20
+Showdown Reached
+Shows: So, 7d 6h
+Combination: So, Pair ( 7d 7c Qc Ts 8h )
+Shows: Geebohof, 9c Ad
+Combination: Geebohof, High Card ( Ad Qc Ts 9c 8h )
+Wins: So, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: Geebohof, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Raises: Geebohof, chips: 15
+Folds: Woebem
+Pot size: 35
+Wins: Geebohof, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Geebohof
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Calls: Geebohof
+Folds: Woebem
+Checks: So
+Flop: Tc 2d Ts
+Checks: So
+Checks: Geebohof
+Turn: 8c
+Checks: So
+Checks: Geebohof
+River: 8d
+Checks: So
+Checks: Geebohof
+Pot size: 25
+Showdown Reached
+Shows: So, 4h 8h
+Combination: So, Full House ( 8h 8c 8d Tc Ts )
+Shows: Geebohof, Kd 7s
+Combination: Geebohof, Two Pair ( Tc Ts 8c 8d Kd )
+Wins: So, chips: 25
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: So, chips: 5
+Big Blind: Geebohof, chips: 10
+Folds: Woebem
+Folds: So
+Pot size: 15
+Wins: Geebohof, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: Geebohof, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Calls: Geebohof
+Checks: Woebem
+Flop: 9d Kd 2c
+Checks: Geebohof
+Checks: Woebem
+Checks: So
+Turn: Ks
+Raises: Geebohof, chips: 10
+Folds: Woebem
+Calls: So
+River: Jd
+Checks: Geebohof
+Raises: So, chips: 2008
+Raises: Geebohof, chips: 2018
+Pot size: 6084
+Showdown Reached
+Shows: So, Jc Ts
+Combination: So, Two Pair ( Kd Ks Jc Jd Ts )
+Shows: Geebohof, 3s 5c
+Combination: Geebohof, Pair ( Kd Ks Jd 9d 5c )
+Wins: So, chips: 4066
+Wins: Geebohof, chips: 2018
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Geebohof
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Calls: Geebohof
+Folds: Woebem
+Checks: So
+Flop: 2d 2h As
+Raises: So, chips: 10
+Folds: Geebohof
+Pot size: 35
+Wins: So, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: So, chips: 5
+Big Blind: Geebohof, chips: 10
+Folds: Woebem
+Folds: So
+Pot size: 15
+Wins: Geebohof, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: Geebohof, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Calls: Geebohof
+Checks: Woebem
+Flop: 3s Ts 9d
+Checks: Geebohof
+Checks: Woebem
+Checks: So
+Turn: 4h
+Raises: Geebohof, chips: 10
+Folds: Woebem
+Calls: So
+River: 5c
+Checks: Geebohof
+Checks: So
+Pot size: 50
+Showdown Reached
+Shows: So, 2s 4s
+Combination: So, Pair ( 4s 4h Ts 9d 5c )
+Shows: Geebohof, 6h Jh
+Combination: Geebohof, High Card ( Jh Ts 9d 6h 5c )
+Wins: So, chips: 50
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Geebohof
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Calls: Geebohof
+Folds: Woebem
+Checks: So
+Flop: 8h 3h 3s
+Checks: So
+Checks: Geebohof
+Turn: 3c
+Checks: So
+Raises: Geebohof, chips: 10
+Folds: So
+Pot size: 35
+Boasts: Geebohof, 6h Ts
+Wins: Geebohof, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: So, chips: 5
+Big Blind: Geebohof, chips: 10
+Folds: Woebem
+Calls: So
+Checks: Geebohof
+Flop: Tc 6h Td
+Checks: So
+Checks: Geebohof
+Turn: 8h
+Checks: So
+Checks: Geebohof
+River: 5h
+Checks: So
+Checks: Geebohof
+Pot size: 20
+Showdown Reached
+Shows: So, Kc As
+Combination: So, Pair ( Tc Td As Kc 8h )
+Shows: Geebohof, 6s 2s
+Combination: Geebohof, Two Pair ( Tc Td 6s 6h 8h )
+Wins: Geebohof, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: Geebohof, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Calls: Geebohof
+Checks: Woebem
+Flop: 8d Tc Th
+Raises: Geebohof, chips: 10
+Folds: Woebem
+Raises: So, chips: 20
+Raises: Geebohof, chips: 40
+Calls: So
+Turn: 2h
+Raises: Geebohof, chips: 40
+Calls: So
+River: Ks
+Checks: Geebohof
+Checks: So
+Pot size: 250
+Showdown Reached
+Shows: So, As 2s
+Combination: So, Two Pair ( Tc Th 2s 2h As )
+Shows: Geebohof, 4c 7d
+Combination: Geebohof, Pair ( Tc Th Ks 8d 7d )
+Wins: So, chips: 250
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Geebohof
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Calls: Geebohof
+Folds: Woebem
+Checks: So
+Flop: 2d 9c Jd
+Checks: So
+Raises: Geebohof, chips: 10
+Folds: So
+Pot size: 35
+Boasts: Geebohof, Kd 6d
+Wins: Geebohof, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: So, chips: 5
+Big Blind: Geebohof, chips: 10
+Folds: Woebem
+Calls: So
+Checks: Geebohof
+Flop: Ac 4h 8s
+Checks: So
+Checks: Geebohof
+Turn: Ts
+Checks: So
+Checks: Geebohof
+River: 7h
+Checks: So
+Checks: Geebohof
+Pot size: 20
+Showdown Reached
+Shows: So, 2s 4s
+Combination: So, Pair ( 4s 4h Ac Ts 8s )
+Shows: Geebohof, 5d 2h
+Combination: Geebohof, High Card ( Ac Ts 8s 7h 5d )
+Wins: So, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: Geebohof, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Calls: Geebohof
+Checks: Woebem
+Flop: Ks Kc 9s
+Raises: Geebohof, chips: 10
+Folds: Woebem
+Pot size: 30
+Wins: Geebohof, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Geebohof
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Raises: Geebohof, chips: 20
+Folds: Woebem
+Calls: So
+Flop: 7c 9c 2d
+Checks: So
+Raises: Geebohof, chips: 20
+Raises: So, chips: 4166
+Calls: Geebohof
+Turn: Ac
+River: 3d
+Pot size: 6150
+Showdown Reached
+Shows: So, Ah As
+Combination: So, Three Of A Kind ( Ah As Ac 9c 7c )
+Shows: Geebohof, Kd 7s
+Combination: Geebohof, Pair ( 7s 7c Ac Kd 9c )
+Wins: So, chips: 6150
+Quits: Geebohof, chips: 0
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: 5h Jc 3s
+Checks: Woebem
+Checks: So
+Turn: Kc
+Checks: Woebem
+Checks: So
+River: 9s
+Checks: Woebem
+Checks: So
+Pot size: 20
+Showdown Reached
+Shows: So, 9c Td
+Combination: So, Pair ( 9c 9s Kc Jc Td )
+Shows: Woebem, 9h 5c
+Combination: Woebem, Two Pair ( 9h 9s 5c 5h Kc )
+Wins: Woebem, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: 7h 8h 9h
+Checks: Woebem
+Checks: So
+Turn: 4d
+Checks: Woebem
+Raises: So, chips: 6140
+Folds: Woebem
+Pot size: 6160
+Wins: So, chips: 6160
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Raises: So, chips: 15
+Folds: Woebem
+Pot size: 35
+Wins: So, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: Ks 5s 4d
+Checks: Woebem
+Raises: So, chips: 10
+Folds: Woebem
+Pot size: 30
+Wins: So, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: Qh 2d Ac
+Checks: Woebem
+Checks: So
+Turn: 4c
+Checks: Woebem
+Checks: So
+River: Ts
+Checks: Woebem
+Checks: So
+Pot size: 20
+Showdown Reached
+Shows: So, 4h 5s
+Combination: So, Pair ( 4h 4c Ac Qh Ts )
+Shows: Woebem, Qd Th
+Combination: Woebem, Two Pair ( Qd Qh Th Ts Ac )
+Wins: Woebem, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: 5c Ad 9s
+Checks: Woebem
+Checks: So
+Turn: 5d
+Checks: Woebem
+Checks: So
+River: 4s
+Checks: Woebem
+Checks: So
+Pot size: 20
+Showdown Reached
+Shows: So, 7d Kd
+Combination: So, Pair ( 5c 5d Ad Kd 9s )
+Shows: Woebem, 8d Qc
+Combination: Woebem, Pair ( 5c 5d Ad Qc 9s )
+Wins: So, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: 5d Td 7h
+Checks: Woebem
+Checks: So
+Turn: Kh
+Checks: Woebem
+Checks: So
+River: 4c
+Checks: Woebem
+Checks: So
+Pot size: 20
+Showdown Reached
+Shows: So, Jd 8c
+Combination: So, High Card ( Kh Jd Td 8c 7h )
+Shows: Woebem, Kd 6d
+Combination: Woebem, Pair ( Kd Kh Td 7h 6d )
+Wins: Woebem, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: 8h 3s 4h
+Checks: Woebem
+Checks: So
+Turn: 5c
+Checks: Woebem
+Checks: So
+River: Qd
+Checks: Woebem
+Raises: So, chips: 10
+Folds: Woebem
+Pot size: 30
+Wins: So, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: Kd Td 4h
+Checks: Woebem
+Checks: So
+Turn: 6d
+Checks: Woebem
+Raises: So, chips: 6205
+Folds: Woebem
+Pot size: 6225
+Wins: So, chips: 6225
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: Ac 5d Tc
+Checks: Woebem
+Checks: So
+Turn: 9h
+Checks: Woebem
+Checks: So
+River: Kh
+Checks: Woebem
+Raises: So, chips: 10
+Folds: Woebem
+Pot size: 30
+Wins: So, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: 6s Js 4s
+Checks: Woebem
+Checks: So
+Turn: 6c
+Checks: Woebem
+Checks: So
+River: 4c
+Checks: Woebem
+Raises: So, chips: 10
+Folds: Woebem
+Pot size: 30
+Wins: So, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: Td 4s 2c
+Checks: Woebem
+Checks: So
+Turn: 2d
+Checks: Woebem
+Checks: So
+River: 8c
+Checks: Woebem
+Checks: So
+Pot size: 20
+Showdown Reached
+Shows: So, Qh Kd
+Combination: So, Pair ( 2c 2d Kd Qh Td )
+Shows: Woebem, Jc Jh
+Combination: Woebem, Two Pair ( Jc Jh 2c 2d Td )
+Wins: Woebem, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: Ts 3h Ad
+Checks: Woebem
+Checks: So
+Turn: 4h
+Checks: Woebem
+Checks: So
+River: Js
+Checks: Woebem
+Checks: So
+Pot size: 20
+Showdown Reached
+Shows: So, 7d 5d
+Combination: So, High Card ( Ad Js Ts 7d 5d )
+Shows: Woebem, 3c 7h
+Combination: Woebem, Pair ( 3c 3h Ad Js Ts )
+Wins: Woebem, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: 9s Js 6c
+Checks: Woebem
+Checks: So
+Turn: 9h
+Checks: Woebem
+Checks: So
+River: 3s
+Checks: Woebem
+Checks: So
+Pot size: 20
+Showdown Reached
+Shows: So, 2d 2s
+Combination: So, Two Pair ( 9s 9h 2d 2s Js )
+Shows: Woebem, 3h 7d
+Combination: Woebem, Two Pair ( 9s 9h 3h 3s Js )
+Wins: Woebem, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: Ad 8c 3d
+Checks: Woebem
+Checks: So
+Turn: Qd
+Checks: Woebem
+Checks: So
+River: 8s
+Checks: Woebem
+Checks: So
+Pot size: 20
+Showdown Reached
+Shows: So, 7d 6s
+Combination: So, Pair ( 8c 8s Ad Qd 7d )
+Shows: Woebem, 5d Tc
+Combination: Woebem, Pair ( 8c 8s Ad Qd Tc )
+Wins: Woebem, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: 6s 8d 7c
+Checks: Woebem
+Checks: So
+Turn: 4s
+Checks: Woebem
+Checks: So
+River: 3c
+Checks: Woebem
+Checks: So
+Pot size: 20
+Showdown Reached
+Shows: So, 9d Ah
+Combination: So, High Card ( Ah 9d 8d 7c 6s )
+Shows: Woebem, 8c 3s
+Combination: Woebem, Two Pair ( 8c 8d 3s 3c 7c )
+Wins: Woebem, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: Ah 5h 9d
+Checks: Woebem
+Checks: So
+Turn: 4c
+Checks: Woebem
+Raises: So, chips: 10
+Folds: Woebem
+Pot size: 30
+Wins: So, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: 4c 4s 3s
+Checks: Woebem
+Raises: So, chips: 10
+Folds: Woebem
+Pot size: 30
+Wins: So, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Raises: So, chips: 15
+Folds: Woebem
+Pot size: 35
+Wins: So, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: Tc 9h Ts
+Checks: Woebem
+Raises: So, chips: 10
+Folds: Woebem
+Pot size: 30
+Wins: So, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Raises: So, chips: 15
+Folds: Woebem
+Pot size: 35
+Wins: So, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: Td Qs As
+Checks: Woebem
+Checks: So
+Turn: 3d
+Checks: Woebem
+Checks: So
+River: Ad
+Checks: Woebem
+Raises: So, chips: 6300
+Folds: Woebem
+Pot size: 6320
+Wins: So, chips: 6320
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: 9d Ac 3h
+Checks: Woebem
+Checks: So
+Turn: 6s
+Checks: Woebem
+Checks: So
+River: Qc
+Checks: Woebem
+Checks: So
+Pot size: 20
+Showdown Reached
+Shows: So, 7d 7c
+Combination: So, Pair ( 7d 7c Ac Qc 9d )
+Shows: Woebem, 5h Jd
+Combination: Woebem, High Card ( Ac Qc Jd 9d 6s )
+Wins: So, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: 6h Qh Tc
+Checks: Woebem
+Checks: So
+Turn: 8h
+Checks: Woebem
+Checks: So
+River: Qc
+Checks: Woebem
+Checks: So
+Pot size: 20
+Showdown Reached
+Shows: So, 9c Kd
+Combination: So, Pair ( Qh Qc Kd Tc 9c )
+Shows: Woebem, 8s Ac
+Combination: Woebem, Two Pair ( Qh Qc 8s 8h Ac )
+Wins: Woebem, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: Jh Jd 8c
+Checks: Woebem
+Checks: So
+Turn: Th
+Checks: Woebem
+Checks: So
+River: 6c
+Checks: Woebem
+Checks: So
+Pot size: 20
+Showdown Reached
+Shows: So, Td 7d
+Combination: So, Two Pair ( Jh Jd Td Th 8c )
+Shows: Woebem, 4c 5c
+Combination: Woebem, Pair ( Jh Jd Th 8c 6c )
+Wins: So, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: 7c Qc Qh
+Checks: Woebem
+Checks: So
+Turn: 2d
+Checks: Woebem
+Checks: So
+River: Ah
+Checks: Woebem
+Checks: So
+Pot size: 20
+Showdown Reached
+Shows: So, 8s 9h
+Combination: So, Pair ( Qc Qh Ah 9h 8s )
+Shows: Woebem, Ts 6d
+Combination: Woebem, Pair ( Qc Qh Ah Ts 7c )
+Wins: Woebem, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: 7d Js Kh
+Checks: Woebem
+Raises: So, chips: 6335
+Folds: Woebem
+Pot size: 6355
+Wins: So, chips: 6355
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: Js 9s 7h
+Checks: Woebem
+Checks: So
+Turn: 3c
+Checks: Woebem
+Checks: So
+River: Ts
+Checks: Woebem
+Checks: So
+Pot size: 20
+Showdown Reached
+Shows: So, 8d Jh
+Combination: So, Straight ( Jh Ts 9s 8d 7h )
+Shows: Woebem, 2c Jc
+Combination: Woebem, Pair ( Jc Js Ts 9s 7h )
+Wins: So, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: Th Kh 3c
+Checks: Woebem
+Raises: So, chips: 10
+Folds: Woebem
+Pot size: 30
+Wins: So, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: Jc Qs 7c
+Checks: Woebem
+Checks: So
+Turn: 2h
+Checks: Woebem
+Checks: So
+River: 3d
+Checks: Woebem
+Checks: So
+Pot size: 20
+Showdown Reached
+Shows: So, 9c Kd
+Combination: So, High Card ( Kd Qs Jc 9c 7c )
+Shows: Woebem, 4h 5d
+Combination: Woebem, High Card ( Qs Jc 7c 5d 4h )
+Wins: So, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: Tc Ah Js
+Checks: Woebem
+Raises: So, chips: 10
+Folds: Woebem
+Pot size: 30
+Wins: So, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: Ks Ah 3h
+Checks: Woebem
+Checks: So
+Turn: Tc
+Checks: Woebem
+Raises: So, chips: 10
+Folds: Woebem
+Pot size: 30
+Wins: So, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: 8s Kd 6c
+Checks: Woebem
+Checks: So
+Turn: 2s
+Checks: Woebem
+Checks: So
+River: 7s
+Checks: Woebem
+Checks: So
+Pot size: 20
+Showdown Reached
+Shows: So, Tc Ac
+Combination: So, High Card ( Ac Kd Tc 8s 7s )
+Shows: Woebem, 4s 2h
+Combination: Woebem, Pair ( 2h 2s Kd 8s 7s )
+Wins: Woebem, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: 7h Th Jd
+Checks: Woebem
+Checks: So
+Turn: Ks
+Checks: Woebem
+Checks: So
+River: Jh
+Checks: Woebem
+Checks: So
+Pot size: 20
+Showdown Reached
+Shows: So, 5d 8d
+Combination: So, Pair ( Jd Jh Ks Th 8d )
+Shows: Woebem, 6h Td
+Combination: Woebem, Two Pair ( Jd Jh Td Th Ks )
+Wins: Woebem, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: Jd 7d Ad
+Checks: Woebem
+Raises: So, chips: 10
+Folds: Woebem
+Pot size: 30
+Wins: So, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: 8s Qd 3h
+Checks: Woebem
+Checks: So
+Turn: Ad
+Checks: Woebem
+Checks: So
+River: 7c
+Checks: Woebem
+Checks: So
+Pot size: 20
+Showdown Reached
+Shows: So, Jh Th
+Combination: So, High Card ( Ad Qd Jh Th 8s )
+Shows: Woebem, 6d 5s
+Combination: Woebem, High Card ( Ad Qd 8s 7c 6d )
+Wins: So, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: 4s Kc 2h
+Checks: Woebem
+Checks: So
+Turn: 4d
+Checks: Woebem
+Checks: So
+River: 8c
+Checks: Woebem
+Checks: So
+Pot size: 20
+Showdown Reached
+Shows: So, Tc 8h
+Combination: So, Two Pair ( 8h 8c 4s 4d Kc )
+Shows: Woebem, Qc 4c
+Combination: Woebem, Three Of A Kind ( 4c 4s 4d Kc Qc )
+Wins: Woebem, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: Kh 5h 2s
+Checks: Woebem
+Checks: So
+Turn: Qh
+Checks: Woebem
+Checks: So
+River: Ks
+Checks: Woebem
+Checks: So
+Pot size: 20
+Showdown Reached
+Shows: So, 7s 7h
+Combination: So, Two Pair ( Kh Ks 7s 7h Qh )
+Shows: Woebem, 7d 8s
+Combination: Woebem, Pair ( Kh Ks Qh 8s 7d )
+Wins: So, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: 6s Ah Td
+Checks: Woebem
+Checks: So
+Turn: 8c
+Checks: Woebem
+Checks: So
+River: Qd
+Checks: Woebem
+Checks: So
+Pot size: 20
+Showdown Reached
+Shows: So, Ks 9s
+Combination: So, High Card ( Ah Ks Qd Td 9s )
+Shows: Woebem, 5d 6d
+Combination: Woebem, Pair ( 6d 6s Ah Qd Td )
+Wins: Woebem, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Raises: So, chips: 15
+Folds: Woebem
+Pot size: 35
+Wins: So, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Raises: So, chips: 15
+Folds: Woebem
+Pot size: 35
+Wins: So, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: Kh 2d 7d
+Checks: Woebem
+Checks: So
+Turn: 6c
+Checks: Woebem
+Raises: So, chips: 10
+Folds: Woebem
+Pot size: 30
+Wins: So, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: 9h 3d Ac
+Checks: Woebem
+Raises: So, chips: 10
+Folds: Woebem
+Pot size: 30
+Wins: So, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: 3s 8h 7s
+Checks: Woebem
+Checks: So
+Turn: 5d
+Checks: Woebem
+Checks: So
+River: 5h
+Checks: Woebem
+Checks: So
+Pot size: 20
+Showdown Reached
+Shows: So, 9d Qd
+Combination: So, Pair ( 5d 5h Qd 9d 8h )
+Shows: Woebem, 3d 6c
+Combination: Woebem, Two Pair ( 5d 5h 3d 3s 8h )
+Wins: Woebem, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: Qd As 9s
+Checks: Woebem
+Checks: So
+Turn: 9h
+Checks: Woebem
+Checks: So
+River: 8s
+Checks: Woebem
+Checks: So
+Pot size: 20
+Showdown Reached
+Shows: So, 6d 5h
+Combination: So, Pair ( 9s 9h As Qd 8s )
+Shows: Woebem, 9c 7d
+Combination: Woebem, Three Of A Kind ( 9c 9s 9h As Qd )
+Wins: Woebem, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Raises: So, chips: 6500
+Folds: Woebem
+Pot size: 6520
+Wins: So, chips: 6520
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: Jc Ac 5h
+Checks: Woebem
+Raises: So, chips: 10
+Folds: Woebem
+Pot size: 30
+Wins: So, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: 3h 5c Ts
+Checks: Woebem
+Checks: So
+Turn: Ac
+Checks: Woebem
+Checks: So
+River: Kh
+Checks: Woebem
+Checks: So
+Pot size: 20
+Showdown Reached
+Shows: So, Ks Qh
+Combination: So, Pair ( Ks Kh Ac Qh Ts )
+Shows: Woebem, 5h 6c
+Combination: Woebem, Pair ( 5h 5c Ac Kh Ts )
+Wins: So, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: Qs 2c Ts
+Checks: Woebem
+Raises: So, chips: 10
+Folds: Woebem
+Pot size: 30
+Wins: So, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Raises: So, chips: 15
+Folds: Woebem
+Pot size: 35
+Wins: So, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: 2d 3h 9c
+Checks: Woebem
+Checks: So
+Turn: 4c
+Checks: Woebem
+Checks: So
+River: Ah
+Checks: Woebem
+Checks: So
+Pot size: 20
+Showdown Reached
+Shows: So, Ac Jc
+Combination: So, Pair ( Ac Ah Jc 9c 4c )
+Shows: Woebem, 5d 3c
+Combination: Woebem, Straight ( 5d 4c 3c 2d Ah )
+Wins: Woebem, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: Ac 4c 4h
+Checks: Woebem
+Checks: So
+Turn: 3h
+Checks: Woebem
+Checks: So
+River: Kd
+Checks: Woebem
+Checks: So
+Pot size: 20
+Showdown Reached
+Shows: So, Jc 9s
+Combination: So, Pair ( 4c 4h Ac Kd Jc )
+Shows: Woebem, Ks Qs
+Combination: Woebem, Two Pair ( Ks Kd 4c 4h Ac )
+Wins: Woebem, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: 8h 5h 8d
+Checks: Woebem
+Raises: So, chips: 10
+Folds: Woebem
+Pot size: 30
+Wins: So, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Raises: So, chips: 15
+Folds: Woebem
+Pot size: 35
+Wins: So, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: Qd Qh 3d
+Checks: Woebem
+Raises: So, chips: 10
+Folds: Woebem
+Pot size: 30
+Wins: So, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: Jd 7c 5c
+Checks: Woebem
+Raises: So, chips: 10
+Folds: Woebem
+Pot size: 30
+Wins: So, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: Tc 3c 9h
+Checks: Woebem
+Checks: So
+Turn: 5s
+Checks: Woebem
+Checks: So
+River: 6s
+Checks: Woebem
+Checks: So
+Pot size: 20
+Showdown Reached
+Shows: So, 8h Ts
+Combination: So, Pair ( Ts Tc 9h 8h 6s )
+Shows: Woebem, 4d 6d
+Combination: Woebem, Pair ( 6d 6s Tc 9h 5s )
+Wins: So, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Raises: So, chips: 6640
+Folds: Woebem
+Pot size: 6660
+Wins: So, chips: 6660
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: Jc Qd 9s
+Checks: Woebem
+Checks: So
+Turn: 7h
+Checks: Woebem
+Checks: So
+River: Ah
+Checks: Woebem
+Checks: So
+Pot size: 20
+Showdown Reached
+Shows: So, 9c Kc
+Combination: So, Pair ( 9c 9s Ah Kc Qd )
+Shows: Woebem, Ad 5c
+Combination: Woebem, Pair ( Ad Ah Qd Jc 9s )
+Wins: Woebem, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: Tc 9c 8h
+Checks: Woebem
+Checks: So
+Turn: Kd
+Checks: Woebem
+Checks: So
+River: 7s
+Checks: Woebem
+Checks: So
+Pot size: 20
+Showdown Reached
+Shows: So, 7c 8s
+Combination: So, Two Pair ( 8s 8h 7c 7s Kd )
+Shows: Woebem, Qh As
+Combination: Woebem, High Card ( As Kd Qh Tc 9c )
+Wins: So, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: Kh 4s Jc
+Checks: Woebem
+Checks: So
+Turn: 6s
+Checks: Woebem
+Checks: So
+River: Qh
+Checks: Woebem
+Checks: So
+Pot size: 20
+Showdown Reached
+Shows: So, Th 7h
+Combination: So, High Card ( Kh Qh Jc Th 7h )
+Shows: Woebem, Qd 8s
+Combination: Woebem, Pair ( Qd Qh Kh Jc 8s )
+Wins: Woebem, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: 8h 4h Kh
+Checks: Woebem
+Checks: So
+Turn: 6d
+Checks: Woebem
+Checks: So
+River: Qc
+Checks: Woebem
+Checks: So
+Pot size: 20
+Showdown Reached
+Shows: So, Ac Tc
+Combination: So, High Card ( Ac Kh Qc Tc 8h )
+Shows: Woebem, 8s 4s
+Combination: Woebem, Two Pair ( 8s 8h 4s 4h Kh )
+Wins: Woebem, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: As 9s 7d
+Checks: Woebem
+Checks: So
+Turn: Qd
+Checks: Woebem
+Checks: So
+River: Jc
+Checks: Woebem
+Checks: So
+Pot size: 20
+Showdown Reached
+Shows: So, 5s 7s
+Combination: So, Pair ( 7s 7d As Qd Jc )
+Shows: Woebem, 8s Ts
+Combination: Woebem, Straight ( Qd Jc Ts 9s 8s )
+Wins: Woebem, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: 4d 6c Ts
+Checks: Woebem
+Checks: So
+Turn: Qc
+Checks: Woebem
+Raises: So, chips: 10
+Folds: Woebem
+Pot size: 30
+Wins: So, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: 7d 6s 4s
+Checks: Woebem
+Raises: So, chips: 10
+Folds: Woebem
+Pot size: 30
+Wins: So, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: Jd 6c Jh
+Checks: Woebem
+Checks: So
+Turn: 7h
+Checks: Woebem
+Checks: So
+River: 9d
+Checks: Woebem
+Raises: So, chips: 10
+Folds: Woebem
+Pot size: 30
+Wins: So, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: Tc 8d 4c
+Checks: Woebem
+Checks: So
+Turn: Ks
+Checks: Woebem
+Checks: So
+River: 9d
+Checks: Woebem
+Raises: So, chips: 10
+Folds: Woebem
+Pot size: 30
+Wins: So, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: 9s 3c 3s
+Checks: Woebem
+Raises: So, chips: 10
+Folds: Woebem
+Pot size: 30
+Wins: So, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: 5c 8s Kh
+Checks: Woebem
+Checks: So
+Turn: 7c
+Checks: Woebem
+Checks: So
+River: 4d
+Checks: Woebem
+Checks: So
+Pot size: 20
+Showdown Reached
+Shows: So, 7h Ah
+Combination: So, Pair ( 7h 7c Ah Kh 8s )
+Shows: Woebem, Qc 7s
+Combination: Woebem, Pair ( 7s 7c Kh Qc 8s )
+Wins: So, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: 6d Tc Ad
+Checks: Woebem
+Checks: So
+Turn: Th
+Checks: Woebem
+Checks: So
+River: 4h
+Checks: Woebem
+Checks: So
+Pot size: 20
+Showdown Reached
+Shows: So, 8s Js
+Combination: So, Pair ( Tc Th Ad Js 8s )
+Shows: Woebem, 2c 9d
+Combination: Woebem, Pair ( Tc Th Ad 9d 6d )
+Wins: So, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: 3d Kc 8s
+Checks: Woebem
+Checks: So
+Turn: Qs
+Checks: Woebem
+Checks: So
+River: 6d
+Checks: Woebem
+Checks: So
+Pot size: 20
+Showdown Reached
+Shows: So, Ts 9d
+Combination: So, High Card ( Kc Qs Ts 9d 8s )
+Shows: Woebem, Qc Tc
+Combination: Woebem, Pair ( Qc Qs Kc Tc 8s )
+Wins: Woebem, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: Ad Tc 7s
+Checks: Woebem
+Raises: So, chips: 10
+Folds: Woebem
+Pot size: 30
+Wins: So, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: 7s 4d Th
+Checks: Woebem
+Raises: So, chips: 10
+Folds: Woebem
+Pot size: 30
+Wins: So, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: Js Qh Kd
+Checks: Woebem
+Checks: So
+Turn: 3s
+Checks: Woebem
+Raises: So, chips: 10
+Folds: Woebem
+Pot size: 30
+Wins: So, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: 2h Ts Jc
+Checks: Woebem
+Raises: So, chips: 10
+Folds: Woebem
+Pot size: 30
+Wins: So, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: Ah Th Qs
+Checks: Woebem
+Checks: So
+Turn: 4h
+Checks: Woebem
+Checks: So
+River: 7h
+Checks: Woebem
+Checks: So
+Pot size: 20
+Showdown Reached
+Shows: So, Jd Js
+Combination: So, Pair ( Jd Js Ah Qs Th )
+Shows: Woebem, 5d Jh
+Combination: Woebem, Flush ( Ah Jh Th 7h 4h )
+Wins: Woebem, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: Ac 3h 9h
+Checks: Woebem
+Raises: So, chips: 10
+Folds: Woebem
+Pot size: 30
+Wins: So, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: 7d 5h Jc
+Checks: Woebem
+Checks: So
+Turn: Jd
+Checks: Woebem
+Raises: So, chips: 10
+Folds: Woebem
+Pot size: 30
+Wins: So, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: Jh 3c 9c
+Checks: Woebem
+Checks: So
+Turn: 9s
+Checks: Woebem
+Checks: So
+River: Kc
+Checks: Woebem
+Checks: So
+Pot size: 20
+Showdown Reached
+Shows: So, Qd 8d
+Combination: So, Pair ( 9c 9s Kc Qd Jh )
+Shows: Woebem, 4h 7s
+Combination: Woebem, Pair ( 9c 9s Kc Jh 7s )
+Wins: So, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: 8h Qh 2h
+Checks: Woebem
+Checks: So
+Turn: 2c
+Checks: Woebem
+Checks: So
+River: 8d
+Checks: Woebem
+Checks: So
+Pot size: 20
+Showdown Reached
+Shows: So, 9h Jd
+Combination: So, Two Pair ( 8h 8d 2h 2c Qh )
+Shows: Woebem, 5d Ad
+Combination: Woebem, Two Pair ( 8h 8d 2h 2c Ad )
+Wins: Woebem, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: 8h Qs Qh
+Checks: Woebem
+Checks: So
+Turn: 3h
+Checks: Woebem
+Checks: So
+River: 9c
+Checks: Woebem
+Raises: So, chips: 10
+Folds: Woebem
+Pot size: 30
+Wins: So, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: As Ah 7s
+Checks: Woebem
+Checks: So
+Turn: Th
+Checks: Woebem
+Checks: So
+River: 7c
+Checks: Woebem
+Checks: So
+Pot size: 20
+Showdown Reached
+Shows: So, 9s Qc
+Combination: So, Two Pair ( As Ah 7s 7c Qc )
+Shows: Woebem, Qh 2s
+Combination: Woebem, Two Pair ( As Ah 7s 7c Qh )
+Wins: So, chips: 10
+Wins: Woebem, chips: 10
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: 7h Td Ts
+Checks: Woebem
+Raises: So, chips: 10
+Folds: Woebem
+Pot size: 30
+Wins: So, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: 5c Jc 2d
+Checks: Woebem
+Checks: So
+Turn: Ad
+Checks: Woebem
+Checks: So
+River: 9h
+Checks: Woebem
+Checks: So
+Pot size: 20
+Showdown Reached
+Shows: So, 8h Td
+Combination: So, High Card ( Ad Jc Td 9h 8h )
+Shows: Woebem, 5d Ks
+Combination: Woebem, Pair ( 5d 5c Ad Ks Jc )
+Wins: Woebem, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Raises: So, chips: 15
+Folds: Woebem
+Pot size: 35
+Wins: So, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Raises: So, chips: 15
+Folds: Woebem
+Pot size: 35
+Wins: So, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: 4d 3d Qc
+Checks: Woebem
+Checks: So
+Turn: 4s
+Checks: Woebem
+Checks: So
+River: 2d
+Checks: Woebem
+Checks: So
+Pot size: 20
+Showdown Reached
+Shows: So, 9h Ac
+Combination: So, Pair ( 4d 4s Ac Qc 9h )
+Shows: Woebem, 5d 9s
+Combination: Woebem, Pair ( 4d 4s Qc 9s 5d )
+Wins: So, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: 9h 3s 9s
+Checks: Woebem
+Raises: So, chips: 10
+Folds: Woebem
+Pot size: 30
+Wins: So, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: 6s 6c Tc
+Checks: Woebem
+Checks: So
+Turn: 2d
+Checks: Woebem
+Checks: So
+River: Ad
+Checks: Woebem
+Raises: So, chips: 6935
+Folds: Woebem
+Pot size: 6955
+Wins: So, chips: 6955
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: Jc Kc Qd
+Checks: Woebem
+Checks: So
+Turn: 8d
+Checks: Woebem
+Checks: So
+River: 6s
+Checks: Woebem
+Checks: So
+Pot size: 20
+Showdown Reached
+Shows: So, 9d Qs
+Combination: So, Pair ( Qs Qd Kc Jc 9d )
+Shows: Woebem, 2d Kd
+Combination: Woebem, Pair ( Kd Kc Qd Jc 8d )
+Wins: Woebem, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: Ts Ad Td
+Checks: Woebem
+Checks: So
+Turn: 7c
+Checks: Woebem
+Checks: So
+River: 5s
+Checks: Woebem
+Checks: So
+Pot size: 20
+Showdown Reached
+Shows: So, Qd Jd
+Combination: So, Pair ( Ts Td Ad Qd Jd )
+Shows: Woebem, 8c 8s
+Combination: Woebem, Two Pair ( Ts Td 8c 8s Ad )
+Wins: Woebem, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: 7s 5d Qh
+Checks: Woebem
+Checks: So
+Turn: 2s
+Checks: Woebem
+Checks: So
+River: 4h
+Checks: Woebem
+Raises: So, chips: 10
+Folds: Woebem
+Pot size: 30
+Wins: So, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Folds: So
+Pot size: 15
+Wins: Woebem, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: Qs Qd 8h
+Checks: Woebem
+Raises: So, chips: 10
+Folds: Woebem
+Pot size: 30
+Wins: So, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 10
+Calls: So
+Checks: Woebem
+Flop: 3d 7d 2d
+Checks: Woebem
+Checks: So
+Turn: 5d
+Checks: Woebem
+Raises: So, chips: 10
+Folds: Woebem
+Pot size: 30
+Wins: So, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Woebem
+Small Blind: Woebem, chips: 5
+Big Blind: So, chips: 10
+Folds: Woebem
+Pot size: 15
+Wins: So, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: So
+Small Blind: So, chips: 5
+Big Blind: Woebem, chips: 5
+Flop: Qd Jh Jc
+Turn: 6d
+River: 5d
+Pot size: 10
+Showdown Reached
+Shows: So, 2s Js
+Combination: So, Three Of A Kind ( Js Jh Jc Qd 6d )
+Shows: Woebem, 2d Ah
+Combination: Woebem, Pair ( Jh Jc Ah Qd 6d )
+Wins: So, chips: 10
+Quits: Woebem, chips: 0
+Ranking: So, Place: 1, Score: 6000
+Reveal AI: So, AI: Smart
+Ranking: Woebem, Place: 2, Score: -1000
+Reveal AI: Woebem, AI: AIMyBot1
+Ranking: Geebohof, Place: 3, Score: -1000
+Reveal AI: Geebohof, AI: Random
+Ranking: Roerip, Place: 4, Score: -1000
+Reveal AI: Roerip, AI: Smart
+Ranking: Hofa, Place: 5, Score: -1000
+Reveal AI: Hofa, AI: Random
+Ranking: Deri, Place: 6, Score: -1000
+Reveal AI: Deri, AI: Call
+Ranking: Dinhitta, Place: 7, Score: -1000
+Reveal AI: Dinhitta, AI: Call
+
+Player Stats for Deri, AI: Call
+General: deals: 1, actions: 5, preflop actions: 1
+Rounds Seen: flops: 116, turns: 88, rivers: 74, showdowns: 64
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 5
+Pre-Flop Stats: VP$IP: 1, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: 0, WSD: 0.551724, WSDW: 0
+
+
+Player Stats for Dinhitta, AI: Call
+General: deals: 1, actions: 4, preflop actions: 1
+Rounds Seen: flops: 116, turns: 88, rivers: 74, showdowns: 64
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 0
+Pre-Flop Stats: VP$IP: 1, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: 0, WSD: 0.551724, WSDW: 0
+
+
+Player Stats for Geebohof, AI: Random
+General: deals: 53, actions: 125, preflop actions: 48
+Rounds Seen: flops: 115, turns: 87, rivers: 74, showdowns: 64
+Wins: total: 29, showdown: 9, bluff: 20
+Chips: won: 10060, lost: 13347, bought: 1000, forced bets: 230
+Pre-Flop Stats: VP$IP: 0.54717, PFR: 0.169811, 3Bet: 0.169811
+Post-Flop Stats: AF: 4, WSD: 0.556522, WSDW: 0.140625
+
+
+Player Stats for Hofa, AI: Random
+General: deals: 1, actions: 4, preflop actions: 1
+Rounds Seen: flops: 116, turns: 88, rivers: 74, showdowns: 64
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 0
+Pre-Flop Stats: VP$IP: 1, PFR: 1, 3Bet: 1
+Post-Flop Stats: AF: 1.#INF, WSD: 0.551724, WSDW: 0
+
+
+Player Stats for Roerip, AI: Smart
+General: deals: 18, actions: 35, preflop actions: 19
+Rounds Seen: flops: 112, turns: 84, rivers: 71, showdowns: 60
+Wins: total: 3, showdown: 0, bluff: 3
+Chips: won: 1130, lost: 2130, bought: 1000, forced bets: 65
+Pre-Flop Stats: VP$IP: 0.333333, PFR: 0.111111, 3Bet: 0.111111
+Post-Flop Stats: AF: 1.#INF, WSD: 0.535714, WSDW: 0
+
+
+Player Stats for So, AI: Smart
+General: deals: 429, actions: 497, preflop actions: 240
+Rounds Seen: flops: 107, turns: 81, rivers: 68, showdowns: 59
+Wins: total: 274, showdown: 27, bluff: 247
+Chips: won: 62729, lost: 56729, bought: 1000, forced bets: 3065
+Pre-Flop Stats: VP$IP: 0.263403, PFR: 0.034965, 3Bet: 0.034965
+Post-Flop Stats: AF: 10.2, WSD: 0.551402, WSDW: 0.457627
+
+
+Player Stats for Woebem, AI: AIMyBot1
+General: deals: 429, actions: 589, preflop actions: 333
+Rounds Seen: flops: 93, turns: 69, rivers: 57, showdowns: 48
+Wins: total: 127, showdown: 32, bluff: 95
+Chips: won: 2065, lost: 3065, bought: 1000, forced bets: 3065
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 0.516129, WSDW: 0.666667
+
+

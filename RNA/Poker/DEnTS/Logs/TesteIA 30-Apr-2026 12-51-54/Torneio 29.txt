@@ -1,0 +1,3168 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Churlitet: Random
+Choepu: Smart
+Ginheedi: AIMyBot1
+Gifoedeet: Call
+Tusewrop: Call
+Sunhe: Smart
+Peegoema: Random
+
+Joins: Churlitet, chips: 1000
+Joins: Choepu, chips: 1000
+Joins: Ginheedi, chips: 1000
+Joins: Gifoedeet, chips: 1000
+Joins: Tusewrop, chips: 1000
+Joins: Sunhe, chips: 1000
+Joins: Peegoema, chips: 1000
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Peegoema
+Small Blind: Churlitet, chips: 5
+Big Blind: Choepu, chips: 10
+Raises: Ginheedi, chips: 40
+Calls: Gifoedeet
+Calls: Tusewrop
+Folds: Sunhe
+Raises: Peegoema, chips: 950
+Folds: Churlitet
+Folds: Choepu
+Calls: Ginheedi
+Calls: Gifoedeet
+Calls: Tusewrop
+Flop: Ks Ad Tc
+Turn: Qc
+River: Kh
+Pot size: 4015
+Showdown Reached
+Boasts: Churlitet, Qs 3c
+Shows: Ginheedi, Jc 8c
+Combination: Ginheedi, Straight ( Ad Ks Qc Jc Tc )
+Shows: Gifoedeet, Ah 9s
+Combination: Gifoedeet, Two Pair ( Ah Ad Ks Kh Qc )
+Shows: Tusewrop, Jd 4d
+Combination: Tusewrop, Straight ( Ad Ks Qc Jd Tc )
+Shows: Peegoema, 2h Ts
+Combination: Peegoema, Two Pair ( Ks Kh Ts Tc Ad )
+Wins: Ginheedi, chips: 2008
+Wins: Tusewrop, chips: 2007
+Quits: Gifoedeet, chips: 0
+Quits: Peegoema, chips: 0
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Churlitet
+Small Blind: Choepu, chips: 5
+Big Blind: Ginheedi, chips: 10
+Calls: Tusewrop
+Calls: Sunhe
+Calls: Churlitet
+Calls: Choepu
+Raises: Ginheedi, chips: 20
+Calls: Tusewrop
+Folds: Sunhe
+Folds: Churlitet
+Folds: Choepu
+Flop: Ad 2d Jc
+Raises: Ginheedi, chips: 40
+Calls: Tusewrop
+Turn: 9h
+Raises: Ginheedi, chips: 80
+Calls: Tusewrop
+River: Ks
+Raises: Ginheedi, chips: 160
+Calls: Tusewrop
+Pot size: 650
+Showdown Reached
+Boasts: Churlitet, 2h 5d
+Shows: Ginheedi, 3d 9d
+Combination: Ginheedi, Pair ( 9d 9h Ad Ks Jc )
+Shows: Tusewrop, 3c Jh
+Combination: Tusewrop, Pair ( Jh Jc Ad Ks 9h )
+Wins: Tusewrop, chips: 650
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Choepu
+Small Blind: Ginheedi, chips: 5
+Big Blind: Tusewrop, chips: 10
+Folds: Sunhe
+Folds: Churlitet
+Folds: Choepu
+Raises: Ginheedi, chips: 30
+Calls: Tusewrop
+Flop: 6d 7h 9h
+Raises: Ginheedi, chips: 60
+Calls: Tusewrop
+Turn: Qc
+Raises: Ginheedi, chips: 120
+Calls: Tusewrop
+River: 6s
+Raises: Ginheedi, chips: 240
+Calls: Tusewrop
+Pot size: 920
+Showdown Reached
+Boasts: Churlitet, Ah Tc
+Shows: Ginheedi, Js 9d
+Combination: Ginheedi, Two Pair ( 9d 9h 6d 6s Qc )
+Shows: Tusewrop, Td 8d
+Combination: Tusewrop, Straight ( Td 9h 8d 7h 6d )
+Wins: Tusewrop, chips: 920
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ginheedi
+Small Blind: Tusewrop, chips: 5
+Big Blind: Sunhe, chips: 10
+Calls: Churlitet
+Folds: Choepu
+Raises: Ginheedi, chips: 40
+Calls: Tusewrop
+Folds: Sunhe
+Calls: Churlitet
+Flop: 3h 6c 5h
+Checks: Tusewrop
+Checks: Churlitet
+Raises: Ginheedi, chips: 80
+Calls: Tusewrop
+Calls: Churlitet
+Turn: 6d
+Checks: Tusewrop
+Checks: Churlitet
+Raises: Ginheedi, chips: 160
+Calls: Tusewrop
+Raises: Churlitet, chips: 320
+Raises: Ginheedi, chips: 628
+Calls: Tusewrop
+Calls: Churlitet
+River: 5d
+Pot size: 3471
+Showdown Reached
+Shows: Churlitet, Tc Qc
+Combination: Churlitet, Two Pair ( 6c 6d 5h 5d Qc )
+Shows: Ginheedi, Ac 2d
+Combination: Ginheedi, Two Pair ( 6c 6d 5h 5d Ac )
+Shows: Tusewrop, 4c 9c
+Combination: Tusewrop, Two Pair ( 6c 6d 5h 5d 9c )
+Wins: Ginheedi, chips: 3471
+Quits: Churlitet, chips: 0
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Tusewrop
+Small Blind: Sunhe, chips: 5
+Big Blind: Choepu, chips: 10
+Raises: Ginheedi, chips: 40
+Calls: Tusewrop
+Folds: Sunhe
+Folds: Choepu
+Flop: Th Ac As
+Raises: Ginheedi, chips: 80
+Calls: Tusewrop
+Turn: 2d
+Raises: Ginheedi, chips: 160
+Calls: Tusewrop
+River: 7h
+Raises: Ginheedi, chips: 320
+Calls: Tusewrop
+Pot size: 1235
+Showdown Reached
+Shows: Ginheedi, 6c 3c
+Combination: Ginheedi, Pair ( Ac As Th 7h 6c )
+Shows: Tusewrop, 4s 6h
+Combination: Tusewrop, Pair ( Ac As Th 7h 6h )
+Wins: Ginheedi, chips: 618
+Wins: Tusewrop, chips: 617
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sunhe
+Small Blind: Choepu, chips: 5
+Big Blind: Ginheedi, chips: 10
+Calls: Tusewrop
+Folds: Sunhe
+Calls: Choepu
+Raises: Ginheedi, chips: 20
+Calls: Tusewrop
+Folds: Choepu
+Flop: Jd Jc 7d
+Raises: Ginheedi, chips: 40
+Calls: Tusewrop
+Turn: 8c
+Raises: Ginheedi, chips: 80
+Calls: Tusewrop
+River: Qd
+Raises: Ginheedi, chips: 160
+Calls: Tusewrop
+Pot size: 630
+Showdown Reached
+Shows: Ginheedi, Kh As
+Combination: Ginheedi, Pair ( Jd Jc As Kh Qd )
+Shows: Tusewrop, 4d 7h
+Combination: Tusewrop, Two Pair ( Jd Jc 7h 7d Qd )
+Wins: Tusewrop, chips: 630
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Choepu
+Small Blind: Ginheedi, chips: 5
+Big Blind: Tusewrop, chips: 10
+Folds: Sunhe
+Folds: Choepu
+Raises: Ginheedi, chips: 30
+Calls: Tusewrop
+Flop: 9h 2c 7h
+Raises: Ginheedi, chips: 60
+Calls: Tusewrop
+Turn: Ts
+Raises: Ginheedi, chips: 120
+Calls: Tusewrop
+River: Js
+Raises: Ginheedi, chips: 240
+Calls: Tusewrop
+Pot size: 920
+Showdown Reached
+Shows: Ginheedi, Ah 6d
+Combination: Ginheedi, High Card ( Ah Js Ts 9h 7h )
+Shows: Tusewrop, Ac 9c
+Combination: Tusewrop, Pair ( 9c 9h Ac Js Ts )
+Wins: Tusewrop, chips: 920
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ginheedi
+Small Blind: Tusewrop, chips: 5
+Big Blind: Sunhe, chips: 10
+Folds: Choepu
+Raises: Ginheedi, chips: 40
+Calls: Tusewrop
+Folds: Sunhe
+Flop: Th Ts 7c
+Checks: Tusewrop
+Raises: Ginheedi, chips: 80
+Calls: Tusewrop
+Turn: 8h
+Checks: Tusewrop
+Raises: Ginheedi, chips: 160
+Calls: Tusewrop
+River: Jh
+Checks: Tusewrop
+Raises: Ginheedi, chips: 320
+Calls: Tusewrop
+Pot size: 1230
+Showdown Reached
+Shows: Ginheedi, Js 5c
+Combination: Ginheedi, Two Pair ( Js Jh Th Ts 8h )
+Shows: Tusewrop, 2h 5h
+Combination: Tusewrop, Flush ( Jh Th 8h 5h 2h )
+Wins: Tusewrop, chips: 1230
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Tusewrop
+Small Blind: Sunhe, chips: 5
+Big Blind: Choepu, chips: 10
+Raises: Ginheedi, chips: 40
+Calls: Tusewrop
+Folds: Sunhe
+Folds: Choepu
+Flop: Js 3c 6d
+Raises: Ginheedi, chips: 80
+Calls: Tusewrop
+Turn: 4c
+Raises: Ginheedi, chips: 160
+Calls: Tusewrop
+River: 8h
+Raises: Ginheedi, chips: 320
+Calls: Tusewrop
+Pot size: 1235
+Showdown Reached
+Shows: Ginheedi, Qs Th
+Combination: Ginheedi, High Card ( Qs Js Th 8h 6d )
+Shows: Tusewrop, 2s 9h
+Combination: Tusewrop, High Card ( Js 9h 8h 6d 4c )
+Wins: Ginheedi, chips: 1235
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sunhe
+Small Blind: Choepu, chips: 5
+Big Blind: Ginheedi, chips: 10
+Calls: Tusewrop
+Folds: Sunhe
+Folds: Choepu
+Raises: Ginheedi, chips: 20
+Calls: Tusewrop
+Flop: Kd Jc 5c
+Raises: Ginheedi, chips: 40
+Calls: Tusewrop
+Turn: Qc
+Raises: Ginheedi, chips: 80
+Calls: Tusewrop
+River: Qd
+Raises: Ginheedi, chips: 160
+Calls: Tusewrop
+Pot size: 625
+Showdown Reached
+Shows: Ginheedi, 2c Jh
+Combination: Ginheedi, Two Pair ( Qc Qd Jh Jc Kd )
+Shows: Tusewrop, 5h 2s
+Combination: Tusewrop, Two Pair ( Qc Qd 5h 5c Kd )
+Wins: Ginheedi, chips: 625
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Choepu
+Small Blind: Ginheedi, chips: 5
+Big Blind: Tusewrop, chips: 10
+Folds: Sunhe
+Calls: Choepu
+Raises: Ginheedi, chips: 30
+Calls: Tusewrop
+Folds: Choepu
+Flop: 7h Tc 6c
+Raises: Ginheedi, chips: 60
+Calls: Tusewrop
+Turn: 3d
+Raises: Ginheedi, chips: 120
+Calls: Tusewrop
+River: 2d
+Raises: Ginheedi, chips: 240
+Calls: Tusewrop
+Pot size: 930
+Showdown Reached
+Shows: Ginheedi, Ad 5c
+Combination: Ginheedi, High Card ( Ad Tc 7h 6c 5c )
+Shows: Tusewrop, Qd Th
+Combination: Tusewrop, Pair ( Th Tc Qd 7h 6c )
+Wins: Tusewrop, chips: 930
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ginheedi
+Small Blind: Tusewrop, chips: 5
+Big Blind: Sunhe, chips: 10
+Calls: Choepu
+Raises: Ginheedi, chips: 40
+Calls: Tusewrop
+Folds: Sunhe
+Raises: Choepu, chips: 80
+Raises: Ginheedi, chips: 320
+Calls: Tusewrop
+Calls: Choepu
+Flop: 9h Jh Ah
+Checks: Tusewrop
+Checks: Choepu
+Raises: Ginheedi, chips: 640
+Calls: Tusewrop
+Folds: Choepu
+Turn: Ks
+Checks: Tusewrop
+Raises: Ginheedi, chips: 1280
+Calls: Tusewrop
+River: 2s
+Checks: Tusewrop
+Raises: Ginheedi, chips: 209
+Calls: Tusewrop
+Pot size: 5565
+Showdown Reached
+Shows: Ginheedi, 9d Jd
+Combination: Ginheedi, Two Pair ( Jd Jh 9d 9h Ah )
+Shows: Tusewrop, Th 6d
+Combination: Tusewrop, High Card ( Ah Ks Jh Th 9h )
+Wins: Ginheedi, chips: 5565
+Quits: Tusewrop, chips: 0
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sunhe
+Small Blind: Choepu, chips: 5
+Big Blind: Ginheedi, chips: 10
+Calls: Sunhe
+Folds: Choepu
+Raises: Ginheedi, chips: 20
+Folds: Sunhe
+Pot size: 45
+Wins: Ginheedi, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Choepu
+Small Blind: Ginheedi, chips: 5
+Big Blind: Sunhe, chips: 10
+Calls: Choepu
+Raises: Ginheedi, chips: 30
+Calls: Sunhe
+Calls: Choepu
+Flop: Ah 7s As
+Raises: Ginheedi, chips: 60
+Raises: Sunhe, chips: 130
+Folds: Choepu
+Raises: Ginheedi, chips: 520
+Raises: Sunhe, chips: 190
+Raises: Ginheedi, chips: 1420
+Turn: Kh
+River: Qd
+Pot size: 3340
+Showdown Reached
+Shows: Ginheedi, Ad 9d
+Combination: Ginheedi, Three Of A Kind ( Ad Ah As Kh Qd )
+Shows: Sunhe, Td Ac
+Combination: Sunhe, Three Of A Kind ( Ac Ah As Kh Qd )
+Wins: Ginheedi, chips: 2380
+Wins: Sunhe, chips: 960
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ginheedi
+Small Blind: Sunhe, chips: 5
+Big Blind: Choepu, chips: 10
+Raises: Ginheedi, chips: 40
+Folds: Sunhe
+Folds: Choepu
+Pot size: 65
+Wins: Ginheedi, chips: 65
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sunhe
+Small Blind: Choepu, chips: 5
+Big Blind: Ginheedi, chips: 10
+Folds: Sunhe
+Folds: Choepu
+Pot size: 15
+Wins: Ginheedi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Choepu
+Small Blind: Ginheedi, chips: 5
+Big Blind: Sunhe, chips: 10
+Calls: Choepu
+Raises: Ginheedi, chips: 30
+Folds: Sunhe
+Raises: Choepu, chips: 60
+Raises: Ginheedi, chips: 240
+Raises: Choepu, chips: 85
+Raises: Ginheedi, chips: 650
+Flop: Jd 7h Js
+Turn: 3c
+River: 6h
+Pot size: 1510
+Showdown Reached
+Shows: Choepu, Ah As
+Combination: Choepu, Two Pair ( Ah As Jd Js 7h )
+Shows: Ginheedi, Ks 7s
+Combination: Ginheedi, Two Pair ( Jd Js 7s 7h Ks )
+Wins: Choepu, chips: 860
+Wins: Ginheedi, chips: 650
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ginheedi
+Small Blind: Sunhe, chips: 5
+Big Blind: Choepu, chips: 10
+Raises: Ginheedi, chips: 40
+Folds: Sunhe
+Raises: Choepu, chips: 80
+Raises: Ginheedi, chips: 320
+Raises: Choepu, chips: 410
+Raises: Ginheedi, chips: 1460
+Flop: Kh Th 9d
+Turn: Td
+River: 5d
+Pot size: 3185
+Showdown Reached
+Shows: Choepu, Jc 9c
+Combination: Choepu, Two Pair ( Th Td 9c 9d Kh )
+Shows: Ginheedi, 6d 4s
+Combination: Ginheedi, Pair ( Th Td Kh 9d 6d )
+Wins: Choepu, chips: 1725
+Wins: Ginheedi, chips: 1460
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sunhe
+Small Blind: Choepu, chips: 5
+Big Blind: Ginheedi, chips: 10
+Calls: Sunhe
+Folds: Choepu
+Raises: Ginheedi, chips: 20
+Folds: Sunhe
+Pot size: 45
+Wins: Ginheedi, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Choepu
+Small Blind: Ginheedi, chips: 5
+Big Blind: Sunhe, chips: 10
+Folds: Choepu
+Raises: Ginheedi, chips: 30
+Folds: Sunhe
+Pot size: 50
+Wins: Ginheedi, chips: 50
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ginheedi
+Small Blind: Sunhe, chips: 5
+Big Blind: Choepu, chips: 10
+Raises: Ginheedi, chips: 40
+Folds: Sunhe
+Raises: Choepu, chips: 1670
+Raises: Ginheedi, chips: 2640
+Flop: Qs 8h As
+Turn: 9d
+River: 8d
+Pot size: 6085
+Showdown Reached
+Shows: Choepu, 8c 9c
+Combination: Choepu, Full House ( 8c 8h 8d 9c 9d )
+Shows: Ginheedi, 2s Qd
+Combination: Ginheedi, Two Pair ( Qd Qs 8h 8d As )
+Wins: Choepu, chips: 3445
+Wins: Ginheedi, chips: 2640
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sunhe
+Small Blind: Choepu, chips: 5
+Big Blind: Ginheedi, chips: 10
+Folds: Sunhe
+Folds: Choepu
+Pot size: 15
+Wins: Ginheedi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Choepu
+Small Blind: Ginheedi, chips: 5
+Big Blind: Sunhe, chips: 10
+Calls: Choepu
+Raises: Ginheedi, chips: 30
+Folds: Sunhe
+Folds: Choepu
+Pot size: 60
+Wins: Ginheedi, chips: 60
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ginheedi
+Small Blind: Sunhe, chips: 5
+Big Blind: Choepu, chips: 10
+Raises: Ginheedi, chips: 40
+Folds: Sunhe
+Folds: Choepu
+Pot size: 65
+Wins: Ginheedi, chips: 65
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sunhe
+Small Blind: Choepu, chips: 5
+Big Blind: Ginheedi, chips: 10
+Folds: Sunhe
+Folds: Choepu
+Pot size: 15
+Wins: Ginheedi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Choepu
+Small Blind: Ginheedi, chips: 5
+Big Blind: Sunhe, chips: 10
+Calls: Choepu
+Raises: Ginheedi, chips: 30
+Folds: Sunhe
+Calls: Choepu
+Flop: 5d 2c 3h
+Raises: Ginheedi, chips: 60
+Raises: Choepu, chips: 100
+Raises: Ginheedi, chips: 400
+Calls: Choepu
+Turn: 3s
+Raises: Ginheedi, chips: 800
+Calls: Choepu
+River: Ks
+Raises: Ginheedi, chips: 1285
+Calls: Choepu
+Pot size: 5380
+Showdown Reached
+Shows: Choepu, Ad 4d
+Combination: Choepu, Straight ( 5d 4d 3h 2c Ad )
+Shows: Ginheedi, 4s Qs
+Combination: Ginheedi, Pair ( 3h 3s Ks Qs 5d )
+Wins: Choepu, chips: 5380
+Quits: Ginheedi, chips: 0
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sunhe
+Small Blind: Sunhe, chips: 5
+Big Blind: Choepu, chips: 10
+Folds: Sunhe
+Pot size: 15
+Wins: Choepu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Choepu
+Small Blind: Choepu, chips: 5
+Big Blind: Sunhe, chips: 10
+Calls: Choepu
+Checks: Sunhe
+Flop: Ac 8c 6c
+Raises: Sunhe, chips: 10
+Calls: Choepu
+Turn: 2s
+Checks: Sunhe
+Checks: Choepu
+River: 5s
+Checks: Sunhe
+Checks: Choepu
+Pot size: 40
+Showdown Reached
+Shows: Choepu, 6d 9d
+Combination: Choepu, Pair ( 6d 6c Ac 9d 8c )
+Shows: Sunhe, 9c Kc
+Combination: Sunhe, Flush ( Ac Kc 9c 8c 6c )
+Wins: Sunhe, chips: 40
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sunhe
+Small Blind: Sunhe, chips: 5
+Big Blind: Choepu, chips: 10
+Calls: Sunhe
+Checks: Choepu
+Flop: Jh 2c 4s
+Checks: Choepu
+Checks: Sunhe
+Turn: Kd
+Checks: Choepu
+Checks: Sunhe
+River: 8h
+Checks: Choepu
+Checks: Sunhe
+Pot size: 20
+Showdown Reached
+Shows: Choepu, 9c Qs
+Combination: Choepu, High Card ( Kd Qs Jh 9c 8h )
+Shows: Sunhe, 9d Ac
+Combination: Sunhe, High Card ( Ac Kd Jh 9d 8h )
+Wins: Sunhe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Choepu
+Small Blind: Choepu, chips: 5
+Big Blind: Sunhe, chips: 10
+Folds: Choepu
+Pot size: 15
+Wins: Sunhe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sunhe
+Small Blind: Sunhe, chips: 5
+Big Blind: Choepu, chips: 10
+Folds: Sunhe
+Pot size: 15
+Wins: Choepu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Choepu
+Small Blind: Choepu, chips: 5
+Big Blind: Sunhe, chips: 10
+Calls: Choepu
+Checks: Sunhe
+Flop: 2c 7c Jd
+Checks: Sunhe
+Checks: Choepu
+Turn: Qd
+Checks: Sunhe
+Checks: Choepu
+River: 7h
+Checks: Sunhe
+Checks: Choepu
+Pot size: 20
+Showdown Reached
+Shows: Choepu, Kd 9s
+Combination: Choepu, Pair ( 7c 7h Kd Qd Jd )
+Shows: Sunhe, 6h As
+Combination: Sunhe, Pair ( 7c 7h As Qd Jd )
+Wins: Sunhe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sunhe
+Small Blind: Sunhe, chips: 5
+Big Blind: Choepu, chips: 10
+Folds: Sunhe
+Pot size: 15
+Wins: Choepu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Choepu
+Small Blind: Choepu, chips: 5
+Big Blind: Sunhe, chips: 10
+Folds: Choepu
+Pot size: 15
+Wins: Sunhe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sunhe
+Small Blind: Sunhe, chips: 5
+Big Blind: Choepu, chips: 10
+Calls: Sunhe
+Checks: Choepu
+Flop: 6d Jd 3d
+Checks: Choepu
+Checks: Sunhe
+Turn: 7s
+Raises: Choepu, chips: 10
+Calls: Sunhe
+River: 8h
+Checks: Choepu
+Checks: Sunhe
+Pot size: 40
+Showdown Reached
+Shows: Choepu, 6s 5d
+Combination: Choepu, Pair ( 6s 6d Jd 8h 7s )
+Shows: Sunhe, 9d As
+Combination: Sunhe, High Card ( As Jd 9d 8h 7s )
+Wins: Choepu, chips: 40
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Choepu
+Small Blind: Choepu, chips: 5
+Big Blind: Sunhe, chips: 10
+Calls: Choepu
+Checks: Sunhe
+Flop: Js Tc Jd
+Raises: Sunhe, chips: 895
+Folds: Choepu
+Pot size: 915
+Wins: Sunhe, chips: 915
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sunhe
+Small Blind: Sunhe, chips: 5
+Big Blind: Choepu, chips: 10
+Folds: Sunhe
+Pot size: 15
+Wins: Choepu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Choepu
+Small Blind: Choepu, chips: 5
+Big Blind: Sunhe, chips: 10
+Calls: Choepu
+Checks: Sunhe
+Flop: 2s Td Kh
+Checks: Sunhe
+Checks: Choepu
+Turn: Qh
+Checks: Sunhe
+Checks: Choepu
+River: Qs
+Checks: Sunhe
+Checks: Choepu
+Pot size: 20
+Showdown Reached
+Shows: Choepu, 9d Ah
+Combination: Choepu, Pair ( Qh Qs Ah Kh Td )
+Shows: Sunhe, 7d Th
+Combination: Sunhe, Two Pair ( Qh Qs Th Td Kh )
+Wins: Sunhe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sunhe
+Small Blind: Sunhe, chips: 5
+Big Blind: Choepu, chips: 10
+Folds: Sunhe
+Pot size: 15
+Wins: Choepu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Choepu
+Small Blind: Choepu, chips: 5
+Big Blind: Sunhe, chips: 10
+Calls: Choepu
+Checks: Sunhe
+Flop: Ac 8h Tc
+Raises: Sunhe, chips: 10
+Folds: Choepu
+Pot size: 30
+Wins: Sunhe, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sunhe
+Small Blind: Sunhe, chips: 5
+Big Blind: Choepu, chips: 10
+Folds: Sunhe
+Pot size: 15
+Wins: Choepu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Choepu
+Small Blind: Choepu, chips: 5
+Big Blind: Sunhe, chips: 10
+Folds: Choepu
+Pot size: 15
+Wins: Sunhe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sunhe
+Small Blind: Sunhe, chips: 5
+Big Blind: Choepu, chips: 10
+Folds: Sunhe
+Pot size: 15
+Wins: Choepu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Choepu
+Small Blind: Choepu, chips: 5
+Big Blind: Sunhe, chips: 10
+Folds: Choepu
+Pot size: 15
+Wins: Sunhe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sunhe
+Small Blind: Sunhe, chips: 5
+Big Blind: Choepu, chips: 10
+Raises: Sunhe, chips: 15
+Raises: Choepu, chips: 35
+Raises: Sunhe, chips: 865
+Folds: Choepu
+Pot size: 985
+Wins: Sunhe, chips: 985
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Choepu
+Small Blind: Choepu, chips: 5
+Big Blind: Sunhe, chips: 10
+Folds: Choepu
+Pot size: 15
+Wins: Sunhe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sunhe
+Small Blind: Sunhe, chips: 5
+Big Blind: Choepu, chips: 10
+Calls: Sunhe
+Checks: Choepu
+Flop: 3c 3h 5c
+Checks: Choepu
+Checks: Sunhe
+Turn: 9h
+Checks: Choepu
+Checks: Sunhe
+River: 3s
+Checks: Choepu
+Checks: Sunhe
+Pot size: 20
+Showdown Reached
+Shows: Choepu, Kd 5s
+Combination: Choepu, Full House ( 3c 3h 3s 5s 5c )
+Shows: Sunhe, 7h 6c
+Combination: Sunhe, Three Of A Kind ( 3c 3h 3s 9h 7h )
+Wins: Choepu, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Choepu
+Small Blind: Choepu, chips: 5
+Big Blind: Sunhe, chips: 10
+Calls: Choepu
+Checks: Sunhe
+Flop: 9c 7s 5c
+Checks: Sunhe
+Checks: Choepu
+Turn: 5h
+Checks: Sunhe
+Checks: Choepu
+River: 2d
+Checks: Sunhe
+Checks: Choepu
+Pot size: 20
+Showdown Reached
+Shows: Choepu, Qc Js
+Combination: Choepu, Pair ( 5c 5h Qc Js 9c )
+Shows: Sunhe, Jc 3s
+Combination: Sunhe, Pair ( 5c 5h Jc 9c 7s )
+Wins: Choepu, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sunhe
+Small Blind: Sunhe, chips: 5
+Big Blind: Choepu, chips: 10
+Folds: Sunhe
+Pot size: 15
+Wins: Choepu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Choepu
+Small Blind: Choepu, chips: 5
+Big Blind: Sunhe, chips: 10
+Calls: Choepu
+Checks: Sunhe
+Flop: Jh 4d 8c
+Raises: Sunhe, chips: 10
+Calls: Choepu
+Turn: 9c
+Checks: Sunhe
+Checks: Choepu
+River: 3s
+Checks: Sunhe
+Checks: Choepu
+Pot size: 40
+Showdown Reached
+Shows: Choepu, 6s 6d
+Combination: Choepu, Pair ( 6s 6d Jh 9c 8c )
+Shows: Sunhe, 4c 6h
+Combination: Sunhe, Pair ( 4c 4d Jh 9c 8c )
+Wins: Choepu, chips: 40
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sunhe
+Small Blind: Sunhe, chips: 5
+Big Blind: Choepu, chips: 10
+Folds: Sunhe
+Pot size: 15
+Wins: Choepu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Choepu
+Small Blind: Choepu, chips: 5
+Big Blind: Sunhe, chips: 10
+Folds: Choepu
+Pot size: 15
+Wins: Sunhe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sunhe
+Small Blind: Sunhe, chips: 5
+Big Blind: Choepu, chips: 10
+Folds: Sunhe
+Pot size: 15
+Wins: Choepu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Choepu
+Small Blind: Choepu, chips: 5
+Big Blind: Sunhe, chips: 10
+Calls: Choepu
+Checks: Sunhe
+Flop: Kd Ah Ad
+Checks: Sunhe
+Checks: Choepu
+Turn: Ac
+Checks: Sunhe
+Raises: Choepu, chips: 10
+Folds: Sunhe
+Pot size: 30
+Wins: Choepu, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sunhe
+Small Blind: Sunhe, chips: 5
+Big Blind: Choepu, chips: 10
+Folds: Sunhe
+Pot size: 15
+Wins: Choepu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Choepu
+Small Blind: Choepu, chips: 5
+Big Blind: Sunhe, chips: 10
+Raises: Choepu, chips: 15
+Calls: Sunhe
+Flop: 8h 7h 6c
+Checks: Sunhe
+Checks: Choepu
+Turn: 8c
+Checks: Sunhe
+Checks: Choepu
+River: Ts
+Checks: Sunhe
+Checks: Choepu
+Pot size: 50
+Showdown Reached
+Shows: Choepu, Ac Kh
+Combination: Choepu, Pair ( 8h 8c Ac Kh Ts )
+Shows: Sunhe, As 2s
+Combination: Sunhe, Pair ( 8h 8c As Ts 7h )
+Wins: Choepu, chips: 50
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sunhe
+Small Blind: Sunhe, chips: 5
+Big Blind: Choepu, chips: 10
+Folds: Sunhe
+Pot size: 15
+Wins: Choepu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Choepu
+Small Blind: Choepu, chips: 5
+Big Blind: Sunhe, chips: 10
+Calls: Choepu
+Checks: Sunhe
+Flop: 6h 7c Kd
+Raises: Sunhe, chips: 10
+Calls: Choepu
+Turn: 9h
+Checks: Sunhe
+Raises: Choepu, chips: 10
+Calls: Sunhe
+River: Ad
+Checks: Sunhe
+Checks: Choepu
+Pot size: 60
+Showdown Reached
+Shows: Choepu, 8h 7h
+Combination: Choepu, Pair ( 7h 7c Ad Kd 9h )
+Shows: Sunhe, 5h Ks
+Combination: Sunhe, Pair ( Ks Kd Ad 9h 7c )
+Wins: Sunhe, chips: 60
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sunhe
+Small Blind: Sunhe, chips: 5
+Big Blind: Choepu, chips: 10
+Calls: Sunhe
+Checks: Choepu
+Flop: Kh 5c 2h
+Checks: Choepu
+Checks: Sunhe
+Turn: 9c
+Checks: Choepu
+Checks: Sunhe
+River: Th
+Checks: Choepu
+Raises: Sunhe, chips: 10
+Folds: Choepu
+Pot size: 30
+Wins: Sunhe, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Choepu
+Small Blind: Choepu, chips: 5
+Big Blind: Sunhe, chips: 10
+Folds: Choepu
+Pot size: 15
+Wins: Sunhe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sunhe
+Small Blind: Sunhe, chips: 5
+Big Blind: Choepu, chips: 10
+Calls: Sunhe
+Checks: Choepu
+Flop: 8d 2s Ts
+Checks: Choepu
+Checks: Sunhe
+Turn: 7c
+Checks: Choepu
+Checks: Sunhe
+River: 6c
+Checks: Choepu
+Checks: Sunhe
+Pot size: 20
+Showdown Reached
+Shows: Choepu, 4h 7h
+Combination: Choepu, Pair ( 7h 7c Ts 8d 6c )
+Shows: Sunhe, Ks 5s
+Combination: Sunhe, High Card ( Ks Ts 8d 7c 6c )
+Wins: Choepu, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Choepu
+Small Blind: Choepu, chips: 5
+Big Blind: Sunhe, chips: 10
+Folds: Choepu
+Pot size: 15
+Wins: Sunhe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sunhe
+Small Blind: Sunhe, chips: 5
+Big Blind: Choepu, chips: 10
+Calls: Sunhe
+Checks: Choepu
+Flop: 4d Qc 4s
+Checks: Choepu
+Checks: Sunhe
+Turn: 2d
+Checks: Choepu
+Checks: Sunhe
+River: 4h
+Checks: Choepu
+Raises: Sunhe, chips: 925
+Folds: Choepu
+Pot size: 945
+Wins: Sunhe, chips: 945
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Choepu
+Small Blind: Choepu, chips: 5
+Big Blind: Sunhe, chips: 10
+Folds: Choepu
+Pot size: 15
+Wins: Sunhe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sunhe
+Small Blind: Sunhe, chips: 5
+Big Blind: Choepu, chips: 10
+Folds: Sunhe
+Pot size: 15
+Wins: Choepu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Choepu
+Small Blind: Choepu, chips: 5
+Big Blind: Sunhe, chips: 10
+Calls: Choepu
+Checks: Sunhe
+Flop: 7c 4d 3c
+Checks: Sunhe
+Checks: Choepu
+Turn: Qc
+Checks: Sunhe
+Checks: Choepu
+River: Tc
+Checks: Sunhe
+Checks: Choepu
+Pot size: 20
+Showdown Reached
+Shows: Choepu, Qs As
+Combination: Choepu, Pair ( Qs Qc As Tc 7c )
+Shows: Sunhe, 4h Ks
+Combination: Sunhe, Pair ( 4h 4d Ks Qc Tc )
+Wins: Choepu, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sunhe
+Small Blind: Sunhe, chips: 5
+Big Blind: Choepu, chips: 10
+Folds: Sunhe
+Pot size: 15
+Wins: Choepu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Choepu
+Small Blind: Choepu, chips: 5
+Big Blind: Sunhe, chips: 10
+Folds: Choepu
+Pot size: 15
+Wins: Sunhe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sunhe
+Small Blind: Sunhe, chips: 5
+Big Blind: Choepu, chips: 10
+Folds: Sunhe
+Pot size: 15
+Wins: Choepu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Choepu
+Small Blind: Choepu, chips: 5
+Big Blind: Sunhe, chips: 10
+Calls: Choepu
+Checks: Sunhe
+Flop: Tc Ts 4s
+Checks: Sunhe
+Checks: Choepu
+Turn: 2d
+Raises: Sunhe, chips: 10
+Raises: Choepu, chips: 10
+Calls: Sunhe
+River: 5s
+Raises: Sunhe, chips: 10
+Raises: Choepu, chips: 20
+Calls: Sunhe
+Pot size: 120
+Showdown Reached
+Shows: Choepu, 2s 2h
+Combination: Choepu, Full House ( 2s 2h 2d Tc Ts )
+Shows: Sunhe, Jd 4d
+Combination: Sunhe, Two Pair ( Tc Ts 4d 4s Jd )
+Wins: Choepu, chips: 120
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sunhe
+Small Blind: Sunhe, chips: 5
+Big Blind: Choepu, chips: 10
+Folds: Sunhe
+Pot size: 15
+Wins: Choepu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Choepu
+Small Blind: Choepu, chips: 5
+Big Blind: Sunhe, chips: 10
+Calls: Choepu
+Checks: Sunhe
+Flop: 5s 8s Tc
+Checks: Sunhe
+Checks: Choepu
+Turn: 2h
+Checks: Sunhe
+Checks: Choepu
+River: 3h
+Checks: Sunhe
+Checks: Choepu
+Pot size: 20
+Showdown Reached
+Shows: Choepu, Jc Qh
+Combination: Choepu, High Card ( Qh Jc Tc 8s 5s )
+Shows: Sunhe, 5h Ks
+Combination: Sunhe, Pair ( 5h 5s Ks Tc 8s )
+Wins: Sunhe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sunhe
+Small Blind: Sunhe, chips: 5
+Big Blind: Choepu, chips: 10
+Folds: Sunhe
+Pot size: 15
+Wins: Choepu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Choepu
+Small Blind: Choepu, chips: 5
+Big Blind: Sunhe, chips: 10
+Calls: Choepu
+Checks: Sunhe
+Flop: 2d 3d 8h
+Checks: Sunhe
+Raises: Choepu, chips: 10
+Calls: Sunhe
+Turn: Tc
+Raises: Sunhe, chips: 10
+Calls: Choepu
+River: 5s
+Checks: Sunhe
+Checks: Choepu
+Pot size: 60
+Showdown Reached
+Shows: Choepu, 9d Jd
+Combination: Choepu, High Card ( Jd Tc 9d 8h 5s )
+Shows: Sunhe, As 9s
+Combination: Sunhe, High Card ( As Tc 9s 8h 5s )
+Wins: Sunhe, chips: 60
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sunhe
+Small Blind: Sunhe, chips: 5
+Big Blind: Choepu, chips: 10
+Folds: Sunhe
+Pot size: 15
+Wins: Choepu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Choepu
+Small Blind: Choepu, chips: 5
+Big Blind: Sunhe, chips: 10
+Calls: Choepu
+Checks: Sunhe
+Flop: Ts Ad Ks
+Checks: Sunhe
+Checks: Choepu
+Turn: Qc
+Checks: Sunhe
+Checks: Choepu
+River: 2d
+Checks: Sunhe
+Raises: Choepu, chips: 10
+Folds: Sunhe
+Pot size: 30
+Wins: Choepu, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sunhe
+Small Blind: Sunhe, chips: 5
+Big Blind: Choepu, chips: 10
+Folds: Sunhe
+Pot size: 15
+Wins: Choepu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Choepu
+Small Blind: Choepu, chips: 5
+Big Blind: Sunhe, chips: 10
+Folds: Choepu
+Pot size: 15
+Wins: Sunhe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sunhe
+Small Blind: Sunhe, chips: 5
+Big Blind: Choepu, chips: 10
+Folds: Sunhe
+Pot size: 15
+Wins: Choepu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Choepu
+Small Blind: Choepu, chips: 5
+Big Blind: Sunhe, chips: 10
+Calls: Choepu
+Checks: Sunhe
+Flop: Jh 4d 5d
+Checks: Sunhe
+Checks: Choepu
+Turn: 6h
+Checks: Sunhe
+Checks: Choepu
+River: 3d
+Checks: Sunhe
+Checks: Choepu
+Pot size: 20
+Showdown Reached
+Shows: Choepu, Jd Qc
+Combination: Choepu, Pair ( Jd Jh Qc 6h 5d )
+Shows: Sunhe, Th Kh
+Combination: Sunhe, High Card ( Kh Jh Th 6h 5d )
+Wins: Choepu, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sunhe
+Small Blind: Sunhe, chips: 5
+Big Blind: Choepu, chips: 10
+Folds: Sunhe
+Pot size: 15
+Wins: Choepu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Choepu
+Small Blind: Choepu, chips: 5
+Big Blind: Sunhe, chips: 10
+Folds: Choepu
+Pot size: 15
+Wins: Sunhe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sunhe
+Small Blind: Sunhe, chips: 5
+Big Blind: Choepu, chips: 10
+Folds: Sunhe
+Pot size: 15
+Wins: Choepu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Choepu
+Small Blind: Choepu, chips: 5
+Big Blind: Sunhe, chips: 10
+Calls: Choepu
+Checks: Sunhe
+Flop: 4d 4c Qc
+Checks: Sunhe
+Checks: Choepu
+Turn: 8d
+Checks: Sunhe
+Checks: Choepu
+River: As
+Checks: Sunhe
+Checks: Choepu
+Pot size: 20
+Showdown Reached
+Shows: Choepu, 5s 3s
+Combination: Choepu, Pair ( 4d 4c As Qc 8d )
+Shows: Sunhe, 3h Ah
+Combination: Sunhe, Two Pair ( Ah As 4d 4c Qc )
+Wins: Sunhe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sunhe
+Small Blind: Sunhe, chips: 5
+Big Blind: Choepu, chips: 10
+Calls: Sunhe
+Checks: Choepu
+Flop: 3h 9d Js
+Checks: Choepu
+Checks: Sunhe
+Turn: Tc
+Checks: Choepu
+Raises: Sunhe, chips: 10
+Folds: Choepu
+Pot size: 30
+Wins: Sunhe, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Choepu
+Small Blind: Choepu, chips: 5
+Big Blind: Sunhe, chips: 10
+Folds: Choepu
+Pot size: 15
+Wins: Sunhe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sunhe
+Small Blind: Sunhe, chips: 5
+Big Blind: Choepu, chips: 10
+Folds: Sunhe
+Pot size: 15
+Wins: Choepu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Choepu
+Small Blind: Choepu, chips: 5
+Big Blind: Sunhe, chips: 10
+Folds: Choepu
+Pot size: 15
+Wins: Sunhe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sunhe
+Small Blind: Sunhe, chips: 5
+Big Blind: Choepu, chips: 10
+Calls: Sunhe
+Checks: Choepu
+Flop: Jd 2s 4h
+Raises: Choepu, chips: 10
+Calls: Sunhe
+Turn: Qh
+Checks: Choepu
+Checks: Sunhe
+River: 6d
+Checks: Choepu
+Checks: Sunhe
+Pot size: 40
+Showdown Reached
+Shows: Choepu, 6h 4s
+Combination: Choepu, Two Pair ( 6h 6d 4s 4h Qh )
+Shows: Sunhe, Js As
+Combination: Sunhe, Pair ( Js Jd As Qh 6d )
+Wins: Choepu, chips: 40
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Choepu
+Small Blind: Choepu, chips: 5
+Big Blind: Sunhe, chips: 10
+Calls: Choepu
+Checks: Sunhe
+Flop: 5s 9c 6d
+Checks: Sunhe
+Checks: Choepu
+Turn: Kd
+Checks: Sunhe
+Checks: Choepu
+River: 4c
+Checks: Sunhe
+Checks: Choepu
+Pot size: 20
+Showdown Reached
+Shows: Choepu, Jh Js
+Combination: Choepu, Pair ( Jh Js Kd 9c 6d )
+Shows: Sunhe, Qs Th
+Combination: Sunhe, High Card ( Kd Qs Th 9c 6d )
+Wins: Choepu, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sunhe
+Small Blind: Sunhe, chips: 5
+Big Blind: Choepu, chips: 10
+Folds: Sunhe
+Pot size: 15
+Wins: Choepu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Choepu
+Small Blind: Choepu, chips: 5
+Big Blind: Sunhe, chips: 10
+Folds: Choepu
+Pot size: 15
+Wins: Sunhe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sunhe
+Small Blind: Sunhe, chips: 5
+Big Blind: Choepu, chips: 10
+Folds: Sunhe
+Pot size: 15
+Wins: Choepu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Choepu
+Small Blind: Choepu, chips: 5
+Big Blind: Sunhe, chips: 10
+Calls: Choepu
+Checks: Sunhe
+Flop: Qs Jc 9c
+Raises: Sunhe, chips: 10
+Calls: Choepu
+Turn: As
+Raises: Sunhe, chips: 10
+Calls: Choepu
+River: Ts
+Checks: Sunhe
+Raises: Choepu, chips: 10
+Folds: Sunhe
+Pot size: 70
+Wins: Choepu, chips: 70
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sunhe
+Small Blind: Sunhe, chips: 5
+Big Blind: Choepu, chips: 10
+Calls: Sunhe
+Checks: Choepu
+Flop: Kh 3d 9c
+Checks: Choepu
+Checks: Sunhe
+Turn: Qh
+Checks: Choepu
+Checks: Sunhe
+River: Jd
+Checks: Choepu
+Checks: Sunhe
+Pot size: 20
+Showdown Reached
+Shows: Choepu, 6s 4d
+Combination: Choepu, High Card ( Kh Qh Jd 9c 6s )
+Shows: Sunhe, Th 9s
+Combination: Sunhe, Straight ( Kh Qh Jd Th 9s )
+Wins: Sunhe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Choepu
+Small Blind: Choepu, chips: 5
+Big Blind: Sunhe, chips: 10
+Folds: Choepu
+Pot size: 15
+Wins: Sunhe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sunhe
+Small Blind: Sunhe, chips: 5
+Big Blind: Choepu, chips: 10
+Calls: Sunhe
+Checks: Choepu
+Flop: Ad Ks Ah
+Checks: Choepu
+Checks: Sunhe
+Turn: Qs
+Checks: Choepu
+Checks: Sunhe
+River: 9s
+Checks: Choepu
+Raises: Sunhe, chips: 10
+Folds: Choepu
+Pot size: 30
+Wins: Sunhe, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Choepu
+Small Blind: Choepu, chips: 5
+Big Blind: Sunhe, chips: 10
+Folds: Choepu
+Pot size: 15
+Wins: Sunhe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sunhe
+Small Blind: Sunhe, chips: 5
+Big Blind: Choepu, chips: 10
+Folds: Sunhe
+Pot size: 15
+Wins: Choepu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Choepu
+Small Blind: Choepu, chips: 5
+Big Blind: Sunhe, chips: 10
+Folds: Choepu
+Pot size: 15
+Wins: Sunhe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sunhe
+Small Blind: Sunhe, chips: 5
+Big Blind: Choepu, chips: 10
+Folds: Sunhe
+Pot size: 15
+Wins: Choepu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Choepu
+Small Blind: Choepu, chips: 5
+Big Blind: Sunhe, chips: 10
+Calls: Choepu
+Checks: Sunhe
+Flop: Ts 5s 4d
+Raises: Sunhe, chips: 10
+Calls: Choepu
+Turn: Kd
+Checks: Sunhe
+Checks: Choepu
+River: Ks
+Raises: Sunhe, chips: 10
+Calls: Choepu
+Pot size: 60
+Showdown Reached
+Shows: Choepu, As 9c
+Combination: Choepu, Pair ( Kd Ks As Ts 9c )
+Shows: Sunhe, 8c 4h
+Combination: Sunhe, Two Pair ( Kd Ks 4h 4d Ts )
+Wins: Sunhe, chips: 60
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sunhe
+Small Blind: Sunhe, chips: 5
+Big Blind: Choepu, chips: 10
+Calls: Sunhe
+Checks: Choepu
+Flop: 5h 3h 9s
+Checks: Choepu
+Checks: Sunhe
+Turn: 7s
+Checks: Choepu
+Checks: Sunhe
+River: Qs
+Checks: Choepu
+Raises: Sunhe, chips: 10
+Raises: Choepu, chips: 6100
+Calls: Sunhe
+Pot size: 7000
+Showdown Reached
+Shows: Choepu, 6d 4c
+Combination: Choepu, Straight ( 7s 6d 5h 4c 3h )
+Shows: Sunhe, Qh 9c
+Combination: Sunhe, Two Pair ( Qh Qs 9c 9s 7s )
+Wins: Choepu, chips: 7000
+Quits: Sunhe, chips: 0
+Ranking: Choepu, Place: 1, Score: 6000
+Reveal AI: Choepu, AI: Smart
+Ranking: Sunhe, Place: 2, Score: -1000
+Reveal AI: Sunhe, AI: Smart
+Ranking: Ginheedi, Place: 3, Score: -1000
+Reveal AI: Ginheedi, AI: AIMyBot1
+Ranking: Tusewrop, Place: 4, Score: -1000
+Reveal AI: Tusewrop, AI: Call
+Ranking: Churlitet, Place: 5, Score: -1000
+Reveal AI: Churlitet, AI: Random
+Ranking: Peegoema, Place: 6, Score: -1000
+Reveal AI: Peegoema, AI: Random
+Ranking: Gifoedeet, Place: 7, Score: -1000
+Reveal AI: Gifoedeet, AI: Call
+
+Player Stats for Choepu, AI: Smart
+General: deals: 103, actions: 187, preflop actions: 88
+Rounds Seen: flops: 37, turns: 33, rivers: 31, showdowns: 26
+Wins: total: 46, showdown: 16, bluff: 30
+Chips: won: 19355, lost: 13355, bought: 1000, forced bets: 690
+Pre-Flop Stats: VP$IP: 0.300971, PFR: 0.0582524, 3Bet: 0.0582524
+Post-Flop Stats: AF: 1, WSD: 0.702703, WSDW: 0.615385
+
+
+Player Stats for Churlitet, AI: Random
+General: deals: 4, actions: 11, preflop actions: 6
+Rounds Seen: flops: 45, turns: 43, rivers: 41, showdowns: 36
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1253, bought: 1000, forced bets: 5
+Pre-Flop Stats: VP$IP: 0.5, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: 0.5, WSD: 0.8, WSDW: 0
+
+
+Player Stats for Gifoedeet, AI: Call
+General: deals: 1, actions: 2, preflop actions: 2
+Rounds Seen: flops: 48, turns: 46, rivers: 44, showdowns: 39
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 0
+Pre-Flop Stats: VP$IP: 1, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 0.8125, WSDW: 0
+
+
+Player Stats for Ginheedi, AI: AIMyBot1
+General: deals: 26, actions: 70, preflop actions: 30
+Rounds Seen: flops: 48, turns: 46, rivers: 44, showdowns: 39
+Wins: total: 19, showdown: 10, bluff: 9
+Chips: won: 21027, lost: 22027, bought: 1000, forced bets: 120
+Pre-Flop Stats: VP$IP: 0.884615, PFR: 0.884615, 3Bet: 0.692308
+Post-Flop Stats: AF: 1.#INF, WSD: 0.8125, WSDW: 0.25641
+
+
+Player Stats for Peegoema, AI: Random
+General: deals: 1, actions: 1, preflop actions: 1
+Rounds Seen: flops: 48, turns: 46, rivers: 44, showdowns: 39
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 0
+Pre-Flop Stats: VP$IP: 1, PFR: 1, 3Bet: 1
+Post-Flop Stats: AF: -1.#IND, WSD: 0.8125, WSDW: 0
+
+
+Player Stats for Sunhe, AI: Smart
+General: deals: 103, actions: 186, preflop actions: 89
+Rounds Seen: flops: 32, turns: 30, rivers: 28, showdowns: 23
+Wins: total: 36, showdown: 11, bluff: 25
+Chips: won: 4535, lost: 10775, bought: 1000, forced bets: 685
+Pre-Flop Stats: VP$IP: 0.165049, PFR: 0.00970874, 3Bet: 0.00970874
+Post-Flop Stats: AF: 2.71429, WSD: 0.71875, WSDW: 0.478261
+
+
+Player Stats for Tusewrop, AI: Call
+General: deals: 12, actions: 58, preflop actions: 17
+Rounds Seen: flops: 48, turns: 46, rivers: 44, showdowns: 39
+Wins: total: 8, showdown: 8, bluff: 0
+Chips: won: 7904, lost: 8957, bought: 1000, forced bets: 45
+Pre-Flop Stats: VP$IP: 1, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: 0, WSD: 0.8125, WSDW: 0.205128
+
+
+Date: 2026/04/30 12:53:22
+
+The game begins. The AI's of the players are: 
+Churlitet: Random
+Choepu: Smart
+Ginheedi: AIMyBot1
+Gifoedeet: Call
+Tusewrop: Call
+Sunhe: Smart
+Peegoema: Random
+
+Joins: Churlitet, chips: 1000
+Joins: Choepu, chips: 1000
+Joins: Ginheedi, chips: 1000
+Joins: Gifoedeet, chips: 1000
+Joins: Tusewrop, chips: 1000
+Joins: Sunhe, chips: 1000
+Joins: Peegoema, chips: 1000
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Peegoema
+Small Blind: Churlitet, chips: 5
+Big Blind: Choepu, chips: 10
+Raises: Ginheedi, chips: 40
+Calls: Gifoedeet
+Calls: Tusewrop
+Folds: Sunhe
+Raises: Peegoema, chips: 950
+Folds: Churlitet
+Folds: Choepu
+Calls: Ginheedi
+Calls: Gifoedeet
+Calls: Tusewrop
+Flop: Ks Ad Tc
+Turn: Qc
+River: Kh
+Pot size: 4015
+Showdown Reached
+Boasts: Churlitet, Qs 3c
+Shows: Ginheedi, Jc 8c
+Combination: Ginheedi, Straight ( Ad Ks Qc Jc Tc )
+Shows: Gifoedeet, Ah 9s
+Combination: Gifoedeet, Two Pair ( Ah Ad Ks Kh Qc )
+Shows: Tusewrop, Jd 4d
+Combination: Tusewrop, Straight ( Ad Ks Qc Jd Tc )
+Shows: Peegoema, 2h Ts
+Combination: Peegoema, Two Pair ( Ks Kh Ts Tc Ad )
+Wins: Ginheedi, chips: 2008
+Wins: Tusewrop, chips: 2007
+Quits: Gifoedeet, chips: 0
+Quits: Peegoema, chips: 0
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Churlitet
+Small Blind: Choepu, chips: 5
+Big Blind: Ginheedi, chips: 10
+Calls: Tusewrop
+Calls: Sunhe
+Calls: Churlitet
+Calls: Choepu
+Raises: Ginheedi, chips: 20
+Calls: Tusewrop
+Folds: Sunhe
+Folds: Churlitet
+Folds: Choepu
+Flop: Ad 2d Jc
+Raises: Ginheedi, chips: 40
+Calls: Tusewrop
+Turn: 9h
+Raises: Ginheedi, chips: 80
+Calls: Tusewrop
+River: Ks
+Raises: Ginheedi, chips: 160
+Calls: Tusewrop
+Pot size: 650
+Showdown Reached
+Boasts: Churlitet, 2h 5d
+Shows: Ginheedi, 3d 9d
+Combination: Ginheedi, Pair ( 9d 9h Ad Ks Jc )
+Shows: Tusewrop, 3c Jh
+Combination: Tusewrop, Pair ( Jh Jc Ad Ks 9h )
+Wins: Tusewrop, chips: 650
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Choepu
+Small Blind: Ginheedi, chips: 5
+Big Blind: Tusewrop, chips: 10
+Folds: Sunhe
+Folds: Churlitet
+Folds: Choepu
+Raises: Ginheedi, chips: 30
+Calls: Tusewrop
+Flop: 6d 7h 9h
+Raises: Ginheedi, chips: 60
+Calls: Tusewrop
+Turn: Qc
+Raises: Ginheedi, chips: 120
+Calls: Tusewrop
+River: 6s
+Raises: Ginheedi, chips: 240
+Calls: Tusewrop
+Pot size: 920
+Showdown Reached
+Boasts: Churlitet, Ah Tc
+Shows: Ginheedi, Js 9d
+Combination: Ginheedi, Two Pair ( 9d 9h 6d 6s Qc )
+Shows: Tusewrop, Td 8d
+Combination: Tusewrop, Straight ( Td 9h 8d 7h 6d )
+Wins: Tusewrop, chips: 920
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ginheedi
+Small Blind: Tusewrop, chips: 5
+Big Blind: Sunhe, chips: 10
+Calls: Churlitet
+Folds: Choepu
+Raises: Ginheedi, chips: 40
+Calls: Tusewrop
+Folds: Sunhe
+Calls: Churlitet
+Flop: 3h 6c 5h
+Checks: Tusewrop
+Checks: Churlitet
+Raises: Ginheedi, chips: 80
+Calls: Tusewrop
+Calls: Churlitet
+Turn: 6d
+Checks: Tusewrop
+Checks: Churlitet
+Raises: Ginheedi, chips: 160
+Calls: Tusewrop
+Raises: Churlitet, chips: 320
+Raises: Ginheedi, chips: 628
+Calls: Tusewrop
+Calls: Churlitet
+River: 5d
+Pot size: 3471
+Showdown Reached
+Shows: Churlitet, Tc Qc
+Combination: Churlitet, Two Pair ( 6c 6d 5h 5d Qc )
+Shows: Ginheedi, Ac 2d
+Combination: Ginheedi, Two Pair ( 6c 6d 5h 5d Ac )
+Shows: Tusewrop, 4c 9c
+Combination: Tusewrop, Two Pair ( 6c 6d 5h 5d 9c )
+Wins: Ginheedi, chips: 3471
+Quits: Churlitet, chips: 0
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Tusewrop
+Small Blind: Sunhe, chips: 5
+Big Blind: Choepu, chips: 10
+Raises: Ginheedi, chips: 40
+Calls: Tusewrop
+Folds: Sunhe
+Folds: Choepu
+Flop: Th Ac As
+Raises: Ginheedi, chips: 80
+Calls: Tusewrop
+Turn: 2d
+Raises: Ginheedi, chips: 160
+Calls: Tusewrop
+River: 7h
+Raises: Ginheedi, chips: 320
+Calls: Tusewrop
+Pot size: 1235
+Showdown Reached
+Shows: Ginheedi, 6c 3c
+Combination: Ginheedi, Pair ( Ac As Th 7h 6c )
+Shows: Tusewrop, 4s 6h
+Combination: Tusewrop, Pair ( Ac As Th 7h 6h )
+Wins: Ginheedi, chips: 618
+Wins: Tusewrop, chips: 617
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sunhe
+Small Blind: Choepu, chips: 5
+Big Blind: Ginheedi, chips: 10
+Calls: Tusewrop
+Folds: Sunhe
+Calls: Choepu
+Raises: Ginheedi, chips: 20
+Calls: Tusewrop
+Folds: Choepu
+Flop: Jd Jc 7d
+Raises: Ginheedi, chips: 40
+Calls: Tusewrop
+Turn: 8c
+Raises: Ginheedi, chips: 80
+Calls: Tusewrop
+River: Qd
+Raises: Ginheedi, chips: 160
+Calls: Tusewrop
+Pot size: 630
+Showdown Reached
+Shows: Ginheedi, Kh As
+Combination: Ginheedi, Pair ( Jd Jc As Kh Qd )
+Shows: Tusewrop, 4d 7h
+Combination: Tusewrop, Two Pair ( Jd Jc 7h 7d Qd )
+Wins: Tusewrop, chips: 630
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Choepu
+Small Blind: Ginheedi, chips: 5
+Big Blind: Tusewrop, chips: 10
+Folds: Sunhe
+Folds: Choepu
+Raises: Ginheedi, chips: 30
+Calls: Tusewrop
+Flop: 9h 2c 7h
+Raises: Ginheedi, chips: 60
+Calls: Tusewrop
+Turn: Ts
+Raises: Ginheedi, chips: 120
+Calls: Tusewrop
+River: Js
+Raises: Ginheedi, chips: 240
+Calls: Tusewrop
+Pot size: 920
+Showdown Reached
+Shows: Ginheedi, Ah 6d
+Combination: Ginheedi, High Card ( Ah Js Ts 9h 7h )
+Shows: Tusewrop, Ac 9c
+Combination: Tusewrop, Pair ( 9c 9h Ac Js Ts )
+Wins: Tusewrop, chips: 920
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ginheedi
+Small Blind: Tusewrop, chips: 5
+Big Blind: Sunhe, chips: 10
+Folds: Choepu
+Raises: Ginheedi, chips: 40
+Calls: Tusewrop
+Folds: Sunhe
+Flop: Th Ts 7c
+Checks: Tusewrop
+Raises: Ginheedi, chips: 80
+Calls: Tusewrop
+Turn: 8h
+Checks: Tusewrop
+Raises: Ginheedi, chips: 160
+Calls: Tusewrop
+River: Jh
+Checks: Tusewrop
+Raises: Ginheedi, chips: 320
+Calls: Tusewrop
+Pot size: 1230
+Showdown Reached
+Shows: Ginheedi, Js 5c
+Combination: Ginheedi, Two Pair ( Js Jh Th Ts 8h )
+Shows: Tusewrop, 2h 5h
+Combination: Tusewrop, Flush ( Jh Th 8h 5h 2h )
+Wins: Tusewrop, chips: 1230
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Tusewrop
+Small Blind: Sunhe, chips: 5
+Big Blind: Choepu, chips: 10
+Raises: Ginheedi, chips: 40
+Calls: Tusewrop
+Folds: Sunhe
+Folds: Choepu
+Flop: Js 3c 6d
+Raises: Ginheedi, chips: 80
+Calls: Tusewrop
+Turn: 4c
+Raises: Ginheedi, chips: 160
+Calls: Tusewrop
+River: 8h
+Raises: Ginheedi, chips: 320
+Calls: Tusewrop
+Pot size: 1235
+Showdown Reached
+Shows: Ginheedi, Qs Th
+Combination: Ginheedi, High Card ( Qs Js Th 8h 6d )
+Shows: Tusewrop, 2s 9h
+Combination: Tusewrop, High Card ( Js 9h 8h 6d 4c )
+Wins: Ginheedi, chips: 1235
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sunhe
+Small Blind: Choepu, chips: 5
+Big Blind: Ginheedi, chips: 10
+Calls: Tusewrop
+Folds: Sunhe
+Folds: Choepu
+Raises: Ginheedi, chips: 20
+Calls: Tusewrop
+Flop: Kd Jc 5c
+Raises: Ginheedi, chips: 40
+Calls: Tusewrop
+Turn: Qc
+Raises: Ginheedi, chips: 80
+Calls: Tusewrop
+River: Qd
+Raises: Ginheedi, chips: 160
+Calls: Tusewrop
+Pot size: 625
+Showdown Reached
+Shows: Ginheedi, 2c Jh
+Combination: Ginheedi, Two Pair ( Qc Qd Jh Jc Kd )
+Shows: Tusewrop, 5h 2s
+Combination: Tusewrop, Two Pair ( Qc Qd 5h 5c Kd )
+Wins: Ginheedi, chips: 625
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Choepu
+Small Blind: Ginheedi, chips: 5
+Big Blind: Tusewrop, chips: 10
+Folds: Sunhe
+Calls: Choepu
+Raises: Ginheedi, chips: 30
+Calls: Tusewrop
+Folds: Choepu
+Flop: 7h Tc 6c
+Raises: Ginheedi, chips: 60
+Calls: Tusewrop
+Turn: 3d
+Raises: Ginheedi, chips: 120
+Calls: Tusewrop
+River: 2d
+Raises: Ginheedi, chips: 240
+Calls: Tusewrop
+Pot size: 930
+Showdown Reached
+Shows: Ginheedi, Ad 5c
+Combination: Ginheedi, High Card ( Ad Tc 7h 6c 5c )
+Shows: Tusewrop, Qd Th
+Combination: Tusewrop, Pair ( Th Tc Qd 7h 6c )
+Wins: Tusewrop, chips: 930
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ginheedi
+Small Blind: Tusewrop, chips: 5
+Big Blind: Sunhe, chips: 10
+Calls: Choepu
+Raises: Ginheedi, chips: 40
+Calls: Tusewrop
+Folds: Sunhe
+Raises: Choepu, chips: 80
+Raises: Ginheedi, chips: 320
+Calls: Tusewrop
+Calls: Choepu
+Flop: 9h Jh Ah
+Checks: Tusewrop
+Checks: Choepu
+Raises: Ginheedi, chips: 640
+Calls: Tusewrop
+Folds: Choepu
+Turn: Ks
+Checks: Tusewrop
+Raises: Ginheedi, chips: 1280
+Calls: Tusewrop
+River: 2s
+Checks: Tusewrop
+Raises: Ginheedi, chips: 209
+Calls: Tusewrop
+Pot size: 5565
+Showdown Reached
+Shows: Ginheedi, 9d Jd
+Combination: Ginheedi, Two Pair ( Jd Jh 9d 9h Ah )
+Shows: Tusewrop, Th 6d
+Combination: Tusewrop, High Card ( Ah Ks Jh Th 9h )
+Wins: Ginheedi, chips: 5565
+Quits: Tusewrop, chips: 0
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sunhe
+Small Blind: Choepu, chips: 5
+Big Blind: Ginheedi, chips: 10
+Calls: Sunhe
+Folds: Choepu
+Raises: Ginheedi, chips: 20
+Folds: Sunhe
+Pot size: 45
+Wins: Ginheedi, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Choepu
+Small Blind: Ginheedi, chips: 5
+Big Blind: Sunhe, chips: 10
+Calls: Choepu
+Raises: Ginheedi, chips: 30
+Calls: Sunhe
+Calls: Choepu
+Flop: Ah 7s As
+Raises: Ginheedi, chips: 60
+Raises: Sunhe, chips: 130
+Folds: Choepu
+Raises: Ginheedi, chips: 520
+Raises: Sunhe, chips: 190
+Raises: Ginheedi, chips: 1420
+Turn: Kh
+River: Qd
+Pot size: 3340
+Showdown Reached
+Shows: Ginheedi, Ad 9d
+Combination: Ginheedi, Three Of A Kind ( Ad Ah As Kh Qd )
+Shows: Sunhe, Td Ac
+Combination: Sunhe, Three Of A Kind ( Ac Ah As Kh Qd )
+Wins: Ginheedi, chips: 2380
+Wins: Sunhe, chips: 960
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ginheedi
+Small Blind: Sunhe, chips: 5
+Big Blind: Choepu, chips: 10
+Raises: Ginheedi, chips: 40
+Folds: Sunhe
+Folds: Choepu
+Pot size: 65
+Wins: Ginheedi, chips: 65
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sunhe
+Small Blind: Choepu, chips: 5
+Big Blind: Ginheedi, chips: 10
+Folds: Sunhe
+Folds: Choepu
+Pot size: 15
+Wins: Ginheedi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Choepu
+Small Blind: Ginheedi, chips: 5
+Big Blind: Sunhe, chips: 10
+Calls: Choepu
+Raises: Ginheedi, chips: 30
+Folds: Sunhe
+Raises: Choepu, chips: 60
+Raises: Ginheedi, chips: 240
+Raises: Choepu, chips: 85
+Raises: Ginheedi, chips: 650
+Flop: Jd 7h Js
+Turn: 3c
+River: 6h
+Pot size: 1510
+Showdown Reached
+Shows: Choepu, Ah As
+Combination: Choepu, Two Pair ( Ah As Jd Js 7h )
+Shows: Ginheedi, Ks 7s
+Combination: Ginheedi, Two Pair ( Jd Js 7s 7h Ks )
+Wins: Choepu, chips: 860
+Wins: Ginheedi, chips: 650
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ginheedi
+Small Blind: Sunhe, chips: 5
+Big Blind: Choepu, chips: 10
+Raises: Ginheedi, chips: 40
+Folds: Sunhe
+Raises: Choepu, chips: 80
+Raises: Ginheedi, chips: 320
+Raises: Choepu, chips: 410
+Raises: Ginheedi, chips: 1460
+Flop: Kh Th 9d
+Turn: Td
+River: 5d
+Pot size: 3185
+Showdown Reached
+Shows: Choepu, Jc 9c
+Combination: Choepu, Two Pair ( Th Td 9c 9d Kh )
+Shows: Ginheedi, 6d 4s
+Combination: Ginheedi, Pair ( Th Td Kh 9d 6d )
+Wins: Choepu, chips: 1725
+Wins: Ginheedi, chips: 1460
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sunhe
+Small Blind: Choepu, chips: 5
+Big Blind: Ginheedi, chips: 10
+Calls: Sunhe
+Folds: Choepu
+Raises: Ginheedi, chips: 20
+Folds: Sunhe
+Pot size: 45
+Wins: Ginheedi, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Choepu
+Small Blind: Ginheedi, chips: 5
+Big Blind: Sunhe, chips: 10
+Folds: Choepu
+Raises: Ginheedi, chips: 30
+Folds: Sunhe
+Pot size: 50
+Wins: Ginheedi, chips: 50
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ginheedi
+Small Blind: Sunhe, chips: 5
+Big Blind: Choepu, chips: 10
+Raises: Ginheedi, chips: 40
+Folds: Sunhe
+Raises: Choepu, chips: 1670
+Raises: Ginheedi, chips: 2640
+Flop: Qs 8h As
+Turn: 9d
+River: 8d
+Pot size: 6085
+Showdown Reached
+Shows: Choepu, 8c 9c
+Combination: Choepu, Full House ( 8c 8h 8d 9c 9d )
+Shows: Ginheedi, 2s Qd
+Combination: Ginheedi, Two Pair ( Qd Qs 8h 8d As )
+Wins: Choepu, chips: 3445
+Wins: Ginheedi, chips: 2640
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sunhe
+Small Blind: Choepu, chips: 5
+Big Blind: Ginheedi, chips: 10
+Folds: Sunhe
+Folds: Choepu
+Pot size: 15
+Wins: Ginheedi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Choepu
+Small Blind: Ginheedi, chips: 5
+Big Blind: Sunhe, chips: 10
+Calls: Choepu
+Raises: Ginheedi, chips: 30
+Folds: Sunhe
+Folds: Choepu
+Pot size: 60
+Wins: Ginheedi, chips: 60
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Ginheedi
+Small Blind: Sunhe, chips: 5
+Big Blind: Choepu, chips: 10
+Raises: Ginheedi, chips: 40
+Folds: Sunhe
+Folds: Choepu
+Pot size: 65
+Wins: Ginheedi, chips: 65
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sunhe
+Small Blind: Choepu, chips: 5
+Big Blind: Ginheedi, chips: 10
+Folds: Sunhe
+Folds: Choepu
+Pot size: 15
+Wins: Ginheedi, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Choepu
+Small Blind: Ginheedi, chips: 5
+Big Blind: Sunhe, chips: 10
+Calls: Choepu
+Raises: Ginheedi, chips: 30
+Folds: Sunhe
+Calls: Choepu
+Flop: 5d 2c 3h
+Raises: Ginheedi, chips: 60
+Raises: Choepu, chips: 100
+Raises: Ginheedi, chips: 400
+Calls: Choepu
+Turn: 3s
+Raises: Ginheedi, chips: 800
+Calls: Choepu
+River: Ks
+Raises: Ginheedi, chips: 1285
+Calls: Choepu
+Pot size: 5380
+Showdown Reached
+Shows: Choepu, Ad 4d
+Combination: Choepu, Straight ( 5d 4d 3h 2c Ad )
+Shows: Ginheedi, 4s Qs
+Combination: Ginheedi, Pair ( 3h 3s Ks Qs 5d )
+Wins: Choepu, chips: 5380
+Quits: Ginheedi, chips: 0
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sunhe
+Small Blind: Sunhe, chips: 5
+Big Blind: Choepu, chips: 10
+Folds: Sunhe
+Pot size: 15
+Wins: Choepu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Choepu
+Small Blind: Choepu, chips: 5
+Big Blind: Sunhe, chips: 10
+Calls: Choepu
+Checks: Sunhe
+Flop: Ac 8c 6c
+Raises: Sunhe, chips: 10
+Calls: Choepu
+Turn: 2s
+Checks: Sunhe
+Checks: Choepu
+River: 5s
+Checks: Sunhe
+Checks: Choepu
+Pot size: 40
+Showdown Reached
+Shows: Choepu, 6d 9d
+Combination: Choepu, Pair ( 6d 6c Ac 9d 8c )
+Shows: Sunhe, 9c Kc
+Combination: Sunhe, Flush ( Ac Kc 9c 8c 6c )
+Wins: Sunhe, chips: 40
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sunhe
+Small Blind: Sunhe, chips: 5
+Big Blind: Choepu, chips: 10
+Calls: Sunhe
+Checks: Choepu
+Flop: Jh 2c 4s
+Checks: Choepu
+Checks: Sunhe
+Turn: Kd
+Checks: Choepu
+Checks: Sunhe
+River: 8h
+Checks: Choepu
+Checks: Sunhe
+Pot size: 20
+Showdown Reached
+Shows: Choepu, 9c Qs
+Combination: Choepu, High Card ( Kd Qs Jh 9c 8h )
+Shows: Sunhe, 9d Ac
+Combination: Sunhe, High Card ( Ac Kd Jh 9d 8h )
+Wins: Sunhe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Choepu
+Small Blind: Choepu, chips: 5
+Big Blind: Sunhe, chips: 10
+Folds: Choepu
+Pot size: 15
+Wins: Sunhe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sunhe
+Small Blind: Sunhe, chips: 5
+Big Blind: Choepu, chips: 10
+Folds: Sunhe
+Pot size: 15
+Wins: Choepu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Choepu
+Small Blind: Choepu, chips: 5
+Big Blind: Sunhe, chips: 10
+Calls: Choepu
+Checks: Sunhe
+Flop: 2c 7c Jd
+Checks: Sunhe
+Checks: Choepu
+Turn: Qd
+Checks: Sunhe
+Checks: Choepu
+River: 7h
+Checks: Sunhe
+Checks: Choepu
+Pot size: 20
+Showdown Reached
+Shows: Choepu, Kd 9s
+Combination: Choepu, Pair ( 7c 7h Kd Qd Jd )
+Shows: Sunhe, 6h As
+Combination: Sunhe, Pair ( 7c 7h As Qd Jd )
+Wins: Sunhe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sunhe
+Small Blind: Sunhe, chips: 5
+Big Blind: Choepu, chips: 10
+Folds: Sunhe
+Pot size: 15
+Wins: Choepu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Choepu
+Small Blind: Choepu, chips: 5
+Big Blind: Sunhe, chips: 10
+Folds: Choepu
+Pot size: 15
+Wins: Sunhe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sunhe
+Small Blind: Sunhe, chips: 5
+Big Blind: Choepu, chips: 10
+Calls: Sunhe
+Checks: Choepu
+Flop: 6d Jd 3d
+Checks: Choepu
+Checks: Sunhe
+Turn: 7s
+Raises: Choepu, chips: 10
+Calls: Sunhe
+River: 8h
+Checks: Choepu
+Checks: Sunhe
+Pot size: 40
+Showdown Reached
+Shows: Choepu, 6s 5d
+Combination: Choepu, Pair ( 6s 6d Jd 8h 7s )
+Shows: Sunhe, 9d As
+Combination: Sunhe, High Card ( As Jd 9d 8h 7s )
+Wins: Choepu, chips: 40
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Choepu
+Small Blind: Choepu, chips: 5
+Big Blind: Sunhe, chips: 10
+Calls: Choepu
+Checks: Sunhe
+Flop: Js Tc Jd
+Raises: Sunhe, chips: 895
+Folds: Choepu
+Pot size: 915
+Wins: Sunhe, chips: 915
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sunhe
+Small Blind: Sunhe, chips: 5
+Big Blind: Choepu, chips: 10
+Folds: Sunhe
+Pot size: 15
+Wins: Choepu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Choepu
+Small Blind: Choepu, chips: 5
+Big Blind: Sunhe, chips: 10
+Calls: Choepu
+Checks: Sunhe
+Flop: 2s Td Kh
+Checks: Sunhe
+Checks: Choepu
+Turn: Qh
+Checks: Sunhe
+Checks: Choepu
+River: Qs
+Checks: Sunhe
+Checks: Choepu
+Pot size: 20
+Showdown Reached
+Shows: Choepu, 9d Ah
+Combination: Choepu, Pair ( Qh Qs Ah Kh Td )
+Shows: Sunhe, 7d Th
+Combination: Sunhe, Two Pair ( Qh Qs Th Td Kh )
+Wins: Sunhe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sunhe
+Small Blind: Sunhe, chips: 5
+Big Blind: Choepu, chips: 10
+Folds: Sunhe
+Pot size: 15
+Wins: Choepu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Choepu
+Small Blind: Choepu, chips: 5
+Big Blind: Sunhe, chips: 10
+Calls: Choepu
+Checks: Sunhe
+Flop: Ac 8h Tc
+Raises: Sunhe, chips: 10
+Folds: Choepu
+Pot size: 30
+Wins: Sunhe, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sunhe
+Small Blind: Sunhe, chips: 5
+Big Blind: Choepu, chips: 10
+Folds: Sunhe
+Pot size: 15
+Wins: Choepu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Choepu
+Small Blind: Choepu, chips: 5
+Big Blind: Sunhe, chips: 10
+Folds: Choepu
+Pot size: 15
+Wins: Sunhe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sunhe
+Small Blind: Sunhe, chips: 5
+Big Blind: Choepu, chips: 10
+Folds: Sunhe
+Pot size: 15
+Wins: Choepu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Choepu
+Small Blind: Choepu, chips: 5
+Big Blind: Sunhe, chips: 10
+Folds: Choepu
+Pot size: 15
+Wins: Sunhe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sunhe
+Small Blind: Sunhe, chips: 5
+Big Blind: Choepu, chips: 10
+Raises: Sunhe, chips: 15
+Raises: Choepu, chips: 35
+Raises: Sunhe, chips: 865
+Folds: Choepu
+Pot size: 985
+Wins: Sunhe, chips: 985
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Choepu
+Small Blind: Choepu, chips: 5
+Big Blind: Sunhe, chips: 10
+Folds: Choepu
+Pot size: 15
+Wins: Sunhe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sunhe
+Small Blind: Sunhe, chips: 5
+Big Blind: Choepu, chips: 10
+Calls: Sunhe
+Checks: Choepu
+Flop: 3c 3h 5c
+Checks: Choepu
+Checks: Sunhe
+Turn: 9h
+Checks: Choepu
+Checks: Sunhe
+River: 3s
+Checks: Choepu
+Checks: Sunhe
+Pot size: 20
+Showdown Reached
+Shows: Choepu, Kd 5s
+Combination: Choepu, Full House ( 3c 3h 3s 5s 5c )
+Shows: Sunhe, 7h 6c
+Combination: Sunhe, Three Of A Kind ( 3c 3h 3s 9h 7h )
+Wins: Choepu, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Choepu
+Small Blind: Choepu, chips: 5
+Big Blind: Sunhe, chips: 10
+Calls: Choepu
+Checks: Sunhe
+Flop: 9c 7s 5c
+Checks: Sunhe
+Checks: Choepu
+Turn: 5h
+Checks: Sunhe
+Checks: Choepu
+River: 2d
+Checks: Sunhe
+Checks: Choepu
+Pot size: 20
+Showdown Reached
+Shows: Choepu, Qc Js
+Combination: Choepu, Pair ( 5c 5h Qc Js 9c )
+Shows: Sunhe, Jc 3s
+Combination: Sunhe, Pair ( 5c 5h Jc 9c 7s )
+Wins: Choepu, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sunhe
+Small Blind: Sunhe, chips: 5
+Big Blind: Choepu, chips: 10
+Folds: Sunhe
+Pot size: 15
+Wins: Choepu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Choepu
+Small Blind: Choepu, chips: 5
+Big Blind: Sunhe, chips: 10
+Calls: Choepu
+Checks: Sunhe
+Flop: Jh 4d 8c
+Raises: Sunhe, chips: 10
+Calls: Choepu
+Turn: 9c
+Checks: Sunhe
+Checks: Choepu
+River: 3s
+Checks: Sunhe
+Checks: Choepu
+Pot size: 40
+Showdown Reached
+Shows: Choepu, 6s 6d
+Combination: Choepu, Pair ( 6s 6d Jh 9c 8c )
+Shows: Sunhe, 4c 6h
+Combination: Sunhe, Pair ( 4c 4d Jh 9c 8c )
+Wins: Choepu, chips: 40
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sunhe
+Small Blind: Sunhe, chips: 5
+Big Blind: Choepu, chips: 10
+Folds: Sunhe
+Pot size: 15
+Wins: Choepu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Choepu
+Small Blind: Choepu, chips: 5
+Big Blind: Sunhe, chips: 10
+Folds: Choepu
+Pot size: 15
+Wins: Sunhe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sunhe
+Small Blind: Sunhe, chips: 5
+Big Blind: Choepu, chips: 10
+Folds: Sunhe
+Pot size: 15
+Wins: Choepu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Choepu
+Small Blind: Choepu, chips: 5
+Big Blind: Sunhe, chips: 10
+Calls: Choepu
+Checks: Sunhe
+Flop: Kd Ah Ad
+Checks: Sunhe
+Checks: Choepu
+Turn: Ac
+Checks: Sunhe
+Raises: Choepu, chips: 10
+Folds: Sunhe
+Pot size: 30
+Wins: Choepu, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sunhe
+Small Blind: Sunhe, chips: 5
+Big Blind: Choepu, chips: 10
+Folds: Sunhe
+Pot size: 15
+Wins: Choepu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Choepu
+Small Blind: Choepu, chips: 5
+Big Blind: Sunhe, chips: 10
+Raises: Choepu, chips: 15
+Calls: Sunhe
+Flop: 8h 7h 6c
+Checks: Sunhe
+Checks: Choepu
+Turn: 8c
+Checks: Sunhe
+Checks: Choepu
+River: Ts
+Checks: Sunhe
+Checks: Choepu
+Pot size: 50
+Showdown Reached
+Shows: Choepu, Ac Kh
+Combination: Choepu, Pair ( 8h 8c Ac Kh Ts )
+Shows: Sunhe, As 2s
+Combination: Sunhe, Pair ( 8h 8c As Ts 7h )
+Wins: Choepu, chips: 50
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sunhe
+Small Blind: Sunhe, chips: 5
+Big Blind: Choepu, chips: 10
+Folds: Sunhe
+Pot size: 15
+Wins: Choepu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Choepu
+Small Blind: Choepu, chips: 5
+Big Blind: Sunhe, chips: 10
+Calls: Choepu
+Checks: Sunhe
+Flop: 6h 7c Kd
+Raises: Sunhe, chips: 10
+Calls: Choepu
+Turn: 9h
+Checks: Sunhe
+Raises: Choepu, chips: 10
+Calls: Sunhe
+River: Ad
+Checks: Sunhe
+Checks: Choepu
+Pot size: 60
+Showdown Reached
+Shows: Choepu, 8h 7h
+Combination: Choepu, Pair ( 7h 7c Ad Kd 9h )
+Shows: Sunhe, 5h Ks
+Combination: Sunhe, Pair ( Ks Kd Ad 9h 7c )
+Wins: Sunhe, chips: 60
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sunhe
+Small Blind: Sunhe, chips: 5
+Big Blind: Choepu, chips: 10
+Calls: Sunhe
+Checks: Choepu
+Flop: Kh 5c 2h
+Checks: Choepu
+Checks: Sunhe
+Turn: 9c
+Checks: Choepu
+Checks: Sunhe
+River: Th
+Checks: Choepu
+Raises: Sunhe, chips: 10
+Folds: Choepu
+Pot size: 30
+Wins: Sunhe, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Choepu
+Small Blind: Choepu, chips: 5
+Big Blind: Sunhe, chips: 10
+Folds: Choepu
+Pot size: 15
+Wins: Sunhe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sunhe
+Small Blind: Sunhe, chips: 5
+Big Blind: Choepu, chips: 10
+Calls: Sunhe
+Checks: Choepu
+Flop: 8d 2s Ts
+Checks: Choepu
+Checks: Sunhe
+Turn: 7c
+Checks: Choepu
+Checks: Sunhe
+River: 6c
+Checks: Choepu
+Checks: Sunhe
+Pot size: 20
+Showdown Reached
+Shows: Choepu, 4h 7h
+Combination: Choepu, Pair ( 7h 7c Ts 8d 6c )
+Shows: Sunhe, Ks 5s
+Combination: Sunhe, High Card ( Ks Ts 8d 7c 6c )
+Wins: Choepu, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Choepu
+Small Blind: Choepu, chips: 5
+Big Blind: Sunhe, chips: 10
+Folds: Choepu
+Pot size: 15
+Wins: Sunhe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sunhe
+Small Blind: Sunhe, chips: 5
+Big Blind: Choepu, chips: 10
+Calls: Sunhe
+Checks: Choepu
+Flop: 4d Qc 4s
+Checks: Choepu
+Checks: Sunhe
+Turn: 2d
+Checks: Choepu
+Checks: Sunhe
+River: 4h
+Checks: Choepu
+Raises: Sunhe, chips: 925
+Folds: Choepu
+Pot size: 945
+Wins: Sunhe, chips: 945
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Choepu
+Small Blind: Choepu, chips: 5
+Big Blind: Sunhe, chips: 10
+Folds: Choepu
+Pot size: 15
+Wins: Sunhe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sunhe
+Small Blind: Sunhe, chips: 5
+Big Blind: Choepu, chips: 10
+Folds: Sunhe
+Pot size: 15
+Wins: Choepu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Choepu
+Small Blind: Choepu, chips: 5
+Big Blind: Sunhe, chips: 10
+Calls: Choepu
+Checks: Sunhe
+Flop: 7c 4d 3c
+Checks: Sunhe
+Checks: Choepu
+Turn: Qc
+Checks: Sunhe
+Checks: Choepu
+River: Tc
+Checks: Sunhe
+Checks: Choepu
+Pot size: 20
+Showdown Reached
+Shows: Choepu, Qs As
+Combination: Choepu, Pair ( Qs Qc As Tc 7c )
+Shows: Sunhe, 4h Ks
+Combination: Sunhe, Pair ( 4h 4d Ks Qc Tc )
+Wins: Choepu, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sunhe
+Small Blind: Sunhe, chips: 5
+Big Blind: Choepu, chips: 10
+Folds: Sunhe
+Pot size: 15
+Wins: Choepu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Choepu
+Small Blind: Choepu, chips: 5
+Big Blind: Sunhe, chips: 10
+Folds: Choepu
+Pot size: 15
+Wins: Sunhe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sunhe
+Small Blind: Sunhe, chips: 5
+Big Blind: Choepu, chips: 10
+Folds: Sunhe
+Pot size: 15
+Wins: Choepu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Choepu
+Small Blind: Choepu, chips: 5
+Big Blind: Sunhe, chips: 10
+Calls: Choepu
+Checks: Sunhe
+Flop: Tc Ts 4s
+Checks: Sunhe
+Checks: Choepu
+Turn: 2d
+Raises: Sunhe, chips: 10
+Raises: Choepu, chips: 10
+Calls: Sunhe
+River: 5s
+Raises: Sunhe, chips: 10
+Raises: Choepu, chips: 20
+Calls: Sunhe
+Pot size: 120
+Showdown Reached
+Shows: Choepu, 2s 2h
+Combination: Choepu, Full House ( 2s 2h 2d Tc Ts )
+Shows: Sunhe, Jd 4d
+Combination: Sunhe, Two Pair ( Tc Ts 4d 4s Jd )
+Wins: Choepu, chips: 120
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sunhe
+Small Blind: Sunhe, chips: 5
+Big Blind: Choepu, chips: 10
+Folds: Sunhe
+Pot size: 15
+Wins: Choepu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Choepu
+Small Blind: Choepu, chips: 5
+Big Blind: Sunhe, chips: 10
+Calls: Choepu
+Checks: Sunhe
+Flop: 5s 8s Tc
+Checks: Sunhe
+Checks: Choepu
+Turn: 2h
+Checks: Sunhe
+Checks: Choepu
+River: 3h
+Checks: Sunhe
+Checks: Choepu
+Pot size: 20
+Showdown Reached
+Shows: Choepu, Jc Qh
+Combination: Choepu, High Card ( Qh Jc Tc 8s 5s )
+Shows: Sunhe, 5h Ks
+Combination: Sunhe, Pair ( 5h 5s Ks Tc 8s )
+Wins: Sunhe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sunhe
+Small Blind: Sunhe, chips: 5
+Big Blind: Choepu, chips: 10
+Folds: Sunhe
+Pot size: 15
+Wins: Choepu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Choepu
+Small Blind: Choepu, chips: 5
+Big Blind: Sunhe, chips: 10
+Calls: Choepu
+Checks: Sunhe
+Flop: 2d 3d 8h
+Checks: Sunhe
+Raises: Choepu, chips: 10
+Calls: Sunhe
+Turn: Tc
+Raises: Sunhe, chips: 10
+Calls: Choepu
+River: 5s
+Checks: Sunhe
+Checks: Choepu
+Pot size: 60
+Showdown Reached
+Shows: Choepu, 9d Jd
+Combination: Choepu, High Card ( Jd Tc 9d 8h 5s )
+Shows: Sunhe, As 9s
+Combination: Sunhe, High Card ( As Tc 9s 8h 5s )
+Wins: Sunhe, chips: 60
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sunhe
+Small Blind: Sunhe, chips: 5
+Big Blind: Choepu, chips: 10
+Folds: Sunhe
+Pot size: 15
+Wins: Choepu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Choepu
+Small Blind: Choepu, chips: 5
+Big Blind: Sunhe, chips: 10
+Calls: Choepu
+Checks: Sunhe
+Flop: Ts Ad Ks
+Checks: Sunhe
+Checks: Choepu
+Turn: Qc
+Checks: Sunhe
+Checks: Choepu
+River: 2d
+Checks: Sunhe
+Raises: Choepu, chips: 10
+Folds: Sunhe
+Pot size: 30
+Wins: Choepu, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sunhe
+Small Blind: Sunhe, chips: 5
+Big Blind: Choepu, chips: 10
+Folds: Sunhe
+Pot size: 15
+Wins: Choepu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Choepu
+Small Blind: Choepu, chips: 5
+Big Blind: Sunhe, chips: 10
+Folds: Choepu
+Pot size: 15
+Wins: Sunhe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sunhe
+Small Blind: Sunhe, chips: 5
+Big Blind: Choepu, chips: 10
+Folds: Sunhe
+Pot size: 15
+Wins: Choepu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Choepu
+Small Blind: Choepu, chips: 5
+Big Blind: Sunhe, chips: 10
+Calls: Choepu
+Checks: Sunhe
+Flop: Jh 4d 5d
+Checks: Sunhe
+Checks: Choepu
+Turn: 6h
+Checks: Sunhe
+Checks: Choepu
+River: 3d
+Checks: Sunhe
+Checks: Choepu
+Pot size: 20
+Showdown Reached
+Shows: Choepu, Jd Qc
+Combination: Choepu, Pair ( Jd Jh Qc 6h 5d )
+Shows: Sunhe, Th Kh
+Combination: Sunhe, High Card ( Kh Jh Th 6h 5d )
+Wins: Choepu, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sunhe
+Small Blind: Sunhe, chips: 5
+Big Blind: Choepu, chips: 10
+Folds: Sunhe
+Pot size: 15
+Wins: Choepu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Choepu
+Small Blind: Choepu, chips: 5
+Big Blind: Sunhe, chips: 10
+Folds: Choepu
+Pot size: 15
+Wins: Sunhe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sunhe
+Small Blind: Sunhe, chips: 5
+Big Blind: Choepu, chips: 10
+Folds: Sunhe
+Pot size: 15
+Wins: Choepu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Choepu
+Small Blind: Choepu, chips: 5
+Big Blind: Sunhe, chips: 10
+Calls: Choepu
+Checks: Sunhe
+Flop: 4d 4c Qc
+Checks: Sunhe
+Checks: Choepu
+Turn: 8d
+Checks: Sunhe
+Checks: Choepu
+River: As
+Checks: Sunhe
+Checks: Choepu
+Pot size: 20
+Showdown Reached
+Shows: Choepu, 5s 3s
+Combination: Choepu, Pair ( 4d 4c As Qc 8d )
+Shows: Sunhe, 3h Ah
+Combination: Sunhe, Two Pair ( Ah As 4d 4c Qc )
+Wins: Sunhe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sunhe
+Small Blind: Sunhe, chips: 5
+Big Blind: Choepu, chips: 10
+Calls: Sunhe
+Checks: Choepu
+Flop: 3h 9d Js
+Checks: Choepu
+Checks: Sunhe
+Turn: Tc
+Checks: Choepu
+Raises: Sunhe, chips: 10
+Folds: Choepu
+Pot size: 30
+Wins: Sunhe, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Choepu
+Small Blind: Choepu, chips: 5
+Big Blind: Sunhe, chips: 10
+Folds: Choepu
+Pot size: 15
+Wins: Sunhe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sunhe
+Small Blind: Sunhe, chips: 5
+Big Blind: Choepu, chips: 10
+Folds: Sunhe
+Pot size: 15
+Wins: Choepu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Choepu
+Small Blind: Choepu, chips: 5
+Big Blind: Sunhe, chips: 10
+Folds: Choepu
+Pot size: 15
+Wins: Sunhe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sunhe
+Small Blind: Sunhe, chips: 5
+Big Blind: Choepu, chips: 10
+Calls: Sunhe
+Checks: Choepu
+Flop: Jd 2s 4h
+Raises: Choepu, chips: 10
+Calls: Sunhe
+Turn: Qh
+Checks: Choepu
+Checks: Sunhe
+River: 6d
+Checks: Choepu
+Checks: Sunhe
+Pot size: 40
+Showdown Reached
+Shows: Choepu, 6h 4s
+Combination: Choepu, Two Pair ( 6h 6d 4s 4h Qh )
+Shows: Sunhe, Js As
+Combination: Sunhe, Pair ( Js Jd As Qh 6d )
+Wins: Choepu, chips: 40
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Choepu
+Small Blind: Choepu, chips: 5
+Big Blind: Sunhe, chips: 10
+Calls: Choepu
+Checks: Sunhe
+Flop: 5s 9c 6d
+Checks: Sunhe
+Checks: Choepu
+Turn: Kd
+Checks: Sunhe
+Checks: Choepu
+River: 4c
+Checks: Sunhe
+Checks: Choepu
+Pot size: 20
+Showdown Reached
+Shows: Choepu, Jh Js
+Combination: Choepu, Pair ( Jh Js Kd 9c 6d )
+Shows: Sunhe, Qs Th
+Combination: Sunhe, High Card ( Kd Qs Th 9c 6d )
+Wins: Choepu, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sunhe
+Small Blind: Sunhe, chips: 5
+Big Blind: Choepu, chips: 10
+Folds: Sunhe
+Pot size: 15
+Wins: Choepu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Choepu
+Small Blind: Choepu, chips: 5
+Big Blind: Sunhe, chips: 10
+Folds: Choepu
+Pot size: 15
+Wins: Sunhe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sunhe
+Small Blind: Sunhe, chips: 5
+Big Blind: Choepu, chips: 10
+Folds: Sunhe
+Pot size: 15
+Wins: Choepu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Choepu
+Small Blind: Choepu, chips: 5
+Big Blind: Sunhe, chips: 10
+Calls: Choepu
+Checks: Sunhe
+Flop: Qs Jc 9c
+Raises: Sunhe, chips: 10
+Calls: Choepu
+Turn: As
+Raises: Sunhe, chips: 10
+Calls: Choepu
+River: Ts
+Checks: Sunhe
+Raises: Choepu, chips: 10
+Folds: Sunhe
+Pot size: 70
+Wins: Choepu, chips: 70
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sunhe
+Small Blind: Sunhe, chips: 5
+Big Blind: Choepu, chips: 10
+Calls: Sunhe
+Checks: Choepu
+Flop: Kh 3d 9c
+Checks: Choepu
+Checks: Sunhe
+Turn: Qh
+Checks: Choepu
+Checks: Sunhe
+River: Jd
+Checks: Choepu
+Checks: Sunhe
+Pot size: 20
+Showdown Reached
+Shows: Choepu, 6s 4d
+Combination: Choepu, High Card ( Kh Qh Jd 9c 6s )
+Shows: Sunhe, Th 9s
+Combination: Sunhe, Straight ( Kh Qh Jd Th 9s )
+Wins: Sunhe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Choepu
+Small Blind: Choepu, chips: 5
+Big Blind: Sunhe, chips: 10
+Folds: Choepu
+Pot size: 15
+Wins: Sunhe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sunhe
+Small Blind: Sunhe, chips: 5
+Big Blind: Choepu, chips: 10
+Calls: Sunhe
+Checks: Choepu
+Flop: Ad Ks Ah
+Checks: Choepu
+Checks: Sunhe
+Turn: Qs
+Checks: Choepu
+Checks: Sunhe
+River: 9s
+Checks: Choepu
+Raises: Sunhe, chips: 10
+Folds: Choepu
+Pot size: 30
+Wins: Sunhe, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Choepu
+Small Blind: Choepu, chips: 5
+Big Blind: Sunhe, chips: 10
+Folds: Choepu
+Pot size: 15
+Wins: Sunhe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sunhe
+Small Blind: Sunhe, chips: 5
+Big Blind: Choepu, chips: 10
+Folds: Sunhe
+Pot size: 15
+Wins: Choepu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Choepu
+Small Blind: Choepu, chips: 5
+Big Blind: Sunhe, chips: 10
+Folds: Choepu
+Pot size: 15
+Wins: Sunhe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sunhe
+Small Blind: Sunhe, chips: 5
+Big Blind: Choepu, chips: 10
+Folds: Sunhe
+Pot size: 15
+Wins: Choepu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Choepu
+Small Blind: Choepu, chips: 5
+Big Blind: Sunhe, chips: 10
+Calls: Choepu
+Checks: Sunhe
+Flop: Ts 5s 4d
+Raises: Sunhe, chips: 10
+Calls: Choepu
+Turn: Kd
+Checks: Sunhe
+Checks: Choepu
+River: Ks
+Raises: Sunhe, chips: 10
+Calls: Choepu
+Pot size: 60
+Showdown Reached
+Shows: Choepu, As 9c
+Combination: Choepu, Pair ( Kd Ks As Ts 9c )
+Shows: Sunhe, 8c 4h
+Combination: Sunhe, Two Pair ( Kd Ks 4h 4d Ts )
+Wins: Sunhe, chips: 60
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sunhe
+Small Blind: Sunhe, chips: 5
+Big Blind: Choepu, chips: 10
+Calls: Sunhe
+Checks: Choepu
+Flop: 5h 3h 9s
+Checks: Choepu
+Checks: Sunhe
+Turn: 7s
+Checks: Choepu
+Checks: Sunhe
+River: Qs
+Checks: Choepu
+Raises: Sunhe, chips: 10
+Raises: Choepu, chips: 6100
+Calls: Sunhe
+Pot size: 7000
+Showdown Reached
+Shows: Choepu, 6d 4c
+Combination: Choepu, Straight ( 7s 6d 5h 4c 3h )
+Shows: Sunhe, Qh 9c
+Combination: Sunhe, Two Pair ( Qh Qs 9c 9s 7s )
+Wins: Choepu, chips: 7000
+Quits: Sunhe, chips: 0
+Ranking: Choepu, Place: 1, Score: 6000
+Reveal AI: Choepu, AI: Smart
+Ranking: Sunhe, Place: 2, Score: -1000
+Reveal AI: Sunhe, AI: Smart
+Ranking: Ginheedi, Place: 3, Score: -1000
+Reveal AI: Ginheedi, AI: AIMyBot1
+Ranking: Tusewrop, Place: 4, Score: -1000
+Reveal AI: Tusewrop, AI: Call
+Ranking: Churlitet, Place: 5, Score: -1000
+Reveal AI: Churlitet, AI: Random
+Ranking: Peegoema, Place: 6, Score: -1000
+Reveal AI: Peegoema, AI: Random
+Ranking: Gifoedeet, Place: 7, Score: -1000
+Reveal AI: Gifoedeet, AI: Call
+
+Player Stats for Choepu, AI: Smart
+General: deals: 103, actions: 187, preflop actions: 88
+Rounds Seen: flops: 37, turns: 33, rivers: 31, showdowns: 26
+Wins: total: 46, showdown: 16, bluff: 30
+Chips: won: 19355, lost: 13355, bought: 1000, forced bets: 690
+Pre-Flop Stats: VP$IP: 0.300971, PFR: 0.0582524, 3Bet: 0.0582524
+Post-Flop Stats: AF: 1, WSD: 0.702703, WSDW: 0.615385
+
+
+Player Stats for Churlitet, AI: Random
+General: deals: 4, actions: 11, preflop actions: 6
+Rounds Seen: flops: 45, turns: 43, rivers: 41, showdowns: 36
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1253, bought: 1000, forced bets: 5
+Pre-Flop Stats: VP$IP: 0.5, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: 0.5, WSD: 0.8, WSDW: 0
+
+
+Player Stats for Gifoedeet, AI: Call
+General: deals: 1, actions: 2, preflop actions: 2
+Rounds Seen: flops: 48, turns: 46, rivers: 44, showdowns: 39
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 0
+Pre-Flop Stats: VP$IP: 1, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 0.8125, WSDW: 0
+
+
+Player Stats for Ginheedi, AI: AIMyBot1
+General: deals: 26, actions: 70, preflop actions: 30
+Rounds Seen: flops: 48, turns: 46, rivers: 44, showdowns: 39
+Wins: total: 19, showdown: 10, bluff: 9
+Chips: won: 21027, lost: 22027, bought: 1000, forced bets: 120
+Pre-Flop Stats: VP$IP: 0.884615, PFR: 0.884615, 3Bet: 0.692308
+Post-Flop Stats: AF: 1.#INF, WSD: 0.8125, WSDW: 0.25641
+
+
+Player Stats for Peegoema, AI: Random
+General: deals: 1, actions: 1, preflop actions: 1
+Rounds Seen: flops: 48, turns: 46, rivers: 44, showdowns: 39
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 0
+Pre-Flop Stats: VP$IP: 1, PFR: 1, 3Bet: 1
+Post-Flop Stats: AF: -1.#IND, WSD: 0.8125, WSDW: 0
+
+
+Player Stats for Sunhe, AI: Smart
+General: deals: 103, actions: 186, preflop actions: 89
+Rounds Seen: flops: 32, turns: 30, rivers: 28, showdowns: 23
+Wins: total: 36, showdown: 11, bluff: 25
+Chips: won: 4535, lost: 10775, bought: 1000, forced bets: 685
+Pre-Flop Stats: VP$IP: 0.165049, PFR: 0.00970874, 3Bet: 0.00970874
+Post-Flop Stats: AF: 2.71429, WSD: 0.71875, WSDW: 0.478261
+
+
+Player Stats for Tusewrop, AI: Call
+General: deals: 12, actions: 58, preflop actions: 17
+Rounds Seen: flops: 48, turns: 46, rivers: 44, showdowns: 39
+Wins: total: 8, showdown: 8, bluff: 0
+Chips: won: 7904, lost: 8957, bought: 1000, forced bets: 45
+Pre-Flop Stats: VP$IP: 1, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: 0, WSD: 0.8125, WSDW: 0.205128
+
+

@@ -1,0 +1,8764 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Nodum: Call
+Chanheef: Call
+Juvee: Smart
+Poe: AIMyBot1
+Sifo: Random
+Gipaf: Smart
+Delut: Random
+
+Joins: Nodum, chips: 1000
+Joins: Chanheef, chips: 1000
+Joins: Juvee, chips: 1000
+Joins: Poe, chips: 1000
+Joins: Sifo, chips: 1000
+Joins: Gipaf, chips: 1000
+Joins: Delut, chips: 1000
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Nodum
+Small Blind: Chanheef, chips: 5
+Big Blind: Juvee, chips: 10
+Folds: Poe
+Folds: Sifo
+Folds: Gipaf
+Raises: Delut, chips: 20
+Calls: Nodum
+Calls: Chanheef
+Folds: Juvee
+Flop: 7h 8h Jd
+Checks: Chanheef
+Raises: Delut, chips: 20
+Calls: Nodum
+Calls: Chanheef
+Turn: 6d
+Checks: Chanheef
+Raises: Delut, chips: 20
+Calls: Nodum
+Calls: Chanheef
+River: Tc
+Checks: Chanheef
+Checks: Delut
+Checks: Nodum
+Pot size: 220
+Showdown Reached
+Shows: Nodum, Th Ts
+Combination: Nodum, Three Of A Kind ( Th Ts Tc Jd 8h )
+Shows: Chanheef, 3h Qd
+Combination: Chanheef, High Card ( Qd Jd Tc 8h 7h )
+Shows: Delut, 5d 7d
+Combination: Delut, Pair ( 7d 7h Jd Tc 8h )
+Wins: Nodum, chips: 220
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chanheef
+Small Blind: Juvee, chips: 5
+Big Blind: Poe, chips: 10
+Raises: Sifo, chips: 20
+Folds: Gipaf
+Raises: Delut, chips: 50
+Calls: Nodum
+Calls: Chanheef
+Folds: Juvee
+Folds: Poe
+Calls: Sifo
+Flop: 8c 9c Ks
+Raises: Sifo, chips: 50
+Calls: Delut
+Calls: Nodum
+Calls: Chanheef
+Turn: Kc
+Checks: Sifo
+Raises: Delut, chips: 50
+Calls: Nodum
+Calls: Chanheef
+Folds: Sifo
+River: Qc
+Raises: Delut, chips: 50
+Calls: Nodum
+Calls: Chanheef
+Pot size: 835
+Showdown Reached
+Shows: Nodum, 8d 6c
+Combination: Nodum, Flush ( Kc Qc 9c 8c 6c )
+Shows: Chanheef, Ts 9s
+Combination: Chanheef, Two Pair ( Ks Kc 9s 9c Qc )
+Boasts: Sifo, 7c Kh
+Shows: Delut, 4d Kd
+Combination: Delut, Three Of A Kind ( Kd Ks Kc Qc 9c )
+Wins: Nodum, chips: 835
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Juvee
+Small Blind: Poe, chips: 5
+Big Blind: Sifo, chips: 10
+Calls: Gipaf
+Calls: Delut
+Calls: Nodum
+Calls: Chanheef
+Folds: Juvee
+Folds: Poe
+Raises: Sifo, chips: 10
+Calls: Gipaf
+Calls: Delut
+Calls: Nodum
+Calls: Chanheef
+Flop: 7s 7d Jd
+Raises: Sifo, chips: 10
+Folds: Gipaf
+Folds: Delut
+Calls: Nodum
+Calls: Chanheef
+Turn: 4h
+Checks: Sifo
+Checks: Nodum
+Checks: Chanheef
+River: Jc
+Checks: Sifo
+Checks: Nodum
+Checks: Chanheef
+Pot size: 135
+Showdown Reached
+Shows: Nodum, 7h 6h
+Combination: Nodum, Full House ( 7h 7s 7d Jd Jc )
+Shows: Chanheef, 5d 2h
+Combination: Chanheef, Two Pair ( Jd Jc 7s 7d 5d )
+Shows: Sifo, 6d 9s
+Combination: Sifo, Two Pair ( Jd Jc 7s 7d 9s )
+Boasts: Delut, Ts 8h
+Wins: Nodum, chips: 135
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Sifo, chips: 5
+Big Blind: Gipaf, chips: 10
+Raises: Delut, chips: 20
+Calls: Nodum
+Calls: Chanheef
+Folds: Juvee
+Folds: Poe
+Folds: Sifo
+Calls: Gipaf
+Flop: 6h Th 9d
+Checks: Gipaf
+Checks: Delut
+Checks: Nodum
+Checks: Chanheef
+Turn: Jh
+Checks: Gipaf
+Checks: Delut
+Checks: Nodum
+Checks: Chanheef
+River: 3h
+Checks: Gipaf
+Checks: Delut
+Checks: Nodum
+Checks: Chanheef
+Pot size: 125
+Showdown Reached
+Shows: Nodum, 5h Jc
+Combination: Nodum, Flush ( Jh Th 6h 5h 3h )
+Shows: Chanheef, Tc 4c
+Combination: Chanheef, Pair ( Tc Th Jh 9d 6h )
+Shows: Gipaf, Js Qd
+Combination: Gipaf, Pair ( Js Jh Qd Th 9d )
+Shows: Delut, Ah 8d
+Combination: Delut, Flush ( Ah Jh Th 6h 3h )
+Wins: Delut, chips: 125
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sifo
+Small Blind: Gipaf, chips: 5
+Big Blind: Delut, chips: 10
+Calls: Nodum
+Calls: Chanheef
+Folds: Juvee
+Folds: Poe
+Raises: Sifo, chips: 20
+Calls: Gipaf
+Folds: Delut
+Calls: Nodum
+Calls: Chanheef
+Flop: Kc Tc Js
+Checks: Gipaf
+Checks: Nodum
+Checks: Chanheef
+Checks: Sifo
+Turn: Qc
+Checks: Gipaf
+Checks: Nodum
+Checks: Chanheef
+Checks: Sifo
+River: 7h
+Checks: Gipaf
+Checks: Nodum
+Checks: Chanheef
+Checks: Sifo
+Pot size: 130
+Showdown Reached
+Shows: Nodum, 9s 2c
+Combination: Nodum, Straight ( Kc Qc Js Tc 9s )
+Shows: Chanheef, 3d 7c
+Combination: Chanheef, Pair ( 7c 7h Kc Qc Js )
+Shows: Sifo, Qh Th
+Combination: Sifo, Two Pair ( Qh Qc Th Tc Kc )
+Shows: Gipaf, 5s 5d
+Combination: Gipaf, Pair ( 5s 5d Kc Qc Js )
+Wins: Nodum, chips: 130
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Delut, chips: 5
+Big Blind: Nodum, chips: 10
+Calls: Chanheef
+Folds: Juvee
+Folds: Poe
+Folds: Sifo
+Folds: Gipaf
+Calls: Delut
+Checks: Nodum
+Flop: Kh 6d Tc
+Checks: Delut
+Checks: Nodum
+Checks: Chanheef
+Turn: 8h
+Raises: Delut, chips: 10
+Calls: Nodum
+Calls: Chanheef
+River: Kd
+Checks: Delut
+Checks: Nodum
+Checks: Chanheef
+Pot size: 60
+Showdown Reached
+Shows: Nodum, Ad 7h
+Combination: Nodum, Pair ( Kh Kd Ad Tc 8h )
+Shows: Chanheef, Ah Ac
+Combination: Chanheef, Two Pair ( Ah Ac Kh Kd Tc )
+Boasts: Sifo, Ks Td
+Shows: Delut, Ts Jh
+Combination: Delut, Two Pair ( Kh Kd Ts Tc Jh )
+Wins: Chanheef, chips: 60
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Delut
+Small Blind: Nodum, chips: 5
+Big Blind: Chanheef, chips: 10
+Folds: Juvee
+Folds: Poe
+Calls: Sifo
+Folds: Gipaf
+Calls: Delut
+Calls: Nodum
+Checks: Chanheef
+Flop: Th 8h 8s
+Checks: Nodum
+Checks: Chanheef
+Checks: Sifo
+Raises: Delut, chips: 10
+Calls: Nodum
+Calls: Chanheef
+Folds: Sifo
+Turn: 5d
+Checks: Nodum
+Checks: Chanheef
+Checks: Delut
+River: 2c
+Checks: Nodum
+Checks: Chanheef
+Raises: Delut, chips: 10
+Calls: Nodum
+Calls: Chanheef
+Pot size: 100
+Showdown Reached
+Shows: Nodum, 3c 7h
+Combination: Nodum, Pair ( 8h 8s Th 7h 5d )
+Shows: Chanheef, 5s 7d
+Combination: Chanheef, Two Pair ( 8h 8s 5s 5d Th )
+Shows: Delut, Qh 9s
+Combination: Delut, Pair ( 8h 8s Qh Th 9s )
+Wins: Chanheef, chips: 100
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Nodum
+Small Blind: Chanheef, chips: 5
+Big Blind: Juvee, chips: 10
+Folds: Poe
+Raises: Sifo, chips: 20
+Folds: Gipaf
+Raises: Delut, chips: 50
+Calls: Nodum
+Calls: Chanheef
+Folds: Juvee
+Folds: Sifo
+Flop: Th 3c 5c
+Checks: Chanheef
+Checks: Delut
+Checks: Nodum
+Turn: Qs
+Checks: Chanheef
+Checks: Delut
+Checks: Nodum
+River: Jh
+Checks: Chanheef
+Checks: Delut
+Checks: Nodum
+Pot size: 280
+Showdown Reached
+Shows: Nodum, 2h Ac
+Combination: Nodum, High Card ( Ac Qs Jh Th 5c )
+Shows: Chanheef, Ad 6c
+Combination: Chanheef, High Card ( Ad Qs Jh Th 6c )
+Boasts: Sifo, Qd 9h
+Shows: Delut, 8c 6d
+Combination: Delut, High Card ( Qs Jh Th 8c 6d )
+Wins: Chanheef, chips: 280
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chanheef
+Small Blind: Juvee, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Sifo
+Folds: Gipaf
+Folds: Delut
+Calls: Nodum
+Calls: Chanheef
+Calls: Juvee
+Checks: Poe
+Flop: 2s 6h Jc
+Checks: Juvee
+Checks: Poe
+Checks: Sifo
+Checks: Nodum
+Checks: Chanheef
+Turn: 7c
+Checks: Juvee
+Checks: Poe
+Checks: Sifo
+Checks: Nodum
+Checks: Chanheef
+River: 6s
+Checks: Juvee
+Checks: Poe
+Raises: Sifo, chips: 10
+Calls: Nodum
+Calls: Chanheef
+Folds: Juvee
+Folds: Poe
+Pot size: 80
+Showdown Reached
+Shows: Nodum, 9s 2d
+Combination: Nodum, Two Pair ( 6h 6s 2d 2s Jc )
+Shows: Chanheef, 4h Qc
+Combination: Chanheef, Pair ( 6h 6s Qc Jc 7c )
+Shows: Sifo, Kc 6c
+Combination: Sifo, Three Of A Kind ( 6c 6h 6s Kc Jc )
+Boasts: Delut, 8s Kh
+Wins: Sifo, chips: 80
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Juvee
+Small Blind: Poe, chips: 5
+Big Blind: Sifo, chips: 10
+Calls: Gipaf
+Raises: Delut, chips: 20
+Calls: Nodum
+Calls: Chanheef
+Folds: Juvee
+Folds: Poe
+Raises: Sifo, chips: 40
+Folds: Gipaf
+Raises: Delut, chips: 80
+Calls: Nodum
+Calls: Chanheef
+Calls: Sifo
+Flop: 4s 3h 5c
+Raises: Sifo, chips: 80
+Folds: Delut
+Calls: Nodum
+Calls: Chanheef
+Turn: 2h
+Checks: Sifo
+Checks: Nodum
+Checks: Chanheef
+River: 2c
+Checks: Sifo
+Checks: Nodum
+Checks: Chanheef
+Pot size: 855
+Showdown Reached
+Shows: Nodum, 5h 6h
+Combination: Nodum, Straight ( 6h 5h 4s 3h 2h )
+Shows: Chanheef, Qc Ks
+Combination: Chanheef, Pair ( 2h 2c Ks Qc 5c )
+Shows: Sifo, As Qd
+Combination: Sifo, Straight ( 5c 4s 3h 2h As )
+Wins: Nodum, chips: 855
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Sifo, chips: 5
+Big Blind: Gipaf, chips: 10
+Calls: Delut
+Calls: Nodum
+Calls: Chanheef
+Folds: Juvee
+Folds: Poe
+Folds: Sifo
+Checks: Gipaf
+Flop: 5h 5s Kc
+Checks: Gipaf
+Checks: Delut
+Checks: Nodum
+Checks: Chanheef
+Turn: 8h
+Checks: Gipaf
+Checks: Delut
+Checks: Nodum
+Checks: Chanheef
+River: 9c
+Checks: Gipaf
+Checks: Delut
+Checks: Nodum
+Checks: Chanheef
+Pot size: 45
+Showdown Reached
+Shows: Nodum, Js Td
+Combination: Nodum, Pair ( 5h 5s Kc Js Td )
+Shows: Chanheef, 3h Ah
+Combination: Chanheef, Pair ( 5h 5s Ah Kc 9c )
+Boasts: Sifo, Qs 5d
+Shows: Gipaf, 8d 3d
+Combination: Gipaf, Two Pair ( 8d 8h 5h 5s Kc )
+Shows: Delut, Jc 8c
+Combination: Delut, Two Pair ( 8c 8h 5h 5s Kc )
+Wins: Gipaf, chips: 23
+Wins: Delut, chips: 22
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sifo
+Small Blind: Gipaf, chips: 5
+Big Blind: Delut, chips: 10
+Calls: Nodum
+Calls: Chanheef
+Folds: Juvee
+Folds: Poe
+Folds: Sifo
+Calls: Gipaf
+Checks: Delut
+Flop: 4s Qd Ad
+Checks: Gipaf
+Raises: Delut, chips: 10
+Calls: Nodum
+Calls: Chanheef
+Calls: Gipaf
+Turn: 9c
+Checks: Gipaf
+Checks: Delut
+Checks: Nodum
+Checks: Chanheef
+River: 5s
+Checks: Gipaf
+Checks: Delut
+Checks: Nodum
+Checks: Chanheef
+Pot size: 80
+Showdown Reached
+Shows: Nodum, 7h Jc
+Combination: Nodum, High Card ( Ad Qd Jc 9c 7h )
+Shows: Chanheef, Jh Qc
+Combination: Chanheef, Pair ( Qc Qd Ad Jh 9c )
+Shows: Gipaf, Kd 4d
+Combination: Gipaf, Pair ( 4d 4s Ad Kd Qd )
+Shows: Delut, 4h As
+Combination: Delut, Two Pair ( As Ad 4h 4s Qd )
+Wins: Delut, chips: 80
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Delut, chips: 5
+Big Blind: Nodum, chips: 10
+Calls: Chanheef
+Folds: Juvee
+Folds: Poe
+Raises: Sifo, chips: 580
+Folds: Gipaf
+Calls: Delut
+Calls: Nodum
+Calls: Chanheef
+Flop: 9h 7c Th
+Checks: Nodum
+Checks: Chanheef
+Turn: 7s
+Checks: Nodum
+Checks: Chanheef
+River: 7h
+Checks: Nodum
+Checks: Chanheef
+Pot size: 2327
+Showdown Reached
+Shows: Nodum, Ah Qh
+Combination: Nodum, Flush ( Ah Qh Th 9h 7h )
+Shows: Chanheef, Kd 4s
+Combination: Chanheef, Three Of A Kind ( 7c 7s 7h Kd Th )
+Shows: Sifo, 9c As
+Combination: Sifo, Full House ( 7c 7s 7h 9c 9h )
+Shows: Delut, 6c Jd
+Combination: Delut, Three Of A Kind ( 7c 7s 7h Jd Th )
+Wins: Sifo, chips: 2327
+Quits: Delut, chips: 0
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Nodum
+Small Blind: Chanheef, chips: 5
+Big Blind: Juvee, chips: 10
+Folds: Poe
+Raises: Sifo, chips: 20
+Raises: Gipaf, chips: 50
+Calls: Nodum
+Calls: Chanheef
+Folds: Juvee
+Raises: Sifo, chips: 100
+Calls: Gipaf
+Calls: Nodum
+Flop: 7c 6h 3c
+Checks: Sifo
+Checks: Gipaf
+Checks: Nodum
+Turn: Jh
+Checks: Sifo
+Checks: Gipaf
+Checks: Nodum
+River: 8d
+Raises: Sifo, chips: 100
+Folds: Gipaf
+Calls: Nodum
+Pot size: 800
+Showdown Reached
+Shows: Nodum, 7s Tc
+Combination: Nodum, Pair ( 7s 7c Jh Tc 8d )
+Shows: Chanheef, Ks 2c
+Combination: Chanheef, High Card ( Ks Jh 8d 7c 6h )
+Shows: Sifo, Jd 8h
+Combination: Sifo, Two Pair ( Jd Jh 8h 8d 7c )
+Wins: Sifo, chips: 800
+Quits: Chanheef, chips: 0
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Juvee
+Small Blind: Poe, chips: 5
+Big Blind: Sifo, chips: 10
+Calls: Gipaf
+Calls: Nodum
+Calls: Juvee
+Folds: Poe
+Checks: Sifo
+Flop: As 4s 5h
+Checks: Sifo
+Checks: Gipaf
+Checks: Nodum
+Checks: Juvee
+Turn: 7c
+Checks: Sifo
+Checks: Gipaf
+Checks: Nodum
+Checks: Juvee
+River: Kc
+Checks: Sifo
+Raises: Gipaf, chips: 713
+Calls: Nodum
+Folds: Juvee
+Calls: Sifo
+Pot size: 2184
+Showdown Reached
+Shows: Nodum, Qh Jc
+Combination: Nodum, High Card ( As Kc Qh Jc 7c )
+Shows: Sifo, 5s 3h
+Combination: Sifo, Pair ( 5s 5h As Kc 7c )
+Shows: Gipaf, 4c 4h
+Combination: Gipaf, Three Of A Kind ( 4c 4h 4s As Kc )
+Wins: Gipaf, chips: 2184
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Sifo, chips: 5
+Big Blind: Gipaf, chips: 10
+Calls: Nodum
+Folds: Juvee
+Folds: Poe
+Calls: Sifo
+Raises: Gipaf, chips: 10
+Calls: Nodum
+Calls: Sifo
+Flop: Jd 2s 2h
+Checks: Sifo
+Raises: Gipaf, chips: 10
+Calls: Nodum
+Raises: Sifo, chips: 20
+Calls: Gipaf
+Calls: Nodum
+Turn: 6s
+Raises: Sifo, chips: 20
+Raises: Gipaf, chips: 30
+Calls: Nodum
+Calls: Sifo
+River: 9d
+Checks: Sifo
+Checks: Gipaf
+Checks: Nodum
+Pot size: 300
+Showdown Reached
+Shows: Nodum, 3d Qh
+Combination: Nodum, Pair ( 2s 2h Qh Jd 9d )
+Shows: Sifo, Qc 4h
+Combination: Sifo, Pair ( 2s 2h Qc Jd 9d )
+Shows: Gipaf, Td Tc
+Combination: Gipaf, Two Pair ( Td Tc 2s 2h Jd )
+Wins: Gipaf, chips: 300
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sifo
+Small Blind: Gipaf, chips: 5
+Big Blind: Nodum, chips: 10
+Folds: Juvee
+Folds: Poe
+Folds: Sifo
+Folds: Gipaf
+Pot size: 15
+Boasts: Sifo, 2c 3s
+Wins: Nodum, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Nodum, chips: 5
+Big Blind: Juvee, chips: 10
+Folds: Poe
+Calls: Sifo
+Calls: Gipaf
+Calls: Nodum
+Checks: Juvee
+Flop: 6s Qc Ac
+Checks: Nodum
+Checks: Juvee
+Raises: Sifo, chips: 10
+Folds: Gipaf
+Calls: Nodum
+Folds: Juvee
+Turn: Th
+Checks: Nodum
+Raises: Sifo, chips: 10
+Calls: Nodum
+River: Qd
+Checks: Nodum
+Raises: Sifo, chips: 10
+Calls: Nodum
+Pot size: 100
+Showdown Reached
+Shows: Nodum, 8d Jh
+Combination: Nodum, Pair ( Qc Qd Ac Jh Th )
+Shows: Sifo, 4s 6h
+Combination: Sifo, Two Pair ( Qc Qd 6h 6s Ac )
+Wins: Sifo, chips: 100
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Nodum
+Small Blind: Juvee, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Sifo
+Folds: Gipaf
+Calls: Nodum
+Folds: Juvee
+Checks: Poe
+Flop: 3h Kh 8d
+Checks: Poe
+Checks: Sifo
+Checks: Nodum
+Turn: Js
+Checks: Poe
+Checks: Sifo
+Checks: Nodum
+River: 5h
+Checks: Poe
+Checks: Sifo
+Checks: Nodum
+Pot size: 35
+Showdown Reached
+Shows: Nodum, 2s 7c
+Combination: Nodum, High Card ( Kh Js 8d 7c 5h )
+Shows: Poe, 7s 6s
+Combination: Poe, High Card ( Kh Js 8d 7s 6s )
+Shows: Sifo, 3c Qc
+Combination: Sifo, Pair ( 3c 3h Kh Qc Js )
+Wins: Sifo, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Juvee
+Small Blind: Poe, chips: 5
+Big Blind: Sifo, chips: 10
+Calls: Gipaf
+Calls: Nodum
+Folds: Juvee
+Folds: Poe
+Checks: Sifo
+Flop: 8s 2h 3c
+Raises: Sifo, chips: 10
+Folds: Gipaf
+Calls: Nodum
+Turn: Kc
+Checks: Sifo
+Checks: Nodum
+River: 2s
+Checks: Sifo
+Checks: Nodum
+Pot size: 55
+Showdown Reached
+Shows: Nodum, 7c Ad
+Combination: Nodum, Pair ( 2h 2s Ad Kc 8s )
+Shows: Sifo, Ac Tc
+Combination: Sifo, Pair ( 2h 2s Ac Kc Tc )
+Wins: Sifo, chips: 55
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Sifo, chips: 5
+Big Blind: Gipaf, chips: 10
+Calls: Nodum
+Calls: Juvee
+Folds: Poe
+Raises: Sifo, chips: 15
+Calls: Gipaf
+Calls: Nodum
+Folds: Juvee
+Flop: 4d 5h 5s
+Checks: Sifo
+Raises: Gipaf, chips: 2334
+Calls: Nodum
+Calls: Sifo
+Turn: 8h
+River: 8d
+Pot size: 5130
+Showdown Reached
+Shows: Nodum, 3s Ac
+Combination: Nodum, Two Pair ( 8h 8d 5h 5s Ac )
+Shows: Sifo, As 7c
+Combination: Sifo, Two Pair ( 8h 8d 5h 5s As )
+Shows: Gipaf, 5c 6c
+Combination: Gipaf, Full House ( 5c 5h 5s 8h 8d )
+Wins: Gipaf, chips: 5130
+Quits: Nodum, chips: 0
+Quits: Sifo, chips: 0
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Juvee, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Calls: Juvee
+Checks: Poe
+Flop: Qd 3h 2s
+Checks: Juvee
+Checks: Poe
+Turn: Jc
+Checks: Juvee
+Checks: Poe
+River: 9s
+Checks: Juvee
+Checks: Poe
+Pot size: 20
+Showdown Reached
+Shows: Juvee, Ts 9d
+Combination: Juvee, Pair ( 9d 9s Qd Jc Ts )
+Shows: Poe, Kh Kc
+Combination: Poe, Pair ( Kh Kc Qd Jc 9s )
+Wins: Poe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Juvee
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Calls: Juvee
+Folds: Poe
+Checks: Gipaf
+Flop: 5d 8d Qs
+Checks: Gipaf
+Raises: Juvee, chips: 900
+Folds: Gipaf
+Pot size: 925
+Wins: Juvee, chips: 925
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Gipaf, chips: 5
+Big Blind: Juvee, chips: 10
+Folds: Poe
+Folds: Gipaf
+Pot size: 15
+Wins: Juvee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Juvee, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Calls: Juvee
+Checks: Poe
+Flop: 8c 8h Js
+Checks: Juvee
+Checks: Poe
+Checks: Gipaf
+Turn: 7h
+Checks: Juvee
+Checks: Poe
+Checks: Gipaf
+River: 7s
+Checks: Juvee
+Checks: Poe
+Checks: Gipaf
+Pot size: 30
+Showdown Reached
+Shows: Juvee, Th Ks
+Combination: Juvee, Two Pair ( 8c 8h 7h 7s Ks )
+Shows: Poe, Qh 5c
+Combination: Poe, Two Pair ( 8c 8h 7h 7s Qh )
+Shows: Gipaf, 4h 4c
+Combination: Gipaf, Two Pair ( 8c 8h 7h 7s Js )
+Wins: Juvee, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Juvee
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Juvee
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Gipaf, chips: 5
+Big Blind: Juvee, chips: 10
+Folds: Poe
+Folds: Gipaf
+Pot size: 15
+Wins: Juvee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Juvee, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Calls: Juvee
+Checks: Poe
+Flop: 9s 7d Jd
+Checks: Juvee
+Checks: Poe
+Turn: Ac
+Checks: Juvee
+Checks: Poe
+River: Jc
+Checks: Juvee
+Checks: Poe
+Pot size: 20
+Showdown Reached
+Shows: Juvee, Kc 5c
+Combination: Juvee, Pair ( Jd Jc Ac Kc 9s )
+Shows: Poe, Td Tc
+Combination: Poe, Two Pair ( Jd Jc Td Tc Ac )
+Wins: Poe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Juvee
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Raises: Juvee, chips: 10
+Folds: Poe
+Folds: Gipaf
+Pot size: 35
+Wins: Juvee, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Gipaf, chips: 5
+Big Blind: Juvee, chips: 10
+Folds: Poe
+Calls: Gipaf
+Checks: Juvee
+Flop: 7d 7s 8s
+Raises: Gipaf, chips: 10
+Calls: Juvee
+Turn: 5s
+Checks: Gipaf
+Raises: Juvee, chips: 10
+Folds: Gipaf
+Pot size: 50
+Wins: Juvee, chips: 50
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Juvee, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Folds: Juvee
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Juvee
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Juvee
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Gipaf, chips: 5
+Big Blind: Juvee, chips: 10
+Folds: Poe
+Calls: Gipaf
+Checks: Juvee
+Flop: 7d 3d 4c
+Raises: Gipaf, chips: 10
+Folds: Juvee
+Pot size: 30
+Wins: Gipaf, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Juvee, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Raises: Juvee, chips: 15
+Folds: Poe
+Pot size: 35
+Wins: Juvee, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Juvee
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Juvee
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Gipaf, chips: 5
+Big Blind: Juvee, chips: 10
+Folds: Poe
+Folds: Gipaf
+Pot size: 15
+Wins: Juvee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Juvee, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Folds: Juvee
+Checks: Poe
+Flop: 4s Th 2c
+Checks: Poe
+Checks: Gipaf
+Turn: Ac
+Checks: Poe
+Raises: Gipaf, chips: 10
+Folds: Poe
+Pot size: 35
+Wins: Gipaf, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Juvee
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Juvee
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Gipaf, chips: 5
+Big Blind: Juvee, chips: 10
+Folds: Poe
+Folds: Gipaf
+Pot size: 15
+Wins: Juvee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Juvee, chips: 5
+Big Blind: Poe, chips: 10
+Raises: Gipaf, chips: 10
+Folds: Juvee
+Folds: Poe
+Pot size: 35
+Wins: Gipaf, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Juvee
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Calls: Juvee
+Folds: Poe
+Checks: Gipaf
+Flop: 3h 2h Jh
+Checks: Gipaf
+Checks: Juvee
+Turn: 8s
+Raises: Gipaf, chips: 10
+Folds: Juvee
+Pot size: 35
+Wins: Gipaf, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Gipaf, chips: 5
+Big Blind: Juvee, chips: 10
+Folds: Poe
+Folds: Gipaf
+Pot size: 15
+Wins: Juvee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Juvee, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Calls: Juvee
+Checks: Poe
+Flop: 4d Ad 5c
+Checks: Juvee
+Checks: Poe
+Checks: Gipaf
+Turn: 7d
+Checks: Juvee
+Checks: Poe
+Checks: Gipaf
+River: Kh
+Checks: Juvee
+Checks: Poe
+Checks: Gipaf
+Pot size: 30
+Showdown Reached
+Shows: Juvee, 8s Jd
+Combination: Juvee, High Card ( Ad Kh Jd 8s 7d )
+Shows: Poe, Qs Td
+Combination: Poe, High Card ( Ad Kh Qs Td 7d )
+Shows: Gipaf, Ks Jh
+Combination: Gipaf, Pair ( Ks Kh Ad Jh 7d )
+Wins: Gipaf, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Juvee
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Juvee
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Gipaf, chips: 5
+Big Blind: Juvee, chips: 10
+Folds: Poe
+Folds: Gipaf
+Pot size: 15
+Wins: Juvee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Juvee, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Folds: Juvee
+Checks: Poe
+Flop: Th 5d 3c
+Checks: Poe
+Checks: Gipaf
+Turn: 8c
+Checks: Poe
+Checks: Gipaf
+River: 3s
+Checks: Poe
+Checks: Gipaf
+Pot size: 25
+Showdown Reached
+Shows: Poe, Qs Ac
+Combination: Poe, Pair ( 3c 3s Ac Qs Th )
+Shows: Gipaf, 6s 9s
+Combination: Gipaf, Pair ( 3c 3s Th 9s 8c )
+Wins: Poe, chips: 25
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Juvee
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Juvee
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Gipaf, chips: 5
+Big Blind: Juvee, chips: 10
+Folds: Poe
+Folds: Gipaf
+Pot size: 15
+Wins: Juvee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Juvee, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Calls: Juvee
+Checks: Poe
+Flop: 4s 5s 5h
+Checks: Juvee
+Checks: Poe
+Checks: Gipaf
+Turn: 7c
+Checks: Juvee
+Checks: Poe
+Raises: Gipaf, chips: 10
+Folds: Juvee
+Folds: Poe
+Pot size: 40
+Wins: Gipaf, chips: 40
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Juvee
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Juvee
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Gipaf, chips: 5
+Big Blind: Juvee, chips: 10
+Folds: Poe
+Folds: Gipaf
+Pot size: 15
+Wins: Juvee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Juvee, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Folds: Juvee
+Checks: Poe
+Flop: 9h Td 8s
+Checks: Poe
+Raises: Gipaf, chips: 10
+Folds: Poe
+Pot size: 35
+Wins: Gipaf, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Juvee
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Juvee
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Gipaf, chips: 5
+Big Blind: Juvee, chips: 10
+Folds: Poe
+Folds: Gipaf
+Pot size: 15
+Wins: Juvee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Juvee, chips: 5
+Big Blind: Poe, chips: 10
+Raises: Gipaf, chips: 20
+Folds: Juvee
+Folds: Poe
+Pot size: 45
+Wins: Gipaf, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Juvee
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Calls: Juvee
+Folds: Poe
+Checks: Gipaf
+Flop: 3d 9h Ad
+Checks: Gipaf
+Checks: Juvee
+Turn: 9s
+Raises: Gipaf, chips: 5180
+Calls: Juvee
+River: 4h
+Pot size: 6150
+Showdown Reached
+Shows: Juvee, Ac Jh
+Combination: Juvee, Two Pair ( Ac Ad 9h 9s Jh )
+Shows: Gipaf, Qc 9c
+Combination: Gipaf, Three Of A Kind ( 9c 9h 9s Ad Qc )
+Wins: Gipaf, chips: 6150
+Quits: Juvee, chips: 0
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: 7h 9d Ts
+Checks: Poe
+Checks: Gipaf
+Turn: Qh
+Checks: Poe
+Checks: Gipaf
+River: 5s
+Checks: Poe
+Checks: Gipaf
+Pot size: 20
+Showdown Reached
+Shows: Poe, Qd 3h
+Combination: Poe, Pair ( Qd Qh Ts 9d 7h )
+Shows: Gipaf, 5d 4s
+Combination: Gipaf, Pair ( 5d 5s Qh Ts 9d )
+Wins: Poe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: 7h 9c Jc
+Checks: Poe
+Checks: Gipaf
+Turn: 6d
+Checks: Poe
+Checks: Gipaf
+River: 8h
+Checks: Poe
+Checks: Gipaf
+Pot size: 20
+Showdown Reached
+Shows: Poe, Ts 4h
+Combination: Poe, Straight ( Jc Ts 9c 8h 7h )
+Shows: Gipaf, 7c 5c
+Combination: Gipaf, Straight ( 9c 8h 7c 6d 5c )
+Wins: Poe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: 4h Th Kd
+Checks: Poe
+Checks: Gipaf
+Turn: 3h
+Checks: Poe
+Checks: Gipaf
+River: 3d
+Checks: Poe
+Checks: Gipaf
+Pot size: 20
+Showdown Reached
+Shows: Poe, Qh 9d
+Combination: Poe, Pair ( 3h 3d Kd Qh Th )
+Shows: Gipaf, 9c 8c
+Combination: Gipaf, Pair ( 3h 3d Kd Th 9c )
+Wins: Poe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: 4s 4d Ad
+Checks: Poe
+Checks: Gipaf
+Turn: Ks
+Checks: Poe
+Checks: Gipaf
+River: 9h
+Checks: Poe
+Raises: Gipaf, chips: 6130
+Folds: Poe
+Pot size: 6150
+Wins: Gipaf, chips: 6150
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: 3c Qs Kd
+Checks: Poe
+Raises: Gipaf, chips: 10
+Folds: Poe
+Pot size: 30
+Wins: Gipaf, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: Qc 3h 3d
+Checks: Poe
+Raises: Gipaf, chips: 10
+Folds: Poe
+Pot size: 30
+Wins: Gipaf, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: Ad 7d Jc
+Checks: Poe
+Raises: Gipaf, chips: 10
+Folds: Poe
+Pot size: 30
+Wins: Gipaf, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Raises: Gipaf, chips: 15
+Folds: Poe
+Pot size: 35
+Wins: Gipaf, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: 2d 3d 4d
+Checks: Poe
+Checks: Gipaf
+Turn: 2c
+Checks: Poe
+Checks: Gipaf
+River: Qc
+Checks: Poe
+Checks: Gipaf
+Pot size: 20
+Showdown Reached
+Shows: Poe, 8c Ad
+Combination: Poe, Pair ( 2d 2c Ad Qc 8c )
+Shows: Gipaf, Ah Jc
+Combination: Gipaf, Pair ( 2d 2c Ah Qc Jc )
+Wins: Gipaf, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: 6h Ac 9c
+Checks: Poe
+Raises: Gipaf, chips: 10
+Folds: Poe
+Pot size: 30
+Wins: Gipaf, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: 9s 4s 9h
+Checks: Poe
+Checks: Gipaf
+Turn: Jd
+Checks: Poe
+Raises: Gipaf, chips: 10
+Folds: Poe
+Pot size: 30
+Wins: Gipaf, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: 5c 7d Td
+Checks: Poe
+Checks: Gipaf
+Turn: As
+Checks: Poe
+Checks: Gipaf
+River: Ks
+Checks: Poe
+Checks: Gipaf
+Pot size: 20
+Showdown Reached
+Shows: Poe, 7c Jd
+Combination: Poe, Pair ( 7c 7d As Ks Jd )
+Shows: Gipaf, 9c 8h
+Combination: Gipaf, High Card ( As Ks Td 9c 8h )
+Wins: Poe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Raises: Gipaf, chips: 15
+Folds: Poe
+Pot size: 35
+Wins: Gipaf, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: Td 9d 3h
+Checks: Poe
+Checks: Gipaf
+Turn: As
+Checks: Poe
+Checks: Gipaf
+River: 3c
+Checks: Poe
+Checks: Gipaf
+Pot size: 20
+Showdown Reached
+Shows: Poe, Kh Ah
+Combination: Poe, Two Pair ( Ah As 3h 3c Kh )
+Shows: Gipaf, 6c 5d
+Combination: Gipaf, Pair ( 3h 3c As Td 9d )
+Wins: Poe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: Th 3s Td
+Checks: Poe
+Checks: Gipaf
+Turn: 4h
+Checks: Poe
+Checks: Gipaf
+River: 8d
+Checks: Poe
+Checks: Gipaf
+Pot size: 20
+Showdown Reached
+Shows: Poe, 6s Jd
+Combination: Poe, Pair ( Th Td Jd 8d 6s )
+Shows: Gipaf, Qd 9s
+Combination: Gipaf, Pair ( Th Td Qd 9s 8d )
+Wins: Gipaf, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: Kc 6c Qc
+Checks: Poe
+Checks: Gipaf
+Turn: 5d
+Checks: Poe
+Raises: Gipaf, chips: 10
+Folds: Poe
+Pot size: 30
+Wins: Gipaf, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: Jh As 5d
+Checks: Poe
+Raises: Gipaf, chips: 10
+Folds: Poe
+Pot size: 30
+Wins: Gipaf, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: Th 7d 9d
+Checks: Poe
+Raises: Gipaf, chips: 10
+Folds: Poe
+Pot size: 30
+Wins: Gipaf, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: 4c Ac 2d
+Checks: Poe
+Raises: Gipaf, chips: 6315
+Folds: Poe
+Pot size: 6335
+Wins: Gipaf, chips: 6335
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: 7h Js 8h
+Checks: Poe
+Checks: Gipaf
+Turn: 9c
+Checks: Poe
+Raises: Gipaf, chips: 10
+Folds: Poe
+Pot size: 30
+Wins: Gipaf, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: 4c Td 8c
+Checks: Poe
+Raises: Gipaf, chips: 10
+Folds: Poe
+Pot size: 30
+Wins: Gipaf, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: Tc 9d Td
+Checks: Poe
+Checks: Gipaf
+Turn: Ad
+Checks: Poe
+Checks: Gipaf
+River: Kh
+Checks: Poe
+Checks: Gipaf
+Pot size: 20
+Showdown Reached
+Shows: Poe, 2s 7d
+Combination: Poe, Pair ( Tc Td Ad Kh 9d )
+Shows: Gipaf, 8c 7h
+Combination: Gipaf, Pair ( Tc Td Ad Kh 9d )
+Wins: Poe, chips: 10
+Wins: Gipaf, chips: 10
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: Qh 2h 5h
+Checks: Poe
+Raises: Gipaf, chips: 6365
+Folds: Poe
+Pot size: 6385
+Wins: Gipaf, chips: 6385
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: 5c 4d 5s
+Checks: Poe
+Checks: Gipaf
+Turn: 9d
+Checks: Poe
+Checks: Gipaf
+River: Th
+Checks: Poe
+Checks: Gipaf
+Pot size: 20
+Showdown Reached
+Shows: Poe, Qs Kh
+Combination: Poe, Pair ( 5c 5s Kh Qs Th )
+Shows: Gipaf, As 7s
+Combination: Gipaf, Pair ( 5c 5s As Th 9d )
+Wins: Gipaf, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: As Qs Js
+Checks: Poe
+Checks: Gipaf
+Turn: 7d
+Checks: Poe
+Checks: Gipaf
+River: Td
+Checks: Poe
+Checks: Gipaf
+Pot size: 20
+Showdown Reached
+Shows: Poe, 5c 4d
+Combination: Poe, High Card ( As Qs Js Td 7d )
+Shows: Gipaf, 7h 9h
+Combination: Gipaf, Pair ( 7h 7d As Qs Js )
+Wins: Gipaf, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Raises: Gipaf, chips: 15
+Folds: Poe
+Pot size: 35
+Wins: Gipaf, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: Qh 6c 4d
+Checks: Poe
+Checks: Gipaf
+Turn: 6d
+Checks: Poe
+Raises: Gipaf, chips: 10
+Folds: Poe
+Pot size: 30
+Wins: Gipaf, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: Kc Tc 8c
+Checks: Poe
+Checks: Gipaf
+Turn: 4c
+Checks: Poe
+Checks: Gipaf
+River: 7c
+Checks: Poe
+Checks: Gipaf
+Pot size: 20
+Showdown Reached
+Shows: Poe, 5c Qh
+Combination: Poe, Flush ( Kc Tc 8c 7c 5c )
+Shows: Gipaf, 6d 4d
+Combination: Gipaf, Flush ( Kc Tc 8c 7c 4c )
+Wins: Poe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Raises: Gipaf, chips: 15
+Folds: Poe
+Pot size: 35
+Wins: Gipaf, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: 9s Jc 8d
+Checks: Poe
+Checks: Gipaf
+Turn: Th
+Checks: Poe
+Raises: Gipaf, chips: 6450
+Folds: Poe
+Pot size: 6470
+Wins: Gipaf, chips: 6470
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: 4d 5c Qh
+Checks: Poe
+Raises: Gipaf, chips: 10
+Folds: Poe
+Pot size: 30
+Wins: Gipaf, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: Ks Td Tc
+Checks: Poe
+Checks: Gipaf
+Turn: Qs
+Checks: Poe
+Checks: Gipaf
+River: 2h
+Checks: Poe
+Checks: Gipaf
+Pot size: 20
+Showdown Reached
+Shows: Poe, 6c 3c
+Combination: Poe, Pair ( Td Tc Ks Qs 6c )
+Shows: Gipaf, 9c 8s
+Combination: Gipaf, Pair ( Td Tc Ks Qs 9c )
+Wins: Gipaf, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: Kd Ac 7c
+Checks: Poe
+Raises: Gipaf, chips: 10
+Folds: Poe
+Pot size: 30
+Wins: Gipaf, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: Kh 2c 4d
+Checks: Poe
+Checks: Gipaf
+Turn: Qc
+Checks: Poe
+Checks: Gipaf
+River: Js
+Checks: Poe
+Checks: Gipaf
+Pot size: 20
+Showdown Reached
+Shows: Poe, 7c 3c
+Combination: Poe, High Card ( Kh Qc Js 7c 4d )
+Shows: Gipaf, 4s 6s
+Combination: Gipaf, Pair ( 4s 4d Kh Qc Js )
+Wins: Gipaf, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: 9d 5h Td
+Checks: Poe
+Raises: Gipaf, chips: 10
+Folds: Poe
+Pot size: 30
+Wins: Gipaf, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: 2h Qh 5h
+Checks: Poe
+Checks: Gipaf
+Turn: 7d
+Checks: Poe
+Checks: Gipaf
+River: Ts
+Checks: Poe
+Raises: Gipaf, chips: 6540
+Folds: Poe
+Pot size: 6560
+Wins: Gipaf, chips: 6560
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Raises: Gipaf, chips: 15
+Folds: Poe
+Pot size: 35
+Wins: Gipaf, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: 8c Th Ks
+Checks: Poe
+Raises: Gipaf, chips: 10
+Folds: Poe
+Pot size: 30
+Wins: Gipaf, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: 8d Qd As
+Checks: Poe
+Checks: Gipaf
+Turn: 7h
+Checks: Poe
+Raises: Gipaf, chips: 10
+Folds: Poe
+Pot size: 30
+Wins: Gipaf, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: Ah 2s Th
+Checks: Poe
+Checks: Gipaf
+Turn: 5h
+Checks: Poe
+Checks: Gipaf
+River: 9c
+Checks: Poe
+Checks: Gipaf
+Pot size: 20
+Showdown Reached
+Shows: Poe, Jc Ks
+Combination: Poe, High Card ( Ah Ks Jc Th 9c )
+Shows: Gipaf, Qs Kd
+Combination: Gipaf, High Card ( Ah Kd Qs Th 9c )
+Wins: Gipaf, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: Kh 7s Jd
+Checks: Poe
+Checks: Gipaf
+Turn: 2c
+Checks: Poe
+Checks: Gipaf
+River: 3d
+Checks: Poe
+Checks: Gipaf
+Pot size: 20
+Showdown Reached
+Shows: Poe, Kd Td
+Combination: Poe, Pair ( Kd Kh Jd Td 7s )
+Shows: Gipaf, 4h 4c
+Combination: Gipaf, Pair ( 4h 4c Kh Jd 7s )
+Wins: Poe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: 7h Qc Ks
+Checks: Poe
+Checks: Gipaf
+Turn: 4s
+Checks: Poe
+Checks: Gipaf
+River: 3s
+Checks: Poe
+Checks: Gipaf
+Pot size: 20
+Showdown Reached
+Shows: Poe, Js 3d
+Combination: Poe, Pair ( 3d 3s Ks Qc Js )
+Shows: Gipaf, 8c 7d
+Combination: Gipaf, Pair ( 7d 7h Ks Qc 8c )
+Wins: Gipaf, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Raises: Gipaf, chips: 6625
+Folds: Poe
+Pot size: 6645
+Wins: Gipaf, chips: 6645
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: Tc 6s 4d
+Checks: Poe
+Raises: Gipaf, chips: 10
+Folds: Poe
+Pot size: 30
+Wins: Gipaf, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: 3c 8c 4s
+Checks: Poe
+Checks: Gipaf
+Turn: Jc
+Checks: Poe
+Checks: Gipaf
+River: 6s
+Checks: Poe
+Checks: Gipaf
+Pot size: 20
+Showdown Reached
+Shows: Poe, 4h Td
+Combination: Poe, Pair ( 4h 4s Jc Td 8c )
+Shows: Gipaf, Js Kh
+Combination: Gipaf, Pair ( Js Jc Kh 8c 6s )
+Wins: Gipaf, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: As Ts Qh
+Checks: Poe
+Checks: Gipaf
+Turn: 8c
+Checks: Poe
+Checks: Gipaf
+River: Qs
+Checks: Poe
+Checks: Gipaf
+Pot size: 20
+Showdown Reached
+Shows: Poe, Td 8h
+Combination: Poe, Two Pair ( Qh Qs Td Ts As )
+Shows: Gipaf, Th Jh
+Combination: Gipaf, Two Pair ( Qh Qs Th Ts As )
+Wins: Poe, chips: 10
+Wins: Gipaf, chips: 10
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: Js 6h 3s
+Checks: Poe
+Checks: Gipaf
+Turn: Ks
+Checks: Poe
+Raises: Gipaf, chips: 6675
+Folds: Poe
+Pot size: 6695
+Wins: Gipaf, chips: 6695
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: 8d Ks 2h
+Checks: Poe
+Checks: Gipaf
+Turn: 5h
+Checks: Poe
+Checks: Gipaf
+River: 5c
+Checks: Poe
+Checks: Gipaf
+Pot size: 20
+Showdown Reached
+Shows: Poe, 8h 9h
+Combination: Poe, Two Pair ( 8h 8d 5h 5c Ks )
+Shows: Gipaf, 3h 3d
+Combination: Gipaf, Two Pair ( 5h 5c 3h 3d Ks )
+Wins: Poe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Raises: Gipaf, chips: 15
+Folds: Poe
+Pot size: 35
+Wins: Gipaf, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Raises: Gipaf, chips: 15
+Folds: Poe
+Pot size: 35
+Wins: Gipaf, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: Jh 7d Kc
+Checks: Poe
+Raises: Gipaf, chips: 10
+Folds: Poe
+Pot size: 30
+Wins: Gipaf, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: Kh 7c 6s
+Checks: Poe
+Checks: Gipaf
+Turn: Jc
+Checks: Poe
+Checks: Gipaf
+River: 2d
+Checks: Poe
+Raises: Gipaf, chips: 10
+Folds: Poe
+Pot size: 30
+Wins: Gipaf, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: 7d 4h Ts
+Checks: Poe
+Checks: Gipaf
+Turn: 9s
+Checks: Poe
+Checks: Gipaf
+River: 2c
+Checks: Poe
+Checks: Gipaf
+Pot size: 20
+Showdown Reached
+Shows: Poe, Th Ah
+Combination: Poe, Pair ( Th Ts Ah 9s 7d )
+Shows: Gipaf, 7s 6d
+Combination: Gipaf, Pair ( 7s 7d Ts 9s 6d )
+Wins: Poe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: Kc 2c 7h
+Checks: Poe
+Checks: Gipaf
+Turn: 7d
+Checks: Poe
+Checks: Gipaf
+River: Qs
+Checks: Poe
+Checks: Gipaf
+Pot size: 20
+Showdown Reached
+Shows: Poe, Ts Th
+Combination: Poe, Two Pair ( Ts Th 7h 7d Kc )
+Shows: Gipaf, Js 9d
+Combination: Gipaf, Pair ( 7h 7d Kc Qs Js )
+Wins: Poe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Raises: Gipaf, chips: 6735
+Folds: Poe
+Pot size: 6755
+Wins: Gipaf, chips: 6755
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: Qs 7s 8c
+Checks: Poe
+Raises: Gipaf, chips: 10
+Folds: Poe
+Pot size: 30
+Wins: Gipaf, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: 3h 3s 2s
+Checks: Poe
+Checks: Gipaf
+Turn: Jd
+Checks: Poe
+Checks: Gipaf
+River: 9d
+Checks: Poe
+Checks: Gipaf
+Pot size: 20
+Showdown Reached
+Shows: Poe, 6h 3d
+Combination: Poe, Three Of A Kind ( 3d 3h 3s Jd 9d )
+Shows: Gipaf, 5c 4c
+Combination: Gipaf, Pair ( 3h 3s Jd 9d 5c )
+Wins: Poe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: 2h Kh 2d
+Checks: Poe
+Checks: Gipaf
+Turn: 5c
+Checks: Poe
+Raises: Gipaf, chips: 10
+Folds: Poe
+Pot size: 30
+Wins: Gipaf, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: Tc Js 2c
+Checks: Poe
+Checks: Gipaf
+Turn: 4h
+Checks: Poe
+Raises: Gipaf, chips: 10
+Folds: Poe
+Pot size: 30
+Wins: Gipaf, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: 6d Jd Kc
+Checks: Poe
+Checks: Gipaf
+Turn: Js
+Checks: Poe
+Raises: Gipaf, chips: 10
+Folds: Poe
+Pot size: 30
+Wins: Gipaf, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: 7d 9h Ac
+Checks: Poe
+Checks: Gipaf
+Turn: Jh
+Checks: Poe
+Checks: Gipaf
+River: Td
+Checks: Poe
+Checks: Gipaf
+Pot size: 20
+Showdown Reached
+Shows: Poe, 4c Tc
+Combination: Poe, Pair ( Tc Td Ac Jh 9h )
+Shows: Gipaf, 9d Qh
+Combination: Gipaf, Pair ( 9d 9h Ac Qh Jh )
+Wins: Poe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: 7s 2s Jd
+Checks: Poe
+Checks: Gipaf
+Turn: Td
+Checks: Poe
+Checks: Gipaf
+River: As
+Checks: Poe
+Checks: Gipaf
+Pot size: 20
+Showdown Reached
+Shows: Poe, Ad Qs
+Combination: Poe, Pair ( Ad As Qs Jd Td )
+Shows: Gipaf, 8c Th
+Combination: Gipaf, Pair ( Th Td As Jd 8c )
+Wins: Poe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: 8c 4s 5s
+Checks: Poe
+Checks: Gipaf
+Turn: Kd
+Checks: Poe
+Checks: Gipaf
+River: 9d
+Checks: Poe
+Checks: Gipaf
+Pot size: 20
+Showdown Reached
+Shows: Poe, As 3d
+Combination: Poe, High Card ( As Kd 9d 8c 5s )
+Shows: Gipaf, 7d Td
+Combination: Gipaf, High Card ( Kd Td 9d 8c 7d )
+Wins: Poe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: 6s Ad Qc
+Checks: Poe
+Raises: Gipaf, chips: 6790
+Folds: Poe
+Pot size: 6810
+Wins: Gipaf, chips: 6810
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: 9d Ts Jh
+Checks: Poe
+Checks: Gipaf
+Turn: 3s
+Checks: Poe
+Raises: Gipaf, chips: 10
+Folds: Poe
+Pot size: 30
+Wins: Gipaf, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: Td 8c Tc
+Checks: Poe
+Checks: Gipaf
+Turn: Qs
+Checks: Poe
+Checks: Gipaf
+River: Kd
+Checks: Poe
+Checks: Gipaf
+Pot size: 20
+Showdown Reached
+Shows: Poe, 9c Ah
+Combination: Poe, Pair ( Td Tc Ah Kd Qs )
+Shows: Gipaf, 5s 3s
+Combination: Gipaf, Pair ( Td Tc Kd Qs 8c )
+Wins: Poe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: 9d 8c Kc
+Checks: Poe
+Checks: Gipaf
+Turn: 2d
+Checks: Poe
+Checks: Gipaf
+River: 8s
+Checks: Poe
+Checks: Gipaf
+Pot size: 20
+Showdown Reached
+Shows: Poe, 2s 3s
+Combination: Poe, Two Pair ( 8c 8s 2s 2d Kc )
+Shows: Gipaf, Jh 9h
+Combination: Gipaf, Two Pair ( 9h 9d 8c 8s Kc )
+Wins: Gipaf, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Raises: Gipaf, chips: 15
+Folds: Poe
+Pot size: 35
+Wins: Gipaf, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Raises: Gipaf, chips: 15
+Folds: Poe
+Pot size: 35
+Wins: Gipaf, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: 4h Qs Ad
+Checks: Poe
+Checks: Gipaf
+Turn: Tc
+Checks: Poe
+Checks: Gipaf
+River: Ts
+Checks: Poe
+Checks: Gipaf
+Pot size: 20
+Showdown Reached
+Shows: Poe, 3h Kd
+Combination: Poe, Pair ( Tc Ts Ad Kd Qs )
+Shows: Gipaf, 2d 2c
+Combination: Gipaf, Two Pair ( Tc Ts 2d 2c Ad )
+Wins: Gipaf, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: 5h Ts Qs
+Checks: Poe
+Checks: Gipaf
+Turn: Ks
+Checks: Poe
+Checks: Gipaf
+River: Ad
+Checks: Poe
+Raises: Gipaf, chips: 10
+Folds: Poe
+Pot size: 30
+Wins: Gipaf, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Raises: Gipaf, chips: 15
+Folds: Poe
+Pot size: 35
+Wins: Gipaf, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: 6c Ad Jh
+Checks: Poe
+Checks: Gipaf
+Turn: 7s
+Checks: Poe
+Checks: Gipaf
+River: 3s
+Checks: Poe
+Checks: Gipaf
+Pot size: 20
+Showdown Reached
+Shows: Poe, 7c 6s
+Combination: Poe, Two Pair ( 7c 7s 6s 6c Ad )
+Shows: Gipaf, 9h Tc
+Combination: Gipaf, High Card ( Ad Jh Tc 9h 7s )
+Wins: Poe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: Qc 7h 2h
+Checks: Poe
+Checks: Gipaf
+Turn: 7c
+Checks: Poe
+Checks: Gipaf
+River: 8h
+Checks: Poe
+Raises: Gipaf, chips: 10
+Folds: Poe
+Pot size: 30
+Wins: Gipaf, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: 7d 3c 7s
+Checks: Poe
+Raises: Gipaf, chips: 10
+Folds: Poe
+Pot size: 30
+Wins: Gipaf, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: Qh Ts 6c
+Checks: Poe
+Checks: Gipaf
+Turn: Qc
+Checks: Poe
+Checks: Gipaf
+River: Jd
+Checks: Poe
+Checks: Gipaf
+Pot size: 20
+Showdown Reached
+Shows: Poe, 2d 4d
+Combination: Poe, Pair ( Qh Qc Jd Ts 6c )
+Shows: Gipaf, 7h 4h
+Combination: Gipaf, Pair ( Qh Qc Jd Ts 7h )
+Wins: Gipaf, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: Ac 3s 5s
+Checks: Poe
+Checks: Gipaf
+Turn: Kc
+Checks: Poe
+Checks: Gipaf
+River: 2h
+Checks: Poe
+Checks: Gipaf
+Pot size: 20
+Showdown Reached
+Shows: Poe, Qc Ad
+Combination: Poe, Pair ( Ad Ac Kc Qc 5s )
+Shows: Gipaf, 2c 2d
+Combination: Gipaf, Three Of A Kind ( 2c 2d 2h Ac Kc )
+Wins: Gipaf, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: Jd 5d Kh
+Checks: Poe
+Checks: Gipaf
+Turn: 6d
+Checks: Poe
+Checks: Gipaf
+River: Ks
+Checks: Poe
+Checks: Gipaf
+Pot size: 20
+Showdown Reached
+Shows: Poe, 5c 4s
+Combination: Poe, Two Pair ( Kh Ks 5c 5d Jd )
+Shows: Gipaf, 9c 8d
+Combination: Gipaf, Pair ( Kh Ks Jd 9c 8d )
+Wins: Poe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: 4s 2s Qd
+Checks: Poe
+Checks: Gipaf
+Turn: 3c
+Checks: Poe
+Raises: Gipaf, chips: 10
+Folds: Poe
+Pot size: 30
+Wins: Gipaf, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: Qh 7d Ts
+Checks: Poe
+Raises: Gipaf, chips: 10
+Folds: Poe
+Pot size: 30
+Wins: Gipaf, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 5
+Flop: 5h 4h 4d
+Turn: 8s
+River: Tc
+Pot size: 10
+Showdown Reached
+Shows: Poe, 3h 8d
+Combination: Poe, Two Pair ( 8d 8s 4h 4d Tc )
+Shows: Gipaf, 4c Kd
+Combination: Gipaf, Three Of A Kind ( 4c 4h 4d Kd Tc )
+Wins: Gipaf, chips: 10
+Quits: Poe, chips: 0
+Ranking: Gipaf, Place: 1, Score: 6000
+Reveal AI: Gipaf, AI: Smart
+Ranking: Poe, Place: 2, Score: -1000
+Reveal AI: Poe, AI: AIMyBot1
+Ranking: Juvee, Place: 3, Score: -1000
+Reveal AI: Juvee, AI: Smart
+Ranking: Sifo, Place: 4, Score: -1000
+Reveal AI: Sifo, AI: Random
+Ranking: Nodum, Place: 5, Score: -1000
+Reveal AI: Nodum, AI: Call
+Ranking: Chanheef, Place: 6, Score: -1000
+Reveal AI: Chanheef, AI: Call
+Ranking: Delut, Place: 7, Score: -1000
+Reveal AI: Delut, AI: Random
+
+Player Stats for Chanheef, AI: Call
+General: deals: 14, actions: 61, preflop actions: 18
+Rounds Seen: flops: 102, turns: 80, rivers: 64, showdowns: 59
+Wins: total: 3, showdown: 3, bluff: 0
+Chips: won: 440, lost: 1470, bought: 1000, forced bets: 25
+Pre-Flop Stats: VP$IP: 0.928571, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: 0, WSD: 0.578431, WSDW: 0.0508475
+
+
+Player Stats for Delut, AI: Random
+General: deals: 13, actions: 41, preflop actions: 15
+Rounds Seen: flops: 100, turns: 76, rivers: 60, showdowns: 55
+Wins: total: 3, showdown: 3, bluff: 0
+Chips: won: 227, lost: 1260, bought: 1000, forced bets: 30
+Pre-Flop Stats: VP$IP: 0.769231, PFR: 0.384615, 3Bet: 0.384615
+Post-Flop Stats: AF: 8, WSD: 0.55, WSDW: 0.0545455
+
+
+Player Stats for Gipaf, AI: Smart
+General: deals: 398, actions: 426, preflop actions: 221
+Rounds Seen: flops: 91, turns: 66, rivers: 50, showdowns: 44
+Wins: total: 256, showdown: 22, bluff: 234
+Chips: won: 77072, lost: 71072, bought: 1000, forced bets: 2795
+Pre-Flop Stats: VP$IP: 0.253769, PFR: 0.040201, 3Bet: 0.0376884
+Post-Flop Stats: AF: 23.5, WSD: 0.483516, WSDW: 0.5
+
+
+Player Stats for Juvee, AI: Smart
+General: deals: 56, actions: 80, preflop actions: 48
+Rounds Seen: flops: 82, turns: 60, rivers: 45, showdowns: 38
+Wins: total: 14, showdown: 1, bluff: 13
+Chips: won: 1210, lost: 6445, bought: 1000, forced bets: 225
+Pre-Flop Stats: VP$IP: 0.232143, PFR: 0.0357143, 3Bet: 0.0357143
+Post-Flop Stats: AF: 1, WSD: 0.463415, WSDW: 0.0263158
+
+
+Player Stats for Nodum, AI: Call
+General: deals: 21, actions: 90, preflop actions: 26
+Rounds Seen: flops: 102, turns: 80, rivers: 64, showdowns: 59
+Wins: total: 6, showdown: 5, bluff: 1
+Chips: won: 2190, lost: 4932, bought: 1000, forced bets: 40
+Pre-Flop Stats: VP$IP: 0.904762, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: 0, WSD: 0.578431, WSDW: 0.0847458
+
+
+Player Stats for Poe, AI: AIMyBot1
+General: deals: 398, actions: 526, preflop actions: 306
+Rounds Seen: flops: 79, turns: 59, rivers: 45, showdowns: 39
+Wins: total: 113, showdown: 22, bluff: 91
+Chips: won: 1790, lost: 2790, bought: 1000, forced bets: 2790
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 0.493671, WSDW: 0.564103
+
+
+Player Stats for Sifo, AI: Random
+General: deals: 21, actions: 66, preflop actions: 26
+Rounds Seen: flops: 96, turns: 73, rivers: 56, showdowns: 51
+Wins: total: 6, showdown: 6, bluff: 0
+Chips: won: 3397, lost: 4612, bought: 1000, forced bets: 60
+Pre-Flop Stats: VP$IP: 0.619048, PFR: 0.380952, 3Bet: 0.333333
+Post-Flop Stats: AF: 3.66667, WSD: 0.53125, WSDW: 0.117647
+
+
+Date: 2026/04/30 12:55:03
+
+The game begins. The AI's of the players are: 
+Nodum: Call
+Chanheef: Call
+Juvee: Smart
+Poe: AIMyBot1
+Sifo: Random
+Gipaf: Smart
+Delut: Random
+
+Joins: Nodum, chips: 1000
+Joins: Chanheef, chips: 1000
+Joins: Juvee, chips: 1000
+Joins: Poe, chips: 1000
+Joins: Sifo, chips: 1000
+Joins: Gipaf, chips: 1000
+Joins: Delut, chips: 1000
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Nodum
+Small Blind: Chanheef, chips: 5
+Big Blind: Juvee, chips: 10
+Folds: Poe
+Folds: Sifo
+Folds: Gipaf
+Raises: Delut, chips: 20
+Calls: Nodum
+Calls: Chanheef
+Folds: Juvee
+Flop: 7h 8h Jd
+Checks: Chanheef
+Raises: Delut, chips: 20
+Calls: Nodum
+Calls: Chanheef
+Turn: 6d
+Checks: Chanheef
+Raises: Delut, chips: 20
+Calls: Nodum
+Calls: Chanheef
+River: Tc
+Checks: Chanheef
+Checks: Delut
+Checks: Nodum
+Pot size: 220
+Showdown Reached
+Shows: Nodum, Th Ts
+Combination: Nodum, Three Of A Kind ( Th Ts Tc Jd 8h )
+Shows: Chanheef, 3h Qd
+Combination: Chanheef, High Card ( Qd Jd Tc 8h 7h )
+Shows: Delut, 5d 7d
+Combination: Delut, Pair ( 7d 7h Jd Tc 8h )
+Wins: Nodum, chips: 220
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chanheef
+Small Blind: Juvee, chips: 5
+Big Blind: Poe, chips: 10
+Raises: Sifo, chips: 20
+Folds: Gipaf
+Raises: Delut, chips: 50
+Calls: Nodum
+Calls: Chanheef
+Folds: Juvee
+Folds: Poe
+Calls: Sifo
+Flop: 8c 9c Ks
+Raises: Sifo, chips: 50
+Calls: Delut
+Calls: Nodum
+Calls: Chanheef
+Turn: Kc
+Checks: Sifo
+Raises: Delut, chips: 50
+Calls: Nodum
+Calls: Chanheef
+Folds: Sifo
+River: Qc
+Raises: Delut, chips: 50
+Calls: Nodum
+Calls: Chanheef
+Pot size: 835
+Showdown Reached
+Shows: Nodum, 8d 6c
+Combination: Nodum, Flush ( Kc Qc 9c 8c 6c )
+Shows: Chanheef, Ts 9s
+Combination: Chanheef, Two Pair ( Ks Kc 9s 9c Qc )
+Boasts: Sifo, 7c Kh
+Shows: Delut, 4d Kd
+Combination: Delut, Three Of A Kind ( Kd Ks Kc Qc 9c )
+Wins: Nodum, chips: 835
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Juvee
+Small Blind: Poe, chips: 5
+Big Blind: Sifo, chips: 10
+Calls: Gipaf
+Calls: Delut
+Calls: Nodum
+Calls: Chanheef
+Folds: Juvee
+Folds: Poe
+Raises: Sifo, chips: 10
+Calls: Gipaf
+Calls: Delut
+Calls: Nodum
+Calls: Chanheef
+Flop: 7s 7d Jd
+Raises: Sifo, chips: 10
+Folds: Gipaf
+Folds: Delut
+Calls: Nodum
+Calls: Chanheef
+Turn: 4h
+Checks: Sifo
+Checks: Nodum
+Checks: Chanheef
+River: Jc
+Checks: Sifo
+Checks: Nodum
+Checks: Chanheef
+Pot size: 135
+Showdown Reached
+Shows: Nodum, 7h 6h
+Combination: Nodum, Full House ( 7h 7s 7d Jd Jc )
+Shows: Chanheef, 5d 2h
+Combination: Chanheef, Two Pair ( Jd Jc 7s 7d 5d )
+Shows: Sifo, 6d 9s
+Combination: Sifo, Two Pair ( Jd Jc 7s 7d 9s )
+Boasts: Delut, Ts 8h
+Wins: Nodum, chips: 135
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Sifo, chips: 5
+Big Blind: Gipaf, chips: 10
+Raises: Delut, chips: 20
+Calls: Nodum
+Calls: Chanheef
+Folds: Juvee
+Folds: Poe
+Folds: Sifo
+Calls: Gipaf
+Flop: 6h Th 9d
+Checks: Gipaf
+Checks: Delut
+Checks: Nodum
+Checks: Chanheef
+Turn: Jh
+Checks: Gipaf
+Checks: Delut
+Checks: Nodum
+Checks: Chanheef
+River: 3h
+Checks: Gipaf
+Checks: Delut
+Checks: Nodum
+Checks: Chanheef
+Pot size: 125
+Showdown Reached
+Shows: Nodum, 5h Jc
+Combination: Nodum, Flush ( Jh Th 6h 5h 3h )
+Shows: Chanheef, Tc 4c
+Combination: Chanheef, Pair ( Tc Th Jh 9d 6h )
+Shows: Gipaf, Js Qd
+Combination: Gipaf, Pair ( Js Jh Qd Th 9d )
+Shows: Delut, Ah 8d
+Combination: Delut, Flush ( Ah Jh Th 6h 3h )
+Wins: Delut, chips: 125
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sifo
+Small Blind: Gipaf, chips: 5
+Big Blind: Delut, chips: 10
+Calls: Nodum
+Calls: Chanheef
+Folds: Juvee
+Folds: Poe
+Raises: Sifo, chips: 20
+Calls: Gipaf
+Folds: Delut
+Calls: Nodum
+Calls: Chanheef
+Flop: Kc Tc Js
+Checks: Gipaf
+Checks: Nodum
+Checks: Chanheef
+Checks: Sifo
+Turn: Qc
+Checks: Gipaf
+Checks: Nodum
+Checks: Chanheef
+Checks: Sifo
+River: 7h
+Checks: Gipaf
+Checks: Nodum
+Checks: Chanheef
+Checks: Sifo
+Pot size: 130
+Showdown Reached
+Shows: Nodum, 9s 2c
+Combination: Nodum, Straight ( Kc Qc Js Tc 9s )
+Shows: Chanheef, 3d 7c
+Combination: Chanheef, Pair ( 7c 7h Kc Qc Js )
+Shows: Sifo, Qh Th
+Combination: Sifo, Two Pair ( Qh Qc Th Tc Kc )
+Shows: Gipaf, 5s 5d
+Combination: Gipaf, Pair ( 5s 5d Kc Qc Js )
+Wins: Nodum, chips: 130
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Delut, chips: 5
+Big Blind: Nodum, chips: 10
+Calls: Chanheef
+Folds: Juvee
+Folds: Poe
+Folds: Sifo
+Folds: Gipaf
+Calls: Delut
+Checks: Nodum
+Flop: Kh 6d Tc
+Checks: Delut
+Checks: Nodum
+Checks: Chanheef
+Turn: 8h
+Raises: Delut, chips: 10
+Calls: Nodum
+Calls: Chanheef
+River: Kd
+Checks: Delut
+Checks: Nodum
+Checks: Chanheef
+Pot size: 60
+Showdown Reached
+Shows: Nodum, Ad 7h
+Combination: Nodum, Pair ( Kh Kd Ad Tc 8h )
+Shows: Chanheef, Ah Ac
+Combination: Chanheef, Two Pair ( Ah Ac Kh Kd Tc )
+Boasts: Sifo, Ks Td
+Shows: Delut, Ts Jh
+Combination: Delut, Two Pair ( Kh Kd Ts Tc Jh )
+Wins: Chanheef, chips: 60
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Delut
+Small Blind: Nodum, chips: 5
+Big Blind: Chanheef, chips: 10
+Folds: Juvee
+Folds: Poe
+Calls: Sifo
+Folds: Gipaf
+Calls: Delut
+Calls: Nodum
+Checks: Chanheef
+Flop: Th 8h 8s
+Checks: Nodum
+Checks: Chanheef
+Checks: Sifo
+Raises: Delut, chips: 10
+Calls: Nodum
+Calls: Chanheef
+Folds: Sifo
+Turn: 5d
+Checks: Nodum
+Checks: Chanheef
+Checks: Delut
+River: 2c
+Checks: Nodum
+Checks: Chanheef
+Raises: Delut, chips: 10
+Calls: Nodum
+Calls: Chanheef
+Pot size: 100
+Showdown Reached
+Shows: Nodum, 3c 7h
+Combination: Nodum, Pair ( 8h 8s Th 7h 5d )
+Shows: Chanheef, 5s 7d
+Combination: Chanheef, Two Pair ( 8h 8s 5s 5d Th )
+Shows: Delut, Qh 9s
+Combination: Delut, Pair ( 8h 8s Qh Th 9s )
+Wins: Chanheef, chips: 100
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Nodum
+Small Blind: Chanheef, chips: 5
+Big Blind: Juvee, chips: 10
+Folds: Poe
+Raises: Sifo, chips: 20
+Folds: Gipaf
+Raises: Delut, chips: 50
+Calls: Nodum
+Calls: Chanheef
+Folds: Juvee
+Folds: Sifo
+Flop: Th 3c 5c
+Checks: Chanheef
+Checks: Delut
+Checks: Nodum
+Turn: Qs
+Checks: Chanheef
+Checks: Delut
+Checks: Nodum
+River: Jh
+Checks: Chanheef
+Checks: Delut
+Checks: Nodum
+Pot size: 280
+Showdown Reached
+Shows: Nodum, 2h Ac
+Combination: Nodum, High Card ( Ac Qs Jh Th 5c )
+Shows: Chanheef, Ad 6c
+Combination: Chanheef, High Card ( Ad Qs Jh Th 6c )
+Boasts: Sifo, Qd 9h
+Shows: Delut, 8c 6d
+Combination: Delut, High Card ( Qs Jh Th 8c 6d )
+Wins: Chanheef, chips: 280
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Chanheef
+Small Blind: Juvee, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Sifo
+Folds: Gipaf
+Folds: Delut
+Calls: Nodum
+Calls: Chanheef
+Calls: Juvee
+Checks: Poe
+Flop: 2s 6h Jc
+Checks: Juvee
+Checks: Poe
+Checks: Sifo
+Checks: Nodum
+Checks: Chanheef
+Turn: 7c
+Checks: Juvee
+Checks: Poe
+Checks: Sifo
+Checks: Nodum
+Checks: Chanheef
+River: 6s
+Checks: Juvee
+Checks: Poe
+Raises: Sifo, chips: 10
+Calls: Nodum
+Calls: Chanheef
+Folds: Juvee
+Folds: Poe
+Pot size: 80
+Showdown Reached
+Shows: Nodum, 9s 2d
+Combination: Nodum, Two Pair ( 6h 6s 2d 2s Jc )
+Shows: Chanheef, 4h Qc
+Combination: Chanheef, Pair ( 6h 6s Qc Jc 7c )
+Shows: Sifo, Kc 6c
+Combination: Sifo, Three Of A Kind ( 6c 6h 6s Kc Jc )
+Boasts: Delut, 8s Kh
+Wins: Sifo, chips: 80
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Juvee
+Small Blind: Poe, chips: 5
+Big Blind: Sifo, chips: 10
+Calls: Gipaf
+Raises: Delut, chips: 20
+Calls: Nodum
+Calls: Chanheef
+Folds: Juvee
+Folds: Poe
+Raises: Sifo, chips: 40
+Folds: Gipaf
+Raises: Delut, chips: 80
+Calls: Nodum
+Calls: Chanheef
+Calls: Sifo
+Flop: 4s 3h 5c
+Raises: Sifo, chips: 80
+Folds: Delut
+Calls: Nodum
+Calls: Chanheef
+Turn: 2h
+Checks: Sifo
+Checks: Nodum
+Checks: Chanheef
+River: 2c
+Checks: Sifo
+Checks: Nodum
+Checks: Chanheef
+Pot size: 855
+Showdown Reached
+Shows: Nodum, 5h 6h
+Combination: Nodum, Straight ( 6h 5h 4s 3h 2h )
+Shows: Chanheef, Qc Ks
+Combination: Chanheef, Pair ( 2h 2c Ks Qc 5c )
+Shows: Sifo, As Qd
+Combination: Sifo, Straight ( 5c 4s 3h 2h As )
+Wins: Nodum, chips: 855
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Sifo, chips: 5
+Big Blind: Gipaf, chips: 10
+Calls: Delut
+Calls: Nodum
+Calls: Chanheef
+Folds: Juvee
+Folds: Poe
+Folds: Sifo
+Checks: Gipaf
+Flop: 5h 5s Kc
+Checks: Gipaf
+Checks: Delut
+Checks: Nodum
+Checks: Chanheef
+Turn: 8h
+Checks: Gipaf
+Checks: Delut
+Checks: Nodum
+Checks: Chanheef
+River: 9c
+Checks: Gipaf
+Checks: Delut
+Checks: Nodum
+Checks: Chanheef
+Pot size: 45
+Showdown Reached
+Shows: Nodum, Js Td
+Combination: Nodum, Pair ( 5h 5s Kc Js Td )
+Shows: Chanheef, 3h Ah
+Combination: Chanheef, Pair ( 5h 5s Ah Kc 9c )
+Boasts: Sifo, Qs 5d
+Shows: Gipaf, 8d 3d
+Combination: Gipaf, Two Pair ( 8d 8h 5h 5s Kc )
+Shows: Delut, Jc 8c
+Combination: Delut, Two Pair ( 8c 8h 5h 5s Kc )
+Wins: Gipaf, chips: 23
+Wins: Delut, chips: 22
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sifo
+Small Blind: Gipaf, chips: 5
+Big Blind: Delut, chips: 10
+Calls: Nodum
+Calls: Chanheef
+Folds: Juvee
+Folds: Poe
+Folds: Sifo
+Calls: Gipaf
+Checks: Delut
+Flop: 4s Qd Ad
+Checks: Gipaf
+Raises: Delut, chips: 10
+Calls: Nodum
+Calls: Chanheef
+Calls: Gipaf
+Turn: 9c
+Checks: Gipaf
+Checks: Delut
+Checks: Nodum
+Checks: Chanheef
+River: 5s
+Checks: Gipaf
+Checks: Delut
+Checks: Nodum
+Checks: Chanheef
+Pot size: 80
+Showdown Reached
+Shows: Nodum, 7h Jc
+Combination: Nodum, High Card ( Ad Qd Jc 9c 7h )
+Shows: Chanheef, Jh Qc
+Combination: Chanheef, Pair ( Qc Qd Ad Jh 9c )
+Shows: Gipaf, Kd 4d
+Combination: Gipaf, Pair ( 4d 4s Ad Kd Qd )
+Shows: Delut, 4h As
+Combination: Delut, Two Pair ( As Ad 4h 4s Qd )
+Wins: Delut, chips: 80
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Delut, chips: 5
+Big Blind: Nodum, chips: 10
+Calls: Chanheef
+Folds: Juvee
+Folds: Poe
+Raises: Sifo, chips: 580
+Folds: Gipaf
+Calls: Delut
+Calls: Nodum
+Calls: Chanheef
+Flop: 9h 7c Th
+Checks: Nodum
+Checks: Chanheef
+Turn: 7s
+Checks: Nodum
+Checks: Chanheef
+River: 7h
+Checks: Nodum
+Checks: Chanheef
+Pot size: 2327
+Showdown Reached
+Shows: Nodum, Ah Qh
+Combination: Nodum, Flush ( Ah Qh Th 9h 7h )
+Shows: Chanheef, Kd 4s
+Combination: Chanheef, Three Of A Kind ( 7c 7s 7h Kd Th )
+Shows: Sifo, 9c As
+Combination: Sifo, Full House ( 7c 7s 7h 9c 9h )
+Shows: Delut, 6c Jd
+Combination: Delut, Three Of A Kind ( 7c 7s 7h Jd Th )
+Wins: Sifo, chips: 2327
+Quits: Delut, chips: 0
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Nodum
+Small Blind: Chanheef, chips: 5
+Big Blind: Juvee, chips: 10
+Folds: Poe
+Raises: Sifo, chips: 20
+Raises: Gipaf, chips: 50
+Calls: Nodum
+Calls: Chanheef
+Folds: Juvee
+Raises: Sifo, chips: 100
+Calls: Gipaf
+Calls: Nodum
+Flop: 7c 6h 3c
+Checks: Sifo
+Checks: Gipaf
+Checks: Nodum
+Turn: Jh
+Checks: Sifo
+Checks: Gipaf
+Checks: Nodum
+River: 8d
+Raises: Sifo, chips: 100
+Folds: Gipaf
+Calls: Nodum
+Pot size: 800
+Showdown Reached
+Shows: Nodum, 7s Tc
+Combination: Nodum, Pair ( 7s 7c Jh Tc 8d )
+Shows: Chanheef, Ks 2c
+Combination: Chanheef, High Card ( Ks Jh 8d 7c 6h )
+Shows: Sifo, Jd 8h
+Combination: Sifo, Two Pair ( Jd Jh 8h 8d 7c )
+Wins: Sifo, chips: 800
+Quits: Chanheef, chips: 0
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Juvee
+Small Blind: Poe, chips: 5
+Big Blind: Sifo, chips: 10
+Calls: Gipaf
+Calls: Nodum
+Calls: Juvee
+Folds: Poe
+Checks: Sifo
+Flop: As 4s 5h
+Checks: Sifo
+Checks: Gipaf
+Checks: Nodum
+Checks: Juvee
+Turn: 7c
+Checks: Sifo
+Checks: Gipaf
+Checks: Nodum
+Checks: Juvee
+River: Kc
+Checks: Sifo
+Raises: Gipaf, chips: 713
+Calls: Nodum
+Folds: Juvee
+Calls: Sifo
+Pot size: 2184
+Showdown Reached
+Shows: Nodum, Qh Jc
+Combination: Nodum, High Card ( As Kc Qh Jc 7c )
+Shows: Sifo, 5s 3h
+Combination: Sifo, Pair ( 5s 5h As Kc 7c )
+Shows: Gipaf, 4c 4h
+Combination: Gipaf, Three Of A Kind ( 4c 4h 4s As Kc )
+Wins: Gipaf, chips: 2184
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Sifo, chips: 5
+Big Blind: Gipaf, chips: 10
+Calls: Nodum
+Folds: Juvee
+Folds: Poe
+Calls: Sifo
+Raises: Gipaf, chips: 10
+Calls: Nodum
+Calls: Sifo
+Flop: Jd 2s 2h
+Checks: Sifo
+Raises: Gipaf, chips: 10
+Calls: Nodum
+Raises: Sifo, chips: 20
+Calls: Gipaf
+Calls: Nodum
+Turn: 6s
+Raises: Sifo, chips: 20
+Raises: Gipaf, chips: 30
+Calls: Nodum
+Calls: Sifo
+River: 9d
+Checks: Sifo
+Checks: Gipaf
+Checks: Nodum
+Pot size: 300
+Showdown Reached
+Shows: Nodum, 3d Qh
+Combination: Nodum, Pair ( 2s 2h Qh Jd 9d )
+Shows: Sifo, Qc 4h
+Combination: Sifo, Pair ( 2s 2h Qc Jd 9d )
+Shows: Gipaf, Td Tc
+Combination: Gipaf, Two Pair ( Td Tc 2s 2h Jd )
+Wins: Gipaf, chips: 300
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sifo
+Small Blind: Gipaf, chips: 5
+Big Blind: Nodum, chips: 10
+Folds: Juvee
+Folds: Poe
+Folds: Sifo
+Folds: Gipaf
+Pot size: 15
+Boasts: Sifo, 2c 3s
+Wins: Nodum, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Nodum, chips: 5
+Big Blind: Juvee, chips: 10
+Folds: Poe
+Calls: Sifo
+Calls: Gipaf
+Calls: Nodum
+Checks: Juvee
+Flop: 6s Qc Ac
+Checks: Nodum
+Checks: Juvee
+Raises: Sifo, chips: 10
+Folds: Gipaf
+Calls: Nodum
+Folds: Juvee
+Turn: Th
+Checks: Nodum
+Raises: Sifo, chips: 10
+Calls: Nodum
+River: Qd
+Checks: Nodum
+Raises: Sifo, chips: 10
+Calls: Nodum
+Pot size: 100
+Showdown Reached
+Shows: Nodum, 8d Jh
+Combination: Nodum, Pair ( Qc Qd Ac Jh Th )
+Shows: Sifo, 4s 6h
+Combination: Sifo, Two Pair ( Qc Qd 6h 6s Ac )
+Wins: Sifo, chips: 100
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Nodum
+Small Blind: Juvee, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Sifo
+Folds: Gipaf
+Calls: Nodum
+Folds: Juvee
+Checks: Poe
+Flop: 3h Kh 8d
+Checks: Poe
+Checks: Sifo
+Checks: Nodum
+Turn: Js
+Checks: Poe
+Checks: Sifo
+Checks: Nodum
+River: 5h
+Checks: Poe
+Checks: Sifo
+Checks: Nodum
+Pot size: 35
+Showdown Reached
+Shows: Nodum, 2s 7c
+Combination: Nodum, High Card ( Kh Js 8d 7c 5h )
+Shows: Poe, 7s 6s
+Combination: Poe, High Card ( Kh Js 8d 7s 6s )
+Shows: Sifo, 3c Qc
+Combination: Sifo, Pair ( 3c 3h Kh Qc Js )
+Wins: Sifo, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Juvee
+Small Blind: Poe, chips: 5
+Big Blind: Sifo, chips: 10
+Calls: Gipaf
+Calls: Nodum
+Folds: Juvee
+Folds: Poe
+Checks: Sifo
+Flop: 8s 2h 3c
+Raises: Sifo, chips: 10
+Folds: Gipaf
+Calls: Nodum
+Turn: Kc
+Checks: Sifo
+Checks: Nodum
+River: 2s
+Checks: Sifo
+Checks: Nodum
+Pot size: 55
+Showdown Reached
+Shows: Nodum, 7c Ad
+Combination: Nodum, Pair ( 2h 2s Ad Kc 8s )
+Shows: Sifo, Ac Tc
+Combination: Sifo, Pair ( 2h 2s Ac Kc Tc )
+Wins: Sifo, chips: 55
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Sifo, chips: 5
+Big Blind: Gipaf, chips: 10
+Calls: Nodum
+Calls: Juvee
+Folds: Poe
+Raises: Sifo, chips: 15
+Calls: Gipaf
+Calls: Nodum
+Folds: Juvee
+Flop: 4d 5h 5s
+Checks: Sifo
+Raises: Gipaf, chips: 2334
+Calls: Nodum
+Calls: Sifo
+Turn: 8h
+River: 8d
+Pot size: 5130
+Showdown Reached
+Shows: Nodum, 3s Ac
+Combination: Nodum, Two Pair ( 8h 8d 5h 5s Ac )
+Shows: Sifo, As 7c
+Combination: Sifo, Two Pair ( 8h 8d 5h 5s As )
+Shows: Gipaf, 5c 6c
+Combination: Gipaf, Full House ( 5c 5h 5s 8h 8d )
+Wins: Gipaf, chips: 5130
+Quits: Nodum, chips: 0
+Quits: Sifo, chips: 0
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Juvee, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Calls: Juvee
+Checks: Poe
+Flop: Qd 3h 2s
+Checks: Juvee
+Checks: Poe
+Turn: Jc
+Checks: Juvee
+Checks: Poe
+River: 9s
+Checks: Juvee
+Checks: Poe
+Pot size: 20
+Showdown Reached
+Shows: Juvee, Ts 9d
+Combination: Juvee, Pair ( 9d 9s Qd Jc Ts )
+Shows: Poe, Kh Kc
+Combination: Poe, Pair ( Kh Kc Qd Jc 9s )
+Wins: Poe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Juvee
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Calls: Juvee
+Folds: Poe
+Checks: Gipaf
+Flop: 5d 8d Qs
+Checks: Gipaf
+Raises: Juvee, chips: 900
+Folds: Gipaf
+Pot size: 925
+Wins: Juvee, chips: 925
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Gipaf, chips: 5
+Big Blind: Juvee, chips: 10
+Folds: Poe
+Folds: Gipaf
+Pot size: 15
+Wins: Juvee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Juvee, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Calls: Juvee
+Checks: Poe
+Flop: 8c 8h Js
+Checks: Juvee
+Checks: Poe
+Checks: Gipaf
+Turn: 7h
+Checks: Juvee
+Checks: Poe
+Checks: Gipaf
+River: 7s
+Checks: Juvee
+Checks: Poe
+Checks: Gipaf
+Pot size: 30
+Showdown Reached
+Shows: Juvee, Th Ks
+Combination: Juvee, Two Pair ( 8c 8h 7h 7s Ks )
+Shows: Poe, Qh 5c
+Combination: Poe, Two Pair ( 8c 8h 7h 7s Qh )
+Shows: Gipaf, 4h 4c
+Combination: Gipaf, Two Pair ( 8c 8h 7h 7s Js )
+Wins: Juvee, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Juvee
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Juvee
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Gipaf, chips: 5
+Big Blind: Juvee, chips: 10
+Folds: Poe
+Folds: Gipaf
+Pot size: 15
+Wins: Juvee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Juvee, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Calls: Juvee
+Checks: Poe
+Flop: 9s 7d Jd
+Checks: Juvee
+Checks: Poe
+Turn: Ac
+Checks: Juvee
+Checks: Poe
+River: Jc
+Checks: Juvee
+Checks: Poe
+Pot size: 20
+Showdown Reached
+Shows: Juvee, Kc 5c
+Combination: Juvee, Pair ( Jd Jc Ac Kc 9s )
+Shows: Poe, Td Tc
+Combination: Poe, Two Pair ( Jd Jc Td Tc Ac )
+Wins: Poe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Juvee
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Raises: Juvee, chips: 10
+Folds: Poe
+Folds: Gipaf
+Pot size: 35
+Wins: Juvee, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Gipaf, chips: 5
+Big Blind: Juvee, chips: 10
+Folds: Poe
+Calls: Gipaf
+Checks: Juvee
+Flop: 7d 7s 8s
+Raises: Gipaf, chips: 10
+Calls: Juvee
+Turn: 5s
+Checks: Gipaf
+Raises: Juvee, chips: 10
+Folds: Gipaf
+Pot size: 50
+Wins: Juvee, chips: 50
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Juvee, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Folds: Juvee
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Juvee
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Juvee
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Gipaf, chips: 5
+Big Blind: Juvee, chips: 10
+Folds: Poe
+Calls: Gipaf
+Checks: Juvee
+Flop: 7d 3d 4c
+Raises: Gipaf, chips: 10
+Folds: Juvee
+Pot size: 30
+Wins: Gipaf, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Juvee, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Raises: Juvee, chips: 15
+Folds: Poe
+Pot size: 35
+Wins: Juvee, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Juvee
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Juvee
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Gipaf, chips: 5
+Big Blind: Juvee, chips: 10
+Folds: Poe
+Folds: Gipaf
+Pot size: 15
+Wins: Juvee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Juvee, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Folds: Juvee
+Checks: Poe
+Flop: 4s Th 2c
+Checks: Poe
+Checks: Gipaf
+Turn: Ac
+Checks: Poe
+Raises: Gipaf, chips: 10
+Folds: Poe
+Pot size: 35
+Wins: Gipaf, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Juvee
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Juvee
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Gipaf, chips: 5
+Big Blind: Juvee, chips: 10
+Folds: Poe
+Folds: Gipaf
+Pot size: 15
+Wins: Juvee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Juvee, chips: 5
+Big Blind: Poe, chips: 10
+Raises: Gipaf, chips: 10
+Folds: Juvee
+Folds: Poe
+Pot size: 35
+Wins: Gipaf, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Juvee
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Calls: Juvee
+Folds: Poe
+Checks: Gipaf
+Flop: 3h 2h Jh
+Checks: Gipaf
+Checks: Juvee
+Turn: 8s
+Raises: Gipaf, chips: 10
+Folds: Juvee
+Pot size: 35
+Wins: Gipaf, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Gipaf, chips: 5
+Big Blind: Juvee, chips: 10
+Folds: Poe
+Folds: Gipaf
+Pot size: 15
+Wins: Juvee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Juvee, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Calls: Juvee
+Checks: Poe
+Flop: 4d Ad 5c
+Checks: Juvee
+Checks: Poe
+Checks: Gipaf
+Turn: 7d
+Checks: Juvee
+Checks: Poe
+Checks: Gipaf
+River: Kh
+Checks: Juvee
+Checks: Poe
+Checks: Gipaf
+Pot size: 30
+Showdown Reached
+Shows: Juvee, 8s Jd
+Combination: Juvee, High Card ( Ad Kh Jd 8s 7d )
+Shows: Poe, Qs Td
+Combination: Poe, High Card ( Ad Kh Qs Td 7d )
+Shows: Gipaf, Ks Jh
+Combination: Gipaf, Pair ( Ks Kh Ad Jh 7d )
+Wins: Gipaf, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Juvee
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Juvee
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Gipaf, chips: 5
+Big Blind: Juvee, chips: 10
+Folds: Poe
+Folds: Gipaf
+Pot size: 15
+Wins: Juvee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Juvee, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Folds: Juvee
+Checks: Poe
+Flop: Th 5d 3c
+Checks: Poe
+Checks: Gipaf
+Turn: 8c
+Checks: Poe
+Checks: Gipaf
+River: 3s
+Checks: Poe
+Checks: Gipaf
+Pot size: 25
+Showdown Reached
+Shows: Poe, Qs Ac
+Combination: Poe, Pair ( 3c 3s Ac Qs Th )
+Shows: Gipaf, 6s 9s
+Combination: Gipaf, Pair ( 3c 3s Th 9s 8c )
+Wins: Poe, chips: 25
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Juvee
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Juvee
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Gipaf, chips: 5
+Big Blind: Juvee, chips: 10
+Folds: Poe
+Folds: Gipaf
+Pot size: 15
+Wins: Juvee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Juvee, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Calls: Juvee
+Checks: Poe
+Flop: 4s 5s 5h
+Checks: Juvee
+Checks: Poe
+Checks: Gipaf
+Turn: 7c
+Checks: Juvee
+Checks: Poe
+Raises: Gipaf, chips: 10
+Folds: Juvee
+Folds: Poe
+Pot size: 40
+Wins: Gipaf, chips: 40
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Juvee
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Juvee
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Gipaf, chips: 5
+Big Blind: Juvee, chips: 10
+Folds: Poe
+Folds: Gipaf
+Pot size: 15
+Wins: Juvee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Juvee, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Folds: Juvee
+Checks: Poe
+Flop: 9h Td 8s
+Checks: Poe
+Raises: Gipaf, chips: 10
+Folds: Poe
+Pot size: 35
+Wins: Gipaf, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Juvee
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Juvee
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Gipaf, chips: 5
+Big Blind: Juvee, chips: 10
+Folds: Poe
+Folds: Gipaf
+Pot size: 15
+Wins: Juvee, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Juvee, chips: 5
+Big Blind: Poe, chips: 10
+Raises: Gipaf, chips: 20
+Folds: Juvee
+Folds: Poe
+Pot size: 45
+Wins: Gipaf, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Juvee
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Calls: Juvee
+Folds: Poe
+Checks: Gipaf
+Flop: 3d 9h Ad
+Checks: Gipaf
+Checks: Juvee
+Turn: 9s
+Raises: Gipaf, chips: 5180
+Calls: Juvee
+River: 4h
+Pot size: 6150
+Showdown Reached
+Shows: Juvee, Ac Jh
+Combination: Juvee, Two Pair ( Ac Ad 9h 9s Jh )
+Shows: Gipaf, Qc 9c
+Combination: Gipaf, Three Of A Kind ( 9c 9h 9s Ad Qc )
+Wins: Gipaf, chips: 6150
+Quits: Juvee, chips: 0
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: 7h 9d Ts
+Checks: Poe
+Checks: Gipaf
+Turn: Qh
+Checks: Poe
+Checks: Gipaf
+River: 5s
+Checks: Poe
+Checks: Gipaf
+Pot size: 20
+Showdown Reached
+Shows: Poe, Qd 3h
+Combination: Poe, Pair ( Qd Qh Ts 9d 7h )
+Shows: Gipaf, 5d 4s
+Combination: Gipaf, Pair ( 5d 5s Qh Ts 9d )
+Wins: Poe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: 7h 9c Jc
+Checks: Poe
+Checks: Gipaf
+Turn: 6d
+Checks: Poe
+Checks: Gipaf
+River: 8h
+Checks: Poe
+Checks: Gipaf
+Pot size: 20
+Showdown Reached
+Shows: Poe, Ts 4h
+Combination: Poe, Straight ( Jc Ts 9c 8h 7h )
+Shows: Gipaf, 7c 5c
+Combination: Gipaf, Straight ( 9c 8h 7c 6d 5c )
+Wins: Poe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: 4h Th Kd
+Checks: Poe
+Checks: Gipaf
+Turn: 3h
+Checks: Poe
+Checks: Gipaf
+River: 3d
+Checks: Poe
+Checks: Gipaf
+Pot size: 20
+Showdown Reached
+Shows: Poe, Qh 9d
+Combination: Poe, Pair ( 3h 3d Kd Qh Th )
+Shows: Gipaf, 9c 8c
+Combination: Gipaf, Pair ( 3h 3d Kd Th 9c )
+Wins: Poe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: 4s 4d Ad
+Checks: Poe
+Checks: Gipaf
+Turn: Ks
+Checks: Poe
+Checks: Gipaf
+River: 9h
+Checks: Poe
+Raises: Gipaf, chips: 6130
+Folds: Poe
+Pot size: 6150
+Wins: Gipaf, chips: 6150
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: 3c Qs Kd
+Checks: Poe
+Raises: Gipaf, chips: 10
+Folds: Poe
+Pot size: 30
+Wins: Gipaf, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: Qc 3h 3d
+Checks: Poe
+Raises: Gipaf, chips: 10
+Folds: Poe
+Pot size: 30
+Wins: Gipaf, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: Ad 7d Jc
+Checks: Poe
+Raises: Gipaf, chips: 10
+Folds: Poe
+Pot size: 30
+Wins: Gipaf, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Raises: Gipaf, chips: 15
+Folds: Poe
+Pot size: 35
+Wins: Gipaf, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: 2d 3d 4d
+Checks: Poe
+Checks: Gipaf
+Turn: 2c
+Checks: Poe
+Checks: Gipaf
+River: Qc
+Checks: Poe
+Checks: Gipaf
+Pot size: 20
+Showdown Reached
+Shows: Poe, 8c Ad
+Combination: Poe, Pair ( 2d 2c Ad Qc 8c )
+Shows: Gipaf, Ah Jc
+Combination: Gipaf, Pair ( 2d 2c Ah Qc Jc )
+Wins: Gipaf, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: 6h Ac 9c
+Checks: Poe
+Raises: Gipaf, chips: 10
+Folds: Poe
+Pot size: 30
+Wins: Gipaf, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: 9s 4s 9h
+Checks: Poe
+Checks: Gipaf
+Turn: Jd
+Checks: Poe
+Raises: Gipaf, chips: 10
+Folds: Poe
+Pot size: 30
+Wins: Gipaf, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: 5c 7d Td
+Checks: Poe
+Checks: Gipaf
+Turn: As
+Checks: Poe
+Checks: Gipaf
+River: Ks
+Checks: Poe
+Checks: Gipaf
+Pot size: 20
+Showdown Reached
+Shows: Poe, 7c Jd
+Combination: Poe, Pair ( 7c 7d As Ks Jd )
+Shows: Gipaf, 9c 8h
+Combination: Gipaf, High Card ( As Ks Td 9c 8h )
+Wins: Poe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Raises: Gipaf, chips: 15
+Folds: Poe
+Pot size: 35
+Wins: Gipaf, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: Td 9d 3h
+Checks: Poe
+Checks: Gipaf
+Turn: As
+Checks: Poe
+Checks: Gipaf
+River: 3c
+Checks: Poe
+Checks: Gipaf
+Pot size: 20
+Showdown Reached
+Shows: Poe, Kh Ah
+Combination: Poe, Two Pair ( Ah As 3h 3c Kh )
+Shows: Gipaf, 6c 5d
+Combination: Gipaf, Pair ( 3h 3c As Td 9d )
+Wins: Poe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: Th 3s Td
+Checks: Poe
+Checks: Gipaf
+Turn: 4h
+Checks: Poe
+Checks: Gipaf
+River: 8d
+Checks: Poe
+Checks: Gipaf
+Pot size: 20
+Showdown Reached
+Shows: Poe, 6s Jd
+Combination: Poe, Pair ( Th Td Jd 8d 6s )
+Shows: Gipaf, Qd 9s
+Combination: Gipaf, Pair ( Th Td Qd 9s 8d )
+Wins: Gipaf, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: Kc 6c Qc
+Checks: Poe
+Checks: Gipaf
+Turn: 5d
+Checks: Poe
+Raises: Gipaf, chips: 10
+Folds: Poe
+Pot size: 30
+Wins: Gipaf, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: Jh As 5d
+Checks: Poe
+Raises: Gipaf, chips: 10
+Folds: Poe
+Pot size: 30
+Wins: Gipaf, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: Th 7d 9d
+Checks: Poe
+Raises: Gipaf, chips: 10
+Folds: Poe
+Pot size: 30
+Wins: Gipaf, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: 4c Ac 2d
+Checks: Poe
+Raises: Gipaf, chips: 6315
+Folds: Poe
+Pot size: 6335
+Wins: Gipaf, chips: 6335
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: 7h Js 8h
+Checks: Poe
+Checks: Gipaf
+Turn: 9c
+Checks: Poe
+Raises: Gipaf, chips: 10
+Folds: Poe
+Pot size: 30
+Wins: Gipaf, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: 4c Td 8c
+Checks: Poe
+Raises: Gipaf, chips: 10
+Folds: Poe
+Pot size: 30
+Wins: Gipaf, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: Tc 9d Td
+Checks: Poe
+Checks: Gipaf
+Turn: Ad
+Checks: Poe
+Checks: Gipaf
+River: Kh
+Checks: Poe
+Checks: Gipaf
+Pot size: 20
+Showdown Reached
+Shows: Poe, 2s 7d
+Combination: Poe, Pair ( Tc Td Ad Kh 9d )
+Shows: Gipaf, 8c 7h
+Combination: Gipaf, Pair ( Tc Td Ad Kh 9d )
+Wins: Poe, chips: 10
+Wins: Gipaf, chips: 10
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: Qh 2h 5h
+Checks: Poe
+Raises: Gipaf, chips: 6365
+Folds: Poe
+Pot size: 6385
+Wins: Gipaf, chips: 6385
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: 5c 4d 5s
+Checks: Poe
+Checks: Gipaf
+Turn: 9d
+Checks: Poe
+Checks: Gipaf
+River: Th
+Checks: Poe
+Checks: Gipaf
+Pot size: 20
+Showdown Reached
+Shows: Poe, Qs Kh
+Combination: Poe, Pair ( 5c 5s Kh Qs Th )
+Shows: Gipaf, As 7s
+Combination: Gipaf, Pair ( 5c 5s As Th 9d )
+Wins: Gipaf, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: As Qs Js
+Checks: Poe
+Checks: Gipaf
+Turn: 7d
+Checks: Poe
+Checks: Gipaf
+River: Td
+Checks: Poe
+Checks: Gipaf
+Pot size: 20
+Showdown Reached
+Shows: Poe, 5c 4d
+Combination: Poe, High Card ( As Qs Js Td 7d )
+Shows: Gipaf, 7h 9h
+Combination: Gipaf, Pair ( 7h 7d As Qs Js )
+Wins: Gipaf, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Raises: Gipaf, chips: 15
+Folds: Poe
+Pot size: 35
+Wins: Gipaf, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: Qh 6c 4d
+Checks: Poe
+Checks: Gipaf
+Turn: 6d
+Checks: Poe
+Raises: Gipaf, chips: 10
+Folds: Poe
+Pot size: 30
+Wins: Gipaf, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: Kc Tc 8c
+Checks: Poe
+Checks: Gipaf
+Turn: 4c
+Checks: Poe
+Checks: Gipaf
+River: 7c
+Checks: Poe
+Checks: Gipaf
+Pot size: 20
+Showdown Reached
+Shows: Poe, 5c Qh
+Combination: Poe, Flush ( Kc Tc 8c 7c 5c )
+Shows: Gipaf, 6d 4d
+Combination: Gipaf, Flush ( Kc Tc 8c 7c 4c )
+Wins: Poe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Raises: Gipaf, chips: 15
+Folds: Poe
+Pot size: 35
+Wins: Gipaf, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: 9s Jc 8d
+Checks: Poe
+Checks: Gipaf
+Turn: Th
+Checks: Poe
+Raises: Gipaf, chips: 6450
+Folds: Poe
+Pot size: 6470
+Wins: Gipaf, chips: 6470
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: 4d 5c Qh
+Checks: Poe
+Raises: Gipaf, chips: 10
+Folds: Poe
+Pot size: 30
+Wins: Gipaf, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: Ks Td Tc
+Checks: Poe
+Checks: Gipaf
+Turn: Qs
+Checks: Poe
+Checks: Gipaf
+River: 2h
+Checks: Poe
+Checks: Gipaf
+Pot size: 20
+Showdown Reached
+Shows: Poe, 6c 3c
+Combination: Poe, Pair ( Td Tc Ks Qs 6c )
+Shows: Gipaf, 9c 8s
+Combination: Gipaf, Pair ( Td Tc Ks Qs 9c )
+Wins: Gipaf, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: Kd Ac 7c
+Checks: Poe
+Raises: Gipaf, chips: 10
+Folds: Poe
+Pot size: 30
+Wins: Gipaf, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: Kh 2c 4d
+Checks: Poe
+Checks: Gipaf
+Turn: Qc
+Checks: Poe
+Checks: Gipaf
+River: Js
+Checks: Poe
+Checks: Gipaf
+Pot size: 20
+Showdown Reached
+Shows: Poe, 7c 3c
+Combination: Poe, High Card ( Kh Qc Js 7c 4d )
+Shows: Gipaf, 4s 6s
+Combination: Gipaf, Pair ( 4s 4d Kh Qc Js )
+Wins: Gipaf, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: 9d 5h Td
+Checks: Poe
+Raises: Gipaf, chips: 10
+Folds: Poe
+Pot size: 30
+Wins: Gipaf, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: 2h Qh 5h
+Checks: Poe
+Checks: Gipaf
+Turn: 7d
+Checks: Poe
+Checks: Gipaf
+River: Ts
+Checks: Poe
+Raises: Gipaf, chips: 6540
+Folds: Poe
+Pot size: 6560
+Wins: Gipaf, chips: 6560
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Raises: Gipaf, chips: 15
+Folds: Poe
+Pot size: 35
+Wins: Gipaf, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: 8c Th Ks
+Checks: Poe
+Raises: Gipaf, chips: 10
+Folds: Poe
+Pot size: 30
+Wins: Gipaf, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: 8d Qd As
+Checks: Poe
+Checks: Gipaf
+Turn: 7h
+Checks: Poe
+Raises: Gipaf, chips: 10
+Folds: Poe
+Pot size: 30
+Wins: Gipaf, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: Ah 2s Th
+Checks: Poe
+Checks: Gipaf
+Turn: 5h
+Checks: Poe
+Checks: Gipaf
+River: 9c
+Checks: Poe
+Checks: Gipaf
+Pot size: 20
+Showdown Reached
+Shows: Poe, Jc Ks
+Combination: Poe, High Card ( Ah Ks Jc Th 9c )
+Shows: Gipaf, Qs Kd
+Combination: Gipaf, High Card ( Ah Kd Qs Th 9c )
+Wins: Gipaf, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: Kh 7s Jd
+Checks: Poe
+Checks: Gipaf
+Turn: 2c
+Checks: Poe
+Checks: Gipaf
+River: 3d
+Checks: Poe
+Checks: Gipaf
+Pot size: 20
+Showdown Reached
+Shows: Poe, Kd Td
+Combination: Poe, Pair ( Kd Kh Jd Td 7s )
+Shows: Gipaf, 4h 4c
+Combination: Gipaf, Pair ( 4h 4c Kh Jd 7s )
+Wins: Poe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: 7h Qc Ks
+Checks: Poe
+Checks: Gipaf
+Turn: 4s
+Checks: Poe
+Checks: Gipaf
+River: 3s
+Checks: Poe
+Checks: Gipaf
+Pot size: 20
+Showdown Reached
+Shows: Poe, Js 3d
+Combination: Poe, Pair ( 3d 3s Ks Qc Js )
+Shows: Gipaf, 8c 7d
+Combination: Gipaf, Pair ( 7d 7h Ks Qc 8c )
+Wins: Gipaf, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Raises: Gipaf, chips: 6625
+Folds: Poe
+Pot size: 6645
+Wins: Gipaf, chips: 6645
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: Tc 6s 4d
+Checks: Poe
+Raises: Gipaf, chips: 10
+Folds: Poe
+Pot size: 30
+Wins: Gipaf, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: 3c 8c 4s
+Checks: Poe
+Checks: Gipaf
+Turn: Jc
+Checks: Poe
+Checks: Gipaf
+River: 6s
+Checks: Poe
+Checks: Gipaf
+Pot size: 20
+Showdown Reached
+Shows: Poe, 4h Td
+Combination: Poe, Pair ( 4h 4s Jc Td 8c )
+Shows: Gipaf, Js Kh
+Combination: Gipaf, Pair ( Js Jc Kh 8c 6s )
+Wins: Gipaf, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: As Ts Qh
+Checks: Poe
+Checks: Gipaf
+Turn: 8c
+Checks: Poe
+Checks: Gipaf
+River: Qs
+Checks: Poe
+Checks: Gipaf
+Pot size: 20
+Showdown Reached
+Shows: Poe, Td 8h
+Combination: Poe, Two Pair ( Qh Qs Td Ts As )
+Shows: Gipaf, Th Jh
+Combination: Gipaf, Two Pair ( Qh Qs Th Ts As )
+Wins: Poe, chips: 10
+Wins: Gipaf, chips: 10
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: Js 6h 3s
+Checks: Poe
+Checks: Gipaf
+Turn: Ks
+Checks: Poe
+Raises: Gipaf, chips: 6675
+Folds: Poe
+Pot size: 6695
+Wins: Gipaf, chips: 6695
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: 8d Ks 2h
+Checks: Poe
+Checks: Gipaf
+Turn: 5h
+Checks: Poe
+Checks: Gipaf
+River: 5c
+Checks: Poe
+Checks: Gipaf
+Pot size: 20
+Showdown Reached
+Shows: Poe, 8h 9h
+Combination: Poe, Two Pair ( 8h 8d 5h 5c Ks )
+Shows: Gipaf, 3h 3d
+Combination: Gipaf, Two Pair ( 5h 5c 3h 3d Ks )
+Wins: Poe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Raises: Gipaf, chips: 15
+Folds: Poe
+Pot size: 35
+Wins: Gipaf, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Raises: Gipaf, chips: 15
+Folds: Poe
+Pot size: 35
+Wins: Gipaf, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: Jh 7d Kc
+Checks: Poe
+Raises: Gipaf, chips: 10
+Folds: Poe
+Pot size: 30
+Wins: Gipaf, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: Kh 7c 6s
+Checks: Poe
+Checks: Gipaf
+Turn: Jc
+Checks: Poe
+Checks: Gipaf
+River: 2d
+Checks: Poe
+Raises: Gipaf, chips: 10
+Folds: Poe
+Pot size: 30
+Wins: Gipaf, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: 7d 4h Ts
+Checks: Poe
+Checks: Gipaf
+Turn: 9s
+Checks: Poe
+Checks: Gipaf
+River: 2c
+Checks: Poe
+Checks: Gipaf
+Pot size: 20
+Showdown Reached
+Shows: Poe, Th Ah
+Combination: Poe, Pair ( Th Ts Ah 9s 7d )
+Shows: Gipaf, 7s 6d
+Combination: Gipaf, Pair ( 7s 7d Ts 9s 6d )
+Wins: Poe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: Kc 2c 7h
+Checks: Poe
+Checks: Gipaf
+Turn: 7d
+Checks: Poe
+Checks: Gipaf
+River: Qs
+Checks: Poe
+Checks: Gipaf
+Pot size: 20
+Showdown Reached
+Shows: Poe, Ts Th
+Combination: Poe, Two Pair ( Ts Th 7h 7d Kc )
+Shows: Gipaf, Js 9d
+Combination: Gipaf, Pair ( 7h 7d Kc Qs Js )
+Wins: Poe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Raises: Gipaf, chips: 6735
+Folds: Poe
+Pot size: 6755
+Wins: Gipaf, chips: 6755
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: Qs 7s 8c
+Checks: Poe
+Raises: Gipaf, chips: 10
+Folds: Poe
+Pot size: 30
+Wins: Gipaf, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: 3h 3s 2s
+Checks: Poe
+Checks: Gipaf
+Turn: Jd
+Checks: Poe
+Checks: Gipaf
+River: 9d
+Checks: Poe
+Checks: Gipaf
+Pot size: 20
+Showdown Reached
+Shows: Poe, 6h 3d
+Combination: Poe, Three Of A Kind ( 3d 3h 3s Jd 9d )
+Shows: Gipaf, 5c 4c
+Combination: Gipaf, Pair ( 3h 3s Jd 9d 5c )
+Wins: Poe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: 2h Kh 2d
+Checks: Poe
+Checks: Gipaf
+Turn: 5c
+Checks: Poe
+Raises: Gipaf, chips: 10
+Folds: Poe
+Pot size: 30
+Wins: Gipaf, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: Tc Js 2c
+Checks: Poe
+Checks: Gipaf
+Turn: 4h
+Checks: Poe
+Raises: Gipaf, chips: 10
+Folds: Poe
+Pot size: 30
+Wins: Gipaf, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: 6d Jd Kc
+Checks: Poe
+Checks: Gipaf
+Turn: Js
+Checks: Poe
+Raises: Gipaf, chips: 10
+Folds: Poe
+Pot size: 30
+Wins: Gipaf, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: 7d 9h Ac
+Checks: Poe
+Checks: Gipaf
+Turn: Jh
+Checks: Poe
+Checks: Gipaf
+River: Td
+Checks: Poe
+Checks: Gipaf
+Pot size: 20
+Showdown Reached
+Shows: Poe, 4c Tc
+Combination: Poe, Pair ( Tc Td Ac Jh 9h )
+Shows: Gipaf, 9d Qh
+Combination: Gipaf, Pair ( 9d 9h Ac Qh Jh )
+Wins: Poe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: 7s 2s Jd
+Checks: Poe
+Checks: Gipaf
+Turn: Td
+Checks: Poe
+Checks: Gipaf
+River: As
+Checks: Poe
+Checks: Gipaf
+Pot size: 20
+Showdown Reached
+Shows: Poe, Ad Qs
+Combination: Poe, Pair ( Ad As Qs Jd Td )
+Shows: Gipaf, 8c Th
+Combination: Gipaf, Pair ( Th Td As Jd 8c )
+Wins: Poe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: 8c 4s 5s
+Checks: Poe
+Checks: Gipaf
+Turn: Kd
+Checks: Poe
+Checks: Gipaf
+River: 9d
+Checks: Poe
+Checks: Gipaf
+Pot size: 20
+Showdown Reached
+Shows: Poe, As 3d
+Combination: Poe, High Card ( As Kd 9d 8c 5s )
+Shows: Gipaf, 7d Td
+Combination: Gipaf, High Card ( Kd Td 9d 8c 7d )
+Wins: Poe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: 6s Ad Qc
+Checks: Poe
+Raises: Gipaf, chips: 6790
+Folds: Poe
+Pot size: 6810
+Wins: Gipaf, chips: 6810
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: 9d Ts Jh
+Checks: Poe
+Checks: Gipaf
+Turn: 3s
+Checks: Poe
+Raises: Gipaf, chips: 10
+Folds: Poe
+Pot size: 30
+Wins: Gipaf, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: Td 8c Tc
+Checks: Poe
+Checks: Gipaf
+Turn: Qs
+Checks: Poe
+Checks: Gipaf
+River: Kd
+Checks: Poe
+Checks: Gipaf
+Pot size: 20
+Showdown Reached
+Shows: Poe, 9c Ah
+Combination: Poe, Pair ( Td Tc Ah Kd Qs )
+Shows: Gipaf, 5s 3s
+Combination: Gipaf, Pair ( Td Tc Kd Qs 8c )
+Wins: Poe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: 9d 8c Kc
+Checks: Poe
+Checks: Gipaf
+Turn: 2d
+Checks: Poe
+Checks: Gipaf
+River: 8s
+Checks: Poe
+Checks: Gipaf
+Pot size: 20
+Showdown Reached
+Shows: Poe, 2s 3s
+Combination: Poe, Two Pair ( 8c 8s 2s 2d Kc )
+Shows: Gipaf, Jh 9h
+Combination: Gipaf, Two Pair ( 9h 9d 8c 8s Kc )
+Wins: Gipaf, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Raises: Gipaf, chips: 15
+Folds: Poe
+Pot size: 35
+Wins: Gipaf, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Raises: Gipaf, chips: 15
+Folds: Poe
+Pot size: 35
+Wins: Gipaf, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: 4h Qs Ad
+Checks: Poe
+Checks: Gipaf
+Turn: Tc
+Checks: Poe
+Checks: Gipaf
+River: Ts
+Checks: Poe
+Checks: Gipaf
+Pot size: 20
+Showdown Reached
+Shows: Poe, 3h Kd
+Combination: Poe, Pair ( Tc Ts Ad Kd Qs )
+Shows: Gipaf, 2d 2c
+Combination: Gipaf, Two Pair ( Tc Ts 2d 2c Ad )
+Wins: Gipaf, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: 5h Ts Qs
+Checks: Poe
+Checks: Gipaf
+Turn: Ks
+Checks: Poe
+Checks: Gipaf
+River: Ad
+Checks: Poe
+Raises: Gipaf, chips: 10
+Folds: Poe
+Pot size: 30
+Wins: Gipaf, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Raises: Gipaf, chips: 15
+Folds: Poe
+Pot size: 35
+Wins: Gipaf, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: 6c Ad Jh
+Checks: Poe
+Checks: Gipaf
+Turn: 7s
+Checks: Poe
+Checks: Gipaf
+River: 3s
+Checks: Poe
+Checks: Gipaf
+Pot size: 20
+Showdown Reached
+Shows: Poe, 7c 6s
+Combination: Poe, Two Pair ( 7c 7s 6s 6c Ad )
+Shows: Gipaf, 9h Tc
+Combination: Gipaf, High Card ( Ad Jh Tc 9h 7s )
+Wins: Poe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: Qc 7h 2h
+Checks: Poe
+Checks: Gipaf
+Turn: 7c
+Checks: Poe
+Checks: Gipaf
+River: 8h
+Checks: Poe
+Raises: Gipaf, chips: 10
+Folds: Poe
+Pot size: 30
+Wins: Gipaf, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: 7d 3c 7s
+Checks: Poe
+Raises: Gipaf, chips: 10
+Folds: Poe
+Pot size: 30
+Wins: Gipaf, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: Qh Ts 6c
+Checks: Poe
+Checks: Gipaf
+Turn: Qc
+Checks: Poe
+Checks: Gipaf
+River: Jd
+Checks: Poe
+Checks: Gipaf
+Pot size: 20
+Showdown Reached
+Shows: Poe, 2d 4d
+Combination: Poe, Pair ( Qh Qc Jd Ts 6c )
+Shows: Gipaf, 7h 4h
+Combination: Gipaf, Pair ( Qh Qc Jd Ts 7h )
+Wins: Gipaf, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: Ac 3s 5s
+Checks: Poe
+Checks: Gipaf
+Turn: Kc
+Checks: Poe
+Checks: Gipaf
+River: 2h
+Checks: Poe
+Checks: Gipaf
+Pot size: 20
+Showdown Reached
+Shows: Poe, Qc Ad
+Combination: Poe, Pair ( Ad Ac Kc Qc 5s )
+Shows: Gipaf, 2c 2d
+Combination: Gipaf, Three Of A Kind ( 2c 2d 2h Ac Kc )
+Wins: Gipaf, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: Jd 5d Kh
+Checks: Poe
+Checks: Gipaf
+Turn: 6d
+Checks: Poe
+Checks: Gipaf
+River: Ks
+Checks: Poe
+Checks: Gipaf
+Pot size: 20
+Showdown Reached
+Shows: Poe, 5c 4s
+Combination: Poe, Two Pair ( Kh Ks 5c 5d Jd )
+Shows: Gipaf, 9c 8d
+Combination: Gipaf, Pair ( Kh Ks Jd 9c 8d )
+Wins: Poe, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: 4s 2s Qd
+Checks: Poe
+Checks: Gipaf
+Turn: 3c
+Checks: Poe
+Raises: Gipaf, chips: 10
+Folds: Poe
+Pot size: 30
+Wins: Gipaf, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Folds: Gipaf
+Pot size: 15
+Wins: Poe, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 10
+Calls: Gipaf
+Checks: Poe
+Flop: Qh 7d Ts
+Checks: Poe
+Raises: Gipaf, chips: 10
+Folds: Poe
+Pot size: 30
+Wins: Gipaf, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Poe
+Small Blind: Poe, chips: 5
+Big Blind: Gipaf, chips: 10
+Folds: Poe
+Pot size: 15
+Wins: Gipaf, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Gipaf
+Small Blind: Gipaf, chips: 5
+Big Blind: Poe, chips: 5
+Flop: 5h 4h 4d
+Turn: 8s
+River: Tc
+Pot size: 10
+Showdown Reached
+Shows: Poe, 3h 8d
+Combination: Poe, Two Pair ( 8d 8s 4h 4d Tc )
+Shows: Gipaf, 4c Kd
+Combination: Gipaf, Three Of A Kind ( 4c 4h 4d Kd Tc )
+Wins: Gipaf, chips: 10
+Quits: Poe, chips: 0
+Ranking: Gipaf, Place: 1, Score: 6000
+Reveal AI: Gipaf, AI: Smart
+Ranking: Poe, Place: 2, Score: -1000
+Reveal AI: Poe, AI: AIMyBot1
+Ranking: Juvee, Place: 3, Score: -1000
+Reveal AI: Juvee, AI: Smart
+Ranking: Sifo, Place: 4, Score: -1000
+Reveal AI: Sifo, AI: Random
+Ranking: Nodum, Place: 5, Score: -1000
+Reveal AI: Nodum, AI: Call
+Ranking: Chanheef, Place: 6, Score: -1000
+Reveal AI: Chanheef, AI: Call
+Ranking: Delut, Place: 7, Score: -1000
+Reveal AI: Delut, AI: Random
+
+Player Stats for Chanheef, AI: Call
+General: deals: 14, actions: 61, preflop actions: 18
+Rounds Seen: flops: 102, turns: 80, rivers: 64, showdowns: 59
+Wins: total: 3, showdown: 3, bluff: 0
+Chips: won: 440, lost: 1470, bought: 1000, forced bets: 25
+Pre-Flop Stats: VP$IP: 0.928571, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: 0, WSD: 0.578431, WSDW: 0.0508475
+
+
+Player Stats for Delut, AI: Random
+General: deals: 13, actions: 41, preflop actions: 15
+Rounds Seen: flops: 100, turns: 76, rivers: 60, showdowns: 55
+Wins: total: 3, showdown: 3, bluff: 0
+Chips: won: 227, lost: 1260, bought: 1000, forced bets: 30
+Pre-Flop Stats: VP$IP: 0.769231, PFR: 0.384615, 3Bet: 0.384615
+Post-Flop Stats: AF: 8, WSD: 0.55, WSDW: 0.0545455
+
+
+Player Stats for Gipaf, AI: Smart
+General: deals: 398, actions: 426, preflop actions: 221
+Rounds Seen: flops: 91, turns: 66, rivers: 50, showdowns: 44
+Wins: total: 256, showdown: 22, bluff: 234
+Chips: won: 77072, lost: 71072, bought: 1000, forced bets: 2795
+Pre-Flop Stats: VP$IP: 0.253769, PFR: 0.040201, 3Bet: 0.0376884
+Post-Flop Stats: AF: 23.5, WSD: 0.483516, WSDW: 0.5
+
+
+Player Stats for Juvee, AI: Smart
+General: deals: 56, actions: 80, preflop actions: 48
+Rounds Seen: flops: 82, turns: 60, rivers: 45, showdowns: 38
+Wins: total: 14, showdown: 1, bluff: 13
+Chips: won: 1210, lost: 6445, bought: 1000, forced bets: 225
+Pre-Flop Stats: VP$IP: 0.232143, PFR: 0.0357143, 3Bet: 0.0357143
+Post-Flop Stats: AF: 1, WSD: 0.463415, WSDW: 0.0263158
+
+
+Player Stats for Nodum, AI: Call
+General: deals: 21, actions: 90, preflop actions: 26
+Rounds Seen: flops: 102, turns: 80, rivers: 64, showdowns: 59
+Wins: total: 6, showdown: 5, bluff: 1
+Chips: won: 2190, lost: 4932, bought: 1000, forced bets: 40
+Pre-Flop Stats: VP$IP: 0.904762, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: 0, WSD: 0.578431, WSDW: 0.0847458
+
+
+Player Stats for Poe, AI: AIMyBot1
+General: deals: 398, actions: 526, preflop actions: 306
+Rounds Seen: flops: 79, turns: 59, rivers: 45, showdowns: 39
+Wins: total: 113, showdown: 22, bluff: 91
+Chips: won: 1790, lost: 2790, bought: 1000, forced bets: 2790
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 0.493671, WSDW: 0.564103
+
+
+Player Stats for Sifo, AI: Random
+General: deals: 21, actions: 66, preflop actions: 26
+Rounds Seen: flops: 96, turns: 73, rivers: 56, showdowns: 51
+Wins: total: 6, showdown: 6, bluff: 0
+Chips: won: 3397, lost: 4612, bought: 1000, forced bets: 60
+Pre-Flop Stats: VP$IP: 0.619048, PFR: 0.380952, 3Bet: 0.333333
+Post-Flop Stats: AF: 3.66667, WSD: 0.53125, WSDW: 0.117647
+
+

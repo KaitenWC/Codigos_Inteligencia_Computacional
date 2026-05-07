@@ -1,0 +1,8590 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Motowra: AIMyBot1
+Deenho: Smart
+Lodu: Smart
+Tinhu: Random
+Rechu: Call
+Famo: Random
+Sobuwo: Call
+
+Joins: Motowra, chips: 1000
+Joins: Deenho, chips: 1000
+Joins: Lodu, chips: 1000
+Joins: Tinhu, chips: 1000
+Joins: Rechu, chips: 1000
+Joins: Famo, chips: 1000
+Joins: Sobuwo, chips: 1000
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Famo
+Small Blind: Sobuwo, chips: 5
+Big Blind: Motowra, chips: 10
+Calls: Deenho
+Folds: Lodu
+Calls: Tinhu
+Calls: Rechu
+Raises: Famo, chips: 20
+Calls: Sobuwo
+Folds: Motowra
+Calls: Deenho
+Folds: Tinhu
+Calls: Rechu
+Flop: 2c Tc 8d
+Checks: Sobuwo
+Checks: Deenho
+Checks: Rechu
+Raises: Famo, chips: 20
+Calls: Sobuwo
+Folds: Deenho
+Calls: Rechu
+Turn: Qc
+Checks: Sobuwo
+Checks: Rechu
+Raises: Famo, chips: 20
+Calls: Sobuwo
+Calls: Rechu
+River: 5s
+Checks: Sobuwo
+Checks: Rechu
+Checks: Famo
+Pot size: 260
+Showdown Reached
+Shows: Rechu, 5d 6h
+Combination: Rechu, Pair ( 5d 5s Qc Tc 8d )
+Shows: Famo, 6s Ts
+Combination: Famo, Pair ( Ts Tc Qc 8d 6s )
+Shows: Sobuwo, 8h Ah
+Combination: Sobuwo, Pair ( 8h 8d Ah Qc Tc )
+Wins: Famo, chips: 260
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sobuwo
+Small Blind: Motowra, chips: 5
+Big Blind: Deenho, chips: 10
+Folds: Lodu
+Folds: Tinhu
+Calls: Rechu
+Calls: Famo
+Calls: Sobuwo
+Folds: Motowra
+Checks: Deenho
+Flop: Ad 5h Tc
+Checks: Deenho
+Checks: Rechu
+Raises: Famo, chips: 10
+Calls: Sobuwo
+Folds: Deenho
+Calls: Rechu
+Turn: 9c
+Checks: Rechu
+Checks: Famo
+Checks: Sobuwo
+River: 8d
+Checks: Rechu
+Checks: Famo
+Checks: Sobuwo
+Pot size: 75
+Showdown Reached
+Boasts: Tinhu, 6s Jh
+Shows: Rechu, 5d Qd
+Combination: Rechu, Pair ( 5d 5h Ad Qd Tc )
+Shows: Famo, As 4s
+Combination: Famo, Pair ( As Ad Tc 9c 8d )
+Shows: Sobuwo, 5s Qh
+Combination: Sobuwo, Pair ( 5s 5h Ad Qh Tc )
+Wins: Famo, chips: 75
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Deenho, chips: 5
+Big Blind: Lodu, chips: 10
+Raises: Tinhu, chips: 20
+Calls: Rechu
+Calls: Famo
+Calls: Sobuwo
+Folds: Motowra
+Folds: Deenho
+Folds: Lodu
+Flop: Qh Jc 5c
+Raises: Tinhu, chips: 20
+Calls: Rechu
+Folds: Famo
+Calls: Sobuwo
+Turn: 8c
+Raises: Tinhu, chips: 20
+Calls: Rechu
+Calls: Sobuwo
+River: 8h
+Checks: Tinhu
+Checks: Rechu
+Checks: Sobuwo
+Pot size: 255
+Showdown Reached
+Shows: Tinhu, Kc Kh
+Combination: Tinhu, Two Pair ( Kc Kh 8c 8h Qh )
+Shows: Rechu, 2d Th
+Combination: Rechu, Pair ( 8c 8h Qh Jc Th )
+Shows: Sobuwo, As 6c
+Combination: Sobuwo, Pair ( 8c 8h As Qh Jc )
+Wins: Tinhu, chips: 255
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Deenho
+Small Blind: Lodu, chips: 5
+Big Blind: Tinhu, chips: 10
+Calls: Rechu
+Calls: Famo
+Calls: Sobuwo
+Folds: Motowra
+Calls: Deenho
+Folds: Lodu
+Checks: Tinhu
+Flop: 4c 6s 8s
+Raises: Tinhu, chips: 10
+Calls: Rechu
+Calls: Famo
+Calls: Sobuwo
+Folds: Deenho
+Turn: 9c
+Checks: Tinhu
+Checks: Rechu
+Checks: Famo
+Checks: Sobuwo
+River: 5d
+Checks: Tinhu
+Checks: Rechu
+Checks: Famo
+Checks: Sobuwo
+Pot size: 95
+Showdown Reached
+Shows: Tinhu, 3s 8h
+Combination: Tinhu, Pair ( 8h 8s 9c 6s 5d )
+Shows: Rechu, 4s Qh
+Combination: Rechu, Pair ( 4s 4c Qh 9c 8s )
+Shows: Famo, 5c 2c
+Combination: Famo, Pair ( 5c 5d 9c 8s 6s )
+Shows: Sobuwo, 8d 9d
+Combination: Sobuwo, Two Pair ( 9d 9c 8d 8s 6s )
+Wins: Sobuwo, chips: 95
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Tinhu, chips: 5
+Big Blind: Rechu, chips: 10
+Folds: Famo
+Calls: Sobuwo
+Folds: Motowra
+Folds: Deenho
+Folds: Lodu
+Calls: Tinhu
+Checks: Rechu
+Flop: 5s Kh 8h
+Checks: Tinhu
+Checks: Rechu
+Checks: Sobuwo
+Turn: Td
+Checks: Tinhu
+Checks: Rechu
+Checks: Sobuwo
+River: 6d
+Checks: Tinhu
+Checks: Rechu
+Checks: Sobuwo
+Pot size: 30
+Showdown Reached
+Shows: Tinhu, 7d 8c
+Combination: Tinhu, Pair ( 8c 8h Kh Td 7d )
+Shows: Rechu, 7c 3h
+Combination: Rechu, High Card ( Kh Td 8h 7c 6d )
+Shows: Sobuwo, Kc 2d
+Combination: Sobuwo, Pair ( Kc Kh Td 8h 6d )
+Wins: Sobuwo, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Tinhu
+Small Blind: Rechu, chips: 5
+Big Blind: Famo, chips: 10
+Calls: Sobuwo
+Folds: Motowra
+Calls: Deenho
+Folds: Lodu
+Raises: Tinhu, chips: 20
+Calls: Rechu
+Calls: Famo
+Calls: Sobuwo
+Calls: Deenho
+Flop: Th 3h 5s
+Checks: Rechu
+Raises: Famo, chips: 20
+Calls: Sobuwo
+Folds: Deenho
+Calls: Tinhu
+Calls: Rechu
+Turn: 5c
+Checks: Rechu
+Checks: Famo
+Checks: Sobuwo
+Raises: Tinhu, chips: 20
+Calls: Rechu
+Calls: Famo
+Calls: Sobuwo
+River: 3s
+Checks: Rechu
+Checks: Famo
+Checks: Sobuwo
+Raises: Tinhu, chips: 20
+Calls: Rechu
+Folds: Famo
+Calls: Sobuwo
+Pot size: 370
+Showdown Reached
+Shows: Tinhu, Qc 2h
+Combination: Tinhu, Two Pair ( 5s 5c 3h 3s Qc )
+Shows: Rechu, Tc Qh
+Combination: Rechu, Two Pair ( Tc Th 5s 5c Qh )
+Boasts: Famo, 7c 4h
+Shows: Sobuwo, 3c Ks
+Combination: Sobuwo, Full House ( 3c 3h 3s 5s 5c )
+Wins: Sobuwo, chips: 370
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Rechu
+Small Blind: Famo, chips: 5
+Big Blind: Sobuwo, chips: 10
+Folds: Motowra
+Folds: Deenho
+Folds: Lodu
+Folds: Tinhu
+Calls: Rechu
+Folds: Famo
+Checks: Sobuwo
+Flop: 2c 2s 5d
+Checks: Sobuwo
+Checks: Rechu
+Turn: Js
+Checks: Sobuwo
+Checks: Rechu
+River: Jc
+Checks: Sobuwo
+Checks: Rechu
+Pot size: 25
+Showdown Reached
+Boasts: Tinhu, Jd 8d
+Shows: Rechu, 2h Th
+Combination: Rechu, Full House ( 2h 2c 2s Js Jc )
+Boasts: Famo, Tc Ac
+Shows: Sobuwo, Kh 9s
+Combination: Sobuwo, Two Pair ( Js Jc 2c 2s Kh )
+Wins: Rechu, chips: 25
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Famo
+Small Blind: Sobuwo, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Deenho
+Folds: Lodu
+Raises: Tinhu, chips: 20
+Calls: Rechu
+Calls: Famo
+Calls: Sobuwo
+Folds: Motowra
+Flop: 5d 8h As
+Checks: Sobuwo
+Checks: Tinhu
+Checks: Rechu
+Checks: Famo
+Turn: 9s
+Checks: Sobuwo
+Checks: Tinhu
+Checks: Rechu
+Raises: Famo, chips: 20
+Calls: Sobuwo
+Raises: Tinhu, chips: 40
+Calls: Rechu
+Raises: Famo, chips: 80
+Calls: Sobuwo
+Calls: Tinhu
+Calls: Rechu
+River: 6d
+Checks: Sobuwo
+Checks: Tinhu
+Checks: Rechu
+Checks: Famo
+Pot size: 690
+Showdown Reached
+Shows: Tinhu, 4c 9h
+Combination: Tinhu, Pair ( 9h 9s As 8h 6d )
+Shows: Rechu, 7c 4s
+Combination: Rechu, Straight ( 9s 8h 7c 6d 5d )
+Shows: Famo, 3s Kh
+Combination: Famo, High Card ( As Kh 9s 8h 6d )
+Shows: Sobuwo, 6s Ac
+Combination: Sobuwo, Two Pair ( Ac As 6s 6d 9s )
+Wins: Rechu, chips: 690
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sobuwo
+Small Blind: Motowra, chips: 5
+Big Blind: Deenho, chips: 10
+Folds: Lodu
+Calls: Tinhu
+Calls: Rechu
+Calls: Famo
+Calls: Sobuwo
+Folds: Motowra
+Checks: Deenho
+Flop: 7d Ad 7s
+Checks: Deenho
+Checks: Tinhu
+Checks: Rechu
+Checks: Famo
+Checks: Sobuwo
+Turn: 6c
+Checks: Deenho
+Checks: Tinhu
+Checks: Rechu
+Checks: Famo
+Checks: Sobuwo
+River: 4c
+Checks: Deenho
+Checks: Tinhu
+Checks: Rechu
+Checks: Famo
+Checks: Sobuwo
+Pot size: 55
+Showdown Reached
+Shows: Deenho, 4h 2c
+Combination: Deenho, Two Pair ( 7d 7s 4h 4c Ad )
+Shows: Tinhu, 3s 9s
+Combination: Tinhu, Pair ( 7d 7s Ad 9s 6c )
+Shows: Rechu, 3c 3d
+Combination: Rechu, Two Pair ( 7d 7s 3c 3d Ad )
+Shows: Famo, Kh Kc
+Combination: Famo, Two Pair ( Kh Kc 7d 7s Ad )
+Shows: Sobuwo, 8s 9h
+Combination: Sobuwo, Pair ( 7d 7s Ad 9h 8s )
+Wins: Famo, chips: 55
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Deenho, chips: 5
+Big Blind: Lodu, chips: 10
+Raises: Tinhu, chips: 20
+Calls: Rechu
+Calls: Famo
+Calls: Sobuwo
+Folds: Motowra
+Folds: Deenho
+Folds: Lodu
+Flop: 6h 7h Qs
+Raises: Tinhu, chips: 20
+Calls: Rechu
+Folds: Famo
+Calls: Sobuwo
+Turn: Qh
+Checks: Tinhu
+Checks: Rechu
+Checks: Sobuwo
+River: 8h
+Checks: Tinhu
+Checks: Rechu
+Checks: Sobuwo
+Pot size: 195
+Showdown Reached
+Shows: Tinhu, 2c Td
+Combination: Tinhu, Pair ( Qs Qh Td 8h 7h )
+Shows: Rechu, Kc 6c
+Combination: Rechu, Two Pair ( Qs Qh 6c 6h Kc )
+Boasts: Famo, 6s Ts
+Shows: Sobuwo, Kd 2h
+Combination: Sobuwo, Flush ( Qh 8h 7h 6h 2h )
+Wins: Sobuwo, chips: 195
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Deenho
+Small Blind: Lodu, chips: 5
+Big Blind: Tinhu, chips: 10
+Calls: Rechu
+Calls: Famo
+Calls: Sobuwo
+Folds: Motowra
+Calls: Deenho
+Folds: Lodu
+Raises: Tinhu, chips: 10
+Calls: Rechu
+Folds: Famo
+Calls: Sobuwo
+Folds: Deenho
+Flop: 8c Jc 5c
+Checks: Tinhu
+Checks: Rechu
+Checks: Sobuwo
+Turn: 9d
+Checks: Tinhu
+Checks: Rechu
+Checks: Sobuwo
+River: Jh
+Raises: Tinhu, chips: 10
+Calls: Rechu
+Calls: Sobuwo
+Pot size: 115
+Showdown Reached
+Shows: Tinhu, 3c 6d
+Combination: Tinhu, Pair ( Jc Jh 9d 8c 6d )
+Shows: Rechu, Qd 4h
+Combination: Rechu, Pair ( Jc Jh Qd 9d 8c )
+Shows: Sobuwo, 4d 3h
+Combination: Sobuwo, Pair ( Jc Jh 9d 8c 5c )
+Wins: Rechu, chips: 115
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Tinhu, chips: 5
+Big Blind: Rechu, chips: 10
+Raises: Famo, chips: 20
+Calls: Sobuwo
+Folds: Motowra
+Folds: Deenho
+Folds: Lodu
+Calls: Tinhu
+Calls: Rechu
+Flop: Qh 9h 5s
+Checks: Tinhu
+Checks: Rechu
+Checks: Famo
+Checks: Sobuwo
+Turn: Jh
+Checks: Tinhu
+Checks: Rechu
+Checks: Famo
+Checks: Sobuwo
+River: Kh
+Checks: Tinhu
+Checks: Rechu
+Checks: Famo
+Checks: Sobuwo
+Pot size: 120
+Showdown Reached
+Shows: Tinhu, 5d 8d
+Combination: Tinhu, Pair ( 5d 5s Kh Qh Jh )
+Shows: Rechu, 2d Jd
+Combination: Rechu, Pair ( Jd Jh Kh Qh 9h )
+Shows: Famo, As Td
+Combination: Famo, Straight ( As Kh Qh Jh Td )
+Shows: Sobuwo, Kc 4s
+Combination: Sobuwo, Pair ( Kc Kh Qh Jh 9h )
+Wins: Famo, chips: 120
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Tinhu
+Small Blind: Rechu, chips: 5
+Big Blind: Famo, chips: 10
+Calls: Sobuwo
+Folds: Motowra
+Folds: Deenho
+Raises: Lodu, chips: 10
+Folds: Tinhu
+Calls: Rechu
+Calls: Famo
+Calls: Sobuwo
+Flop: 2d 8c 8s
+Checks: Rechu
+Checks: Famo
+Checks: Sobuwo
+Checks: Lodu
+Turn: 2h
+Checks: Rechu
+Raises: Famo, chips: 10
+Calls: Sobuwo
+Calls: Lodu
+Calls: Rechu
+River: Qc
+Checks: Rechu
+Checks: Famo
+Checks: Sobuwo
+Checks: Lodu
+Pot size: 120
+Showdown Reached
+Shows: Lodu, Js Jd
+Combination: Lodu, Two Pair ( Js Jd 8c 8s Qc )
+Boasts: Tinhu, Kh Qd
+Shows: Rechu, Kc Kd
+Combination: Rechu, Two Pair ( Kc Kd 8c 8s Qc )
+Shows: Famo, 3s 5d
+Combination: Famo, Two Pair ( 8c 8s 2d 2h Qc )
+Shows: Sobuwo, 2c 9s
+Combination: Sobuwo, Full House ( 2c 2d 2h 8c 8s )
+Wins: Sobuwo, chips: 120
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Rechu
+Small Blind: Famo, chips: 5
+Big Blind: Sobuwo, chips: 10
+Folds: Motowra
+Calls: Deenho
+Raises: Lodu, chips: 20
+Raises: Tinhu, chips: 50
+Calls: Rechu
+Raises: Famo, chips: 125
+Calls: Sobuwo
+Folds: Deenho
+Raises: Lodu, chips: 395
+Calls: Tinhu
+Calls: Rechu
+Calls: Famo
+Calls: Sobuwo
+Flop: 6c 8d 6s
+Checks: Famo
+Checks: Sobuwo
+Checks: Lodu
+Raises: Tinhu, chips: 165
+Calls: Rechu
+Calls: Famo
+Calls: Sobuwo
+Folds: Lodu
+Turn: 9s
+Checks: Famo
+Checks: Sobuwo
+Checks: Rechu
+River: Kc
+Raises: Famo, chips: 250
+Calls: Sobuwo
+Calls: Rechu
+Pot size: 4420
+Showdown Reached
+Shows: Tinhu, 9d Kh
+Combination: Tinhu, Two Pair ( Kh Kc 9d 9s 8d )
+Shows: Rechu, 4c 8s
+Combination: Rechu, Two Pair ( 8s 8d 6c 6s Kc )
+Shows: Famo, 3s Ah
+Combination: Famo, Pair ( 6c 6s Ah Kc 9s )
+Shows: Sobuwo, Td Qh
+Combination: Sobuwo, Pair ( 6c 6s Kc Qh Td )
+Wins: Tinhu, chips: 3670
+Wins: Rechu, chips: 750
+Quits: Famo, chips: 0
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sobuwo
+Small Blind: Motowra, chips: 5
+Big Blind: Deenho, chips: 10
+Raises: Lodu, chips: 10
+Raises: Tinhu, chips: 30
+Calls: Rechu
+Calls: Sobuwo
+Folds: Motowra
+Folds: Deenho
+Raises: Lodu, chips: 50
+Calls: Tinhu
+Calls: Rechu
+Calls: Sobuwo
+Flop: Qc 2s 8s
+Checks: Lodu
+Raises: Tinhu, chips: 50
+Calls: Rechu
+Calls: Sobuwo
+Folds: Lodu
+Turn: Kh
+Checks: Tinhu
+Checks: Rechu
+Checks: Sobuwo
+River: 6c
+Checks: Tinhu
+Checks: Rechu
+Checks: Sobuwo
+Pot size: 565
+Showdown Reached
+Shows: Tinhu, 4c 2h
+Combination: Tinhu, Pair ( 2h 2s Kh Qc 8s )
+Shows: Rechu, 3s 2d
+Combination: Rechu, Pair ( 2d 2s Kh Qc 8s )
+Shows: Sobuwo, As 9c
+Combination: Sobuwo, High Card ( As Kh Qc 9c 8s )
+Wins: Tinhu, chips: 283
+Wins: Rechu, chips: 282
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Deenho, chips: 5
+Big Blind: Lodu, chips: 10
+Calls: Tinhu
+Calls: Rechu
+Calls: Sobuwo
+Folds: Motowra
+Calls: Deenho
+Checks: Lodu
+Flop: Th 4d 6c
+Checks: Deenho
+Checks: Lodu
+Checks: Tinhu
+Checks: Rechu
+Checks: Sobuwo
+Turn: Ac
+Checks: Deenho
+Checks: Lodu
+Checks: Tinhu
+Checks: Rechu
+Checks: Sobuwo
+River: 8h
+Checks: Deenho
+Checks: Lodu
+Checks: Tinhu
+Checks: Rechu
+Checks: Sobuwo
+Pot size: 50
+Showdown Reached
+Shows: Deenho, Kh 6h
+Combination: Deenho, Pair ( 6h 6c Ac Kh Th )
+Shows: Lodu, Td 6s
+Combination: Lodu, Two Pair ( Td Th 6s 6c Ac )
+Shows: Tinhu, 2s 3c
+Combination: Tinhu, High Card ( Ac Th 8h 6c 4d )
+Shows: Rechu, 2d 5c
+Combination: Rechu, High Card ( Ac Th 8h 6c 5c )
+Shows: Sobuwo, 7d 3s
+Combination: Sobuwo, High Card ( Ac Th 8h 7d 6c )
+Wins: Lodu, chips: 50
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Deenho
+Small Blind: Lodu, chips: 5
+Big Blind: Tinhu, chips: 10
+Calls: Rechu
+Calls: Sobuwo
+Folds: Motowra
+Folds: Deenho
+Calls: Lodu
+Raises: Tinhu, chips: 10
+Calls: Rechu
+Calls: Sobuwo
+Folds: Lodu
+Flop: Ah Jh Kc
+Checks: Tinhu
+Checks: Rechu
+Checks: Sobuwo
+Turn: 7d
+Checks: Tinhu
+Checks: Rechu
+Checks: Sobuwo
+River: Ad
+Raises: Tinhu, chips: 10
+Calls: Rechu
+Calls: Sobuwo
+Pot size: 95
+Showdown Reached
+Shows: Tinhu, Qs 8h
+Combination: Tinhu, Pair ( Ah Ad Kc Qs Jh )
+Shows: Rechu, 9d Tc
+Combination: Rechu, Pair ( Ah Ad Kc Jh Tc )
+Shows: Sobuwo, 3h 9c
+Combination: Sobuwo, Pair ( Ah Ad Kc Jh 9c )
+Wins: Tinhu, chips: 95
+Quits: Sobuwo, chips: 0
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Tinhu, chips: 5
+Big Blind: Rechu, chips: 10
+Folds: Motowra
+Calls: Deenho
+Folds: Lodu
+Folds: Tinhu
+Checks: Rechu
+Flop: Kd 5c Th
+Checks: Rechu
+Checks: Deenho
+Turn: 2d
+Checks: Rechu
+Checks: Deenho
+River: 6s
+Checks: Rechu
+Checks: Deenho
+Pot size: 25
+Showdown Reached
+Shows: Deenho, As 9h
+Combination: Deenho, High Card ( As Kd Th 9h 6s )
+Shows: Rechu, 7s Kc
+Combination: Rechu, Pair ( Kc Kd Th 7s 6s )
+Wins: Rechu, chips: 25
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Tinhu
+Small Blind: Rechu, chips: 5
+Big Blind: Motowra, chips: 10
+Calls: Deenho
+Folds: Lodu
+Raises: Tinhu, chips: 20
+Calls: Rechu
+Folds: Motowra
+Folds: Deenho
+Flop: 8s 6c Ah
+Checks: Rechu
+Checks: Tinhu
+Turn: Kh
+Checks: Rechu
+Checks: Tinhu
+River: 2h
+Checks: Rechu
+Checks: Tinhu
+Pot size: 80
+Showdown Reached
+Shows: Tinhu, Qs 2s
+Combination: Tinhu, Pair ( 2s 2h Ah Kh Qs )
+Shows: Rechu, 6s Td
+Combination: Rechu, Pair ( 6s 6c Ah Kh Td )
+Wins: Rechu, chips: 80
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Rechu
+Small Blind: Motowra, chips: 5
+Big Blind: Deenho, chips: 10
+Calls: Lodu
+Raises: Tinhu, chips: 20
+Calls: Rechu
+Folds: Motowra
+Folds: Deenho
+Folds: Lodu
+Flop: Kc Qd 2h
+Raises: Tinhu, chips: 3793
+Calls: Rechu
+Turn: 6d
+River: Jh
+Pot size: 4960
+Showdown Reached
+Shows: Tinhu, Kh 7d
+Combination: Tinhu, Pair ( Kh Kc Qd Jh 7d )
+Shows: Rechu, 4s 9h
+Combination: Rechu, High Card ( Kc Qd Jh 9h 6d )
+Wins: Tinhu, chips: 4960
+Quits: Rechu, chips: 0
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Deenho, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Tinhu
+Folds: Motowra
+Folds: Deenho
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Deenho
+Small Blind: Lodu, chips: 5
+Big Blind: Tinhu, chips: 10
+Folds: Motowra
+Folds: Deenho
+Folds: Lodu
+Pot size: 15
+Boasts: Tinhu, Kh 4h
+Wins: Tinhu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Tinhu, chips: 5
+Big Blind: Motowra, chips: 10
+Raises: Deenho, chips: 20
+Folds: Lodu
+Calls: Tinhu
+Folds: Motowra
+Flop: 9s 4c 9c
+Raises: Tinhu, chips: 20
+Calls: Deenho
+Turn: Jd
+Checks: Tinhu
+Checks: Deenho
+River: 4h
+Raises: Tinhu, chips: 20
+Raises: Deenho, chips: 30
+Calls: Tinhu
+Pot size: 210
+Showdown Reached
+Shows: Deenho, Ks Tc
+Combination: Deenho, Two Pair ( 9s 9c 4c 4h Ks )
+Shows: Tinhu, 6d 2c
+Combination: Tinhu, Two Pair ( 9s 9c 4c 4h Jd )
+Wins: Deenho, chips: 210
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Tinhu
+Small Blind: Motowra, chips: 5
+Big Blind: Deenho, chips: 10
+Folds: Lodu
+Calls: Tinhu
+Folds: Motowra
+Checks: Deenho
+Flop: 3c Qc 5s
+Checks: Deenho
+Raises: Tinhu, chips: 10
+Calls: Deenho
+Turn: Qs
+Checks: Deenho
+Checks: Tinhu
+River: 8h
+Raises: Deenho, chips: 10
+Calls: Tinhu
+Pot size: 65
+Showdown Reached
+Shows: Deenho, Kc 8c
+Combination: Deenho, Two Pair ( Qc Qs 8c 8h Kc )
+Shows: Tinhu, Ah 9c
+Combination: Tinhu, Pair ( Qc Qs Ah 9c 8h )
+Wins: Deenho, chips: 65
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Deenho, chips: 5
+Big Blind: Lodu, chips: 10
+Calls: Tinhu
+Folds: Motowra
+Calls: Deenho
+Checks: Lodu
+Flop: 3d Ad 3h
+Raises: Deenho, chips: 10
+Folds: Lodu
+Raises: Tinhu, chips: 20
+Raises: Deenho, chips: 50
+Raises: Tinhu, chips: 100
+Calls: Deenho
+Turn: 4h
+Checks: Deenho
+Checks: Tinhu
+River: 6d
+Raises: Deenho, chips: 780
+Calls: Tinhu
+Pot size: 1950
+Showdown Reached
+Shows: Deenho, Ac Kd
+Combination: Deenho, Two Pair ( Ac Ad 3d 3h Kd )
+Shows: Tinhu, 9d 4d
+Combination: Tinhu, Flush ( Ad 9d 6d 4d 3d )
+Wins: Tinhu, chips: 1950
+Quits: Deenho, chips: 0
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Tinhu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Folds: Tinhu
+Pot size: 15
+Boasts: Tinhu, 7s 6d
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Tinhu
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Calls: Tinhu
+Folds: Motowra
+Checks: Lodu
+Flop: Jh Ac 7c
+Checks: Lodu
+Raises: Tinhu, chips: 10
+Calls: Lodu
+Turn: 6h
+Checks: Lodu
+Checks: Tinhu
+River: Kh
+Checks: Lodu
+Checks: Tinhu
+Pot size: 45
+Showdown Reached
+Shows: Lodu, Th 8c
+Combination: Lodu, High Card ( Ac Kh Jh Th 8c )
+Shows: Tinhu, 5h 3h
+Combination: Tinhu, Flush ( Kh Jh 6h 5h 3h )
+Wins: Tinhu, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Lodu, chips: 5
+Big Blind: Tinhu, chips: 10
+Folds: Motowra
+Folds: Lodu
+Pot size: 15
+Wins: Tinhu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Tinhu, chips: 5
+Big Blind: Motowra, chips: 10
+Calls: Lodu
+Folds: Tinhu
+Checks: Motowra
+Flop: Kh 6c Td
+Checks: Motowra
+Raises: Lodu, chips: 10
+Folds: Motowra
+Pot size: 35
+Wins: Lodu, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Tinhu
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Raises: Tinhu, chips: 20
+Folds: Motowra
+Folds: Lodu
+Pot size: 45
+Wins: Tinhu, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Lodu, chips: 5
+Big Blind: Tinhu, chips: 10
+Folds: Motowra
+Calls: Lodu
+Raises: Tinhu, chips: 10
+Calls: Lodu
+Flop: 3s 4d 8s
+Raises: Lodu, chips: 10
+Folds: Tinhu
+Pot size: 50
+Boasts: Tinhu, 6s 6h
+Wins: Lodu, chips: 50
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Tinhu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Raises: Tinhu, chips: 15
+Folds: Motowra
+Pot size: 35
+Boasts: Tinhu, 8h Qs
+Wins: Tinhu, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Tinhu
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Calls: Tinhu
+Folds: Motowra
+Checks: Lodu
+Flop: 7s Qh 9d
+Checks: Lodu
+Checks: Tinhu
+Turn: 3c
+Checks: Lodu
+Raises: Tinhu, chips: 10
+Calls: Lodu
+River: Ks
+Raises: Lodu, chips: 230
+Raises: Tinhu, chips: 240
+Pot size: 745
+Showdown Reached
+Shows: Lodu, Kh 7d
+Combination: Lodu, Two Pair ( Kh Ks 7d 7s Qh )
+Shows: Tinhu, 6s Tc
+Combination: Tinhu, High Card ( Ks Qh Tc 9d 7s )
+Wins: Lodu, chips: 505
+Wins: Tinhu, chips: 240
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Lodu, chips: 5
+Big Blind: Tinhu, chips: 10
+Folds: Motowra
+Folds: Lodu
+Pot size: 15
+Boasts: Tinhu, 8h 7c
+Wins: Tinhu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Tinhu, chips: 5
+Big Blind: Motowra, chips: 10
+Calls: Lodu
+Raises: Tinhu, chips: 15
+Folds: Motowra
+Folds: Lodu
+Pot size: 45
+Wins: Tinhu, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Tinhu
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Raises: Tinhu, chips: 20
+Folds: Motowra
+Folds: Lodu
+Pot size: 45
+Wins: Tinhu, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Lodu, chips: 5
+Big Blind: Tinhu, chips: 10
+Folds: Motowra
+Calls: Lodu
+Checks: Tinhu
+Flop: 3d 2s 6h
+Raises: Lodu, chips: 10
+Raises: Tinhu, chips: 20
+Raises: Lodu, chips: 20
+Folds: Tinhu
+Pot size: 100
+Wins: Lodu, chips: 100
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Tinhu, chips: 5
+Big Blind: Motowra, chips: 10
+Calls: Lodu
+Calls: Tinhu
+Checks: Motowra
+Flop: 9d 3c 3d
+Checks: Tinhu
+Checks: Motowra
+Checks: Lodu
+Turn: 2c
+Checks: Tinhu
+Checks: Motowra
+Checks: Lodu
+River: 7s
+Checks: Tinhu
+Checks: Motowra
+Checks: Lodu
+Pot size: 30
+Showdown Reached
+Shows: Motowra, 9c 3h
+Combination: Motowra, Full House ( 3h 3c 3d 9c 9d )
+Shows: Lodu, 4h Kh
+Combination: Lodu, Pair ( 3c 3d Kh 9d 7s )
+Shows: Tinhu, Qh As
+Combination: Tinhu, Pair ( 3c 3d As Qh 9d )
+Wins: Motowra, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Tinhu
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Calls: Tinhu
+Folds: Motowra
+Checks: Lodu
+Flop: Qc 7d Td
+Checks: Lodu
+Checks: Tinhu
+Turn: 6c
+Checks: Lodu
+Raises: Tinhu, chips: 10
+Calls: Lodu
+River: 5h
+Raises: Lodu, chips: 10
+Raises: Tinhu, chips: 20
+Calls: Lodu
+Pot size: 105
+Showdown Reached
+Shows: Lodu, 6h As
+Combination: Lodu, Pair ( 6h 6c As Qc Td )
+Shows: Tinhu, 2c Th
+Combination: Tinhu, Pair ( Th Td Qc 7d 6c )
+Wins: Tinhu, chips: 105
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Lodu, chips: 5
+Big Blind: Tinhu, chips: 10
+Folds: Motowra
+Calls: Lodu
+Raises: Tinhu, chips: 10
+Calls: Lodu
+Flop: 7h Qd 8c
+Raises: Lodu, chips: 10
+Folds: Tinhu
+Pot size: 50
+Boasts: Tinhu, 2s 7d
+Wins: Lodu, chips: 50
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Tinhu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Calls: Tinhu
+Checks: Motowra
+Flop: 6d 4h Th
+Raises: Tinhu, chips: 10
+Folds: Motowra
+Pot size: 30
+Boasts: Tinhu, 7h Ad
+Wins: Tinhu, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Tinhu
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Calls: Tinhu
+Folds: Motowra
+Checks: Lodu
+Flop: 2c 5c 8c
+Checks: Lodu
+Checks: Tinhu
+Turn: 5d
+Checks: Lodu
+Checks: Tinhu
+River: Ac
+Raises: Lodu, chips: 10
+Folds: Tinhu
+Pot size: 35
+Wins: Lodu, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Lodu, chips: 5
+Big Blind: Tinhu, chips: 10
+Folds: Motowra
+Folds: Lodu
+Pot size: 15
+Wins: Tinhu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Tinhu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Raises: Tinhu, chips: 15
+Folds: Motowra
+Pot size: 35
+Boasts: Tinhu, As Kh
+Wins: Tinhu, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Tinhu
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Calls: Tinhu
+Folds: Motowra
+Checks: Lodu
+Flop: 9d Qc Ac
+Checks: Lodu
+Raises: Tinhu, chips: 10
+Folds: Lodu
+Pot size: 35
+Wins: Tinhu, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Lodu, chips: 5
+Big Blind: Tinhu, chips: 10
+Folds: Motowra
+Calls: Lodu
+Checks: Tinhu
+Flop: 5h 3s 5c
+Checks: Lodu
+Raises: Tinhu, chips: 10
+Calls: Lodu
+Turn: 6d
+Checks: Lodu
+Checks: Tinhu
+River: Qc
+Checks: Lodu
+Checks: Tinhu
+Pot size: 40
+Showdown Reached
+Shows: Lodu, Jd Jh
+Combination: Lodu, Two Pair ( Jd Jh 5h 5c Qc )
+Shows: Tinhu, 6s 9h
+Combination: Tinhu, Two Pair ( 6s 6d 5h 5c Qc )
+Wins: Lodu, chips: 40
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Tinhu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Calls: Tinhu
+Checks: Motowra
+Flop: 8s 7s Qh
+Raises: Tinhu, chips: 10
+Folds: Motowra
+Pot size: 30
+Boasts: Tinhu, 9c 3s
+Wins: Tinhu, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Tinhu
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Raises: Tinhu, chips: 20
+Folds: Motowra
+Folds: Lodu
+Pot size: 45
+Wins: Tinhu, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Lodu, chips: 5
+Big Blind: Tinhu, chips: 10
+Folds: Motowra
+Folds: Lodu
+Pot size: 15
+Wins: Tinhu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Tinhu, chips: 5
+Big Blind: Motowra, chips: 10
+Calls: Lodu
+Calls: Tinhu
+Checks: Motowra
+Flop: Qh 9s Js
+Raises: Tinhu, chips: 10
+Folds: Motowra
+Raises: Lodu, chips: 20
+Raises: Tinhu, chips: 40
+Calls: Lodu
+Turn: Jh
+Raises: Tinhu, chips: 40
+Calls: Lodu
+River: Kh
+Checks: Tinhu
+Checks: Lodu
+Pot size: 250
+Showdown Reached
+Shows: Lodu, Kc 9h
+Combination: Lodu, Two Pair ( Kc Kh Js Jh Qh )
+Shows: Tinhu, Qc 6h
+Combination: Tinhu, Two Pair ( Qc Qh Js Jh Kh )
+Wins: Lodu, chips: 250
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Tinhu
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Tinhu
+Folds: Motowra
+Pot size: 15
+Boasts: Tinhu, 6d 6h
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Lodu, chips: 5
+Big Blind: Tinhu, chips: 10
+Folds: Motowra
+Folds: Lodu
+Pot size: 15
+Boasts: Tinhu, 6s 5d
+Wins: Tinhu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Tinhu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Calls: Tinhu
+Checks: Motowra
+Flop: Kh Ad Qh
+Checks: Tinhu
+Checks: Motowra
+Turn: As
+Raises: Tinhu, chips: 10
+Folds: Motowra
+Pot size: 30
+Boasts: Tinhu, Ts 9h
+Wins: Tinhu, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Tinhu
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Raises: Tinhu, chips: 20
+Folds: Motowra
+Folds: Lodu
+Pot size: 45
+Boasts: Tinhu, 5d Qd
+Wins: Tinhu, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Lodu, chips: 5
+Big Blind: Tinhu, chips: 10
+Folds: Motowra
+Calls: Lodu
+Checks: Tinhu
+Flop: 5h 8d 4c
+Raises: Lodu, chips: 10
+Raises: Tinhu, chips: 20
+Calls: Lodu
+Turn: 6c
+Checks: Lodu
+Checks: Tinhu
+River: Td
+Checks: Lodu
+Raises: Tinhu, chips: 20
+Folds: Lodu
+Pot size: 100
+Wins: Tinhu, chips: 100
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Tinhu, chips: 5
+Big Blind: Motowra, chips: 10
+Raises: Lodu, chips: 20
+Folds: Tinhu
+Folds: Motowra
+Pot size: 45
+Boasts: Tinhu, Ks 4c
+Wins: Lodu, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Tinhu
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Calls: Tinhu
+Folds: Motowra
+Checks: Lodu
+Flop: 8d 5c 7h
+Checks: Lodu
+Checks: Tinhu
+Turn: Qs
+Checks: Lodu
+Checks: Tinhu
+River: 2c
+Checks: Lodu
+Raises: Tinhu, chips: 10
+Calls: Lodu
+Pot size: 45
+Showdown Reached
+Shows: Lodu, Td 7d
+Combination: Lodu, Pair ( 7d 7h Qs Td 8d )
+Shows: Tinhu, 3s 4c
+Combination: Tinhu, High Card ( Qs 8d 7h 5c 4c )
+Wins: Lodu, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Lodu, chips: 5
+Big Blind: Tinhu, chips: 10
+Folds: Motowra
+Folds: Lodu
+Pot size: 15
+Boasts: Tinhu, 9h 3c
+Wins: Tinhu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Tinhu, chips: 5
+Big Blind: Motowra, chips: 10
+Calls: Lodu
+Calls: Tinhu
+Checks: Motowra
+Flop: 3d 8h Ks
+Checks: Tinhu
+Checks: Motowra
+Checks: Lodu
+Turn: 9d
+Checks: Tinhu
+Checks: Motowra
+Checks: Lodu
+River: Kh
+Checks: Tinhu
+Checks: Motowra
+Checks: Lodu
+Pot size: 30
+Showdown Reached
+Shows: Motowra, 7d 6s
+Combination: Motowra, Pair ( Ks Kh 9d 8h 7d )
+Shows: Lodu, Qc Js
+Combination: Lodu, Pair ( Ks Kh Qc Js 9d )
+Shows: Tinhu, 4d 9c
+Combination: Tinhu, Two Pair ( Ks Kh 9c 9d 8h )
+Wins: Tinhu, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Tinhu
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Calls: Tinhu
+Folds: Motowra
+Raises: Lodu, chips: 10
+Calls: Tinhu
+Flop: 7c 6h 2d
+Checks: Lodu
+Raises: Tinhu, chips: 10
+Calls: Lodu
+Turn: 9h
+Checks: Lodu
+Raises: Tinhu, chips: 10
+Raises: Lodu, chips: 20
+Raises: Tinhu, chips: 40
+Raises: Lodu, chips: 490
+Raises: Tinhu, chips: 530
+River: 2s
+Pot size: 1715
+Showdown Reached
+Shows: Lodu, 9c 9s
+Combination: Lodu, Full House ( 9c 9s 9h 2d 2s )
+Shows: Tinhu, Jc 4h
+Combination: Tinhu, Pair ( 2d 2s Jc 9h 7c )
+Wins: Lodu, chips: 1185
+Wins: Tinhu, chips: 530
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Lodu, chips: 5
+Big Blind: Tinhu, chips: 10
+Folds: Motowra
+Folds: Lodu
+Pot size: 15
+Boasts: Tinhu, 6d Ts
+Wins: Tinhu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Tinhu, chips: 5
+Big Blind: Motowra, chips: 10
+Calls: Lodu
+Calls: Tinhu
+Checks: Motowra
+Flop: 4s 9h Qd
+Checks: Tinhu
+Checks: Motowra
+Checks: Lodu
+Turn: 5s
+Raises: Tinhu, chips: 10
+Folds: Motowra
+Calls: Lodu
+River: Kh
+Checks: Tinhu
+Checks: Lodu
+Pot size: 50
+Showdown Reached
+Shows: Lodu, Js 9d
+Combination: Lodu, Pair ( 9d 9h Kh Qd Js )
+Shows: Tinhu, Td Ad
+Combination: Tinhu, High Card ( Ad Kh Qd Td 9h )
+Wins: Lodu, chips: 50
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Tinhu
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Calls: Tinhu
+Folds: Motowra
+Raises: Lodu, chips: 1200
+Calls: Tinhu
+Flop: 5s Jc 7h
+Turn: 2d
+River: 7d
+Pot size: 2425
+Showdown Reached
+Shows: Lodu, Js Ad
+Combination: Lodu, Two Pair ( Js Jc 7h 7d Ad )
+Shows: Tinhu, Ks 5d
+Combination: Tinhu, Two Pair ( 7h 7d 5d 5s Ks )
+Wins: Lodu, chips: 2425
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Lodu, chips: 5
+Big Blind: Tinhu, chips: 10
+Folds: Motowra
+Folds: Lodu
+Pot size: 15
+Wins: Tinhu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Tinhu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Raises: Tinhu, chips: 15
+Folds: Motowra
+Pot size: 35
+Wins: Tinhu, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Tinhu
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Tinhu
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Lodu, chips: 5
+Big Blind: Tinhu, chips: 10
+Folds: Motowra
+Calls: Lodu
+Checks: Tinhu
+Flop: 4d 8c 2d
+Checks: Lodu
+Checks: Tinhu
+Turn: Qc
+Checks: Lodu
+Checks: Tinhu
+River: Qs
+Checks: Lodu
+Checks: Tinhu
+Pot size: 20
+Showdown Reached
+Shows: Lodu, 9s Kd
+Combination: Lodu, Pair ( Qc Qs Kd 9s 8c )
+Shows: Tinhu, 7s 3c
+Combination: Tinhu, Pair ( Qc Qs 8c 7s 4d )
+Wins: Lodu, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Tinhu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Raises: Tinhu, chips: 15
+Folds: Motowra
+Pot size: 35
+Boasts: Tinhu, Qc 9c
+Wins: Tinhu, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Tinhu
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Calls: Tinhu
+Folds: Motowra
+Checks: Lodu
+Flop: Ks 6c Td
+Checks: Lodu
+Checks: Tinhu
+Turn: 3d
+Checks: Lodu
+Checks: Tinhu
+River: 2s
+Checks: Lodu
+Raises: Tinhu, chips: 10
+Folds: Lodu
+Pot size: 35
+Wins: Tinhu, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Lodu, chips: 5
+Big Blind: Tinhu, chips: 10
+Folds: Motowra
+Folds: Lodu
+Pot size: 15
+Boasts: Tinhu, Ac 5h
+Wins: Tinhu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Tinhu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Raises: Tinhu, chips: 15
+Folds: Motowra
+Pot size: 35
+Boasts: Tinhu, Kh Ts
+Wins: Tinhu, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Tinhu
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Tinhu
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Lodu, chips: 5
+Big Blind: Tinhu, chips: 10
+Folds: Motowra
+Calls: Lodu
+Checks: Tinhu
+Flop: Qc Jd 8h
+Checks: Lodu
+Raises: Tinhu, chips: 10
+Folds: Lodu
+Pot size: 30
+Wins: Tinhu, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Tinhu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Raises: Tinhu, chips: 15
+Folds: Motowra
+Pot size: 35
+Boasts: Tinhu, Qc Ac
+Wins: Tinhu, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Tinhu
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Calls: Tinhu
+Folds: Motowra
+Checks: Lodu
+Flop: Qs Jd 6c
+Checks: Lodu
+Checks: Tinhu
+Turn: 8s
+Checks: Lodu
+Checks: Tinhu
+River: Ts
+Checks: Lodu
+Checks: Tinhu
+Pot size: 25
+Showdown Reached
+Shows: Lodu, 2h Ah
+Combination: Lodu, High Card ( Ah Qs Jd Ts 8s )
+Shows: Tinhu, 6d 8h
+Combination: Tinhu, Two Pair ( 8h 8s 6d 6c Qs )
+Wins: Tinhu, chips: 25
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Lodu, chips: 5
+Big Blind: Tinhu, chips: 10
+Folds: Motowra
+Calls: Lodu
+Checks: Tinhu
+Flop: Jc 8d 5d
+Checks: Lodu
+Checks: Tinhu
+Turn: Td
+Checks: Lodu
+Raises: Tinhu, chips: 10
+Calls: Lodu
+River: Kc
+Checks: Lodu
+Checks: Tinhu
+Pot size: 40
+Showdown Reached
+Shows: Lodu, Qs Th
+Combination: Lodu, Pair ( Th Td Kc Qs Jc )
+Shows: Tinhu, Ac 2c
+Combination: Tinhu, High Card ( Ac Kc Jc Td 8d )
+Wins: Lodu, chips: 40
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Tinhu, chips: 5
+Big Blind: Motowra, chips: 10
+Calls: Lodu
+Raises: Tinhu, chips: 15
+Folds: Motowra
+Folds: Lodu
+Pot size: 45
+Boasts: Tinhu, 9d 2h
+Wins: Tinhu, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Tinhu
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Raises: Tinhu, chips: 20
+Folds: Motowra
+Folds: Lodu
+Pot size: 45
+Boasts: Tinhu, 3h 6s
+Wins: Tinhu, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Lodu, chips: 5
+Big Blind: Tinhu, chips: 10
+Folds: Motowra
+Folds: Lodu
+Pot size: 15
+Wins: Tinhu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Tinhu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Calls: Tinhu
+Checks: Motowra
+Flop: 8s Td Ah
+Raises: Tinhu, chips: 10
+Folds: Motowra
+Pot size: 30
+Wins: Tinhu, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Tinhu
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Calls: Tinhu
+Folds: Motowra
+Checks: Lodu
+Flop: 5d As 6h
+Raises: Lodu, chips: 10
+Calls: Tinhu
+Turn: 3h
+Checks: Lodu
+Checks: Tinhu
+River: 7s
+Checks: Lodu
+Checks: Tinhu
+Pot size: 45
+Showdown Reached
+Shows: Lodu, Qc Th
+Combination: Lodu, High Card ( As Qc Th 7s 6h )
+Shows: Tinhu, 7h Ad
+Combination: Tinhu, Two Pair ( Ad As 7h 7s 6h )
+Wins: Tinhu, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Lodu, chips: 5
+Big Blind: Tinhu, chips: 10
+Folds: Motowra
+Folds: Lodu
+Pot size: 15
+Wins: Tinhu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Tinhu, chips: 5
+Big Blind: Motowra, chips: 10
+Calls: Lodu
+Calls: Tinhu
+Checks: Motowra
+Flop: Kd 7c 6s
+Checks: Tinhu
+Checks: Motowra
+Checks: Lodu
+Turn: 5s
+Raises: Tinhu, chips: 10
+Folds: Motowra
+Calls: Lodu
+River: 8s
+Checks: Tinhu
+Checks: Lodu
+Pot size: 50
+Showdown Reached
+Shows: Lodu, 6h 5h
+Combination: Lodu, Two Pair ( 6h 6s 5h 5s Kd )
+Shows: Tinhu, 9h 6d
+Combination: Tinhu, Straight ( 9h 8s 7c 6d 5s )
+Wins: Tinhu, chips: 50
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Tinhu
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Calls: Tinhu
+Folds: Motowra
+Checks: Lodu
+Flop: Ah 6s 9d
+Checks: Lodu
+Checks: Tinhu
+Turn: Jh
+Checks: Lodu
+Checks: Tinhu
+River: 2c
+Checks: Lodu
+Checks: Tinhu
+Pot size: 25
+Showdown Reached
+Shows: Lodu, 3d Jc
+Combination: Lodu, Pair ( Jc Jh Ah 9d 6s )
+Shows: Tinhu, 8c 5s
+Combination: Tinhu, High Card ( Ah Jh 9d 8c 6s )
+Wins: Lodu, chips: 25
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Lodu, chips: 5
+Big Blind: Tinhu, chips: 10
+Folds: Motowra
+Calls: Lodu
+Checks: Tinhu
+Flop: Kd 7d 3s
+Raises: Lodu, chips: 10
+Raises: Tinhu, chips: 20
+Calls: Lodu
+Turn: 4c
+Raises: Lodu, chips: 2330
+Calls: Tinhu
+River: Qc
+Pot size: 4740
+Showdown Reached
+Shows: Lodu, Qs Kh
+Combination: Lodu, Two Pair ( Kh Kd Qs Qc 7d )
+Shows: Tinhu, 6h 6d
+Combination: Tinhu, Pair ( 6h 6d Kd Qc 7d )
+Wins: Lodu, chips: 4740
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Tinhu, chips: 5
+Big Blind: Motowra, chips: 10
+Calls: Lodu
+Raises: Tinhu, chips: 15
+Folds: Motowra
+Calls: Lodu
+Flop: 9c Th 3d
+Checks: Tinhu
+Checks: Lodu
+Turn: Jd
+Checks: Tinhu
+Checks: Lodu
+River: Kh
+Raises: Tinhu, chips: 15
+Folds: Lodu
+Pot size: 75
+Boasts: Tinhu, 2c 5h
+Wins: Tinhu, chips: 75
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Tinhu
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Raises: Tinhu, chips: 20
+Folds: Motowra
+Calls: Lodu
+Flop: Tc Ts Qh
+Checks: Lodu
+Checks: Tinhu
+Turn: 7d
+Checks: Lodu
+Checks: Tinhu
+River: Qd
+Checks: Lodu
+Checks: Tinhu
+Pot size: 65
+Showdown Reached
+Shows: Lodu, Ah Ac
+Combination: Lodu, Two Pair ( Ah Ac Qh Qd Tc )
+Shows: Tinhu, 5c 2d
+Combination: Tinhu, Two Pair ( Qh Qd Tc Ts 7d )
+Wins: Lodu, chips: 65
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Lodu, chips: 5
+Big Blind: Tinhu, chips: 10
+Folds: Motowra
+Folds: Lodu
+Pot size: 15
+Wins: Tinhu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Tinhu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Raises: Tinhu, chips: 15
+Folds: Motowra
+Pot size: 35
+Wins: Tinhu, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Tinhu
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Tinhu
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Lodu, chips: 5
+Big Blind: Tinhu, chips: 10
+Folds: Motowra
+Calls: Lodu
+Checks: Tinhu
+Flop: 8c Js 8d
+Checks: Lodu
+Raises: Tinhu, chips: 10
+Calls: Lodu
+Turn: Jd
+Checks: Lodu
+Checks: Tinhu
+River: Kd
+Raises: Lodu, chips: 10
+Calls: Tinhu
+Pot size: 60
+Showdown Reached
+Shows: Lodu, 3s Ks
+Combination: Lodu, Two Pair ( Ks Kd Js Jd 8c )
+Shows: Tinhu, 8h As
+Combination: Tinhu, Full House ( 8h 8c 8d Js Jd )
+Wins: Tinhu, chips: 60
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Tinhu, chips: 5
+Big Blind: Motowra, chips: 10
+Raises: Lodu, chips: 10
+Calls: Tinhu
+Folds: Motowra
+Flop: Qd 2d Jh
+Raises: Tinhu, chips: 10
+Raises: Lodu, chips: 4690
+Calls: Tinhu
+Turn: Ad
+River: 7h
+Pot size: 6360
+Showdown Reached
+Shows: Lodu, Jc Js
+Combination: Lodu, Three Of A Kind ( Jc Js Jh Ad Qd )
+Shows: Tinhu, 4d 3s
+Combination: Tinhu, High Card ( Ad Qd Jh 7h 4d )
+Wins: Lodu, chips: 6360
+Quits: Tinhu, chips: 0
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Raises: Lodu, chips: 6355
+Folds: Motowra
+Pot size: 6375
+Wins: Lodu, chips: 6375
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Raises: Lodu, chips: 15
+Folds: Motowra
+Pot size: 35
+Wins: Lodu, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Calls: Lodu
+Checks: Motowra
+Flop: Qd 6c Jh
+Checks: Motowra
+Checks: Lodu
+Turn: 8h
+Checks: Motowra
+Checks: Lodu
+River: Js
+Checks: Motowra
+Checks: Lodu
+Pot size: 20
+Showdown Reached
+Shows: Motowra, 3h As
+Combination: Motowra, Pair ( Jh Js As Qd 8h )
+Shows: Lodu, 4s 5c
+Combination: Lodu, Pair ( Jh Js Qd 8h 6c )
+Wins: Motowra, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Calls: Lodu
+Checks: Motowra
+Flop: 3s Ac Qh
+Checks: Motowra
+Checks: Lodu
+Turn: As
+Checks: Motowra
+Raises: Lodu, chips: 10
+Folds: Motowra
+Pot size: 30
+Wins: Lodu, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Calls: Lodu
+Checks: Motowra
+Flop: 7d 6c Qc
+Checks: Motowra
+Checks: Lodu
+Turn: Qd
+Checks: Motowra
+Checks: Lodu
+River: Ts
+Checks: Motowra
+Raises: Lodu, chips: 10
+Folds: Motowra
+Pot size: 30
+Wins: Lodu, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Raises: Lodu, chips: 15
+Folds: Motowra
+Pot size: 35
+Wins: Lodu, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Raises: Lodu, chips: 15
+Folds: Motowra
+Pot size: 35
+Wins: Lodu, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Calls: Lodu
+Checks: Motowra
+Flop: 3c Js Kc
+Checks: Motowra
+Checks: Lodu
+Turn: 2h
+Checks: Motowra
+Raises: Lodu, chips: 10
+Folds: Motowra
+Pot size: 30
+Wins: Lodu, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Calls: Lodu
+Checks: Motowra
+Flop: 7h 6c Kd
+Checks: Motowra
+Raises: Lodu, chips: 10
+Folds: Motowra
+Pot size: 30
+Wins: Lodu, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Calls: Lodu
+Checks: Motowra
+Flop: 6d 4d 3c
+Checks: Motowra
+Checks: Lodu
+Turn: 5h
+Checks: Motowra
+Checks: Lodu
+River: 6c
+Checks: Motowra
+Checks: Lodu
+Pot size: 20
+Showdown Reached
+Shows: Motowra, Th 8s
+Combination: Motowra, Pair ( 6d 6c Th 8s 5h )
+Shows: Lodu, Ad 9s
+Combination: Lodu, Pair ( 6d 6c Ad 9s 5h )
+Wins: Lodu, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Calls: Lodu
+Checks: Motowra
+Flop: 6s 9d Kc
+Checks: Motowra
+Checks: Lodu
+Turn: 7s
+Checks: Motowra
+Checks: Lodu
+River: Jh
+Checks: Motowra
+Checks: Lodu
+Pot size: 20
+Showdown Reached
+Shows: Motowra, 4h 6c
+Combination: Motowra, Pair ( 6c 6s Kc Jh 9d )
+Shows: Lodu, Jd Th
+Combination: Lodu, Pair ( Jd Jh Kc Th 9d )
+Wins: Lodu, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Calls: Lodu
+Checks: Motowra
+Flop: 3h 3c Js
+Checks: Motowra
+Checks: Lodu
+Turn: As
+Checks: Motowra
+Checks: Lodu
+River: 7s
+Checks: Motowra
+Raises: Lodu, chips: 10
+Folds: Motowra
+Pot size: 30
+Wins: Lodu, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Calls: Lodu
+Checks: Motowra
+Flop: 7s Qs Qh
+Checks: Motowra
+Raises: Lodu, chips: 10
+Folds: Motowra
+Pot size: 30
+Wins: Lodu, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Calls: Lodu
+Checks: Motowra
+Flop: Kh 5c Qd
+Checks: Motowra
+Checks: Lodu
+Turn: 9h
+Checks: Motowra
+Raises: Lodu, chips: 10
+Folds: Motowra
+Pot size: 30
+Wins: Lodu, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Calls: Lodu
+Checks: Motowra
+Flop: Ah 9d Td
+Checks: Motowra
+Checks: Lodu
+Turn: 6d
+Checks: Motowra
+Checks: Lodu
+River: Ts
+Checks: Motowra
+Checks: Lodu
+Pot size: 20
+Showdown Reached
+Shows: Motowra, 4c 3c
+Combination: Motowra, Pair ( Td Ts Ah 9d 6d )
+Shows: Lodu, Kd Qs
+Combination: Lodu, Pair ( Td Ts Ah Kd Qs )
+Wins: Lodu, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Calls: Lodu
+Checks: Motowra
+Flop: 7s 6d 8h
+Checks: Motowra
+Checks: Lodu
+Turn: 2d
+Checks: Motowra
+Checks: Lodu
+River: 3d
+Checks: Motowra
+Raises: Lodu, chips: 10
+Folds: Motowra
+Pot size: 30
+Wins: Lodu, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Calls: Lodu
+Checks: Motowra
+Flop: 6s 4d 4h
+Checks: Motowra
+Checks: Lodu
+Turn: 2h
+Checks: Motowra
+Checks: Lodu
+River: 7c
+Checks: Motowra
+Checks: Lodu
+Pot size: 20
+Showdown Reached
+Shows: Motowra, 5h Jd
+Combination: Motowra, Pair ( 4d 4h Jd 7c 6s )
+Shows: Lodu, 5s 5d
+Combination: Lodu, Two Pair ( 5s 5d 4d 4h 7c )
+Wins: Lodu, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Calls: Lodu
+Checks: Motowra
+Flop: Td 6d 3s
+Checks: Motowra
+Checks: Lodu
+Turn: 9c
+Checks: Motowra
+Raises: Lodu, chips: 10
+Folds: Motowra
+Pot size: 30
+Wins: Lodu, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Raises: Lodu, chips: 15
+Folds: Motowra
+Pot size: 35
+Wins: Lodu, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Calls: Lodu
+Checks: Motowra
+Flop: Kh Qh 6d
+Checks: Motowra
+Checks: Lodu
+Turn: 6s
+Checks: Motowra
+Checks: Lodu
+River: Ac
+Checks: Motowra
+Checks: Lodu
+Pot size: 20
+Showdown Reached
+Shows: Motowra, 3d 5c
+Combination: Motowra, Pair ( 6d 6s Ac Kh Qh )
+Shows: Lodu, 9c 9h
+Combination: Lodu, Two Pair ( 9c 9h 6d 6s Ac )
+Wins: Lodu, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Calls: Lodu
+Checks: Motowra
+Flop: Js Kc 3s
+Checks: Motowra
+Raises: Lodu, chips: 10
+Folds: Motowra
+Pot size: 30
+Wins: Lodu, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Calls: Lodu
+Checks: Motowra
+Flop: 9s 5d 9h
+Checks: Motowra
+Checks: Lodu
+Turn: 2h
+Checks: Motowra
+Checks: Lodu
+River: Kh
+Checks: Motowra
+Raises: Lodu, chips: 10
+Folds: Motowra
+Pot size: 30
+Wins: Lodu, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Raises: Lodu, chips: 15
+Folds: Motowra
+Pot size: 35
+Wins: Lodu, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Raises: Lodu, chips: 6680
+Folds: Motowra
+Pot size: 6700
+Wins: Lodu, chips: 6700
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Calls: Lodu
+Checks: Motowra
+Flop: 5s 7d Kc
+Checks: Motowra
+Checks: Lodu
+Turn: 3d
+Checks: Motowra
+Checks: Lodu
+River: Qh
+Checks: Motowra
+Checks: Lodu
+Pot size: 20
+Showdown Reached
+Shows: Motowra, Ts 8h
+Combination: Motowra, High Card ( Kc Qh Ts 8h 7d )
+Shows: Lodu, Td Jd
+Combination: Lodu, High Card ( Kc Qh Jd Td 7d )
+Wins: Lodu, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Calls: Lodu
+Checks: Motowra
+Flop: 4c Ts Js
+Checks: Motowra
+Checks: Lodu
+Turn: Th
+Checks: Motowra
+Checks: Lodu
+River: 6d
+Checks: Motowra
+Checks: Lodu
+Pot size: 20
+Showdown Reached
+Shows: Motowra, 6c Qc
+Combination: Motowra, Two Pair ( Ts Th 6c 6d Qc )
+Shows: Lodu, As Kc
+Combination: Lodu, Pair ( Ts Th As Kc Js )
+Wins: Motowra, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Calls: Lodu
+Checks: Motowra
+Flop: Td As Th
+Checks: Motowra
+Checks: Lodu
+Turn: 2c
+Checks: Motowra
+Raises: Lodu, chips: 10
+Folds: Motowra
+Pot size: 30
+Wins: Lodu, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Calls: Lodu
+Checks: Motowra
+Flop: Qd 4d 3c
+Checks: Motowra
+Checks: Lodu
+Turn: Jd
+Checks: Motowra
+Checks: Lodu
+River: Ks
+Checks: Motowra
+Checks: Lodu
+Pot size: 20
+Showdown Reached
+Shows: Motowra, 8s Tc
+Combination: Motowra, High Card ( Ks Qd Jd Tc 8s )
+Shows: Lodu, As 2s
+Combination: Lodu, High Card ( As Ks Qd Jd 4d )
+Wins: Lodu, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Calls: Lodu
+Checks: Motowra
+Flop: 3c Ah Jc
+Checks: Motowra
+Raises: Lodu, chips: 6735
+Folds: Motowra
+Pot size: 6755
+Wins: Lodu, chips: 6755
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Calls: Lodu
+Checks: Motowra
+Flop: 4d 8h Kd
+Checks: Motowra
+Raises: Lodu, chips: 6750
+Folds: Motowra
+Pot size: 6770
+Wins: Lodu, chips: 6770
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Calls: Lodu
+Checks: Motowra
+Flop: 8s Ts Kd
+Checks: Motowra
+Checks: Lodu
+Turn: 6h
+Checks: Motowra
+Checks: Lodu
+River: 5d
+Checks: Motowra
+Checks: Lodu
+Pot size: 20
+Showdown Reached
+Shows: Motowra, 2s 7h
+Combination: Motowra, High Card ( Kd Ts 8s 7h 6h )
+Shows: Lodu, Jc 8c
+Combination: Lodu, Pair ( 8c 8s Kd Jc Ts )
+Wins: Lodu, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Calls: Lodu
+Checks: Motowra
+Flop: 8c 2s Ks
+Checks: Motowra
+Raises: Lodu, chips: 10
+Folds: Motowra
+Pot size: 30
+Wins: Lodu, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Calls: Lodu
+Checks: Motowra
+Flop: 2c Ac 4h
+Checks: Motowra
+Checks: Lodu
+Turn: 7h
+Checks: Motowra
+Checks: Lodu
+River: Jd
+Checks: Motowra
+Checks: Lodu
+Pot size: 20
+Showdown Reached
+Shows: Motowra, 9c 6d
+Combination: Motowra, High Card ( Ac Jd 9c 7h 6d )
+Shows: Lodu, Ts 9h
+Combination: Lodu, High Card ( Ac Jd Ts 9h 7h )
+Wins: Lodu, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Calls: Lodu
+Checks: Motowra
+Flop: Qs 4d Qc
+Checks: Motowra
+Checks: Lodu
+Turn: Ks
+Checks: Motowra
+Checks: Lodu
+River: 6c
+Checks: Motowra
+Raises: Lodu, chips: 10
+Folds: Motowra
+Pot size: 30
+Wins: Lodu, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Calls: Lodu
+Checks: Motowra
+Flop: 6c 2c 8h
+Checks: Motowra
+Checks: Lodu
+Turn: Ad
+Checks: Motowra
+Checks: Lodu
+River: 4d
+Checks: Motowra
+Raises: Lodu, chips: 6825
+Folds: Motowra
+Pot size: 6845
+Wins: Lodu, chips: 6845
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Calls: Lodu
+Checks: Motowra
+Flop: 6d 7c Ac
+Checks: Motowra
+Checks: Lodu
+Turn: Ad
+Checks: Motowra
+Checks: Lodu
+River: Jc
+Checks: Motowra
+Checks: Lodu
+Pot size: 20
+Showdown Reached
+Shows: Motowra, Qh Jh
+Combination: Motowra, Two Pair ( Ac Ad Jh Jc Qh )
+Shows: Lodu, 9c Td
+Combination: Lodu, Pair ( Ac Ad Jc Td 9c )
+Wins: Motowra, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Calls: Lodu
+Checks: Motowra
+Flop: Td 4h 2d
+Checks: Motowra
+Raises: Lodu, chips: 10
+Folds: Motowra
+Pot size: 30
+Wins: Lodu, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Calls: Lodu
+Checks: Motowra
+Flop: 5h 8h 7h
+Checks: Motowra
+Checks: Lodu
+Turn: 2s
+Checks: Motowra
+Checks: Lodu
+River: 4d
+Checks: Motowra
+Checks: Lodu
+Pot size: 20
+Showdown Reached
+Shows: Motowra, 3c 4h
+Combination: Motowra, Pair ( 4h 4d 8h 7h 5h )
+Shows: Lodu, Td As
+Combination: Lodu, High Card ( As Td 8h 7h 5h )
+Wins: Motowra, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Calls: Lodu
+Checks: Motowra
+Flop: 9s 7d Ac
+Checks: Motowra
+Checks: Lodu
+Turn: Kd
+Checks: Motowra
+Checks: Lodu
+River: 3c
+Checks: Motowra
+Checks: Lodu
+Pot size: 20
+Showdown Reached
+Shows: Motowra, 2s 4c
+Combination: Motowra, High Card ( Ac Kd 9s 7d 4c )
+Shows: Lodu, 6s 5c
+Combination: Lodu, High Card ( Ac Kd 9s 7d 6s )
+Wins: Lodu, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Calls: Lodu
+Checks: Motowra
+Flop: Jc 6s 5h
+Checks: Motowra
+Checks: Lodu
+Turn: 5c
+Checks: Motowra
+Checks: Lodu
+River: 5d
+Checks: Motowra
+Checks: Lodu
+Pot size: 20
+Showdown Reached
+Shows: Motowra, Ac Kd
+Combination: Motowra, Three Of A Kind ( 5h 5c 5d Ac Kd )
+Shows: Lodu, 7c 9c
+Combination: Lodu, Three Of A Kind ( 5h 5c 5d Jc 9c )
+Wins: Motowra, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Calls: Lodu
+Checks: Motowra
+Flop: 6c 2c Jc
+Checks: Motowra
+Checks: Lodu
+Turn: Tc
+Checks: Motowra
+Checks: Lodu
+River: 9h
+Checks: Motowra
+Raises: Lodu, chips: 10
+Folds: Motowra
+Pot size: 30
+Wins: Lodu, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Calls: Lodu
+Checks: Motowra
+Flop: 2h Ah 5s
+Checks: Motowra
+Raises: Lodu, chips: 10
+Folds: Motowra
+Pot size: 30
+Wins: Lodu, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Raises: Lodu, chips: 15
+Folds: Motowra
+Pot size: 35
+Wins: Lodu, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Calls: Lodu
+Checks: Motowra
+Flop: 2s 6d Kc
+Checks: Motowra
+Checks: Lodu
+Turn: 3s
+Checks: Motowra
+Checks: Lodu
+River: 5s
+Checks: Motowra
+Checks: Lodu
+Pot size: 20
+Showdown Reached
+Shows: Motowra, Qs 6c
+Combination: Motowra, Pair ( 6c 6d Kc Qs 5s )
+Shows: Lodu, 8c 7h
+Combination: Lodu, High Card ( Kc 8c 7h 6d 5s )
+Wins: Motowra, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Calls: Lodu
+Checks: Motowra
+Flop: Qd 8d Th
+Checks: Motowra
+Checks: Lodu
+Turn: Kc
+Checks: Motowra
+Checks: Lodu
+River: Js
+Checks: Motowra
+Checks: Lodu
+Pot size: 20
+Showdown Reached
+Shows: Motowra, 2h Kd
+Combination: Motowra, Pair ( Kd Kc Qd Js Th )
+Shows: Lodu, 5s 6c
+Combination: Lodu, High Card ( Kc Qd Js Th 8d )
+Wins: Motowra, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Raises: Lodu, chips: 15
+Folds: Motowra
+Pot size: 35
+Wins: Lodu, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Calls: Lodu
+Checks: Motowra
+Flop: 8d 9d Kh
+Checks: Motowra
+Raises: Lodu, chips: 10
+Folds: Motowra
+Pot size: 30
+Wins: Lodu, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Calls: Lodu
+Checks: Motowra
+Flop: 2c 3d Kc
+Checks: Motowra
+Checks: Lodu
+Turn: Jc
+Checks: Motowra
+Raises: Lodu, chips: 10
+Folds: Motowra
+Pot size: 30
+Wins: Lodu, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Calls: Lodu
+Checks: Motowra
+Flop: 6h Th 8h
+Checks: Motowra
+Checks: Lodu
+Turn: Ac
+Checks: Motowra
+Checks: Lodu
+River: 2s
+Checks: Motowra
+Checks: Lodu
+Pot size: 20
+Showdown Reached
+Shows: Motowra, 8c Js
+Combination: Motowra, Pair ( 8c 8h Ac Js Th )
+Shows: Lodu, 4s 4c
+Combination: Lodu, Pair ( 4s 4c Ac Th 8h )
+Wins: Motowra, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Calls: Lodu
+Checks: Motowra
+Flop: 9h 2d 3h
+Checks: Motowra
+Checks: Lodu
+Turn: 2c
+Checks: Motowra
+Checks: Lodu
+River: 7d
+Checks: Motowra
+Raises: Lodu, chips: 10
+Folds: Motowra
+Pot size: 30
+Wins: Lodu, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Calls: Lodu
+Checks: Motowra
+Flop: Td Kh 6h
+Checks: Motowra
+Checks: Lodu
+Turn: Js
+Checks: Motowra
+Checks: Lodu
+River: 8d
+Checks: Motowra
+Checks: Lodu
+Pot size: 20
+Showdown Reached
+Shows: Motowra, 5c Jd
+Combination: Motowra, Pair ( Jd Js Kh Td 8d )
+Shows: Lodu, 2s 4s
+Combination: Lodu, High Card ( Kh Js Td 8d 6h )
+Wins: Motowra, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Calls: Lodu
+Checks: Motowra
+Flop: Th 4d Qd
+Checks: Motowra
+Raises: Lodu, chips: 6940
+Folds: Motowra
+Pot size: 6960
+Wins: Lodu, chips: 6960
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Calls: Lodu
+Checks: Motowra
+Flop: 9h Qh 2h
+Checks: Motowra
+Checks: Lodu
+Turn: Ks
+Checks: Motowra
+Raises: Lodu, chips: 10
+Folds: Motowra
+Pot size: 30
+Wins: Lodu, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Calls: Lodu
+Checks: Motowra
+Flop: 3s 7h 7s
+Checks: Motowra
+Raises: Lodu, chips: 6970
+Folds: Motowra
+Pot size: 6990
+Wins: Lodu, chips: 6990
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 5
+Flop: Ad 2s 4c
+Turn: 4h
+River: Kd
+Pot size: 10
+Showdown Reached
+Shows: Motowra, 2c 7h
+Combination: Motowra, Two Pair ( 4c 4h 2c 2s Ad )
+Shows: Lodu, 6d 8h
+Combination: Lodu, Pair ( 4c 4h Ad Kd 8h )
+Wins: Motowra, chips: 10
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 5
+Flop: Qd 5h 9c
+Turn: Js
+River: 2s
+Pot size: 10
+Showdown Reached
+Shows: Motowra, 6h Ts
+Combination: Motowra, High Card ( Qd Js Ts 9c 6h )
+Shows: Lodu, Jh 3s
+Combination: Lodu, Pair ( Jh Js Qd 9c 5h )
+Wins: Lodu, chips: 10
+Quits: Motowra, chips: 0
+Ranking: Lodu, Place: 1, Score: 6000
+Reveal AI: Lodu, AI: Smart
+Ranking: Motowra, Place: 2, Score: -1000
+Reveal AI: Motowra, AI: AIMyBot1
+Ranking: Tinhu, Place: 3, Score: -1000
+Reveal AI: Tinhu, AI: Random
+Ranking: Deenho, Place: 4, Score: -1000
+Reveal AI: Deenho, AI: Smart
+Ranking: Rechu, Place: 5, Score: -1000
+Reveal AI: Rechu, AI: Call
+Ranking: Sobuwo, Place: 6, Score: -1000
+Reveal AI: Sobuwo, AI: Call
+Ranking: Famo, Place: 7, Score: -1000
+Reveal AI: Famo, AI: Random
+
+Player Stats for Deenho, AI: Smart
+General: deals: 25, actions: 57, preflop actions: 30
+Rounds Seen: flops: 92, turns: 68, rivers: 60, showdowns: 48
+Wins: total: 2, showdown: 2, bluff: 0
+Chips: won: 275, lost: 1275, bought: 1000, forced bets: 75
+Pre-Flop Stats: VP$IP: 0.4, PFR: 0.04, 3Bet: 0.04
+Post-Flop Stats: AF: 1.66667, WSD: 0.521739, WSDW: 0.0416667
+
+
+Player Stats for Famo, AI: Random
+General: deals: 14, actions: 49, preflop actions: 16
+Rounds Seen: flops: 102, turns: 80, rivers: 72, showdowns: 59
+Wins: total: 4, showdown: 4, bluff: 0
+Chips: won: 510, lost: 1510, bought: 1000, forced bets: 30
+Pre-Flop Stats: VP$IP: 0.857143, PFR: 0.214286, 3Bet: 0.214286
+Post-Flop Stats: AF: 2.66667, WSD: 0.578431, WSDW: 0.0677966
+
+
+Player Stats for Lodu, AI: Smart
+General: deals: 358, actions: 437, preflop actions: 227
+Rounds Seen: flops: 83, turns: 63, rivers: 56, showdowns: 44
+Wins: total: 204, showdown: 25, bluff: 179
+Chips: won: 66665, lost: 60665, bought: 1000, forced bets: 2395
+Pre-Flop Stats: VP$IP: 0.231844, PFR: 0.0446927, 3Bet: 0.0391061
+Post-Flop Stats: AF: 2.6875, WSD: 0.53012, WSDW: 0.568182
+
+
+Player Stats for Motowra, AI: AIMyBot1
+General: deals: 358, actions: 428, preflop actions: 278
+Rounds Seen: flops: 57, turns: 41, rivers: 31, showdowns: 23
+Wins: total: 89, showdown: 11, bluff: 78
+Chips: won: 1390, lost: 2390, bought: 1000, forced bets: 2390
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 0.403509, WSDW: 0.478261
+
+
+Player Stats for Rechu, AI: Call
+General: deals: 20, actions: 92, preflop actions: 25
+Rounds Seen: flops: 105, turns: 85, rivers: 77, showdowns: 65
+Wins: total: 7, showdown: 7, bluff: 0
+Chips: won: 1967, lost: 5678, bought: 1000, forced bets: 45
+Pre-Flop Stats: VP$IP: 0.9, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: 0, WSD: 0.619048, WSDW: 0.107692
+
+
+Player Stats for Sobuwo, AI: Call
+General: deals: 17, actions: 81, preflop actions: 23
+Rounds Seen: flops: 105, turns: 85, rivers: 77, showdowns: 65
+Wins: total: 5, showdown: 5, bluff: 0
+Chips: won: 810, lost: 1815, bought: 1000, forced bets: 30
+Pre-Flop Stats: VP$IP: 0.941176, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: 0, WSD: 0.619048, WSDW: 0.0769231
+
+
+Player Stats for Tinhu, AI: Random
+General: deals: 92, actions: 221, preflop actions: 84
+Rounds Seen: flops: 99, turns: 80, rivers: 72, showdowns: 60
+Wins: total: 51, showdown: 15, bluff: 36
+Chips: won: 13493, lost: 17583, bought: 1000, forced bets: 395
+Pre-Flop Stats: VP$IP: 0.630435, PFR: 0.304348, 3Bet: 0.26087
+Post-Flop Stats: AF: 5.33333, WSD: 0.606061, WSDW: 0.25
+
+
+Date: 2026/04/30 12:55:06
+
+The game begins. The AI's of the players are: 
+Motowra: AIMyBot1
+Deenho: Smart
+Lodu: Smart
+Tinhu: Random
+Rechu: Call
+Famo: Random
+Sobuwo: Call
+
+Joins: Motowra, chips: 1000
+Joins: Deenho, chips: 1000
+Joins: Lodu, chips: 1000
+Joins: Tinhu, chips: 1000
+Joins: Rechu, chips: 1000
+Joins: Famo, chips: 1000
+Joins: Sobuwo, chips: 1000
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Famo
+Small Blind: Sobuwo, chips: 5
+Big Blind: Motowra, chips: 10
+Calls: Deenho
+Folds: Lodu
+Calls: Tinhu
+Calls: Rechu
+Raises: Famo, chips: 20
+Calls: Sobuwo
+Folds: Motowra
+Calls: Deenho
+Folds: Tinhu
+Calls: Rechu
+Flop: 2c Tc 8d
+Checks: Sobuwo
+Checks: Deenho
+Checks: Rechu
+Raises: Famo, chips: 20
+Calls: Sobuwo
+Folds: Deenho
+Calls: Rechu
+Turn: Qc
+Checks: Sobuwo
+Checks: Rechu
+Raises: Famo, chips: 20
+Calls: Sobuwo
+Calls: Rechu
+River: 5s
+Checks: Sobuwo
+Checks: Rechu
+Checks: Famo
+Pot size: 260
+Showdown Reached
+Shows: Rechu, 5d 6h
+Combination: Rechu, Pair ( 5d 5s Qc Tc 8d )
+Shows: Famo, 6s Ts
+Combination: Famo, Pair ( Ts Tc Qc 8d 6s )
+Shows: Sobuwo, 8h Ah
+Combination: Sobuwo, Pair ( 8h 8d Ah Qc Tc )
+Wins: Famo, chips: 260
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sobuwo
+Small Blind: Motowra, chips: 5
+Big Blind: Deenho, chips: 10
+Folds: Lodu
+Folds: Tinhu
+Calls: Rechu
+Calls: Famo
+Calls: Sobuwo
+Folds: Motowra
+Checks: Deenho
+Flop: Ad 5h Tc
+Checks: Deenho
+Checks: Rechu
+Raises: Famo, chips: 10
+Calls: Sobuwo
+Folds: Deenho
+Calls: Rechu
+Turn: 9c
+Checks: Rechu
+Checks: Famo
+Checks: Sobuwo
+River: 8d
+Checks: Rechu
+Checks: Famo
+Checks: Sobuwo
+Pot size: 75
+Showdown Reached
+Boasts: Tinhu, 6s Jh
+Shows: Rechu, 5d Qd
+Combination: Rechu, Pair ( 5d 5h Ad Qd Tc )
+Shows: Famo, As 4s
+Combination: Famo, Pair ( As Ad Tc 9c 8d )
+Shows: Sobuwo, 5s Qh
+Combination: Sobuwo, Pair ( 5s 5h Ad Qh Tc )
+Wins: Famo, chips: 75
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Deenho, chips: 5
+Big Blind: Lodu, chips: 10
+Raises: Tinhu, chips: 20
+Calls: Rechu
+Calls: Famo
+Calls: Sobuwo
+Folds: Motowra
+Folds: Deenho
+Folds: Lodu
+Flop: Qh Jc 5c
+Raises: Tinhu, chips: 20
+Calls: Rechu
+Folds: Famo
+Calls: Sobuwo
+Turn: 8c
+Raises: Tinhu, chips: 20
+Calls: Rechu
+Calls: Sobuwo
+River: 8h
+Checks: Tinhu
+Checks: Rechu
+Checks: Sobuwo
+Pot size: 255
+Showdown Reached
+Shows: Tinhu, Kc Kh
+Combination: Tinhu, Two Pair ( Kc Kh 8c 8h Qh )
+Shows: Rechu, 2d Th
+Combination: Rechu, Pair ( 8c 8h Qh Jc Th )
+Shows: Sobuwo, As 6c
+Combination: Sobuwo, Pair ( 8c 8h As Qh Jc )
+Wins: Tinhu, chips: 255
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Deenho
+Small Blind: Lodu, chips: 5
+Big Blind: Tinhu, chips: 10
+Calls: Rechu
+Calls: Famo
+Calls: Sobuwo
+Folds: Motowra
+Calls: Deenho
+Folds: Lodu
+Checks: Tinhu
+Flop: 4c 6s 8s
+Raises: Tinhu, chips: 10
+Calls: Rechu
+Calls: Famo
+Calls: Sobuwo
+Folds: Deenho
+Turn: 9c
+Checks: Tinhu
+Checks: Rechu
+Checks: Famo
+Checks: Sobuwo
+River: 5d
+Checks: Tinhu
+Checks: Rechu
+Checks: Famo
+Checks: Sobuwo
+Pot size: 95
+Showdown Reached
+Shows: Tinhu, 3s 8h
+Combination: Tinhu, Pair ( 8h 8s 9c 6s 5d )
+Shows: Rechu, 4s Qh
+Combination: Rechu, Pair ( 4s 4c Qh 9c 8s )
+Shows: Famo, 5c 2c
+Combination: Famo, Pair ( 5c 5d 9c 8s 6s )
+Shows: Sobuwo, 8d 9d
+Combination: Sobuwo, Two Pair ( 9d 9c 8d 8s 6s )
+Wins: Sobuwo, chips: 95
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Tinhu, chips: 5
+Big Blind: Rechu, chips: 10
+Folds: Famo
+Calls: Sobuwo
+Folds: Motowra
+Folds: Deenho
+Folds: Lodu
+Calls: Tinhu
+Checks: Rechu
+Flop: 5s Kh 8h
+Checks: Tinhu
+Checks: Rechu
+Checks: Sobuwo
+Turn: Td
+Checks: Tinhu
+Checks: Rechu
+Checks: Sobuwo
+River: 6d
+Checks: Tinhu
+Checks: Rechu
+Checks: Sobuwo
+Pot size: 30
+Showdown Reached
+Shows: Tinhu, 7d 8c
+Combination: Tinhu, Pair ( 8c 8h Kh Td 7d )
+Shows: Rechu, 7c 3h
+Combination: Rechu, High Card ( Kh Td 8h 7c 6d )
+Shows: Sobuwo, Kc 2d
+Combination: Sobuwo, Pair ( Kc Kh Td 8h 6d )
+Wins: Sobuwo, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Tinhu
+Small Blind: Rechu, chips: 5
+Big Blind: Famo, chips: 10
+Calls: Sobuwo
+Folds: Motowra
+Calls: Deenho
+Folds: Lodu
+Raises: Tinhu, chips: 20
+Calls: Rechu
+Calls: Famo
+Calls: Sobuwo
+Calls: Deenho
+Flop: Th 3h 5s
+Checks: Rechu
+Raises: Famo, chips: 20
+Calls: Sobuwo
+Folds: Deenho
+Calls: Tinhu
+Calls: Rechu
+Turn: 5c
+Checks: Rechu
+Checks: Famo
+Checks: Sobuwo
+Raises: Tinhu, chips: 20
+Calls: Rechu
+Calls: Famo
+Calls: Sobuwo
+River: 3s
+Checks: Rechu
+Checks: Famo
+Checks: Sobuwo
+Raises: Tinhu, chips: 20
+Calls: Rechu
+Folds: Famo
+Calls: Sobuwo
+Pot size: 370
+Showdown Reached
+Shows: Tinhu, Qc 2h
+Combination: Tinhu, Two Pair ( 5s 5c 3h 3s Qc )
+Shows: Rechu, Tc Qh
+Combination: Rechu, Two Pair ( Tc Th 5s 5c Qh )
+Boasts: Famo, 7c 4h
+Shows: Sobuwo, 3c Ks
+Combination: Sobuwo, Full House ( 3c 3h 3s 5s 5c )
+Wins: Sobuwo, chips: 370
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Rechu
+Small Blind: Famo, chips: 5
+Big Blind: Sobuwo, chips: 10
+Folds: Motowra
+Folds: Deenho
+Folds: Lodu
+Folds: Tinhu
+Calls: Rechu
+Folds: Famo
+Checks: Sobuwo
+Flop: 2c 2s 5d
+Checks: Sobuwo
+Checks: Rechu
+Turn: Js
+Checks: Sobuwo
+Checks: Rechu
+River: Jc
+Checks: Sobuwo
+Checks: Rechu
+Pot size: 25
+Showdown Reached
+Boasts: Tinhu, Jd 8d
+Shows: Rechu, 2h Th
+Combination: Rechu, Full House ( 2h 2c 2s Js Jc )
+Boasts: Famo, Tc Ac
+Shows: Sobuwo, Kh 9s
+Combination: Sobuwo, Two Pair ( Js Jc 2c 2s Kh )
+Wins: Rechu, chips: 25
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Famo
+Small Blind: Sobuwo, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Deenho
+Folds: Lodu
+Raises: Tinhu, chips: 20
+Calls: Rechu
+Calls: Famo
+Calls: Sobuwo
+Folds: Motowra
+Flop: 5d 8h As
+Checks: Sobuwo
+Checks: Tinhu
+Checks: Rechu
+Checks: Famo
+Turn: 9s
+Checks: Sobuwo
+Checks: Tinhu
+Checks: Rechu
+Raises: Famo, chips: 20
+Calls: Sobuwo
+Raises: Tinhu, chips: 40
+Calls: Rechu
+Raises: Famo, chips: 80
+Calls: Sobuwo
+Calls: Tinhu
+Calls: Rechu
+River: 6d
+Checks: Sobuwo
+Checks: Tinhu
+Checks: Rechu
+Checks: Famo
+Pot size: 690
+Showdown Reached
+Shows: Tinhu, 4c 9h
+Combination: Tinhu, Pair ( 9h 9s As 8h 6d )
+Shows: Rechu, 7c 4s
+Combination: Rechu, Straight ( 9s 8h 7c 6d 5d )
+Shows: Famo, 3s Kh
+Combination: Famo, High Card ( As Kh 9s 8h 6d )
+Shows: Sobuwo, 6s Ac
+Combination: Sobuwo, Two Pair ( Ac As 6s 6d 9s )
+Wins: Rechu, chips: 690
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sobuwo
+Small Blind: Motowra, chips: 5
+Big Blind: Deenho, chips: 10
+Folds: Lodu
+Calls: Tinhu
+Calls: Rechu
+Calls: Famo
+Calls: Sobuwo
+Folds: Motowra
+Checks: Deenho
+Flop: 7d Ad 7s
+Checks: Deenho
+Checks: Tinhu
+Checks: Rechu
+Checks: Famo
+Checks: Sobuwo
+Turn: 6c
+Checks: Deenho
+Checks: Tinhu
+Checks: Rechu
+Checks: Famo
+Checks: Sobuwo
+River: 4c
+Checks: Deenho
+Checks: Tinhu
+Checks: Rechu
+Checks: Famo
+Checks: Sobuwo
+Pot size: 55
+Showdown Reached
+Shows: Deenho, 4h 2c
+Combination: Deenho, Two Pair ( 7d 7s 4h 4c Ad )
+Shows: Tinhu, 3s 9s
+Combination: Tinhu, Pair ( 7d 7s Ad 9s 6c )
+Shows: Rechu, 3c 3d
+Combination: Rechu, Two Pair ( 7d 7s 3c 3d Ad )
+Shows: Famo, Kh Kc
+Combination: Famo, Two Pair ( Kh Kc 7d 7s Ad )
+Shows: Sobuwo, 8s 9h
+Combination: Sobuwo, Pair ( 7d 7s Ad 9h 8s )
+Wins: Famo, chips: 55
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Deenho, chips: 5
+Big Blind: Lodu, chips: 10
+Raises: Tinhu, chips: 20
+Calls: Rechu
+Calls: Famo
+Calls: Sobuwo
+Folds: Motowra
+Folds: Deenho
+Folds: Lodu
+Flop: 6h 7h Qs
+Raises: Tinhu, chips: 20
+Calls: Rechu
+Folds: Famo
+Calls: Sobuwo
+Turn: Qh
+Checks: Tinhu
+Checks: Rechu
+Checks: Sobuwo
+River: 8h
+Checks: Tinhu
+Checks: Rechu
+Checks: Sobuwo
+Pot size: 195
+Showdown Reached
+Shows: Tinhu, 2c Td
+Combination: Tinhu, Pair ( Qs Qh Td 8h 7h )
+Shows: Rechu, Kc 6c
+Combination: Rechu, Two Pair ( Qs Qh 6c 6h Kc )
+Boasts: Famo, 6s Ts
+Shows: Sobuwo, Kd 2h
+Combination: Sobuwo, Flush ( Qh 8h 7h 6h 2h )
+Wins: Sobuwo, chips: 195
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Deenho
+Small Blind: Lodu, chips: 5
+Big Blind: Tinhu, chips: 10
+Calls: Rechu
+Calls: Famo
+Calls: Sobuwo
+Folds: Motowra
+Calls: Deenho
+Folds: Lodu
+Raises: Tinhu, chips: 10
+Calls: Rechu
+Folds: Famo
+Calls: Sobuwo
+Folds: Deenho
+Flop: 8c Jc 5c
+Checks: Tinhu
+Checks: Rechu
+Checks: Sobuwo
+Turn: 9d
+Checks: Tinhu
+Checks: Rechu
+Checks: Sobuwo
+River: Jh
+Raises: Tinhu, chips: 10
+Calls: Rechu
+Calls: Sobuwo
+Pot size: 115
+Showdown Reached
+Shows: Tinhu, 3c 6d
+Combination: Tinhu, Pair ( Jc Jh 9d 8c 6d )
+Shows: Rechu, Qd 4h
+Combination: Rechu, Pair ( Jc Jh Qd 9d 8c )
+Shows: Sobuwo, 4d 3h
+Combination: Sobuwo, Pair ( Jc Jh 9d 8c 5c )
+Wins: Rechu, chips: 115
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Tinhu, chips: 5
+Big Blind: Rechu, chips: 10
+Raises: Famo, chips: 20
+Calls: Sobuwo
+Folds: Motowra
+Folds: Deenho
+Folds: Lodu
+Calls: Tinhu
+Calls: Rechu
+Flop: Qh 9h 5s
+Checks: Tinhu
+Checks: Rechu
+Checks: Famo
+Checks: Sobuwo
+Turn: Jh
+Checks: Tinhu
+Checks: Rechu
+Checks: Famo
+Checks: Sobuwo
+River: Kh
+Checks: Tinhu
+Checks: Rechu
+Checks: Famo
+Checks: Sobuwo
+Pot size: 120
+Showdown Reached
+Shows: Tinhu, 5d 8d
+Combination: Tinhu, Pair ( 5d 5s Kh Qh Jh )
+Shows: Rechu, 2d Jd
+Combination: Rechu, Pair ( Jd Jh Kh Qh 9h )
+Shows: Famo, As Td
+Combination: Famo, Straight ( As Kh Qh Jh Td )
+Shows: Sobuwo, Kc 4s
+Combination: Sobuwo, Pair ( Kc Kh Qh Jh 9h )
+Wins: Famo, chips: 120
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Tinhu
+Small Blind: Rechu, chips: 5
+Big Blind: Famo, chips: 10
+Calls: Sobuwo
+Folds: Motowra
+Folds: Deenho
+Raises: Lodu, chips: 10
+Folds: Tinhu
+Calls: Rechu
+Calls: Famo
+Calls: Sobuwo
+Flop: 2d 8c 8s
+Checks: Rechu
+Checks: Famo
+Checks: Sobuwo
+Checks: Lodu
+Turn: 2h
+Checks: Rechu
+Raises: Famo, chips: 10
+Calls: Sobuwo
+Calls: Lodu
+Calls: Rechu
+River: Qc
+Checks: Rechu
+Checks: Famo
+Checks: Sobuwo
+Checks: Lodu
+Pot size: 120
+Showdown Reached
+Shows: Lodu, Js Jd
+Combination: Lodu, Two Pair ( Js Jd 8c 8s Qc )
+Boasts: Tinhu, Kh Qd
+Shows: Rechu, Kc Kd
+Combination: Rechu, Two Pair ( Kc Kd 8c 8s Qc )
+Shows: Famo, 3s 5d
+Combination: Famo, Two Pair ( 8c 8s 2d 2h Qc )
+Shows: Sobuwo, 2c 9s
+Combination: Sobuwo, Full House ( 2c 2d 2h 8c 8s )
+Wins: Sobuwo, chips: 120
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Rechu
+Small Blind: Famo, chips: 5
+Big Blind: Sobuwo, chips: 10
+Folds: Motowra
+Calls: Deenho
+Raises: Lodu, chips: 20
+Raises: Tinhu, chips: 50
+Calls: Rechu
+Raises: Famo, chips: 125
+Calls: Sobuwo
+Folds: Deenho
+Raises: Lodu, chips: 395
+Calls: Tinhu
+Calls: Rechu
+Calls: Famo
+Calls: Sobuwo
+Flop: 6c 8d 6s
+Checks: Famo
+Checks: Sobuwo
+Checks: Lodu
+Raises: Tinhu, chips: 165
+Calls: Rechu
+Calls: Famo
+Calls: Sobuwo
+Folds: Lodu
+Turn: 9s
+Checks: Famo
+Checks: Sobuwo
+Checks: Rechu
+River: Kc
+Raises: Famo, chips: 250
+Calls: Sobuwo
+Calls: Rechu
+Pot size: 4420
+Showdown Reached
+Shows: Tinhu, 9d Kh
+Combination: Tinhu, Two Pair ( Kh Kc 9d 9s 8d )
+Shows: Rechu, 4c 8s
+Combination: Rechu, Two Pair ( 8s 8d 6c 6s Kc )
+Shows: Famo, 3s Ah
+Combination: Famo, Pair ( 6c 6s Ah Kc 9s )
+Shows: Sobuwo, Td Qh
+Combination: Sobuwo, Pair ( 6c 6s Kc Qh Td )
+Wins: Tinhu, chips: 3670
+Wins: Rechu, chips: 750
+Quits: Famo, chips: 0
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Sobuwo
+Small Blind: Motowra, chips: 5
+Big Blind: Deenho, chips: 10
+Raises: Lodu, chips: 10
+Raises: Tinhu, chips: 30
+Calls: Rechu
+Calls: Sobuwo
+Folds: Motowra
+Folds: Deenho
+Raises: Lodu, chips: 50
+Calls: Tinhu
+Calls: Rechu
+Calls: Sobuwo
+Flop: Qc 2s 8s
+Checks: Lodu
+Raises: Tinhu, chips: 50
+Calls: Rechu
+Calls: Sobuwo
+Folds: Lodu
+Turn: Kh
+Checks: Tinhu
+Checks: Rechu
+Checks: Sobuwo
+River: 6c
+Checks: Tinhu
+Checks: Rechu
+Checks: Sobuwo
+Pot size: 565
+Showdown Reached
+Shows: Tinhu, 4c 2h
+Combination: Tinhu, Pair ( 2h 2s Kh Qc 8s )
+Shows: Rechu, 3s 2d
+Combination: Rechu, Pair ( 2d 2s Kh Qc 8s )
+Shows: Sobuwo, As 9c
+Combination: Sobuwo, High Card ( As Kh Qc 9c 8s )
+Wins: Tinhu, chips: 283
+Wins: Rechu, chips: 282
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Deenho, chips: 5
+Big Blind: Lodu, chips: 10
+Calls: Tinhu
+Calls: Rechu
+Calls: Sobuwo
+Folds: Motowra
+Calls: Deenho
+Checks: Lodu
+Flop: Th 4d 6c
+Checks: Deenho
+Checks: Lodu
+Checks: Tinhu
+Checks: Rechu
+Checks: Sobuwo
+Turn: Ac
+Checks: Deenho
+Checks: Lodu
+Checks: Tinhu
+Checks: Rechu
+Checks: Sobuwo
+River: 8h
+Checks: Deenho
+Checks: Lodu
+Checks: Tinhu
+Checks: Rechu
+Checks: Sobuwo
+Pot size: 50
+Showdown Reached
+Shows: Deenho, Kh 6h
+Combination: Deenho, Pair ( 6h 6c Ac Kh Th )
+Shows: Lodu, Td 6s
+Combination: Lodu, Two Pair ( Td Th 6s 6c Ac )
+Shows: Tinhu, 2s 3c
+Combination: Tinhu, High Card ( Ac Th 8h 6c 4d )
+Shows: Rechu, 2d 5c
+Combination: Rechu, High Card ( Ac Th 8h 6c 5c )
+Shows: Sobuwo, 7d 3s
+Combination: Sobuwo, High Card ( Ac Th 8h 7d 6c )
+Wins: Lodu, chips: 50
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Deenho
+Small Blind: Lodu, chips: 5
+Big Blind: Tinhu, chips: 10
+Calls: Rechu
+Calls: Sobuwo
+Folds: Motowra
+Folds: Deenho
+Calls: Lodu
+Raises: Tinhu, chips: 10
+Calls: Rechu
+Calls: Sobuwo
+Folds: Lodu
+Flop: Ah Jh Kc
+Checks: Tinhu
+Checks: Rechu
+Checks: Sobuwo
+Turn: 7d
+Checks: Tinhu
+Checks: Rechu
+Checks: Sobuwo
+River: Ad
+Raises: Tinhu, chips: 10
+Calls: Rechu
+Calls: Sobuwo
+Pot size: 95
+Showdown Reached
+Shows: Tinhu, Qs 8h
+Combination: Tinhu, Pair ( Ah Ad Kc Qs Jh )
+Shows: Rechu, 9d Tc
+Combination: Rechu, Pair ( Ah Ad Kc Jh Tc )
+Shows: Sobuwo, 3h 9c
+Combination: Sobuwo, Pair ( Ah Ad Kc Jh 9c )
+Wins: Tinhu, chips: 95
+Quits: Sobuwo, chips: 0
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Tinhu, chips: 5
+Big Blind: Rechu, chips: 10
+Folds: Motowra
+Calls: Deenho
+Folds: Lodu
+Folds: Tinhu
+Checks: Rechu
+Flop: Kd 5c Th
+Checks: Rechu
+Checks: Deenho
+Turn: 2d
+Checks: Rechu
+Checks: Deenho
+River: 6s
+Checks: Rechu
+Checks: Deenho
+Pot size: 25
+Showdown Reached
+Shows: Deenho, As 9h
+Combination: Deenho, High Card ( As Kd Th 9h 6s )
+Shows: Rechu, 7s Kc
+Combination: Rechu, Pair ( Kc Kd Th 7s 6s )
+Wins: Rechu, chips: 25
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Tinhu
+Small Blind: Rechu, chips: 5
+Big Blind: Motowra, chips: 10
+Calls: Deenho
+Folds: Lodu
+Raises: Tinhu, chips: 20
+Calls: Rechu
+Folds: Motowra
+Folds: Deenho
+Flop: 8s 6c Ah
+Checks: Rechu
+Checks: Tinhu
+Turn: Kh
+Checks: Rechu
+Checks: Tinhu
+River: 2h
+Checks: Rechu
+Checks: Tinhu
+Pot size: 80
+Showdown Reached
+Shows: Tinhu, Qs 2s
+Combination: Tinhu, Pair ( 2s 2h Ah Kh Qs )
+Shows: Rechu, 6s Td
+Combination: Rechu, Pair ( 6s 6c Ah Kh Td )
+Wins: Rechu, chips: 80
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Rechu
+Small Blind: Motowra, chips: 5
+Big Blind: Deenho, chips: 10
+Calls: Lodu
+Raises: Tinhu, chips: 20
+Calls: Rechu
+Folds: Motowra
+Folds: Deenho
+Folds: Lodu
+Flop: Kc Qd 2h
+Raises: Tinhu, chips: 3793
+Calls: Rechu
+Turn: 6d
+River: Jh
+Pot size: 4960
+Showdown Reached
+Shows: Tinhu, Kh 7d
+Combination: Tinhu, Pair ( Kh Kc Qd Jh 7d )
+Shows: Rechu, 4s 9h
+Combination: Rechu, High Card ( Kc Qd Jh 9h 6d )
+Wins: Tinhu, chips: 4960
+Quits: Rechu, chips: 0
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Deenho, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Tinhu
+Folds: Motowra
+Folds: Deenho
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Deenho
+Small Blind: Lodu, chips: 5
+Big Blind: Tinhu, chips: 10
+Folds: Motowra
+Folds: Deenho
+Folds: Lodu
+Pot size: 15
+Boasts: Tinhu, Kh 4h
+Wins: Tinhu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Tinhu, chips: 5
+Big Blind: Motowra, chips: 10
+Raises: Deenho, chips: 20
+Folds: Lodu
+Calls: Tinhu
+Folds: Motowra
+Flop: 9s 4c 9c
+Raises: Tinhu, chips: 20
+Calls: Deenho
+Turn: Jd
+Checks: Tinhu
+Checks: Deenho
+River: 4h
+Raises: Tinhu, chips: 20
+Raises: Deenho, chips: 30
+Calls: Tinhu
+Pot size: 210
+Showdown Reached
+Shows: Deenho, Ks Tc
+Combination: Deenho, Two Pair ( 9s 9c 4c 4h Ks )
+Shows: Tinhu, 6d 2c
+Combination: Tinhu, Two Pair ( 9s 9c 4c 4h Jd )
+Wins: Deenho, chips: 210
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Tinhu
+Small Blind: Motowra, chips: 5
+Big Blind: Deenho, chips: 10
+Folds: Lodu
+Calls: Tinhu
+Folds: Motowra
+Checks: Deenho
+Flop: 3c Qc 5s
+Checks: Deenho
+Raises: Tinhu, chips: 10
+Calls: Deenho
+Turn: Qs
+Checks: Deenho
+Checks: Tinhu
+River: 8h
+Raises: Deenho, chips: 10
+Calls: Tinhu
+Pot size: 65
+Showdown Reached
+Shows: Deenho, Kc 8c
+Combination: Deenho, Two Pair ( Qc Qs 8c 8h Kc )
+Shows: Tinhu, Ah 9c
+Combination: Tinhu, Pair ( Qc Qs Ah 9c 8h )
+Wins: Deenho, chips: 65
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Deenho, chips: 5
+Big Blind: Lodu, chips: 10
+Calls: Tinhu
+Folds: Motowra
+Calls: Deenho
+Checks: Lodu
+Flop: 3d Ad 3h
+Raises: Deenho, chips: 10
+Folds: Lodu
+Raises: Tinhu, chips: 20
+Raises: Deenho, chips: 50
+Raises: Tinhu, chips: 100
+Calls: Deenho
+Turn: 4h
+Checks: Deenho
+Checks: Tinhu
+River: 6d
+Raises: Deenho, chips: 780
+Calls: Tinhu
+Pot size: 1950
+Showdown Reached
+Shows: Deenho, Ac Kd
+Combination: Deenho, Two Pair ( Ac Ad 3d 3h Kd )
+Shows: Tinhu, 9d 4d
+Combination: Tinhu, Flush ( Ad 9d 6d 4d 3d )
+Wins: Tinhu, chips: 1950
+Quits: Deenho, chips: 0
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Tinhu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Folds: Tinhu
+Pot size: 15
+Boasts: Tinhu, 7s 6d
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Tinhu
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Calls: Tinhu
+Folds: Motowra
+Checks: Lodu
+Flop: Jh Ac 7c
+Checks: Lodu
+Raises: Tinhu, chips: 10
+Calls: Lodu
+Turn: 6h
+Checks: Lodu
+Checks: Tinhu
+River: Kh
+Checks: Lodu
+Checks: Tinhu
+Pot size: 45
+Showdown Reached
+Shows: Lodu, Th 8c
+Combination: Lodu, High Card ( Ac Kh Jh Th 8c )
+Shows: Tinhu, 5h 3h
+Combination: Tinhu, Flush ( Kh Jh 6h 5h 3h )
+Wins: Tinhu, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Lodu, chips: 5
+Big Blind: Tinhu, chips: 10
+Folds: Motowra
+Folds: Lodu
+Pot size: 15
+Wins: Tinhu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Tinhu, chips: 5
+Big Blind: Motowra, chips: 10
+Calls: Lodu
+Folds: Tinhu
+Checks: Motowra
+Flop: Kh 6c Td
+Checks: Motowra
+Raises: Lodu, chips: 10
+Folds: Motowra
+Pot size: 35
+Wins: Lodu, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Tinhu
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Raises: Tinhu, chips: 20
+Folds: Motowra
+Folds: Lodu
+Pot size: 45
+Wins: Tinhu, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Lodu, chips: 5
+Big Blind: Tinhu, chips: 10
+Folds: Motowra
+Calls: Lodu
+Raises: Tinhu, chips: 10
+Calls: Lodu
+Flop: 3s 4d 8s
+Raises: Lodu, chips: 10
+Folds: Tinhu
+Pot size: 50
+Boasts: Tinhu, 6s 6h
+Wins: Lodu, chips: 50
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Tinhu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Raises: Tinhu, chips: 15
+Folds: Motowra
+Pot size: 35
+Boasts: Tinhu, 8h Qs
+Wins: Tinhu, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Tinhu
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Calls: Tinhu
+Folds: Motowra
+Checks: Lodu
+Flop: 7s Qh 9d
+Checks: Lodu
+Checks: Tinhu
+Turn: 3c
+Checks: Lodu
+Raises: Tinhu, chips: 10
+Calls: Lodu
+River: Ks
+Raises: Lodu, chips: 230
+Raises: Tinhu, chips: 240
+Pot size: 745
+Showdown Reached
+Shows: Lodu, Kh 7d
+Combination: Lodu, Two Pair ( Kh Ks 7d 7s Qh )
+Shows: Tinhu, 6s Tc
+Combination: Tinhu, High Card ( Ks Qh Tc 9d 7s )
+Wins: Lodu, chips: 505
+Wins: Tinhu, chips: 240
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Lodu, chips: 5
+Big Blind: Tinhu, chips: 10
+Folds: Motowra
+Folds: Lodu
+Pot size: 15
+Boasts: Tinhu, 8h 7c
+Wins: Tinhu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Tinhu, chips: 5
+Big Blind: Motowra, chips: 10
+Calls: Lodu
+Raises: Tinhu, chips: 15
+Folds: Motowra
+Folds: Lodu
+Pot size: 45
+Wins: Tinhu, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Tinhu
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Raises: Tinhu, chips: 20
+Folds: Motowra
+Folds: Lodu
+Pot size: 45
+Wins: Tinhu, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Lodu, chips: 5
+Big Blind: Tinhu, chips: 10
+Folds: Motowra
+Calls: Lodu
+Checks: Tinhu
+Flop: 3d 2s 6h
+Raises: Lodu, chips: 10
+Raises: Tinhu, chips: 20
+Raises: Lodu, chips: 20
+Folds: Tinhu
+Pot size: 100
+Wins: Lodu, chips: 100
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Tinhu, chips: 5
+Big Blind: Motowra, chips: 10
+Calls: Lodu
+Calls: Tinhu
+Checks: Motowra
+Flop: 9d 3c 3d
+Checks: Tinhu
+Checks: Motowra
+Checks: Lodu
+Turn: 2c
+Checks: Tinhu
+Checks: Motowra
+Checks: Lodu
+River: 7s
+Checks: Tinhu
+Checks: Motowra
+Checks: Lodu
+Pot size: 30
+Showdown Reached
+Shows: Motowra, 9c 3h
+Combination: Motowra, Full House ( 3h 3c 3d 9c 9d )
+Shows: Lodu, 4h Kh
+Combination: Lodu, Pair ( 3c 3d Kh 9d 7s )
+Shows: Tinhu, Qh As
+Combination: Tinhu, Pair ( 3c 3d As Qh 9d )
+Wins: Motowra, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Tinhu
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Calls: Tinhu
+Folds: Motowra
+Checks: Lodu
+Flop: Qc 7d Td
+Checks: Lodu
+Checks: Tinhu
+Turn: 6c
+Checks: Lodu
+Raises: Tinhu, chips: 10
+Calls: Lodu
+River: 5h
+Raises: Lodu, chips: 10
+Raises: Tinhu, chips: 20
+Calls: Lodu
+Pot size: 105
+Showdown Reached
+Shows: Lodu, 6h As
+Combination: Lodu, Pair ( 6h 6c As Qc Td )
+Shows: Tinhu, 2c Th
+Combination: Tinhu, Pair ( Th Td Qc 7d 6c )
+Wins: Tinhu, chips: 105
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Lodu, chips: 5
+Big Blind: Tinhu, chips: 10
+Folds: Motowra
+Calls: Lodu
+Raises: Tinhu, chips: 10
+Calls: Lodu
+Flop: 7h Qd 8c
+Raises: Lodu, chips: 10
+Folds: Tinhu
+Pot size: 50
+Boasts: Tinhu, 2s 7d
+Wins: Lodu, chips: 50
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Tinhu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Calls: Tinhu
+Checks: Motowra
+Flop: 6d 4h Th
+Raises: Tinhu, chips: 10
+Folds: Motowra
+Pot size: 30
+Boasts: Tinhu, 7h Ad
+Wins: Tinhu, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Tinhu
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Calls: Tinhu
+Folds: Motowra
+Checks: Lodu
+Flop: 2c 5c 8c
+Checks: Lodu
+Checks: Tinhu
+Turn: 5d
+Checks: Lodu
+Checks: Tinhu
+River: Ac
+Raises: Lodu, chips: 10
+Folds: Tinhu
+Pot size: 35
+Wins: Lodu, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Lodu, chips: 5
+Big Blind: Tinhu, chips: 10
+Folds: Motowra
+Folds: Lodu
+Pot size: 15
+Wins: Tinhu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Tinhu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Raises: Tinhu, chips: 15
+Folds: Motowra
+Pot size: 35
+Boasts: Tinhu, As Kh
+Wins: Tinhu, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Tinhu
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Calls: Tinhu
+Folds: Motowra
+Checks: Lodu
+Flop: 9d Qc Ac
+Checks: Lodu
+Raises: Tinhu, chips: 10
+Folds: Lodu
+Pot size: 35
+Wins: Tinhu, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Lodu, chips: 5
+Big Blind: Tinhu, chips: 10
+Folds: Motowra
+Calls: Lodu
+Checks: Tinhu
+Flop: 5h 3s 5c
+Checks: Lodu
+Raises: Tinhu, chips: 10
+Calls: Lodu
+Turn: 6d
+Checks: Lodu
+Checks: Tinhu
+River: Qc
+Checks: Lodu
+Checks: Tinhu
+Pot size: 40
+Showdown Reached
+Shows: Lodu, Jd Jh
+Combination: Lodu, Two Pair ( Jd Jh 5h 5c Qc )
+Shows: Tinhu, 6s 9h
+Combination: Tinhu, Two Pair ( 6s 6d 5h 5c Qc )
+Wins: Lodu, chips: 40
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Tinhu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Calls: Tinhu
+Checks: Motowra
+Flop: 8s 7s Qh
+Raises: Tinhu, chips: 10
+Folds: Motowra
+Pot size: 30
+Boasts: Tinhu, 9c 3s
+Wins: Tinhu, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Tinhu
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Raises: Tinhu, chips: 20
+Folds: Motowra
+Folds: Lodu
+Pot size: 45
+Wins: Tinhu, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Lodu, chips: 5
+Big Blind: Tinhu, chips: 10
+Folds: Motowra
+Folds: Lodu
+Pot size: 15
+Wins: Tinhu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Tinhu, chips: 5
+Big Blind: Motowra, chips: 10
+Calls: Lodu
+Calls: Tinhu
+Checks: Motowra
+Flop: Qh 9s Js
+Raises: Tinhu, chips: 10
+Folds: Motowra
+Raises: Lodu, chips: 20
+Raises: Tinhu, chips: 40
+Calls: Lodu
+Turn: Jh
+Raises: Tinhu, chips: 40
+Calls: Lodu
+River: Kh
+Checks: Tinhu
+Checks: Lodu
+Pot size: 250
+Showdown Reached
+Shows: Lodu, Kc 9h
+Combination: Lodu, Two Pair ( Kc Kh Js Jh Qh )
+Shows: Tinhu, Qc 6h
+Combination: Tinhu, Two Pair ( Qc Qh Js Jh Kh )
+Wins: Lodu, chips: 250
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Tinhu
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Tinhu
+Folds: Motowra
+Pot size: 15
+Boasts: Tinhu, 6d 6h
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Lodu, chips: 5
+Big Blind: Tinhu, chips: 10
+Folds: Motowra
+Folds: Lodu
+Pot size: 15
+Boasts: Tinhu, 6s 5d
+Wins: Tinhu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Tinhu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Calls: Tinhu
+Checks: Motowra
+Flop: Kh Ad Qh
+Checks: Tinhu
+Checks: Motowra
+Turn: As
+Raises: Tinhu, chips: 10
+Folds: Motowra
+Pot size: 30
+Boasts: Tinhu, Ts 9h
+Wins: Tinhu, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Tinhu
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Raises: Tinhu, chips: 20
+Folds: Motowra
+Folds: Lodu
+Pot size: 45
+Boasts: Tinhu, 5d Qd
+Wins: Tinhu, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Lodu, chips: 5
+Big Blind: Tinhu, chips: 10
+Folds: Motowra
+Calls: Lodu
+Checks: Tinhu
+Flop: 5h 8d 4c
+Raises: Lodu, chips: 10
+Raises: Tinhu, chips: 20
+Calls: Lodu
+Turn: 6c
+Checks: Lodu
+Checks: Tinhu
+River: Td
+Checks: Lodu
+Raises: Tinhu, chips: 20
+Folds: Lodu
+Pot size: 100
+Wins: Tinhu, chips: 100
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Tinhu, chips: 5
+Big Blind: Motowra, chips: 10
+Raises: Lodu, chips: 20
+Folds: Tinhu
+Folds: Motowra
+Pot size: 45
+Boasts: Tinhu, Ks 4c
+Wins: Lodu, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Tinhu
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Calls: Tinhu
+Folds: Motowra
+Checks: Lodu
+Flop: 8d 5c 7h
+Checks: Lodu
+Checks: Tinhu
+Turn: Qs
+Checks: Lodu
+Checks: Tinhu
+River: 2c
+Checks: Lodu
+Raises: Tinhu, chips: 10
+Calls: Lodu
+Pot size: 45
+Showdown Reached
+Shows: Lodu, Td 7d
+Combination: Lodu, Pair ( 7d 7h Qs Td 8d )
+Shows: Tinhu, 3s 4c
+Combination: Tinhu, High Card ( Qs 8d 7h 5c 4c )
+Wins: Lodu, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Lodu, chips: 5
+Big Blind: Tinhu, chips: 10
+Folds: Motowra
+Folds: Lodu
+Pot size: 15
+Boasts: Tinhu, 9h 3c
+Wins: Tinhu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Tinhu, chips: 5
+Big Blind: Motowra, chips: 10
+Calls: Lodu
+Calls: Tinhu
+Checks: Motowra
+Flop: 3d 8h Ks
+Checks: Tinhu
+Checks: Motowra
+Checks: Lodu
+Turn: 9d
+Checks: Tinhu
+Checks: Motowra
+Checks: Lodu
+River: Kh
+Checks: Tinhu
+Checks: Motowra
+Checks: Lodu
+Pot size: 30
+Showdown Reached
+Shows: Motowra, 7d 6s
+Combination: Motowra, Pair ( Ks Kh 9d 8h 7d )
+Shows: Lodu, Qc Js
+Combination: Lodu, Pair ( Ks Kh Qc Js 9d )
+Shows: Tinhu, 4d 9c
+Combination: Tinhu, Two Pair ( Ks Kh 9c 9d 8h )
+Wins: Tinhu, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Tinhu
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Calls: Tinhu
+Folds: Motowra
+Raises: Lodu, chips: 10
+Calls: Tinhu
+Flop: 7c 6h 2d
+Checks: Lodu
+Raises: Tinhu, chips: 10
+Calls: Lodu
+Turn: 9h
+Checks: Lodu
+Raises: Tinhu, chips: 10
+Raises: Lodu, chips: 20
+Raises: Tinhu, chips: 40
+Raises: Lodu, chips: 490
+Raises: Tinhu, chips: 530
+River: 2s
+Pot size: 1715
+Showdown Reached
+Shows: Lodu, 9c 9s
+Combination: Lodu, Full House ( 9c 9s 9h 2d 2s )
+Shows: Tinhu, Jc 4h
+Combination: Tinhu, Pair ( 2d 2s Jc 9h 7c )
+Wins: Lodu, chips: 1185
+Wins: Tinhu, chips: 530
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Lodu, chips: 5
+Big Blind: Tinhu, chips: 10
+Folds: Motowra
+Folds: Lodu
+Pot size: 15
+Boasts: Tinhu, 6d Ts
+Wins: Tinhu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Tinhu, chips: 5
+Big Blind: Motowra, chips: 10
+Calls: Lodu
+Calls: Tinhu
+Checks: Motowra
+Flop: 4s 9h Qd
+Checks: Tinhu
+Checks: Motowra
+Checks: Lodu
+Turn: 5s
+Raises: Tinhu, chips: 10
+Folds: Motowra
+Calls: Lodu
+River: Kh
+Checks: Tinhu
+Checks: Lodu
+Pot size: 50
+Showdown Reached
+Shows: Lodu, Js 9d
+Combination: Lodu, Pair ( 9d 9h Kh Qd Js )
+Shows: Tinhu, Td Ad
+Combination: Tinhu, High Card ( Ad Kh Qd Td 9h )
+Wins: Lodu, chips: 50
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Tinhu
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Calls: Tinhu
+Folds: Motowra
+Raises: Lodu, chips: 1200
+Calls: Tinhu
+Flop: 5s Jc 7h
+Turn: 2d
+River: 7d
+Pot size: 2425
+Showdown Reached
+Shows: Lodu, Js Ad
+Combination: Lodu, Two Pair ( Js Jc 7h 7d Ad )
+Shows: Tinhu, Ks 5d
+Combination: Tinhu, Two Pair ( 7h 7d 5d 5s Ks )
+Wins: Lodu, chips: 2425
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Lodu, chips: 5
+Big Blind: Tinhu, chips: 10
+Folds: Motowra
+Folds: Lodu
+Pot size: 15
+Wins: Tinhu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Tinhu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Raises: Tinhu, chips: 15
+Folds: Motowra
+Pot size: 35
+Wins: Tinhu, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Tinhu
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Tinhu
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Lodu, chips: 5
+Big Blind: Tinhu, chips: 10
+Folds: Motowra
+Calls: Lodu
+Checks: Tinhu
+Flop: 4d 8c 2d
+Checks: Lodu
+Checks: Tinhu
+Turn: Qc
+Checks: Lodu
+Checks: Tinhu
+River: Qs
+Checks: Lodu
+Checks: Tinhu
+Pot size: 20
+Showdown Reached
+Shows: Lodu, 9s Kd
+Combination: Lodu, Pair ( Qc Qs Kd 9s 8c )
+Shows: Tinhu, 7s 3c
+Combination: Tinhu, Pair ( Qc Qs 8c 7s 4d )
+Wins: Lodu, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Tinhu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Raises: Tinhu, chips: 15
+Folds: Motowra
+Pot size: 35
+Boasts: Tinhu, Qc 9c
+Wins: Tinhu, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Tinhu
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Calls: Tinhu
+Folds: Motowra
+Checks: Lodu
+Flop: Ks 6c Td
+Checks: Lodu
+Checks: Tinhu
+Turn: 3d
+Checks: Lodu
+Checks: Tinhu
+River: 2s
+Checks: Lodu
+Raises: Tinhu, chips: 10
+Folds: Lodu
+Pot size: 35
+Wins: Tinhu, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Lodu, chips: 5
+Big Blind: Tinhu, chips: 10
+Folds: Motowra
+Folds: Lodu
+Pot size: 15
+Boasts: Tinhu, Ac 5h
+Wins: Tinhu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Tinhu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Raises: Tinhu, chips: 15
+Folds: Motowra
+Pot size: 35
+Boasts: Tinhu, Kh Ts
+Wins: Tinhu, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Tinhu
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Tinhu
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Lodu, chips: 5
+Big Blind: Tinhu, chips: 10
+Folds: Motowra
+Calls: Lodu
+Checks: Tinhu
+Flop: Qc Jd 8h
+Checks: Lodu
+Raises: Tinhu, chips: 10
+Folds: Lodu
+Pot size: 30
+Wins: Tinhu, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Tinhu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Raises: Tinhu, chips: 15
+Folds: Motowra
+Pot size: 35
+Boasts: Tinhu, Qc Ac
+Wins: Tinhu, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Tinhu
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Calls: Tinhu
+Folds: Motowra
+Checks: Lodu
+Flop: Qs Jd 6c
+Checks: Lodu
+Checks: Tinhu
+Turn: 8s
+Checks: Lodu
+Checks: Tinhu
+River: Ts
+Checks: Lodu
+Checks: Tinhu
+Pot size: 25
+Showdown Reached
+Shows: Lodu, 2h Ah
+Combination: Lodu, High Card ( Ah Qs Jd Ts 8s )
+Shows: Tinhu, 6d 8h
+Combination: Tinhu, Two Pair ( 8h 8s 6d 6c Qs )
+Wins: Tinhu, chips: 25
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Lodu, chips: 5
+Big Blind: Tinhu, chips: 10
+Folds: Motowra
+Calls: Lodu
+Checks: Tinhu
+Flop: Jc 8d 5d
+Checks: Lodu
+Checks: Tinhu
+Turn: Td
+Checks: Lodu
+Raises: Tinhu, chips: 10
+Calls: Lodu
+River: Kc
+Checks: Lodu
+Checks: Tinhu
+Pot size: 40
+Showdown Reached
+Shows: Lodu, Qs Th
+Combination: Lodu, Pair ( Th Td Kc Qs Jc )
+Shows: Tinhu, Ac 2c
+Combination: Tinhu, High Card ( Ac Kc Jc Td 8d )
+Wins: Lodu, chips: 40
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Tinhu, chips: 5
+Big Blind: Motowra, chips: 10
+Calls: Lodu
+Raises: Tinhu, chips: 15
+Folds: Motowra
+Folds: Lodu
+Pot size: 45
+Boasts: Tinhu, 9d 2h
+Wins: Tinhu, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Tinhu
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Raises: Tinhu, chips: 20
+Folds: Motowra
+Folds: Lodu
+Pot size: 45
+Boasts: Tinhu, 3h 6s
+Wins: Tinhu, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Lodu, chips: 5
+Big Blind: Tinhu, chips: 10
+Folds: Motowra
+Folds: Lodu
+Pot size: 15
+Wins: Tinhu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Tinhu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Calls: Tinhu
+Checks: Motowra
+Flop: 8s Td Ah
+Raises: Tinhu, chips: 10
+Folds: Motowra
+Pot size: 30
+Wins: Tinhu, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Tinhu
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Calls: Tinhu
+Folds: Motowra
+Checks: Lodu
+Flop: 5d As 6h
+Raises: Lodu, chips: 10
+Calls: Tinhu
+Turn: 3h
+Checks: Lodu
+Checks: Tinhu
+River: 7s
+Checks: Lodu
+Checks: Tinhu
+Pot size: 45
+Showdown Reached
+Shows: Lodu, Qc Th
+Combination: Lodu, High Card ( As Qc Th 7s 6h )
+Shows: Tinhu, 7h Ad
+Combination: Tinhu, Two Pair ( Ad As 7h 7s 6h )
+Wins: Tinhu, chips: 45
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Lodu, chips: 5
+Big Blind: Tinhu, chips: 10
+Folds: Motowra
+Folds: Lodu
+Pot size: 15
+Wins: Tinhu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Tinhu, chips: 5
+Big Blind: Motowra, chips: 10
+Calls: Lodu
+Calls: Tinhu
+Checks: Motowra
+Flop: Kd 7c 6s
+Checks: Tinhu
+Checks: Motowra
+Checks: Lodu
+Turn: 5s
+Raises: Tinhu, chips: 10
+Folds: Motowra
+Calls: Lodu
+River: 8s
+Checks: Tinhu
+Checks: Lodu
+Pot size: 50
+Showdown Reached
+Shows: Lodu, 6h 5h
+Combination: Lodu, Two Pair ( 6h 6s 5h 5s Kd )
+Shows: Tinhu, 9h 6d
+Combination: Tinhu, Straight ( 9h 8s 7c 6d 5s )
+Wins: Tinhu, chips: 50
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Tinhu
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Calls: Tinhu
+Folds: Motowra
+Checks: Lodu
+Flop: Ah 6s 9d
+Checks: Lodu
+Checks: Tinhu
+Turn: Jh
+Checks: Lodu
+Checks: Tinhu
+River: 2c
+Checks: Lodu
+Checks: Tinhu
+Pot size: 25
+Showdown Reached
+Shows: Lodu, 3d Jc
+Combination: Lodu, Pair ( Jc Jh Ah 9d 6s )
+Shows: Tinhu, 8c 5s
+Combination: Tinhu, High Card ( Ah Jh 9d 8c 6s )
+Wins: Lodu, chips: 25
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Lodu, chips: 5
+Big Blind: Tinhu, chips: 10
+Folds: Motowra
+Calls: Lodu
+Checks: Tinhu
+Flop: Kd 7d 3s
+Raises: Lodu, chips: 10
+Raises: Tinhu, chips: 20
+Calls: Lodu
+Turn: 4c
+Raises: Lodu, chips: 2330
+Calls: Tinhu
+River: Qc
+Pot size: 4740
+Showdown Reached
+Shows: Lodu, Qs Kh
+Combination: Lodu, Two Pair ( Kh Kd Qs Qc 7d )
+Shows: Tinhu, 6h 6d
+Combination: Tinhu, Pair ( 6h 6d Kd Qc 7d )
+Wins: Lodu, chips: 4740
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Tinhu, chips: 5
+Big Blind: Motowra, chips: 10
+Calls: Lodu
+Raises: Tinhu, chips: 15
+Folds: Motowra
+Calls: Lodu
+Flop: 9c Th 3d
+Checks: Tinhu
+Checks: Lodu
+Turn: Jd
+Checks: Tinhu
+Checks: Lodu
+River: Kh
+Raises: Tinhu, chips: 15
+Folds: Lodu
+Pot size: 75
+Boasts: Tinhu, 2c 5h
+Wins: Tinhu, chips: 75
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Tinhu
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Raises: Tinhu, chips: 20
+Folds: Motowra
+Calls: Lodu
+Flop: Tc Ts Qh
+Checks: Lodu
+Checks: Tinhu
+Turn: 7d
+Checks: Lodu
+Checks: Tinhu
+River: Qd
+Checks: Lodu
+Checks: Tinhu
+Pot size: 65
+Showdown Reached
+Shows: Lodu, Ah Ac
+Combination: Lodu, Two Pair ( Ah Ac Qh Qd Tc )
+Shows: Tinhu, 5c 2d
+Combination: Tinhu, Two Pair ( Qh Qd Tc Ts 7d )
+Wins: Lodu, chips: 65
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Lodu, chips: 5
+Big Blind: Tinhu, chips: 10
+Folds: Motowra
+Folds: Lodu
+Pot size: 15
+Wins: Tinhu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Tinhu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Raises: Tinhu, chips: 15
+Folds: Motowra
+Pot size: 35
+Wins: Tinhu, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Tinhu
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Tinhu
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Lodu, chips: 5
+Big Blind: Tinhu, chips: 10
+Folds: Motowra
+Calls: Lodu
+Checks: Tinhu
+Flop: 8c Js 8d
+Checks: Lodu
+Raises: Tinhu, chips: 10
+Calls: Lodu
+Turn: Jd
+Checks: Lodu
+Checks: Tinhu
+River: Kd
+Raises: Lodu, chips: 10
+Calls: Tinhu
+Pot size: 60
+Showdown Reached
+Shows: Lodu, 3s Ks
+Combination: Lodu, Two Pair ( Ks Kd Js Jd 8c )
+Shows: Tinhu, 8h As
+Combination: Tinhu, Full House ( 8h 8c 8d Js Jd )
+Wins: Tinhu, chips: 60
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Tinhu, chips: 5
+Big Blind: Motowra, chips: 10
+Raises: Lodu, chips: 10
+Calls: Tinhu
+Folds: Motowra
+Flop: Qd 2d Jh
+Raises: Tinhu, chips: 10
+Raises: Lodu, chips: 4690
+Calls: Tinhu
+Turn: Ad
+River: 7h
+Pot size: 6360
+Showdown Reached
+Shows: Lodu, Jc Js
+Combination: Lodu, Three Of A Kind ( Jc Js Jh Ad Qd )
+Shows: Tinhu, 4d 3s
+Combination: Tinhu, High Card ( Ad Qd Jh 7h 4d )
+Wins: Lodu, chips: 6360
+Quits: Tinhu, chips: 0
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Raises: Lodu, chips: 6355
+Folds: Motowra
+Pot size: 6375
+Wins: Lodu, chips: 6375
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Raises: Lodu, chips: 15
+Folds: Motowra
+Pot size: 35
+Wins: Lodu, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Calls: Lodu
+Checks: Motowra
+Flop: Qd 6c Jh
+Checks: Motowra
+Checks: Lodu
+Turn: 8h
+Checks: Motowra
+Checks: Lodu
+River: Js
+Checks: Motowra
+Checks: Lodu
+Pot size: 20
+Showdown Reached
+Shows: Motowra, 3h As
+Combination: Motowra, Pair ( Jh Js As Qd 8h )
+Shows: Lodu, 4s 5c
+Combination: Lodu, Pair ( Jh Js Qd 8h 6c )
+Wins: Motowra, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Calls: Lodu
+Checks: Motowra
+Flop: 3s Ac Qh
+Checks: Motowra
+Checks: Lodu
+Turn: As
+Checks: Motowra
+Raises: Lodu, chips: 10
+Folds: Motowra
+Pot size: 30
+Wins: Lodu, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Calls: Lodu
+Checks: Motowra
+Flop: 7d 6c Qc
+Checks: Motowra
+Checks: Lodu
+Turn: Qd
+Checks: Motowra
+Checks: Lodu
+River: Ts
+Checks: Motowra
+Raises: Lodu, chips: 10
+Folds: Motowra
+Pot size: 30
+Wins: Lodu, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Raises: Lodu, chips: 15
+Folds: Motowra
+Pot size: 35
+Wins: Lodu, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Raises: Lodu, chips: 15
+Folds: Motowra
+Pot size: 35
+Wins: Lodu, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Calls: Lodu
+Checks: Motowra
+Flop: 3c Js Kc
+Checks: Motowra
+Checks: Lodu
+Turn: 2h
+Checks: Motowra
+Raises: Lodu, chips: 10
+Folds: Motowra
+Pot size: 30
+Wins: Lodu, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Calls: Lodu
+Checks: Motowra
+Flop: 7h 6c Kd
+Checks: Motowra
+Raises: Lodu, chips: 10
+Folds: Motowra
+Pot size: 30
+Wins: Lodu, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Calls: Lodu
+Checks: Motowra
+Flop: 6d 4d 3c
+Checks: Motowra
+Checks: Lodu
+Turn: 5h
+Checks: Motowra
+Checks: Lodu
+River: 6c
+Checks: Motowra
+Checks: Lodu
+Pot size: 20
+Showdown Reached
+Shows: Motowra, Th 8s
+Combination: Motowra, Pair ( 6d 6c Th 8s 5h )
+Shows: Lodu, Ad 9s
+Combination: Lodu, Pair ( 6d 6c Ad 9s 5h )
+Wins: Lodu, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Calls: Lodu
+Checks: Motowra
+Flop: 6s 9d Kc
+Checks: Motowra
+Checks: Lodu
+Turn: 7s
+Checks: Motowra
+Checks: Lodu
+River: Jh
+Checks: Motowra
+Checks: Lodu
+Pot size: 20
+Showdown Reached
+Shows: Motowra, 4h 6c
+Combination: Motowra, Pair ( 6c 6s Kc Jh 9d )
+Shows: Lodu, Jd Th
+Combination: Lodu, Pair ( Jd Jh Kc Th 9d )
+Wins: Lodu, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Calls: Lodu
+Checks: Motowra
+Flop: 3h 3c Js
+Checks: Motowra
+Checks: Lodu
+Turn: As
+Checks: Motowra
+Checks: Lodu
+River: 7s
+Checks: Motowra
+Raises: Lodu, chips: 10
+Folds: Motowra
+Pot size: 30
+Wins: Lodu, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Calls: Lodu
+Checks: Motowra
+Flop: 7s Qs Qh
+Checks: Motowra
+Raises: Lodu, chips: 10
+Folds: Motowra
+Pot size: 30
+Wins: Lodu, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Calls: Lodu
+Checks: Motowra
+Flop: Kh 5c Qd
+Checks: Motowra
+Checks: Lodu
+Turn: 9h
+Checks: Motowra
+Raises: Lodu, chips: 10
+Folds: Motowra
+Pot size: 30
+Wins: Lodu, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Calls: Lodu
+Checks: Motowra
+Flop: Ah 9d Td
+Checks: Motowra
+Checks: Lodu
+Turn: 6d
+Checks: Motowra
+Checks: Lodu
+River: Ts
+Checks: Motowra
+Checks: Lodu
+Pot size: 20
+Showdown Reached
+Shows: Motowra, 4c 3c
+Combination: Motowra, Pair ( Td Ts Ah 9d 6d )
+Shows: Lodu, Kd Qs
+Combination: Lodu, Pair ( Td Ts Ah Kd Qs )
+Wins: Lodu, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Calls: Lodu
+Checks: Motowra
+Flop: 7s 6d 8h
+Checks: Motowra
+Checks: Lodu
+Turn: 2d
+Checks: Motowra
+Checks: Lodu
+River: 3d
+Checks: Motowra
+Raises: Lodu, chips: 10
+Folds: Motowra
+Pot size: 30
+Wins: Lodu, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Calls: Lodu
+Checks: Motowra
+Flop: 6s 4d 4h
+Checks: Motowra
+Checks: Lodu
+Turn: 2h
+Checks: Motowra
+Checks: Lodu
+River: 7c
+Checks: Motowra
+Checks: Lodu
+Pot size: 20
+Showdown Reached
+Shows: Motowra, 5h Jd
+Combination: Motowra, Pair ( 4d 4h Jd 7c 6s )
+Shows: Lodu, 5s 5d
+Combination: Lodu, Two Pair ( 5s 5d 4d 4h 7c )
+Wins: Lodu, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Calls: Lodu
+Checks: Motowra
+Flop: Td 6d 3s
+Checks: Motowra
+Checks: Lodu
+Turn: 9c
+Checks: Motowra
+Raises: Lodu, chips: 10
+Folds: Motowra
+Pot size: 30
+Wins: Lodu, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Raises: Lodu, chips: 15
+Folds: Motowra
+Pot size: 35
+Wins: Lodu, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Calls: Lodu
+Checks: Motowra
+Flop: Kh Qh 6d
+Checks: Motowra
+Checks: Lodu
+Turn: 6s
+Checks: Motowra
+Checks: Lodu
+River: Ac
+Checks: Motowra
+Checks: Lodu
+Pot size: 20
+Showdown Reached
+Shows: Motowra, 3d 5c
+Combination: Motowra, Pair ( 6d 6s Ac Kh Qh )
+Shows: Lodu, 9c 9h
+Combination: Lodu, Two Pair ( 9c 9h 6d 6s Ac )
+Wins: Lodu, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Calls: Lodu
+Checks: Motowra
+Flop: Js Kc 3s
+Checks: Motowra
+Raises: Lodu, chips: 10
+Folds: Motowra
+Pot size: 30
+Wins: Lodu, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Calls: Lodu
+Checks: Motowra
+Flop: 9s 5d 9h
+Checks: Motowra
+Checks: Lodu
+Turn: 2h
+Checks: Motowra
+Checks: Lodu
+River: Kh
+Checks: Motowra
+Raises: Lodu, chips: 10
+Folds: Motowra
+Pot size: 30
+Wins: Lodu, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Raises: Lodu, chips: 15
+Folds: Motowra
+Pot size: 35
+Wins: Lodu, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Raises: Lodu, chips: 6680
+Folds: Motowra
+Pot size: 6700
+Wins: Lodu, chips: 6700
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Calls: Lodu
+Checks: Motowra
+Flop: 5s 7d Kc
+Checks: Motowra
+Checks: Lodu
+Turn: 3d
+Checks: Motowra
+Checks: Lodu
+River: Qh
+Checks: Motowra
+Checks: Lodu
+Pot size: 20
+Showdown Reached
+Shows: Motowra, Ts 8h
+Combination: Motowra, High Card ( Kc Qh Ts 8h 7d )
+Shows: Lodu, Td Jd
+Combination: Lodu, High Card ( Kc Qh Jd Td 7d )
+Wins: Lodu, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Calls: Lodu
+Checks: Motowra
+Flop: 4c Ts Js
+Checks: Motowra
+Checks: Lodu
+Turn: Th
+Checks: Motowra
+Checks: Lodu
+River: 6d
+Checks: Motowra
+Checks: Lodu
+Pot size: 20
+Showdown Reached
+Shows: Motowra, 6c Qc
+Combination: Motowra, Two Pair ( Ts Th 6c 6d Qc )
+Shows: Lodu, As Kc
+Combination: Lodu, Pair ( Ts Th As Kc Js )
+Wins: Motowra, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Calls: Lodu
+Checks: Motowra
+Flop: Td As Th
+Checks: Motowra
+Checks: Lodu
+Turn: 2c
+Checks: Motowra
+Raises: Lodu, chips: 10
+Folds: Motowra
+Pot size: 30
+Wins: Lodu, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Calls: Lodu
+Checks: Motowra
+Flop: Qd 4d 3c
+Checks: Motowra
+Checks: Lodu
+Turn: Jd
+Checks: Motowra
+Checks: Lodu
+River: Ks
+Checks: Motowra
+Checks: Lodu
+Pot size: 20
+Showdown Reached
+Shows: Motowra, 8s Tc
+Combination: Motowra, High Card ( Ks Qd Jd Tc 8s )
+Shows: Lodu, As 2s
+Combination: Lodu, High Card ( As Ks Qd Jd 4d )
+Wins: Lodu, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Calls: Lodu
+Checks: Motowra
+Flop: 3c Ah Jc
+Checks: Motowra
+Raises: Lodu, chips: 6735
+Folds: Motowra
+Pot size: 6755
+Wins: Lodu, chips: 6755
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Calls: Lodu
+Checks: Motowra
+Flop: 4d 8h Kd
+Checks: Motowra
+Raises: Lodu, chips: 6750
+Folds: Motowra
+Pot size: 6770
+Wins: Lodu, chips: 6770
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Calls: Lodu
+Checks: Motowra
+Flop: 8s Ts Kd
+Checks: Motowra
+Checks: Lodu
+Turn: 6h
+Checks: Motowra
+Checks: Lodu
+River: 5d
+Checks: Motowra
+Checks: Lodu
+Pot size: 20
+Showdown Reached
+Shows: Motowra, 2s 7h
+Combination: Motowra, High Card ( Kd Ts 8s 7h 6h )
+Shows: Lodu, Jc 8c
+Combination: Lodu, Pair ( 8c 8s Kd Jc Ts )
+Wins: Lodu, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Calls: Lodu
+Checks: Motowra
+Flop: 8c 2s Ks
+Checks: Motowra
+Raises: Lodu, chips: 10
+Folds: Motowra
+Pot size: 30
+Wins: Lodu, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Calls: Lodu
+Checks: Motowra
+Flop: 2c Ac 4h
+Checks: Motowra
+Checks: Lodu
+Turn: 7h
+Checks: Motowra
+Checks: Lodu
+River: Jd
+Checks: Motowra
+Checks: Lodu
+Pot size: 20
+Showdown Reached
+Shows: Motowra, 9c 6d
+Combination: Motowra, High Card ( Ac Jd 9c 7h 6d )
+Shows: Lodu, Ts 9h
+Combination: Lodu, High Card ( Ac Jd Ts 9h 7h )
+Wins: Lodu, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Calls: Lodu
+Checks: Motowra
+Flop: Qs 4d Qc
+Checks: Motowra
+Checks: Lodu
+Turn: Ks
+Checks: Motowra
+Checks: Lodu
+River: 6c
+Checks: Motowra
+Raises: Lodu, chips: 10
+Folds: Motowra
+Pot size: 30
+Wins: Lodu, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Calls: Lodu
+Checks: Motowra
+Flop: 6c 2c 8h
+Checks: Motowra
+Checks: Lodu
+Turn: Ad
+Checks: Motowra
+Checks: Lodu
+River: 4d
+Checks: Motowra
+Raises: Lodu, chips: 6825
+Folds: Motowra
+Pot size: 6845
+Wins: Lodu, chips: 6845
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Calls: Lodu
+Checks: Motowra
+Flop: 6d 7c Ac
+Checks: Motowra
+Checks: Lodu
+Turn: Ad
+Checks: Motowra
+Checks: Lodu
+River: Jc
+Checks: Motowra
+Checks: Lodu
+Pot size: 20
+Showdown Reached
+Shows: Motowra, Qh Jh
+Combination: Motowra, Two Pair ( Ac Ad Jh Jc Qh )
+Shows: Lodu, 9c Td
+Combination: Lodu, Pair ( Ac Ad Jc Td 9c )
+Wins: Motowra, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Calls: Lodu
+Checks: Motowra
+Flop: Td 4h 2d
+Checks: Motowra
+Raises: Lodu, chips: 10
+Folds: Motowra
+Pot size: 30
+Wins: Lodu, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Calls: Lodu
+Checks: Motowra
+Flop: 5h 8h 7h
+Checks: Motowra
+Checks: Lodu
+Turn: 2s
+Checks: Motowra
+Checks: Lodu
+River: 4d
+Checks: Motowra
+Checks: Lodu
+Pot size: 20
+Showdown Reached
+Shows: Motowra, 3c 4h
+Combination: Motowra, Pair ( 4h 4d 8h 7h 5h )
+Shows: Lodu, Td As
+Combination: Lodu, High Card ( As Td 8h 7h 5h )
+Wins: Motowra, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Calls: Lodu
+Checks: Motowra
+Flop: 9s 7d Ac
+Checks: Motowra
+Checks: Lodu
+Turn: Kd
+Checks: Motowra
+Checks: Lodu
+River: 3c
+Checks: Motowra
+Checks: Lodu
+Pot size: 20
+Showdown Reached
+Shows: Motowra, 2s 4c
+Combination: Motowra, High Card ( Ac Kd 9s 7d 4c )
+Shows: Lodu, 6s 5c
+Combination: Lodu, High Card ( Ac Kd 9s 7d 6s )
+Wins: Lodu, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Calls: Lodu
+Checks: Motowra
+Flop: Jc 6s 5h
+Checks: Motowra
+Checks: Lodu
+Turn: 5c
+Checks: Motowra
+Checks: Lodu
+River: 5d
+Checks: Motowra
+Checks: Lodu
+Pot size: 20
+Showdown Reached
+Shows: Motowra, Ac Kd
+Combination: Motowra, Three Of A Kind ( 5h 5c 5d Ac Kd )
+Shows: Lodu, 7c 9c
+Combination: Lodu, Three Of A Kind ( 5h 5c 5d Jc 9c )
+Wins: Motowra, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Calls: Lodu
+Checks: Motowra
+Flop: 6c 2c Jc
+Checks: Motowra
+Checks: Lodu
+Turn: Tc
+Checks: Motowra
+Checks: Lodu
+River: 9h
+Checks: Motowra
+Raises: Lodu, chips: 10
+Folds: Motowra
+Pot size: 30
+Wins: Lodu, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Calls: Lodu
+Checks: Motowra
+Flop: 2h Ah 5s
+Checks: Motowra
+Raises: Lodu, chips: 10
+Folds: Motowra
+Pot size: 30
+Wins: Lodu, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Raises: Lodu, chips: 15
+Folds: Motowra
+Pot size: 35
+Wins: Lodu, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Calls: Lodu
+Checks: Motowra
+Flop: 2s 6d Kc
+Checks: Motowra
+Checks: Lodu
+Turn: 3s
+Checks: Motowra
+Checks: Lodu
+River: 5s
+Checks: Motowra
+Checks: Lodu
+Pot size: 20
+Showdown Reached
+Shows: Motowra, Qs 6c
+Combination: Motowra, Pair ( 6c 6d Kc Qs 5s )
+Shows: Lodu, 8c 7h
+Combination: Lodu, High Card ( Kc 8c 7h 6d 5s )
+Wins: Motowra, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Calls: Lodu
+Checks: Motowra
+Flop: Qd 8d Th
+Checks: Motowra
+Checks: Lodu
+Turn: Kc
+Checks: Motowra
+Checks: Lodu
+River: Js
+Checks: Motowra
+Checks: Lodu
+Pot size: 20
+Showdown Reached
+Shows: Motowra, 2h Kd
+Combination: Motowra, Pair ( Kd Kc Qd Js Th )
+Shows: Lodu, 5s 6c
+Combination: Lodu, High Card ( Kc Qd Js Th 8d )
+Wins: Motowra, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Raises: Lodu, chips: 15
+Folds: Motowra
+Pot size: 35
+Wins: Lodu, chips: 35
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Calls: Lodu
+Checks: Motowra
+Flop: 8d 9d Kh
+Checks: Motowra
+Raises: Lodu, chips: 10
+Folds: Motowra
+Pot size: 30
+Wins: Lodu, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Calls: Lodu
+Checks: Motowra
+Flop: 2c 3d Kc
+Checks: Motowra
+Checks: Lodu
+Turn: Jc
+Checks: Motowra
+Raises: Lodu, chips: 10
+Folds: Motowra
+Pot size: 30
+Wins: Lodu, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Calls: Lodu
+Checks: Motowra
+Flop: 6h Th 8h
+Checks: Motowra
+Checks: Lodu
+Turn: Ac
+Checks: Motowra
+Checks: Lodu
+River: 2s
+Checks: Motowra
+Checks: Lodu
+Pot size: 20
+Showdown Reached
+Shows: Motowra, 8c Js
+Combination: Motowra, Pair ( 8c 8h Ac Js Th )
+Shows: Lodu, 4s 4c
+Combination: Lodu, Pair ( 4s 4c Ac Th 8h )
+Wins: Motowra, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Calls: Lodu
+Checks: Motowra
+Flop: 9h 2d 3h
+Checks: Motowra
+Checks: Lodu
+Turn: 2c
+Checks: Motowra
+Checks: Lodu
+River: 7d
+Checks: Motowra
+Raises: Lodu, chips: 10
+Folds: Motowra
+Pot size: 30
+Wins: Lodu, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Calls: Lodu
+Checks: Motowra
+Flop: Td Kh 6h
+Checks: Motowra
+Checks: Lodu
+Turn: Js
+Checks: Motowra
+Checks: Lodu
+River: 8d
+Checks: Motowra
+Checks: Lodu
+Pot size: 20
+Showdown Reached
+Shows: Motowra, 5c Jd
+Combination: Motowra, Pair ( Jd Js Kh Td 8d )
+Shows: Lodu, 2s 4s
+Combination: Lodu, High Card ( Kh Js Td 8d 6h )
+Wins: Motowra, chips: 20
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Calls: Lodu
+Checks: Motowra
+Flop: Th 4d Qd
+Checks: Motowra
+Raises: Lodu, chips: 6940
+Folds: Motowra
+Pot size: 6960
+Wins: Lodu, chips: 6960
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Folds: Lodu
+Pot size: 15
+Wins: Motowra, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Calls: Lodu
+Checks: Motowra
+Flop: 9h Qh 2h
+Checks: Motowra
+Checks: Lodu
+Turn: Ks
+Checks: Motowra
+Raises: Lodu, chips: 10
+Folds: Motowra
+Pot size: 30
+Wins: Lodu, chips: 30
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 10
+Calls: Lodu
+Checks: Motowra
+Flop: 3s 7h 7s
+Checks: Motowra
+Raises: Lodu, chips: 6970
+Folds: Motowra
+Pot size: 6990
+Wins: Lodu, chips: 6990
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 5
+Flop: Ad 2s 4c
+Turn: 4h
+River: Kd
+Pot size: 10
+Showdown Reached
+Shows: Motowra, 2c 7h
+Combination: Motowra, Two Pair ( 4c 4h 2c 2s Ad )
+Shows: Lodu, 6d 8h
+Combination: Lodu, Pair ( 4c 4h Ad Kd 8h )
+Wins: Motowra, chips: 10
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Motowra
+Small Blind: Motowra, chips: 5
+Big Blind: Lodu, chips: 10
+Folds: Motowra
+Pot size: 15
+Wins: Lodu, chips: 15
+New deal. SB: 5 BB: 10 Ante: 0
+Dealer: Lodu
+Small Blind: Lodu, chips: 5
+Big Blind: Motowra, chips: 5
+Flop: Qd 5h 9c
+Turn: Js
+River: 2s
+Pot size: 10
+Showdown Reached
+Shows: Motowra, 6h Ts
+Combination: Motowra, High Card ( Qd Js Ts 9c 6h )
+Shows: Lodu, Jh 3s
+Combination: Lodu, Pair ( Jh Js Qd 9c 5h )
+Wins: Lodu, chips: 10
+Quits: Motowra, chips: 0
+Ranking: Lodu, Place: 1, Score: 6000
+Reveal AI: Lodu, AI: Smart
+Ranking: Motowra, Place: 2, Score: -1000
+Reveal AI: Motowra, AI: AIMyBot1
+Ranking: Tinhu, Place: 3, Score: -1000
+Reveal AI: Tinhu, AI: Random
+Ranking: Deenho, Place: 4, Score: -1000
+Reveal AI: Deenho, AI: Smart
+Ranking: Rechu, Place: 5, Score: -1000
+Reveal AI: Rechu, AI: Call
+Ranking: Sobuwo, Place: 6, Score: -1000
+Reveal AI: Sobuwo, AI: Call
+Ranking: Famo, Place: 7, Score: -1000
+Reveal AI: Famo, AI: Random
+
+Player Stats for Deenho, AI: Smart
+General: deals: 25, actions: 57, preflop actions: 30
+Rounds Seen: flops: 92, turns: 68, rivers: 60, showdowns: 48
+Wins: total: 2, showdown: 2, bluff: 0
+Chips: won: 275, lost: 1275, bought: 1000, forced bets: 75
+Pre-Flop Stats: VP$IP: 0.4, PFR: 0.04, 3Bet: 0.04
+Post-Flop Stats: AF: 1.66667, WSD: 0.521739, WSDW: 0.0416667
+
+
+Player Stats for Famo, AI: Random
+General: deals: 14, actions: 49, preflop actions: 16
+Rounds Seen: flops: 102, turns: 80, rivers: 72, showdowns: 59
+Wins: total: 4, showdown: 4, bluff: 0
+Chips: won: 510, lost: 1510, bought: 1000, forced bets: 30
+Pre-Flop Stats: VP$IP: 0.857143, PFR: 0.214286, 3Bet: 0.214286
+Post-Flop Stats: AF: 2.66667, WSD: 0.578431, WSDW: 0.0677966
+
+
+Player Stats for Lodu, AI: Smart
+General: deals: 358, actions: 437, preflop actions: 227
+Rounds Seen: flops: 83, turns: 63, rivers: 56, showdowns: 44
+Wins: total: 204, showdown: 25, bluff: 179
+Chips: won: 66665, lost: 60665, bought: 1000, forced bets: 2395
+Pre-Flop Stats: VP$IP: 0.231844, PFR: 0.0446927, 3Bet: 0.0391061
+Post-Flop Stats: AF: 2.6875, WSD: 0.53012, WSDW: 0.568182
+
+
+Player Stats for Motowra, AI: AIMyBot1
+General: deals: 358, actions: 428, preflop actions: 278
+Rounds Seen: flops: 57, turns: 41, rivers: 31, showdowns: 23
+Wins: total: 89, showdown: 11, bluff: 78
+Chips: won: 1390, lost: 2390, bought: 1000, forced bets: 2390
+Pre-Flop Stats: VP$IP: 0, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 0.403509, WSDW: 0.478261
+
+
+Player Stats for Rechu, AI: Call
+General: deals: 20, actions: 92, preflop actions: 25
+Rounds Seen: flops: 105, turns: 85, rivers: 77, showdowns: 65
+Wins: total: 7, showdown: 7, bluff: 0
+Chips: won: 1967, lost: 5678, bought: 1000, forced bets: 45
+Pre-Flop Stats: VP$IP: 0.9, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: 0, WSD: 0.619048, WSDW: 0.107692
+
+
+Player Stats for Sobuwo, AI: Call
+General: deals: 17, actions: 81, preflop actions: 23
+Rounds Seen: flops: 105, turns: 85, rivers: 77, showdowns: 65
+Wins: total: 5, showdown: 5, bluff: 0
+Chips: won: 810, lost: 1815, bought: 1000, forced bets: 30
+Pre-Flop Stats: VP$IP: 0.941176, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: 0, WSD: 0.619048, WSDW: 0.0769231
+
+
+Player Stats for Tinhu, AI: Random
+General: deals: 92, actions: 221, preflop actions: 84
+Rounds Seen: flops: 99, turns: 80, rivers: 72, showdowns: 60
+Wins: total: 51, showdown: 15, bluff: 36
+Chips: won: 13493, lost: 17583, bought: 1000, forced bets: 395
+Pre-Flop Stats: VP$IP: 0.630435, PFR: 0.304348, 3Bet: 0.26087
+Post-Flop Stats: AF: 5.33333, WSD: 0.606061, WSDW: 0.25
+
+

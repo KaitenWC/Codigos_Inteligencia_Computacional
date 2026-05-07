@@ -1,0 +1,5064 @@
+
+
+======================OOPoker Log=======================
+
+The game begins. The AI's of the players are: 
+Ma: Smart
+Rolowees: Human
+Veevamu: Smart
+Rubap: Random
+Feweenny: Call
+Cheerlinas: Smart
+Vee: Random
+Geepu: Call
+Toeloel: Smart
+
+Joins: Ma, chips: 1000
+Joins: Rolowees, chips: 1000
+Joins: Veevamu, chips: 1000
+Joins: Rubap, chips: 1000
+Joins: Feweenny, chips: 1000
+Joins: Cheerlinas, chips: 1000
+Joins: Vee, chips: 1000
+Joins: Geepu, chips: 1000
+Joins: Toeloel, chips: 1000
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Veevamu
+Small Blind: Rubap, chips: 10
+Big Blind: Feweenny, chips: 20
+Folds: Cheerlinas
+Folds: Vee
+Calls: Geepu
+Folds: Toeloel
+Calls: Ma
+Calls: Rolowees
+Folds: Veevamu
+Raises: Rubap, chips: 30
+Calls: Feweenny
+Calls: Geepu
+Calls: Ma
+Raises: Rolowees, chips: 180
+Raises: Rubap, chips: 360
+Calls: Feweenny
+Calls: Geepu
+Folds: Ma
+Raises: Rolowees, chips: 410
+Calls: Rubap
+Calls: Feweenny
+Calls: Geepu
+Flop: 8h Qd 7c
+Turn: Qs
+River: Ts
+Pot size: 4050
+Showdown Reached
+Shows: Rolowees, Ad 6c
+Combination: Rolowees, Pair ( Qd Qs Ad Ts 8h )
+Shows: Rubap, 3s 5c
+Combination: Rubap, Pair ( Qd Qs Ts 8h 7c )
+Shows: Feweenny, 9c 4h
+Combination: Feweenny, Pair ( Qd Qs Ts 9c 8h )
+Boasts: Vee, Kh 3h
+Shows: Geepu, Js 2s
+Combination: Geepu, Pair ( Qd Qs Js Ts 8h )
+Wins: Rolowees, chips: 4050
+Quits: Rubap, chips: 0
+Quits: Feweenny, chips: 0
+Quits: Geepu, chips: 0
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheerlinas
+Small Blind: Vee, chips: 10
+Big Blind: Toeloel, chips: 20
+Folds: Ma
+Folds: Rolowees
+Calls: Veevamu
+Calls: Cheerlinas
+Folds: Vee
+Checks: Toeloel
+Flop: Ac Jc Ts
+Checks: Toeloel
+Checks: Veevamu
+Checks: Cheerlinas
+Turn: 8s
+Checks: Toeloel
+Checks: Veevamu
+Raises: Cheerlinas, chips: 20
+Folds: Toeloel
+Calls: Veevamu
+River: 5d
+Checks: Veevamu
+Checks: Cheerlinas
+Pot size: 110
+Showdown Reached
+Shows: Veevamu, Th Jd
+Combination: Veevamu, Two Pair ( Jd Jc Th Ts Ac )
+Shows: Cheerlinas, Qd Td
+Combination: Cheerlinas, Pair ( Td Ts Ac Qd Jc )
+Wins: Veevamu, chips: 110
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Vee
+Small Blind: Toeloel, chips: 10
+Big Blind: Ma, chips: 20
+Folds: Rolowees
+Calls: Veevamu
+Calls: Cheerlinas
+Calls: Vee
+Calls: Toeloel
+Checks: Ma
+Flop: 5h Kc 8c
+Checks: Toeloel
+Checks: Ma
+Checks: Veevamu
+Checks: Cheerlinas
+Checks: Vee
+Turn: 7d
+Checks: Toeloel
+Checks: Ma
+Checks: Veevamu
+Checks: Cheerlinas
+Checks: Vee
+River: Ks
+Raises: Toeloel, chips: 20
+Folds: Ma
+Folds: Veevamu
+Folds: Cheerlinas
+Calls: Vee
+Pot size: 140
+Showdown Reached
+Shows: Vee, 2s Tc
+Combination: Vee, Pair ( Kc Ks Tc 8c 7d )
+Shows: Toeloel, 7s 7h
+Combination: Toeloel, Full House ( 7s 7h 7d Kc Ks )
+Wins: Toeloel, chips: 140
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Toeloel
+Small Blind: Ma, chips: 10
+Big Blind: Rolowees, chips: 20
+Calls: Veevamu
+Folds: Cheerlinas
+Folds: Vee
+Calls: Toeloel
+Calls: Ma
+Raises: Rolowees, chips: 60
+Folds: Veevamu
+Calls: Toeloel
+Folds: Ma
+Flop: Kd Jd 6d
+Raises: Rolowees, chips: 180
+Calls: Toeloel
+Turn: 7c
+Raises: Rolowees, chips: 540
+Folds: Toeloel
+Pot size: 1100
+Wins: Rolowees, chips: 1100
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ma
+Small Blind: Rolowees, chips: 10
+Big Blind: Veevamu, chips: 20
+Calls: Cheerlinas
+Calls: Vee
+Folds: Toeloel
+Calls: Ma
+Raises: Rolowees, chips: 60
+Folds: Veevamu
+Folds: Cheerlinas
+Raises: Vee, chips: 120
+Folds: Ma
+Raises: Rolowees, chips: 720
+Calls: Vee
+Flop: Ah Kh 3d
+Raises: Rolowees, chips: 720
+Calls: Vee
+Turn: 4h
+River: 8s
+Pot size: 2650
+Showdown Reached
+Shows: Rolowees, 8h Tc
+Combination: Rolowees, Pair ( 8h 8s Ah Kh Tc )
+Shows: Vee, 7h 4c
+Combination: Vee, Pair ( 4c 4h Ah Kh 8s )
+Wins: Rolowees, chips: 2650
+Quits: Vee, chips: 0
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Rolowees
+Small Blind: Veevamu, chips: 10
+Big Blind: Cheerlinas, chips: 20
+Calls: Toeloel
+Calls: Ma
+Calls: Rolowees
+Folds: Veevamu
+Raises: Cheerlinas, chips: 20
+Folds: Toeloel
+Calls: Ma
+Calls: Rolowees
+Flop: Js Ks Jd
+Checks: Cheerlinas
+Raises: Ma, chips: 20
+Raises: Rolowees, chips: 120
+Calls: Cheerlinas
+Calls: Ma
+Turn: 7s
+Checks: Cheerlinas
+Checks: Ma
+Raises: Rolowees, chips: 240
+Folds: Cheerlinas
+Folds: Ma
+Pot size: 810
+Wins: Rolowees, chips: 810
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Veevamu
+Small Blind: Cheerlinas, chips: 10
+Big Blind: Toeloel, chips: 20
+Calls: Ma
+Calls: Rolowees
+Folds: Veevamu
+Folds: Cheerlinas
+Checks: Toeloel
+Flop: Kd 6h 7c
+Checks: Toeloel
+Checks: Ma
+Raises: Rolowees, chips: 20
+Folds: Toeloel
+Folds: Ma
+Pot size: 90
+Wins: Rolowees, chips: 90
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheerlinas
+Small Blind: Toeloel, chips: 10
+Big Blind: Ma, chips: 20
+Folds: Rolowees
+Folds: Veevamu
+Folds: Cheerlinas
+Folds: Toeloel
+Pot size: 30
+Wins: Ma, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Toeloel
+Small Blind: Ma, chips: 10
+Big Blind: Rolowees, chips: 20
+Folds: Veevamu
+Calls: Cheerlinas
+Calls: Toeloel
+Calls: Ma
+Raises: Rolowees, chips: 60
+Folds: Cheerlinas
+Folds: Toeloel
+Folds: Ma
+Pot size: 140
+Wins: Rolowees, chips: 140
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ma
+Small Blind: Rolowees, chips: 10
+Big Blind: Veevamu, chips: 20
+Raises: Cheerlinas, chips: 40
+Folds: Toeloel
+Folds: Ma
+Calls: Rolowees
+Folds: Veevamu
+Flop: Td Ts Ac
+Raises: Rolowees, chips: 120
+Calls: Cheerlinas
+Turn: Qd
+Raises: Rolowees, chips: 360
+Folds: Cheerlinas
+Pot size: 740
+Wins: Rolowees, chips: 740
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Rolowees
+Small Blind: Veevamu, chips: 10
+Big Blind: Cheerlinas, chips: 20
+Folds: Toeloel
+Calls: Ma
+Calls: Rolowees
+Folds: Veevamu
+Checks: Cheerlinas
+Flop: 7c Ac Ah
+Checks: Cheerlinas
+Checks: Ma
+Raises: Rolowees, chips: 60
+Calls: Cheerlinas
+Calls: Ma
+Turn: 8d
+Raises: Cheerlinas, chips: 450
+Folds: Ma
+Raises: Rolowees, chips: 510
+River: Qd
+Pot size: 1660
+Showdown Reached
+Shows: Rolowees, 8h Ts
+Combination: Rolowees, Two Pair ( Ac Ah 8h 8d Qd )
+Shows: Cheerlinas, Ad 6d
+Combination: Cheerlinas, Three Of A Kind ( Ad Ac Ah Qd 8d )
+Wins: Rolowees, chips: 510
+Wins: Cheerlinas, chips: 1150
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Veevamu
+Small Blind: Cheerlinas, chips: 10
+Big Blind: Toeloel, chips: 20
+Folds: Ma
+Folds: Rolowees
+Raises: Veevamu, chips: 40
+Folds: Cheerlinas
+Folds: Toeloel
+Pot size: 90
+Wins: Veevamu, chips: 90
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheerlinas
+Small Blind: Toeloel, chips: 10
+Big Blind: Ma, chips: 20
+Folds: Rolowees
+Folds: Veevamu
+Folds: Cheerlinas
+Calls: Toeloel
+Checks: Ma
+Flop: 8d Ac As
+Checks: Toeloel
+Checks: Ma
+Turn: Qc
+Checks: Toeloel
+Checks: Ma
+River: Th
+Raises: Toeloel, chips: 20
+Folds: Ma
+Pot size: 60
+Wins: Toeloel, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Toeloel
+Small Blind: Ma, chips: 10
+Big Blind: Rolowees, chips: 20
+Folds: Veevamu
+Folds: Cheerlinas
+Folds: Toeloel
+Folds: Ma
+Pot size: 30
+Wins: Rolowees, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ma
+Small Blind: Rolowees, chips: 10
+Big Blind: Veevamu, chips: 20
+Folds: Cheerlinas
+Folds: Toeloel
+Folds: Ma
+Raises: Rolowees, chips: 60
+Folds: Veevamu
+Pot size: 100
+Wins: Rolowees, chips: 100
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Rolowees
+Small Blind: Veevamu, chips: 10
+Big Blind: Cheerlinas, chips: 20
+Raises: Toeloel, chips: 40
+Folds: Ma
+Calls: Rolowees
+Raises: Veevamu, chips: 920
+Folds: Cheerlinas
+Calls: Toeloel
+Calls: Rolowees
+Flop: 4d 4s Tc
+Turn: 4c
+River: 7h
+Pot size: 2730
+Showdown Reached
+Shows: Rolowees, Th Qh
+Combination: Rolowees, Full House ( 4d 4s 4c Th Tc )
+Shows: Veevamu, Ac Ad
+Combination: Veevamu, Full House ( 4d 4s 4c Ac Ad )
+Shows: Toeloel, Jc Jd
+Combination: Toeloel, Full House ( 4d 4s 4c Jc Jd )
+Wins: Veevamu, chips: 2730
+Quits: Toeloel, chips: 0
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Veevamu
+Small Blind: Cheerlinas, chips: 10
+Big Blind: Ma, chips: 20
+Calls: Rolowees
+Calls: Veevamu
+Folds: Cheerlinas
+Raises: Ma, chips: 20
+Raises: Rolowees, chips: 80
+Folds: Veevamu
+Folds: Ma
+Pot size: 190
+Wins: Rolowees, chips: 190
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheerlinas
+Small Blind: Ma, chips: 10
+Big Blind: Rolowees, chips: 20
+Calls: Veevamu
+Calls: Cheerlinas
+Calls: Ma
+Raises: Rolowees, chips: 20
+Raises: Veevamu, chips: 40
+Folds: Cheerlinas
+Calls: Ma
+Raises: Rolowees, chips: 80
+Folds: Veevamu
+Folds: Ma
+Pot size: 340
+Wins: Rolowees, chips: 340
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ma
+Small Blind: Rolowees, chips: 10
+Big Blind: Veevamu, chips: 20
+Folds: Cheerlinas
+Calls: Ma
+Raises: Rolowees, chips: 30
+Raises: Veevamu, chips: 2580
+Folds: Ma
+Folds: Rolowees
+Pot size: 2700
+Wins: Veevamu, chips: 2700
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Rolowees
+Small Blind: Veevamu, chips: 10
+Big Blind: Cheerlinas, chips: 20
+Folds: Ma
+Calls: Rolowees
+Folds: Veevamu
+Raises: Cheerlinas, chips: 20
+Calls: Rolowees
+Flop: 6d 2d 6h
+Checks: Cheerlinas
+Raises: Rolowees, chips: 40
+Folds: Cheerlinas
+Pot size: 130
+Wins: Rolowees, chips: 130
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Veevamu
+Small Blind: Cheerlinas, chips: 10
+Big Blind: Ma, chips: 20
+Calls: Rolowees
+Folds: Veevamu
+Folds: Cheerlinas
+Checks: Ma
+Flop: 4d 2s Jd
+Checks: Ma
+Raises: Rolowees, chips: 40
+Folds: Ma
+Pot size: 90
+Wins: Rolowees, chips: 90
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheerlinas
+Small Blind: Ma, chips: 10
+Big Blind: Rolowees, chips: 20
+Folds: Veevamu
+Folds: Cheerlinas
+Calls: Ma
+Raises: Rolowees, chips: 20
+Calls: Ma
+Flop: Qc Ks 9d
+Checks: Ma
+Raises: Rolowees, chips: 40
+Calls: Ma
+Turn: 4c
+Checks: Ma
+Raises: Rolowees, chips: 40
+Folds: Ma
+Pot size: 200
+Wins: Rolowees, chips: 200
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ma
+Small Blind: Rolowees, chips: 10
+Big Blind: Veevamu, chips: 20
+Calls: Cheerlinas
+Calls: Ma
+Raises: Rolowees, chips: 90
+Folds: Veevamu
+Calls: Cheerlinas
+Folds: Ma
+Flop: Qs Kd 9s
+Raises: Rolowees, chips: 90
+Calls: Cheerlinas
+Turn: 6d
+Raises: Rolowees, chips: 180
+Folds: Cheerlinas
+Pot size: 620
+Wins: Rolowees, chips: 620
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Rolowees
+Small Blind: Veevamu, chips: 10
+Big Blind: Cheerlinas, chips: 20
+Folds: Ma
+Folds: Rolowees
+Folds: Veevamu
+Pot size: 30
+Wins: Cheerlinas, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Veevamu
+Small Blind: Cheerlinas, chips: 10
+Big Blind: Ma, chips: 20
+Folds: Rolowees
+Calls: Veevamu
+Folds: Cheerlinas
+Checks: Ma
+Flop: Qc Js 8h
+Checks: Ma
+Checks: Veevamu
+Turn: 8s
+Checks: Ma
+Checks: Veevamu
+River: 7c
+Checks: Ma
+Checks: Veevamu
+Pot size: 50
+Showdown Reached
+Shows: Ma, 5h Ad
+Combination: Ma, Pair ( 8h 8s Ad Qc Js )
+Shows: Veevamu, Tc Kc
+Combination: Veevamu, Pair ( 8h 8s Kc Qc Js )
+Wins: Ma, chips: 50
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheerlinas
+Small Blind: Ma, chips: 10
+Big Blind: Rolowees, chips: 20
+Raises: Veevamu, chips: 20
+Folds: Cheerlinas
+Folds: Ma
+Raises: Rolowees, chips: 80
+Calls: Veevamu
+Flop: 3c Kd 2s
+Raises: Rolowees, chips: 160
+Calls: Veevamu
+Turn: 2d
+Raises: Rolowees, chips: 480
+Calls: Veevamu
+River: Ad
+Raises: Rolowees, chips: 480
+Folds: Veevamu
+Pot size: 2010
+Wins: Rolowees, chips: 2010
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ma
+Small Blind: Rolowees, chips: 10
+Big Blind: Veevamu, chips: 20
+Folds: Cheerlinas
+Calls: Ma
+Raises: Rolowees, chips: 30
+Folds: Veevamu
+Folds: Ma
+Pot size: 90
+Wins: Rolowees, chips: 90
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Rolowees
+Small Blind: Veevamu, chips: 10
+Big Blind: Cheerlinas, chips: 20
+Folds: Ma
+Calls: Rolowees
+Folds: Veevamu
+Checks: Cheerlinas
+Flop: 9h 5s 7d
+Checks: Cheerlinas
+Raises: Rolowees, chips: 40
+Folds: Cheerlinas
+Pot size: 90
+Wins: Rolowees, chips: 90
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Veevamu
+Small Blind: Cheerlinas, chips: 10
+Big Blind: Ma, chips: 20
+Folds: Rolowees
+Folds: Veevamu
+Calls: Cheerlinas
+Raises: Ma, chips: 20
+Folds: Cheerlinas
+Pot size: 60
+Wins: Ma, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheerlinas
+Small Blind: Ma, chips: 10
+Big Blind: Rolowees, chips: 20
+Folds: Veevamu
+Calls: Cheerlinas
+Raises: Ma, chips: 30
+Raises: Rolowees, chips: 180
+Folds: Cheerlinas
+Folds: Ma
+Pot size: 300
+Wins: Rolowees, chips: 300
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ma
+Small Blind: Rolowees, chips: 10
+Big Blind: Veevamu, chips: 20
+Folds: Cheerlinas
+Folds: Ma
+Raises: Rolowees, chips: 30
+Folds: Veevamu
+Pot size: 70
+Wins: Rolowees, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Rolowees
+Small Blind: Veevamu, chips: 10
+Big Blind: Cheerlinas, chips: 20
+Calls: Ma
+Calls: Rolowees
+Calls: Veevamu
+Checks: Cheerlinas
+Flop: 8s 7c 3c
+Checks: Veevamu
+Checks: Cheerlinas
+Checks: Ma
+Checks: Rolowees
+Turn: Kh
+Checks: Veevamu
+Checks: Cheerlinas
+Raises: Ma, chips: 20
+Calls: Rolowees
+Folds: Veevamu
+Calls: Cheerlinas
+River: 9s
+Checks: Cheerlinas
+Checks: Ma
+Raises: Rolowees, chips: 60
+Folds: Cheerlinas
+Folds: Ma
+Pot size: 200
+Wins: Rolowees, chips: 200
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Veevamu
+Small Blind: Cheerlinas, chips: 10
+Big Blind: Ma, chips: 20
+Folds: Rolowees
+Calls: Veevamu
+Folds: Cheerlinas
+Checks: Ma
+Flop: 6c 3c 7h
+Checks: Ma
+Checks: Veevamu
+Turn: 9s
+Raises: Ma, chips: 20
+Calls: Veevamu
+River: Th
+Checks: Ma
+Raises: Veevamu, chips: 20
+Folds: Ma
+Pot size: 110
+Wins: Veevamu, chips: 110
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheerlinas
+Small Blind: Ma, chips: 10
+Big Blind: Rolowees, chips: 20
+Folds: Veevamu
+Folds: Cheerlinas
+Folds: Ma
+Pot size: 30
+Wins: Rolowees, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ma
+Small Blind: Rolowees, chips: 10
+Big Blind: Veevamu, chips: 20
+Calls: Cheerlinas
+Folds: Ma
+Raises: Rolowees, chips: 30
+Folds: Veevamu
+Folds: Cheerlinas
+Pot size: 90
+Wins: Rolowees, chips: 90
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Rolowees
+Small Blind: Veevamu, chips: 10
+Big Blind: Cheerlinas, chips: 20
+Folds: Ma
+Calls: Rolowees
+Folds: Veevamu
+Checks: Cheerlinas
+Flop: Qs Ts 5c
+Checks: Cheerlinas
+Raises: Rolowees, chips: 20
+Calls: Cheerlinas
+Turn: Jc
+Raises: Cheerlinas, chips: 20
+Calls: Rolowees
+River: 4c
+Checks: Cheerlinas
+Checks: Rolowees
+Pot size: 130
+Showdown Reached
+Shows: Rolowees, 8d Kh
+Combination: Rolowees, High Card ( Kh Qs Jc Ts 8d )
+Shows: Cheerlinas, 5d 9d
+Combination: Cheerlinas, Pair ( 5d 5c Qs Jc Ts )
+Wins: Cheerlinas, chips: 130
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Veevamu
+Small Blind: Cheerlinas, chips: 10
+Big Blind: Ma, chips: 20
+Folds: Rolowees
+Folds: Veevamu
+Folds: Cheerlinas
+Pot size: 30
+Wins: Ma, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheerlinas
+Small Blind: Ma, chips: 10
+Big Blind: Rolowees, chips: 20
+Folds: Veevamu
+Calls: Cheerlinas
+Calls: Ma
+Raises: Rolowees, chips: 20
+Calls: Cheerlinas
+Raises: Ma, chips: 20
+Raises: Rolowees, chips: 120
+Folds: Cheerlinas
+Raises: Ma, chips: 20
+Raises: Rolowees, chips: 140
+Flop: Kc 3c 5s
+Turn: Js
+River: 8h
+Pot size: 580
+Showdown Reached
+Shows: Ma, Ks Ah
+Combination: Ma, Pair ( Ks Kc Ah Js 8h )
+Shows: Rolowees, 2s As
+Combination: Rolowees, High Card ( As Kc Js 8h 5s )
+Wins: Ma, chips: 440
+Wins: Rolowees, chips: 140
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ma
+Small Blind: Rolowees, chips: 10
+Big Blind: Veevamu, chips: 20
+Calls: Cheerlinas
+Calls: Ma
+Raises: Rolowees, chips: 30
+Folds: Veevamu
+Raises: Cheerlinas, chips: 30
+Folds: Ma
+Raises: Rolowees, chips: 180
+Raises: Cheerlinas, chips: 440
+Raises: Rolowees, chips: 880
+Calls: Cheerlinas
+Flop: Qs 8h 6c
+Turn: 3d
+River: 6d
+Pot size: 2350
+Showdown Reached
+Shows: Rolowees, 2d Ad
+Combination: Rolowees, Pair ( 6c 6d Ad Qs 8h )
+Shows: Cheerlinas, As Kd
+Combination: Cheerlinas, Pair ( 6c 6d As Kd Qs )
+Wins: Rolowees, chips: 850
+Wins: Cheerlinas, chips: 1500
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Rolowees
+Small Blind: Veevamu, chips: 10
+Big Blind: Cheerlinas, chips: 20
+Raises: Ma, chips: 400
+Folds: Rolowees
+Folds: Veevamu
+Folds: Cheerlinas
+Pot size: 450
+Wins: Ma, chips: 450
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Veevamu
+Small Blind: Cheerlinas, chips: 10
+Big Blind: Ma, chips: 20
+Folds: Rolowees
+Folds: Veevamu
+Folds: Cheerlinas
+Pot size: 30
+Wins: Ma, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheerlinas
+Small Blind: Ma, chips: 10
+Big Blind: Rolowees, chips: 20
+Folds: Veevamu
+Folds: Cheerlinas
+Raises: Ma, chips: 440
+Raises: Rolowees, chips: 460
+Flop: 3h 5s 2c
+Turn: 4s
+River: 7c
+Pot size: 1380
+Showdown Reached
+Shows: Ma, Jc As
+Combination: Ma, Straight ( 5s 4s 3h 2c As )
+Shows: Rolowees, 8s 8c
+Combination: Rolowees, Pair ( 8s 8c 7c 5s 4s )
+Wins: Ma, chips: 920
+Wins: Rolowees, chips: 460
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ma
+Small Blind: Rolowees, chips: 10
+Big Blind: Veevamu, chips: 20
+Calls: Cheerlinas
+Folds: Ma
+Calls: Rolowees
+Checks: Veevamu
+Flop: 4s 5d Qc
+Raises: Rolowees, chips: 60
+Calls: Veevamu
+Folds: Cheerlinas
+Turn: 8h
+Raises: Rolowees, chips: 120
+Calls: Veevamu
+River: 4d
+Raises: Rolowees, chips: 240
+Calls: Veevamu
+Pot size: 900
+Showdown Reached
+Shows: Rolowees, Qh 2h
+Combination: Rolowees, Two Pair ( Qh Qc 4s 4d 8h )
+Shows: Veevamu, 5h 6s
+Combination: Veevamu, Two Pair ( 5h 5d 4s 4d Qc )
+Wins: Rolowees, chips: 900
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Rolowees
+Small Blind: Veevamu, chips: 10
+Big Blind: Cheerlinas, chips: 20
+Folds: Ma
+Calls: Rolowees
+Folds: Veevamu
+Checks: Cheerlinas
+Flop: 2s 9s 2c
+Raises: Cheerlinas, chips: 20
+Calls: Rolowees
+Turn: Jh
+Checks: Cheerlinas
+Raises: Rolowees, chips: 60
+Raises: Cheerlinas, chips: 1350
+Folds: Rolowees
+Pot size: 1560
+Wins: Cheerlinas, chips: 1560
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Veevamu
+Small Blind: Cheerlinas, chips: 10
+Big Blind: Ma, chips: 20
+Folds: Rolowees
+Folds: Veevamu
+Calls: Cheerlinas
+Raises: Ma, chips: 20
+Calls: Cheerlinas
+Flop: Qd Kh 9d
+Raises: Cheerlinas, chips: 1520
+Folds: Ma
+Pot size: 1600
+Wins: Cheerlinas, chips: 1600
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheerlinas
+Small Blind: Ma, chips: 10
+Big Blind: Rolowees, chips: 20
+Raises: Veevamu, chips: 40
+Folds: Cheerlinas
+Folds: Ma
+Calls: Rolowees
+Flop: 6d Js 2h
+Raises: Rolowees, chips: 80
+Raises: Veevamu, chips: 120
+Calls: Rolowees
+Turn: 9c
+Raises: Rolowees, chips: 240
+Raises: Veevamu, chips: 300
+Calls: Rolowees
+River: 4d
+Raises: Rolowees, chips: 300
+Raises: Veevamu, chips: 250
+Calls: Rolowees
+Pot size: 2710
+Showdown Reached
+Shows: Rolowees, 7d Qs
+Combination: Rolowees, High Card ( Qs Js 9c 7d 6d )
+Shows: Veevamu, Jh Jc
+Combination: Veevamu, Three Of A Kind ( Jh Jc Js 9c 6d )
+Wins: Veevamu, chips: 2710
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ma
+Small Blind: Rolowees, chips: 10
+Big Blind: Veevamu, chips: 20
+Folds: Cheerlinas
+Folds: Ma
+Raises: Rolowees, chips: 90
+Folds: Veevamu
+Pot size: 130
+Wins: Rolowees, chips: 130
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Rolowees
+Small Blind: Veevamu, chips: 10
+Big Blind: Cheerlinas, chips: 20
+Folds: Ma
+Calls: Rolowees
+Calls: Veevamu
+Checks: Cheerlinas
+Flop: Tc 9d Ah
+Checks: Veevamu
+Checks: Cheerlinas
+Raises: Rolowees, chips: 20
+Raises: Veevamu, chips: 40
+Folds: Cheerlinas
+Raises: Rolowees, chips: 240
+Calls: Veevamu
+Turn: Td
+Checks: Veevamu
+Raises: Rolowees, chips: 720
+Folds: Veevamu
+Pot size: 1380
+Wins: Rolowees, chips: 1380
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Veevamu
+Small Blind: Cheerlinas, chips: 10
+Big Blind: Ma, chips: 20
+Folds: Rolowees
+Folds: Veevamu
+Folds: Cheerlinas
+Pot size: 30
+Wins: Ma, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheerlinas
+Small Blind: Ma, chips: 10
+Big Blind: Rolowees, chips: 20
+Folds: Veevamu
+Calls: Cheerlinas
+Folds: Ma
+Raises: Rolowees, chips: 40
+Calls: Cheerlinas
+Flop: 7h Td Js
+Raises: Rolowees, chips: 80
+Calls: Cheerlinas
+Turn: 5d
+Raises: Rolowees, chips: 80
+Calls: Cheerlinas
+River: 7s
+Raises: Rolowees, chips: 240
+Calls: Cheerlinas
+Pot size: 930
+Showdown Reached
+Shows: Rolowees, 6c 6d
+Combination: Rolowees, Two Pair ( 7h 7s 6c 6d Js )
+Shows: Cheerlinas, Ts Qh
+Combination: Cheerlinas, Two Pair ( Ts Td 7h 7s Qh )
+Wins: Cheerlinas, chips: 930
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ma
+Small Blind: Rolowees, chips: 10
+Big Blind: Veevamu, chips: 20
+Calls: Cheerlinas
+Folds: Ma
+Raises: Rolowees, chips: 90
+Folds: Veevamu
+Folds: Cheerlinas
+Pot size: 150
+Wins: Rolowees, chips: 150
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Rolowees
+Small Blind: Veevamu, chips: 10
+Big Blind: Cheerlinas, chips: 20
+Folds: Ma
+Calls: Rolowees
+Calls: Veevamu
+Raises: Cheerlinas, chips: 20
+Calls: Rolowees
+Calls: Veevamu
+Flop: Jd 3c Qc
+Raises: Veevamu, chips: 20
+Calls: Cheerlinas
+Calls: Rolowees
+Turn: Th
+Checks: Veevamu
+Checks: Cheerlinas
+Raises: Rolowees, chips: 20
+Folds: Veevamu
+Raises: Cheerlinas, chips: 1940
+Calls: Rolowees
+River: Tc
+Pot size: 4100
+Showdown Reached
+Shows: Rolowees, Td 6c
+Combination: Rolowees, Three Of A Kind ( Td Th Tc Qc Jd )
+Shows: Cheerlinas, Kc Ah
+Combination: Cheerlinas, Straight ( Ah Kc Qc Jd Th )
+Wins: Cheerlinas, chips: 4100
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Veevamu
+Small Blind: Cheerlinas, chips: 10
+Big Blind: Ma, chips: 20
+Folds: Rolowees
+Folds: Veevamu
+Folds: Cheerlinas
+Pot size: 30
+Wins: Ma, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheerlinas
+Small Blind: Ma, chips: 10
+Big Blind: Rolowees, chips: 20
+Folds: Veevamu
+Folds: Cheerlinas
+Calls: Ma
+Raises: Rolowees, chips: 20
+Raises: Ma, chips: 40
+Raises: Rolowees, chips: 80
+Raises: Ma, chips: 120
+Raises: Rolowees, chips: 720
+Calls: Ma
+Flop: 5s 3d 9h
+Turn: 3s
+River: Ac
+Pot size: 1880
+Showdown Reached
+Shows: Ma, Kd Ad
+Combination: Ma, Two Pair ( Ad Ac 3d 3s Kd )
+Shows: Rolowees, 9d Ks
+Combination: Rolowees, Two Pair ( 9d 9h 3d 3s Ac )
+Wins: Ma, chips: 1760
+Wins: Rolowees, chips: 120
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ma
+Small Blind: Rolowees, chips: 10
+Big Blind: Veevamu, chips: 20
+Calls: Cheerlinas
+Calls: Ma
+Calls: Rolowees
+Raises: Veevamu, chips: 20
+Folds: Cheerlinas
+Calls: Ma
+Calls: Rolowees
+Flop: Qd 5d 3h
+Checks: Rolowees
+Raises: Veevamu, chips: 20
+Folds: Ma
+Raises: Rolowees, chips: 40
+Calls: Veevamu
+Turn: 6h
+Raises: Rolowees, chips: 40
+Calls: Veevamu
+River: 9h
+Checks: Rolowees
+Checks: Veevamu
+Pot size: 340
+Showdown Reached
+Shows: Rolowees, Ts 2c
+Combination: Rolowees, High Card ( Qd Ts 9h 6h 5d )
+Shows: Veevamu, Jd Ad
+Combination: Veevamu, High Card ( Ad Qd Jd 9h 6h )
+Wins: Veevamu, chips: 340
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Rolowees
+Small Blind: Veevamu, chips: 10
+Big Blind: Cheerlinas, chips: 20
+Folds: Ma
+Folds: Rolowees
+Calls: Veevamu
+Checks: Cheerlinas
+Flop: 6c 3d 6s
+Checks: Veevamu
+Checks: Cheerlinas
+Turn: Kc
+Checks: Veevamu
+Raises: Cheerlinas, chips: 20
+Folds: Veevamu
+Pot size: 60
+Wins: Cheerlinas, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Veevamu
+Small Blind: Cheerlinas, chips: 10
+Big Blind: Ma, chips: 20
+Folds: Rolowees
+Folds: Veevamu
+Folds: Cheerlinas
+Pot size: 30
+Wins: Ma, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheerlinas
+Small Blind: Ma, chips: 10
+Big Blind: Rolowees, chips: 20
+Calls: Veevamu
+Folds: Cheerlinas
+Calls: Ma
+Raises: Rolowees, chips: 40
+Folds: Veevamu
+Calls: Ma
+Flop: Td 3d Qh
+Checks: Ma
+Raises: Rolowees, chips: 80
+Calls: Ma
+Turn: 8d
+Checks: Ma
+Raises: Rolowees, chips: 240
+Raises: Ma, chips: 660
+Calls: Rolowees
+River: 2s
+Pot size: 1780
+Showdown Reached
+Shows: Ma, Tc Jh
+Combination: Ma, Pair ( Tc Td Qh Jh 8d )
+Shows: Rolowees, 6h Qd
+Combination: Rolowees, Pair ( Qd Qh Td 8d 6h )
+Wins: Ma, chips: 320
+Wins: Rolowees, chips: 1460
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ma
+Small Blind: Rolowees, chips: 10
+Big Blind: Veevamu, chips: 20
+Folds: Cheerlinas
+Folds: Ma
+Raises: Rolowees, chips: 60
+Folds: Veevamu
+Pot size: 100
+Wins: Rolowees, chips: 100
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Rolowees
+Small Blind: Veevamu, chips: 10
+Big Blind: Cheerlinas, chips: 20
+Calls: Ma
+Raises: Rolowees, chips: 120
+Folds: Veevamu
+Folds: Cheerlinas
+Folds: Ma
+Pot size: 190
+Wins: Rolowees, chips: 190
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Veevamu
+Small Blind: Cheerlinas, chips: 10
+Big Blind: Ma, chips: 20
+Calls: Rolowees
+Folds: Veevamu
+Folds: Cheerlinas
+Checks: Ma
+Flop: 3s 6h 3c
+Checks: Ma
+Raises: Rolowees, chips: 20
+Calls: Ma
+Turn: Kd
+Checks: Ma
+Raises: Rolowees, chips: 40
+Calls: Ma
+River: Qc
+Checks: Ma
+Raises: Rolowees, chips: 80
+Calls: Ma
+Pot size: 330
+Showdown Reached
+Shows: Ma, 8d 6c
+Combination: Ma, Two Pair ( 6c 6h 3s 3c Kd )
+Shows: Rolowees, 4d Kc
+Combination: Rolowees, Two Pair ( Kc Kd 3s 3c Qc )
+Wins: Rolowees, chips: 330
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheerlinas
+Small Blind: Ma, chips: 10
+Big Blind: Rolowees, chips: 20
+Folds: Veevamu
+Calls: Cheerlinas
+Calls: Ma
+Raises: Rolowees, chips: 40
+Calls: Cheerlinas
+Folds: Ma
+Flop: Js 8d 9c
+Raises: Rolowees, chips: 40
+Folds: Cheerlinas
+Pot size: 180
+Wins: Rolowees, chips: 180
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ma
+Small Blind: Rolowees, chips: 10
+Big Blind: Veevamu, chips: 20
+Folds: Cheerlinas
+Calls: Ma
+Raises: Rolowees, chips: 30
+Folds: Veevamu
+Folds: Ma
+Pot size: 90
+Wins: Rolowees, chips: 90
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Rolowees
+Small Blind: Veevamu, chips: 10
+Big Blind: Cheerlinas, chips: 20
+Folds: Ma
+Folds: Rolowees
+Calls: Veevamu
+Checks: Cheerlinas
+Flop: As Td 7d
+Checks: Veevamu
+Checks: Cheerlinas
+Turn: Ks
+Checks: Veevamu
+Raises: Cheerlinas, chips: 3970
+Folds: Veevamu
+Pot size: 4010
+Wins: Cheerlinas, chips: 4010
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Veevamu
+Small Blind: Cheerlinas, chips: 10
+Big Blind: Ma, chips: 20
+Folds: Rolowees
+Folds: Veevamu
+Calls: Cheerlinas
+Checks: Ma
+Flop: 8h 5d Kd
+Checks: Cheerlinas
+Checks: Ma
+Turn: Tc
+Raises: Cheerlinas, chips: 3990
+Folds: Ma
+Pot size: 4030
+Wins: Cheerlinas, chips: 4030
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheerlinas
+Small Blind: Ma, chips: 10
+Big Blind: Rolowees, chips: 20
+Calls: Veevamu
+Folds: Cheerlinas
+Folds: Ma
+Raises: Rolowees, chips: 20
+Calls: Veevamu
+Flop: Ah 3h Td
+Raises: Rolowees, chips: 60
+Calls: Veevamu
+Turn: Jd
+Raises: Rolowees, chips: 120
+Raises: Veevamu, chips: 180
+Calls: Rolowees
+River: 5h
+Raises: Rolowees, chips: 180
+Calls: Veevamu
+Pot size: 1170
+Showdown Reached
+Shows: Rolowees, 8c 2h
+Combination: Rolowees, High Card ( Ah Jd Td 8c 5h )
+Shows: Veevamu, 7d 7h
+Combination: Veevamu, Pair ( 7d 7h Ah Jd Td )
+Wins: Veevamu, chips: 1170
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ma
+Small Blind: Rolowees, chips: 10
+Big Blind: Veevamu, chips: 20
+Folds: Cheerlinas
+Folds: Ma
+Raises: Rolowees, chips: 60
+Calls: Veevamu
+Flop: Js Ac Jc
+Raises: Rolowees, chips: 180
+Calls: Veevamu
+Turn: 7s
+Raises: Rolowees, chips: 540
+Calls: Veevamu
+River: 5c
+Raises: Rolowees, chips: 440
+Folds: Veevamu
+Pot size: 2040
+Wins: Rolowees, chips: 2040
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Rolowees
+Small Blind: Veevamu, chips: 10
+Big Blind: Cheerlinas, chips: 20
+Folds: Ma
+Calls: Rolowees
+Calls: Veevamu
+Checks: Cheerlinas
+Flop: 4h Tc 3h
+Checks: Veevamu
+Checks: Cheerlinas
+Checks: Rolowees
+Turn: 6s
+Checks: Veevamu
+Checks: Cheerlinas
+Raises: Rolowees, chips: 20
+Folds: Veevamu
+Folds: Cheerlinas
+Pot size: 80
+Wins: Rolowees, chips: 80
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Veevamu
+Small Blind: Cheerlinas, chips: 10
+Big Blind: Ma, chips: 20
+Folds: Rolowees
+Folds: Veevamu
+Folds: Cheerlinas
+Pot size: 30
+Wins: Ma, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheerlinas
+Small Blind: Ma, chips: 10
+Big Blind: Rolowees, chips: 20
+Calls: Veevamu
+Folds: Cheerlinas
+Folds: Ma
+Raises: Rolowees, chips: 20
+Folds: Veevamu
+Pot size: 70
+Wins: Rolowees, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ma
+Small Blind: Rolowees, chips: 10
+Big Blind: Veevamu, chips: 20
+Calls: Cheerlinas
+Folds: Ma
+Calls: Rolowees
+Checks: Veevamu
+Flop: 2s 7s Jd
+Raises: Rolowees, chips: 60
+Folds: Veevamu
+Calls: Cheerlinas
+Turn: 2d
+Raises: Rolowees, chips: 60
+Folds: Cheerlinas
+Pot size: 240
+Wins: Rolowees, chips: 240
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Rolowees
+Small Blind: Veevamu, chips: 10
+Big Blind: Cheerlinas, chips: 20
+Calls: Ma
+Calls: Rolowees
+Folds: Veevamu
+Checks: Cheerlinas
+Flop: 6h 7s As
+Checks: Cheerlinas
+Checks: Ma
+Checks: Rolowees
+Turn: 8h
+Checks: Cheerlinas
+Checks: Ma
+Raises: Rolowees, chips: 60
+Folds: Cheerlinas
+Raises: Ma, chips: 100
+Calls: Rolowees
+River: Jd
+Checks: Ma
+Checks: Rolowees
+Pot size: 390
+Showdown Reached
+Shows: Ma, Th Qh
+Combination: Ma, High Card ( As Qh Jd Th 8h )
+Shows: Rolowees, 5d Kc
+Combination: Rolowees, High Card ( As Kc Jd 8h 7s )
+Wins: Rolowees, chips: 390
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Veevamu
+Small Blind: Cheerlinas, chips: 10
+Big Blind: Ma, chips: 20
+Calls: Rolowees
+Folds: Veevamu
+Calls: Cheerlinas
+Raises: Ma, chips: 20
+Raises: Rolowees, chips: 40
+Folds: Cheerlinas
+Calls: Ma
+Flop: 7c 7s 8s
+Checks: Ma
+Raises: Rolowees, chips: 40
+Folds: Ma
+Pot size: 220
+Wins: Rolowees, chips: 220
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheerlinas
+Small Blind: Ma, chips: 10
+Big Blind: Rolowees, chips: 20
+Folds: Veevamu
+Raises: Cheerlinas, chips: 40
+Folds: Ma
+Raises: Rolowees, chips: 160
+Raises: Cheerlinas, chips: 280
+Raises: Rolowees, chips: 1120
+Calls: Cheerlinas
+Flop: 7h 3s Ah
+Raises: Rolowees, chips: 900
+Folds: Cheerlinas
+Pot size: 4150
+Wins: Rolowees, chips: 4150
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ma
+Small Blind: Rolowees, chips: 10
+Big Blind: Veevamu, chips: 20
+Folds: Cheerlinas
+Folds: Ma
+Raises: Rolowees, chips: 30
+Folds: Veevamu
+Pot size: 70
+Wins: Rolowees, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Rolowees
+Small Blind: Veevamu, chips: 10
+Big Blind: Cheerlinas, chips: 20
+Calls: Ma
+Calls: Rolowees
+Calls: Veevamu
+Checks: Cheerlinas
+Flop: 8s Jc 3d
+Checks: Veevamu
+Checks: Cheerlinas
+Checks: Ma
+Raises: Rolowees, chips: 60
+Folds: Veevamu
+Folds: Cheerlinas
+Calls: Ma
+Turn: Kc
+Checks: Ma
+Raises: Rolowees, chips: 180
+Folds: Ma
+Pot size: 380
+Wins: Rolowees, chips: 380
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Veevamu
+Small Blind: Cheerlinas, chips: 10
+Big Blind: Ma, chips: 20
+Calls: Rolowees
+Folds: Veevamu
+Folds: Cheerlinas
+Checks: Ma
+Flop: 3h 7h Js
+Checks: Ma
+Raises: Rolowees, chips: 40
+Calls: Ma
+Turn: Ad
+Checks: Ma
+Raises: Rolowees, chips: 40
+Folds: Ma
+Pot size: 170
+Wins: Rolowees, chips: 170
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheerlinas
+Small Blind: Ma, chips: 10
+Big Blind: Rolowees, chips: 20
+Folds: Veevamu
+Folds: Cheerlinas
+Calls: Ma
+Raises: Rolowees, chips: 40
+Calls: Ma
+Flop: Js 9h 7h
+Checks: Ma
+Checks: Rolowees
+Turn: 7d
+Raises: Ma, chips: 60
+Calls: Rolowees
+River: Th
+Checks: Ma
+Raises: Rolowees, chips: 60
+Folds: Ma
+Pot size: 300
+Wins: Rolowees, chips: 300
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ma
+Small Blind: Rolowees, chips: 10
+Big Blind: Veevamu, chips: 20
+Calls: Cheerlinas
+Folds: Ma
+Calls: Rolowees
+Checks: Veevamu
+Flop: 2d Ah 4h
+Raises: Rolowees, chips: 20
+Folds: Veevamu
+Calls: Cheerlinas
+Turn: Kh
+Raises: Rolowees, chips: 40
+Raises: Cheerlinas, chips: 2150
+Calls: Rolowees
+River: Qs
+Pot size: 4480
+Showdown Reached
+Shows: Rolowees, 2s Jd
+Combination: Rolowees, Pair ( 2s 2d Ah Kh Qs )
+Shows: Cheerlinas, Th 7h
+Combination: Cheerlinas, Flush ( Ah Kh Th 7h 4h )
+Wins: Cheerlinas, chips: 4480
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Rolowees
+Small Blind: Veevamu, chips: 10
+Big Blind: Cheerlinas, chips: 20
+Folds: Ma
+Calls: Rolowees
+Folds: Veevamu
+Checks: Cheerlinas
+Flop: 5h 7d 6d
+Checks: Cheerlinas
+Checks: Rolowees
+Turn: 5c
+Checks: Cheerlinas
+Raises: Rolowees, chips: 40
+Folds: Cheerlinas
+Pot size: 90
+Wins: Rolowees, chips: 90
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Veevamu
+Small Blind: Cheerlinas, chips: 10
+Big Blind: Ma, chips: 20
+Folds: Rolowees
+Calls: Veevamu
+Calls: Cheerlinas
+Checks: Ma
+Flop: Qh 7s 6d
+Checks: Cheerlinas
+Checks: Ma
+Checks: Veevamu
+Turn: Th
+Checks: Cheerlinas
+Checks: Ma
+Checks: Veevamu
+River: 8h
+Checks: Cheerlinas
+Checks: Ma
+Checks: Veevamu
+Pot size: 60
+Showdown Reached
+Shows: Ma, Ks 2d
+Combination: Ma, High Card ( Ks Qh Th 8h 7s )
+Shows: Veevamu, Qd 9d
+Combination: Veevamu, Straight ( Th 9d 8h 7s 6d )
+Shows: Cheerlinas, 3s As
+Combination: Cheerlinas, High Card ( As Qh Th 8h 7s )
+Wins: Veevamu, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheerlinas
+Small Blind: Ma, chips: 10
+Big Blind: Rolowees, chips: 20
+Folds: Veevamu
+Folds: Cheerlinas
+Calls: Ma
+Raises: Rolowees, chips: 40
+Calls: Ma
+Flop: 4d 8d 5d
+Checks: Ma
+Raises: Rolowees, chips: 120
+Folds: Ma
+Pot size: 240
+Wins: Rolowees, chips: 240
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ma
+Small Blind: Rolowees, chips: 10
+Big Blind: Veevamu, chips: 20
+Folds: Cheerlinas
+Folds: Ma
+Raises: Rolowees, chips: 30
+Folds: Veevamu
+Pot size: 70
+Wins: Rolowees, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Rolowees
+Small Blind: Veevamu, chips: 10
+Big Blind: Cheerlinas, chips: 20
+Raises: Ma, chips: 20
+Calls: Rolowees
+Calls: Veevamu
+Folds: Cheerlinas
+Flop: 9s 4h Th
+Checks: Veevamu
+Checks: Ma
+Checks: Rolowees
+Turn: Js
+Checks: Veevamu
+Checks: Ma
+Raises: Rolowees, chips: 60
+Raises: Veevamu, chips: 80
+Folds: Ma
+Calls: Rolowees
+River: 3h
+Checks: Veevamu
+Checks: Rolowees
+Pot size: 420
+Showdown Reached
+Shows: Rolowees, 7s 5s
+Combination: Rolowees, High Card ( Js Th 9s 7s 5s )
+Shows: Veevamu, Jd Ac
+Combination: Veevamu, Pair ( Jd Js Ac Th 9s )
+Wins: Veevamu, chips: 420
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Veevamu
+Small Blind: Cheerlinas, chips: 10
+Big Blind: Ma, chips: 20
+Calls: Rolowees
+Calls: Veevamu
+Folds: Cheerlinas
+Checks: Ma
+Flop: 3s Kh 6c
+Checks: Ma
+Raises: Rolowees, chips: 20
+Calls: Veevamu
+Folds: Ma
+Turn: Tc
+Raises: Rolowees, chips: 60
+Raises: Veevamu, chips: 100
+Calls: Rolowees
+River: 6d
+Raises: Rolowees, chips: 300
+Raises: Veevamu, chips: 580
+Folds: Rolowees
+Pot size: 1610
+Wins: Veevamu, chips: 1610
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheerlinas
+Small Blind: Ma, chips: 10
+Big Blind: Rolowees, chips: 20
+Folds: Veevamu
+Folds: Cheerlinas
+Folds: Ma
+Pot size: 30
+Wins: Rolowees, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ma
+Small Blind: Rolowees, chips: 10
+Big Blind: Veevamu, chips: 20
+Folds: Cheerlinas
+Calls: Ma
+Calls: Rolowees
+Checks: Veevamu
+Flop: Kh Ac 6c
+Raises: Rolowees, chips: 40
+Folds: Veevamu
+Calls: Ma
+Turn: Td
+Raises: Rolowees, chips: 80
+Calls: Ma
+River: Kc
+Pot size: 240
+Showdown Reached
+Shows: Ma, As Qh
+Combination: Ma, Two Pair ( As Ac Kh Kc Qh )
+Shows: Rolowees, 2c 6s
+Combination: Rolowees, Two Pair ( Kh Kc 6s 6c Ac )
+Wins: Ma, chips: 180
+Wins: Rolowees, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Rolowees
+Small Blind: Veevamu, chips: 10
+Big Blind: Cheerlinas, chips: 20
+Folds: Ma
+Calls: Rolowees
+Calls: Veevamu
+Checks: Cheerlinas
+Flop: Qc 3d 8d
+Checks: Veevamu
+Checks: Cheerlinas
+Checks: Rolowees
+Turn: 3c
+Checks: Veevamu
+Checks: Cheerlinas
+Checks: Rolowees
+River: Ac
+Checks: Veevamu
+Checks: Cheerlinas
+Checks: Rolowees
+Pot size: 60
+Showdown Reached
+Shows: Rolowees, 5h 4d
+Combination: Rolowees, Pair ( 3d 3c Ac Qc 8d )
+Shows: Veevamu, Ts 9c
+Combination: Veevamu, Pair ( 3d 3c Ac Qc Ts )
+Shows: Cheerlinas, 4s Jc
+Combination: Cheerlinas, Pair ( 3d 3c Ac Qc Jc )
+Wins: Cheerlinas, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Veevamu
+Small Blind: Cheerlinas, chips: 10
+Big Blind: Ma, chips: 20
+Folds: Rolowees
+Raises: Veevamu, chips: 20
+Calls: Cheerlinas
+Folds: Ma
+Flop: Ad 4s Jd
+Checks: Cheerlinas
+Checks: Veevamu
+Turn: 2s
+Checks: Cheerlinas
+Checks: Veevamu
+River: 9h
+Checks: Cheerlinas
+Checks: Veevamu
+Pot size: 100
+Showdown Reached
+Shows: Veevamu, Jc 8c
+Combination: Veevamu, Pair ( Jc Jd Ad 9h 8c )
+Shows: Cheerlinas, Js Qc
+Combination: Cheerlinas, Pair ( Js Jd Ad Qc 9h )
+Wins: Cheerlinas, chips: 100
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheerlinas
+Small Blind: Ma, chips: 10
+Big Blind: Rolowees, chips: 20
+Calls: Veevamu
+Calls: Cheerlinas
+Folds: Ma
+Raises: Rolowees, chips: 20
+Calls: Veevamu
+Folds: Cheerlinas
+Flop: 3s Ad 9h
+Raises: Rolowees, chips: 20
+Raises: Veevamu, chips: 40
+Raises: Rolowees, chips: 160
+Raises: Veevamu, chips: 220
+Raises: Rolowees, chips: 880
+Raises: Veevamu, chips: 1380
+Calls: Rolowees
+Turn: 5d
+River: 8s
+Pot size: 4360
+Showdown Reached
+Shows: Rolowees, 8h 3d
+Combination: Rolowees, Two Pair ( 8h 8s 3d 3s Ad )
+Shows: Veevamu, Th Ah
+Combination: Veevamu, Pair ( Ah Ad Th 9h 8s )
+Wins: Rolowees, chips: 3210
+Wins: Veevamu, chips: 1150
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ma
+Small Blind: Rolowees, chips: 10
+Big Blind: Veevamu, chips: 20
+Folds: Cheerlinas
+Calls: Ma
+Calls: Rolowees
+Checks: Veevamu
+Flop: 2s Jc 2h
+Checks: Rolowees
+Checks: Veevamu
+Checks: Ma
+Turn: Qh
+Raises: Rolowees, chips: 60
+Folds: Veevamu
+Folds: Ma
+Pot size: 120
+Wins: Rolowees, chips: 120
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Rolowees
+Small Blind: Veevamu, chips: 10
+Big Blind: Cheerlinas, chips: 20
+Folds: Ma
+Calls: Rolowees
+Folds: Veevamu
+Checks: Cheerlinas
+Flop: 9s Td Ac
+Checks: Cheerlinas
+Raises: Rolowees, chips: 20
+Calls: Cheerlinas
+Turn: 7s
+Checks: Cheerlinas
+Raises: Rolowees, chips: 40
+Calls: Cheerlinas
+River: 5c
+Checks: Cheerlinas
+Raises: Rolowees, chips: 80
+Folds: Cheerlinas
+Pot size: 250
+Wins: Rolowees, chips: 250
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Veevamu
+Small Blind: Cheerlinas, chips: 10
+Big Blind: Ma, chips: 20
+Calls: Rolowees
+Calls: Veevamu
+Raises: Cheerlinas, chips: 30
+Folds: Ma
+Raises: Rolowees, chips: 60
+Folds: Veevamu
+Calls: Cheerlinas
+Flop: 9d Td Jh
+Checks: Cheerlinas
+Raises: Rolowees, chips: 180
+Calls: Cheerlinas
+Turn: 4c
+Checks: Cheerlinas
+Raises: Rolowees, chips: 180
+Raises: Cheerlinas, chips: 480
+Raises: Rolowees, chips: 960
+Folds: Cheerlinas
+Pot size: 2900
+Wins: Rolowees, chips: 2900
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheerlinas
+Small Blind: Ma, chips: 10
+Big Blind: Rolowees, chips: 20
+Folds: Veevamu
+Calls: Cheerlinas
+Calls: Ma
+Raises: Rolowees, chips: 60
+Raises: Cheerlinas, chips: 60
+Folds: Ma
+Raises: Rolowees, chips: 360
+Folds: Cheerlinas
+Pot size: 660
+Wins: Rolowees, chips: 660
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ma
+Small Blind: Rolowees, chips: 10
+Big Blind: Veevamu, chips: 20
+Folds: Cheerlinas
+Calls: Ma
+Raises: Rolowees, chips: 60
+Folds: Veevamu
+Calls: Ma
+Flop: Th Kd 2h
+Raises: Rolowees, chips: 120
+Folds: Ma
+Pot size: 300
+Wins: Rolowees, chips: 300
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Rolowees
+Small Blind: Veevamu, chips: 10
+Big Blind: Cheerlinas, chips: 20
+Calls: Ma
+Calls: Rolowees
+Calls: Veevamu
+Checks: Cheerlinas
+Flop: 5d 7d Ah
+Checks: Veevamu
+Checks: Cheerlinas
+Checks: Rolowees
+Turn: 5c
+Checks: Veevamu
+Checks: Cheerlinas
+Checks: Rolowees
+River: 3s
+Checks: Veevamu
+Checks: Cheerlinas
+Checks: Rolowees
+Pot size: 70
+Showdown Reached
+Shows: Ma, As 6s
+Combination: Ma, Two Pair ( As Ah 5d 5c 7d )
+Shows: Rolowees, Kc Js
+Combination: Rolowees, Pair ( 5d 5c Ah Kc Js )
+Shows: Veevamu, Kh 9s
+Combination: Veevamu, Pair ( 5d 5c Ah Kh 9s )
+Shows: Cheerlinas, 2s 2h
+Combination: Cheerlinas, Two Pair ( 5d 5c 2s 2h Ah )
+Wins: Ma, chips: 40
+Wins: Cheerlinas, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Veevamu
+Small Blind: Cheerlinas, chips: 10
+Big Blind: Ma, chips: 20
+Calls: Rolowees
+Calls: Veevamu
+Folds: Cheerlinas
+Checks: Ma
+Flop: Qh 7c 4h
+Checks: Ma
+Raises: Rolowees, chips: 20
+Folds: Veevamu
+Folds: Ma
+Pot size: 90
+Wins: Rolowees, chips: 90
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheerlinas
+Small Blind: Ma, chips: 10
+Big Blind: Rolowees, chips: 20
+Folds: Veevamu
+Folds: Cheerlinas
+Calls: Ma
+Raises: Rolowees, chips: 40
+Flop: 9c Td Tc
+Turn: 4d
+River: Jh
+Pot size: 80
+Showdown Reached
+Shows: Ma, 5c Ac
+Combination: Ma, Pair ( Td Tc Ac Jh 9c )
+Shows: Rolowees, Qc 2d
+Combination: Rolowees, Pair ( Td Tc Qc Jh 9c )
+Wins: Ma, chips: 40
+Wins: Rolowees, chips: 40
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ma
+Small Blind: Rolowees, chips: 10
+Big Blind: Veevamu, chips: 20
+Calls: Cheerlinas
+Calls: Ma
+Raises: Rolowees, chips: 30
+Folds: Veevamu
+Calls: Cheerlinas
+Calls: Ma
+Flop: Th Ah 6s
+Raises: Rolowees, chips: 60
+Calls: Cheerlinas
+Turn: 2h
+Raises: Rolowees, chips: 180
+Calls: Cheerlinas
+River: 4c
+Raises: Rolowees, chips: 540
+Raises: Cheerlinas, chips: 1600
+Raises: Rolowees, chips: 2170
+Calls: Cheerlinas
+Pot size: 7980
+Showdown Reached
+Shows: Ma, Jd Qd
+Combination: Ma, High Card ( Ah Qd Jd Th 6s )
+Shows: Rolowees, 9d As
+Combination: Rolowees, Pair ( As Ah Th 9d 6s )
+Shows: Cheerlinas, Ad 4d
+Combination: Cheerlinas, Two Pair ( Ad Ah 4d 4c Th )
+Wins: Rolowees, chips: 1280
+Wins: Cheerlinas, chips: 6700
+Quits: Ma, chips: 0
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Rolowees
+Small Blind: Veevamu, chips: 10
+Big Blind: Cheerlinas, chips: 20
+Folds: Rolowees
+Folds: Veevamu
+Pot size: 30
+Wins: Cheerlinas, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Veevamu
+Small Blind: Cheerlinas, chips: 10
+Big Blind: Rolowees, chips: 20
+Calls: Veevamu
+Folds: Cheerlinas
+Raises: Rolowees, chips: 20
+Calls: Veevamu
+Flop: Kd 9c 5h
+Raises: Rolowees, chips: 40
+Raises: Veevamu, chips: 100
+Calls: Rolowees
+Turn: 3h
+Raises: Rolowees, chips: 100
+Calls: Veevamu
+River: 7d
+Raises: Rolowees, chips: 100
+Folds: Veevamu
+Pot size: 670
+Wins: Rolowees, chips: 670
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheerlinas
+Small Blind: Rolowees, chips: 10
+Big Blind: Veevamu, chips: 20
+Calls: Cheerlinas
+Raises: Rolowees, chips: 60
+Folds: Veevamu
+Folds: Cheerlinas
+Pot size: 120
+Wins: Rolowees, chips: 120
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Rolowees
+Small Blind: Veevamu, chips: 10
+Big Blind: Cheerlinas, chips: 20
+Folds: Rolowees
+Folds: Veevamu
+Pot size: 30
+Wins: Cheerlinas, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Veevamu
+Small Blind: Cheerlinas, chips: 10
+Big Blind: Rolowees, chips: 20
+Folds: Veevamu
+Folds: Cheerlinas
+Pot size: 30
+Wins: Rolowees, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheerlinas
+Small Blind: Rolowees, chips: 10
+Big Blind: Veevamu, chips: 20
+Raises: Cheerlinas, chips: 20
+Calls: Rolowees
+Folds: Veevamu
+Flop: Td Qh 9s
+Raises: Rolowees, chips: 20
+Raises: Cheerlinas, chips: 6620
+Calls: Rolowees
+Turn: As
+River: 2s
+Pot size: 8320
+Showdown Reached
+Shows: Rolowees, Tc 7h
+Combination: Rolowees, Pair ( Tc Td As Qh 9s )
+Shows: Cheerlinas, Kc Jc
+Combination: Cheerlinas, Straight ( As Kc Qh Jc Td )
+Wins: Cheerlinas, chips: 8320
+Quits: Rolowees, chips: 0
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Veevamu
+Small Blind: Veevamu, chips: 10
+Big Blind: Cheerlinas, chips: 20
+Folds: Veevamu
+Pot size: 30
+Wins: Cheerlinas, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheerlinas
+Small Blind: Cheerlinas, chips: 10
+Big Blind: Veevamu, chips: 20
+Folds: Cheerlinas
+Pot size: 30
+Wins: Veevamu, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Veevamu
+Small Blind: Veevamu, chips: 10
+Big Blind: Cheerlinas, chips: 20
+Folds: Veevamu
+Pot size: 30
+Wins: Cheerlinas, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheerlinas
+Small Blind: Cheerlinas, chips: 10
+Big Blind: Veevamu, chips: 20
+Folds: Cheerlinas
+Pot size: 30
+Wins: Veevamu, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Veevamu
+Small Blind: Veevamu, chips: 10
+Big Blind: Cheerlinas, chips: 20
+Folds: Veevamu
+Pot size: 30
+Wins: Cheerlinas, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheerlinas
+Small Blind: Cheerlinas, chips: 10
+Big Blind: Veevamu, chips: 20
+Calls: Cheerlinas
+Checks: Veevamu
+Flop: Td 7d 9c
+Checks: Veevamu
+Checks: Cheerlinas
+Turn: 9h
+Checks: Veevamu
+Checks: Cheerlinas
+River: Jh
+Checks: Veevamu
+Checks: Cheerlinas
+Pot size: 40
+Showdown Reached
+Shows: Veevamu, Qc 9d
+Combination: Veevamu, Three Of A Kind ( 9d 9c 9h Qc Jh )
+Shows: Cheerlinas, 5d 8d
+Combination: Cheerlinas, Straight ( Jh Td 9c 8d 7d )
+Wins: Cheerlinas, chips: 40
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Veevamu
+Small Blind: Veevamu, chips: 10
+Big Blind: Cheerlinas, chips: 20
+Calls: Veevamu
+Checks: Cheerlinas
+Flop: 5c 2d Kh
+Checks: Cheerlinas
+Checks: Veevamu
+Turn: Kd
+Checks: Cheerlinas
+Raises: Veevamu, chips: 20
+Folds: Cheerlinas
+Pot size: 60
+Wins: Veevamu, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheerlinas
+Small Blind: Cheerlinas, chips: 10
+Big Blind: Veevamu, chips: 20
+Calls: Cheerlinas
+Checks: Veevamu
+Flop: 5s Js 2s
+Checks: Veevamu
+Checks: Cheerlinas
+Turn: 7h
+Checks: Veevamu
+Checks: Cheerlinas
+River: 2h
+Raises: Veevamu, chips: 650
+Calls: Cheerlinas
+Pot size: 1340
+Showdown Reached
+Shows: Veevamu, Ah Jh
+Combination: Veevamu, Two Pair ( Jh Js 2s 2h Ah )
+Shows: Cheerlinas, As 9c
+Combination: Cheerlinas, Pair ( 2s 2h As Js 9c )
+Wins: Veevamu, chips: 1340
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Veevamu
+Small Blind: Veevamu, chips: 10
+Big Blind: Cheerlinas, chips: 20
+Folds: Veevamu
+Pot size: 30
+Wins: Cheerlinas, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheerlinas
+Small Blind: Cheerlinas, chips: 10
+Big Blind: Veevamu, chips: 20
+Raises: Cheerlinas, chips: 30
+Folds: Veevamu
+Pot size: 70
+Wins: Cheerlinas, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Veevamu
+Small Blind: Veevamu, chips: 10
+Big Blind: Cheerlinas, chips: 20
+Folds: Veevamu
+Pot size: 30
+Wins: Cheerlinas, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheerlinas
+Small Blind: Cheerlinas, chips: 10
+Big Blind: Veevamu, chips: 20
+Calls: Cheerlinas
+Checks: Veevamu
+Flop: 8c 7d Kc
+Checks: Veevamu
+Checks: Cheerlinas
+Turn: 8h
+Checks: Veevamu
+Raises: Cheerlinas, chips: 20
+Folds: Veevamu
+Pot size: 60
+Wins: Cheerlinas, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Veevamu
+Small Blind: Veevamu, chips: 10
+Big Blind: Cheerlinas, chips: 20
+Calls: Veevamu
+Raises: Cheerlinas, chips: 20
+Calls: Veevamu
+Flop: 8h Js 9c
+Checks: Cheerlinas
+Checks: Veevamu
+Turn: Kd
+Checks: Cheerlinas
+Checks: Veevamu
+River: 3h
+Checks: Cheerlinas
+Checks: Veevamu
+Pot size: 80
+Showdown Reached
+Shows: Veevamu, Jd Ac
+Combination: Veevamu, Pair ( Jd Js Ac Kd 9c )
+Shows: Cheerlinas, Kc Ad
+Combination: Cheerlinas, Pair ( Kc Kd Ad Js 9c )
+Wins: Cheerlinas, chips: 80
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheerlinas
+Small Blind: Cheerlinas, chips: 10
+Big Blind: Veevamu, chips: 20
+Folds: Cheerlinas
+Pot size: 30
+Wins: Veevamu, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Veevamu
+Small Blind: Veevamu, chips: 10
+Big Blind: Cheerlinas, chips: 20
+Folds: Veevamu
+Pot size: 30
+Wins: Cheerlinas, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheerlinas
+Small Blind: Cheerlinas, chips: 10
+Big Blind: Veevamu, chips: 20
+Folds: Cheerlinas
+Pot size: 30
+Wins: Veevamu, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Veevamu
+Small Blind: Veevamu, chips: 10
+Big Blind: Cheerlinas, chips: 20
+Calls: Veevamu
+Checks: Cheerlinas
+Flop: Kd Ad 8s
+Checks: Cheerlinas
+Checks: Veevamu
+Turn: Jc
+Checks: Cheerlinas
+Raises: Veevamu, chips: 20
+Folds: Cheerlinas
+Pot size: 60
+Wins: Veevamu, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheerlinas
+Small Blind: Cheerlinas, chips: 10
+Big Blind: Veevamu, chips: 20
+Calls: Cheerlinas
+Checks: Veevamu
+Flop: 4d 2d 8h
+Checks: Veevamu
+Checks: Cheerlinas
+Turn: 3c
+Checks: Veevamu
+Checks: Cheerlinas
+River: Kh
+Raises: Veevamu, chips: 20
+Folds: Cheerlinas
+Pot size: 60
+Wins: Veevamu, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Veevamu
+Small Blind: Veevamu, chips: 10
+Big Blind: Cheerlinas, chips: 20
+Folds: Veevamu
+Pot size: 30
+Wins: Cheerlinas, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheerlinas
+Small Blind: Cheerlinas, chips: 10
+Big Blind: Veevamu, chips: 20
+Folds: Cheerlinas
+Pot size: 30
+Wins: Veevamu, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Veevamu
+Small Blind: Veevamu, chips: 10
+Big Blind: Cheerlinas, chips: 20
+Folds: Veevamu
+Pot size: 30
+Wins: Cheerlinas, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheerlinas
+Small Blind: Cheerlinas, chips: 10
+Big Blind: Veevamu, chips: 20
+Folds: Cheerlinas
+Pot size: 30
+Wins: Veevamu, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Veevamu
+Small Blind: Veevamu, chips: 10
+Big Blind: Cheerlinas, chips: 20
+Folds: Veevamu
+Pot size: 30
+Wins: Cheerlinas, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheerlinas
+Small Blind: Cheerlinas, chips: 10
+Big Blind: Veevamu, chips: 20
+Folds: Cheerlinas
+Pot size: 30
+Wins: Veevamu, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Veevamu
+Small Blind: Veevamu, chips: 10
+Big Blind: Cheerlinas, chips: 20
+Folds: Veevamu
+Pot size: 30
+Wins: Cheerlinas, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheerlinas
+Small Blind: Cheerlinas, chips: 10
+Big Blind: Veevamu, chips: 20
+Folds: Cheerlinas
+Pot size: 30
+Wins: Veevamu, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Veevamu
+Small Blind: Veevamu, chips: 10
+Big Blind: Cheerlinas, chips: 20
+Raises: Veevamu, chips: 30
+Folds: Cheerlinas
+Pot size: 70
+Wins: Veevamu, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheerlinas
+Small Blind: Cheerlinas, chips: 10
+Big Blind: Veevamu, chips: 20
+Calls: Cheerlinas
+Checks: Veevamu
+Flop: 3s Jh 6s
+Checks: Veevamu
+Checks: Cheerlinas
+Turn: Kd
+Raises: Veevamu, chips: 20
+Calls: Cheerlinas
+River: 9s
+Raises: Veevamu, chips: 20
+Calls: Cheerlinas
+Pot size: 120
+Showdown Reached
+Shows: Veevamu, 9h Jd
+Combination: Veevamu, Two Pair ( Jd Jh 9h 9s Kd )
+Shows: Cheerlinas, 5h 6c
+Combination: Cheerlinas, Pair ( 6c 6s Kd Jh 9s )
+Wins: Veevamu, chips: 120
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Veevamu
+Small Blind: Veevamu, chips: 10
+Big Blind: Cheerlinas, chips: 20
+Folds: Veevamu
+Pot size: 30
+Wins: Cheerlinas, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheerlinas
+Small Blind: Cheerlinas, chips: 10
+Big Blind: Veevamu, chips: 20
+Calls: Cheerlinas
+Checks: Veevamu
+Flop: 3h Ah 6h
+Checks: Veevamu
+Checks: Cheerlinas
+Turn: 3d
+Checks: Veevamu
+Checks: Cheerlinas
+River: 9h
+Checks: Veevamu
+Checks: Cheerlinas
+Pot size: 40
+Showdown Reached
+Shows: Veevamu, Js 2c
+Combination: Veevamu, Pair ( 3h 3d Ah Js 9h )
+Shows: Cheerlinas, 8s Jd
+Combination: Cheerlinas, Pair ( 3h 3d Ah Jd 9h )
+Wins: Veevamu, chips: 20
+Wins: Cheerlinas, chips: 20
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Veevamu
+Small Blind: Veevamu, chips: 10
+Big Blind: Cheerlinas, chips: 20
+Folds: Veevamu
+Pot size: 30
+Wins: Cheerlinas, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheerlinas
+Small Blind: Cheerlinas, chips: 10
+Big Blind: Veevamu, chips: 20
+Raises: Cheerlinas, chips: 30
+Folds: Veevamu
+Pot size: 70
+Wins: Cheerlinas, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Veevamu
+Small Blind: Veevamu, chips: 10
+Big Blind: Cheerlinas, chips: 20
+Folds: Veevamu
+Pot size: 30
+Wins: Cheerlinas, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheerlinas
+Small Blind: Cheerlinas, chips: 10
+Big Blind: Veevamu, chips: 20
+Folds: Cheerlinas
+Pot size: 30
+Wins: Veevamu, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Veevamu
+Small Blind: Veevamu, chips: 10
+Big Blind: Cheerlinas, chips: 20
+Folds: Veevamu
+Pot size: 30
+Wins: Cheerlinas, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheerlinas
+Small Blind: Cheerlinas, chips: 10
+Big Blind: Veevamu, chips: 20
+Folds: Cheerlinas
+Pot size: 30
+Wins: Veevamu, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Veevamu
+Small Blind: Veevamu, chips: 10
+Big Blind: Cheerlinas, chips: 20
+Calls: Veevamu
+Checks: Cheerlinas
+Flop: 8h 4h 2s
+Checks: Cheerlinas
+Checks: Veevamu
+Turn: Kc
+Checks: Cheerlinas
+Raises: Veevamu, chips: 20
+Folds: Cheerlinas
+Pot size: 60
+Wins: Veevamu, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheerlinas
+Small Blind: Cheerlinas, chips: 10
+Big Blind: Veevamu, chips: 20
+Raises: Cheerlinas, chips: 30
+Folds: Veevamu
+Pot size: 70
+Wins: Cheerlinas, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Veevamu
+Small Blind: Veevamu, chips: 10
+Big Blind: Cheerlinas, chips: 20
+Calls: Veevamu
+Checks: Cheerlinas
+Flop: 7s Kd Jd
+Checks: Cheerlinas
+Checks: Veevamu
+Turn: 2s
+Raises: Cheerlinas, chips: 20
+Calls: Veevamu
+River: 6c
+Checks: Cheerlinas
+Checks: Veevamu
+Pot size: 80
+Showdown Reached
+Shows: Veevamu, 5c 7c
+Combination: Veevamu, Pair ( 7c 7s Kd Jd 6c )
+Shows: Cheerlinas, Qd 9h
+Combination: Cheerlinas, High Card ( Kd Qd Jd 9h 7s )
+Wins: Veevamu, chips: 80
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheerlinas
+Small Blind: Cheerlinas, chips: 10
+Big Blind: Veevamu, chips: 20
+Folds: Cheerlinas
+Pot size: 30
+Wins: Veevamu, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Veevamu
+Small Blind: Veevamu, chips: 10
+Big Blind: Cheerlinas, chips: 20
+Calls: Veevamu
+Raises: Cheerlinas, chips: 20
+Calls: Veevamu
+Flop: Kc Qh 4d
+Checks: Cheerlinas
+Checks: Veevamu
+Turn: 7s
+Checks: Cheerlinas
+Checks: Veevamu
+River: 3h
+Checks: Cheerlinas
+Checks: Veevamu
+Pot size: 80
+Showdown Reached
+Shows: Veevamu, Th As
+Combination: Veevamu, High Card ( As Kc Qh Th 7s )
+Shows: Cheerlinas, Jh Ac
+Combination: Cheerlinas, High Card ( Ac Kc Qh Jh 7s )
+Wins: Cheerlinas, chips: 80
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheerlinas
+Small Blind: Cheerlinas, chips: 10
+Big Blind: Veevamu, chips: 20
+Folds: Cheerlinas
+Pot size: 30
+Wins: Veevamu, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Veevamu
+Small Blind: Veevamu, chips: 10
+Big Blind: Cheerlinas, chips: 20
+Folds: Veevamu
+Pot size: 30
+Wins: Cheerlinas, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheerlinas
+Small Blind: Cheerlinas, chips: 10
+Big Blind: Veevamu, chips: 20
+Folds: Cheerlinas
+Pot size: 30
+Wins: Veevamu, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Veevamu
+Small Blind: Veevamu, chips: 10
+Big Blind: Cheerlinas, chips: 20
+Calls: Veevamu
+Checks: Cheerlinas
+Flop: Jc Jh 4h
+Checks: Cheerlinas
+Checks: Veevamu
+Turn: 2d
+Raises: Cheerlinas, chips: 7630
+Calls: Veevamu
+River: 2h
+Pot size: 9000
+Showdown Reached
+Shows: Veevamu, 4c 4s
+Combination: Veevamu, Full House ( 4c 4s 4h Jc Jh )
+Shows: Cheerlinas, 8c Jd
+Combination: Cheerlinas, Full House ( Jd Jc Jh 2d 2h )
+Wins: Cheerlinas, chips: 9000
+Quits: Veevamu, chips: 0
+Ranking: Cheerlinas, Place: 1, Score: 8000
+Reveal AI: Cheerlinas, AI: Smart
+Ranking: Veevamu, Place: 2, Score: -1000
+Reveal AI: Veevamu, AI: Smart
+Ranking: Rolowees, Place: 3, Score: -1000
+Reveal AI: Rolowees, AI: Human
+Ranking: Ma, Place: 4, Score: -1000
+Reveal AI: Ma, AI: Smart
+Ranking: Toeloel, Place: 5, Score: -1000
+Reveal AI: Toeloel, AI: Smart
+Ranking: Vee, Place: 6, Score: -1000
+Reveal AI: Vee, AI: Random
+Ranking: Geepu, Place: 7, Score: -1000
+Reveal AI: Geepu, AI: Call
+Ranking: Feweenny, Place: 8, Score: -1000
+Reveal AI: Feweenny, AI: Call
+Ranking: Rubap, Place: 9, Score: -1000
+Reveal AI: Rubap, AI: Random
+
+Player Stats for Cheerlinas, AI: Smart
+General: deals: 150, actions: 289, preflop actions: 158
+Rounds Seen: flops: 49, turns: 41, rivers: 25, showdowns: 21
+Wins: total: 43, showdown: 16, bluff: 27
+Chips: won: 48790, lost: 42920, bought: 1000, forced bets: 1430
+Pre-Flop Stats: VP$IP: 0.3, PFR: 0.0933333, 3Bet: 0.06
+Post-Flop Stats: AF: 0.809524, WSD: 0.428571, WSDW: 0.761905
+
+
+Player Stats for Feweenny, AI: Call
+General: deals: 1, actions: 3, preflop actions: 3
+Rounds Seen: flops: 82, turns: 71, rivers: 50, showdowns: 40
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 20
+Pre-Flop Stats: VP$IP: 1, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 0.487805, WSDW: 0
+
+
+Player Stats for Geepu, AI: Call
+General: deals: 1, actions: 4, preflop actions: 4
+Rounds Seen: flops: 82, turns: 71, rivers: 50, showdowns: 40
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 0
+Pre-Flop Stats: VP$IP: 1, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 0.487805, WSDW: 0
+
+
+Player Stats for Ma, AI: Smart
+General: deals: 99, actions: 204, preflop actions: 123
+Rounds Seen: flops: 49, turns: 40, rivers: 28, showdowns: 21
+Wins: total: 17, showdown: 8, bluff: 9
+Chips: won: 4470, lost: 5670, bought: 1000, forced bets: 720
+Pre-Flop Stats: VP$IP: 0.40404, PFR: 0.10101, 3Bet: 0.0606061
+Post-Flop Stats: AF: 0.545455, WSD: 0.428571, WSDW: 0.380952
+
+
+Player Stats for Rolowees, AI: Human
+General: deals: 105, actions: 251, preflop actions: 122
+Rounds Seen: flops: 71, turns: 61, rivers: 43, showdowns: 35
+Wins: total: 66, showdown: 15, bluff: 51
+Chips: won: 39420, lost: 46950, bought: 1000, forced bets: 780
+Pre-Flop Stats: VP$IP: 0.733333, PFR: 0.419048, 3Bet: 0.295238
+Post-Flop Stats: AF: 5.05556, WSD: 0.492958, WSDW: 0.428571
+
+
+Player Stats for Rubap, AI: Random
+General: deals: 1, actions: 3, preflop actions: 3
+Rounds Seen: flops: 82, turns: 71, rivers: 50, showdowns: 40
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 10
+Pre-Flop Stats: VP$IP: 1, PFR: 1, 3Bet: 1
+Post-Flop Stats: AF: -1.#IND, WSD: 0.487805, WSDW: 0
+
+
+Player Stats for Toeloel, AI: Smart
+General: deals: 16, actions: 33, preflop actions: 20
+Rounds Seen: flops: 77, turns: 66, rivers: 46, showdowns: 36
+Wins: total: 2, showdown: 1, bluff: 1
+Chips: won: 200, lost: 1430, bought: 1000, forced bets: 90
+Pre-Flop Stats: VP$IP: 0.375, PFR: 0.0625, 3Bet: 0.0625
+Post-Flop Stats: AF: 2, WSD: 0.467532, WSDW: 0.0277778
+
+
+Player Stats for Vee, AI: Random
+General: deals: 5, actions: 11, preflop actions: 7
+Rounds Seen: flops: 79, turns: 68, rivers: 48, showdowns: 38
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1690, bought: 1000, forced bets: 10
+Pre-Flop Stats: VP$IP: 0.4, PFR: 0.2, 3Bet: 0.2
+Post-Flop Stats: AF: 0, WSD: 0.481013, WSDW: 0
+
+
+Player Stats for Veevamu, AI: Smart
+General: deals: 150, actions: 271, preflop actions: 151
+Rounds Seen: flops: 44, turns: 39, rivers: 28, showdowns: 21
+Wins: total: 34, showdown: 12, bluff: 22
+Chips: won: 15460, lost: 22760, bought: 1000, forced bets: 1440
+Pre-Flop Stats: VP$IP: 0.28, PFR: 0.06, 3Bet: 0.0533333
+Post-Flop Stats: AF: 1.22222, WSD: 0.477273, WSDW: 0.571429
+
+
+Date: 2026/04/30 09:55:31
+
+The game begins. The AI's of the players are: 
+Ma: Smart
+Rolowees: Human
+Veevamu: Smart
+Rubap: Random
+Feweenny: Call
+Cheerlinas: Smart
+Vee: Random
+Geepu: Call
+Toeloel: Smart
+
+Joins: Ma, chips: 1000
+Joins: Rolowees, chips: 1000
+Joins: Veevamu, chips: 1000
+Joins: Rubap, chips: 1000
+Joins: Feweenny, chips: 1000
+Joins: Cheerlinas, chips: 1000
+Joins: Vee, chips: 1000
+Joins: Geepu, chips: 1000
+Joins: Toeloel, chips: 1000
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Veevamu
+Small Blind: Rubap, chips: 10
+Big Blind: Feweenny, chips: 20
+Folds: Cheerlinas
+Folds: Vee
+Calls: Geepu
+Folds: Toeloel
+Calls: Ma
+Calls: Rolowees
+Folds: Veevamu
+Raises: Rubap, chips: 30
+Calls: Feweenny
+Calls: Geepu
+Calls: Ma
+Raises: Rolowees, chips: 180
+Raises: Rubap, chips: 360
+Calls: Feweenny
+Calls: Geepu
+Folds: Ma
+Raises: Rolowees, chips: 410
+Calls: Rubap
+Calls: Feweenny
+Calls: Geepu
+Flop: 8h Qd 7c
+Turn: Qs
+River: Ts
+Pot size: 4050
+Showdown Reached
+Shows: Rolowees, Ad 6c
+Combination: Rolowees, Pair ( Qd Qs Ad Ts 8h )
+Shows: Rubap, 3s 5c
+Combination: Rubap, Pair ( Qd Qs Ts 8h 7c )
+Shows: Feweenny, 9c 4h
+Combination: Feweenny, Pair ( Qd Qs Ts 9c 8h )
+Boasts: Vee, Kh 3h
+Shows: Geepu, Js 2s
+Combination: Geepu, Pair ( Qd Qs Js Ts 8h )
+Wins: Rolowees, chips: 4050
+Quits: Rubap, chips: 0
+Quits: Feweenny, chips: 0
+Quits: Geepu, chips: 0
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheerlinas
+Small Blind: Vee, chips: 10
+Big Blind: Toeloel, chips: 20
+Folds: Ma
+Folds: Rolowees
+Calls: Veevamu
+Calls: Cheerlinas
+Folds: Vee
+Checks: Toeloel
+Flop: Ac Jc Ts
+Checks: Toeloel
+Checks: Veevamu
+Checks: Cheerlinas
+Turn: 8s
+Checks: Toeloel
+Checks: Veevamu
+Raises: Cheerlinas, chips: 20
+Folds: Toeloel
+Calls: Veevamu
+River: 5d
+Checks: Veevamu
+Checks: Cheerlinas
+Pot size: 110
+Showdown Reached
+Shows: Veevamu, Th Jd
+Combination: Veevamu, Two Pair ( Jd Jc Th Ts Ac )
+Shows: Cheerlinas, Qd Td
+Combination: Cheerlinas, Pair ( Td Ts Ac Qd Jc )
+Wins: Veevamu, chips: 110
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Vee
+Small Blind: Toeloel, chips: 10
+Big Blind: Ma, chips: 20
+Folds: Rolowees
+Calls: Veevamu
+Calls: Cheerlinas
+Calls: Vee
+Calls: Toeloel
+Checks: Ma
+Flop: 5h Kc 8c
+Checks: Toeloel
+Checks: Ma
+Checks: Veevamu
+Checks: Cheerlinas
+Checks: Vee
+Turn: 7d
+Checks: Toeloel
+Checks: Ma
+Checks: Veevamu
+Checks: Cheerlinas
+Checks: Vee
+River: Ks
+Raises: Toeloel, chips: 20
+Folds: Ma
+Folds: Veevamu
+Folds: Cheerlinas
+Calls: Vee
+Pot size: 140
+Showdown Reached
+Shows: Vee, 2s Tc
+Combination: Vee, Pair ( Kc Ks Tc 8c 7d )
+Shows: Toeloel, 7s 7h
+Combination: Toeloel, Full House ( 7s 7h 7d Kc Ks )
+Wins: Toeloel, chips: 140
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Toeloel
+Small Blind: Ma, chips: 10
+Big Blind: Rolowees, chips: 20
+Calls: Veevamu
+Folds: Cheerlinas
+Folds: Vee
+Calls: Toeloel
+Calls: Ma
+Raises: Rolowees, chips: 60
+Folds: Veevamu
+Calls: Toeloel
+Folds: Ma
+Flop: Kd Jd 6d
+Raises: Rolowees, chips: 180
+Calls: Toeloel
+Turn: 7c
+Raises: Rolowees, chips: 540
+Folds: Toeloel
+Pot size: 1100
+Wins: Rolowees, chips: 1100
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ma
+Small Blind: Rolowees, chips: 10
+Big Blind: Veevamu, chips: 20
+Calls: Cheerlinas
+Calls: Vee
+Folds: Toeloel
+Calls: Ma
+Raises: Rolowees, chips: 60
+Folds: Veevamu
+Folds: Cheerlinas
+Raises: Vee, chips: 120
+Folds: Ma
+Raises: Rolowees, chips: 720
+Calls: Vee
+Flop: Ah Kh 3d
+Raises: Rolowees, chips: 720
+Calls: Vee
+Turn: 4h
+River: 8s
+Pot size: 2650
+Showdown Reached
+Shows: Rolowees, 8h Tc
+Combination: Rolowees, Pair ( 8h 8s Ah Kh Tc )
+Shows: Vee, 7h 4c
+Combination: Vee, Pair ( 4c 4h Ah Kh 8s )
+Wins: Rolowees, chips: 2650
+Quits: Vee, chips: 0
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Rolowees
+Small Blind: Veevamu, chips: 10
+Big Blind: Cheerlinas, chips: 20
+Calls: Toeloel
+Calls: Ma
+Calls: Rolowees
+Folds: Veevamu
+Raises: Cheerlinas, chips: 20
+Folds: Toeloel
+Calls: Ma
+Calls: Rolowees
+Flop: Js Ks Jd
+Checks: Cheerlinas
+Raises: Ma, chips: 20
+Raises: Rolowees, chips: 120
+Calls: Cheerlinas
+Calls: Ma
+Turn: 7s
+Checks: Cheerlinas
+Checks: Ma
+Raises: Rolowees, chips: 240
+Folds: Cheerlinas
+Folds: Ma
+Pot size: 810
+Wins: Rolowees, chips: 810
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Veevamu
+Small Blind: Cheerlinas, chips: 10
+Big Blind: Toeloel, chips: 20
+Calls: Ma
+Calls: Rolowees
+Folds: Veevamu
+Folds: Cheerlinas
+Checks: Toeloel
+Flop: Kd 6h 7c
+Checks: Toeloel
+Checks: Ma
+Raises: Rolowees, chips: 20
+Folds: Toeloel
+Folds: Ma
+Pot size: 90
+Wins: Rolowees, chips: 90
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheerlinas
+Small Blind: Toeloel, chips: 10
+Big Blind: Ma, chips: 20
+Folds: Rolowees
+Folds: Veevamu
+Folds: Cheerlinas
+Folds: Toeloel
+Pot size: 30
+Wins: Ma, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Toeloel
+Small Blind: Ma, chips: 10
+Big Blind: Rolowees, chips: 20
+Folds: Veevamu
+Calls: Cheerlinas
+Calls: Toeloel
+Calls: Ma
+Raises: Rolowees, chips: 60
+Folds: Cheerlinas
+Folds: Toeloel
+Folds: Ma
+Pot size: 140
+Wins: Rolowees, chips: 140
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ma
+Small Blind: Rolowees, chips: 10
+Big Blind: Veevamu, chips: 20
+Raises: Cheerlinas, chips: 40
+Folds: Toeloel
+Folds: Ma
+Calls: Rolowees
+Folds: Veevamu
+Flop: Td Ts Ac
+Raises: Rolowees, chips: 120
+Calls: Cheerlinas
+Turn: Qd
+Raises: Rolowees, chips: 360
+Folds: Cheerlinas
+Pot size: 740
+Wins: Rolowees, chips: 740
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Rolowees
+Small Blind: Veevamu, chips: 10
+Big Blind: Cheerlinas, chips: 20
+Folds: Toeloel
+Calls: Ma
+Calls: Rolowees
+Folds: Veevamu
+Checks: Cheerlinas
+Flop: 7c Ac Ah
+Checks: Cheerlinas
+Checks: Ma
+Raises: Rolowees, chips: 60
+Calls: Cheerlinas
+Calls: Ma
+Turn: 8d
+Raises: Cheerlinas, chips: 450
+Folds: Ma
+Raises: Rolowees, chips: 510
+River: Qd
+Pot size: 1660
+Showdown Reached
+Shows: Rolowees, 8h Ts
+Combination: Rolowees, Two Pair ( Ac Ah 8h 8d Qd )
+Shows: Cheerlinas, Ad 6d
+Combination: Cheerlinas, Three Of A Kind ( Ad Ac Ah Qd 8d )
+Wins: Rolowees, chips: 510
+Wins: Cheerlinas, chips: 1150
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Veevamu
+Small Blind: Cheerlinas, chips: 10
+Big Blind: Toeloel, chips: 20
+Folds: Ma
+Folds: Rolowees
+Raises: Veevamu, chips: 40
+Folds: Cheerlinas
+Folds: Toeloel
+Pot size: 90
+Wins: Veevamu, chips: 90
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheerlinas
+Small Blind: Toeloel, chips: 10
+Big Blind: Ma, chips: 20
+Folds: Rolowees
+Folds: Veevamu
+Folds: Cheerlinas
+Calls: Toeloel
+Checks: Ma
+Flop: 8d Ac As
+Checks: Toeloel
+Checks: Ma
+Turn: Qc
+Checks: Toeloel
+Checks: Ma
+River: Th
+Raises: Toeloel, chips: 20
+Folds: Ma
+Pot size: 60
+Wins: Toeloel, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Toeloel
+Small Blind: Ma, chips: 10
+Big Blind: Rolowees, chips: 20
+Folds: Veevamu
+Folds: Cheerlinas
+Folds: Toeloel
+Folds: Ma
+Pot size: 30
+Wins: Rolowees, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ma
+Small Blind: Rolowees, chips: 10
+Big Blind: Veevamu, chips: 20
+Folds: Cheerlinas
+Folds: Toeloel
+Folds: Ma
+Raises: Rolowees, chips: 60
+Folds: Veevamu
+Pot size: 100
+Wins: Rolowees, chips: 100
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Rolowees
+Small Blind: Veevamu, chips: 10
+Big Blind: Cheerlinas, chips: 20
+Raises: Toeloel, chips: 40
+Folds: Ma
+Calls: Rolowees
+Raises: Veevamu, chips: 920
+Folds: Cheerlinas
+Calls: Toeloel
+Calls: Rolowees
+Flop: 4d 4s Tc
+Turn: 4c
+River: 7h
+Pot size: 2730
+Showdown Reached
+Shows: Rolowees, Th Qh
+Combination: Rolowees, Full House ( 4d 4s 4c Th Tc )
+Shows: Veevamu, Ac Ad
+Combination: Veevamu, Full House ( 4d 4s 4c Ac Ad )
+Shows: Toeloel, Jc Jd
+Combination: Toeloel, Full House ( 4d 4s 4c Jc Jd )
+Wins: Veevamu, chips: 2730
+Quits: Toeloel, chips: 0
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Veevamu
+Small Blind: Cheerlinas, chips: 10
+Big Blind: Ma, chips: 20
+Calls: Rolowees
+Calls: Veevamu
+Folds: Cheerlinas
+Raises: Ma, chips: 20
+Raises: Rolowees, chips: 80
+Folds: Veevamu
+Folds: Ma
+Pot size: 190
+Wins: Rolowees, chips: 190
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheerlinas
+Small Blind: Ma, chips: 10
+Big Blind: Rolowees, chips: 20
+Calls: Veevamu
+Calls: Cheerlinas
+Calls: Ma
+Raises: Rolowees, chips: 20
+Raises: Veevamu, chips: 40
+Folds: Cheerlinas
+Calls: Ma
+Raises: Rolowees, chips: 80
+Folds: Veevamu
+Folds: Ma
+Pot size: 340
+Wins: Rolowees, chips: 340
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ma
+Small Blind: Rolowees, chips: 10
+Big Blind: Veevamu, chips: 20
+Folds: Cheerlinas
+Calls: Ma
+Raises: Rolowees, chips: 30
+Raises: Veevamu, chips: 2580
+Folds: Ma
+Folds: Rolowees
+Pot size: 2700
+Wins: Veevamu, chips: 2700
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Rolowees
+Small Blind: Veevamu, chips: 10
+Big Blind: Cheerlinas, chips: 20
+Folds: Ma
+Calls: Rolowees
+Folds: Veevamu
+Raises: Cheerlinas, chips: 20
+Calls: Rolowees
+Flop: 6d 2d 6h
+Checks: Cheerlinas
+Raises: Rolowees, chips: 40
+Folds: Cheerlinas
+Pot size: 130
+Wins: Rolowees, chips: 130
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Veevamu
+Small Blind: Cheerlinas, chips: 10
+Big Blind: Ma, chips: 20
+Calls: Rolowees
+Folds: Veevamu
+Folds: Cheerlinas
+Checks: Ma
+Flop: 4d 2s Jd
+Checks: Ma
+Raises: Rolowees, chips: 40
+Folds: Ma
+Pot size: 90
+Wins: Rolowees, chips: 90
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheerlinas
+Small Blind: Ma, chips: 10
+Big Blind: Rolowees, chips: 20
+Folds: Veevamu
+Folds: Cheerlinas
+Calls: Ma
+Raises: Rolowees, chips: 20
+Calls: Ma
+Flop: Qc Ks 9d
+Checks: Ma
+Raises: Rolowees, chips: 40
+Calls: Ma
+Turn: 4c
+Checks: Ma
+Raises: Rolowees, chips: 40
+Folds: Ma
+Pot size: 200
+Wins: Rolowees, chips: 200
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ma
+Small Blind: Rolowees, chips: 10
+Big Blind: Veevamu, chips: 20
+Calls: Cheerlinas
+Calls: Ma
+Raises: Rolowees, chips: 90
+Folds: Veevamu
+Calls: Cheerlinas
+Folds: Ma
+Flop: Qs Kd 9s
+Raises: Rolowees, chips: 90
+Calls: Cheerlinas
+Turn: 6d
+Raises: Rolowees, chips: 180
+Folds: Cheerlinas
+Pot size: 620
+Wins: Rolowees, chips: 620
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Rolowees
+Small Blind: Veevamu, chips: 10
+Big Blind: Cheerlinas, chips: 20
+Folds: Ma
+Folds: Rolowees
+Folds: Veevamu
+Pot size: 30
+Wins: Cheerlinas, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Veevamu
+Small Blind: Cheerlinas, chips: 10
+Big Blind: Ma, chips: 20
+Folds: Rolowees
+Calls: Veevamu
+Folds: Cheerlinas
+Checks: Ma
+Flop: Qc Js 8h
+Checks: Ma
+Checks: Veevamu
+Turn: 8s
+Checks: Ma
+Checks: Veevamu
+River: 7c
+Checks: Ma
+Checks: Veevamu
+Pot size: 50
+Showdown Reached
+Shows: Ma, 5h Ad
+Combination: Ma, Pair ( 8h 8s Ad Qc Js )
+Shows: Veevamu, Tc Kc
+Combination: Veevamu, Pair ( 8h 8s Kc Qc Js )
+Wins: Ma, chips: 50
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheerlinas
+Small Blind: Ma, chips: 10
+Big Blind: Rolowees, chips: 20
+Raises: Veevamu, chips: 20
+Folds: Cheerlinas
+Folds: Ma
+Raises: Rolowees, chips: 80
+Calls: Veevamu
+Flop: 3c Kd 2s
+Raises: Rolowees, chips: 160
+Calls: Veevamu
+Turn: 2d
+Raises: Rolowees, chips: 480
+Calls: Veevamu
+River: Ad
+Raises: Rolowees, chips: 480
+Folds: Veevamu
+Pot size: 2010
+Wins: Rolowees, chips: 2010
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ma
+Small Blind: Rolowees, chips: 10
+Big Blind: Veevamu, chips: 20
+Folds: Cheerlinas
+Calls: Ma
+Raises: Rolowees, chips: 30
+Folds: Veevamu
+Folds: Ma
+Pot size: 90
+Wins: Rolowees, chips: 90
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Rolowees
+Small Blind: Veevamu, chips: 10
+Big Blind: Cheerlinas, chips: 20
+Folds: Ma
+Calls: Rolowees
+Folds: Veevamu
+Checks: Cheerlinas
+Flop: 9h 5s 7d
+Checks: Cheerlinas
+Raises: Rolowees, chips: 40
+Folds: Cheerlinas
+Pot size: 90
+Wins: Rolowees, chips: 90
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Veevamu
+Small Blind: Cheerlinas, chips: 10
+Big Blind: Ma, chips: 20
+Folds: Rolowees
+Folds: Veevamu
+Calls: Cheerlinas
+Raises: Ma, chips: 20
+Folds: Cheerlinas
+Pot size: 60
+Wins: Ma, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheerlinas
+Small Blind: Ma, chips: 10
+Big Blind: Rolowees, chips: 20
+Folds: Veevamu
+Calls: Cheerlinas
+Raises: Ma, chips: 30
+Raises: Rolowees, chips: 180
+Folds: Cheerlinas
+Folds: Ma
+Pot size: 300
+Wins: Rolowees, chips: 300
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ma
+Small Blind: Rolowees, chips: 10
+Big Blind: Veevamu, chips: 20
+Folds: Cheerlinas
+Folds: Ma
+Raises: Rolowees, chips: 30
+Folds: Veevamu
+Pot size: 70
+Wins: Rolowees, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Rolowees
+Small Blind: Veevamu, chips: 10
+Big Blind: Cheerlinas, chips: 20
+Calls: Ma
+Calls: Rolowees
+Calls: Veevamu
+Checks: Cheerlinas
+Flop: 8s 7c 3c
+Checks: Veevamu
+Checks: Cheerlinas
+Checks: Ma
+Checks: Rolowees
+Turn: Kh
+Checks: Veevamu
+Checks: Cheerlinas
+Raises: Ma, chips: 20
+Calls: Rolowees
+Folds: Veevamu
+Calls: Cheerlinas
+River: 9s
+Checks: Cheerlinas
+Checks: Ma
+Raises: Rolowees, chips: 60
+Folds: Cheerlinas
+Folds: Ma
+Pot size: 200
+Wins: Rolowees, chips: 200
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Veevamu
+Small Blind: Cheerlinas, chips: 10
+Big Blind: Ma, chips: 20
+Folds: Rolowees
+Calls: Veevamu
+Folds: Cheerlinas
+Checks: Ma
+Flop: 6c 3c 7h
+Checks: Ma
+Checks: Veevamu
+Turn: 9s
+Raises: Ma, chips: 20
+Calls: Veevamu
+River: Th
+Checks: Ma
+Raises: Veevamu, chips: 20
+Folds: Ma
+Pot size: 110
+Wins: Veevamu, chips: 110
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheerlinas
+Small Blind: Ma, chips: 10
+Big Blind: Rolowees, chips: 20
+Folds: Veevamu
+Folds: Cheerlinas
+Folds: Ma
+Pot size: 30
+Wins: Rolowees, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ma
+Small Blind: Rolowees, chips: 10
+Big Blind: Veevamu, chips: 20
+Calls: Cheerlinas
+Folds: Ma
+Raises: Rolowees, chips: 30
+Folds: Veevamu
+Folds: Cheerlinas
+Pot size: 90
+Wins: Rolowees, chips: 90
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Rolowees
+Small Blind: Veevamu, chips: 10
+Big Blind: Cheerlinas, chips: 20
+Folds: Ma
+Calls: Rolowees
+Folds: Veevamu
+Checks: Cheerlinas
+Flop: Qs Ts 5c
+Checks: Cheerlinas
+Raises: Rolowees, chips: 20
+Calls: Cheerlinas
+Turn: Jc
+Raises: Cheerlinas, chips: 20
+Calls: Rolowees
+River: 4c
+Checks: Cheerlinas
+Checks: Rolowees
+Pot size: 130
+Showdown Reached
+Shows: Rolowees, 8d Kh
+Combination: Rolowees, High Card ( Kh Qs Jc Ts 8d )
+Shows: Cheerlinas, 5d 9d
+Combination: Cheerlinas, Pair ( 5d 5c Qs Jc Ts )
+Wins: Cheerlinas, chips: 130
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Veevamu
+Small Blind: Cheerlinas, chips: 10
+Big Blind: Ma, chips: 20
+Folds: Rolowees
+Folds: Veevamu
+Folds: Cheerlinas
+Pot size: 30
+Wins: Ma, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheerlinas
+Small Blind: Ma, chips: 10
+Big Blind: Rolowees, chips: 20
+Folds: Veevamu
+Calls: Cheerlinas
+Calls: Ma
+Raises: Rolowees, chips: 20
+Calls: Cheerlinas
+Raises: Ma, chips: 20
+Raises: Rolowees, chips: 120
+Folds: Cheerlinas
+Raises: Ma, chips: 20
+Raises: Rolowees, chips: 140
+Flop: Kc 3c 5s
+Turn: Js
+River: 8h
+Pot size: 580
+Showdown Reached
+Shows: Ma, Ks Ah
+Combination: Ma, Pair ( Ks Kc Ah Js 8h )
+Shows: Rolowees, 2s As
+Combination: Rolowees, High Card ( As Kc Js 8h 5s )
+Wins: Ma, chips: 440
+Wins: Rolowees, chips: 140
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ma
+Small Blind: Rolowees, chips: 10
+Big Blind: Veevamu, chips: 20
+Calls: Cheerlinas
+Calls: Ma
+Raises: Rolowees, chips: 30
+Folds: Veevamu
+Raises: Cheerlinas, chips: 30
+Folds: Ma
+Raises: Rolowees, chips: 180
+Raises: Cheerlinas, chips: 440
+Raises: Rolowees, chips: 880
+Calls: Cheerlinas
+Flop: Qs 8h 6c
+Turn: 3d
+River: 6d
+Pot size: 2350
+Showdown Reached
+Shows: Rolowees, 2d Ad
+Combination: Rolowees, Pair ( 6c 6d Ad Qs 8h )
+Shows: Cheerlinas, As Kd
+Combination: Cheerlinas, Pair ( 6c 6d As Kd Qs )
+Wins: Rolowees, chips: 850
+Wins: Cheerlinas, chips: 1500
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Rolowees
+Small Blind: Veevamu, chips: 10
+Big Blind: Cheerlinas, chips: 20
+Raises: Ma, chips: 400
+Folds: Rolowees
+Folds: Veevamu
+Folds: Cheerlinas
+Pot size: 450
+Wins: Ma, chips: 450
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Veevamu
+Small Blind: Cheerlinas, chips: 10
+Big Blind: Ma, chips: 20
+Folds: Rolowees
+Folds: Veevamu
+Folds: Cheerlinas
+Pot size: 30
+Wins: Ma, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheerlinas
+Small Blind: Ma, chips: 10
+Big Blind: Rolowees, chips: 20
+Folds: Veevamu
+Folds: Cheerlinas
+Raises: Ma, chips: 440
+Raises: Rolowees, chips: 460
+Flop: 3h 5s 2c
+Turn: 4s
+River: 7c
+Pot size: 1380
+Showdown Reached
+Shows: Ma, Jc As
+Combination: Ma, Straight ( 5s 4s 3h 2c As )
+Shows: Rolowees, 8s 8c
+Combination: Rolowees, Pair ( 8s 8c 7c 5s 4s )
+Wins: Ma, chips: 920
+Wins: Rolowees, chips: 460
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ma
+Small Blind: Rolowees, chips: 10
+Big Blind: Veevamu, chips: 20
+Calls: Cheerlinas
+Folds: Ma
+Calls: Rolowees
+Checks: Veevamu
+Flop: 4s 5d Qc
+Raises: Rolowees, chips: 60
+Calls: Veevamu
+Folds: Cheerlinas
+Turn: 8h
+Raises: Rolowees, chips: 120
+Calls: Veevamu
+River: 4d
+Raises: Rolowees, chips: 240
+Calls: Veevamu
+Pot size: 900
+Showdown Reached
+Shows: Rolowees, Qh 2h
+Combination: Rolowees, Two Pair ( Qh Qc 4s 4d 8h )
+Shows: Veevamu, 5h 6s
+Combination: Veevamu, Two Pair ( 5h 5d 4s 4d Qc )
+Wins: Rolowees, chips: 900
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Rolowees
+Small Blind: Veevamu, chips: 10
+Big Blind: Cheerlinas, chips: 20
+Folds: Ma
+Calls: Rolowees
+Folds: Veevamu
+Checks: Cheerlinas
+Flop: 2s 9s 2c
+Raises: Cheerlinas, chips: 20
+Calls: Rolowees
+Turn: Jh
+Checks: Cheerlinas
+Raises: Rolowees, chips: 60
+Raises: Cheerlinas, chips: 1350
+Folds: Rolowees
+Pot size: 1560
+Wins: Cheerlinas, chips: 1560
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Veevamu
+Small Blind: Cheerlinas, chips: 10
+Big Blind: Ma, chips: 20
+Folds: Rolowees
+Folds: Veevamu
+Calls: Cheerlinas
+Raises: Ma, chips: 20
+Calls: Cheerlinas
+Flop: Qd Kh 9d
+Raises: Cheerlinas, chips: 1520
+Folds: Ma
+Pot size: 1600
+Wins: Cheerlinas, chips: 1600
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheerlinas
+Small Blind: Ma, chips: 10
+Big Blind: Rolowees, chips: 20
+Raises: Veevamu, chips: 40
+Folds: Cheerlinas
+Folds: Ma
+Calls: Rolowees
+Flop: 6d Js 2h
+Raises: Rolowees, chips: 80
+Raises: Veevamu, chips: 120
+Calls: Rolowees
+Turn: 9c
+Raises: Rolowees, chips: 240
+Raises: Veevamu, chips: 300
+Calls: Rolowees
+River: 4d
+Raises: Rolowees, chips: 300
+Raises: Veevamu, chips: 250
+Calls: Rolowees
+Pot size: 2710
+Showdown Reached
+Shows: Rolowees, 7d Qs
+Combination: Rolowees, High Card ( Qs Js 9c 7d 6d )
+Shows: Veevamu, Jh Jc
+Combination: Veevamu, Three Of A Kind ( Jh Jc Js 9c 6d )
+Wins: Veevamu, chips: 2710
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ma
+Small Blind: Rolowees, chips: 10
+Big Blind: Veevamu, chips: 20
+Folds: Cheerlinas
+Folds: Ma
+Raises: Rolowees, chips: 90
+Folds: Veevamu
+Pot size: 130
+Wins: Rolowees, chips: 130
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Rolowees
+Small Blind: Veevamu, chips: 10
+Big Blind: Cheerlinas, chips: 20
+Folds: Ma
+Calls: Rolowees
+Calls: Veevamu
+Checks: Cheerlinas
+Flop: Tc 9d Ah
+Checks: Veevamu
+Checks: Cheerlinas
+Raises: Rolowees, chips: 20
+Raises: Veevamu, chips: 40
+Folds: Cheerlinas
+Raises: Rolowees, chips: 240
+Calls: Veevamu
+Turn: Td
+Checks: Veevamu
+Raises: Rolowees, chips: 720
+Folds: Veevamu
+Pot size: 1380
+Wins: Rolowees, chips: 1380
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Veevamu
+Small Blind: Cheerlinas, chips: 10
+Big Blind: Ma, chips: 20
+Folds: Rolowees
+Folds: Veevamu
+Folds: Cheerlinas
+Pot size: 30
+Wins: Ma, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheerlinas
+Small Blind: Ma, chips: 10
+Big Blind: Rolowees, chips: 20
+Folds: Veevamu
+Calls: Cheerlinas
+Folds: Ma
+Raises: Rolowees, chips: 40
+Calls: Cheerlinas
+Flop: 7h Td Js
+Raises: Rolowees, chips: 80
+Calls: Cheerlinas
+Turn: 5d
+Raises: Rolowees, chips: 80
+Calls: Cheerlinas
+River: 7s
+Raises: Rolowees, chips: 240
+Calls: Cheerlinas
+Pot size: 930
+Showdown Reached
+Shows: Rolowees, 6c 6d
+Combination: Rolowees, Two Pair ( 7h 7s 6c 6d Js )
+Shows: Cheerlinas, Ts Qh
+Combination: Cheerlinas, Two Pair ( Ts Td 7h 7s Qh )
+Wins: Cheerlinas, chips: 930
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ma
+Small Blind: Rolowees, chips: 10
+Big Blind: Veevamu, chips: 20
+Calls: Cheerlinas
+Folds: Ma
+Raises: Rolowees, chips: 90
+Folds: Veevamu
+Folds: Cheerlinas
+Pot size: 150
+Wins: Rolowees, chips: 150
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Rolowees
+Small Blind: Veevamu, chips: 10
+Big Blind: Cheerlinas, chips: 20
+Folds: Ma
+Calls: Rolowees
+Calls: Veevamu
+Raises: Cheerlinas, chips: 20
+Calls: Rolowees
+Calls: Veevamu
+Flop: Jd 3c Qc
+Raises: Veevamu, chips: 20
+Calls: Cheerlinas
+Calls: Rolowees
+Turn: Th
+Checks: Veevamu
+Checks: Cheerlinas
+Raises: Rolowees, chips: 20
+Folds: Veevamu
+Raises: Cheerlinas, chips: 1940
+Calls: Rolowees
+River: Tc
+Pot size: 4100
+Showdown Reached
+Shows: Rolowees, Td 6c
+Combination: Rolowees, Three Of A Kind ( Td Th Tc Qc Jd )
+Shows: Cheerlinas, Kc Ah
+Combination: Cheerlinas, Straight ( Ah Kc Qc Jd Th )
+Wins: Cheerlinas, chips: 4100
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Veevamu
+Small Blind: Cheerlinas, chips: 10
+Big Blind: Ma, chips: 20
+Folds: Rolowees
+Folds: Veevamu
+Folds: Cheerlinas
+Pot size: 30
+Wins: Ma, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheerlinas
+Small Blind: Ma, chips: 10
+Big Blind: Rolowees, chips: 20
+Folds: Veevamu
+Folds: Cheerlinas
+Calls: Ma
+Raises: Rolowees, chips: 20
+Raises: Ma, chips: 40
+Raises: Rolowees, chips: 80
+Raises: Ma, chips: 120
+Raises: Rolowees, chips: 720
+Calls: Ma
+Flop: 5s 3d 9h
+Turn: 3s
+River: Ac
+Pot size: 1880
+Showdown Reached
+Shows: Ma, Kd Ad
+Combination: Ma, Two Pair ( Ad Ac 3d 3s Kd )
+Shows: Rolowees, 9d Ks
+Combination: Rolowees, Two Pair ( 9d 9h 3d 3s Ac )
+Wins: Ma, chips: 1760
+Wins: Rolowees, chips: 120
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ma
+Small Blind: Rolowees, chips: 10
+Big Blind: Veevamu, chips: 20
+Calls: Cheerlinas
+Calls: Ma
+Calls: Rolowees
+Raises: Veevamu, chips: 20
+Folds: Cheerlinas
+Calls: Ma
+Calls: Rolowees
+Flop: Qd 5d 3h
+Checks: Rolowees
+Raises: Veevamu, chips: 20
+Folds: Ma
+Raises: Rolowees, chips: 40
+Calls: Veevamu
+Turn: 6h
+Raises: Rolowees, chips: 40
+Calls: Veevamu
+River: 9h
+Checks: Rolowees
+Checks: Veevamu
+Pot size: 340
+Showdown Reached
+Shows: Rolowees, Ts 2c
+Combination: Rolowees, High Card ( Qd Ts 9h 6h 5d )
+Shows: Veevamu, Jd Ad
+Combination: Veevamu, High Card ( Ad Qd Jd 9h 6h )
+Wins: Veevamu, chips: 340
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Rolowees
+Small Blind: Veevamu, chips: 10
+Big Blind: Cheerlinas, chips: 20
+Folds: Ma
+Folds: Rolowees
+Calls: Veevamu
+Checks: Cheerlinas
+Flop: 6c 3d 6s
+Checks: Veevamu
+Checks: Cheerlinas
+Turn: Kc
+Checks: Veevamu
+Raises: Cheerlinas, chips: 20
+Folds: Veevamu
+Pot size: 60
+Wins: Cheerlinas, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Veevamu
+Small Blind: Cheerlinas, chips: 10
+Big Blind: Ma, chips: 20
+Folds: Rolowees
+Folds: Veevamu
+Folds: Cheerlinas
+Pot size: 30
+Wins: Ma, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheerlinas
+Small Blind: Ma, chips: 10
+Big Blind: Rolowees, chips: 20
+Calls: Veevamu
+Folds: Cheerlinas
+Calls: Ma
+Raises: Rolowees, chips: 40
+Folds: Veevamu
+Calls: Ma
+Flop: Td 3d Qh
+Checks: Ma
+Raises: Rolowees, chips: 80
+Calls: Ma
+Turn: 8d
+Checks: Ma
+Raises: Rolowees, chips: 240
+Raises: Ma, chips: 660
+Calls: Rolowees
+River: 2s
+Pot size: 1780
+Showdown Reached
+Shows: Ma, Tc Jh
+Combination: Ma, Pair ( Tc Td Qh Jh 8d )
+Shows: Rolowees, 6h Qd
+Combination: Rolowees, Pair ( Qd Qh Td 8d 6h )
+Wins: Ma, chips: 320
+Wins: Rolowees, chips: 1460
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ma
+Small Blind: Rolowees, chips: 10
+Big Blind: Veevamu, chips: 20
+Folds: Cheerlinas
+Folds: Ma
+Raises: Rolowees, chips: 60
+Folds: Veevamu
+Pot size: 100
+Wins: Rolowees, chips: 100
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Rolowees
+Small Blind: Veevamu, chips: 10
+Big Blind: Cheerlinas, chips: 20
+Calls: Ma
+Raises: Rolowees, chips: 120
+Folds: Veevamu
+Folds: Cheerlinas
+Folds: Ma
+Pot size: 190
+Wins: Rolowees, chips: 190
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Veevamu
+Small Blind: Cheerlinas, chips: 10
+Big Blind: Ma, chips: 20
+Calls: Rolowees
+Folds: Veevamu
+Folds: Cheerlinas
+Checks: Ma
+Flop: 3s 6h 3c
+Checks: Ma
+Raises: Rolowees, chips: 20
+Calls: Ma
+Turn: Kd
+Checks: Ma
+Raises: Rolowees, chips: 40
+Calls: Ma
+River: Qc
+Checks: Ma
+Raises: Rolowees, chips: 80
+Calls: Ma
+Pot size: 330
+Showdown Reached
+Shows: Ma, 8d 6c
+Combination: Ma, Two Pair ( 6c 6h 3s 3c Kd )
+Shows: Rolowees, 4d Kc
+Combination: Rolowees, Two Pair ( Kc Kd 3s 3c Qc )
+Wins: Rolowees, chips: 330
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheerlinas
+Small Blind: Ma, chips: 10
+Big Blind: Rolowees, chips: 20
+Folds: Veevamu
+Calls: Cheerlinas
+Calls: Ma
+Raises: Rolowees, chips: 40
+Calls: Cheerlinas
+Folds: Ma
+Flop: Js 8d 9c
+Raises: Rolowees, chips: 40
+Folds: Cheerlinas
+Pot size: 180
+Wins: Rolowees, chips: 180
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ma
+Small Blind: Rolowees, chips: 10
+Big Blind: Veevamu, chips: 20
+Folds: Cheerlinas
+Calls: Ma
+Raises: Rolowees, chips: 30
+Folds: Veevamu
+Folds: Ma
+Pot size: 90
+Wins: Rolowees, chips: 90
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Rolowees
+Small Blind: Veevamu, chips: 10
+Big Blind: Cheerlinas, chips: 20
+Folds: Ma
+Folds: Rolowees
+Calls: Veevamu
+Checks: Cheerlinas
+Flop: As Td 7d
+Checks: Veevamu
+Checks: Cheerlinas
+Turn: Ks
+Checks: Veevamu
+Raises: Cheerlinas, chips: 3970
+Folds: Veevamu
+Pot size: 4010
+Wins: Cheerlinas, chips: 4010
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Veevamu
+Small Blind: Cheerlinas, chips: 10
+Big Blind: Ma, chips: 20
+Folds: Rolowees
+Folds: Veevamu
+Calls: Cheerlinas
+Checks: Ma
+Flop: 8h 5d Kd
+Checks: Cheerlinas
+Checks: Ma
+Turn: Tc
+Raises: Cheerlinas, chips: 3990
+Folds: Ma
+Pot size: 4030
+Wins: Cheerlinas, chips: 4030
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheerlinas
+Small Blind: Ma, chips: 10
+Big Blind: Rolowees, chips: 20
+Calls: Veevamu
+Folds: Cheerlinas
+Folds: Ma
+Raises: Rolowees, chips: 20
+Calls: Veevamu
+Flop: Ah 3h Td
+Raises: Rolowees, chips: 60
+Calls: Veevamu
+Turn: Jd
+Raises: Rolowees, chips: 120
+Raises: Veevamu, chips: 180
+Calls: Rolowees
+River: 5h
+Raises: Rolowees, chips: 180
+Calls: Veevamu
+Pot size: 1170
+Showdown Reached
+Shows: Rolowees, 8c 2h
+Combination: Rolowees, High Card ( Ah Jd Td 8c 5h )
+Shows: Veevamu, 7d 7h
+Combination: Veevamu, Pair ( 7d 7h Ah Jd Td )
+Wins: Veevamu, chips: 1170
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ma
+Small Blind: Rolowees, chips: 10
+Big Blind: Veevamu, chips: 20
+Folds: Cheerlinas
+Folds: Ma
+Raises: Rolowees, chips: 60
+Calls: Veevamu
+Flop: Js Ac Jc
+Raises: Rolowees, chips: 180
+Calls: Veevamu
+Turn: 7s
+Raises: Rolowees, chips: 540
+Calls: Veevamu
+River: 5c
+Raises: Rolowees, chips: 440
+Folds: Veevamu
+Pot size: 2040
+Wins: Rolowees, chips: 2040
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Rolowees
+Small Blind: Veevamu, chips: 10
+Big Blind: Cheerlinas, chips: 20
+Folds: Ma
+Calls: Rolowees
+Calls: Veevamu
+Checks: Cheerlinas
+Flop: 4h Tc 3h
+Checks: Veevamu
+Checks: Cheerlinas
+Checks: Rolowees
+Turn: 6s
+Checks: Veevamu
+Checks: Cheerlinas
+Raises: Rolowees, chips: 20
+Folds: Veevamu
+Folds: Cheerlinas
+Pot size: 80
+Wins: Rolowees, chips: 80
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Veevamu
+Small Blind: Cheerlinas, chips: 10
+Big Blind: Ma, chips: 20
+Folds: Rolowees
+Folds: Veevamu
+Folds: Cheerlinas
+Pot size: 30
+Wins: Ma, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheerlinas
+Small Blind: Ma, chips: 10
+Big Blind: Rolowees, chips: 20
+Calls: Veevamu
+Folds: Cheerlinas
+Folds: Ma
+Raises: Rolowees, chips: 20
+Folds: Veevamu
+Pot size: 70
+Wins: Rolowees, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ma
+Small Blind: Rolowees, chips: 10
+Big Blind: Veevamu, chips: 20
+Calls: Cheerlinas
+Folds: Ma
+Calls: Rolowees
+Checks: Veevamu
+Flop: 2s 7s Jd
+Raises: Rolowees, chips: 60
+Folds: Veevamu
+Calls: Cheerlinas
+Turn: 2d
+Raises: Rolowees, chips: 60
+Folds: Cheerlinas
+Pot size: 240
+Wins: Rolowees, chips: 240
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Rolowees
+Small Blind: Veevamu, chips: 10
+Big Blind: Cheerlinas, chips: 20
+Calls: Ma
+Calls: Rolowees
+Folds: Veevamu
+Checks: Cheerlinas
+Flop: 6h 7s As
+Checks: Cheerlinas
+Checks: Ma
+Checks: Rolowees
+Turn: 8h
+Checks: Cheerlinas
+Checks: Ma
+Raises: Rolowees, chips: 60
+Folds: Cheerlinas
+Raises: Ma, chips: 100
+Calls: Rolowees
+River: Jd
+Checks: Ma
+Checks: Rolowees
+Pot size: 390
+Showdown Reached
+Shows: Ma, Th Qh
+Combination: Ma, High Card ( As Qh Jd Th 8h )
+Shows: Rolowees, 5d Kc
+Combination: Rolowees, High Card ( As Kc Jd 8h 7s )
+Wins: Rolowees, chips: 390
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Veevamu
+Small Blind: Cheerlinas, chips: 10
+Big Blind: Ma, chips: 20
+Calls: Rolowees
+Folds: Veevamu
+Calls: Cheerlinas
+Raises: Ma, chips: 20
+Raises: Rolowees, chips: 40
+Folds: Cheerlinas
+Calls: Ma
+Flop: 7c 7s 8s
+Checks: Ma
+Raises: Rolowees, chips: 40
+Folds: Ma
+Pot size: 220
+Wins: Rolowees, chips: 220
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheerlinas
+Small Blind: Ma, chips: 10
+Big Blind: Rolowees, chips: 20
+Folds: Veevamu
+Raises: Cheerlinas, chips: 40
+Folds: Ma
+Raises: Rolowees, chips: 160
+Raises: Cheerlinas, chips: 280
+Raises: Rolowees, chips: 1120
+Calls: Cheerlinas
+Flop: 7h 3s Ah
+Raises: Rolowees, chips: 900
+Folds: Cheerlinas
+Pot size: 4150
+Wins: Rolowees, chips: 4150
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ma
+Small Blind: Rolowees, chips: 10
+Big Blind: Veevamu, chips: 20
+Folds: Cheerlinas
+Folds: Ma
+Raises: Rolowees, chips: 30
+Folds: Veevamu
+Pot size: 70
+Wins: Rolowees, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Rolowees
+Small Blind: Veevamu, chips: 10
+Big Blind: Cheerlinas, chips: 20
+Calls: Ma
+Calls: Rolowees
+Calls: Veevamu
+Checks: Cheerlinas
+Flop: 8s Jc 3d
+Checks: Veevamu
+Checks: Cheerlinas
+Checks: Ma
+Raises: Rolowees, chips: 60
+Folds: Veevamu
+Folds: Cheerlinas
+Calls: Ma
+Turn: Kc
+Checks: Ma
+Raises: Rolowees, chips: 180
+Folds: Ma
+Pot size: 380
+Wins: Rolowees, chips: 380
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Veevamu
+Small Blind: Cheerlinas, chips: 10
+Big Blind: Ma, chips: 20
+Calls: Rolowees
+Folds: Veevamu
+Folds: Cheerlinas
+Checks: Ma
+Flop: 3h 7h Js
+Checks: Ma
+Raises: Rolowees, chips: 40
+Calls: Ma
+Turn: Ad
+Checks: Ma
+Raises: Rolowees, chips: 40
+Folds: Ma
+Pot size: 170
+Wins: Rolowees, chips: 170
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheerlinas
+Small Blind: Ma, chips: 10
+Big Blind: Rolowees, chips: 20
+Folds: Veevamu
+Folds: Cheerlinas
+Calls: Ma
+Raises: Rolowees, chips: 40
+Calls: Ma
+Flop: Js 9h 7h
+Checks: Ma
+Checks: Rolowees
+Turn: 7d
+Raises: Ma, chips: 60
+Calls: Rolowees
+River: Th
+Checks: Ma
+Raises: Rolowees, chips: 60
+Folds: Ma
+Pot size: 300
+Wins: Rolowees, chips: 300
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ma
+Small Blind: Rolowees, chips: 10
+Big Blind: Veevamu, chips: 20
+Calls: Cheerlinas
+Folds: Ma
+Calls: Rolowees
+Checks: Veevamu
+Flop: 2d Ah 4h
+Raises: Rolowees, chips: 20
+Folds: Veevamu
+Calls: Cheerlinas
+Turn: Kh
+Raises: Rolowees, chips: 40
+Raises: Cheerlinas, chips: 2150
+Calls: Rolowees
+River: Qs
+Pot size: 4480
+Showdown Reached
+Shows: Rolowees, 2s Jd
+Combination: Rolowees, Pair ( 2s 2d Ah Kh Qs )
+Shows: Cheerlinas, Th 7h
+Combination: Cheerlinas, Flush ( Ah Kh Th 7h 4h )
+Wins: Cheerlinas, chips: 4480
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Rolowees
+Small Blind: Veevamu, chips: 10
+Big Blind: Cheerlinas, chips: 20
+Folds: Ma
+Calls: Rolowees
+Folds: Veevamu
+Checks: Cheerlinas
+Flop: 5h 7d 6d
+Checks: Cheerlinas
+Checks: Rolowees
+Turn: 5c
+Checks: Cheerlinas
+Raises: Rolowees, chips: 40
+Folds: Cheerlinas
+Pot size: 90
+Wins: Rolowees, chips: 90
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Veevamu
+Small Blind: Cheerlinas, chips: 10
+Big Blind: Ma, chips: 20
+Folds: Rolowees
+Calls: Veevamu
+Calls: Cheerlinas
+Checks: Ma
+Flop: Qh 7s 6d
+Checks: Cheerlinas
+Checks: Ma
+Checks: Veevamu
+Turn: Th
+Checks: Cheerlinas
+Checks: Ma
+Checks: Veevamu
+River: 8h
+Checks: Cheerlinas
+Checks: Ma
+Checks: Veevamu
+Pot size: 60
+Showdown Reached
+Shows: Ma, Ks 2d
+Combination: Ma, High Card ( Ks Qh Th 8h 7s )
+Shows: Veevamu, Qd 9d
+Combination: Veevamu, Straight ( Th 9d 8h 7s 6d )
+Shows: Cheerlinas, 3s As
+Combination: Cheerlinas, High Card ( As Qh Th 8h 7s )
+Wins: Veevamu, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheerlinas
+Small Blind: Ma, chips: 10
+Big Blind: Rolowees, chips: 20
+Folds: Veevamu
+Folds: Cheerlinas
+Calls: Ma
+Raises: Rolowees, chips: 40
+Calls: Ma
+Flop: 4d 8d 5d
+Checks: Ma
+Raises: Rolowees, chips: 120
+Folds: Ma
+Pot size: 240
+Wins: Rolowees, chips: 240
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ma
+Small Blind: Rolowees, chips: 10
+Big Blind: Veevamu, chips: 20
+Folds: Cheerlinas
+Folds: Ma
+Raises: Rolowees, chips: 30
+Folds: Veevamu
+Pot size: 70
+Wins: Rolowees, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Rolowees
+Small Blind: Veevamu, chips: 10
+Big Blind: Cheerlinas, chips: 20
+Raises: Ma, chips: 20
+Calls: Rolowees
+Calls: Veevamu
+Folds: Cheerlinas
+Flop: 9s 4h Th
+Checks: Veevamu
+Checks: Ma
+Checks: Rolowees
+Turn: Js
+Checks: Veevamu
+Checks: Ma
+Raises: Rolowees, chips: 60
+Raises: Veevamu, chips: 80
+Folds: Ma
+Calls: Rolowees
+River: 3h
+Checks: Veevamu
+Checks: Rolowees
+Pot size: 420
+Showdown Reached
+Shows: Rolowees, 7s 5s
+Combination: Rolowees, High Card ( Js Th 9s 7s 5s )
+Shows: Veevamu, Jd Ac
+Combination: Veevamu, Pair ( Jd Js Ac Th 9s )
+Wins: Veevamu, chips: 420
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Veevamu
+Small Blind: Cheerlinas, chips: 10
+Big Blind: Ma, chips: 20
+Calls: Rolowees
+Calls: Veevamu
+Folds: Cheerlinas
+Checks: Ma
+Flop: 3s Kh 6c
+Checks: Ma
+Raises: Rolowees, chips: 20
+Calls: Veevamu
+Folds: Ma
+Turn: Tc
+Raises: Rolowees, chips: 60
+Raises: Veevamu, chips: 100
+Calls: Rolowees
+River: 6d
+Raises: Rolowees, chips: 300
+Raises: Veevamu, chips: 580
+Folds: Rolowees
+Pot size: 1610
+Wins: Veevamu, chips: 1610
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheerlinas
+Small Blind: Ma, chips: 10
+Big Blind: Rolowees, chips: 20
+Folds: Veevamu
+Folds: Cheerlinas
+Folds: Ma
+Pot size: 30
+Wins: Rolowees, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ma
+Small Blind: Rolowees, chips: 10
+Big Blind: Veevamu, chips: 20
+Folds: Cheerlinas
+Calls: Ma
+Calls: Rolowees
+Checks: Veevamu
+Flop: Kh Ac 6c
+Raises: Rolowees, chips: 40
+Folds: Veevamu
+Calls: Ma
+Turn: Td
+Raises: Rolowees, chips: 80
+Calls: Ma
+River: Kc
+Pot size: 240
+Showdown Reached
+Shows: Ma, As Qh
+Combination: Ma, Two Pair ( As Ac Kh Kc Qh )
+Shows: Rolowees, 2c 6s
+Combination: Rolowees, Two Pair ( Kh Kc 6s 6c Ac )
+Wins: Ma, chips: 180
+Wins: Rolowees, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Rolowees
+Small Blind: Veevamu, chips: 10
+Big Blind: Cheerlinas, chips: 20
+Folds: Ma
+Calls: Rolowees
+Calls: Veevamu
+Checks: Cheerlinas
+Flop: Qc 3d 8d
+Checks: Veevamu
+Checks: Cheerlinas
+Checks: Rolowees
+Turn: 3c
+Checks: Veevamu
+Checks: Cheerlinas
+Checks: Rolowees
+River: Ac
+Checks: Veevamu
+Checks: Cheerlinas
+Checks: Rolowees
+Pot size: 60
+Showdown Reached
+Shows: Rolowees, 5h 4d
+Combination: Rolowees, Pair ( 3d 3c Ac Qc 8d )
+Shows: Veevamu, Ts 9c
+Combination: Veevamu, Pair ( 3d 3c Ac Qc Ts )
+Shows: Cheerlinas, 4s Jc
+Combination: Cheerlinas, Pair ( 3d 3c Ac Qc Jc )
+Wins: Cheerlinas, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Veevamu
+Small Blind: Cheerlinas, chips: 10
+Big Blind: Ma, chips: 20
+Folds: Rolowees
+Raises: Veevamu, chips: 20
+Calls: Cheerlinas
+Folds: Ma
+Flop: Ad 4s Jd
+Checks: Cheerlinas
+Checks: Veevamu
+Turn: 2s
+Checks: Cheerlinas
+Checks: Veevamu
+River: 9h
+Checks: Cheerlinas
+Checks: Veevamu
+Pot size: 100
+Showdown Reached
+Shows: Veevamu, Jc 8c
+Combination: Veevamu, Pair ( Jc Jd Ad 9h 8c )
+Shows: Cheerlinas, Js Qc
+Combination: Cheerlinas, Pair ( Js Jd Ad Qc 9h )
+Wins: Cheerlinas, chips: 100
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheerlinas
+Small Blind: Ma, chips: 10
+Big Blind: Rolowees, chips: 20
+Calls: Veevamu
+Calls: Cheerlinas
+Folds: Ma
+Raises: Rolowees, chips: 20
+Calls: Veevamu
+Folds: Cheerlinas
+Flop: 3s Ad 9h
+Raises: Rolowees, chips: 20
+Raises: Veevamu, chips: 40
+Raises: Rolowees, chips: 160
+Raises: Veevamu, chips: 220
+Raises: Rolowees, chips: 880
+Raises: Veevamu, chips: 1380
+Calls: Rolowees
+Turn: 5d
+River: 8s
+Pot size: 4360
+Showdown Reached
+Shows: Rolowees, 8h 3d
+Combination: Rolowees, Two Pair ( 8h 8s 3d 3s Ad )
+Shows: Veevamu, Th Ah
+Combination: Veevamu, Pair ( Ah Ad Th 9h 8s )
+Wins: Rolowees, chips: 3210
+Wins: Veevamu, chips: 1150
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ma
+Small Blind: Rolowees, chips: 10
+Big Blind: Veevamu, chips: 20
+Folds: Cheerlinas
+Calls: Ma
+Calls: Rolowees
+Checks: Veevamu
+Flop: 2s Jc 2h
+Checks: Rolowees
+Checks: Veevamu
+Checks: Ma
+Turn: Qh
+Raises: Rolowees, chips: 60
+Folds: Veevamu
+Folds: Ma
+Pot size: 120
+Wins: Rolowees, chips: 120
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Rolowees
+Small Blind: Veevamu, chips: 10
+Big Blind: Cheerlinas, chips: 20
+Folds: Ma
+Calls: Rolowees
+Folds: Veevamu
+Checks: Cheerlinas
+Flop: 9s Td Ac
+Checks: Cheerlinas
+Raises: Rolowees, chips: 20
+Calls: Cheerlinas
+Turn: 7s
+Checks: Cheerlinas
+Raises: Rolowees, chips: 40
+Calls: Cheerlinas
+River: 5c
+Checks: Cheerlinas
+Raises: Rolowees, chips: 80
+Folds: Cheerlinas
+Pot size: 250
+Wins: Rolowees, chips: 250
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Veevamu
+Small Blind: Cheerlinas, chips: 10
+Big Blind: Ma, chips: 20
+Calls: Rolowees
+Calls: Veevamu
+Raises: Cheerlinas, chips: 30
+Folds: Ma
+Raises: Rolowees, chips: 60
+Folds: Veevamu
+Calls: Cheerlinas
+Flop: 9d Td Jh
+Checks: Cheerlinas
+Raises: Rolowees, chips: 180
+Calls: Cheerlinas
+Turn: 4c
+Checks: Cheerlinas
+Raises: Rolowees, chips: 180
+Raises: Cheerlinas, chips: 480
+Raises: Rolowees, chips: 960
+Folds: Cheerlinas
+Pot size: 2900
+Wins: Rolowees, chips: 2900
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheerlinas
+Small Blind: Ma, chips: 10
+Big Blind: Rolowees, chips: 20
+Folds: Veevamu
+Calls: Cheerlinas
+Calls: Ma
+Raises: Rolowees, chips: 60
+Raises: Cheerlinas, chips: 60
+Folds: Ma
+Raises: Rolowees, chips: 360
+Folds: Cheerlinas
+Pot size: 660
+Wins: Rolowees, chips: 660
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ma
+Small Blind: Rolowees, chips: 10
+Big Blind: Veevamu, chips: 20
+Folds: Cheerlinas
+Calls: Ma
+Raises: Rolowees, chips: 60
+Folds: Veevamu
+Calls: Ma
+Flop: Th Kd 2h
+Raises: Rolowees, chips: 120
+Folds: Ma
+Pot size: 300
+Wins: Rolowees, chips: 300
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Rolowees
+Small Blind: Veevamu, chips: 10
+Big Blind: Cheerlinas, chips: 20
+Calls: Ma
+Calls: Rolowees
+Calls: Veevamu
+Checks: Cheerlinas
+Flop: 5d 7d Ah
+Checks: Veevamu
+Checks: Cheerlinas
+Checks: Rolowees
+Turn: 5c
+Checks: Veevamu
+Checks: Cheerlinas
+Checks: Rolowees
+River: 3s
+Checks: Veevamu
+Checks: Cheerlinas
+Checks: Rolowees
+Pot size: 70
+Showdown Reached
+Shows: Ma, As 6s
+Combination: Ma, Two Pair ( As Ah 5d 5c 7d )
+Shows: Rolowees, Kc Js
+Combination: Rolowees, Pair ( 5d 5c Ah Kc Js )
+Shows: Veevamu, Kh 9s
+Combination: Veevamu, Pair ( 5d 5c Ah Kh 9s )
+Shows: Cheerlinas, 2s 2h
+Combination: Cheerlinas, Two Pair ( 5d 5c 2s 2h Ah )
+Wins: Ma, chips: 40
+Wins: Cheerlinas, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Veevamu
+Small Blind: Cheerlinas, chips: 10
+Big Blind: Ma, chips: 20
+Calls: Rolowees
+Calls: Veevamu
+Folds: Cheerlinas
+Checks: Ma
+Flop: Qh 7c 4h
+Checks: Ma
+Raises: Rolowees, chips: 20
+Folds: Veevamu
+Folds: Ma
+Pot size: 90
+Wins: Rolowees, chips: 90
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheerlinas
+Small Blind: Ma, chips: 10
+Big Blind: Rolowees, chips: 20
+Folds: Veevamu
+Folds: Cheerlinas
+Calls: Ma
+Raises: Rolowees, chips: 40
+Flop: 9c Td Tc
+Turn: 4d
+River: Jh
+Pot size: 80
+Showdown Reached
+Shows: Ma, 5c Ac
+Combination: Ma, Pair ( Td Tc Ac Jh 9c )
+Shows: Rolowees, Qc 2d
+Combination: Rolowees, Pair ( Td Tc Qc Jh 9c )
+Wins: Ma, chips: 40
+Wins: Rolowees, chips: 40
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Ma
+Small Blind: Rolowees, chips: 10
+Big Blind: Veevamu, chips: 20
+Calls: Cheerlinas
+Calls: Ma
+Raises: Rolowees, chips: 30
+Folds: Veevamu
+Calls: Cheerlinas
+Calls: Ma
+Flop: Th Ah 6s
+Raises: Rolowees, chips: 60
+Calls: Cheerlinas
+Turn: 2h
+Raises: Rolowees, chips: 180
+Calls: Cheerlinas
+River: 4c
+Raises: Rolowees, chips: 540
+Raises: Cheerlinas, chips: 1600
+Raises: Rolowees, chips: 2170
+Calls: Cheerlinas
+Pot size: 7980
+Showdown Reached
+Shows: Ma, Jd Qd
+Combination: Ma, High Card ( Ah Qd Jd Th 6s )
+Shows: Rolowees, 9d As
+Combination: Rolowees, Pair ( As Ah Th 9d 6s )
+Shows: Cheerlinas, Ad 4d
+Combination: Cheerlinas, Two Pair ( Ad Ah 4d 4c Th )
+Wins: Rolowees, chips: 1280
+Wins: Cheerlinas, chips: 6700
+Quits: Ma, chips: 0
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Rolowees
+Small Blind: Veevamu, chips: 10
+Big Blind: Cheerlinas, chips: 20
+Folds: Rolowees
+Folds: Veevamu
+Pot size: 30
+Wins: Cheerlinas, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Veevamu
+Small Blind: Cheerlinas, chips: 10
+Big Blind: Rolowees, chips: 20
+Calls: Veevamu
+Folds: Cheerlinas
+Raises: Rolowees, chips: 20
+Calls: Veevamu
+Flop: Kd 9c 5h
+Raises: Rolowees, chips: 40
+Raises: Veevamu, chips: 100
+Calls: Rolowees
+Turn: 3h
+Raises: Rolowees, chips: 100
+Calls: Veevamu
+River: 7d
+Raises: Rolowees, chips: 100
+Folds: Veevamu
+Pot size: 670
+Wins: Rolowees, chips: 670
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheerlinas
+Small Blind: Rolowees, chips: 10
+Big Blind: Veevamu, chips: 20
+Calls: Cheerlinas
+Raises: Rolowees, chips: 60
+Folds: Veevamu
+Folds: Cheerlinas
+Pot size: 120
+Wins: Rolowees, chips: 120
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Rolowees
+Small Blind: Veevamu, chips: 10
+Big Blind: Cheerlinas, chips: 20
+Folds: Rolowees
+Folds: Veevamu
+Pot size: 30
+Wins: Cheerlinas, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Veevamu
+Small Blind: Cheerlinas, chips: 10
+Big Blind: Rolowees, chips: 20
+Folds: Veevamu
+Folds: Cheerlinas
+Pot size: 30
+Wins: Rolowees, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheerlinas
+Small Blind: Rolowees, chips: 10
+Big Blind: Veevamu, chips: 20
+Raises: Cheerlinas, chips: 20
+Calls: Rolowees
+Folds: Veevamu
+Flop: Td Qh 9s
+Raises: Rolowees, chips: 20
+Raises: Cheerlinas, chips: 6620
+Calls: Rolowees
+Turn: As
+River: 2s
+Pot size: 8320
+Showdown Reached
+Shows: Rolowees, Tc 7h
+Combination: Rolowees, Pair ( Tc Td As Qh 9s )
+Shows: Cheerlinas, Kc Jc
+Combination: Cheerlinas, Straight ( As Kc Qh Jc Td )
+Wins: Cheerlinas, chips: 8320
+Quits: Rolowees, chips: 0
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Veevamu
+Small Blind: Veevamu, chips: 10
+Big Blind: Cheerlinas, chips: 20
+Folds: Veevamu
+Pot size: 30
+Wins: Cheerlinas, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheerlinas
+Small Blind: Cheerlinas, chips: 10
+Big Blind: Veevamu, chips: 20
+Folds: Cheerlinas
+Pot size: 30
+Wins: Veevamu, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Veevamu
+Small Blind: Veevamu, chips: 10
+Big Blind: Cheerlinas, chips: 20
+Folds: Veevamu
+Pot size: 30
+Wins: Cheerlinas, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheerlinas
+Small Blind: Cheerlinas, chips: 10
+Big Blind: Veevamu, chips: 20
+Folds: Cheerlinas
+Pot size: 30
+Wins: Veevamu, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Veevamu
+Small Blind: Veevamu, chips: 10
+Big Blind: Cheerlinas, chips: 20
+Folds: Veevamu
+Pot size: 30
+Wins: Cheerlinas, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheerlinas
+Small Blind: Cheerlinas, chips: 10
+Big Blind: Veevamu, chips: 20
+Calls: Cheerlinas
+Checks: Veevamu
+Flop: Td 7d 9c
+Checks: Veevamu
+Checks: Cheerlinas
+Turn: 9h
+Checks: Veevamu
+Checks: Cheerlinas
+River: Jh
+Checks: Veevamu
+Checks: Cheerlinas
+Pot size: 40
+Showdown Reached
+Shows: Veevamu, Qc 9d
+Combination: Veevamu, Three Of A Kind ( 9d 9c 9h Qc Jh )
+Shows: Cheerlinas, 5d 8d
+Combination: Cheerlinas, Straight ( Jh Td 9c 8d 7d )
+Wins: Cheerlinas, chips: 40
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Veevamu
+Small Blind: Veevamu, chips: 10
+Big Blind: Cheerlinas, chips: 20
+Calls: Veevamu
+Checks: Cheerlinas
+Flop: 5c 2d Kh
+Checks: Cheerlinas
+Checks: Veevamu
+Turn: Kd
+Checks: Cheerlinas
+Raises: Veevamu, chips: 20
+Folds: Cheerlinas
+Pot size: 60
+Wins: Veevamu, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheerlinas
+Small Blind: Cheerlinas, chips: 10
+Big Blind: Veevamu, chips: 20
+Calls: Cheerlinas
+Checks: Veevamu
+Flop: 5s Js 2s
+Checks: Veevamu
+Checks: Cheerlinas
+Turn: 7h
+Checks: Veevamu
+Checks: Cheerlinas
+River: 2h
+Raises: Veevamu, chips: 650
+Calls: Cheerlinas
+Pot size: 1340
+Showdown Reached
+Shows: Veevamu, Ah Jh
+Combination: Veevamu, Two Pair ( Jh Js 2s 2h Ah )
+Shows: Cheerlinas, As 9c
+Combination: Cheerlinas, Pair ( 2s 2h As Js 9c )
+Wins: Veevamu, chips: 1340
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Veevamu
+Small Blind: Veevamu, chips: 10
+Big Blind: Cheerlinas, chips: 20
+Folds: Veevamu
+Pot size: 30
+Wins: Cheerlinas, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheerlinas
+Small Blind: Cheerlinas, chips: 10
+Big Blind: Veevamu, chips: 20
+Raises: Cheerlinas, chips: 30
+Folds: Veevamu
+Pot size: 70
+Wins: Cheerlinas, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Veevamu
+Small Blind: Veevamu, chips: 10
+Big Blind: Cheerlinas, chips: 20
+Folds: Veevamu
+Pot size: 30
+Wins: Cheerlinas, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheerlinas
+Small Blind: Cheerlinas, chips: 10
+Big Blind: Veevamu, chips: 20
+Calls: Cheerlinas
+Checks: Veevamu
+Flop: 8c 7d Kc
+Checks: Veevamu
+Checks: Cheerlinas
+Turn: 8h
+Checks: Veevamu
+Raises: Cheerlinas, chips: 20
+Folds: Veevamu
+Pot size: 60
+Wins: Cheerlinas, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Veevamu
+Small Blind: Veevamu, chips: 10
+Big Blind: Cheerlinas, chips: 20
+Calls: Veevamu
+Raises: Cheerlinas, chips: 20
+Calls: Veevamu
+Flop: 8h Js 9c
+Checks: Cheerlinas
+Checks: Veevamu
+Turn: Kd
+Checks: Cheerlinas
+Checks: Veevamu
+River: 3h
+Checks: Cheerlinas
+Checks: Veevamu
+Pot size: 80
+Showdown Reached
+Shows: Veevamu, Jd Ac
+Combination: Veevamu, Pair ( Jd Js Ac Kd 9c )
+Shows: Cheerlinas, Kc Ad
+Combination: Cheerlinas, Pair ( Kc Kd Ad Js 9c )
+Wins: Cheerlinas, chips: 80
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheerlinas
+Small Blind: Cheerlinas, chips: 10
+Big Blind: Veevamu, chips: 20
+Folds: Cheerlinas
+Pot size: 30
+Wins: Veevamu, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Veevamu
+Small Blind: Veevamu, chips: 10
+Big Blind: Cheerlinas, chips: 20
+Folds: Veevamu
+Pot size: 30
+Wins: Cheerlinas, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheerlinas
+Small Blind: Cheerlinas, chips: 10
+Big Blind: Veevamu, chips: 20
+Folds: Cheerlinas
+Pot size: 30
+Wins: Veevamu, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Veevamu
+Small Blind: Veevamu, chips: 10
+Big Blind: Cheerlinas, chips: 20
+Calls: Veevamu
+Checks: Cheerlinas
+Flop: Kd Ad 8s
+Checks: Cheerlinas
+Checks: Veevamu
+Turn: Jc
+Checks: Cheerlinas
+Raises: Veevamu, chips: 20
+Folds: Cheerlinas
+Pot size: 60
+Wins: Veevamu, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheerlinas
+Small Blind: Cheerlinas, chips: 10
+Big Blind: Veevamu, chips: 20
+Calls: Cheerlinas
+Checks: Veevamu
+Flop: 4d 2d 8h
+Checks: Veevamu
+Checks: Cheerlinas
+Turn: 3c
+Checks: Veevamu
+Checks: Cheerlinas
+River: Kh
+Raises: Veevamu, chips: 20
+Folds: Cheerlinas
+Pot size: 60
+Wins: Veevamu, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Veevamu
+Small Blind: Veevamu, chips: 10
+Big Blind: Cheerlinas, chips: 20
+Folds: Veevamu
+Pot size: 30
+Wins: Cheerlinas, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheerlinas
+Small Blind: Cheerlinas, chips: 10
+Big Blind: Veevamu, chips: 20
+Folds: Cheerlinas
+Pot size: 30
+Wins: Veevamu, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Veevamu
+Small Blind: Veevamu, chips: 10
+Big Blind: Cheerlinas, chips: 20
+Folds: Veevamu
+Pot size: 30
+Wins: Cheerlinas, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheerlinas
+Small Blind: Cheerlinas, chips: 10
+Big Blind: Veevamu, chips: 20
+Folds: Cheerlinas
+Pot size: 30
+Wins: Veevamu, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Veevamu
+Small Blind: Veevamu, chips: 10
+Big Blind: Cheerlinas, chips: 20
+Folds: Veevamu
+Pot size: 30
+Wins: Cheerlinas, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheerlinas
+Small Blind: Cheerlinas, chips: 10
+Big Blind: Veevamu, chips: 20
+Folds: Cheerlinas
+Pot size: 30
+Wins: Veevamu, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Veevamu
+Small Blind: Veevamu, chips: 10
+Big Blind: Cheerlinas, chips: 20
+Folds: Veevamu
+Pot size: 30
+Wins: Cheerlinas, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheerlinas
+Small Blind: Cheerlinas, chips: 10
+Big Blind: Veevamu, chips: 20
+Folds: Cheerlinas
+Pot size: 30
+Wins: Veevamu, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Veevamu
+Small Blind: Veevamu, chips: 10
+Big Blind: Cheerlinas, chips: 20
+Raises: Veevamu, chips: 30
+Folds: Cheerlinas
+Pot size: 70
+Wins: Veevamu, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheerlinas
+Small Blind: Cheerlinas, chips: 10
+Big Blind: Veevamu, chips: 20
+Calls: Cheerlinas
+Checks: Veevamu
+Flop: 3s Jh 6s
+Checks: Veevamu
+Checks: Cheerlinas
+Turn: Kd
+Raises: Veevamu, chips: 20
+Calls: Cheerlinas
+River: 9s
+Raises: Veevamu, chips: 20
+Calls: Cheerlinas
+Pot size: 120
+Showdown Reached
+Shows: Veevamu, 9h Jd
+Combination: Veevamu, Two Pair ( Jd Jh 9h 9s Kd )
+Shows: Cheerlinas, 5h 6c
+Combination: Cheerlinas, Pair ( 6c 6s Kd Jh 9s )
+Wins: Veevamu, chips: 120
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Veevamu
+Small Blind: Veevamu, chips: 10
+Big Blind: Cheerlinas, chips: 20
+Folds: Veevamu
+Pot size: 30
+Wins: Cheerlinas, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheerlinas
+Small Blind: Cheerlinas, chips: 10
+Big Blind: Veevamu, chips: 20
+Calls: Cheerlinas
+Checks: Veevamu
+Flop: 3h Ah 6h
+Checks: Veevamu
+Checks: Cheerlinas
+Turn: 3d
+Checks: Veevamu
+Checks: Cheerlinas
+River: 9h
+Checks: Veevamu
+Checks: Cheerlinas
+Pot size: 40
+Showdown Reached
+Shows: Veevamu, Js 2c
+Combination: Veevamu, Pair ( 3h 3d Ah Js 9h )
+Shows: Cheerlinas, 8s Jd
+Combination: Cheerlinas, Pair ( 3h 3d Ah Jd 9h )
+Wins: Veevamu, chips: 20
+Wins: Cheerlinas, chips: 20
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Veevamu
+Small Blind: Veevamu, chips: 10
+Big Blind: Cheerlinas, chips: 20
+Folds: Veevamu
+Pot size: 30
+Wins: Cheerlinas, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheerlinas
+Small Blind: Cheerlinas, chips: 10
+Big Blind: Veevamu, chips: 20
+Raises: Cheerlinas, chips: 30
+Folds: Veevamu
+Pot size: 70
+Wins: Cheerlinas, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Veevamu
+Small Blind: Veevamu, chips: 10
+Big Blind: Cheerlinas, chips: 20
+Folds: Veevamu
+Pot size: 30
+Wins: Cheerlinas, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheerlinas
+Small Blind: Cheerlinas, chips: 10
+Big Blind: Veevamu, chips: 20
+Folds: Cheerlinas
+Pot size: 30
+Wins: Veevamu, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Veevamu
+Small Blind: Veevamu, chips: 10
+Big Blind: Cheerlinas, chips: 20
+Folds: Veevamu
+Pot size: 30
+Wins: Cheerlinas, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheerlinas
+Small Blind: Cheerlinas, chips: 10
+Big Blind: Veevamu, chips: 20
+Folds: Cheerlinas
+Pot size: 30
+Wins: Veevamu, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Veevamu
+Small Blind: Veevamu, chips: 10
+Big Blind: Cheerlinas, chips: 20
+Calls: Veevamu
+Checks: Cheerlinas
+Flop: 8h 4h 2s
+Checks: Cheerlinas
+Checks: Veevamu
+Turn: Kc
+Checks: Cheerlinas
+Raises: Veevamu, chips: 20
+Folds: Cheerlinas
+Pot size: 60
+Wins: Veevamu, chips: 60
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheerlinas
+Small Blind: Cheerlinas, chips: 10
+Big Blind: Veevamu, chips: 20
+Raises: Cheerlinas, chips: 30
+Folds: Veevamu
+Pot size: 70
+Wins: Cheerlinas, chips: 70
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Veevamu
+Small Blind: Veevamu, chips: 10
+Big Blind: Cheerlinas, chips: 20
+Calls: Veevamu
+Checks: Cheerlinas
+Flop: 7s Kd Jd
+Checks: Cheerlinas
+Checks: Veevamu
+Turn: 2s
+Raises: Cheerlinas, chips: 20
+Calls: Veevamu
+River: 6c
+Checks: Cheerlinas
+Checks: Veevamu
+Pot size: 80
+Showdown Reached
+Shows: Veevamu, 5c 7c
+Combination: Veevamu, Pair ( 7c 7s Kd Jd 6c )
+Shows: Cheerlinas, Qd 9h
+Combination: Cheerlinas, High Card ( Kd Qd Jd 9h 7s )
+Wins: Veevamu, chips: 80
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheerlinas
+Small Blind: Cheerlinas, chips: 10
+Big Blind: Veevamu, chips: 20
+Folds: Cheerlinas
+Pot size: 30
+Wins: Veevamu, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Veevamu
+Small Blind: Veevamu, chips: 10
+Big Blind: Cheerlinas, chips: 20
+Calls: Veevamu
+Raises: Cheerlinas, chips: 20
+Calls: Veevamu
+Flop: Kc Qh 4d
+Checks: Cheerlinas
+Checks: Veevamu
+Turn: 7s
+Checks: Cheerlinas
+Checks: Veevamu
+River: 3h
+Checks: Cheerlinas
+Checks: Veevamu
+Pot size: 80
+Showdown Reached
+Shows: Veevamu, Th As
+Combination: Veevamu, High Card ( As Kc Qh Th 7s )
+Shows: Cheerlinas, Jh Ac
+Combination: Cheerlinas, High Card ( Ac Kc Qh Jh 7s )
+Wins: Cheerlinas, chips: 80
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheerlinas
+Small Blind: Cheerlinas, chips: 10
+Big Blind: Veevamu, chips: 20
+Folds: Cheerlinas
+Pot size: 30
+Wins: Veevamu, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Veevamu
+Small Blind: Veevamu, chips: 10
+Big Blind: Cheerlinas, chips: 20
+Folds: Veevamu
+Pot size: 30
+Wins: Cheerlinas, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Cheerlinas
+Small Blind: Cheerlinas, chips: 10
+Big Blind: Veevamu, chips: 20
+Folds: Cheerlinas
+Pot size: 30
+Wins: Veevamu, chips: 30
+New deal. SB: 10 BB: 20 Ante: 0
+Dealer: Veevamu
+Small Blind: Veevamu, chips: 10
+Big Blind: Cheerlinas, chips: 20
+Calls: Veevamu
+Checks: Cheerlinas
+Flop: Jc Jh 4h
+Checks: Cheerlinas
+Checks: Veevamu
+Turn: 2d
+Raises: Cheerlinas, chips: 7630
+Calls: Veevamu
+River: 2h
+Pot size: 9000
+Showdown Reached
+Shows: Veevamu, 4c 4s
+Combination: Veevamu, Full House ( 4c 4s 4h Jc Jh )
+Shows: Cheerlinas, 8c Jd
+Combination: Cheerlinas, Full House ( Jd Jc Jh 2d 2h )
+Wins: Cheerlinas, chips: 9000
+Quits: Veevamu, chips: 0
+Ranking: Cheerlinas, Place: 1, Score: 8000
+Reveal AI: Cheerlinas, AI: Smart
+Ranking: Veevamu, Place: 2, Score: -1000
+Reveal AI: Veevamu, AI: Smart
+Ranking: Rolowees, Place: 3, Score: -1000
+Reveal AI: Rolowees, AI: Human
+Ranking: Ma, Place: 4, Score: -1000
+Reveal AI: Ma, AI: Smart
+Ranking: Toeloel, Place: 5, Score: -1000
+Reveal AI: Toeloel, AI: Smart
+Ranking: Vee, Place: 6, Score: -1000
+Reveal AI: Vee, AI: Random
+Ranking: Geepu, Place: 7, Score: -1000
+Reveal AI: Geepu, AI: Call
+Ranking: Feweenny, Place: 8, Score: -1000
+Reveal AI: Feweenny, AI: Call
+Ranking: Rubap, Place: 9, Score: -1000
+Reveal AI: Rubap, AI: Random
+
+Player Stats for Cheerlinas, AI: Smart
+General: deals: 150, actions: 289, preflop actions: 158
+Rounds Seen: flops: 49, turns: 41, rivers: 25, showdowns: 21
+Wins: total: 43, showdown: 16, bluff: 27
+Chips: won: 48790, lost: 42920, bought: 1000, forced bets: 1430
+Pre-Flop Stats: VP$IP: 0.3, PFR: 0.0933333, 3Bet: 0.06
+Post-Flop Stats: AF: 0.809524, WSD: 0.428571, WSDW: 0.761905
+
+
+Player Stats for Feweenny, AI: Call
+General: deals: 1, actions: 3, preflop actions: 3
+Rounds Seen: flops: 82, turns: 71, rivers: 50, showdowns: 40
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 20
+Pre-Flop Stats: VP$IP: 1, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 0.487805, WSDW: 0
+
+
+Player Stats for Geepu, AI: Call
+General: deals: 1, actions: 4, preflop actions: 4
+Rounds Seen: flops: 82, turns: 71, rivers: 50, showdowns: 40
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 0
+Pre-Flop Stats: VP$IP: 1, PFR: 0, 3Bet: 0
+Post-Flop Stats: AF: -1.#IND, WSD: 0.487805, WSDW: 0
+
+
+Player Stats for Ma, AI: Smart
+General: deals: 99, actions: 204, preflop actions: 123
+Rounds Seen: flops: 49, turns: 40, rivers: 28, showdowns: 21
+Wins: total: 17, showdown: 8, bluff: 9
+Chips: won: 4470, lost: 5670, bought: 1000, forced bets: 720
+Pre-Flop Stats: VP$IP: 0.40404, PFR: 0.10101, 3Bet: 0.0606061
+Post-Flop Stats: AF: 0.545455, WSD: 0.428571, WSDW: 0.380952
+
+
+Player Stats for Rolowees, AI: Human
+General: deals: 105, actions: 251, preflop actions: 122
+Rounds Seen: flops: 71, turns: 61, rivers: 43, showdowns: 35
+Wins: total: 66, showdown: 15, bluff: 51
+Chips: won: 39420, lost: 46950, bought: 1000, forced bets: 780
+Pre-Flop Stats: VP$IP: 0.733333, PFR: 0.419048, 3Bet: 0.295238
+Post-Flop Stats: AF: 5.05556, WSD: 0.492958, WSDW: 0.428571
+
+
+Player Stats for Rubap, AI: Random
+General: deals: 1, actions: 3, preflop actions: 3
+Rounds Seen: flops: 82, turns: 71, rivers: 50, showdowns: 40
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1000, bought: 1000, forced bets: 10
+Pre-Flop Stats: VP$IP: 1, PFR: 1, 3Bet: 1
+Post-Flop Stats: AF: -1.#IND, WSD: 0.487805, WSDW: 0
+
+
+Player Stats for Toeloel, AI: Smart
+General: deals: 16, actions: 33, preflop actions: 20
+Rounds Seen: flops: 77, turns: 66, rivers: 46, showdowns: 36
+Wins: total: 2, showdown: 1, bluff: 1
+Chips: won: 200, lost: 1430, bought: 1000, forced bets: 90
+Pre-Flop Stats: VP$IP: 0.375, PFR: 0.0625, 3Bet: 0.0625
+Post-Flop Stats: AF: 2, WSD: 0.467532, WSDW: 0.0277778
+
+
+Player Stats for Vee, AI: Random
+General: deals: 5, actions: 11, preflop actions: 7
+Rounds Seen: flops: 79, turns: 68, rivers: 48, showdowns: 38
+Wins: total: 0, showdown: 0, bluff: 0
+Chips: won: 0, lost: 1690, bought: 1000, forced bets: 10
+Pre-Flop Stats: VP$IP: 0.4, PFR: 0.2, 3Bet: 0.2
+Post-Flop Stats: AF: 0, WSD: 0.481013, WSDW: 0
+
+
+Player Stats for Veevamu, AI: Smart
+General: deals: 150, actions: 271, preflop actions: 151
+Rounds Seen: flops: 44, turns: 39, rivers: 28, showdowns: 21
+Wins: total: 34, showdown: 12, bluff: 22
+Chips: won: 15460, lost: 22760, bought: 1000, forced bets: 1440
+Pre-Flop Stats: VP$IP: 0.28, PFR: 0.06, 3Bet: 0.0533333
+Post-Flop Stats: AF: 1.22222, WSD: 0.477273, WSDW: 0.571429
+
+
